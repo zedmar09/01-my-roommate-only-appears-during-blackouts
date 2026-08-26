@@ -6,7 +6,11 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 3 as PNG. Save it
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 3 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; preserve prior Nari and apartment designs.
+Use `../../../characters.md` and `../../style-guide.md`; preserve approved Page 2 for environment/rendering continuity.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. That reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 2 controls page-to-page apartment/rendering continuity only; it cannot override canonical identity. This page prompt controls Nari's current pose, expression, home wardrobe, actions, props, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +26,7 @@ POWER AND SUPERNATURAL RULE LOCK
 During one brief ordinary-power flicker, nonphysical Hyun-woo can speak through the powered speaker. His signal is clean cyan-white with minimal static and no crawling black pixels. He does not become physical.
 
 CHARACTER CONSISTENCY
-Nari is the same 30-year-old Korean game designer; at home she wears an oversized hoodie and loose black trousers, yellow scrunchie visible, headphones nearby/around neck, beauty mark preserved.
+Nari is the SAME approved canonical 30-year-old Korean game designer. At home she wears an oversized hoodie and loose black trousers, yellow scrunchie visible, headphones nearby/around neck, beauty mark preserved. Match the approved flat-2D canonical reference; do not invent a new face or hair shape.
 
 SETTING AND PROP CONTINUITY
 One week after move-in. Binder remains on kitchen counter and brass key remains in entry tray. At night Nari holds cup noodles and chopsticks; chopsticks land on the floor when startled. Speaker begins plugged in and ends unplugged on the counter.
@@ -88,5 +92,5 @@ STORY CLARITY
 The reader must understand one week passed, the daytime examples end before `THAT NIGHT`, the apartment is obnoxiously automated, a different male voice answers during a brief flicker, and Nari unplugs the speaker.
 
 AVOID
-Avoid missing, numbered, or decorated time-card gutters; random thermostat values; physical Hyun-woo; hostile signature; oversized speaker; missing cord/plug action; glossy/cinematic rendering; reflections; extra text; and flashbacks.
+Avoid any Nari identity drift, long black hair, generic replacement face, missing/numbered/decorated time-card gutters, random thermostat values, physical Hyun-woo, hostile signature, oversized speaker, missing cord/plug action, glossy/cinematic rendering, reflections, extra text, and flashbacks.
 ```
