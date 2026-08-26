@@ -39,7 +39,7 @@ Do NOT recast, beautify, simplify, redesign, average, or reinterpret either char
 Do NOT use the old legacy/cinematic cover as an active reference.
 Do NOT use rejected/drifted covers as identity authority.
 
-If correcting a rejected cover, preserve the successful character identities, close roommate/protector pose relationship, simplified uncluttered composition, upper-title placement, no-food rule, and plain brass key if present. Do NOT preserve failed hands, extra text, gritty texture, distressed title treatment, lightning symbols, storm lightning, or other rejected elements.
+If correcting a rejected cover, preserve the successful character identities, close roommate/protector pose relationship, simplified composition, and upper-title placement. Do NOT preserve failed hands, extra text, title distress, lightning symbols, storm lightning, gritty rendering, or other rejected elements.
 
 ==================================================
 2. COVER PURPOSE / FORMAT
@@ -71,73 +71,63 @@ Visual priority:
 1. Story title
 2. Nari
 3. Hyun-woo
-4. A few simple blackout/electricity symbols
+4. Minimal blackout/device atmosphere
 
-Do NOT build a cluttered evidence-wall collage.
-Do NOT fill the foreground with many props.
-Do NOT use a desk/table full of objects.
-Do NOT use a wall covered with papers, notes, diagrams, labels, photographs, or documents.
+Nari: foreground left or center-left.
+Hyun-woo: close beside or slightly behind/right of Nari.
+They should feel visually close enough to communicate impossible-roommate / protective-romance tension.
 
-Nari should be foreground/left or center-left.
-Hyun-woo should be beside or slightly behind/right of her.
-They should feel close enough to communicate impossible-roommate / protective-romance tension.
+Background may contain ONLY:
+- flat dark apartment wall/window shapes
+- simple dark Seoul building silhouettes outside
+- a small number of flat city-light dots/rectangles
+- at most TWO simple dead smart-home devices
+- optional ONE plain brass key as a small story symbol
 
-Use a simplified matte blackout-apartment background with:
-- dark-panel window shapes
-- simple city-light dots outside
-- one or two dead smart-home devices maximum
-- optional simple candle in a holder
-- optional plain brass key as one small story symbol
-
-Do NOT show the electrical manual/binder on the story cover.
-Do NOT show wall papers or evidence notes.
+DO NOT show:
+- desk/table clutter
+- evidence wall
+- paper notes
+- diagrams
+- books
+- electrical manual/binder
+- tablet/notebook/laptop
+- food
+- candle
+- lantern
+- glass holder
+- large prop pile
+- exposed cable pile
 
 ==================================================
 4. NO FOOD / NO NOODLES — ABSOLUTE
 ==================================================
 
-Do NOT show any food.
+Do NOT show any food, including noodles, ramen, cups, packets, bowls, cooking pots, chopsticks with food, food containers, food packaging, or substitute meal props.
 
-NO:
-- noodles
-- ramen
-- noodle cups
-- noodle packets
-- bowls of food
-- food pots
-- chopsticks with food
-- food containers
-- food packaging
-- substitute meal props
-
-The noodle scene remains in Chapter 1 but is intentionally excluded from the cover.
+The noodle scene remains in Chapter 1 but is intentionally excluded from the story cover.
 
 ==================================================
-5. NARI HANDS — NO HANDHELD WORK PROP
+5. NARI HANDS — SIMPLEST POSSIBLE POSE
 ==================================================
 
-Do NOT place a tablet, notebook, laptop, stylus, pen, pencil, marker, phone, or other handheld work/writing device in Nari's hands on the cover.
+Do NOT place a tablet, notebook, laptop, phone, stylus, pen, pencil, marker, key, or any small handheld object in Nari's hands.
 
-Use only SIMPLE LOW-RISK hand poses.
+Use this preferred hand staging:
+- ONE visible hand supports/rests naturally against her cheek with a clear wrist/forearm connection.
+- The OTHER hand is FULLY HIDDEN by her bent knee, jacket, body, or crop and must not be exposed as a second detailed hand.
 
-Preferred Nari pose:
-- one hand supports/rests against her cheek with a natural wrist connection
-- the other hand is either mostly hidden by her lap/jacket OR rests simply on her knee with relaxed fingers kept close together
+Do not show a second open resting hand on her knee.
+Do not splay fingers.
+Do not use long thin fashion-model fingers.
+Do not make either hand a focal point.
 
-Do NOT splay the fingers widely.
-Do NOT make long thin fashion-model fingers.
-Do NOT make the second hand a focal point.
-Do NOT make her grip any small object.
-Do NOT place her hand ambiguously behind an object.
-
-Every visible hand must have normal adult five-finger anatomy with a clear wrist/forearm connection.
-If a hand cannot be rendered cleanly, use physically believable occlusion rather than exposing malformed fingers.
+The one visible cheek-supporting hand must read as a normal adult five-finger hand, even if some fingers are naturally hidden by cheek/hair perspective.
 
 ABSOLUTELY NO:
 - extra fingers
 - duplicated fingers
-- fused fingers
-- melted fingers
+- fused/melted fingers
 - stacked finger shapes
 - visibly missing digits caused by malformed anatomy
 - excessively elongated fingers
@@ -148,7 +138,7 @@ ABSOLUTELY NO:
 - object passing through palm/fingers
 - duplicated hands/arms
 
-Hyun-woo's visible hands must obey the same anatomy rule.
+Hyun-woo's hands should preferably remain naturally off-frame/behind his body. If any hand is visible, it must obey the same anatomy rule.
 
 ==================================================
 6. TITLE — ONLY READABLE TEXT
@@ -172,12 +162,11 @@ Specifically forbidden outside the title:
 - ELECTRICAL ANOMALY
 - Korean words
 - English words
-- key-tag numbers
 - wall labels
 - device text
 - diagram numbers
 
-If any small environmental graphic is needed, use only abstract non-readable shapes/icons.
+If any environmental graphic is needed, use only abstract non-readable shapes/icons.
 
 ==================================================
 7. TITLE POSITION — HARD LOCK
@@ -185,98 +174,92 @@ If any small environmental graphic is needed, use only abstract non-readable sha
 
 Place the complete three-line title in the UPPER PORTION / UPPER THIRD, approximately upper 25–35% of the canvas.
 
-Do not cover:
-- Nari's face or hair
-- Hyun-woo's eyes or mask
-
+Do not cover Nari's face/hair or Hyun-woo's eyes/mask.
 Do not place the complete title across lower torsos or the lower half of the cover.
 
 ==================================================
-8. TITLE DESIGN — CLEAN SOLID LETTERS + EXTERNAL CIRCUIT NODES
+8. TITLE DESIGN — PLAIN SOLID LETTERS; ELECTRICITY OUTSIDE ONLY
 ==================================================
 
-Use custom hand-drawn cover lettering integrated with the electricity theme, but every title letter must remain CLEAN, SOLID, and UNDAMAGED.
+The three title lines must use custom hand-drawn display lettering, but the letterforms themselves are PLAIN, CLEAN, SOLID, and UNDAMAGED.
 
 MY ROOMMATE:
-- bold matte off-white/light neutral
-- perfectly clean solid-fill letters
-- modern adult manhwa display lettering
+- matte off-white/light neutral
+- smooth solid-fill letters
 
 ONLY APPEARS DURING:
 - smaller supporting line
-- compact and fully readable
-- perfectly clean solid-fill letters
+- muted lavender or pale neutral
+- smooth solid-fill letters
 
 BLACKOUTS:
-- largest element
-- slightly more geometric/electrical
-- perfectly clean solid matte fill
+- largest line
+- muted lavender/pale electric-neutral
+- smooth solid-fill letters
+- normal readable letter shapes
 
-CRITICAL TITLE FACE RULE:
-Treat the title like clean flat vector-style ink shapes. The face and edges of every letter must be smooth and intact.
+ABSOLUTE LETTER-FACE RULE:
+Every title letter must look like a clean flat vector/ink silhouette.
 
-NO texture inside letters.
-NO speckles inside letters.
-NO chipped edges.
+The interior of EVERY letter must contain ONLY one solid color.
+The edges of EVERY letter must be smooth and intact.
+
+NO internal icon.
+NO lightning icon.
+NO circuit trace inside a letter.
+NO line cutting through a letter.
+NO gap cut into a letter.
+NO missing chunk.
+NO crack.
+NO chip.
+NO speckle.
+NO scratch.
+NO distress.
+NO grunge.
 NO erosion.
-NO cracks.
-NO scratches.
-NO distressed/grunge effect.
 NO weathering.
-NO broken stroke.
-NO missing chunks.
+NO texture.
 
-Electricity-theme integration is allowed ONLY through a few SMALL EXTERNAL circuit-node decorations located beside or just outside selected letters:
-- 2–4 short thin circuit lines total around the whole title
-- tiny circular nodes at line ends
-- at most one tiny abstract breaker/switch mark beside the title
-- optional very restrained pale cyan-white or muted lavender flat accents
+IMPORTANT O-LETTER RULE:
+- Every `O` in the title must be an ordinary clean `O` with only its normal central counter/opening.
+- Do NOT place a lightning bolt, power icon, breaker icon, circuit symbol, slash, or decorative shape inside any `O`.
 
-These external decorations must NEVER cross through a letter face.
+ELECTRICITY-THEME DECORATION MAY APPEAR ONLY IN THE EMPTY MARGINS AROUND THE TITLE BLOCK:
+- maximum TWO small circuit-node motifs total
+- one may sit to the far left of the title block
+- one may sit to the far right of the title block
+- each motif may use 1–3 thin straight circuit lines with tiny circular nodes
+- optional restrained pale cyan-white or muted lavender flat accent
 
-ABSOLUTELY NO LIGHTNING SYMBOLS IN THE TITLE:
-- no lightning-bolt icon inside `O`
-- no lightning-bolt icon inside any other letter
-- no lightning slash through BLACKOUTS
-- no lightning symbol replacing a stroke
-- no zigzag bolt centered inside the title
-- no branching lightning crossing words
-- no electrical arcs crossing letters
-- no waveform line crossing through letters
-- no sparks
-- no neon glow
-- no RGB glitch
-- no chrome
-- no bevel
-- no embossing
-- no 3D title
-- no cinematic title lighting
+These margin motifs must NOT touch, cross, overlap, enter, cut, or connect directly into any title letter.
 
-The final title should look like CLEAN SOLID CUSTOM LETTERING with sparse external circuit-node accents only.
+NO waveform/electrocardiogram lines through or beside the title.
+NO lightning-bolt motif anywhere in the title block.
+NO branching electricity.
+NO arcs.
+NO sparks.
+NO neon glow.
+NO RGB glitch.
+NO chrome/bevel/emboss/3D.
+NO cinematic title lighting.
+
+The result should read as beautiful clean custom lettering FIRST, with two tiny separate circuit motifs in the margins SECOND.
 
 ==================================================
-9. NO THUNDERSTORM / NO VISIBLE LIGHTNING — HARD STORY CLARITY RULE
+9. NO THUNDERSTORM / NO VISIBLE LIGHTNING
 ==================================================
 
-The blackout must NOT look caused by a thunderstorm.
+The blackout must NOT look caused by weather.
 
 Do NOT show:
-- lightning bolt in the sky
-- lightning strike outside the window
+- lightning bolt in sky
+- lightning strike
 - branching storm lightning
 - thundercloud lightning
 - electric storm around buildings
-- lightning illuminating the skyline
+- lightning illumination in windows/sky
 
-The exterior should be a simple dark Seoul night skyline with some lights missing/dimmed, using flat building silhouettes and small city-light dots.
-
-The electricity theme comes from:
-- title's external circuit-node accents
-- Hyun-woo's matte circuit-sigil tattoos
-- dead smart-home devices
-- power-loss atmosphere
-
-It does NOT come from storm lightning.
+Exterior: simple dark Seoul skyline with some lights missing/dimmed, rendered as flat building silhouettes and tiny flat light dots.
 
 ==================================================
 10. CHARACTER COMPOSITION
@@ -289,13 +272,13 @@ NARI:
 - loose dark trousers
 - headphones around neck
 - yellow scrunchie visible
-- no tablet/notebook/laptop/phone in hands
-- no stylus/pen/pencil/marker
+- no handheld work prop
+- one visible cheek-supporting hand only; second hand hidden
 - tired, observant, skeptical, competent expression
 
 HYUN-WOO:
 - approved canonical identity
-- beside or slightly behind Nari
+- close beside or behind Nari
 - long low-tied black hair clearly visible
 - fitted technical mask clearly visible
 - broad silhouette
@@ -309,27 +292,13 @@ Do not alter either character's face, hair, body type, mask, or tattoo identity.
 11. LIMITED COVER STORY SYMBOLS
 ==================================================
 
-Use only a FEW simple symbols:
-- matte blackout apartment shapes
-- one or two dead smart-home devices maximum
-- optional plain brass physical key with NO numbered tag
-- optional one small candle in a simple holder
-- simple dark city skyline outside the window
-- restrained abstract black-pixel/static marks near a dead device
+Use at most:
+- TWO dead smart-home devices total, with simple icon-only/dark faces
+- optional ONE plain brass key with NO tag/text
+- simple dark window/city silhouettes
+- restrained abstract black-pixel/static marks near one device
 
-Do NOT show:
-- electrical manual/binder
-- wall papers
-- notes
-- evidence boards
-- paper diagrams
-- books
-- labels
-- food
-- cluttered device pile
-- storm lightning
-
-If a device is shown, its screen must be dark or use one simple icon-only battery/power symbol with no letters/numbers.
+DO NOT show any manual, binder, papers, notes, evidence board, book, diagrams, candle, food, writing device, tablet, laptop, or clutter pile.
 
 ==================================================
 12. HYUN-WOO TATTOO CURRENT
@@ -346,37 +315,34 @@ NO light beneath skin.
 NO blue light cast onto characters or environment.
 
 ==================================================
-13. ABSOLUTE VISUAL STYLE — FLAT CEL ONLY
+13. ABSOLUTE VISUAL STYLE — MATCH CANONICAL FLATNESS
 ==================================================
 
 100% FLAT 2D HUMAN-DRAWN COLORED MANGA/MANHWA.
+
+Use the approved Nari and Hyun-woo canonical PNGs as the MAXIMUM rendering-detail ceiling. The cover must NOT be more textured, more realistic, more shaded, more material-detailed, or more cinematic than those character references.
 
 For EVERY visible surface use only:
 1. ONE flat base/local color
 2. OPTIONAL ONE hard-edged cel-shadow color
 3. clean ink linework
 
-No other material modeling.
+No third/fourth tonal modeling.
+No soft tonal blending.
+No material texture overlay.
 
-Required:
-- clean visible ink
-- matte cel colors
-- solid color blocking
-- simple hard-edged shadows
-- readable adult anatomy
-- clean silhouettes
-- simplified matte materials
-- modern supernatural romance manhwa feeling
+Characters:
+- skin = one flat skin tone + optional one hard shadow
+- hair = one flat hair color + optional one hard shadow
+- clothes = one flat fabric color + optional one hard shadow
+- tattoos = matte black line art + tiny flat accent only
 
-Background simplification:
-- walls = flat color shapes
-- curtains = flat shapes + one shadow
-- windows = flat dark shapes
-- city buildings = simple flat silhouettes
-- city lights = small flat dots/rectangles
-- devices = matte silhouettes
-- clothing = flat fabric color + one hard shadow
-- skin = flat natural tone + one hard shadow
+Background:
+- walls = simple flat shapes
+- windows = simple flat dark shapes
+- buildings = simple flat silhouettes
+- city lights = tiny flat dots/rectangles
+- devices = simple matte geometric shapes
 
 ABSOLUTELY NO:
 - glossy webtoon shine
@@ -391,11 +357,12 @@ ABSOLUTELY NO:
 - film grain/noise
 - paper grain
 - weathering
-- realistic scratches
-- metal distress
+- scratches
+- realistic metal distress
 - realistic wood grain
 - fabric weave
 - leather texture
+- pore detail
 - glossy skin/hair/lips
 - chrome
 - reflections
@@ -410,8 +377,9 @@ ABSOLUTELY NO:
 - depth-of-field blur
 - atmospheric haze
 - excessive glow
+- micro-texture/detail overlays
 
-Do NOT make the image more realistic, textured, detailed, or dramatic.
+Do NOT make the cover more realistic, textured, detailed, moody, or dramatic than the canonical character references.
 Make it FLATTER, CLEANER, SIMPLER, and visibly hand-drawn.
 
 ==================================================
@@ -429,21 +397,20 @@ Do NOT reveal Hyun-woo's origin, Black Surge origin, culprit, accident explanati
 1. Nari matches `nari-canonical-flat2d.png` in identity.
 2. Hyun-woo matches `hyunwoo-canonical-flat2d.png` in identity.
 3. Exact full title is in upper 25–35% / upper third.
-4. Every title letter is a clean uninterrupted solid matte shape with smooth intact edges and zero distress/texture/cracks/chips.
-5. Title electricity decoration consists only of sparse EXTERNAL circuit-node accents; no lightning symbol appears inside or through any letter.
-6. The story title is the ONLY readable text anywhere. No UNIT 2407, 2407, wall text, Korean/English prop text, or numbers outside the title.
-7. NO noodles, food, food packaging, or substitute meal props.
-8. NO electrical manual/binder, wall-note collage, evidence papers, paper diagrams, or cluttered foreground prop pile.
-9. Nari holds NO tablet, notebook, laptop, phone, stylus, pen, pencil, marker, or writing implement. Hands use simple low-risk anatomically natural poses.
-10. Every visible hand/limb is anatomically coherent: normal proportions, no extra/fused/duplicated/malformed/elongated digits, natural wrist/forearm connection.
-11. NO visible lightning bolt, lightning strike, branching storm lightning, or thunderstorm effect appears outside the window or anywhere in the scene.
-12. Hyun-woo's tattoos remain mostly matte black with only tiny sparse nonluminous current accents.
-13. Every surface follows ONE BASE COLOR + OPTIONAL ONE HARD CEL-SHADOW + INK; no grit, grain, weathering, scratches, soft shading, realistic material modeling, cinematic darkness, gloss, reflections, photorealism, 3D, painterly rendering, or over-rendering.
-14. No comic panels, gutters, speech bubbles, captions, SFX, page numbers, extra characters, spoilers, watermark, signature, or extra logo.
+4. Every title letter is a smooth uninterrupted solid matte shape with one solid interior color and intact edges; no internal icon, circuit, gap, crack, chip, distress, texture, or lightning symbol.
+5. Every `O` is an ordinary clean `O`; no lightning/power/circuit symbol appears inside it.
+6. Electricity decoration consists of at most TWO small circuit-node motifs placed only in the far left/right margins of the title block and not touching any letters.
+7. The story title is the ONLY readable text anywhere.
+8. NO noodles, food, food packaging, or substitute meal props.
+9. NO manual/binder, papers, notes, evidence collage, diagrams, candle, tablet, laptop, phone, stylus, pen, pencil, marker, or clutter pile appears.
+10. Nari has one visible anatomically natural cheek-supporting hand; her second hand is fully hidden/cropped. No exposed second resting hand.
+11. Every visible hand/limb is anatomically coherent with natural proportions and wrist/forearm connections.
+12. NO visible lightning/thunderstorm effect appears anywhere in the scene.
+13. Hyun-woo's tattoos remain mostly matte black with only tiny sparse nonluminous current accents.
+14. Rendering does not exceed the flatness/detail level of the canonical character PNGs: one base + optional one hard cel-shadow + ink only; no grit, texture, soft shading, cinematic treatment, gloss, reflection, photorealism, 3D, painterly rendering, or over-rendering.
+15. No comic panels, gutters, speech bubbles, captions, SFX, page numbers, extra characters, spoilers, watermark, signature, or extra logo.
 
 ANY ONE FAILURE = REJECT / CORRECT / REGENERATE.
-
-Do not approve a cover merely because it looks dramatic or attractive.
 ```
 
 ## App Metadata
@@ -460,12 +427,11 @@ Yoon Nari rents an unusually cheap smart apartment with one rule: never turn off
 - Attach only `Character-References/nari-canonical-flat2d.png` and `Character-References/hyunwoo-canonical-flat2d.png` as active identity references.
 - Do not attach the legacy/original cover during normal final generation.
 - A rejected current cover may be used only as a loose composition scaffold, never as identity authority.
-- Preserve the successful simplified close-character composition and upper-title placement when useful.
-- Noodles and all food props are intentionally excluded from the story-cover design.
-- Nari must not hold a tablet, notebook, laptop, phone, stylus, pen, pencil, marker, or other handheld work/writing implement on the cover.
-- The electrical manual/binder and wall-note/evidence-paper collage are intentionally excluded from the cover.
-- Title lettering uses perfectly clean solid letters with only sparse external circuit-node accents. No lightning symbol, cracks, distress, broken strokes, or texture inside the title.
-- Do not show a thunderstorm or visible lightning strike outside the window.
+- Preserve the successful close-character composition and upper-title placement when useful.
+- Noodles/food, manuals/papers, writing devices, tablets/laptops, candles, and clutter piles are intentionally excluded from the final cover design.
+- Nari uses one visible cheek-supporting hand; the second hand should be hidden/cropped.
+- Title letters are plain clean solid shapes. Electricity styling is limited to at most two small separate circuit-node motifs in the title margins; nothing may appear inside or cut through a letter.
+- Do not show thunderstorm lightning.
 - The story title is the only permitted readable text inside the cover.
 - Generate PNG first as `story_cover.png`.
 - After QA approval, manually convert the approved PNG to `story_cover.webp`.
