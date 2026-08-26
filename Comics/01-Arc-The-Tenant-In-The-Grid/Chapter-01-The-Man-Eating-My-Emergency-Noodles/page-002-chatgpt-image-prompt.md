@@ -6,7 +6,12 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 2 as PNG. Save it
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 2 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; match approved Page 1 if attached.
+Use `../../../characters.md` and `../../style-guide.md`; match approved Page 1 for page-to-page continuity.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Before final Page 2 generation, attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md` and the APPROVED flat-2D canonical Mrs. Na reference created from `../../../Character-References/mrs-na-canonical-flat2d-chatgpt-image-prompt.md`.
+Those canonical references are the absolute authority for each character's face, age, hair, persistent identifiers, and stable body proportions. Approved Page 1 controls ongoing apartment/rendering continuity only and must never override Nari's canonical identity. This page prompt controls current pose, expression, wardrobe, action, props, dialogue, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +27,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Mrs. Na's powered-night rule uses the apartment's mains-powered hallway lamp. Phone screens do not count. No manifestation or supernatural effect occurs on this page.
 
 CHARACTER CONSISTENCY
-Nari matches Page 1. Mrs. Na is a Korean woman in her late 60s with silver hair in a tight twist, jade earrings, mauve coat, gloves, analog watch, structured handbag already over one shoulder, binder under one arm, and metal key ring.
+Nari is the SAME approved canonical Nari from Page 1. Mrs. Na is the SAME approved canonical Mrs. Na: a Korean woman in her late 60s with silver hair in a tight twist, jade earrings, mauve coat, gloves, analog watch, structured handbag already over one shoulder, binder under one arm, and metal key ring. Do not reinterpret either face from text.
 
 SETTING AND PROP CONTINUITY
 Later on move-in day. Establish Mrs. Na's handbag on arrival. The brass backup key starts attached to her key ring; she detaches it before placing it beside the electrical binder. Remaining ring leaves with her. Nari later moves only the brass key to the entry tray; binder stays on the counter.
@@ -92,5 +97,5 @@ STORY CLARITY
 The reader must understand Mrs. Na arrived after move-in, gave a detached backup key, defined mains light versus phone screen, refused to explain, and physically left.
 
 AVOID
-Avoid a spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, supernatural reveal, glossy/cinematic effects, reflections, extra text, and flashback styling.
+Avoid Nari or Mrs. Na identity drift, a spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, supernatural reveal, glossy/cinematic effects, reflections, extra text, and flashback styling.
 ```
