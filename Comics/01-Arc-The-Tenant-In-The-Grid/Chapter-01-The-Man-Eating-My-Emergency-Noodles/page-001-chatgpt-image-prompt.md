@@ -6,7 +6,12 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 1 as PNG. Save th
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 1 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`. This prompt is self-contained; if an approved prior image is attached, match its faces, linework, palette, appliance designs, and apartment geometry without copying its action.
+Use `../../../characters.md` and `../../style-guide.md`.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Before final Page 1 generation, attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`.
+The approved Nari reference is the absolute authority for Nari's face, eye shape, nose/mouth proportions, adult age, short asymmetrical dark-plum hair silhouette, beauty mark, and stable body proportions. This page prompt controls only her current pose, expression, wardrobe, action, props, and scene.
+There is NO previous interior-page reference for Page 1. Do not attach the legacy/original cover, any rejected/drifted cover, or any unapproved character generation. Page 1 must reproduce the approved canonical Nari identity; it must not invent a new Nari.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +27,7 @@ POWER AND SUPERNATURAL RULE LOCK
 This is ordinary supplied-power time. Do not add supernatural current, hostile pixels, a blackout, or physical Hyun-woo.
 
 CHARACTER CONSISTENCY
-Nari is a Korean woman, age 30, with adult proportions, short asymmetrical dark-plum shag, sharp tired eyes, faint under-eye shadows, a beauty mark beside the left corner of her mouth, yellow scrunchie, headphones around her neck, practical hoodie and utility jacket, loose black trousers, canvas sneakers, stickered tablet, and pixel-ghost bag keychain.
+Nari is the SAME approved canonical Nari: a Korean woman, age 30, with adult proportions, short asymmetrical dark-plum shag, sharp tired eyes, faint under-eye shadows, a beauty mark beside the left corner of her mouth, yellow scrunchie, headphones around her neck, practical hoodie and utility jacket, loose black trousers, canvas sneakers, stickered tablet, and pixel-ghost bag keychain. Do not reinterpret her face or hair from text; match the approved flat-2D canonical reference.
 
 SETTING AND PROP CONTINUITY
 First arrival. Nari has a backpack, tablet, one moving box marked `KITCHEN / DO NOT DROP`, and a small moving cart with two boxes left in the corridor until she returns for them. Speaker is plugged into the kitchen outlet.
@@ -81,5 +86,5 @@ STORY CLARITY
 The reader must understand that Nari physically enters for the first time, the apartment is implausibly good for its rent, and its automated greeting is the first suspicious beat.
 
 AVOID
-Avoid invented objects, changed room geometry, oversized box/speaker/manual, character teleportation, schoolgirl styling, glossy or cinematic treatment, reflections, extra text, flashbacks, spoilers, and unreadable panel order.
+Avoid any Nari identity drift, long black hair, generic replacement face, invented objects, changed room geometry, oversized box/speaker/manual, character teleportation, schoolgirl styling, glossy or cinematic treatment, reflections, extra text, flashbacks, spoilers, and unreadable panel order.
 ```
