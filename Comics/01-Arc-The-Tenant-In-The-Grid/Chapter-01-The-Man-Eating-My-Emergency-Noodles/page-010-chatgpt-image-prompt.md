@@ -6,7 +6,11 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 10 as PNG. Save i
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 10 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; directly continue Page 9.
+Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 9.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. The canonical reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 9 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls blackout-night pose, expression, actions, knife handling, props, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations. Hyun-woo is hidden on this page, so do not reveal or reinterpret his visible identity yet.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +26,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Ordinary unit power remains absent. Battery devices remain dead from hostile interference. Hyun-woo is physically present but stays hidden until Page 11. Thirteen minutes have passed, enough for him to find the accessible pantry kit, manually light gas, boil/cook noodles, and start eating.
 
 CHARACTER CONSISTENCY
-Nari keeps the exact Page 9 blackout-night outfit and adult design.
+Nari is the SAME approved canonical Nari and keeps the exact Page 9 blackout-night outfit and adult design. Do not reinterpret her face or hair from text.
 
 SETTING AND PROP CONTINUITY
 Phone/flashlight/radio remain at desk. Knife begins sheathed in fixed tray with handle toward Nari. She lifts it by handle, draws blade carefully, and leaves empty sheath in tray. Kitchen has: pantry ajar; one short candle missing from tray and burning in ceramic holder on table; matchbox removed; used match on heat-safe rest; gas stove off after use; damp sink; noodle pot on trivet with handle wrapped in separate folded cloth; slurping figure hidden.
@@ -80,5 +84,5 @@ STORY CLARITY
 The reader must understand Nari repeatedly tested devices, thirteen minutes passed, she safely retrieves the established knife, physically reaches the kitchen, and the visible kit/cooktop evidence makes the cooked noodles plausible.
 
 AVOID
-Avoid seven-minute/12:50 timing, loose sheath teleportation, knife blade facing blind hand, giant candle/pot/knife, pot directly on table, candle without holder, physical reveal, crushed black, cinematic glow, extra text, or flashback.
+Avoid Nari identity drift, long black hair, generic replacement face, seven-minute/12:50 timing, loose sheath teleportation, knife blade facing blind hand, giant candle/pot/knife, pot directly on table, candle without holder, Hyun-woo reveal, crushed black, cinematic glow, extra text, or flashback.
 ```
