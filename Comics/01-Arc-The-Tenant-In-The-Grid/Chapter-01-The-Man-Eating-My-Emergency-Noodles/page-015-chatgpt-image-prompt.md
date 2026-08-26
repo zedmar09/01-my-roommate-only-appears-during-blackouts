@@ -6,7 +6,12 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 15 as PNG. Save i
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 15 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; directly continue Page 14 with exact object states.
+Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 14 with exact object states.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md` and the APPROVED flat-2D canonical Hyun-woo reference created from `../../../Character-References/hyunwoo-canonical-flat2d-chatgpt-image-prompt.md`.
+Those canonical references are the absolute authority for each character's face, hair, adult age, persistent identifiers, and stable body proportions. For Hyun-woo they also control the established technical mask, long low-tied hair, broad build, and dense circuit-sigil tattoo map. Approved Page 14 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls current pose, expression, dialogue, slight movement, power-return reaction, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +27,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Hyun-woo remains physical while the unit itself is dark even as city power returns outside. He gives his final line before Unit 2407 power resumes. Once unit lights turn on, next beat shows him already absent. Never show dissolution, particles, portal, network diagram, electricity body, or transformation.
 
 CHARACTER CONSISTENCY
-Nari and Hyun-woo retain exact designs as readable silhouettes/close faces. No tattoo accents once hostile pressure subsides in darkness.
+Nari and Hyun-woo retain the SAME approved canonical designs as readable silhouettes/close faces. No tattoo accents once hostile pressure subsides in darkness. Do not reinterpret either face, hair, mask, build, or tattoo map from text.
 
 SETTING AND PROP CONTINUITY
 Hyun-woo releases Nari's wrist before conversation. Their banter remains short and causal. Nari shields eyes only when unit lights snap on.
@@ -94,5 +99,5 @@ STORY CLARITY
 The reader must understand the clean/broken actor distinction, city systems return before the unit, Hyun-woo is present only while Unit 2407 stays dark, and he is already gone after its lights snap on.
 
 AVOID
-Avoid ceiling lights turning on while Hyun-woo remains visible, transformation imagery, glowing particles, body dissolution, network diagrams, moved props, crushed black, cinematic power flare, extra lore/text, and spoilers.
+Avoid Nari or Hyun-woo identity drift, long-haired Nari, short-haired Hyun-woo, generic replacement faces, generic cloth mask, simplified/new tattoo map, slimmer Hyun-woo recast build, ceiling lights turning on while Hyun-woo remains visible, transformation imagery, glowing particles, body dissolution, network diagrams, moved props, crushed black, cinematic power flare, extra lore/text, and spoilers.
 ```
