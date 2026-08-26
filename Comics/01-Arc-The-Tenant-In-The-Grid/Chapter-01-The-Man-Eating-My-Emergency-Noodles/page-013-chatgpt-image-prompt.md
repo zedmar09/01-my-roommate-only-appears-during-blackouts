@@ -6,7 +6,12 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 13 as PNG. Save i
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 13 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; directly continue Page 12 with exact prop positions.
+Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 12 with exact prop positions.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md` and the APPROVED flat-2D canonical Hyun-woo reference created from `../../../Character-References/hyunwoo-canonical-flat2d-chatgpt-image-prompt.md`.
+Those canonical references are the absolute authority for each character's face, hair, adult age, persistent identifiers, and stable body proportions. For Hyun-woo they also control the established technical mask, long low-tied hair, broad build, and dense circuit-sigil tattoo map. Approved Page 12 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls current pose, expression, movement, blocking, props, dialogue, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +27,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Ordinary power is absent. Hyun-woo is physical. The hostile system uses supernatural current to animate the dead refrigerator; that does not restore power or cancel his body. Its signature is broken stark-white text, doubled glyph edges, crawling black pixels. Hyun-woo's prior clean cyan signature must not appear here.
 
 CHARACTER CONSISTENCY
-Nari and Hyun-woo retain exact blackout designs. Hyun-woo's tattoos are matte-black ink with faint pale blue-white accents, never under-skin veins.
+Nari and Hyun-woo are the SAME approved canonical blackout designs. Hyun-woo's tattoos are the established dense matte-black circuit-sigil ink with faint pale blue-white accents, never under-skin veins. Do not reinterpret either face, hair, mask, build, or tattoo map from text.
 
 SETTING AND PROP CONTINUITY
 Candle, holder, pot, trivet, cloth, open pantry, five noodle packets, knife in Nari's hand, and table remain fixed. Candle bends first. Hyun-woo pushes chair, rises, crosses, and only then blocks refrigerator and warns Nari.
@@ -76,5 +81,5 @@ STORY CLARITY
 The reader must understand the dead refrigerator is being animated by a different actor, Hyun-woo physically moves to protect Nari, and that actor identifies her by name.
 
 AVOID
-Avoid reflective TV/fridge imagery, humanoid silhouette, clean cyan hostile text, appliance redesign, character teleportation, glowing veins, glossy/cinematic lighting, extra lore/text, and spoilers.
+Avoid Nari or Hyun-woo identity drift, long-haired Nari, short-haired Hyun-woo, generic replacement faces, generic cloth mask, simplified/new tattoo map, slimmer Hyun-woo recast build, reflective TV/fridge imagery, humanoid silhouette, clean cyan hostile text, appliance redesign, character teleportation, glowing veins, glossy/cinematic lighting, extra lore/text, and spoilers.
 ```
