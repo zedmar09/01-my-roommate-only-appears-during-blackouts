@@ -1,23 +1,38 @@
 # Chapter 01 Image Generation Checklist
 
-Status: PASS — STORY AND PROMPT PACKAGE READY FOR IMAGE GENERATION
+Status: CONDITIONAL PASS — STORY AND PROMPTS APPROVED; CHARACTER-CONTAINING GENERATION REQUIRES APPROVED FLAT-2D CANONICAL REFERENCES
 
-The independent final audit records a verified pass after the six-item correction cycle. Generate pages only in the numbered order below and reject any output that fails a gate in this checklist.
+The independent final audit records a verified story/prompt pass. Before generating any final asset that contains Nari or Hyun-woo, complete the canonical flat-2D reference preflight below. Front/back appliance-only banners do not require character references.
 
 ## Approved Chapter 1 Generation Baseline
 
-- Approved source commit for this Chapter 1 production cycle: `ad540d7f11f4f58e40b866aaebd27f5c482a2f4b`.
+- Approved source commit for the frozen Chapter 1 story/prompt content: `ad540d7f11f4f58e40b866aaebd27f5c482a2f4b`.
 - This SHA freezes the QA-approved Chapter 1 story, canon, dialogue, page prompts, object states, timeline, and visual rules for this production cycle. It is not a permanent baseline for future chapters.
 - Later documentation-only safeguards do not authorize story, canon, dialogue, page-action, or character-identity changes.
 - If any frozen Markdown story/prompt content changes after generation begins, stop the sequence immediately and follow the Markdown Change Stop-Rule below. Never continue with pages generated from mixed source revisions.
+
+## Canonical Flat-2D Character Reference Preflight — Mandatory
+
+The original/legacy cover established the intended historical character concepts, but its rendering is NOT production-safe for the current visual target. It is too cinematic, glossy, reflective, neon-heavy, and over-rendered.
+
+HARD RULE: DO NOT attach the legacy/original cover during normal final cover or interior-page generation. Do not use it as an active image reference. Do not use the rejected drifted cover either.
+
+Before final story-cover generation or Page 1 generation, create and approve these two production-safe references:
+
+1. `Character-References/nari-canonical-flat2d.png` from `Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`
+2. `Character-References/hyunwoo-canonical-flat2d.png` from `Character-References/hyunwoo-canonical-flat2d-chatgpt-image-prompt.md`
+
+After approval, optionally convert each PNG to WebP. These approved flat-2D images become the permanent active production identity references. The legacy cover is retired from the generation input chain.
+
+Do not start final character-containing cover/page generation until the required reference for every visible recurring character has been approved.
 
 ## Canonical Character Identity Authority — Mandatory
 
 Character identity and scene instructions are separate authorities.
 
-For every generated asset that shows a recurring character, attach that character's APPROVED CANONICAL VISUAL REFERENCE whenever one exists.
+For every final generated asset that shows a recurring character, attach that character's APPROVED FLAT-2D CANONICAL VISUAL REFERENCE whenever one exists.
 
-The canonical visual reference is the absolute authority for WHO the character is. It controls:
+The approved flat-2D canonical visual reference is the absolute authority for WHO the character is. It controls:
 
 - face shape and facial proportions
 - eye shape and placement
@@ -29,17 +44,15 @@ The canonical visual reference is the absolute authority for WHO the character i
 - Hyun-woo's established technical lower-face mask shape and fit
 - Hyun-woo's established long low-tied hair silhouette
 - Hyun-woo's established broad adult build
-- Hyun-woo's established dense circuit-sigil tattoo map and visual density
+- Hyun-woo's approved dense circuit-sigil tattoo map and visual density
 
 The current page `.md` controls WHAT happens: scene, action, pose, expression, wardrobe for that moment, props, dialogue, SFX, panel layout, power state, and environment.
 
-The previous approved interior page controls ongoing page-to-page continuity such as apartment geometry, prop state, rendering density, wardrobe continuity, and current production look. It does NOT outrank the canonical character reference for facial identity.
+The previous approved interior page controls ongoing page-to-page continuity such as apartment geometry, prop state, rendering density, wardrobe continuity, and current production look. It does NOT outrank the flat-2D canonical character reference for identity.
 
-Never allow the text description, current page prompt, previous page, story cover, or generator preference to recast or reinterpret an approved character identity.
+Never allow the text description, current page prompt, previous page, story cover, legacy cover, or generator preference to recast or reinterpret an approved character identity.
 
-Never average multiple conflicting visual references. Use only approved canonical references plus the immediately previous approved interior page. Rejected or drifted generations are never identity references.
-
-If the only approved visual identity reference currently available is an earlier approved cover, it may be attached for CHARACTER IDENTITY ONLY. Do not copy that cover's composition, pose, title, lighting, gloss, reflections, or rendering style into interior pages.
+Never average multiple conflicting visual references. Use only approved flat-2D canonical references plus the immediately previous approved interior page. Rejected or drifted generations are never identity references.
 
 Hard character-drift rejection examples:
 
@@ -48,7 +61,7 @@ Hard character-drift rejection examples:
 - Nari losing her beauty mark or adult game-designer identity
 - Hyun-woo with short hair instead of established long black hair tied low
 - Hyun-woo with a generic cloth mask instead of the established modern technical lower-face mask
-- Hyun-woo with sparse/simplified/newly invented tattoos instead of the established dense circuit-sigil design
+- Hyun-woo with sparse/simplified/newly invented tattoos instead of the approved dense circuit-sigil design
 - Hyun-woo with a noticeably slimmer recast build instead of his established broad adult proportions
 
 ## Prompt And Output Sequence
@@ -87,7 +100,7 @@ This hierarchy is DOMAIN-SPECIFIC; do not collapse it into one global ranking.
 
 ### Character identity
 
-1. Approved canonical visual reference for each character shown
+1. Approved flat-2D canonical visual reference for each character shown
 2. `characters.md` as textual identity guardrail
 3. Previous approved interior page only as secondary continuity evidence
 
@@ -104,38 +117,40 @@ This hierarchy is DOMAIN-SPECIFIC; do not collapse it into one global ranking.
 
 For Page 1:
 
-- Attach the approved canonical visual reference(s) for every recurring character shown.
+- Attach the approved flat-2D canonical visual reference(s) for every recurring character shown.
 - Use `characters.md`, `Comics/style-guide.md`, and `page-001-chatgpt-image-prompt.md`.
 - There is no previous interior page.
-- Record `Reference page: NONE - CANONICAL CHARACTER REFERENCES + SOURCE LOCKS`.
+- Record `Reference page: NONE - FLAT-2D CANONICAL CHARACTER REFERENCES + SOURCE LOCKS`.
 
 For Page 2 onward:
 
-- Attach the approved canonical visual reference(s) for every recurring character shown.
+- Attach the approved flat-2D canonical visual reference(s) for every recurring character shown.
 - Attach only the immediately previous APPROVED interior page as the page-to-page continuity reference.
 - Use `characters.md`, `Comics/style-guide.md`, and the exact current page prompt.
 
 Use the previous approved interior page to stabilize apartment geometry, furniture, appliances, recurring-prop design/state, wardrobe continuity, line weight, matte palette, rendering density, lettering treatment, and powered/blackout exposure. Do not copy its action, camera angle, panel layout, or dialogue unless the current script explicitly continues that element.
 
-The previous page must never override the canonical character reference when faces, hair, mask, tattoos, or body proportions disagree.
+The previous page must never override the flat-2D canonical character reference when faces, hair, mask, tattoos, or body proportions disagree.
 
-Never use current or future generated story covers, front support banners, or back support banners as interior composition/style continuity references. An earlier approved cover may be used only if it is explicitly designated as a canonical CHARACTER IDENTITY source, and then only for identity.
+Never use the legacy/original cover, any rejected/drifted cover, current/future story covers, front support banners, or back support banners as interior identity/composition/style references. The approved flat-2D canonical character references are the only character identity images in the active production chain.
 
 ## Page 1 Benchmark Gate
 
-Page 1 establishes the production benchmark for line art, matte rendering, Unit 2407 geometry, appliance design, prop scale, color treatment, and the first interior presentation of the already-canonical character identities.
+Page 1 establishes the production benchmark for line art, matte rendering, Unit 2407 geometry, appliance design, prop scale, color treatment, and the first interior presentation of the already-approved flat-2D canonical character identities.
 
-Page 1 does NOT create a new Nari or Hyun-woo identity. It must faithfully reproduce the approved canonical identity references.
+Page 1 does NOT create a new Nari or Hyun-woo identity. It must faithfully reproduce the approved flat-2D canonical references.
 
 Do not approve Page 1 merely because it is attractive. Approve it only when it correctly preserves the same character identities and every locked continuity element. If its face, hair, mask, tattoos, body proportions, style, scale, environment, or text is wrong, reject and regenerate it before creating Page 2.
 
 ## Pre-Generation Gate
 
-- Confirm the approval record uses source commit `ad540d7f11f4f58e40b866aaebd27f5c482a2f4b` for the frozen Chapter 1 story/prompt content.
+- Confirm the frozen story/prompt source baseline is `ad540d7f11f4f58e40b866aaebd27f5c482a2f4b`.
 - Confirm all 18 prompt files exist contiguously with no duplicates or missing number.
-- Attach approved canonical visual reference(s) for every recurring character shown on the page.
+- Confirm required flat-2D canonical character-reference files have already been generated and approved before any final character-containing asset.
+- Attach approved flat-2D canonical visual reference(s) for every recurring character shown on the page.
 - For Page 1, attach no previous interior page.
-- For Page 2 onward, attach only the immediately previous approved interior page in addition to the canonical character reference(s).
+- For Page 2 onward, attach only the immediately previous approved interior page in addition to the flat-2D canonical character reference(s).
+- Confirm the legacy/original cover and rejected/drifted cover are NOT attached.
 - Confirm no rejected/superseded/drifted image is attached as an identity or continuity reference.
 - Confirm the page prompt matches the current prose scene, dialogue, time, power state, wardrobe, object states, and preceding page.
 - Confirm each prompt includes all required blocks, panel-order numbers, exact dialogue/text, story clarity, and avoid list.
@@ -161,10 +176,10 @@ Do not approve a page containing a prohibited style merely because the character
 
 ## Character Rejection Gate
 
-- Reject any face that does not match the approved canonical character reference.
+- Reject any face that does not match the approved flat-2D canonical character reference.
 - Reject teenage/schoolgirl Nari, long black-haired Nari, changed dark-plum asymmetrical hair, missing beauty mark, missing yellow scrunchie, missing headphones where scripted, glamorous heiress styling, chibi, generic waifu features, or any newly invented heroine face.
 - Reject historical/palace/vampire/xianxia/corporate/school-delinquent Hyun-woo, uncovered lower face, changed technical mask, generic cloth mask, short hair, simplified/new tattoo map, noticeably slimmer recast build, neon tattoos, glowing veins, or light beneath skin.
-- Reject Mrs. Na or Seungjae if their generated faces/designs contradict their approved canonical visual references when such references exist.
+- Reject Mrs. Na or Seungjae if their generated faces/designs contradict an approved canonical visual reference when one exists.
 - Reject Mrs. Na without her established arrival handbag/key ring/analog watch, or with handbag appearing only on departure.
 - Reject Seungjae as villainous or stranded; his car key must work.
 
@@ -219,8 +234,8 @@ Before generating the next page, review the current page against every applicabl
 
 ### A. Character Identity
 
-- Compare every visible recurring character directly against the approved canonical visual reference, not only against text descriptions.
-- Face, adult age, hairstyle, hair color, beauty mark, body proportions, mask, tattoos, and persistent identifiers must match the canonical reference.
+- Compare every visible recurring character directly against the approved flat-2D canonical visual reference, not only against text descriptions.
+- Face, adult age, hairstyle, hair color, beauty mark, body proportions, mask, tattoos, and persistent identifiers must match the flat-2D canonical reference.
 - Wardrobe and expression then follow the current page prompt.
 - The previous approved page is secondary evidence only; it cannot legitimize character drift.
 
@@ -287,7 +302,7 @@ Do not approve a visually attractive page with incorrect critical text.
 
 ## Page-Level Story Gate
 
-- Page 1: visible first entry and fixed apartment establishment; Nari must match her approved canonical visual identity exactly.
+- Page 1: visible first entry and fixed apartment establishment; Nari must match her approved flat-2D canonical visual identity exactly.
 - Page 2: Mrs. Na arrives/enters, detaches key, defines rule, answers blackout question evasively, leaves; key moves separately.
 - Page 3: `ONE WEEK LATER` and mid-page `THAT NIGHT` cards, 19 C thermostat, clean speaker voice during flicker, visible unplug.
 - Page 4: unplugged-TV order and separate hostile refrigerator seed.
@@ -297,7 +312,7 @@ Do not approve a visually attractive page with incorrect critical text.
 - Page 8: comic device sabotage, working car key, completed elevator entry/exit.
 - Page 9: 12:43 citywide outage, visible lamp compliance, 81% phone evidence, separate corridor backup.
 - Page 10: repeated-test montage, 12:56 card, safe knife draw, connected route, candle holder/trivet/cooking evidence.
-- Page 11: mask secured before face readability and spacious first reveal; Hyun-woo must match his approved canonical visual identity exactly.
+- Page 11: mask secured before face readability and spacious first reveal; Hyun-woo must match his approved flat-2D canonical visual identity exactly.
 - Page 12: last spicy-seafood flavor plus five remaining packets; causal banter.
 - Page 13: no refrigerator reflection; rise/cross/block/warn sequence; hostile name reveal.
 - Page 14: mains-light/candle explanation, blue center, ordered horror reaction, `WARM.` first-touch evidence.
@@ -310,6 +325,7 @@ Do not approve a visually attractive page with incorrect critical text.
 
 Apply an especially strict review to these continuity-heavy pages:
 
+- Canonical preflight: Nari and Hyun-woo flat-2D references must be approved before final character-containing generation.
 - Page 1: canonical Nari face/hair/beauty mark/adult proportions plus Unit 2407 baseline. Page 1 must not invent a new Nari.
 - Page 3: both time cards, `19 C`, speaker plugged then visibly unplugged, clean Hyun-woo signal.
 - Page 5: both time cards, key return, speaker/stockpot/towels/lid, guarded fruit knife, 1:17 flicker, physical crumb reply.
@@ -331,11 +347,11 @@ Character identity drift is a hard failure even if the page is otherwise attract
 - Rejected or draft versions must remain outside the final reader-facing chapter directory or be removed before final ingestion.
 - The final directory must contain only accepted reader-facing names such as `1.png` and `1.webp` through `18.png` and `18.webp`.
 - Do not leave ambiguous names such as `7-final.png`, `7-final2.png`, `7-good.webp`, `7-new.png`, or `7-test.png` in the final reader directory.
-- Never attach a rejected, draft, superseded, or character-drifted version as an identity or continuity reference.
+- Never attach a rejected, draft, superseded, character-drifted, legacy-cover, or rejected-cover image as an identity or continuity reference.
 
 ### Markdown Change Stop-Rule
 
-If anyone changes `chapter.md`, `characters.md`, `Comics/style-guide.md`, `Comics/prompt-template.md`, the current or previous page prompt, dialogue, SFX, panel count, chronology, power rules, prop position, wardrobe, device signature, environment geometry, or canonical character-reference designation after generation begins:
+If anyone changes `chapter.md`, `characters.md`, `Comics/style-guide.md`, `Comics/prompt-template.md`, the current or previous page prompt, dialogue, SFX, panel count, chronology, power rules, prop position, wardrobe, device signature, environment geometry, or canonical flat-2D character-reference designation after generation begins:
 
 1. Stop all downstream page generation.
 2. Identify every already-generated page affected by the change.
@@ -353,9 +369,9 @@ Copy and complete this record for each page. A page may be marked `APPROVED` onl
 ```text
 PAGE 01
 Status: APPROVED / REJECTED
-Source commit: ad540d7f11f4f58e40b866aaebd27f5c482a2f4b
-Canonical character reference(s): REQUIRED FOR EACH RECURRING CHARACTER SHOWN
-Reference page: NONE - CANONICAL CHARACTER REFERENCES + SOURCE LOCKS
+Frozen story/prompt source commit: ad540d7f11f4f58e40b866aaebd27f5c482a2f4b
+Canonical character reference(s): APPROVED FLAT-2D REFERENCES REQUIRED FOR EACH RECURRING CHARACTER SHOWN
+Reference page: NONE - FLAT-2D CANONICAL CHARACTER REFERENCES + SOURCE LOCKS
 Character identity: PASS / FAIL
 Environment: PASS / FAIL
 Appliances: PASS / FAIL
@@ -370,6 +386,6 @@ Notes:
 Approved file:
 ```
 
-For Page 2 onward, replace `Reference page` with the immediately previous approved interior page while still listing the canonical character references separately.
+For Page 2 onward, replace `Reference page` with the immediately previous approved interior page while still listing the approved flat-2D canonical character references separately.
 
-The independent final audit passed the story/prompt comparisons. Keep this checklist with the prompt set during generation and return the package to `HOLD` if a future Markdown change alters canon, dialogue, panel order, timing, object state, visual rules, or canonical character-reference authority.
+The independent final audit passed the story/prompt comparisons. Keep this checklist with the prompt set during generation and return the package to `HOLD` if a future Markdown change alters canon, dialogue, panel order, timing, object state, visual rules, or canonical flat-2D character-reference authority.
