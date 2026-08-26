@@ -6,7 +6,11 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 16 as PNG. Save i
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 16 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; directly continue Page 15.
+Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 15.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. The canonical reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 15 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls Nari's current pose, expression, security-check actions, device handling, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations. Hyun-woo is no longer physically present and must not be drawn, reflected, silhouetted, or reconstructed from previous pages.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +26,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Hyun-woo is not physically visible after unit power returns. Camera corruption belongs to hostile interference, not a visible intruder. Corridor emergency lighting is separate from Unit 2407 power.
 
 CHARACTER CONSISTENCY
-Nari keeps exact blackout-night outfit and adult design, now methodical but shaken. Do not add another person physically.
+Nari is the SAME approved canonical Nari and keeps exact blackout-night outfit/adult design, now methodical but shaken. Do not add another person physically or alter her face/hair identity.
 
 SETTING AND PROP CONTINUITY
 Nari checks: locked front door, unchanged manual latch, smart-lock log with only her earlier entry/no blackout entry, corrupt door-camera interval, call to security, then Mrs. Na voicemail. Security confirms elevators stopped and corridor emergency lights used separate backup. Page ends with muffled chime from still-closed lower cabinet.
@@ -79,5 +83,5 @@ STORY CLARITY
 The reader must understand door/latch/history/camera/building conditions rule out a normal entry, Nari tries both security and Mrs. Na, and the hidden unplugged speaker then signals.
 
 AVOID
-Avoid casual immediate eating, skipped security checks, intruder silhouette in footage, open cabinet too early, moved kitchen props, physical Hyun-woo, glossy screens, cinematic lighting, extra text, and spoilers.
+Avoid Nari identity drift, long black hair, generic replacement face, physical/reflected/silhouetted Hyun-woo, casual immediate eating, skipped security checks, intruder silhouette in footage, open cabinet too early, moved kitchen props, glossy screens, cinematic lighting, extra text, and spoilers.
 ```
