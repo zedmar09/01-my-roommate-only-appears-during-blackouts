@@ -6,7 +6,12 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 12 as PNG. Save i
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 12 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; directly continue Page 11.
+Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 11.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md` and the APPROVED flat-2D canonical Hyun-woo reference created from `../../../Character-References/hyunwoo-canonical-flat2d-chatgpt-image-prompt.md`.
+Those canonical references are the absolute authority for each character's face, hair, adult age, persistent identifiers, and stable body proportions. For Hyun-woo they also control the established technical mask, long low-tied hair, broad build, and dense circuit-sigil tattoo map. Approved Page 11 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls current pose, expression, movement, props, dialogue, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +27,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Ordinary supplied power remains absent and Hyun-woo remains physical. No hostile signature until next page.
 
 CHARACTER CONSISTENCY
-Nari same blackout outfit/knife. Hyun-woo same physical design, mask fully on, matte tattoos with only faint current accents.
+Nari is the SAME approved canonical Nari in the same blackout outfit with knife held low. Hyun-woo is the SAME approved canonical physical Hyun-woo with mask fully on, long low-tied hair, broad build, and established dense matte tattoos with only faint current accents. Do not reinterpret either face, hair, mask, build, or tattoo map from text.
 
 SETTING AND PROP CONTINUITY
 Empty spicy-seafood packet lies near Nari's route; five unopened other flavors remain visibly in ajar pantry. Nari moves one cautious step and nudges packet. Knife stays low, never waved close to him. Pot remains on trivet.
@@ -81,5 +86,5 @@ STORY CLARITY
 The reader must understand the exact noodle inventory, Hyun-woo claims tenancy, and Mrs. Na's warning is connected to him without revealing why.
 
 AVOID
-Avoid `last noodles` ambiguity, `you had six`, empty pantry, moved pot/trivet, raised threatening knife, extra lore, glossy/cinematic effects, neon tattoos, reflections, and extra text.
+Avoid Nari or Hyun-woo identity drift, long-haired Nari, short-haired Hyun-woo, generic replacement faces, generic cloth mask, simplified/new tattoo map, slimmer Hyun-woo recast build, `last noodles` ambiguity, `you had six`, empty pantry, moved pot/trivet, raised threatening knife, extra lore, glossy/cinematic effects, neon tattoos, reflections, and extra text.
 ```
