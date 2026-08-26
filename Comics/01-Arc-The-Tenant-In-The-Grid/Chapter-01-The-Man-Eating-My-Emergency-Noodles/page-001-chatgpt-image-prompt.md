@@ -52,11 +52,13 @@ Do not add a page-title footer, chapter-title footer, credits, author name, wate
 TEXT FIDELITY
 Use ONLY the exact captions, dialogue, and SFX listed below.
 Do not paraphrase, rewrite, add, omit, or move any line.
-The only other readable text allowed is the door number `2407` and the box label `KITCHEN / DO NOT DROP` where naturally visible.
+The only other readable text allowed is the apartment-door number `2407` where naturally visible in corridor/door views and the box label `KITCHEN / DO NOT DROP`.
+Do NOT place `2407` or any other unit/building number on the exterior high-rise facade in Panel 1.
 
 PANEL 1
 Wide exterior of the modern high-rise at night, Seoul visible outside.
 CAPTION: UNIT 2407 WAS TOO CHEAP.
+No exterior `2407` sign or number on the building facade.
 No other text.
 
 PANEL 2
@@ -72,7 +74,7 @@ No caption. No dialogue. No other text.
 
 PANEL 4
 Nari has just set the SAME box down immediately inside. The box is visible on the floor. The front door remains open/visible, and the corridor cart with its TWO boxes remains visible through/near the doorway.
-Use this wide panel to establish the fixed apartment layout: TV left, dining table center with EXACTLY TWO burgundy chairs, kitchen/refrigerator right, hallway behind, windows exterior.
+Use this wide panel to establish the fixed apartment layout: TV left, dining table center with EXACTLY TWO burgundy chairs TOTAL, kitchen/refrigerator right, hallway behind, windows exterior. Do not draw a third or fourth dining chair.
 SFX: THUD.
 CAPTION: TWO BEDROOMS. CORNER VIEW. SMART EVERYTHING.
 No other text.
@@ -94,7 +96,8 @@ FINAL CHECK BEFORE GENERATING
 - Exact text only; no invented biography, tenant rules, narration, footer, or extra dialogue.
 - Nari matches the canonical PNG and keeps loose untied short hair in every panel.
 - Scrunchie stays on wrist.
-- Exactly two dining chairs.
+- Panel 1 has NO exterior `2407` building number/sign.
+- Panel 4 has EXACTLY TWO burgundy dining chairs total, never three or four.
 - Panel 3 visibly shows threshold crossing.
 - Panel 4 visibly shows box down + open door + corridor cart continuity.
 - Speaker stays small, screenless, corded, and plugged in.
@@ -103,8 +106,10 @@ FINAL CHECK BEFORE GENERATING
 
 ## Production Thread Use
 
-Attach only:
+For a fresh generation, attach only:
 1. `Character-References/nari-canonical-flat2d.png`
 2. this current `page-001-chatgpt-image-prompt.md`
 
-Do not attach the rejected Page 1 renders, the legacy cover, or any other page as a reference. Generate directly from the canonical Nari PNG and this short Page 1 prompt without adding extra creative instructions.
+For a targeted correction of an otherwise correct Page 1, the current near-pass Page 1 image may be used as the edit target together with this `.md`; preserve all correct panels/text/characters and change only the explicitly identified defects.
+
+Never use an older rejected Page 1, the legacy cover, or another page as continuity authority.
