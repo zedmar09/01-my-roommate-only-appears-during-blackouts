@@ -58,7 +58,7 @@ If editing/correcting the most recent rejected cover, preserve these successful 
 - no chain or padlock
 - one unified cover composition
 
-Do NOT restart with new character faces, hairstyles, body types, mask, tattoo identity, or a completely unrelated composition merely to fix typography/text/style defects.
+Do NOT restart with new character faces, hairstyles, body types, mask, tattoo identity, or a completely unrelated composition merely to fix typography/text/style/anatomy defects.
 
 A rejected cover may be used ONLY as an edit target or loose composition scaffold. It never outranks the approved canonical Nari/Hyun-woo PNGs.
 
@@ -277,6 +277,50 @@ Show approved canonical Hyun-woo beside or slightly behind her:
 - protective/guarded rather than villainous
 
 Do not change either character's face, hairstyle, body type, mask, or tattoo identity.
+
+==================================================
+HAND + ANATOMY INTEGRITY — HARD GATE
+==================================================
+
+Every visible hand, wrist, forearm, elbow, shoulder, and limb connection must be anatomically coherent and physically connected.
+
+Hands must read as normal adult human hands with five-finger anatomy, even when some fingers are naturally hidden by perspective or an object.
+
+ABSOLUTELY NO:
+- extra fingers
+- duplicated fingers
+- missing-finger-looking silhouettes caused by fused anatomy
+- fused fingers
+- melted fingers
+- stacked flat finger shapes with no joint structure
+- impossible finger bends
+- backward joints
+- disconnected/floating hands
+- wrist that does not connect naturally to the forearm
+- forearm disappearing incorrectly behind a prop
+- hand emerging from or merging into the tablet/device
+- object passing through the palm/fingers
+- impossible grip geometry
+- duplicated hands/arms
+
+NARI TABLET / STYLUS RULE:
+The tablet may be held naturally against her body. A stylus is OPTIONAL, not required.
+
+If a stylus is shown:
+- use one clearly readable adult hand
+- thumb and index finger form a believable pen/stylus pinch
+- middle finger supports naturally
+- ring/pinky follow normal relaxed anatomy
+- palm and knuckles read clearly
+- wrist connects naturally to forearm
+- stylus remains outside the tablet surface and does not merge into fingers
+
+If a natural stylus grip cannot be rendered clearly, OMIT THE STYLUS ENTIRELY rather than generating a malformed hand. Nari may instead rest the hand naturally on the tablet edge, hold the tablet with one normal hand, or keep the free hand relaxed.
+
+HYUN-WOO HAND RULE:
+Any visible Hyun-woo hand must also preserve normal adult five-finger anatomy and realistic wrist/forearm connection. Do not use his large build as an excuse for oversized, distorted, fused, or extra fingers.
+
+Hands may be partially occluded if that improves anatomical clarity, but the occlusion must make physical sense.
 
 ==================================================
 STORY SYMBOLS — COVER ONLY
@@ -500,8 +544,9 @@ Before accepting the image, verify:
 6. NO noodles, ramen, noodle cups, noodle bowls, noodle packets, chopsticks-with-noodles, food containers, food packaging, substitute food, or other food appears anywhere.
 7. The electrical manual is normal/unlocked/unchained with blank/icon-only cover, and the brass key is separate, plain, clearly visible, and has NO numbered tag.
 8. Hyun-woo's tattoos remain mostly matte black with only tiny sparse nonluminous current accents.
-9. Every surface follows ONE BASE COLOR + OPTIONAL ONE HARD CEL-SHADOW + INK. There is NO grit, grain, weathering, scratches, distressed texture, soft shading, realistic material modeling, cinematic darkness, glossy treatment, photorealism, 3D, painterly rendering, reflection, or over-rendering.
-10. No comic panels, gutters, speech bubbles, captions, SFX, page numbers, extra characters, spoilers, watermark, signature, or extra logo appear.
+9. Every visible hand/limb is anatomically coherent: normal five-finger hand structure, no fused/extra/duplicated/malformed digits, no floating/disconnected hands, and natural wrist/forearm connections. If Nari holds a stylus, the thumb/index pinch and supporting fingers form a believable pen grip; otherwise omit the stylus.
+10. Every surface follows ONE BASE COLOR + OPTIONAL ONE HARD CEL-SHADOW + INK. There is NO grit, grain, weathering, scratches, distressed texture, soft shading, realistic material modeling, cinematic darkness, glossy treatment, photorealism, 3D, painterly rendering, reflection, or over-rendering.
+11. No comic panels, gutters, speech bubbles, captions, SFX, page numbers, extra characters, spoilers, watermark, signature, or extra logo appear.
 
 ANY ONE FAILURE = REJECT / CORRECT / REGENERATE.
 
@@ -525,6 +570,7 @@ Yoon Nari rents an unusually cheap smart apartment with one rule: never turn off
 - Preserve the successful upper-title/no-food/manual-key composition if using the latest rejected cover as an edit target.
 - Noodles and all other food props are intentionally excluded from the story-cover design even though noodles remain part of Chapter 1.
 - The story title is the only permitted readable text inside the cover; `UNIT 2407`, `2407`, manual labels, wall notes, device text, and key-tag numbers are forbidden.
+- All visible hands must pass the anatomy gate; a stylus is optional and should be omitted if a clean natural grip cannot be rendered.
 - Generate PNG first as `story_cover.png`.
 - After QA approval, manually convert the approved PNG to `story_cover.webp`.
 - App metadata above must never appear as text inside the generated cover.
