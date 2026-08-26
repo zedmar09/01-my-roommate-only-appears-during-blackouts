@@ -1,250 +1,424 @@
 # Story Cover ChatGPT Image Prompt
 
-Copy and paste the prompt below into ChatGPT to generate the main story selection cover. Ask ChatGPT to generate a PNG. After approval, save the PNG as `story_cover.png`, then manually convert it to `story_cover.webp`. Do not remove or replace any existing `story_cover.webp` until the new PNG and converted WebP are approved.
+Use the prompt below to generate the main reader-facing story cover for `My Roommate Only Appears During Blackouts`.
+
+Generate PNG first as `story_cover.png`. After QA approval, manually convert the approved PNG to `story_cover.webp`.
 
 ```text
-Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa STORY COVER for the app selection card of "My Roommate Only Appears During Blackouts".
+Create exactly ONE unified STORY COVER illustration for "My Roommate Only Appears During Blackouts".
 
-IMAGE PURPOSE
-This is the main reader-facing cover image shown in the mobile and web app story selection list. It is not a chapter page, not a support page, and not a comic panel page.
+This is NOT a comic page, storyboard, splash-page sequence, promotional support banner, or multi-panel layout.
 
-CANONICAL FLAT-2D CHARACTER REFERENCE AUTHORITY - MANDATORY
-Final production cover generation requires the APPROVED FLAT-2D canonical character references:
-- `Character-References/nari-canonical-flat2d.png` or approved WebP equivalent
-- `Character-References/hyunwoo-canonical-flat2d.png` or approved WebP equivalent
+==================================================
+CANONICAL CHARACTER REFERENCES — ABSOLUTE AUTHORITY
+==================================================
 
-If either approved flat-2D canonical reference does not exist yet, STOP final cover generation. First generate and approve it from:
-- `Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`
-- `Character-References/hyunwoo-canonical-flat2d-chatgpt-image-prompt.md`
+Attach and use ONLY these approved production identity references:
 
-The approved flat-2D canonical reference images are the absolute authority for WHO Nari and Hyun-woo are. Preserve the same people exactly. The written descriptions below are guardrails and must never be used to reinterpret, recast, beautify, simplify, or redesign their established identities.
+- Character-References/nari-canonical-flat2d.png
+- Character-References/hyunwoo-canonical-flat2d.png
 
-Canonical flat-2D references control:
-- face shape and facial proportions
-- eye shape and placement
-- nose and mouth shape
-- apparent adult age and ethnicity
-- hair silhouette, length, shape, and color
-- Nari's beauty mark and recognizable facial identifiers
-- Hyun-woo's technical lower-face mask shape and fit
-- Hyun-woo's long low-tied hair silhouette
-- Hyun-woo's broad adult build
-- Hyun-woo's established dense circuit-sigil tattoo layout and visual density
-- stable adult body proportions
+These two approved PNGs are the absolute authority for WHO Nari and Hyun-woo are.
 
-The current cover `.md` controls only the new cover's pose, expression, wardrobe, composition, story symbols, environment, typography, lighting treatment, and flat-2D rendering. It does NOT authorize a new face, new hairstyle, new mask, new tattoo design, or new body type.
+NARI IDENTITY MUST PRESERVE:
+- same approved face and adult Korean appearance
+- age 30
+- short irregular asymmetrical dark-plum shag
+- sharp tired skeptical eyes
+- exactly one beauty mark beside the left corner of her mouth
+- yellow scrunchie
+- headphones around neck
+- slim-but-sturdy adult proportions
 
-REGENERATION / CORRECTION RULE
-If a rejected cover attempt already preserves the approved Nari and Hyun-woo identities successfully, do NOT redesign or recast them during correction. Preserve the passed character identities and correct only the failed cover-level elements such as rendering style, title treatment, extra text, invented props, or title placement.
+HYUN-WOO IDENTITY MUST PRESERVE:
+- same approved face/eyes and adult Korean appearance
+- early-to-mid 30s
+- long black hair tied low at the nape
+- broad powerful adult build
+- fitted matte-black technical lower-face mask
+- same dense circuit-sigil tattoo identity across neck, collarbones, shoulders, and arms
 
-A rejected cover image may be used only as an EDIT TARGET or rough composition scaffold during a correction request. It must NEVER replace the approved canonical Nari/Hyun-woo references as identity authority. Do not propagate any failed cinematic rendering, invented object, extra text, lightning effect, chain, padlock, or other rejected element from the prior cover.
+Do NOT recast, beautify, simplify, redesign, average, or reinterpret either character.
 
-LEGACY COVER EXCLUSION - HARD RULE
-The original/legacy cover is a historical design source only. Its rendering does not meet the current flat-2D production standard. DO NOT attach the legacy cover during normal story-cover generation. DO NOT use it as an active image reference for final cover or interior-page generation. DO NOT copy its cinematic darkness, glossy rendering, reflections, neon-heavy tattoo treatment, composition, pose, or title layout.
+Do NOT use the old legacy/cinematic cover as an active reference.
+Do NOT use any rejected or drifted cover as character-identity authority.
 
-The legacy cover's original character concept has already been translated into the dedicated flat-2D canonical-reference prompts. Once those new flat-2D references are approved, they permanently replace the legacy cover as the active production identity source.
+If editing a rejected cover attempt, that image may be used ONLY as a rough composition scaffold. The approved Nari and Hyun-woo PNGs still control identity.
 
-Do not average conflicting or rejected character images. Use only the approved flat-2D canonical reference for each character. A drifted/rejected generation is never an identity reference.
+==================================================
+SYMBOLIC COVER RULE
+==================================================
 
-Hard rejection examples:
-- Nari with long black hair instead of her established short dark-plum asymmetrical shag
-- Nari with a different generic heroine face
-- Nari losing her recognizable beauty mark or adult game-designer identity
-- Hyun-woo with short hair instead of established long black hair tied low
-- Hyun-woo becoming slimmer/narrower than his established broad build
-- Hyun-woo with a generic cloth mask instead of his established modern technical lower-face mask
-- Hyun-woo with simplified, sparse, or newly invented tattoos instead of the established dense circuit-sigil design
+This is symbolic premise art, not one literal Chapter 1 moment.
 
-SYMBOLIC COVER CONTINUITY
-This is symbolic premise art, not a literal Chapter 1 moment. It may combine Nari in her outdoor game-designer clothing, physical blackout Hyun-woo, noodles, the electrical binder, the brass key, and dead devices for marketing clarity even though those exact wardrobe/prop states do not all share one interior scene. Never use this cover as wardrobe, prop-position, lighting, or scene-blocking continuity reference for Chapter 1 pages.
+The cover should communicate:
+- exhausted game designer Nari
+- mysterious masked blackout roommate Hyun-woo
+- Unit 2407 smart-home mystery
+- electricity/power-loss theme
+- adult supernatural romance
+- missing-record / haunted-device mystery
 
+The cover is NOT an interior continuity reference for wardrobe, prop positions, room blocking, or chronology.
+
+==================================================
+NO NOODLES / NO FOOD — HARD COVER RULE
+==================================================
+
+DO NOT show noodles anywhere on the story cover.
+
+Do NOT show:
+- noodle cups
+- noodle packets
+- noodle bowls
+- noodle pots
+- chopsticks holding noodles
+- instant ramen
+- food containers
+- food packaging
+- any other meal or food prop
+
+The Chapter 1 noodle scene remains part of the story, but noodles are intentionally excluded from the STORY COVER composition.
+
+Do not substitute another food item.
+
+==================================================
 FORMAT
-Generate a PNG image. Use one vertical portrait cover image, app-card friendly, 2:3 aspect ratio, about 1536x2304. Keep the main characters and title inside a safe centered area so the image still works if cropped slightly for mobile cards.
+==================================================
 
-CUSTOM TITLE DESIGN - INTERRUPTED CIRCUIT LETTERING
-Add only this exact story title and preserve every word:
-MY ROOMMATE ONLY APPEARS DURING BLACKOUTS
+Generate one vertical portrait cover.
 
-Do not render the title in a plain default font or as generic text pasted over the illustration. Treat the complete title as one custom hand-drawn cover logo designed into the story world. Use this three-line hierarchy:
+Aspect ratio: 2:3.
+Target size: approximately 1536 x 2304.
+
+Keep both character identities and the complete title safely readable under slight mobile app-card cropping.
+
+==================================================
+TITLE — EXACT TEXT ONLY
+==================================================
+
+The ONLY readable text allowed anywhere in the artwork is:
 
 MY ROOMMATE
 ONLY APPEARS DURING
 BLACKOUTS
 
-TITLE HIERARCHY
-- `MY ROOMMATE`: bold, clean, custom hand-drawn display lettering in matte off-white/light neutral. Give it a slightly organic, human shape with a modern adult manhwa feeling.
-- `ONLY APPEARS DURING`: smaller, compact, quieter, visually subordinate, and still fully readable.
-- `BLACKOUTS`: the largest and strongest title element. Make it slightly more geometric/electrical than `MY ROOMMATE`, while keeping both sections visibly related as one coherent logo.
+Do not alter, abbreviate, translate, or add to the title.
 
-INTERRUPTED-CIRCUIT TREATMENT FOR `BLACKOUTS` - STRICT LIMIT
-Use custom hand-drawn lettering, not a generic glitch font. Keep most letterforms clean and instantly readable.
+NO subtitle.
+NO tagline.
+NO author name.
+NO genre text.
+NO synopsis.
+NO chapter number.
+NO Korean translation.
+NO credits.
+NO watermark.
+NO signature.
+NO fake logo.
+NO prop labels.
+NO readable wall notes.
+NO readable manual text.
+NO readable phone/tablet text.
+NO readable appliance text.
+NO random letters or numbers.
 
-Across the ENTIRE word `BLACKOUTS`, use only:
-- two or three tiny intentional breaks in selected letter strokes
-- at most one short circuit-trace line integrated into one letter
-- at most one small breaker/switch-like geometric detail or disconnected stroke ending like a cut circuit
-- no more than one or two tiny flat black-pixel interruptions
+Any visible papers, tablet stickers, screens, manuals, diagrams, or device indicators must use abstract non-readable shapes/icons only.
 
-The electrical design must remain INSIDE or immediately attached to the letterforms. Subtle angles may echo Hyun-woo's circuit-sigil tattoo geometry.
+==================================================
+TITLE PLACEMENT — HARD POSITION LOCK
+==================================================
 
-ABSOLUTELY NO large lightning bolts, lightning cracks, electrical arcs, branching electricity, waveform lightning crossing the word, energy beams, sparks surrounding the title, or crack effects running through multiple letters. Do not make the title look shattered, electrified, or struck by lightning. Do not distort every letter or turn the word into glitch art.
+Place the complete three-line story title in the UPPER PORTION / UPPER THIRD of the cover.
 
-ELECTRICAL AND WARM ACCENTS
-Allow extremely restrained pale cyan-white flat accents on selected parts of `BLACKOUTS`, echoing Hyun-woo's faint tattoo-current color. Accents must be matte, graphic, contained, and nonluminous. A single tiny matte amber divider, short underline segment, or disconnected accent may echo the candle motif if useful. Do not turn `BLACKOUTS` orange and do not add fire or glowing candle effects to the letters.
+Target title zone: approximately the upper 25–35% of the canvas.
 
-HYUN-WOO DESIGN RHYME
-Create only a subtle graphic-design relationship between one tattoo circuit angle/breaker symbol and one `BLACKOUTS` letter stroke. This is visual rhyme, not an in-story event. Do not draw cables, beams, electrical tendrils, lightning, or arcs connecting Hyun-woo's body to the title.
+Do NOT place the title across:
+- lower torsos
+- lap area
+- lower half of the cover
+- electrical manual
+- brass key
+- device cluster
 
-MOBILE THUMBNAIL READABILITY
-The full title must remain immediately readable when reduced to a small mobile/web app selection card. Use strong silhouettes and sufficient stroke thickness. Avoid hairline strokes, tiny decorative clutter, excessive spacing, too many circuit breaks, heavy static, or severe distortion. The title wording must be understood before its special details are noticed.
+If necessary, move the character composition slightly downward to create title room.
 
-TITLE INTEGRATION AND SAFE AREA - HARD POSITION LOCK
-Place the coherent three-line title in the UPPER PORTION / UPPER THIRD of the cover. The title should occupy approximately the upper 25-35% of the canvas, using available negative space without covering Nari's face/hair or Hyun-woo's eyes/mask.
+Never cover:
+- Nari's face or hair identity
+- Hyun-woo's eyes or mask identity
 
-Do NOT place the complete title across the characters' lower torsos, lap area, table, electrical manual, noodles, phones, or lower half of the cover. `BLACKOUTS` must not become a giant lower-half poster word. If more title room is needed, shift the character composition slightly downward rather than moving the title into the lower half.
+==================================================
+CUSTOM TITLE STYLE — INTERRUPTED CIRCUIT
+==================================================
 
-Keep the title safe under slight app-card cropping. Do not rotate the full title vertically, use random diagonal movie-poster typography, or add a large drop shadow that makes the title look like a floating sticker.
+Treat the complete title as custom hand-drawn cover lettering integrated into the story world.
 
-All title lettering must use flat ink/cel color with no glow. Explicitly reject plain Arial-like or Helvetica-like lettering, generic system fonts, generic serif novel-cover fonts, generic cyberpunk/gaming/sci-fi fonts, heavy RGB glitch or red/blue channel separation, unreadable digital distortion, excessive static, dripping horror fonts, gothic blackletter, palace/fantasy calligraphy, runes, graffiti, chrome/metallic letters, beveling, embossing, extruded 3D letters, reflective/glass/glossy typography, neon-sign treatment, glowing outlines, outer glow, bloom, rim light, lens flare, cinematic title lighting, smoke effects, lightning around any word, giant electrical explosions, excessive black-pixel corruption, or sticker-like title shadows.
+MY ROOMMATE:
+- bold matte off-white/light neutral
+- slightly organic modern manhwa display lettering
 
-TEXT EXCLUSIVITY - ABSOLUTE
-The ONLY readable text allowed anywhere in the story-cover artwork is the exact story title:
-MY ROOMMATE ONLY APPEARS DURING BLACKOUTS
+ONLY APPEARS DURING:
+- smaller supporting line
+- compact and fully readable
 
-Do not add a subtitle, tagline, author name, art credit, chapter number, genre, synopsis, publisher text, app text/UI, buttons, badges, fake logos, watermark, signature, Korean translation, speech bubbles, captions, or any other wording.
+BLACKOUTS:
+- largest title element
+- slightly more geometric/electrical
+- still clean and immediately readable
 
-Also remove readable writing from PROPS. The noodle package/cup, electrical manual, tablet stickers, phone screens, appliance screens, wall papers, labels, buttons, books, and background objects must use only non-readable graphic shapes/icons/diagrams where needed. No Korean words, English words, numbers, abbreviations, fake letters, or word-like glyph strings anywhere outside the story title.
+Across the ENTIRE word BLACKOUTS, allow only:
+- 2–3 tiny interrupted-power gaps in selected strokes
+- at most one short circuit trace integrated into a letter
+- at most one tiny breaker/switch-like detail
+- no more than 1–2 tiny flat black-pixel interruptions
+- very restrained pale cyan-white flat accents
 
-STYLE TARGET - COLORED FLAT 2D MODERN SUPERNATURAL ROMANCE MANHWA COVER
-Use 100% flat 2D human-drawn colored manga/manhwa artwork with matte cel colors and controlled hard-edged shading.
-Use a colored flat 2D human-drawn Korean manhwa cover illustration style with light Chinese urban-fantasy manhua influence in the supernatural electricity:
-- Clean expressive manhwa line art.
-- Matte cel colors and simple controlled shading.
-- Mature adult romance energy, not school comedy.
-- A matte modern Seoul high-rise apartment during a blackout.
-- Warm flat candle color, flat dark window shapes, dead-device screens, and restrained nonluminous device accents.
-- Matte black circuit-sigil tattoos with only tiny faint pale blue-white current accents; they are flat ink on skin, never glowing veins beneath it.
-- Warm domestic intimacy mixed with modern mystery.
-- Strong silhouettes that read clearly as a small app thumbnail.
-- Clear readable title typography.
-- Apply the flat matte 2D treatment to characters, clothing, candles, noodle pot, smart devices, counters, windows, floors, walls, city view, title area, and every background object.
-
-FLAT-2D MATERIAL SIMPLIFICATION - HARD LOCK
-Do not simulate realistic material surfaces. Use simplified manga/manhwa shapes and matte fills instead of realistic texture.
+All electrical typography details must remain inside or immediately attached to the letterforms.
 
 ABSOLUTELY NO:
-- gritty realistic wall/floor texture
-- weathered concrete texture
-- scratched realistic metal
-- leather pore detail
-- realistic cloth weave
-- realistic wood grain rendering
-- realistic glass reflections
-- ambient-occlusion style darkening
+- large lightning bolts
+- lightning cracks
+- branching electricity
+- arcs crossing multiple letters
+- shattered/cracked title treatment
+- sparks around the title
+- glowing neon title
+- RGB glitch
+- cyberpunk gaming font
+- chrome
+- bevel
+- embossing
+- 3D extrusion
+- glass typography
+- cinematic title lighting
+- bloom
+- outer glow
+
+BLACKOUTS must look like deliberately interrupted circuit lettering, NOT like a word struck by lightning.
+
+==================================================
+CHARACTER COMPOSITION
+==================================================
+
+Nari is the visual priority and should read first.
+
+Show the approved canonical Nari in her modern game-designer identity:
+- cropped practical utility jacket
+- dark graphic hoodie
+- loose dark trousers
+- headphones around neck
+- yellow scrunchie visible
+- sticker-covered tablet may be present, but stickers must be icon-only with zero readable writing
+- expression tired, observant, skeptical, competent
+
+Show approved canonical Hyun-woo beside or slightly behind her:
+- close enough to feel like her impossible roommate/protector
+- long low-tied black hair clearly visible
+- fitted technical mask clearly visible
+- broad silhouette
+- sleeveless black top
+- dense matte-black circuit-sigil tattoos clearly readable
+- protective/guarded rather than villainous
+
+Do not change either character's face, hairstyle, body type, mask, or tattoo identity.
+
+==================================================
+STORY SYMBOLS — COVER ONLY
+==================================================
+
+Use a restrained selection of these symbols:
+
+- matte Unit 2407 blackout interior
+- dead smart-home devices
+- dark phone/tablet screens using icon-only battery/device symbols
+- normal thick electrical manual/binder
+- clearly separate brass physical key
+- one small candle in a simple holder if useful
+- faint rooftop power-grid silhouettes outside the window
+- restrained abstract static / black-pixel marks near dead devices
+
+DO NOT overcrowd the cover with every symbol.
+
+Prioritize characters + title first, then only a few story symbols.
+
+==================================================
+ELECTRICAL MANUAL + KEY — HARD OBJECT LOCK
+==================================================
+
+The electrical manual is a normal ordinary thick binder/manual.
+
+The brass key is a separate ordinary physical key.
+
+NEVER add:
+- chain
+- padlock
+- lock body
+- clasp
+- rope
+- handcuff
+- strap
+- cable restraint
+- magical seal
+- cursed-book treatment
+
+Do not physically lock or chain the manual.
+Do not attach the key to a padlock.
+
+The manual may have only abstract electrical diagram/icon graphics with ZERO readable writing.
+
+==================================================
+UNIT 2407 / APPLIANCE LOCK
+==================================================
+
+If apartment geometry is visible, preserve the established Unit 2407 design:
+- living/TV area left
+- dining center
+- kitchen/refrigerator right
+- hallway behind
+- exterior dark-panel windows
+
+Palette:
+- flat light cool-gray walls
+- muted eucalyptus lower cabinets
+- matte pale-gray counters/table
+- medium neutral-gray floor
+- muted dark-burgundy chairs
+
+If refrigerator appears:
+- matte cool-gray body
+- two upper doors
+- lower freezer drawer
+- recessed dark handles
+- narrow black upper-right display
+
+If TV appears:
+- matte black body
+- thin uniform bezel
+- centered stand
+- low charcoal console
+
+Do not redesign appliances.
+Do not make screens reflective.
+
+==================================================
+HYUN-WOO TATTOO CURRENT — STRICT LIMIT
+==================================================
+
+Hyun-woo's tattoos are predominantly MATTE BLACK INK.
+
+Allow only a few tiny pale blue-white flat current accents on selected existing tattoo lines.
+
+Most tattoo lines must remain plain black.
+
+NO continuous glowing circuits.
+NO neon body glow.
+NO glowing veins.
+NO light beneath skin.
+NO blue light cast onto his face, clothes, Nari, walls, or floor.
+
+==================================================
+ABSOLUTE VISUAL STYLE LOCK
+==================================================
+
+100% FLAT 2D HUMAN-DRAWN COLORED MANGA/MANHWA.
+
+Required:
+- clean visible ink linework
+- matte cel colors
+- solid color blocking
+- simple controlled hard-edged shadows
+- readable adult anatomy
+- clean silhouettes
+- simplified matte materials
+- modern supernatural romance manhwa feeling
+
+The blackout must remain readable through flat charcoal / muted blue-gray shapes and ink outlines.
+
+A small candle may use a contained matte amber accent only.
+
+ABSOLUTELY NO:
+- glossy webtoon shine
+- cinematic rendering
+- movie-poster treatment
+- gritty poster texture
+- photorealism
+- semi-photorealism
+- 3D/CG
+- painterly rendering
+- concept-art rendering
+- airbrushed rendering
+- realistic material texture
+- film grain
+- weathered realistic walls/floors
+- realistic scratches
+- realistic metal distress
+- realistic wood grain
+- realistic fabric weave
+- glossy skin
+- shiny lips
+- glossy hair
+- chrome
+- reflective appliances
+- mirror-like windows
+- reflective screens
+- white reflection streaks
+- wet-looking surfaces
 - soft cinematic shadow falloff
-- film-grain/noise treatment
-- poster-style gritty distress over the illustration
-- highly modeled skin or muscles
-- realistic material specular highlights
-- over-detailed environment texture intended to look photographed
+- ambient-occlusion style darkness
+- gradients
+- bloom
+- rim light
+- lens flare
+- volumetric lighting
+- depth-of-field blur
+- atmospheric haze
+- excessive supernatural glow
 
-Ink texture inside the custom title may be lightly hand-drawn, but it must not turn the whole cover into a gritty movie-poster treatment.
+Do NOT make the scene more realistic or more dramatic.
+Make it FLATTER, CLEANER, SIMPLER, and more obviously hand-drawn.
 
-LIGHTING AND EXPOSURE LOCK
-Use readable flat cel-color exposure with visible ink outlines and solid fills. Keep the blackout apartment in deep charcoal and muted blue-gray color blocks without crushing objects into black. Candle amber stays small and local. Device and tattoo accents stay faint and contained. Use at most one hard-edged cel-shadow tone per surface.
-
-No gradients, cinematic color grading, rim light, backlit halos, volumetric beams, lens flare, bloom, airbrushed shading, soft atmospheric falloff, specular highlights, white reflection streaks, glossy hair or skin, reflective windows or floors, or cinematic depth-of-field blur.
-
-HYUN-WOO TATTOO-CURRENT LIMIT
-Hyun-woo's tattoos remain predominantly MATTE BLACK INK. Pale cyan/blue-white current may appear only as a few tiny flat accents tracing selected existing tattoo segments. Most tattoo lines must remain plain matte black.
-
-Do not light every tattoo line. Do not make the current continuous across his neck and arms. Do not create a luminous circuit suit. No neon glow, no halo on skin, no blue light cast onto clothing/face/environment, and no under-skin illumination.
-
-ENVIRONMENT AND APPLIANCE LOCK
-Match Unit 2407's established open-plan layout: living room and matte black television on the left, pale-gray dining table near center, kitchen and matte cool-gray refrigerator on the right, hallway behind, and dark-panel windows on the exterior wall. Walls are flat light cool gray, lower cabinets muted eucalyptus green, counters matte pale gray, floors medium neutral gray, and chairs muted dark burgundy. If the refrigerator is visible, keep its 180 cm-tall matte cool-gray body, two upper doors, lower freezer drawer, recessed dark handles, and narrow black upper-right display. If the television is visible, keep its 110 cm-wide matte black body, thin bezel, centered stand, and low charcoal console. Do not redesign, enlarge, relocate, or add glossy reflections to either appliance.
-
-MAIN CHARACTER - YOON NARI
-Show the SAME approved flat-2D canonical Yoon Nari as the central foreground heroine. The attached approved flat-2D canonical Nari reference controls her identity; the bullets below are consistency checks, not permission to redesign her:
-- Korean woman, 30 years old.
-- Short asymmetrical dark-plum shag haircut.
-- Sharp tired eyes with faint under-eye shadows.
-- Exactly one tiny beauty mark beside the left corner of her mouth; no duplicate facial dot.
-- Yellow scrunchie around one wrist.
-- Oversized graphic hoodie under a cropped utility jacket, loose black trousers, canvas sneakers.
-- Noise-cancelling headphones around her neck.
-- Holding a sticker-covered tablet or notebook; any visible sticker details must be icon-only with no readable writing.
-- Expression: exhausted, suspicious, brave because she has no patience left for fear.
-
-IMPORTANT: Nari must not resemble a newly invented heroine or existing story-library heroines. Do not give her long black hair, an unrelated face, imperial robes, station uniform, red scarf, crescent hair clip, transparent umbrella thriller silhouette, cartographer field coat, palace hair ornaments, school uniform, or teenage proportions.
-
-MALE LEAD - JOO HYUN-WOO
-Beside or slightly behind Nari, show the SAME approved flat-2D canonical Joo Hyun-woo. The attached approved flat-2D canonical Hyun-woo reference controls his identity; the bullets below are consistency checks, not permission to redesign him:
-- Tall Korean man, appears early-to-mid 30s.
-- Broad shoulders and established broad adult build.
-- Long black hair tied low at the nape, never short hair.
-- Severe dark eyes.
-- Established matte black modern technical mask covering the lower half of his face, not a generic cloth mask.
-- Established dense intricate tattoos from neck down both arms and across collarbones, combining circuit traces, breaker symbols, waveform lines, and talisman-like brush geometry. Do not simplify or invent a new tattoo map.
-- Tattoos are matte black with only tiny faint pale electric blue-white accents against the blackout, never neon glow.
-- Wears a black sleeveless top, loose dark utility pants, worn boots, and an old engineer's jacket.
-- Body language: intimidating silhouette, but protective and gentle toward Nari.
-
-IMPORTANT: Hyun-woo's mask must look like the established modern technical lower-face mask. Do not give him short hair, a generic cloth mask, sparse/simple tattoos, a slimmer recast body, palace-prince styling, gothic warlord styling, vampire styling, corporate-avenger styling, school-delinquent styling, or xianxia styling.
-
-SETTING AND STORY SYMBOLS
-Use a layered blackout-apartment composition:
-- Unit 2407 in a matte modern Seoul high-rise, dead smart-home panels, flat black windows, city lights failing outside as simple color dots.
-- A candlelit kitchen table with an opened instant noodle pot/container. Its package design may use abstract graphics/icons only; NO readable Korean, English, numbers, or fake writing.
-- The established fixed-design smart refrigerator or television described above, with only subtle unreadable flat glitch marks on its screen.
-- A normal thick electrical manual and a clearly separate brass physical key on the counter/table.
-- The electrical manual is an ordinary book/binder/manual. It may use a simple abstract electrical diagram or lightning icon only, with NO readable writing.
-- Phone and tablet screens dark or dying using simple icon-only battery/device symbols if needed; no readable words/numbers.
-- Subtle static shapes or black pixel currents near device screens, drawn as restrained flat graphic marks.
-- Rooftop power-grid lines visible as faint flat silhouettes outside the window, not reflected in the glass.
-
-MANUAL + KEY OBJECT LOCK - ABSOLUTE
-The electrical manual and brass key are separate ordinary story props. NEVER add a chain, padlock, lock body, clasp, rope, cable, handcuff, seal, strap, or other restraint around/on/through the manual or key.
-
-Do not depict the manual as physically locked, chained shut, imprisoned, cursed, sealed, or protected. Do not attach the key to a padlock. The brass key must remain clearly recognizable as a separate physical key.
-
+==================================================
 SPOILER BOUNDARY
-Keep the cover reader-friendly. Reveal only the premise: exhausted heroine, masked blackout roommate, haunted smart apartment, romance, and mystery. Do not explain Hyun-woo's origin, the future threat, the culprit, endgame logic, or any late-story answer.
+==================================================
 
-COLOR DIRECTION
-Use a rich urban supernatural romance palette:
-- Deep blackout blacks and flat blue-gray city windows.
-- Warm candle amber around Nari and the table.
-- Tiny faint pale electric blue-white accents in selected Hyun-woo tattoo/device details.
-- Muted plum in Nari's hair and a small yellow scrunchie accent.
-- Natural warm skin tones.
-- Avoid making the palette one-note purple, dark-blue-only, corporate noir red, beige, or palace fantasy gold.
+Reveal only:
+- Nari
+- Hyun-woo
+- blackout apartment premise
+- haunted smart-home mystery
+- electricity motif
+- adult romance/mystery tone
 
-APP THUMBNAIL PREVIEW CONSISTENCY
-The full cover and every app-card crop must preserve the same flat matte color, line weight, canonical character identities, appliance design, and neutral exposure. Keep both leads and the full readable title inside the centered safe area. Do not make the cropped preview darker, brighter, glossier, more reflective, or more cinematic than the full cover.
+Do NOT reveal:
+- Hyun-woo's origin
+- Black Surge origin
+- culprit
+- accident explanation
+- restoration mechanics
+- memory-transfer outcome
+- future climax
+- unmasked Hyun-woo
 
-COMPOSITION
-Nari should be the first thing the viewer sees, with the same canonical Hyun-woo close enough to feel like her impossible roommate and protector. The title must sit cleanly in the upper portion/upper third with strong flat contrast. The instant noodles, candle, dead smart devices, separate brass key, normal electrical manual, and faint tattoo accents should make the premise instantly readable: a romantic supernatural roommate story built around blackouts.
+==================================================
+FINAL STORY-COVER ACCEPTANCE GATE — ALL MUST PASS
+==================================================
 
-STORY CLARITY
-The image should tell the viewer this story is about an exhausted game designer, a mysterious masked tattooed man who appears only when the power goes out, haunted smart-home devices, and a dangerous romance tied to electricity, missing records, and blackout secrets.
+Before accepting the image, verify:
 
-FINAL STORY-COVER ACCEPTANCE GATE - ALL MUST PASS
-Before accepting the generated cover, verify:
-1. Nari matches `nari-canonical-flat2d.png` exactly in identity.
-2. Hyun-woo matches `hyunwoo-canonical-flat2d.png` exactly in identity.
-3. The complete title is exact and sits in the upper portion/upper third.
-4. `BLACKOUTS` has only restrained in-letter interrupted-circuit details; there are no large lightning/crack/arc effects.
-5. The story title is the ONLY readable text anywhere in the artwork.
-6. The noodle container, manual, tablet, phones, appliance screens, wall papers, and all other props contain no readable words/numbers.
-7. The electrical manual is normal and unchained; the brass key is separate and clearly visible; no padlock/chain/restraint exists.
-8. Hyun-woo's tattoo current is tiny, flat, sparse, and nonluminous.
-9. The entire illustration is 100% flat 2D matte manga/manhwa with clean ink, solid blocking, and simple hard-edged cel shadows; no cinematic/gritty/photorealistic material treatment.
+1. Nari matches `nari-canonical-flat2d.png` in identity.
+2. Hyun-woo matches `hyunwoo-canonical-flat2d.png` in identity.
+3. The exact full title is in the upper 25–35% / upper third.
+4. BLACKOUTS has only tiny in-letter interrupted-circuit details and NO large lightning/crack/arc effects.
+5. The exact story title is the ONLY readable text anywhere in the artwork.
+6. NO noodles, ramen, noodle cups, noodle bowls, noodle packets, chopsticks-with-noodles, food containers, food packaging, or substitute food appears anywhere.
+7. The electrical manual is normal/unlocked/unchained, and the brass key is separate and clearly visible.
+8. Hyun-woo's tattoos remain mostly matte black with only tiny sparse nonluminous current accents.
+9. The entire image is clearly 100% flat 2D matte human-drawn manga/manhwa — no cinematic, gritty, glossy, photorealistic, 3D, painterly, reflective, or over-rendered treatment.
 10. No comic panels, gutters, speech bubbles, captions, SFX, page numbers, extra characters, spoilers, watermark, signature, or extra logo appear.
 
-Any one failure means the story cover remains REJECTED and must be corrected/regenerated before `story_cover.png` is accepted.
+ANY ONE FAILURE = REJECT / CORRECT / REGENERATE.
 
-AVOID
-Avoid any character recast or identity drift; Nari with long hair or an unrelated face; duplicate Nari beauty marks; Hyun-woo with short hair, generic cloth mask, simplified tattoos, or slimmer recast build; attaching/copying the legacy cover as an active production reference; treating this symbolic cover as a literal Chapter 1 scene; comic panels or gutters; black-and-white only; plain sketch; school uniforms; teen romance; fantasy robes; palace clothing; crowns; historical half-masks; station uniforms; red scarves; coffins; lilies; loyalty percentages; corporate revenge boardroom mood; debt ledger boxes; cartography maps; glossy webtoon shine; shiny apartment surfaces; mirror-like reflections; glass glare; wet floors; glossy counters; glossy refrigerator doors; plastic shine; excessive glow; cinematic lighting; rim light; bloom; lens flare; volumetric beams; gradients; depth-of-field blur; photorealism; semi-photorealism; 3D/CG render; painterly concept art; airbrushed rendering; gritty movie-poster texture; realistic surface distress; western superhero style; chibi style; childish mood; heavy gore; cluttered title area; title in the lower half; giant lightning through the title; large electrical arcs; readable Korean/English/number text on props; chained or padlocked manual; unreadable title; fake extra words; synopsis text; genre text; author names; watermarks; signatures; page numbers; app interface elements; and copying any existing story cover layout.
+Do not approve a cover merely because it looks dramatic or attractive.
 ```
 
 ## App Metadata
@@ -258,11 +432,10 @@ Yoon Nari rents an unusually cheap smart apartment with one rule: never turn off
 
 ## Usage Notes
 
-- Do NOT attach the legacy/original cover during normal final cover or interior-page generation. It is a historical design source only and its rendering conflicts with the current production style.
-- Use the already approved `Character-References/nari-canonical-flat2d.png` and `Character-References/hyunwoo-canonical-flat2d.png` as the only active identity references for final story-cover generation.
-- If correcting a rejected cover, it may be used only as an edit target/composition scaffold; canonical identity still comes from the approved Nari/Hyun-woo PNGs.
-- ChatGPT output should be PNG first: `story_cover.png`.
-- After approval, manually convert the PNG to `story_cover.webp`.
-- Use `story_cover.webp` for the mobile and web app story selection list.
-- The genre and synopsis above are app metadata only. Do not include them in the generated cover image.
-- Keep this cover consistent with the colored flat 2D human-drawn style used for reader-facing comic pages while preserving the approved flat-2D canonical character identities.
+- Attach only `Character-References/nari-canonical-flat2d.png` and `Character-References/hyunwoo-canonical-flat2d.png` as active character identity references.
+- Do not attach the legacy/original cover during normal final generation.
+- A rejected current cover may be used only as an edit target/composition scaffold, never as identity authority.
+- Noodles and all other food props are intentionally excluded from the story-cover design even though noodles remain part of Chapter 1.
+- Generate PNG first as `story_cover.png`.
+- After QA approval, manually convert the approved PNG to `story_cover.webp`.
+- App metadata above must never appear as text inside the generated cover.
