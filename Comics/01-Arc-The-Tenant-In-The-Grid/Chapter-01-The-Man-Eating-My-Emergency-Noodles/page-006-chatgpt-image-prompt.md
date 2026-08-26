@@ -6,7 +6,11 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 6 as PNG. Save it
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 6 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; directly continue the next morning from Page 5.
+Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 5.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. The canonical reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 5 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls Nari's current poses, expression, wardrobe, investigative actions, device handling, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations. Mrs. Na is not visually shown on this page; her communication is text/phone only, so do not invent a physical Mrs. Na image.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +26,7 @@ POWER AND SUPERNATURAL RULE LOCK
 The hostile system corrupts both photos and the digital note using broken white text/crawling black pixels. Only afterward Hyun-woo sends a clean stable cyan warning: `STOP. IT CAN SEE WHAT YOU SAVE.` Do not misidentify him as the actor deleting evidence.
 
 CHARACTER CONSISTENCY
-Nari is the same competent 30-year-old adult, alert and testing reproducibility rather than panicking randomly.
+Nari is the SAME approved canonical competent 30-year-old adult, alert and testing reproducibility rather than panicking randomly. Do not reinterpret her face or hair from text.
 
 SETTING AND PROP CONTINUITY
 Photo 1 and Photo 2 both show blank counter while physical paper/crumbs remain below phone. Tablet freezes after Nari types. Binder contains mundane circuit pages, south-wall diagram, missing Section 17 page, and one handwritten mains-light note. Phone later shows two unanswered calls and one text exchange with Mrs. Na while the open binder stays beside Nari. After the exchange, she closes the binder and physically returns it to the kitchen counter.
@@ -87,5 +91,5 @@ STORY CLARITY
 The reader must understand two photos fail, the hostile system deletes the digital record, Hyun-woo warns Nari afterward, the manual is incomplete, Mrs. Na refuses a real answer, and Nari returns the binder to the counter before shopping.
 
 AVOID
-Avoid `STOP DOCUMENTING ME`, one-photo conclusion, clean styling on corruption, hostile styling on Hyun-woo, revealed Black Surge name/origin, giant binder, binder left open/on the dining table after Panel 8, binder teleportation, open south panel, glossy screens, cinematic effects, and extra text.
+Avoid Nari identity drift, long black hair, generic replacement face, physical Mrs. Na, `STOP DOCUMENTING ME`, one-photo conclusion, clean styling on corruption, hostile styling on Hyun-woo, revealed Black Surge name/origin, giant binder, binder left open/on the dining table after Panel 8, binder teleportation, open south panel, glossy screens, cinematic effects, and extra text.
 ```
