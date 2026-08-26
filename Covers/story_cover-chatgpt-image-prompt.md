@@ -14,11 +14,39 @@ This is symbolic premise art, not a literal Chapter 1 moment. It may combine Nar
 FORMAT
 Generate a PNG image. Use one vertical portrait cover image, app-card friendly, 2:3 aspect ratio, about 1536x2304. Keep the main characters and title inside a safe centered area so the image still works if cropped slightly for mobile cards.
 
-TITLE TEXT ON IMAGE
-Add only this title text, large and readable:
+CUSTOM TITLE DESIGN - INTERRUPTED CIRCUIT LETTERING
+Add only this exact story title and preserve every word:
 MY ROOMMATE ONLY APPEARS DURING BLACKOUTS
 
-Do not add genre, synopsis, author name, art credit, chapter number, watermark, signature, publisher logo, app UI, buttons, badges, speech bubbles, captions, or extra text.
+Do not render the title in a plain default font or as generic text pasted over the illustration. Treat the complete title as one custom hand-drawn cover logo designed into the story world. Use this three-line hierarchy:
+
+MY ROOMMATE
+ONLY APPEARS DURING
+BLACKOUTS
+
+TITLE HIERARCHY
+- `MY ROOMMATE`: bold, clean, custom hand-drawn display lettering in matte off-white/light neutral. Give it a slightly organic, human shape with a modern adult manhwa feeling.
+- `ONLY APPEARS DURING`: smaller, compact, quieter, visually subordinate, and still fully readable.
+- `BLACKOUTS`: the largest and strongest title element. Make it slightly more geometric/electrical than `MY ROOMMATE`, while keeping both sections visibly related as one coherent logo.
+
+INTERRUPTED-CIRCUIT TREATMENT FOR `BLACKOUTS`
+Use custom hand-drawn lettering, not a generic glitch font. Keep most letterforms clean and instantly readable. Add only a few story-specific electrical details across the whole word: two or three tiny intentional breaks in selected strokes; at most one short circuit-trace line integrated into a letter; one small breaker/switch-like geometric detail or disconnected stroke ending like a cut circuit; and no more than one or two tiny flat black-pixel interruptions. Subtle angles may echo Hyun-woo's circuit-sigil tattoo geometry. Do not distort every letter or turn the word into glitch art.
+
+ELECTRICAL AND WARM ACCENTS
+Allow extremely restrained pale cyan-white flat accents on selected parts of `BLACKOUTS`, echoing Hyun-woo's faint tattoo-current color. Accents must be matte, graphic, contained, and nonluminous. A single tiny matte amber divider, short underline segment, or disconnected accent may echo the candle motif if useful. Do not turn `BLACKOUTS` orange and do not add fire or glowing candle effects to the letters.
+
+HYUN-WOO DESIGN RHYME
+Create only a subtle graphic-design relationship between one tattoo circuit angle/breaker symbol and one `BLACKOUTS` letter stroke. This is visual rhyme, not an in-story event. Do not draw cables, beams, electrical tendrils, or lightning arcs connecting Hyun-woo's body to the title.
+
+MOBILE THUMBNAIL READABILITY
+The full title must remain immediately readable when reduced to a small mobile/web app selection card. Use strong silhouettes and sufficient stroke thickness. Avoid hairline strokes, tiny decorative clutter, excessive spacing, too many circuit breaks, heavy static, or severe distortion. The title wording must be understood before its special details are noticed.
+
+TITLE INTEGRATION AND SAFE AREA
+Place the coherent three-line title in the upper portion/upper third safe area, designed into the composition with strong flat contrast. Keep it safe under slight app-card cropping and protect Nari's face/hair and Hyun-woo's eyes/mask. Do not place title letters over those identifiers, rotate the full title vertically, use random diagonal movie-poster typography, or add a large drop shadow that makes the title look like a floating sticker.
+
+All title lettering must use flat ink/cel color with no glow. Explicitly reject plain Arial-like or Helvetica-like lettering, generic system fonts, generic serif novel-cover fonts, generic cyberpunk/gaming/sci-fi fonts, heavy RGB glitch or red/blue channel separation, unreadable digital distortion, excessive static, dripping horror fonts, gothic blackletter, palace/fantasy calligraphy, runes, graffiti, chrome/metallic letters, beveling, embossing, extruded 3D letters, reflective/glass/glossy typography, neon-sign treatment, glowing outlines, outer glow, bloom, rim light, lens flare, cinematic title lighting, smoke effects, lightning around every word, giant electrical explosions, excessive black-pixel corruption, or sticker-like title shadows.
+
+Do not add a subtitle, tagline, author name, art credit, chapter number, genre, synopsis, publisher text, app text/UI, buttons, badges, fake logos, watermark, signature, Korean translation, speech bubbles, captions, or any other wording.
 
 STYLE TARGET - COLORED FLAT 2D MODERN SUPERNATURAL ROMANCE MANHWA COVER
 Use 100% flat 2D human-drawn colored manga/manhwa artwork with matte cel colors and controlled hard-edged shading.
