@@ -6,7 +6,11 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 18 as PNG. Save i
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 18 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; directly continue Page 17 and preserve every object state.
+Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 17 and preserve every object state.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. The canonical reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 17 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls Nari's current pose, expression, notebook retrieval, writing, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations. Hyun-woo remains voice-only through the speaker and must not be drawn, reflected, silhouetted, or reconstructed physically.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +26,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Hyun-woo remains voice-only through weak clean cyan speaker signal. Final TV text belongs to hostile system: broken stark-white glyphs with crawling black pixels. The unplugged TV is briefly energized by supernatural current, not ordinary power. Never draw physical Hyun-woo.
 
 CHARACTER CONSISTENCY
-Nari retains exact adult face/outfit and analytical behavior. Her observation and hypothesis are deliberately separate because one blackout is not proof.
+Nari is the SAME approved canonical adult face/outfit and analytical behavior. Her observation and hypothesis are deliberately separate because one blackout is not proof.
 
 SETTING AND PROP CONTINUITY
 Nari looks at binder when asking about missing section. She then walks to desk, lifts A5 grocery notebook, returns to table, opens it, and writes. Do not move binder/key. Final TV contains only hostile text, no silhouette or reflection.
@@ -82,5 +86,5 @@ STORY CLARITY
 The reader must understand Hyun-woo avoids the missing-page question, admits potential danger, Nari documents one observation plus one hypothesis on paper, and the hostile system - not Hyun-woo - confirms her tenancy.
 
 AVOID
-Avoid old `CRITICAL ISSUE` wording, physical Hyun-woo, moving binder/key, reflective TV/silhouette, clean cyan final text, glossy/cinematic effects, cluttered tiny text, future spoilers, extra text, and generated images beyond this single page.
+Avoid Nari identity drift, long black hair, generic replacement face, physical/reflected/silhouetted Hyun-woo, old `CRITICAL ISSUE` wording, moving binder/key, reflective TV/silhouette, clean cyan final text, glossy/cinematic effects, cluttered tiny text, future spoilers, and extra text.
 ```
