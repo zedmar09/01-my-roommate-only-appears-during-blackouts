@@ -36,11 +36,11 @@ This audit is derived from the current `chapter.md` and all 18 page prompts. It 
 |---:|---|---|
 | 1 | Move-in night, corridor to Unit 2407 | Nari visibly unlocks, crosses threshold, and discovers the implausibly cheap smart apartment. |
 | 2 | Later that evening | Mrs. Na arrives from corridor, detaches backup key, gives mains-light/screen warning, refuses details, leaves; Nari moves key to entry tray. |
-| 3 | One week later | Optimization comedy leads to one brief flicker and Hyun-woo's first clean speaker voice; Nari unplugs speaker. |
+| 3 | `ONE WEEK LATER`, daytime; `THAT NIGHT` before Panel 4 | Daytime optimization comedy visibly ends before the night kitchen scene; one brief flicker permits Hyun-woo's first clean speaker voice, then Nari unplugs the speaker. |
 | 4 | Two nights later | TV turns on, Nari unplugs it, verifies it remains active, then asks who; clean `OUR APARTMENT` and unseen hostile fridge seed. |
-| 5 | Same night to next morning | Key/speaker/note/guarded knife are placed; 1:17 A.M. flicker permits crumb reply; morning reveals `TENANT.` |
-| 6 | Same morning | Two photos fail, tablet record is corrupted by hostile signature, Hyun-woo warns, Nari reads incomplete manual and contacts Mrs. Na. |
-| 7 | Later that day | Nari shops at a home-supply mart and establishes safe pantry/desk emergency trays. |
+| 5 | Same night; `LATER THAT NIGHT - 1:17 A.M.`; `THE NEXT MORNING` | Key/speaker/note/guarded fruit knife are placed before the first gutter; the 1:17 A.M. flicker permits the crumb reply; the second gutter precedes the morning `TENANT.` reveal. |
+| 6 | Same morning | Two photos fail, tablet record is corrupted by hostile signature, Hyun-woo warns, Nari reads the incomplete manual, contacts Mrs. Na, then visibly closes and returns the binder to the kitchen counter. |
+| 7 | Later that day | Nari buys one sheathed practical knife and other supplies at a home-supply mart; the guarded fruit knife remains in Unit 2407; pantry/desk emergency trays are established. |
 | 8 | Two days later, after work | Hyun-woo's petty device sabotage spares car key; Nari enters elevator and Seungjae exits. |
 | 9 | Later that night, 12:43 A.M. | Citywide outage turns off Unit 2407's mains lamp; phone with known charge, flashlight, and radio fail; corridor backup remains separate. |
 | 10 | Through 12:56 A.M. | Repeated tests consume thirteen minutes; Nari safely draws established knife and moves desk-to-kitchen; cooking evidence is visible. |
@@ -69,11 +69,11 @@ This audit is derived from the current `chapter.md` and all 18 page prompts. It 
 |---|---|---|
 | Brass backup key | Page 2 on Mrs. Na's ring | Detached to counter, moved to entry tray; briefly used defensively Page 4, returned Page 5; remains in tray through Page 18. |
 | Remaining key ring / handbag | Page 2 with Mrs. Na on arrival | Both leave with Mrs. Na; neither reappears. |
-| Electrical binder | Page 2 to kitchen counter | Page 6 moves to dining table for reading, then returns to counter; remains there through ending. Section 17 missing; south-wall diagram present. |
+| Electrical binder | Page 2 to kitchen counter | Page 6 moves to dining table for reading, stays beside Nari through the Mrs. Na exchange, then Panel 9 shows Nari close it, carry it, and place it back on the counter; Page 7 begins with it there and it remains through the ending. Section 17 missing; south-wall diagram present. |
 | Speaker / stockpot / towels / lid | Speaker plugged on counter Page 1, unplugged Page 3 | Page 5 speaker enters stockpot under two towels/lid in lower cabinet; cabinet stays closed until Pages 16-17; lid ends propped open and speaker remains unplugged inside. |
 | Paper note / toaster crumbs | Page 5 beside toaster | 1:17 A.M. flicker moves crumbs into `TENANT.`; physical evidence remains while photos fail. |
-| Guarded fruit knife | Page 5 kitchen drawer | Blade guard secured before placement under sofa cushion; remains there. |
-| Practical knife / sheath | Bought Page 7 | Sheathed in desk tray, handle toward chair; drawn Page 10, sheath stays tray; knife drops Page 14, retrieved and re-sheathed Page 17; ends in desk tray. |
+| Guarded fruit knife | Page 5 kitchen drawer | Blade guard secured before placement under sofa cushion; remains in Unit 2407 and is never taken to or purchased at the Page 7 store. |
+| Practical knife / sheath | Sole knife bought Page 7 | Purchased already sheathed, then stored in desk tray with handle toward chair; drawn Page 10, sheath stays tray; knife drops Page 14, is retrieved and re-sheathed Page 17, and ends in desk tray. |
 | Pantry emergency tray | Page 7 lower pantry | Holds candle holders, short candles, matches, batteries, can opener. One candle/holder and matchbox used during blackout. |
 | Desk emergency tray | Page 7 right of keyboard | Holds flashlight, radio, sheathed knife. Phone sits on desk. Flashlight/radio fail Page 9 and remain there. |
 | Noodle inventory | Page 7, six packets | One spicy-seafood packet used; empty wrapper appears Pages 10-12; five other flavors remain visible in pantry. |
@@ -92,6 +92,7 @@ This audit is derived from the current `chapter.md` and all 18 page prompts. It 
 - Nari verifies the unplugged TV remains active before asking who speaks.
 - Nari repeats the failed photo and device tests.
 - Nari reads the manual and contacts Mrs. Na rather than ignoring available evidence.
+- Nari visibly returns the binder from dining table to kitchen counter before the Page 7 shopping trip.
 - Nari's preparation uses safe sheaths, holders, a trivet, a fixed tray orientation, and a realistic retailer.
 - Nari checks locks, access history, camera history, security, and Mrs. Na after the physical intruder event.
 - Nari examines the food before eating.
@@ -104,4 +105,4 @@ Every page prompt requires 100% flat 2D human-drawn modern manga/manhwa, matte c
 
 ## Verification Result
 
-The independent final audit verified the prose, all 18 prompts, metadata, style guide, prompt template, three cover/support prompts, file sequence, declared/actual panel counts, time cards, dialogue ownership, actor signatures, object states, style locks, spoiler boundary, and stale-language searches. No generated images are present in the repository.
+The independent final audit verified the prose, all 18 prompts, metadata, style guide, prompt template, three cover/support prompts, file sequence, declared/actual panel counts, both Page 3 and Page 5 time-card pairs, the Page 6-7 binder handoff, the single Page 7 knife purchase, the unspecified power-return time, harmless jealousy canon, dialogue ownership, actor signatures, object states, style locks, spoiler boundary, and stale-language searches. No generated images are present in the repository.

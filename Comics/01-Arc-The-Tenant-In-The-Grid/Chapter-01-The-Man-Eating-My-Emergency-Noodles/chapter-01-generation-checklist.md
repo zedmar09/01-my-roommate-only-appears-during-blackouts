@@ -2,7 +2,7 @@
 
 Status: PASS — STORY AND PROMPT PACKAGE READY FOR IMAGE GENERATION
 
-The independent final audit records a verified pass. Generate pages only in the numbered order below and reject any output that fails a gate in this checklist.
+The independent final audit records a verified pass after the six-item correction cycle. Generate pages only in the numbered order below and reject any output that fails a gate in this checklist.
 
 ## Prompt And Output Sequence
 
@@ -81,7 +81,10 @@ Required appearance: 100% flat 2D human-drawn modern manga/manhwa, clean visible
 ## Timeline And Action Rejection Gate
 
 - Reject missing/unreadable time cards or decorative/numbered time cards.
+- Reject Page 3 without both unnumbered undecorated gutters: `ONE WEEK LATER` before Panel 1 and `THAT NIGHT` between Panels 3 and 4.
+- Reject Page 5 without both unnumbered undecorated gutters: `LATER THAT NIGHT - 1:17 A.M.` between Panels 4 and 5 and `THE NEXT MORNING` between Panels 5 and 6.
 - Reject the old seven-minute/12:50 interval; the kitchen discovery is thirteen minutes into the blackout at 12:56 A.M.
+- Reject any invented exact power-return or outage-end timestamp; Page 16 camera text must read `OUTAGE INTERVAL / FILE ERROR`.
 - Reject meaningful location changes without entry/walk/connecting context.
 - Reject reordered TV beats: on -> approach -> unplug -> still active -> reaction -> question.
 - Reject one-photo evidence conclusion; two failed photos must appear.
@@ -93,6 +96,7 @@ Required appearance: 100% flat 2D human-drawn modern manga/manhwa, clean visible
 
 - Reject oversized key, binder, speaker, knife, candle, holder, noodle pot, notebook, refrigerator, or Hyun-woo.
 - Reject any unguarded fruit knife under the sofa cushion or unsheathed practical knife in the desk tray.
+- Reject the guarded fruit knife appearing at the Page 7 store, any claim that two knives are purchased, or any purchase other than the single sheathed practical knife.
 - Reject missing sheath when knife moves, changed handle orientation, or blind grip on blade.
 - Reject candle without ceramic holder or extinguished candle missing its smoke/holder.
 - Reject hot noodle pot directly on table, missing trivet, or confusing handle cloth with table protection.
@@ -103,11 +107,11 @@ Required appearance: 100% flat 2D human-drawn modern manga/manhwa, clean visible
 
 - Page 1: visible first entry and fixed apartment establishment.
 - Page 2: Mrs. Na arrives/enters, detaches key, defines rule, answers blackout question evasively, leaves; key moves separately.
-- Page 3: one-week card, 19 C thermostat, clean speaker voice during flicker, visible unplug.
+- Page 3: `ONE WEEK LATER` and mid-page `THAT NIGHT` cards, 19 C thermostat, clean speaker voice during flicker, visible unplug.
 - Page 4: unplugged-TV order and separate hostile refrigerator seed.
-- Page 5: speaker hiding, paper note, guarded knife, 1:17 flicker, next-morning crumb answer.
-- Page 6: two failed photos, hostile corruption, clean warning, missing manual section, Mrs. Na contact.
-- Page 7: realistic retailer, physically possible two-bag entry, safe pantry/desk setup.
+- Page 5: speaker hiding, paper note, guarded fruit knife, `LATER THAT NIGHT - 1:17 A.M.` card, flicker, `THE NEXT MORNING` card, crumb answer.
+- Page 6: nine panels showing two failed photos, hostile corruption, clean warning, missing manual section, Mrs. Na contact, then binder closure/carry/return to counter.
+- Page 7: binder begins on counter, only one sheathed practical knife is purchased, fruit knife stays in apartment, realistic retailer, physically possible two-bag entry, safe pantry/desk setup.
 - Page 8: comic device sabotage, working car key, completed elevator entry/exit.
 - Page 9: 12:43 citywide outage, visible lamp compliance, 81% phone evidence, separate corridor backup.
 - Page 10: repeated-test montage, 12:56 card, safe knife draw, connected route, candle holder/trivet/cooking evidence.
@@ -116,7 +120,7 @@ Required appearance: 100% flat 2D human-drawn modern manga/manhwa, clean visible
 - Page 13: no refrigerator reflection; rise/cross/block/warn sequence; hostile name reveal.
 - Page 14: mains-light/candle explanation, blue center, ordered horror reaction, `WARM.` first-touch evidence.
 - Page 15: actor distinction, unit remains dark through dialogue, power snap, next-beat absence.
-- Page 16: lock/latch/log/camera/security/landlord checks before speaker.
+- Page 16: lock/latch/log/camera/security/landlord checks before speaker; camera labels only the `OUTAGE INTERVAL`, with no invented return time.
 - Page 17: borrowed current, safe knife storage, food inspection/hesitation, concise rules.
 - Page 18: missing-page evasion, danger admission, notebook observation/hypothesis, hostile final TV.
 

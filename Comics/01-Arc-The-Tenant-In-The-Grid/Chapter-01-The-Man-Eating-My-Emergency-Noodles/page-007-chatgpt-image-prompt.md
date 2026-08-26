@@ -25,7 +25,7 @@ CHARACTER CONSISTENCY
 Nari is the same 30-year-old adult in practical daytime outerwear, dark-plum shag, beauty mark, yellow scrunchie, headphones, tablet/bag identifiers.
 
 SETTING AND PROP CONTINUITY
-At a large home-supply mart with supermarket floor, buy short pillar candles, ceramic holders, matches, spare batteries, flashlight, portable radio, manual can opener, and practical knife already inside protective sheath. At home, pantry tray receives candles/holders/matches/batteries/can opener beside exactly six noodle packets: one spicy seafood plus five other flavors. Desk tray receives flashlight, radio, sheathed knife with handle facing chair. Guarded fruit knife remains under sofa cushion. Binder returns to counter; key remains entry tray.
+At a large home-supply mart with supermarket floor, buy short pillar candles, ceramic holders, matches, spare batteries, flashlight, portable radio, manual can opener, and one practical knife already inside a protective sheath. At home, pantry tray receives candles/holders/matches/batteries/can opener beside exactly six noodle packets: one spicy seafood plus five other flavors. Desk tray receives flashlight, radio, and the newly purchased sheathed practical knife with handle facing chair. The previously guarded fruit knife remains under the sofa cushion in Unit 2407 and never appears at the store. Binder begins and remains on the kitchen counter from Page 6; key remains in entry tray.
 
 OBJECT SCALE AND SPATIAL LOGIC
 All supplies fit in two ordinary bags. Nari carries both handles in left hand, uses right to tap lock and push door. Knife remains sheathed. Props never enlarge.
@@ -51,7 +51,7 @@ Add small circled numbers 1-6, not on time card or over faces/text/hands/props.
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Establish a large neighborhood home-supply mart/supermarket, not a convenience store. Nari compares ordinary emergency supplies in a household aisle.
 
-PANEL 2 - Checkout/bag close view establishes all listed items; both knives shown only as safely packaged/sheath-protected.
+PANEL 2 - Checkout/bag close view establishes all listed purchases. Show only the one newly purchased practical knife, already secured inside its protective sheath. Do not show the apartment's guarded fruit knife at the store.
 CAPTION: IF THE APARTMENT WANTED RULES, NARI COULD BUILD A TEST ENVIRONMENT.
 
 PANEL 3 - Corridor at Unit 2407. Both bag handles are in Nari's left hand; right hand taps smart lock.
@@ -70,8 +70,8 @@ TEXT AND LETTERING RULES
 Use only listed caption/SFX. Product packaging may use simple color symbols but no fake brand paragraphs.
 
 STORY CLARITY
-The reader must understand where every emergency item comes from, how Nari physically enters with two bags, and exactly where each supply is stored.
+The reader must understand that only the practical knife is purchased, the guarded fruit knife stays in the apartment, where every emergency item comes from, how Nari physically enters with two bags, and exactly where each supply is stored.
 
 AVOID
-Avoid convenience-store setting, free-hand contradiction, loose blades, missing holders/sheaths, random noodle count, oversized gear, supernatural effects, glossy/cinematic rendering, extra text, and teleporting props.
+Avoid convenience-store setting, fruit knife shown or purchased at the store, wording or imagery implying two knife purchases, free-hand contradiction, loose blades, missing holders/sheaths, random noodle count, oversized gear, supernatural effects, glossy/cinematic rendering, extra text, and teleporting props.
 ```

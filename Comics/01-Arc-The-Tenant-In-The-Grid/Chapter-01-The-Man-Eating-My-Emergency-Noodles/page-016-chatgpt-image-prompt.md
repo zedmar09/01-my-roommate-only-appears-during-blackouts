@@ -34,7 +34,7 @@ CONTINUITY
 Nari treats a masked man in a locked apartment as a possible real intruder before accepting a supernatural explanation.
 
 TIME AND SCENE CONTINUITY
-Immediate minutes after power return; one continuous security check. No time card or flashback.
+Immediate minutes after power return; one continuous security check. The exact power-return time remains deliberately unspecified. No time card or flashback.
 
 TIME TRANSITION CARD
 NO TIME CARD. Direct continuation.
@@ -59,7 +59,7 @@ PANEL 3 - Smart-lock history close-up: only Nari's earlier entry; no door openin
 LOCK TEXT: LAST ENTRY - NARI / NO OTHER ENTRY
 
 PANEL 4 - Door-camera archive: normal thumbnails before outage, one broken black/corrupt interval, then empty emergency-lit corridor. No person/silhouette.
-CAMERA TEXT: 12:43-12:58 / FILE ERROR
+CAMERA TEXT: OUTAGE INTERVAL / FILE ERROR
 
 PANEL 5 - Nari calls building security. Small parallel inset shows silent elevator and flat corridor emergency light outside unit.
 SECURITY VOICE: ELEVATORS STOPPED. EMERGENCY LIGHTS ONLY. NO INTRUDER REPORTED.

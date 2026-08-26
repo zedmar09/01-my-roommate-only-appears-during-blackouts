@@ -34,19 +34,20 @@ CONTINUITY
 This is Nari's practical response to `OUR APARTMENT`, followed by Hyun-woo's small-object answer during a documented flicker.
 
 TIME AND SCENE CONTINUITY
-Panels 1-5 continue the same night. Then use a dedicated mid-page time card before the morning result. No flashback.
+Panels 1-4 continue the same night after Page 4. A dedicated gutter advances to the 1:17 A.M. flicker in Panel 5, then a second dedicated gutter advances to the morning result in Panels 6-7. No flashback.
 
 TIME TRANSITION CARD
-Between Panels 5 and 6, add an unnumbered quiet full-width gutter containing only: THE NEXT MORNING
+Between Panels 4 and 5, add an unnumbered quiet full-width gutter containing only: LATER THAT NIGHT - 1:17 A.M.
+Between Panels 5 and 6, add a second unnumbered quiet full-width gutter containing only: THE NEXT MORNING
 
 SPOILER BOUNDARY
 Do not show who moved the crumbs, Hyun-woo's body, hostile entity form, or future lore.
 
 PAGE FORMAT AND PACING
-One vertical page with 7 panels plus the unnumbered mid-page time card.
+One vertical page with 7 panels plus two unnumbered mid-page time-card gutters.
 
 PANEL ORDER NUMBERS
-Add small circled numbers 1-7; do not number the time card or cover text/faces/hands/props.
+Add small circled numbers 1-7; do not number either time-card gutter or cover text/faces/hands/props.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Nari visibly returns the brass key to the shallow entry tray.
@@ -61,6 +62,8 @@ NOTE: WHO ARE YOU?
 PANEL 4 - Nari secures the fruit knife's fitted guard, then slides the guarded knife beneath a sofa cushion.
 SFX: SHK.
 
+[UNNUMBERED TIME CARD: LATER THAT NIGHT - 1:17 A.M.]
+
 PANEL 5 - Late-night wide panel: hallway lamp on; at exactly 1:17 A.M. it clicks off and back on for one breath while Nari sleeps. Close foreground shows crumbs beginning to scrape across the note.
 SFX: KLIK. SCRITCH.
 
@@ -72,14 +75,14 @@ PANEL 7 - Close-up: physical note still reads `WHO ARE YOU?`; burnt crumbs under
 CRUMB TEXT: TENANT.
 
 SFX AND TEXT BLENDING
-Keep object sounds small and physical. No decorative time-card content.
+Keep object sounds small and physical. No decorative content in either time-card gutter.
 
 TEXT AND LETTERING RULES
 Use only exact uppercase note/crumb/SFX text. Crumbs form only `TENANT.` and remain visibly physical, not screen text.
 
 STORY CLARITY
-The reader must trace every defensive object placement and understand the crumb reply required a brief electrical flicker rather than full physical manifestation.
+The reader must trace every defensive object placement, see time advance explicitly to 1:17 A.M. and then morning, and understand the crumb reply required a brief electrical flicker rather than full physical manifestation.
 
 AVOID
-Avoid unguarded knife, moving speaker without showing hands, missing towels/lid, crumbs moving without flicker, physical Hyun-woo, hostile signature, flashback styling, glossy/cinematic effects, and extra text.
+Avoid missing, numbered, or decorated time-card gutters; unguarded knife; moving speaker without showing hands; missing towels/lid; crumbs moving without flicker; physical Hyun-woo; hostile signature; flashback styling; glossy/cinematic effects; and extra text.
 ```

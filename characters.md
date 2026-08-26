@@ -100,7 +100,7 @@ Device communication must distinguish Hyun-woo from the hostile system even when
 - Personality: Charming, ambitious, not as smooth as he thinks, genuinely impressed by Nari's talent, but too used to turning every conversation into networking.
 - Visual Design: Korean man with neatly styled brown hair, fashionable office-casual outfits, a smartwatch, wireless earbuds, and a pristine foldable phone.
 - Strongest Identifiers: Smartwatch, foldable phone, practiced smile, battery anxiety.
-- Story Function: Provides romantic comedy pressure and exposes Hyun-woo's jealousy through drained devices, frozen elevators, and hostile autocorrect.
+- Story Function: Provides romantic comedy pressure and exposes Hyun-woo's jealousy through drained devices, harmless elevator call-button glitches that never trap anyone, and hostile autocorrect.
 - Consistency Notes: Do not make Seungjae a major villain unless the plot later earns it. He is mostly a social irritant and a useful contrast to Hyun-woo.
 
 ### Yang Chulho

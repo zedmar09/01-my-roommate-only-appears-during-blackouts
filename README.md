@@ -81,7 +81,7 @@ Reader-facing release list:
 
 Future chapter titles and long-range reveal sequencing should stay in `series-plan.md` until each chapter is ready for release metadata. Avoid exposing future-arc answers or unreleased title wording too early.
 
-Status: READY FOR IMAGE GENERATION. Chapter 1 prose, the 18-page adaptation, continuity audit, independent final audit, generation checklist, shared visual rules, metadata, and centralized `Covers/` prompts agree. No Chapter 1 PNG/WebP reader assets were generated during this Markdown revision.
+Status: READY FOR IMAGE GENERATION. Chapter 1 prose, the corrected 18-page adaptation, continuity audit, independent final audit, generation checklist, shared visual rules, metadata, and centralized `Covers/` prompts agree. No Chapter 1 PNG/WebP reader assets were generated during this Markdown correction pass.
 
 Long-running plan:
 `series-plan.md`

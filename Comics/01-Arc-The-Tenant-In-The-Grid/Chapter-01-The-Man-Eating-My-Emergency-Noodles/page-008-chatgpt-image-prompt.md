@@ -80,5 +80,5 @@ STORY CLARITY
 The reader must understand Hyun-woo's interference is petty but not transport-dangerous and the lobby scene physically closes before the next time jump.
 
 AVOID
-Avoid dead car key, trapped exits, frozen elevator, Nari only standing at call button, reflected characters in glass, hostile signature, physical Hyun-woo, glossy/cinematic effects, extra text, and flashback.
+Avoid dead car key, trapped exits, any Hyun-woo-caused elevator malfunction, Nari only standing at call button, reflected characters in glass, hostile signature, physical Hyun-woo, glossy/cinematic effects, extra text, and flashback.
 ```

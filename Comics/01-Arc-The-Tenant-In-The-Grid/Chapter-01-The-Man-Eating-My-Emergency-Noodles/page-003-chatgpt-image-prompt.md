@@ -34,19 +34,20 @@ CONTINUITY
 This is the first clean Hyun-woo voice. The apartment has been annoying but not openly threatening.
 
 TIME AND SCENE CONTINUITY
-Comedy montage moves morning to night. No flashback; these are chronological examples across the week.
+Panels 1-3 are a chronological daytime comedy montage one week after move-in. Then a dedicated `THAT NIGHT` gutter bridges to Panels 4-7 in the kitchen at night. No flashback.
 
 TIME TRANSITION CARD
 Before Panel 1, add an unnumbered quiet full-width gutter containing only: ONE WEEK LATER
+Between Panels 3 and 4, add a second unnumbered quiet full-width gutter containing only: THAT NIGHT
 
 SPOILER BOUNDARY
 Do not show Hyun-woo, hostile text, Black Surge imagery, or explanations.
 
 PAGE FORMAT AND PACING
-One vertical page with 7 panels, quick comedy above and a cleaner supernatural beat below.
+One vertical page with 7 panels plus two unnumbered time-card gutters, quick comedy above and a cleaner supernatural beat below.
 
 PANEL ORDER NUMBERS
-Add small circled numbers 1-7, not on the time card and never over text/faces/hands/props.
+Add small circled numbers 1-7, not on either time-card gutter and never over text/faces/hands/props.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Curtains open at sunrise while exhausted Nari lies on the sofa.
@@ -59,6 +60,8 @@ CAPTION: IT WAS WORSE.
 PANEL 3 - Robot vacuum drags a charger as Nari lunges after it.
 SFX: VRRR.
 CAPTION: IT WAS OPTIMIZED.
+
+[UNNUMBERED TIME CARD: THAT NIGHT]
 
 PANEL 4 - Kitchen at night. Nari holds cup noodles and addresses the plugged-in speaker.
 NARI: TURN ON THE KITCHEN LIGHT.
@@ -76,14 +79,14 @@ NARI: WHO SAID THAT?
 SFX: YANK.
 
 SFX AND TEXT BLENDING
-Use rounded comedy SFX above and restrained flat electrical marks below; no glow flooding.
+Use rounded comedy SFX above and restrained flat electrical marks below; no glow flooding. Keep both time-card gutters undecorated.
 
 TEXT AND LETTERING RULES
 Use only listed uppercase text. Speaker voices require bubbles with tails to the screenless speaker. Hyun-woo bubble may have a restrained cyan outline; no hostile black pixels.
 
 STORY CLARITY
-The reader must understand one week passed, the apartment is obnoxiously automated, a different male voice answers during a brief flicker, and Nari unplugs the speaker.
+The reader must understand one week passed, the daytime examples end before `THAT NIGHT`, the apartment is obnoxiously automated, a different male voice answers during a brief flicker, and Nari unplugs the speaker.
 
 AVOID
-Avoid random thermostat values, physical Hyun-woo, hostile signature, oversized speaker, missing cord/plug action, glossy/cinematic rendering, reflections, extra text, and flashbacks.
+Avoid missing, numbered, or decorated time-card gutters; random thermostat values; physical Hyun-woo; hostile signature; oversized speaker; missing cord/plug action; glossy/cinematic rendering; reflections; extra text; and flashbacks.
 ```

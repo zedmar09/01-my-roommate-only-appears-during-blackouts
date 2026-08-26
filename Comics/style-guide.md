@@ -188,5 +188,5 @@ Do not make Hyun-woo look like an imperial half-mask prince, vampire, gothic war
 
 - Device behavior should be funny and readable before it becomes frightening.
 - Use small panels for thermostat insults, smart-speaker misunderstandings, battery drain, and appliance pettiness.
-- Keep Hyun-woo's jealousy comic when aimed at mild flirtation: dead phone, frozen smartwatch, elevator delay, hostile autocorrect.
+- Keep Hyun-woo's jealousy comic when aimed at mild flirtation: dead phone, frozen smartwatch, harmless wrong elevator-arrival chime, hostile autocorrect. Never let the glitch delay, trap, or strand anyone.
 - Shift to horror only when the device text names Nari, records her, or tries to open the south wall.
