@@ -6,7 +6,11 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 4 as PNG. Save it
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 4 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; match approved earlier pages.
+Use `../../../characters.md` and `../../style-guide.md`; match approved Page 3 for page-to-page continuity.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. The canonical reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 3 controls apartment/rendering continuity only and cannot override canonical identity. This page prompt controls current pose, expression, home wardrobe, actions, props, dialogue, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +26,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Hyun-woo's TV text is clean stable cool cyan-white with minimal static. He can briefly energize the unplugged TV through effortful supernatural current; this does not equal ordinary building power. The hostile refrigerator uses broken stark-white glyphs and crawling black pixels. Signatures must look unmistakably different.
 
 CHARACTER CONSISTENCY
-Nari remains 30 with dark-plum shag, tired adult face, beauty mark, yellow scrunchie, home hoodie/trousers. Toothpaste is cleaned before she handles the plug.
+Nari is the SAME approved canonical Nari: 30, short asymmetrical dark-plum shag, tired adult face, beauty mark, yellow scrunchie, home hoodie/trousers. Toothpaste is cleaned before she handles the plug. Do not reinterpret her face from text.
 
 SETTING AND PROP CONTINUITY
 Two nights after Page 3. Hallway mains lamp stays on. Speaker remains unplugged on counter until moved next page. Brass key starts in entry tray, is lifted defensively after the impossible TV remains active, then will be returned next page.
@@ -83,5 +87,5 @@ STORY CLARITY
 The reader must understand the unplugged TV remains active before Nari asks who it is, Hyun-woo claims the apartment, and a visually different actor briefly uses the refrigerator unseen by her.
 
 AVOID
-Avoid asking before confirming unplugging failed, TV reflections/silhouettes, changed refrigerator body, glossy screens, physical Hyun-woo, extra dialogue, cinematic light, flashbacks, spoilers, and oversized key.
+Avoid Nari identity drift, long black hair, generic replacement face, asking before confirming unplugging failed, TV reflections/silhouettes, changed refrigerator body, glossy screens, physical Hyun-woo, extra dialogue, cinematic light, flashbacks, spoilers, and oversized key.
 ```
