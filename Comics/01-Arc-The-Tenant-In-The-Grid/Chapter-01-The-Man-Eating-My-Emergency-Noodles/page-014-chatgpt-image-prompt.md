@@ -6,7 +6,12 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 14 as PNG. Save i
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 14 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; directly continue Page 13.
+Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 13.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md` and the APPROVED flat-2D canonical Hyun-woo reference created from `../../../Character-References/hyunwoo-canonical-flat2d-chatgpt-image-prompt.md`.
+Those canonical references are the absolute authority for each character's face, hair, adult age, persistent identifiers, and stable body proportions. For Hyun-woo they also control the established technical mask, long low-tied hair, broad build, and dense circuit-sigil tattoo map. Approved Page 13 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls current pose, expression, movement, contact, props, dialogue, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +27,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Mrs. Na's normal rule requires an ordinary mains-powered light. With building power absent, candle does not satisfy it and now helps the hostile system locate Nari. Darkness temporarily removes that visual target. Hostile refrigerator can still shriek through supernatural current; Hyun-woo remains physical.
 
 CHARACTER CONSISTENCY
-Nari and Hyun-woo retain exact designs. Hyun-woo presses mask strap; existing matte-black tattoo lines gain faint pale blue-white current accents, never glowing veins under skin.
+Nari and Hyun-woo retain the SAME approved canonical designs. Hyun-woo presses mask strap; existing dense matte-black tattoo lines gain faint pale blue-white current accents, never glowing veins under skin. Do not reinterpret either face, hair, mask, build, or tattoo map from text.
 
 SETTING AND PROP CONTINUITY
 Action order is mandatory: demand candle out; Nari objects; hostile text advances; candle blue center; Nari blows; digital shriek; she covers ears; knife slips/drops; only then Hyun-woo catches wrist. Do not combine these into one pose.
@@ -86,5 +91,5 @@ STORY CLARITY
 The reader must understand why the electric-light rule does not apply to the candle during an outage, Nari extinguishes a blue-centered flame, reacts physically to the shriek, drops the knife, and discovers Hyun-woo's hand is warm.
 
 AVOID
-Avoid white candle center, candle without holder, knife drop before shriek, wrist catch before drop, simultaneous muddled pose, glowing skin veins, neon tattoos, cinematic darkness/glow, crushed black, extra text, and spoilers.
+Avoid Nari or Hyun-woo identity drift, long-haired Nari, short-haired Hyun-woo, generic replacement faces, generic cloth mask, simplified/new tattoo map, slimmer Hyun-woo recast build, white candle center, candle without holder, knife drop before shriek, wrist catch before drop, simultaneous muddled pose, glowing skin veins, neon tattoos, cinematic darkness/glow, crushed black, extra text, and spoilers.
 ```
