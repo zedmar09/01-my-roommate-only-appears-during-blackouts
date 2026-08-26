@@ -6,7 +6,12 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 11 as PNG. Save i
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 11 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; directly continue Page 10 and match its object positions.
+Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 10 and match its object positions.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md` and the APPROVED flat-2D canonical Hyun-woo reference created from `../../../Character-References/hyunwoo-canonical-flat2d-chatgpt-image-prompt.md`.
+Those canonical references are the absolute authority for each character's face, hair, adult age, persistent identifiers, and stable body proportions. For Hyun-woo they also control the established technical lower-face mask, long low-tied hair silhouette, broad build, and dense circuit-sigil tattoo map. Approved Page 10 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls current pose, expression, reveal timing, actions, props, dialogue, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +27,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Ordinary power remains absent, so Hyun-woo is fully physical. His tattoos are existing matte-black circuit-sigil ink; distant emergency activity adds only faint pale blue-white current accents, not veins beneath skin.
 
 CHARACTER CONSISTENCY
-Nari matches Page 10 and holds practical knife low. Hyun-woo: tall Korean man early/mid 30s, broad shoulders, long black hair tied low, severe eyes, black sleeveless top, dark utility trousers, worn boots, modern matte-black lower-face technical mask, matte-black circuit-sigil tattoos.
+Nari is the SAME approved canonical Nari from Page 10 and holds practical knife low. Hyun-woo is the SAME approved canonical tall Korean man early/mid 30s with broad shoulders, long black hair tied low, severe eyes, black sleeveless top, dark utility trousers, worn boots, established modern matte-black lower-face technical mask, and established dense matte-black circuit-sigil tattoos. Do not reinterpret either face, hair, mask, build, or tattoo map from text.
 
 SETTING AND PROP CONTINUITY
 Hyun-woo completed his last bite while hidden. Chopsticks rest against pot before he pulls mask up in shadow. Never show his uncovered lower face or noodles passing through mask. Nari stays at kitchen entrance until her cautious step on Page 12.
@@ -58,7 +63,7 @@ NARI: THE BIGGER ONE. WHO ARE YOU?
 PANEL 3 - In deep shadow, figure's chopsticks already rest at pot; with free hand he pulls technical mask fully over nose/mouth/jaw before face becomes readable.
 SFX: TCHK.
 
-PANEL 4 - Dominant reveal: masked Hyun-woo seated beside candle, tied hair, broad shoulders, matte tattoos with faint restrained current accents. Cooking evidence remains behind.
+PANEL 4 - Dominant reveal: SAME canonical masked Hyun-woo seated beside candle, tied hair, broad shoulders, established matte tattoos with faint restrained current accents. Cooking evidence remains behind.
 HYUN-WOO: MY NAME IS HYUN-WOO.
 
 SFX AND TEXT BLENDING
@@ -71,5 +76,5 @@ STORY CLARITY
 The reader must understand the unknown eater knows Nari's two knives, answers her challenge, secures his mask before visibility, and identifies himself as Hyun-woo.
 
 AVOID
-Avoid uncovered lower face, eating through mask, palace/vampire/xianxia styling, glowing veins, neon tattoos, oversized body/props, cinematic candle glow, reflections, extra text, and spoilers.
+Avoid Nari or Hyun-woo identity drift, short-haired Hyun-woo, generic cloth mask, simplified/new tattoo map, slimmer recast build, long-haired Nari, generic replacement faces, uncovered lower face, eating through mask, palace/vampire/xianxia styling, glowing veins, neon tattoos, oversized body/props, cinematic candle glow, reflections, extra text, and spoilers.
 ```
