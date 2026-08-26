@@ -6,7 +6,11 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 7 as PNG. Save it
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 7 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; preserve approved designs.
+Use `../../../characters.md` and `../../style-guide.md`; preserve approved Page 6 for page-to-page continuity.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. The canonical reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 6 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls Nari's current daytime outerwear, poses, shopping actions, props, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +26,7 @@ POWER AND SUPERNATURAL RULE LOCK
 No supernatural event on this page. Supplies are ordinary analog/battery items. Phone screens are not protective mains lights.
 
 CHARACTER CONSISTENCY
-Nari is the same 30-year-old adult in practical daytime outerwear, dark-plum shag, beauty mark, yellow scrunchie, headphones, tablet/bag identifiers.
+Nari is the SAME approved canonical 30-year-old adult in practical daytime outerwear, dark-plum shag, beauty mark, yellow scrunchie, headphones, tablet/bag identifiers. Do not reinterpret her face or hair from text.
 
 SETTING AND PROP CONTINUITY
 At a large home-supply mart with supermarket floor, buy short pillar candles, ceramic holders, matches, spare batteries, flashlight, portable radio, manual can opener, and one practical knife already inside a protective sheath. At home, pantry tray receives candles/holders/matches/batteries/can opener beside exactly six noodle packets: one spicy seafood plus five other flavors. Desk tray receives flashlight, radio, and the newly purchased sheathed practical knife with handle facing chair. The previously guarded fruit knife remains under the sofa cushion in Unit 2407 and never appears at the store. Binder begins and remains on the kitchen counter from Page 6; key remains in entry tray.
@@ -73,5 +77,5 @@ STORY CLARITY
 The reader must understand that only the practical knife is purchased, the guarded fruit knife stays in the apartment, where every emergency item comes from, how Nari physically enters with two bags, and exactly where each supply is stored.
 
 AVOID
-Avoid convenience-store setting, fruit knife shown or purchased at the store, wording or imagery implying two knife purchases, free-hand contradiction, loose blades, missing holders/sheaths, random noodle count, oversized gear, supernatural effects, glossy/cinematic rendering, extra text, and teleporting props.
+Avoid Nari identity drift, long black hair, generic replacement face, convenience-store setting, fruit knife shown or purchased at the store, wording or imagery implying two knife purchases, free-hand contradiction, loose blades, missing holders/sheaths, random noodle count, oversized gear, supernatural effects, glossy/cinematic rendering, extra text, and teleporting props.
 ```
