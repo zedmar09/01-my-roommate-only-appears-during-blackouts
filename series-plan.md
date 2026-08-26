@@ -75,7 +75,7 @@ Current active arc:
 
 Current working chapter package:
 
-1. The Man Eating My Emergency Noodles - `chapter.md`, 14 page prompts, continuity audit, final audit, and generation checklist are present. Shared `Covers/` prompts for `story_cover`, `front`, and `back` are present. Final reader PNG/WebP assets are not present in this working copy yet.
+1. The Man Eating My Emergency Noodles - `chapter.md`, 18 page prompts, continuity audit, final audit, and generation checklist are present. Shared `Covers/` prompts for `story_cover`, `front`, and `back` are present. Final reader PNG/WebP assets are not present in this working copy yet.
 
 Planned/referenced next chapter:
 

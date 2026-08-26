@@ -63,7 +63,7 @@ Comics/
 - `Comics/01-Arc-The-Tenant-In-The-Grid/Chapter-01-The-Man-Eating-My-Emergency-Noodles/chapter-01-continuity-audit.md`
 - `Comics/01-Arc-The-Tenant-In-The-Grid/Chapter-01-The-Man-Eating-My-Emergency-Noodles/chapter-01-final-audit.md`
 - `Comics/01-Arc-The-Tenant-In-The-Grid/Chapter-01-The-Man-Eating-My-Emergency-Noodles/chapter-01-generation-checklist.md`
-- `Comics/01-Arc-The-Tenant-In-The-Grid/Chapter-01-The-Man-Eating-My-Emergency-Noodles/page-001-chatgpt-image-prompt.md` through `page-014-chatgpt-image-prompt.md`
+- `Comics/01-Arc-The-Tenant-In-The-Grid/Chapter-01-The-Man-Eating-My-Emergency-Noodles/page-001-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md`
 
 Shared cover/promotional banner prompts:
 
@@ -92,9 +92,10 @@ Chapter 2 is planned/referenced, but its folder and files are not present in thi
 - Keep the actual panel script, dialogue, captions, device text, glitch text, and SFX inside each `page-###-chatgpt-image-prompt.md` file.
 - Keep each prompt self-contained with `CHARACTER CONSISTENCY`, `SETTING AND PROP CONTINUITY`, `SPOILER BOUNDARY`, `PANEL ORDER NUMBERS`, `TEXT AND LETTERING RULES`, `STORY CLARITY`, and `AVOID` blocks.
 - Keep Nari's dark-plum asymmetrical shag, yellow scrunchie, headphones, beauty mark, stickered tablet, and practical game-designer silhouette consistent.
-- Keep Hyun-woo's black lower-face technical mask, tied-back long hair, glowing circuit-sigil tattoos, dark sleeveless outfit, and protective body language consistent.
+- Keep Hyun-woo's black lower-face technical mask, tied-back long hair, matte-black circuit-sigil tattoos with faint pale blue-white current accents, dark sleeveless outfit, and protective body language consistent.
 - Keep smart-device text readable and minimal: short phrases only, no paragraphs of tiny generated text.
-- Keep color accents consistent across interior pages: candlelight is warm matte amber, phone/device glow is cool cyan-white, Hyun-woo's tattoos glow pale blue-white, Nari's hair stays dark plum, and her scrunchie stays yellow.
+- Keep color accents consistent across interior pages: candlelight is warm matte amber, device text is limited cool cyan-white, Hyun-woo's tattoo accents stay faint pale blue-white, Nari's hair stays dark plum, and her scrunchie stays yellow.
+- Keep ordinary supplied power separate from supernatural current. Phone screens do not satisfy the mains-light rule or prevent manifestation; disconnected devices may operate only briefly through effortful supernatural current.
 - If a new recurring character appears, add them to `../characters.md` before generating final pages.
 - Generated pages in this folder should be considered the version that readers see in the app.
 - Save generated story pages as PNG first, then manually convert approved pages to final WebP files inside the chapter folder (`1.png`, `1.webp`, `2.png`, `2.webp`, etc.).

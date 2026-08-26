@@ -22,10 +22,12 @@ Use this file as the visual lock for generated comic pages.
 
 ## Colored Flat 2D Modern Supernatural Romance Manga Style Lock
 
+Hard lock: 100% flat 2D human-drawn colored modern manga/manhwa artwork.
+
 - Format: colored flat 2D human-drawn modern Korean manga/manhwa page.
 - Page feel: adult supernatural romantic comedy with modern mystery, matte modern apartment interiors, candlelit domestic intimacy, haunted smart-home glitches, rooftop city views, and sudden electrical horror.
 - Linework: clean hand-drawn ink lines, expressive adult faces, strong silhouettes, consistent facial features, controlled line weight, and polished panel composition.
-- Rendering: matte cel colors, simple controlled shading, clean color blocking, flat candle color, limited cool device text, dead-screen blacks, static texture, glitch borders, and faint pale blue-white electric accents.
+- Rendering: matte cel colors, simple controlled hard-edged shading, clean color blocking, flat candle color, limited cool device text, dead-screen blacks, static texture, glitch borders, and faint pale blue-white electrical accents.
 - Global matte rule: apply the same flat 2D treatment to characters, objects, props, appliances, walls, floors, windows, screens, counters, furniture, city views, and backgrounds. Modern does not mean shiny. Use visible line art and clean color blocks for everything.
 - No glossy or cinematic look: do not generate glossy webtoon shine, bloom, lens flare, dramatic film lighting, heavy gradients, photorealism, 3D render, painterly concept art, airbrushed skin, mirror-like reflections, glass glare, wet-looking floors, glossy counters, glossy refrigerator doors, plastic shine, or over-rendered reflective surfaces.
 - Color-coded story elements stay consistent: Nari's hair is dark plum, her scrunchie is yellow, candlelight is warm matte amber, phone and device text is limited cool cyan-white, and Hyun-woo's tattoos use faint pale blue-white accents over matte black ink. These accents should not cast strong light across the room.
@@ -52,6 +54,18 @@ Use this file as the visual lock for generated comic pages.
 - Power-return transition: use one flat white panel accent without bloom, flare rays, halos, gradient wash, or reflected light. The next powered panel returns immediately to the powered baseline.
 - Keep the same brightness across panels that share the same power state. Brightness may change only when the script explicitly turns power on or off, lights a candle, extinguishes it, or shows the power-return beat.
 - Use at most one hard-edged cel-shadow tone per surface. No soft gradients, rim lighting, backlit halos, volumetric beams, lens flare, bloom, color grading, airbrushed shading, specular highlights, white reflection streaks, glossy skin, glossy hair, glossy appliances, glossy counters, reflective floors, or cinematic depth-of-field blur.
+
+## Electricity, Manifestation, And Darkness Lock
+
+- Distinguish ordinary supplied building/grid power from supernatural current in every prompt. Hyun-woo and the hostile system may briefly energize a dead device without restoring ordinary power.
+- After midnight, Hyun-woo can become fully physical only while Unit 2407 has lost ordinary supplied power. Citywide failure gives him the strongest body; a future local unit outage may make him less stable.
+- A normal mains-powered household light is Mrs. Na's protective powered-night anchor and a visible indicator of ordinary unit power. Switching it off does not imitate a grid outage or create a full body while ordinary supply still exists. Phone screens do not satisfy the rule and do not independently prevent manifestation.
+- Battery devices may exist during manifestation. The hostile system can drain or interfere with them, which is why charged devices fail during Chapter 1's outage.
+- During a brief mains flicker, nonphysical Hyun-woo may send a clean device message or slightly move a lightweight nearby object. He cannot perform large physical actions or form a complete body.
+- A disconnected corded device can speak or show an indicator only when supernatural stored/network current briefly energizes it. Such communication is weak, staticky, effortful, and likely to attract hostile attention.
+- Nonphysical Hyun-woo may cause brief limited battery interference for comedy, but it must remain inconvenient rather than dangerous: no disabled transportation, locked exits, or safety systems.
+- During a building outage, visible phone screens and open flame can help the hostile system locate a person. Total local darkness temporarily denies it a visual target. This blackout rule does not convert candles into protective electric lights.
+- When ordinary power returns to Unit 2407, show Hyun-woo present only while the apartment remains dark. After the power-on beat, he is already absent. Never show dissolution, a portal, particles, a network diagram, or the exact transition.
 
 ## Prompt Workflow
 
@@ -130,7 +144,7 @@ IDENTITY LOCKING
 ```
 
 ```text
-STOP DOCUMENTING ME
+STOP. IT CAN SEE WHAT YOU SAVE.
 ```
 
 Notebook text can be short and handwritten:
@@ -140,7 +154,9 @@ UNIT 2407 BUG REPORT
 ```
 
 ```text
-CRITICAL ISSUE 001: ROOMMATE BECOMES PHYSICAL ONLY DURING BLACKOUTS.
+OBSERVATION 001: ROOMMATE PHYSICAL DURING BLACKOUT.
+
+HYPOTHESIS: LOSS OF BUILDING POWER REQUIRED.
 ```
 
 ## Yoon Nari Visual Lock
@@ -155,7 +171,7 @@ Do not give her imperial robes, station uniform, red scarf, crescent hair clip, 
 
 Joo Hyun-woo, usually addressed as Hyun-woo, must stay consistent: tall Korean man appearing early-to-mid 30s, broad shoulders, long black hair tied low at the nape, severe dark eyes, matte black modern technical mask covering the lower half of his face, intricate circuit-sigil tattoos from neck down both arms and across collarbones, black sleeveless top, loose dark utility pants, worn boots, and old engineer's jacket when needed.
 
-His tattoos should combine circuit traces, waveform lines, breaker symbols, and talisman-like brush geometry. In colored interior pages, they glow pale blue-white against matte black ink whenever power flickers or the entity pushes against him.
+His tattoos should combine circuit traces, waveform lines, breaker symbols, and talisman-like brush geometry. In colored interior pages, the existing matte-black lines gain faint pale blue-white current accents whenever supernatural pressure rises. The marks remain flat ink on skin, never glowing veins or light beneath the skin.
 
 Do not make Hyun-woo look like an imperial half-mask prince, vampire, gothic warlord, corporate revenge lead, school delinquent, xianxia cultivator, or ordinary office worker.
 

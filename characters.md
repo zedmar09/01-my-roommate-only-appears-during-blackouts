@@ -17,6 +17,8 @@ Visual world: present-day Seoul, a smart high-rise apartment, game studio workst
 
 ## Modern Manhwa Adaptation Standard
 
+Hard lock: 100% flat 2D human-drawn colored manga/manhwa artwork with matte cel colors and controlled hard-edged shading.
+
 For comic adaptation, use colored flat 2D human-drawn modern romance manga/manhwa styling with crisp urban backgrounds, expressive adult faces, clean gutters, matte cel colors, simple controlled shading, readable lettering, and consistent character proportions. Apply the same flat matte 2D treatment to characters, props, appliances, walls, floors, windows, screens, counters, furniture, city views, and backgrounds. Candlelight should read as warm flat amber, device text as limited cool flat cyan-white, blackout rooms as controlled dark color blocks, and electric tattoos as faint pale blue-white accents over matte ink.
 
 Across all chapters and arcs, powered scenes use one medium-bright neutral flat-color baseline. Blackout scenes remain readable through deep-charcoal and muted blue-gray solid shapes, never crushed black. Brightness changes only when a scripted power or light source changes. Unit 2407 keeps the same open-plan room geometry and the fixed refrigerator, television, and smart-speaker designs from `Comics/style-guide.md`; a scripted display change alters only screen content, never the appliance body or position.
@@ -52,7 +54,7 @@ Device communication must distinguish Hyun-woo from the hostile system even when
 - Personality: Dry, guarded, territorial about the apartment, surprisingly domestic, protective without making speeches, easily irritated by smart devices that call themselves smart, lonely in ways he hides through teasing. Hyun-woo appears intimidating but has gentle habits: lowering his voice when Nari is tired, leaving the better food portion for her, and checking locks without being asked.
 - Visual Design: Tall Korean man with broad shoulders, long black hair tied low at the nape, severe dark eyes, and a matte black technical mask covering the lower half of his face. Intricate black tattoos run from the sides of his neck down both arms and across his collarbones, combining circuit traces, breaker symbols, waveform lines, and talisman-like brush geometry. The tattoos show faint pale blue-white accents whenever electricity flickers or the entity pushes against the mask; keep the effect graphic, restrained, and matte rather than neon. He usually wears black sleeveless tops, loose dark utility pants, worn boots, and an old engineer's jacket with no visible company logo.
 - Strongest Identifiers: Lower-face black mask, matte black circuit-sigil tattoos with faint pale blue-white accents, long tied-back hair, dark sleeveless clothing, habit of touching the mask strap when resisting the entity, quiet competence with broken electrical systems.
-- Physical Rule: Hyun-woo has a touchable human body only when the apartment has no active electricity after midnight. When power returns, his body breaks into current and he is pulled into the building network.
+- Physical Rule: After midnight, Hyun-woo has a touchable human body only while Unit 2407 has lost ordinary supplied building/grid power. Battery devices and supernatural current do not count as supplied power. When ordinary unit power returns, he is simply no longer physically present; do not depict or explain the exact transition in early chapters.
 - Mask Rule: The mask suppresses the electrical entity inside him. Removing it may reveal his face, but it also gives the entity a direct path into his voice and muscles.
 - Story Function: Introduces the apartment's impossible rules, protects Nari from the entity, and becomes the emotional center of the memory-restoration conflict.
 - Romance Function: Hyun-woo wants to become human again but fears the price: Nari forgetting every blackout evening that made him real to her.
@@ -138,7 +140,15 @@ Device communication must distinguish Hyun-woo from the hostile system even when
 
 ## World And Continuity Notes
 
-- Hyun-woo can be remembered only by people who encounter him during complete electrical silence.
+- Ordinary building power and supernatural current are different systems. Hyun-woo's current and the hostile system's current can animate a dead screen without restoring mains power or suppressing his body.
+- After midnight, loss of ordinary supplied power in Unit 2407 permits Hyun-woo's physical manifestation. Citywide failures make him strongest and most stable; a local unit outage may make him weaker. Brief mains flickers permit communication or small influence, not a complete body.
+- A normal mains-powered household light is Mrs. Na's protective powered-night anchor and a visible indicator that ordinary unit power is present. Switching it off does not imitate a grid outage or create Hyun-woo's full body while ordinary supply still exists. A phone screen does not satisfy the household-light rule and does not independently prevent manifestation.
+- The Black Surge can drain or interfere with battery devices. A phone, flashlight, or radio may therefore fail during an outage despite having charge.
+- While nonphysical, Hyun-woo normally communicates through powered or connected electronics. With effort, he can briefly energize a disconnected corded device using supernatural stored/network current. The signal is weak, carries static, and risks drawing the hostile system's attention.
+- Hyun-woo may cause brief, limited battery interference while nonphysical. Early jealousy may drain a phone, earbuds, smartwatch, or power bank, but must not disable transportation, lock exits, or endanger anyone.
+- During a brief electrical flicker, Hyun-woo can slightly influence lightweight nearby objects, such as crumbs, paper, a pen, a cabinet latch, or an appliance mechanism. He cannot perform large physical actions or form a body from a flicker, and each attempt risks discovery.
+- On a powered night, the mains lamp is protective. During a building outage, a phone screen or open flame can help the hostile system locate a person. Total local darkness denies it a visual target, so Hyun-woo's immediate blackout warning overrides the normal lamp routine.
+- Hyun-woo can be remembered by people who directly encounter his physical body during an ordinary power outage after midnight. This rule does not require the literal absence of biological or battery electricity.
 - Cameras fail to record Hyun-woo's physical body. At most, they capture static, empty chairs, or corrupted timestamps.
 - Hyun-woo can taste food when physical, which makes him extremely defensive about Nari's refrigerator.
 - The smart speaker is Hyun-woo's most common communication channel after power returns, but he hates using it because the entity can listen through the same hardware.

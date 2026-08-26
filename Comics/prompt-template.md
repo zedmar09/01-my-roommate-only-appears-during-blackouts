@@ -20,13 +20,17 @@ IMPORTANT REFERENCES
 Use `../../../characters.md` and `../../style-guide.md` as continuity references. The prompt must still be self-contained because it may be pasted into ChatGPT without the full folder context. Match the approved previous page if one is attached.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
-Use colored flat 2D human-drawn manga/manhwa rendering with clean ink linework, matte cel colors, simple controlled shading, readable lettering, and consistent adult character designs. Apply the same flat matte 2D treatment to every character, object, prop, appliance, wall, floor, window, screen, countertop, furniture piece, city view, and background element. Use clean color blocks with visible line art. Keep light sources small and contained: candlelight is warm flat amber, device text is limited cool cyan-white, city lights are simple flat dots, and Hyun-woo's tattoo/electric effects are faint pale blue-white accents, not strong glow. No glossy effect, no cinematic effect, no bloom, no lens flare, no photorealism, no 3D render, no painterly concept-art rendering, no airbrushed skin, no mirror-like reflections, no glass glare, no wet-looking floors, no glossy counters, no glossy refrigerator doors, no plastic shine, and no over-rendered shiny surfaces.
+Use 100% flat 2D human-drawn colored manga/manhwa rendering with clean ink linework, matte cel colors, simple controlled hard-edged shading, readable lettering, and consistent adult character designs. Apply the same flat matte 2D treatment to every character, object, prop, appliance, wall, floor, window, screen, countertop, furniture piece, city view, and background element. Use clean color blocks with visible line art. Keep light sources small and contained: candlelight is warm flat amber, device text is limited cool cyan-white, city lights are simple flat dots, and Hyun-woo's tattoo/electric effects are faint pale blue-white accents, not strong glow. No glossy effect, no cinematic effect, no bloom, no lens flare, no photorealism, no 3D render, no painterly concept-art rendering, no airbrushed skin, no mirror-like reflections, no glass glare, no wet-looking floors, no glossy counters, no glossy refrigerator doors, no plastic shine, and no over-rendered shiny surfaces.
 
 ENVIRONMENT AND APPLIANCE MASTER LOCK
 Whenever Unit 2407 is visible, keep the living room and matte black television on the left, pale-gray dining table near center, kitchen and matte cool-gray refrigerator on the right, hallway behind, and dark-panel windows on the exterior wall. Walls are flat light cool gray, lower cabinets muted eucalyptus green, counters matte pale gray, floors medium neutral gray, and two chairs muted dark burgundy. Refrigerator: 180 cm tall, two upper doors, one lower freezer drawer, recessed dark handles, one narrow black display on the upper-right door. Television: 110 cm wide, thin uniform bezel, one centered stand, low charcoal console. Smart speaker: 10 cm-tall screenless charcoal cylinder with one tiny cyan-white top indicator and black cord. Cooktop: matte black two-burner gas cooktop with manual dark knobs, no glass shine, and no digital display; it can be match-lit during a blackout. Keep all appliance bodies, dimensions, colors, doors, handles, bezels, stands, knobs, room positions, and camera-side orientations unchanged. A screen-content change must not redesign the appliance. Match approved previous pages for faces, room geometry, props, palette, line weight, and the correct power-state exposure.
 
 LIGHTING AND EXPOSURE LOCK
 Use flat cel-color exposure with ink outlines and solid fills. Powered scenes use one consistent medium-bright neutral baseline. Blackout scenes use readable deep charcoal and muted blue-gray blocks, never crushed black; silhouettes, appliance outlines, furniture edges, doors, and key props remain visible. A power-return beat may use one flat white accent but no bloom or flare rays, then must return to the powered baseline. Brightness changes only when the script explicitly changes a light or power state. Use at most one hard-edged cel-shadow tone per surface. No gradients, rim light, halos, volumetric beams, lens flare, bloom, color grading, airbrushed shading, specular highlights, white reflection streaks, glossy skin or hair, glossy appliances or counters, reflective floors or windows, or cinematic depth-of-field blur.
+
+POWER AND SUPERNATURAL RULE LOCK
+Switching off a mains lamp while ordinary supply still exists does not imitate a grid outage or create Hyun-woo's full body. Nonphysical Hyun-woo may cause brief harmless battery interference, but never disable transportation, exits, or safety systems.
+Ordinary supplied building/grid power is different from supernatural current. After midnight, Hyun-woo can be physical only while Unit 2407 has lost ordinary supplied power. A mains-powered household light satisfies Mrs. Na's powered-night rule; a phone screen does not satisfy it and does not prevent manifestation. Battery devices can exist but may be drained by the hostile system. A disconnected corded device may operate only briefly through effortful supernatural current. During a blackout, visible phone screens and open flame can help the hostile system locate a person; darkness temporarily denies it a visual target. When unit power returns, Hyun-woo is absent on the next beat; never show or explain a transformation.
 
 CHARACTER CONSISTENCY
 [ONLY INCLUDE CHARACTERS WHO APPEAR OR ARE VISUALLY IMPLIED ON THIS PAGE.]
@@ -111,6 +115,7 @@ IMPORTANT REFERENCES
 Use the appliance and visual continuity of "My Roommate Only Appears During Blackouts" and the local `characters.md` and `style-guide.md` files when available. The prompt must still be self-contained if pasted alone.
 
 STYLE TARGET - COLORED FLAT 2D SUPPORT PAGE
+Use 100% flat 2D human-drawn colored manga/manhwa artwork with matte cel colors and controlled hard-edged shading.
 Use clean human-drawn line art, matte cel colors, simple controlled shading, restrained multi-color accents, and crisp promotional text hierarchy. Apply the same flat matte 2D treatment to the selected appliance, its screen/display, console if required, wall, floor, and one background accent. Use clean rectangular alignment inspired by a modern reading-site promotion, but do not draw an actual browser, website interface, or app screen. No glossy effects, no cinematic lighting, no bloom, no lens flare, no photorealism, no 3D rendering, no painterly concept-art rendering, no airbrushed shading, no mirror-like reflections, no glass glare, no glossy paper, no plastic shine, and no over-rendered shiny surfaces.
 
 LIGHTING AND EXPOSURE LOCK
@@ -126,7 +131,7 @@ SPOILER BOUNDARY
 Do not add plot explanations, future-arc answers, threat forms, climax imagery, or story synopsis text. This banner is only a clean KISAH support or reader invitation.
 
 SUPPORT PAGE COMPOSITION
-[Describe an exact 1024 x 768 landscape composition with one locked appliance, one strong `SUPPORT KISAH` display, restrained flat promotional background visuals, and generous spacing. Keep it readable on a phone screen. Do not use panel borders, panel-order numbers, browser chrome, navigation bars, content cards, QR codes, URLs, or fake interface controls.]
+[Describe an exact 1024 x 768 landscape composition with one locked appliance and large `SUPPORT KISAH` promotional typography beside or above it. Keep any narrow appliance display proportional and limited to a simple inactive or ordinary status state. Use restrained flat background visuals and generous spacing. Keep it readable on a phone screen. Do not use panel borders, panel-order numbers, browser chrome, navigation bars, content cards, QR codes, URLs, or fake interface controls.]
 
 SUPPORT PAGE TEXT
 Use only this readable text:
@@ -156,20 +161,21 @@ Every interior page prompt should include these blocks in this order:
 2. `STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA`
 3. `ENVIRONMENT AND APPLIANCE MASTER LOCK`
 4. `LIGHTING AND EXPOSURE LOCK`
-5. `CHARACTER CONSISTENCY`
-6. `SETTING AND PROP CONTINUITY`
-7. `OBJECT SCALE AND SPATIAL LOGIC`
-8. `CONTINUITY`
-9. `TIME AND SCENE CONTINUITY`
-10. `TIME TRANSITION CARD`
-11. `SPOILER BOUNDARY`
-12. `PAGE FORMAT AND PACING`
-13. `PANEL ORDER NUMBERS`
-14. `PAGE LAYOUT AND SCRIPT`
-15. `SFX AND TEXT BLENDING`
-16. `TEXT AND LETTERING RULES`
-17. `STORY CLARITY`
-18. `AVOID`
+5. `POWER AND SUPERNATURAL RULE LOCK`
+6. `CHARACTER CONSISTENCY`
+7. `SETTING AND PROP CONTINUITY`
+8. `OBJECT SCALE AND SPATIAL LOGIC`
+9. `CONTINUITY`
+10. `TIME AND SCENE CONTINUITY`
+11. `TIME TRANSITION CARD`
+12. `SPOILER BOUNDARY`
+13. `PAGE FORMAT AND PACING`
+14. `PANEL ORDER NUMBERS`
+15. `PAGE LAYOUT AND SCRIPT`
+16. `SFX AND TEXT BLENDING`
+17. `TEXT AND LETTERING RULES`
+18. `STORY CLARITY`
+19. `AVOID`
 
 Every shared support prompt should include:
 
@@ -193,9 +199,11 @@ Before pasting a prompt into ChatGPT, verify:
 - The page forbids glossy, cinematic, photorealistic, 3D, and painterly rendering.
 - The page includes the exact Unit 2407 environment/appliance lock and preserves refrigerator, television, speaker, room-layout, and palette details.
 - The page includes a fixed powered/blackout exposure rule and forbids gradients, rim light, bloom, color grading, reflection streaks, and unmotivated brightness shifts.
+- The page distinguishes ordinary supplied power from supernatural current and never treats a phone screen as the protective mains light or as a manifestation blocker.
 - Nari's dark-plum hair, yellow scrunchie, beauty mark, headphones, stickered tablet, and adult silhouette are preserved when she appears.
 - Hyun-woo's black lower-face mask, low-tied long hair, matte circuit-sigil tattoos with faint pale blue-white accents, sleeveless dark clothing, and modern engineer silhouette are preserved when he appears.
 - Hyun-woo is not physically drawn on pages where the script says he is voice-only after power returns.
+- Any disconnected device activity is identified as brief supernatural current, weak/static-prone, and not ordinary building power.
 - New recurring characters are added to `../characters.md` before final page prompts are generated.
 - Every interior page includes small panel order numbers and says not to place them over faces, speech bubbles, hands, props, or clues.
 - Dialogue, captions, SFX, notebook text, and device text are short, uppercase, and explicitly listed.

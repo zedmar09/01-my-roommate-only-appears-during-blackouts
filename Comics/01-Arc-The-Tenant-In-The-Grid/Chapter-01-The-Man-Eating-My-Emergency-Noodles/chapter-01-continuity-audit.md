@@ -1,68 +1,107 @@
 # Chapter 01 Continuity Audit
 
-Step 6 audit for `The Man Eating My Emergency Noodles`.
+Status: PASS — STORY AND PROMPT PACKAGE READY FOR IMAGE GENERATION
 
-## Overall Status
+This audit is derived from the current `chapter.md` and all 18 page prompts. It does not inherit any earlier pass result.
 
-Chapter 1 page prompts now read as a clean opening sequence:
+## Source Hierarchy
 
-1. Nari unlocks Unit 2407, crosses the threshold, and distrusts the smart apartment.
-2. Later that evening, Mrs. Na rings the doorbell, enters after Nari opens the door, gives her a normal A4 guide and brass key, then explains the midnight light rule.
-3. Smart-home comedy escalates into the first hidden male voice.
-4. Hyun-woo's unseen clean-text voice claims the apartment, while a corrupted refrigerator status quietly seeds a separate watcher.
-5. Nari switches from digital evidence to paper and buys a complete analog blackout kit.
-6. Nari stores every blackout item in a fixed location before Hyun-woo's unseen jealousy/protection drains Seungjae's devices two days later.
-7. Later that night in Unit 2407, the citywide blackout defeats the hallway light and every prepared backup; seven minutes later, visible pantry and cooktop evidence leads Nari toward the occupied kitchen.
-8. Hyun-woo appears physically for the first time.
-9. Nari and Hyun-woo banter, then the device threat surfaces.
-10. The refrigerator names Nari.
-11. Darkness protects her, and Hyun-woo's human touch proves he is physically present during blackouts.
-12. Power returns and Hyun-woo is simply gone; Chapter 1 does not show or explain the disappearance mechanism.
-13. Hyun-woo speaks through the smart speaker and gives survival rules.
-14. Nari starts a bug report while the system confirms her as the new tenant.
+1. `characters.md` owns character designs and creator-only supernatural canon.
+2. `Comics/style-guide.md` owns Unit 2407 geometry, appliance locks, visual treatment, and rendering prohibitions.
+3. `chapter.md` owns Chapter 1 causality, dialogue, timeline, and reader-facing facts.
+4. Page prompts adapt the prose without changing its meaningful canon.
+5. This audit and the generation checklist verify sources; they do not override them.
 
-## Page Notes
+## Canonical Rule Lock
 
-- Page 001: Repaired arrival staging. Exterior, corridor, smart lock, threshold crossing, box placement, apartment reveal, and speaker greeting now occur in visible order; the moving cart remains visibly in the corridor immediately after entry.
-- Page 002: Repaired Mrs. Na's full visit and prop scale. The doorbell and open door precede her appearance, Nari steps aside, Mrs. Na visibly crosses the threshold, and only then do they move to the kitchen. The standard A4 guide and 6 cm key remain proportionate; Mrs. Na visibly leaves, then Nari lifts the key from beside the manual and places it on the entry shelf in separate panels.
-- Page 003: Added dedicated `ONE WEEK LATER` and `THAT NIGHT` gutter strips with clear break space before each new scene. The ordinary assistant failure, unfamiliar male interruption, Nari's question, and later unplugging now occupy separate panels with one unanswered beat before the plug is removed.
-- Page 004: Added a dedicated `TWO NIGHTS LATER` gutter strip. Hyun-woo's clean cyan-white TV claim `OUR APARTMENT` follows the hidden voice on Page 3. The same refrigerator is visible with its upper-right display fully blank/off in Panel 5; only that display wakes with the separate hostile `TENANT PROFILE: PENDING` signature in Panel 6.
-- Page 005: Reordered the key return, step-by-step speaker hiding, fruit-knife placement, next-morning note, failed digital record, and later supply purchase into chronological order. Panels 1-4 directly continue Page 4 without a false top time card; dedicated gutters then mark `LATER THAT NIGHT`, `THE NEXT MORNING`, and `LATER THAT DAY`. Nari visibly slides the existing fruit knife beneath the sofa pillow, buys candles, matches, a battery flashlight, spare batteries, a radio, a manual can opener, and a larger knife, then returns through Unit 2407's threshold with both bags while the brass key remains on the entry shelf.
-- Page 006: Directly continues the supply return. Nari finishes arranging candles, matches, batteries, and the can opener in a shallow tray, slides that tray into the lower pantry beside the emergency noodles, then finishes the desk tray immediately right of her keyboard by placing the larger knife beside the flashlight and portable radio. Only after those three panels does `TWO DAYS LATER, AFTER WORK` introduce Seungjae in the ground-floor lobby; the interaction ends with Nari entering the elevator and Seungjae turning toward the exit.
-- Page 007: Repaired the full blackout handoff. A top gutter gives `LATER THAT NIGHT. 12:43 A.M.`; the active hallway electric lamp is visibly forced off by the citywide outage; Nari tests the phone, flashlight, and radio from their established desk positions. A second gutter gives `SEVEN MINUTES LATER. 12:50 A.M.` before separate panels show her lifting the larger knife, standing at the desk, crossing the hallway, and arriving in the kitchen. The ajar pantry, missing candle and matchbox, warm switched-off manual gas cooktop, and cooked noodles explain the scene without exposing the future mystery.
-- Page 008: Fixed physical and dialogue logic. Hyun-woo's first line directly answers Nari's `I AM ARMED.`; he replaces his mask in deep shadow before his full reveal, so he never eats through it and his uncovered lower face remains hidden.
-- Page 009: Repaired threat handoff and movement. Noodle banter turns into the return of the Page 4 black-pixel signature; separate panels show the screen change, Hyun-woo noticing, his chair moving as he rises, and his completed protective position before the warning.
-- Page 010: Repaired entity language. The threat is singular, does not need normal power, and recognizes Nari without a full explanation.
-- Page 011: Repaired light-rule clarity. Mrs. Na's warning means electric light; once the system finds Nari during a blackout, candlelight helps it see her, so darkness becomes the immediate protection. Hyun-woo now gives the directly connected instruction to stay dark until power returns.
-- Page 012: Current premise is revealed only as much as Chapter 1 earns: Hyun-woo explicitly says the broken screen text is not his and that something else uses screens to learn people. His final line occurs before the power-return accent; the empty kitchen is shown one beat later without revealing the transformation mechanism.
-- Page 013: Fixed survival-rule continuity, physical staging, and text density. Twelve panels separately show Nari crossing to the correct lower cabinet, opening it, lifting and leaving the stockpot lid propped open, recovering the dropped knife, sitting, setting the knife down, eating one bite, asking for information, and receiving the paper-note, south-wall, and electric-light rules through screenless-speaker speech bubbles.
-- Page 014: Repaired evidence gathering, physical-state wording, decision flow, and speaker identity. Nari rises, retrieves the key from the entry shelf, manual from the counter, and A5 grocery notebook from the work desk, returns to the table, asks whether Hyun-woo is dangerous, and lets his answer motivate her list. She records that he becomes physical only during blackouts; the final corrupted TV status belongs to the separate hostile system.
+- Ordinary supplied building/grid power is distinct from supernatural current.
+- After midnight, Hyun-woo can become physically human while Unit 2407 has lost ordinary supplied power. Citywide failure gives him a stable body; a future local outage may produce weaker manifestation.
+- A normal mains-powered household light is Mrs. Na's protective powered-night anchor and visible ordinary-power indicator. Switching it off does not imitate a grid outage or create a full body while supply remains. A phone screen neither satisfies the routine nor independently prevents manifestation.
+- Battery devices may exist during manifestation. The hostile system can drain/interfere with them.
+- During a brief mains flicker, nonphysical Hyun-woo can communicate or move a lightweight object such as crumbs. He cannot form a body or perform a large physical action.
+- Hyun-woo normally uses powered/connected electronics. With effort, he can briefly energize a disconnected corded device through supernatural stored/network current. The weak static signal risks hostile attention and does not restore ordinary power.
+- Hyun-woo may cause brief limited battery interference for comedy, but not disable transportation, exits, or safety systems.
+- During a building outage, screens and open flame can help the hostile system locate a person. Total local darkness temporarily denies it a visual target. Hyun-woo's immediate blackout warning therefore overrides the powered-night lamp routine.
+- When Unit 2407 power returns, Hyun-woo is absent on the next visible beat. His transition is not depicted or explained.
 
-## Object Position Pass
+## Actor Signature Lock
 
-- Manual and brass key: Mrs. Na carries the standard A4 guide and palm-size key ring from the corridor into Unit 2407 and places both on the kitchen counter. After Mrs. Na leaves, Nari lifts only the key and places it on the entry shelf. She takes it into her hand by the TV scene, and Page 005 returns it to the shelf. Page 014 separately retrieves the key from the shelf and manual from the counter before both reach the table.
-- A5 notebook: Nari's grocery notebook stays at her work desk through Page 13. Page 14 visibly retrieves it from that desk after the key and manual, then brings all three objects to the table before the bug report begins.
-- Stockpot speaker: the compact countertop speaker is visibly unplugged on Page 003, buried under dish towels inside the stockpot by Page 005, and remains inside that stockpot in the open lower cabinet as the voice-only contact point on Pages 013-014.
-- Emergency supplies and knives: Page 005 visibly places the existing small fruit knife under the sofa pillow and introduces the larger knife with the blackout supplies. Page 006 fixes candles, matches, batteries, and the can opener in the lower-pantry tray, while the flashlight, portable radio, and larger knife stay together in the desk tray. Page 007 tests the flashlight and radio there and lifts the larger knife from that same tray; Pages 007-010 carry it, Page 011 drops it, Page 013 retrieves and sets it down, and Page 014 keeps it flat on the table.
-- Candle/matches/cooktop/noodle pot/chopsticks: the lower-pantry emergency tray is established on Page 006. Page 007 shows one candle and the matchbox removed, the pantry ajar, the fixed manual gas cooktop recently used but now off, and the resulting kitchen-table meal. Pages 008-011 maintain the same setup; the candle becomes extinguished/smoking after Page 011, while the pot becomes half-empty and the chopsticks remain beside it through Page 014.
-- Chair/fridge/TV: Page 004 keeps one refrigerator body and placement across Panels 5-6 while only its display changes from blank/off to the hostile alert; Hyun-woo visibly pushes his chair back when he stands on Page 009; it remains in that position through his Page 012 disappearance and stays empty on Page 013; the refrigerator threat stays tied to Pages 009-011; the unplugged TV returns for Page 014's final message.
+- Hyun-woo: clean stable cool cyan-white text, minimal static, or clean cyan-accented speech bubbles from the screenless speaker. No crawling black pixels.
+- Hostile system: stark broken/doubled white glyphs, crawling black pixels, screen distortion, corrupted files. No clean cyan presentation.
+- Page 4 seeds both signatures on separate appliances. Page 6 assigns evidence corruption to the hostile system and the warning to Hyun-woo. Pages 13-14 return the hostile refrigerator signature. Page 18 contrasts Hyun-woo's clean speaker signal with the hostile final TV message.
 
-## Locked Continuity Rules
+## Time And Page Map
 
-- Do not add future-arc explanations, culprit answers, or endgame logic in Chapter 1 prompts.
-- Chapter 1 is chronological and contains no flashback. Every arrival and room change must be shown. Every meaningful time jump must use a dedicated full-width quiet matte gutter strip containing only its centered uppercase caption; the strip has no panel number, character, object, scenery, dialogue, SFX, inset, gradient, or decoration. Direct-continuation pages explicitly use `NO TIME CARD`. ChatGPT must not invent memory panels.
-- Blackout preparation must remain exact: the supplies are purchased on Page 005, brought through Unit 2407's threshold, stored on Page 006, tested on Page 007, and retrieved only from those established positions. The outage begins inside Unit 2407 at 12:43 a.m. later that night; seven minutes pass before Nari reaches the kitchen at 12:50 a.m.
-- Nari's wardrobe follows story time: move-in outerwear on Pages 1-2, at-home clothing on Pages 3-5, after-work outerwear on Page 6, and one unchanged barefoot blackout-night outfit on Pages 7-14.
-- Props remain realistic relative to adult hands, bodies, furniture, and rooms. Close-up framing never changes an object's physical story-world size.
-- Unit 2407 keeps one locked open-plan layout and fixed refrigerator, television, and smart-speaker designs. A display-state change alters only the scripted screen content, never the appliance body, dimensions, color, controls, position, or orientation.
-- Powered scenes keep one medium-bright neutral flat-color baseline. Blackout scenes remain readable through deep charcoal and muted blue-gray blocks. Reject unmotivated brightness changes, gradients, rim light, bloom, color grading, reflection streaks, glossy materials, and cinematic depth-of-field.
-- Hyun-woo is physically visible only during the blackout pages, then voice-only through devices after power returns.
-- Hyun-woo's device messages use clean stable cyan-white lettering with minimal static. Hostile system messages use stark white monospaced status text, broken glyph edges, crawling black pixels, or distorted screen silhouettes.
-- A screenless smart speaker uses audible speech bubbles with tails pointing to the hardware. Never print full dialogue on its body or tiny indicator.
-- Hyun-woo must never eat through his lower-face mask. He finishes the hidden eating beat before Page 8 shows him replacing the mask in shadow and revealing his covered face.
-- Mrs. Na's midnight rule means keeping an electric light active during normal powered nights. A candle does not satisfy the rule during a blackout, and it can expose Nari after the hostile system begins identifying her.
-- Nari remains an adult game designer with dark-plum asymmetrical hair, yellow scrunchie, beauty mark, headphones, stickered tablet, practical clothing, and tired sharp expressions.
-- Hyun-woo remains modern: black lower-face technical mask, low-tied long hair, sleeveless dark clothing, broad shoulders, and matte black circuit-sigil tattoos with faint pale blue-white accents.
-- The Black Surge remains an implied electrical/device threat in Chapter 1, not a fully explained monster.
-- All page prompts should keep the colored flat 2D human-drawn modern manga/manhwa standard and small panel-order numbers.
-- SFX should support the situation and blend into the panel art: object sounds for props, playful sounds for smart-home comedy, and thin jagged sounds for electrical/static threat beats.
+| Page | Time / Place | Required causal result |
+|---:|---|---|
+| 1 | Move-in night, corridor to Unit 2407 | Nari visibly unlocks, crosses threshold, and discovers the implausibly cheap smart apartment. |
+| 2 | Later that evening | Mrs. Na arrives from corridor, detaches backup key, gives mains-light/screen warning, refuses details, leaves; Nari moves key to entry tray. |
+| 3 | One week later | Optimization comedy leads to one brief flicker and Hyun-woo's first clean speaker voice; Nari unplugs speaker. |
+| 4 | Two nights later | TV turns on, Nari unplugs it, verifies it remains active, then asks who; clean `OUR APARTMENT` and unseen hostile fridge seed. |
+| 5 | Same night to next morning | Key/speaker/note/guarded knife are placed; 1:17 A.M. flicker permits crumb reply; morning reveals `TENANT.` |
+| 6 | Same morning | Two photos fail, tablet record is corrupted by hostile signature, Hyun-woo warns, Nari reads incomplete manual and contacts Mrs. Na. |
+| 7 | Later that day | Nari shops at a home-supply mart and establishes safe pantry/desk emergency trays. |
+| 8 | Two days later, after work | Hyun-woo's petty device sabotage spares car key; Nari enters elevator and Seungjae exits. |
+| 9 | Later that night, 12:43 A.M. | Citywide outage turns off Unit 2407's mains lamp; phone with known charge, flashlight, and radio fail; corridor backup remains separate. |
+| 10 | Through 12:56 A.M. | Repeated tests consume thirteen minutes; Nari safely draws established knife and moves desk-to-kitchen; cooking evidence is visible. |
+| 11 | 12:56 A.M. | Hidden eater answers Nari, secures mask, then physical Hyun-woo is revealed. |
+| 12 | Continuous | Exact noodle inventory is established; Hyun-woo claims tenancy and names Mrs. Na. |
+| 13 | Continuous | Hostile dead refrigerator identifies Nari; Hyun-woo rises, crosses, blocks, and warns in order. |
+| 14 | Continuous | Mains-light/candle distinction, blue candle center, extinguishing, shriek, ear-cover, knife drop, wrist catch, and warmth occur sequentially. |
+| 15 | Continuous | Hyun-woo separates message actors; city returns outside while unit stays dark; unit power then snaps on and next beat shows him absent. |
+| 16 | Minutes later | Door, latch, lock history, camera archive, security, and landlord contact rule out normal entry before speaker resumes. |
+| 17 | Continuous | Unplugged speaker uses brief borrowed current; Nari sheaths knife, inspects food, eats, and receives concise rules. |
+| 18 | Continuous | Hyun-woo avoids missing-page answer, admits danger, Nari records observation/hypothesis on paper, hostile TV confirms tenancy. |
+
+## Unit 2407 Geometry Lock
+
+- Living room and matte-black TV: left.
+- Matte pale-gray dining table with two dark-burgundy chairs: center.
+- Kitchen, pantry, gas cooktop, and matte cool-gray refrigerator: right.
+- Hallway and bedroom/work area: behind.
+- Floor-to-ceiling nonreflective dark-panel windows: exterior wall.
+- Walls: light cool gray. Lower cabinets: muted eucalyptus. Counters: pale gray. Floor: medium neutral gray.
+- Common-area emergency lighting remains outside the apartment and does not count as ordinary supplied power inside Unit 2407.
+
+## Object Ledger
+
+| Object | Establishment | Movement and final Chapter 1 state |
+|---|---|---|
+| Brass backup key | Page 2 on Mrs. Na's ring | Detached to counter, moved to entry tray; briefly used defensively Page 4, returned Page 5; remains in tray through Page 18. |
+| Remaining key ring / handbag | Page 2 with Mrs. Na on arrival | Both leave with Mrs. Na; neither reappears. |
+| Electrical binder | Page 2 to kitchen counter | Page 6 moves to dining table for reading, then returns to counter; remains there through ending. Section 17 missing; south-wall diagram present. |
+| Speaker / stockpot / towels / lid | Speaker plugged on counter Page 1, unplugged Page 3 | Page 5 speaker enters stockpot under two towels/lid in lower cabinet; cabinet stays closed until Pages 16-17; lid ends propped open and speaker remains unplugged inside. |
+| Paper note / toaster crumbs | Page 5 beside toaster | 1:17 A.M. flicker moves crumbs into `TENANT.`; physical evidence remains while photos fail. |
+| Guarded fruit knife | Page 5 kitchen drawer | Blade guard secured before placement under sofa cushion; remains there. |
+| Practical knife / sheath | Bought Page 7 | Sheathed in desk tray, handle toward chair; drawn Page 10, sheath stays tray; knife drops Page 14, retrieved and re-sheathed Page 17; ends in desk tray. |
+| Pantry emergency tray | Page 7 lower pantry | Holds candle holders, short candles, matches, batteries, can opener. One candle/holder and matchbox used during blackout. |
+| Desk emergency tray | Page 7 right of keyboard | Holds flashlight, radio, sheathed knife. Phone sits on desk. Flashlight/radio fail Page 9 and remain there. |
+| Noodle inventory | Page 7, six packets | One spicy-seafood packet used; empty wrapper appears Pages 10-12; five other flavors remain visible in pantry. |
+| Candle / holder / matches | Page 7 pantry tray | Short candle is lit in ceramic holder on dining table; blue center Page 14; extinguished and smoking in holder through ending. Used match stays on heat-safe cooktop rest. |
+| Noodle pot / trivet / handle cloth / chopsticks | Page 10 table | Pot stays on trivet, separate cloth wraps hot handle. Hyun-woo's chopsticks rest at pot; clean pair is left for Nari. Objects remain through ending. |
+| Dining chair | Fixed at table | Hyun-woo pushes one chair back Page 13; it remains pushed back after disappearance. Nari uses the other chair. |
+| Phone / flashlight / radio | Phone 81% before outage; backups Page 7 | All fail and are retested; phone later works after power return for security calls. |
+| A5 notebook | Work desk | Retrieved only on Page 18 and carried to dining table; final bug report is written on paper. |
+| Hallway lamp | Page 2, ordinary mains light | Kept on after midnight; outage forces it off Page 9; returns with Unit power after Hyun-woo's final line. |
+| Television | Fixed left wall, unplugged Page 4 | Remains visibly unplugged; final hostile supernatural current briefly activates it Page 18 without restoring mains power. |
+| Refrigerator | Fixed right kitchen | Body/display never redesigns. Only content changes: unseen hostile pending status Page 4, hostile name/locking Pages 13-14. |
+
+## Dialogue And Behavior Pass
+
+- Nari asks why the lamp matters and what happens during a building outage.
+- Nari verifies the unplugged TV remains active before asking who speaks.
+- Nari repeats the failed photo and device tests.
+- Nari reads the manual and contacts Mrs. Na rather than ignoring available evidence.
+- Nari's preparation uses safe sheaths, holders, a trivet, a fixed tray orientation, and a realistic retailer.
+- Nari checks locks, access history, camera history, security, and Mrs. Na after the physical intruder event.
+- Nari examines the food before eating.
+- The final log is an observation plus a hypothesis, not an unverified conclusion.
+- Hyun-woo remains dry, concise, guarded, protective, and funny; his replies answer the line or event immediately before them.
+
+## Visual Production Lock
+
+Every page prompt requires 100% flat 2D human-drawn modern manga/manhwa, matte cel colors, visible clean ink, solid color blocking, and controlled hard-edged shading. Every prompt prohibits glossy, cinematic, photorealistic, semi-photorealistic, 3D/CG, painterly, airbrushed, reflective, bloom, rim-light, lens-flare, volumetric, gradient, depth-blur, glare, wet/shiny, and over-rendered treatment.
+
+## Verification Result
+
+The independent final audit verified the prose, all 18 prompts, metadata, style guide, prompt template, three cover/support prompts, file sequence, declared/actual panel counts, time cards, dialogue ownership, actor signatures, object states, style locks, spoiler boundary, and stale-language searches. No generated images are present in the repository.

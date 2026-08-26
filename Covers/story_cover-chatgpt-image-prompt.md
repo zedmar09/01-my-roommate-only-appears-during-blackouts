@@ -8,6 +8,9 @@ Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa ST
 IMAGE PURPOSE
 This is the main reader-facing cover image shown in the mobile and web app story selection list. It is not a chapter page, not a support page, and not a comic panel page.
 
+SYMBOLIC COVER CONTINUITY
+This is symbolic premise art, not a literal Chapter 1 moment. It may combine Nari in her outdoor game-designer clothing, physical blackout Hyun-woo, noodles, the electrical binder, the brass key, and dead devices for marketing clarity even though those exact wardrobe/prop states do not all share one interior scene. Never use this cover as wardrobe, prop-position, lighting, or scene-blocking continuity reference for Chapter 1 pages.
+
 FORMAT
 Generate a PNG image. Use one vertical portrait cover image, app-card friendly, 2:3 aspect ratio, about 1536x2304. Keep the main characters and title inside a safe centered area so the image still works if cropped slightly for mobile cards.
 
@@ -18,13 +21,14 @@ MY ROOMMATE ONLY APPEARS DURING BLACKOUTS
 Do not add genre, synopsis, author name, art credit, chapter number, watermark, signature, publisher logo, app UI, buttons, badges, speech bubbles, captions, or extra text.
 
 STYLE TARGET - COLORED FLAT 2D MODERN SUPERNATURAL ROMANCE MANHWA COVER
+Use 100% flat 2D human-drawn colored manga/manhwa artwork with matte cel colors and controlled hard-edged shading.
 Use a colored flat 2D human-drawn Korean manhwa cover illustration style with light Chinese urban-fantasy manhua influence in the supernatural electricity:
 - Clean expressive manhwa line art.
 - Matte cel colors and simple controlled shading.
 - Mature adult romance energy, not school comedy.
 - A matte modern Seoul high-rise apartment during a blackout.
 - Warm flat candle color, limited cool phone/device text, flat dark window shapes, and eerie dead-device screens.
-- Matte black circuit-sigil tattoos with faint pale blue-white accents as the strongest supernatural detail.
+- Matte black circuit-sigil tattoos with faint pale blue-white current accents as the strongest supernatural detail; they are flat ink on skin, never glowing veins beneath it.
 - Warm domestic intimacy mixed with modern mystery.
 - Strong silhouettes that read clearly as a small app thumbnail.
 - Clear readable title typography.
@@ -95,7 +99,7 @@ STORY CLARITY
 The image should tell the viewer this story is about an exhausted game designer, a mysterious masked tattooed man who appears only when the power goes out, haunted smart-home devices, and a dangerous romance tied to electricity, missing records, and blackout secrets.
 
 AVOID
-Avoid black-and-white only, plain sketch, school uniforms, teen romance, fantasy robes, palace clothing, crowns, historical half-masks, station uniforms, red scarves, coffins, lilies, loyalty percentages, corporate revenge boardroom mood, debt ledger boxes, cartography maps, glossy webtoon shine, shiny apartment surfaces, mirror-like reflections, glass glare, wet floors, glossy counters, glossy refrigerator doors, plastic shine, excessive glow, photorealism, 3D render, western superhero style, chibi style, childish mood, heavy gore, cluttered title area, unreadable text, fake extra words, synopsis text, genre text, author names, watermarks, signatures, page numbers, app interface elements, and copying any existing story cover layout.
+Avoid treating this symbolic cover as a literal Chapter 1 scene, black-and-white only, plain sketch, school uniforms, teen romance, fantasy robes, palace clothing, crowns, historical half-masks, station uniforms, red scarves, coffins, lilies, loyalty percentages, corporate revenge boardroom mood, debt ledger boxes, cartography maps, glossy webtoon shine, shiny apartment surfaces, mirror-like reflections, glass glare, wet floors, glossy counters, glossy refrigerator doors, plastic shine, excessive glow, cinematic lighting, rim light, bloom, lens flare, volumetric beams, gradients, depth-of-field blur, photorealism, semi-photorealism, 3D/CG render, painterly concept art, airbrushed rendering, western superhero style, chibi style, childish mood, heavy gore, cluttered title area, unreadable text, fake extra words, synopsis text, genre text, author names, watermarks, signatures, page numbers, app interface elements, and copying any existing story cover layout.
 ```
 
 ## App Metadata

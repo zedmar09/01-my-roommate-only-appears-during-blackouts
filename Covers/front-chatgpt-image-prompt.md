@@ -15,6 +15,7 @@ IMPORTANT REFERENCES
 Use the appliance and apartment continuity of "My Roommate Only Appears During Blackouts". The prompt must still be self-contained if pasted alone.
 
 STYLE TARGET - COLORED FLAT 2D SUPPORT PAGE
+Use 100% flat 2D human-drawn colored manga/manhwa artwork with matte cel colors and controlled hard-edged shading.
 Use clean human-drawn line art, matte cel colors, simple controlled shading, restrained multi-color accents, and crisp promotional text hierarchy. Apply the same flat matte 2D treatment to the refrigerator, display, wall, floor, and background accent. Use clean rectangular content alignment inspired by a modern reading-site promotion, but do not draw an actual browser, website interface, or app screen. No glossy effect, no cinematic lighting, no bloom, no lens flare, no photorealism, no 3D render, no painterly concept-art rendering, no airbrushed shading, no mirror-like reflections, no glass glare, no glossy paper, no plastic shine, and no over-rendered shiny surfaces.
 
 LIGHTING AND EXPOSURE LOCK
@@ -27,12 +28,14 @@ SPOILER BOUNDARY
 Do not show the hostile system, glitch pixels, character reflections, story explanations, mystery answers, or chapter climax imagery. The refrigerator display is a normal promotional display, not an in-story threat message.
 
 SUPPORT PAGE COMPOSITION
-Create the actual artwork on a 1024 x 768 landscape canvas. Place the same matte cool-gray smart refrigerator slightly off-center, shown from a clean three-quarter front view at realistic scale. Its upper-right black display carries the large readable KISAH support message. Keep the appliance body, doors, drawer, handles, and display aligned and undistorted.
+Create the actual artwork on a 1024 x 768 landscape canvas. Place the same matte cool-gray smart refrigerator slightly off-center, shown from a clean three-quarter front view at realistic scale. Keep its narrow upper-right black display proportional, blank/inactive, and unchanged. Do not squeeze promotional words into that narrow appliance display.
+
+Place the large readable `SUPPORT KISAH` promotional typography beside or above the refrigerator in open background space. The typography is part of the banner layout, not refrigerator UI. Keep the appliance body, doors, drawer, handles, and display aligned and undistorted.
 
 Use a simple flat promotional background: light cool-gray wall, one muted eucalyptus-green rectangular accent, and a medium neutral-gray floor. Use one hard-edged cel shadow under the appliance. No romantic decoration, atmospheric scenery, reflections, or cinematic lighting. Do not include panel borders, panel-order numbers, browser chrome, navigation bars, content cards, QR codes, or fake interface controls.
 
 SUPPORT PAGE TEXT
-Use only this readable refrigerator-display text:
+Use only this readable promotional typography beside or above the refrigerator:
 SUPPORT KISAH
 
 Optional smaller supporting line outside the sign, only if it fits clearly:
@@ -42,5 +45,5 @@ MOOD
 Clean, modern, inviting, appliance-focused, and promotional.
 
 AVOID
-Avoid any outer canvas other than 1024 x 768, portrait or vertical output, square output, full-height page composition, a small banner floating inside a larger canvas, people, characters, faces, hands, bodies, human silhouettes, character reflections, multiple hero appliances, oversized refrigerator, changed door layout, temperature widgets, weather icons, hostile glitch text, black pixels, story-title cover layout, chapter title text, plot synopsis, hearts, flowers, rose petals, candles, wedding imagery, glossy webtoon shine, shiny apartment surfaces, mirror-like reflections, glass glare, glossy paper, plastic shine, white highlight streaks, excessive glow, cinematic lighting, rim light, bloom, color grading, photorealism, 3D render, painterly concept art, browser UI, app UI, QR codes, URLs, logos other than the word KISAH, extra fake text, unreadable lettering, author names, art credits, signatures, watermarks, page numbers, and panel-order numbers.
+Avoid placing `SUPPORT KISAH` inside the refrigerator's narrow display, widening/redesigning the display, any outer canvas other than 1024 x 768, portrait or vertical output, square output, full-height page composition, a small banner floating inside a larger canvas, people, characters, faces, hands, bodies, human silhouettes, character reflections, multiple hero appliances, oversized refrigerator, changed door layout, temperature widgets, weather icons, hostile glitch text, black pixels, story-title cover layout, chapter title text, plot synopsis, hearts, flowers, rose petals, candles, wedding imagery, glossy webtoon shine, shiny apartment surfaces, mirror-like reflections, glass glare, glossy paper, plastic shine, white highlight streaks, excessive glow, cinematic lighting, rim light, bloom, color grading, photorealism, semi-photorealism, 3D/CG render, painterly concept art, airbrushed rendering, browser UI, app UI, QR codes, URLs, logos other than the word KISAH, extra fake text, unreadable lettering, author names, art credits, signatures, watermarks, page numbers, and panel-order numbers.
 ```

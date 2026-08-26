@@ -5,7 +5,7 @@ Genre: Supernatural Romantic Comedy / Modern Mystery / Urban Fantasy / Korean Ma
 Premise:
 Yoon Nari, an exhausted game designer with too many deadlines and not enough sleep, rents an unusually cheap apartment in a modern high-rise full of smart lights, security cameras, automated appliances, and one electrical system no normal tenant should need a manual to operate.
 
-Before giving her the keys, the landlord gives only one warning:
+Later that evening, after Nari has moved in and received smart-lock access, the landlord brings an electrical-operation binder and a physical backup key. She gives one warning:
 
 ```text
 Never turn off all the lights after midnight.
@@ -15,7 +15,7 @@ Nari assumes it is superstition, a legal disclaimer, or another strange rule fro
 
 He gives his name as Hyun-woo. The records that still exist in the grid call him Joo Hyun-woo.
 
-He claims to be the apartment's other tenant, although no lease, camera recording, building record, or human memory can prove he exists. He becomes physically human only when the electricity is completely gone. When power returns, he simply vanishes; at other times, an unseen voice slips through malfunctioning modern devices: sarcastic television captions, thermostat tantrums, smart-speaker complaints, doorbell camera glitches, and suspicious battery drain around men who flirt with Nari.
+He claims to be the apartment's other tenant, although no lease, camera recording, building record, or human memory can prove he exists. He becomes physically human after midnight only when Unit 2407 loses its ordinary building power. When the unit's power returns, he is simply absent; at other times, an unseen voice slips through malfunctioning modern devices: sarcastic television captions, thermostat tantrums, smart-speaker complaints, doorbell camera glitches, and suspicious battery drain around men who flirt with Nari.
 
 Their blackout evenings turn into an impossible domestic routine: candlelit meals, rooftop talks, convenience-store raids during outage alarms, fights over instant noodles, and quiet moments where Nari begins to trust the frightening man who only exists when the city goes dark.
 
@@ -32,6 +32,8 @@ The comedy should come from modern devices acting haunted, Hyun-woo's dry jealou
 Avoid school-life romance, teen roommate hijinks, corporate revenge overlap with `Blood Ledger`, loyalty-percentage thriller overlap with `My Girlfriend's Loyalty Is Only 5%`, palace fantasy overlap with `The Villainess Who Married The Ghost King`, gothic regression overlap with `The Villain's Second Funeral`, train-station supernatural imagery from `Lanterns of the Last Station`, and coastal emotion-street magic from `The Cartographer of Unsaid Things`.
 
 ## Visual Direction
+
+Hard lock: 100% flat 2D human-drawn colored modern manga/manhwa artwork with matte cel colors and controlled hard-edged shading.
 
 Use modern urban manga/manhwa visual language with light Chinese urban-fantasy manhua accents in the supernatural details: clean high-rise interiors, smart-home panels, matte window and balcony shapes, rooftop service doors, elevator cameras, flat candle color, limited device text, rain-dark city streets, circuit-like tattoos with faint accents, talismanic electrical patterns, and glitching appliance screens.
 
@@ -57,14 +59,16 @@ The app selection cover and reader-facing comic pages should use colored flat 2D
 
 The detailed rules below are production continuity, not public preview copy. Do not copy them into app metadata, support banners, story-cover text, early chapter descriptions, or reader-facing summaries before the story earns each rule on-page.
 
-1. Hyun-woo becomes physically human only when active electricity in the apartment drops to zero after midnight.
-2. Citywide blackouts give him the most stable body. Local unit outages give him a weaker body. Brief flickers only let him speak or move objects slightly.
-3. Battery-powered devices count as active electrical sources if they are turned on. A powered-down phone does not prevent manifestation, but a lit screen does.
-4. When power returns, Hyun-woo is pulled back into the building's electrical network.
-5. While inside the network, Hyun-woo can communicate through devices connected to power or wireless signals, but he cannot fully control them without causing glitches.
-6. Hyun-woo can influence smart speakers, televisions, thermostats, camera feeds, door locks, elevators, and phone batteries, but every action risks alerting something inside the system.
-7. Hyun-woo's tattoos show faint pale blue-white accents when current passes through his body or when something inside the system pushes back.
-8. His black mask is dangerous to remove, but early chapters should treat the reason as a mystery rather than an explanation.
+1. After midnight, Hyun-woo becomes physically human when Unit 2407 loses ordinary supplied building/grid power. Supernatural current and the existence of small battery devices do not count as ordinary supplied power.
+2. A normal mains-powered household light in Unit 2407 serves as Mrs. Na's protective powered-night anchor and a visible indicator that ordinary unit power is present. Switching the lamp off does not imitate a grid outage or create Hyun-woo's full body while ordinary supply still exists. A phone screen does not satisfy the rule and does not independently prevent manifestation.
+3. Citywide grid failures give Hyun-woo his strongest, most stable body. A local unit outage may produce a weaker body. A brief mains flicker permits clean device communication or slight influence over lightweight nearby objects, not a complete body.
+4. When ordinary power returns to Unit 2407, Hyun-woo is no longer physically present. Early chapters must not depict or explain the exact transition.
+5. While trapped in the electrical/network state, Hyun-woo normally communicates through powered or connected devices. He can cause brief limited battery interference, but early jealousy remains inconvenient rather than dangerous. With greater effort, he can briefly energize a disconnected electronic device using supernatural stored/network current; the result is weak and staticky and risks alerting the hostile system.
+6. The hostile system can drain or interfere with battery devices and corrupt digital evidence. Its current, and Hyun-woo's supernatural current, never count as ordinary building power.
+7. Hyun-woo's messages use clean stable cool cyan-white lettering. The hostile system uses broken stark-white text, doubled glyph edges, distortion, and crawling black pixels. These signatures never merge.
+8. Hyun-woo's matte-black circuit-sigil tattoos may gain faint pale blue-white current accents when supernatural pressure rises. They are ink on the skin, not glowing veins beneath it.
+9. Mrs. Na's lamp rule governs powered nights. During a grid outage, phone screens and open flame can help the hostile system locate a person; darkness temporarily denies it a visual target. Hyun-woo's immediate blackout warning takes priority.
+10. His black mask is dangerous to remove, but early chapters should treat the reason as a mystery rather than an explanation.
 
 Creator-only answers and full hidden-system rules belong in `series-plan.md` and continuity notes, not in app metadata or early reader-facing summaries.
 
@@ -77,7 +81,7 @@ Reader-facing release list:
 
 Future chapter titles and long-range reveal sequencing should stay in `series-plan.md` until each chapter is ready for release metadata. Avoid exposing future-arc answers or unreleased title wording too early.
 
-Status: Arc 1 planned. Chapter 1 prose, 14 page prompts, continuity audit, final audit, and generation checklist are present. Centralized `Covers/` prompts for `story_cover`, `front`, and `back` are present. Chapter 1 final reader PNG/WebP assets are not present in this working copy yet. Chapter 2 is referenced by planning docs but its folder/files are not present yet; future comic folders should use the arc/season-first structure under `Comics/`.
+Status: READY FOR IMAGE GENERATION. Chapter 1 prose, the 18-page adaptation, continuity audit, independent final audit, generation checklist, shared visual rules, metadata, and centralized `Covers/` prompts agree. No Chapter 1 PNG/WebP reader assets were generated during this Markdown revision.
 
 Long-running plan:
 `series-plan.md`
