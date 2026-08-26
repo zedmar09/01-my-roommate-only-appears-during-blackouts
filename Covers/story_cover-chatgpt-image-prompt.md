@@ -43,7 +43,24 @@ Do NOT recast, beautify, simplify, redesign, average, or reinterpret either char
 Do NOT use the old legacy/cinematic cover as an active reference.
 Do NOT use any rejected or drifted cover as character-identity authority.
 
-If editing a rejected cover attempt, that image may be used ONLY as a rough composition scaffold. The approved Nari and Hyun-woo PNGs still control identity.
+==================================================
+CORRECTION-PASS LOCK — PRESERVE WHAT ALREADY WORKS
+==================================================
+
+If editing/correcting the most recent rejected cover, preserve these successful elements unless a change is required to satisfy a hard rule below:
+
+- Nari's approved identity
+- Hyun-woo's approved identity
+- title occupying the upper portion / upper third
+- no noodles and no food
+- normal electrical manual/binder
+- separate brass physical key
+- no chain or padlock
+- one unified cover composition
+
+Do NOT restart with new character faces, hairstyles, body types, mask, tattoo identity, or a completely unrelated composition merely to fix typography/text/style defects.
+
+A rejected cover may be used ONLY as an edit target or loose composition scaffold. It never outranks the approved canonical Nari/Hyun-woo PNGs.
 
 ==================================================
 SYMBOLIC COVER RULE
@@ -54,7 +71,7 @@ This is symbolic premise art, not one literal Chapter 1 moment.
 The cover should communicate:
 - exhausted game designer Nari
 - mysterious masked blackout roommate Hyun-woo
-- Unit 2407 smart-home mystery
+- Unit 2407 smart-home mystery WITHOUT writing `UNIT 2407` as visible text
 - electricity/power-loss theme
 - adult supernatural romance
 - missing-record / haunted-device mystery
@@ -117,13 +134,28 @@ NO watermark.
 NO signature.
 NO fake logo.
 NO prop labels.
+NO apartment/unit number text.
 NO readable wall notes.
 NO readable manual text.
+NO readable key tag number.
 NO readable phone/tablet text.
 NO readable appliance text.
 NO random letters or numbers.
 
-Any visible papers, tablet stickers, screens, manuals, diagrams, or device indicators must use abstract non-readable shapes/icons only.
+SPECIFIC FORBIDDEN EXAMPLES:
+- `UNIT 2407`
+- `2407`
+- `POWER OUTAGE`
+- `BREAKER PATTERN`
+- `LOG`
+- `ELECTRICAL ANOMALY`
+- any Korean word
+- any English word outside the story title
+- any numeric label on the key, wall, manual, device, screen, diagram, paper, or appliance
+
+Any visible papers, tablet stickers, screens, manuals, diagrams, device indicators, wall notices, or key tags must use abstract NON-READABLE shapes/icons only.
+
+If an object naturally suggests text, LEAVE ITS TEXT AREA BLANK or replace it with one simple abstract icon.
 
 ==================================================
 TITLE PLACEMENT — HARD POSITION LOCK
@@ -148,37 +180,61 @@ Never cover:
 - Hyun-woo's eyes or mask identity
 
 ==================================================
-CUSTOM TITLE STYLE — INTERRUPTED CIRCUIT
+CUSTOM TITLE STYLE — CLEAN INTERRUPTED CIRCUIT
 ==================================================
 
 Treat the complete title as custom hand-drawn cover lettering integrated into the story world.
 
 MY ROOMMATE:
 - bold matte off-white/light neutral
+- clean solid-fill letters
 - slightly organic modern manhwa display lettering
 
 ONLY APPEARS DURING:
 - smaller supporting line
 - compact and fully readable
+- clean solid-fill letters
 
 BLACKOUTS:
 - largest title element
 - slightly more geometric/electrical
-- still clean and immediately readable
+- clean solid matte fill
+- still immediately readable
 
-Across the ENTIRE word BLACKOUTS, allow only:
-- 2–3 tiny interrupted-power gaps in selected strokes
-- at most one short circuit trace integrated into a letter
+CRITICAL TITLE SURFACE RULE:
+Every title letter must have a CLEAN SOLID MATTE FACE.
+
+Do NOT texture the title with:
+- cracks
+- scratches
+- distressed/grunge speckles
+- erosion
+- chipped paint
+- weathering
+- torn edges
+- shattered fragments
+- stone/concrete texture
+- film grain
+- realistic surface wear
+
+Across the ENTIRE word BLACKOUTS, allow ONLY:
+- 2–3 tiny clean interrupted-power gaps in selected strokes
+- at most one short clean circuit trace integrated into one letter
 - at most one tiny breaker/switch-like detail
 - no more than 1–2 tiny flat black-pixel interruptions
 - very restrained pale cyan-white flat accents
 
+These intentional interruptions must be geometrically clean cuts, NOT cracks or damage.
+
 All electrical typography details must remain inside or immediately attached to the letterforms.
 
 ABSOLUTELY NO:
+- lightning-bolt slash through a letter
+- lightning-bolt symbol replacing part of a letter
 - large lightning bolts
 - lightning cracks
 - branching electricity
+- waveform lines crossing outside the title
 - arcs crossing multiple letters
 - shattered/cracked title treatment
 - sparks around the title
@@ -194,7 +250,7 @@ ABSOLUTELY NO:
 - bloom
 - outer glow
 
-BLACKOUTS must look like deliberately interrupted circuit lettering, NOT like a word struck by lightning.
+BLACKOUTS must look like CLEAN LETTERING with a few intentionally disconnected circuit strokes, NOT like a word struck by lightning or physically damaged.
 
 ==================================================
 CHARACTER COMPOSITION
@@ -228,11 +284,11 @@ STORY SYMBOLS — COVER ONLY
 
 Use a restrained selection of these symbols:
 
-- matte Unit 2407 blackout interior
+- matte blackout smart-apartment interior
 - dead smart-home devices
 - dark phone/tablet screens using icon-only battery/device symbols
-- normal thick electrical manual/binder
-- clearly separate brass physical key
+- normal thick electrical manual/binder with blank cover or ONE simple abstract electrical icon only
+- clearly separate plain brass physical key with NO numbered tag
 - one small candle in a simple holder if useful
 - faint rooftop power-grid silhouettes outside the window
 - restrained abstract static / black-pixel marks near dead devices
@@ -263,14 +319,17 @@ NEVER add:
 
 Do not physically lock or chain the manual.
 Do not attach the key to a padlock.
+Do not attach a numbered `2407` tag to the key.
 
-The manual may have only abstract electrical diagram/icon graphics with ZERO readable writing.
+The manual cover must be blank OR use only ONE simple abstract electrical icon/diagram with ZERO readable writing or numbers.
 
 ==================================================
 UNIT 2407 / APPLIANCE LOCK
 ==================================================
 
-If apartment geometry is visible, preserve the established Unit 2407 design:
+If apartment geometry is visible, preserve the established Unit 2407 design through VISUAL GEOMETRY ONLY — never by writing `UNIT 2407` or `2407` anywhere.
+
+Geometry:
 - living/TV area left
 - dining center
 - kitchen/refrigerator right
@@ -290,12 +349,14 @@ If refrigerator appears:
 - lower freezer drawer
 - recessed dark handles
 - narrow black upper-right display
+- display uses abstract unreadable marks only, or stays dark
 
 If TV appears:
 - matte black body
 - thin uniform bezel
 - centered stand
 - low charcoal console
+- screen stays dark or uses abstract unreadable marks only
 
 Do not redesign appliances.
 Do not make screens reflective.
@@ -317,10 +378,23 @@ NO light beneath skin.
 NO blue light cast onto his face, clothes, Nari, walls, or floor.
 
 ==================================================
-ABSOLUTE VISUAL STYLE LOCK
+ABSOLUTE VISUAL STYLE LOCK — ONE BASE + ONE SHADOW
 ==================================================
 
 100% FLAT 2D HUMAN-DRAWN COLORED MANGA/MANHWA.
+
+For EVERY visible surface, use this simplified rendering model:
+
+1. ONE flat local/base color.
+2. OPTIONAL ONE hard-edged cel-shadow color.
+3. Ink linework.
+4. No other material modeling.
+
+Do NOT add a third/fourth tonal layer for realistic depth.
+Do NOT add texture overlays.
+Do NOT add grain/noise overlays.
+Do NOT add soft blended shading.
+Do NOT add realistic surface wear.
 
 Required:
 - clean visible ink linework
@@ -332,9 +406,18 @@ Required:
 - simplified matte materials
 - modern supernatural romance manhwa feeling
 
-The blackout must remain readable through flat charcoal / muted blue-gray shapes and ink outlines.
+The blackout must remain readable through flat charcoal / muted blue-gray shapes and ink outlines, NOT by realistic cinematic darkness.
 
-A small candle may use a contained matte amber accent only.
+A small candle may use one contained matte amber fill plus a simple hard-edged light shape only. No soft glow gradient.
+
+BACKGROUND SIMPLIFICATION:
+- walls = flat color shapes, not weathered texture
+- papers = simple flat rectangles with abstract icons/diagrams, not aged paper
+- floor = flat color plane with minimal line detail, not realistic wood/concrete texture
+- manual = flat cover color, not scratched/worn leather
+- devices = matte silhouettes with simple flat highlights only if needed, never glossy reflections
+- clothing = flat fabric color + one hard shadow, no fabric weave or distressed texture
+- skin = flat natural tone + one hard shadow, no airbrushed modeling
 
 ABSOLUTELY NO:
 - glossy webtoon shine
@@ -349,11 +432,15 @@ ABSOLUTELY NO:
 - airbrushed rendering
 - realistic material texture
 - film grain
+- noise overlay
+- paper grain
+- grunge overlay
 - weathered realistic walls/floors
 - realistic scratches
 - realistic metal distress
 - realistic wood grain
 - realistic fabric weave
+- realistic leather texture
 - glossy skin
 - shiny lips
 - glossy hair
@@ -374,8 +461,8 @@ ABSOLUTELY NO:
 - atmospheric haze
 - excessive supernatural glow
 
-Do NOT make the scene more realistic or more dramatic.
-Make it FLATTER, CLEANER, SIMPLER, and more obviously hand-drawn.
+Do NOT make the scene more realistic, more textured, more detailed, or more dramatic.
+Make it FLATTER, CLEANER, SIMPLER, and more obviously hand-drawn than the rejected cover attempts.
 
 ==================================================
 SPOILER BOUNDARY
@@ -408,12 +495,12 @@ Before accepting the image, verify:
 1. Nari matches `nari-canonical-flat2d.png` in identity.
 2. Hyun-woo matches `hyunwoo-canonical-flat2d.png` in identity.
 3. The exact full title is in the upper 25–35% / upper third.
-4. BLACKOUTS has only tiny in-letter interrupted-circuit details and NO large lightning/crack/arc effects.
-5. The exact story title is the ONLY readable text anywhere in the artwork.
-6. NO noodles, ramen, noodle cups, noodle bowls, noodle packets, chopsticks-with-noodles, food containers, food packaging, or substitute food appears anywhere.
-7. The electrical manual is normal/unlocked/unchained, and the brass key is separate and clearly visible.
+4. All title letter faces are clean solid matte fills. BLACKOUTS has only 2–3 tiny clean in-letter circuit interruptions and NO cracks, distress, lightning-bolt slash/symbol, large lightning, arcs, or shattered treatment.
+5. The exact story title is the ONLY readable text anywhere in the artwork. There is NO `UNIT 2407`, `2407`, manual label, wall-note text, Korean text, English prop text, or other number/letter outside the title.
+6. NO noodles, ramen, noodle cups, noodle bowls, noodle packets, chopsticks-with-noodles, food containers, food packaging, substitute food, or other food appears anywhere.
+7. The electrical manual is normal/unlocked/unchained with blank/icon-only cover, and the brass key is separate, plain, clearly visible, and has NO numbered tag.
 8. Hyun-woo's tattoos remain mostly matte black with only tiny sparse nonluminous current accents.
-9. The entire image is clearly 100% flat 2D matte human-drawn manga/manhwa — no cinematic, gritty, glossy, photorealistic, 3D, painterly, reflective, or over-rendered treatment.
+9. Every surface follows ONE BASE COLOR + OPTIONAL ONE HARD CEL-SHADOW + INK. There is NO grit, grain, weathering, scratches, distressed texture, soft shading, realistic material modeling, cinematic darkness, glossy treatment, photorealism, 3D, painterly rendering, reflection, or over-rendering.
 10. No comic panels, gutters, speech bubbles, captions, SFX, page numbers, extra characters, spoilers, watermark, signature, or extra logo appear.
 
 ANY ONE FAILURE = REJECT / CORRECT / REGENERATE.
@@ -435,7 +522,9 @@ Yoon Nari rents an unusually cheap smart apartment with one rule: never turn off
 - Attach only `Character-References/nari-canonical-flat2d.png` and `Character-References/hyunwoo-canonical-flat2d.png` as active character identity references.
 - Do not attach the legacy/original cover during normal final generation.
 - A rejected current cover may be used only as an edit target/composition scaffold, never as identity authority.
+- Preserve the successful upper-title/no-food/manual-key composition if using the latest rejected cover as an edit target.
 - Noodles and all other food props are intentionally excluded from the story-cover design even though noodles remain part of Chapter 1.
+- The story title is the only permitted readable text inside the cover; `UNIT 2407`, `2407`, manual labels, wall notes, device text, and key-tag numbers are forbidden.
 - Generate PNG first as `story_cover.png`.
 - After QA approval, manually convert the approved PNG to `story_cover.webp`.
 - App metadata above must never appear as text inside the generated cover.
