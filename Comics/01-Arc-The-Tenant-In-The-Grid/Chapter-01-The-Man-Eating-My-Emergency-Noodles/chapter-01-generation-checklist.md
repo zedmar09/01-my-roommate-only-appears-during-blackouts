@@ -37,6 +37,23 @@ After approval, optionally convert each canonical PNG to WebP. The approved flat
 
 Do not start a final character-containing asset until the required reference for every visible recurring character on that asset has been approved.
 
+### Nari Canonical Reference Acceptance Gate — Mandatory
+
+Do not approve `nari-canonical-flat2d.png` unless ALL of the following pass:
+
+1. Nari reads as an adult Korean woman around age 30, not a teenager or generic young heroine.
+2. Her face keeps the sharper tired/skeptical identity: relatively narrow almond eyes, compact/slightly angular lower face, understated nose and lips.
+3. Hair is a short, irregular, tousled, asymmetrical dark-plum shag with a short nape and uneven side strands; no long hair, smooth symmetrical bob, or generic black heroine hair.
+4. There is EXACTLY ONE tiny black beauty mark beside the LEFT corner of her mouth.
+5. There are ZERO other facial beauty marks, moles, freckles, decorative dots, piercings, or black spots anywhere on her face.
+6. Yellow scrunchie is present and headphones are present around her neck.
+7. Stickered tablet is present as a graphic identity prop, but the canonical reference contains no readable generated words on the tablet.
+8. Background is ONE perfectly uniform flat light-neutral-gray fill from edge to edge: no vignette, gradient, radial lighting, halo, cast shadow, texture, darker corners, or lighter center.
+9. There is ZERO text anywhere on the canonical reference image: no `YOON NARI` label, name, caption, title, watermark, signature, credits, measurements, or UI.
+10. Rendering is 100% flat 2D matte human-drawn manga/manhwa with clean ink, solid color blocking, and at most one hard-edged cel-shadow tone; no soft airbrushed transitions, glossy skin/hair, cinematic light, photorealism, 3D/CG, or painterly rendering.
+
+Any one failure means the Nari reference remains `REJECTED` and must not be attached to a story cover or chapter page. A visually attractive Nari image is not canonical unless all ten checks pass.
+
 ## Canonical Character Identity Authority — Mandatory
 
 Character identity and scene instructions are separate authorities.
@@ -71,6 +88,8 @@ Hard character-drift rejection examples:
 - Nari with long black hair instead of her established short asymmetrical dark-plum shag
 - Nari with a different generic heroine face
 - Nari losing her beauty mark or adult game-designer identity
+- Nari with more than one facial beauty mark/dot/mole, any extra facial spot, or beauty mark on the wrong side
+- Nari canonical reference with background gradient/vignette or any text/name label
 - Hyun-woo with short hair instead of established long black hair tied low
 - Hyun-woo with a generic cloth mask instead of the established modern technical lower-face mask
 - Hyun-woo with sparse/simplified/newly invented tattoos instead of the approved dense circuit-sigil design
@@ -192,7 +211,7 @@ Do not approve a page containing a prohibited style merely because the character
 ## Character Rejection Gate
 
 - Reject any face that does not match the approved flat-2D canonical character reference.
-- Reject teenage/schoolgirl Nari, long black-haired Nari, changed dark-plum asymmetrical hair, missing beauty mark, missing yellow scrunchie, missing headphones where scripted, glamorous heiress styling, chibi, generic waifu features, or any newly invented heroine face.
+- Reject teenage/schoolgirl Nari, long black-haired Nari, changed dark-plum asymmetrical hair, missing beauty mark, extra/duplicate facial beauty marks or dots, beauty mark on the wrong side, missing yellow scrunchie, missing headphones where scripted, glamorous heiress styling, chibi, generic waifu features, or any newly invented heroine face.
 - Reject historical/palace/vampire/xianxia/corporate/school-delinquent Hyun-woo, uncovered lower face, changed technical mask, generic cloth mask, short hair, simplified/new tattoo map, noticeably slimmer recast build, neon tattoos, glowing veins, or light beneath skin.
 - Reject Mrs. Na if her face/design contradicts her approved canonical reference, including missing tight silver twist, jade earrings, mature age, or practical mauve-coat identity.
 - Reject Seungjae if his face/design contradicts his approved canonical reference or begins resembling Hyun-woo.
@@ -252,6 +271,7 @@ Before generating the next page, review the current page against every applicabl
 
 - Compare every visible recurring character directly against the approved flat-2D canonical visual reference, not only against text descriptions.
 - Face, adult age, hairstyle, hair color, beauty mark, body proportions, mask, tattoos, accessories, and persistent identifiers must match the flat-2D canonical reference.
+- For Nari specifically, preserve exactly one left-mouth beauty mark and never introduce a second facial dot/mark through later page generation.
 - Wardrobe and expression then follow the current page prompt.
 - The previous approved page is secondary evidence only; it cannot legitimize character drift.
 
@@ -342,7 +362,8 @@ Do not approve a visually attractive page with incorrect critical text.
 Apply an especially strict review to these continuity-heavy pages:
 
 - Canonical preflight: Nari, Hyun-woo, Mrs. Na, and Seungjae flat-2D references must each be approved before the first final asset/page that visually shows them.
-- Page 1: canonical Nari face/hair/beauty mark/adult proportions plus Unit 2407 baseline. Page 1 must not invent a new Nari.
+- Nari canonical preflight: exactly one left-mouth beauty mark, zero other facial marks, uniform flat-gray background, zero text, and no soft/gradient rendering are mandatory before Nari is approved.
+- Page 1: canonical Nari face/hair/beauty mark/adult proportions plus Unit 2407 baseline. Page 1 must not invent a new Nari or duplicate her facial beauty mark.
 - Page 2: canonical Mrs. Na face/age/hair twist/jade earrings/mauve-coat identity plus Nari continuity.
 - Page 3: both time cards, `19 C`, speaker plugged then visibly unplugged, clean Hyun-woo signal.
 - Page 5: both time cards, key return, speaker/stockpot/towels/lid, guarded fruit knife, 1:17 flicker, physical crumb reply.
