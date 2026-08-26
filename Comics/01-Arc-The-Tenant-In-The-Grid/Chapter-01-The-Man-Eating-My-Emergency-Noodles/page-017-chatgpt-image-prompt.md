@@ -6,7 +6,11 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 17 as PNG. Save i
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 17 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; directly continue Page 16.
+Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 16.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. The canonical reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 16 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls Nari's current pose, expression, cabinet/knife/food actions, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations. Hyun-woo is voice-only on this page: do not draw, reflect, silhouette, or reconstruct his physical body from earlier pages.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +26,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Hyun-woo is voice-only. He briefly energizes the disconnected corded speaker using effortful supernatural stored/network current; signal is weak/static-prone and does not count as ordinary building power. His bubble has restrained cyan accent and no hostile black pixels.
 
 CHARACTER CONSISTENCY
-Nari retains exact adult design/outfit. Hyun-woo is never physically drawn, reflected, or silhouetted.
+Nari is the SAME approved canonical adult design/outfit. Hyun-woo is never physically drawn, reflected, or silhouetted.
 
 SETTING AND PROP CONTINUITY
 Nari opens cabinet, lifts lid, sees same towels/speaker. She later retrieves floor knife, carries it safely to desk, slides it into existing sheath, then returns to table. She inspects packet/wrapper/pot, smells broth, then sits/eats using clean chopsticks. No object teleports. Binder stays on kitchen counter; brass key stays entry tray; notebook stays desk.
@@ -87,5 +91,5 @@ STORY CLARITY
 The reader must understand how an unplugged speaker briefly works, Nari safely stores the knife, inspects food before eating, and receives concise rules that match Mrs. Na's warning.
 
 AVOID
-Avoid physical Hyun-woo, hostile speaker styling, words printed on speaker, casual unexamined eating, loose knife at table, missing trivet/holder/cloth, moved binder/key/notebook, glossy/cinematic effects, extra lore/text, and spoilers.
+Avoid Nari identity drift, long black hair, generic replacement face, physical/reflected/silhouetted Hyun-woo, hostile speaker styling, words printed on speaker, casual unexamined eating, loose knife at table, missing trivet/holder/cloth, moved binder/key/notebook, glossy/cinematic effects, extra lore/text, and spoilers.
 ```
