@@ -6,7 +6,12 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 8 as PNG. Save it
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 8 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; preserve approved Nari and device-message styling.
+Use `../../../characters.md` and `../../style-guide.md`; preserve approved Page 7 for page-to-page continuity.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md` and the APPROVED flat-2D canonical Seungjae reference created from `../../../Character-References/seungjae-canonical-flat2d-chatgpt-image-prompt.md`.
+Those canonical references are the absolute authority for each character's face, hair, adult age, persistent identifiers, and stable body proportions. Approved Page 7 controls ongoing rendering continuity only and cannot override canonical identity. This page prompt controls current after-work wardrobe, poses, expressions, devices, dialogue, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +27,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Nonphysical Hyun-woo causes petty clean-signature battery interference. Seungjae's phone, earbuds, smartwatch, and power bank fail; his electronic car key visibly still works. Do not create transport danger. Hyun-woo's tablet text is clean stable cyan-white without hostile black pixels.
 
 CHARACTER CONSISTENCY
-Nari: same 30-year-old Korean woman in after-work jacket, trousers, sneakers, headphones, shoulder bag with stickered tablet. Seungjae: Korean man 33, neat brown hair, office-casual clothes, closed umbrella, foldable phone, earbuds, smartwatch, practiced smile.
+Nari is the SAME approved canonical 30-year-old Korean woman in after-work jacket, trousers, sneakers, headphones, shoulder bag with stickered tablet. Seungjae is the SAME approved canonical Korean man, 33, with neat brown hair, office-casual clothes, closed umbrella, foldable phone, earbuds, smartwatch, and practiced smile. Do not reinterpret either face from text.
 
 SETTING AND PROP CONTINUITY
 They enter lobby together from rain. Seungjae's separate devices fail in sequence. Car-key indicator flashes normally. Nari's tablet is inside her bag. Final panel must show elevator doors open, Nari stepping inside, Seungjae turning toward exit, then doors starting to close.
@@ -80,5 +85,5 @@ STORY CLARITY
 The reader must understand Hyun-woo's interference is petty but not transport-dangerous and the lobby scene physically closes before the next time jump.
 
 AVOID
-Avoid dead car key, trapped exits, any Hyun-woo-caused elevator malfunction, Nari only standing at call button, reflected characters in glass, hostile signature, physical Hyun-woo, glossy/cinematic effects, extra text, and flashback.
+Avoid Nari or Seungjae identity drift, generic replacement faces, dead car key, trapped exits, any Hyun-woo-caused elevator malfunction, Nari only standing at call button, reflected characters in glass, hostile signature, physical Hyun-woo, glossy/cinematic effects, extra text, and flashback.
 ```
