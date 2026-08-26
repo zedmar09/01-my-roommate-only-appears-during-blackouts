@@ -6,7 +6,11 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 9 as PNG. Save it
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 9 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; preserve approved apartment and Nari.
+Use `../../../characters.md` and `../../style-guide.md`; preserve approved Page 8 for page-to-page continuity.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. The canonical reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 8 controls page-to-page rendering continuity only and cannot override canonical identity. This page prompt controls blackout-night wardrobe, pose, expression, actions, props, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +26,7 @@ POWER AND SUPERNATURAL RULE LOCK
 At 12:43 A.M., Unit 2407 loses ordinary supplied power, allowing Hyun-woo to become physical off-panel. Battery devices still exist but hostile interference makes them unresponsive. Phone screens do not prevent manifestation and do not satisfy the lamp rule.
 
 CHARACTER CONSISTENCY
-Nari is in one locked blackout-night outfit: oversized graphic hoodie, loose black trousers, bare feet inside apartment, yellow scrunchie, headphones around neck, adult face and proportions.
+Nari is the SAME approved canonical Nari in one locked blackout-night outfit: oversized graphic hoodie, loose black trousers, bare feet inside apartment, yellow scrunchie, headphones around neck, adult face and proportions. Do not reinterpret her face or hair from text.
 
 SETTING AND PROP CONTINUITY
 Phone showed 81% ten minutes earlier. Nari presses its power button twice. She clicks flashlight twice; radio emits one static burst. She does not pick up knife yet. Outside: towers darken, traffic signals fail, horns/alarms/balcony voices; elevator is silent. Separate corridor emergency light remains outside only.
@@ -76,5 +80,5 @@ STORY CLARITY
 The reader must understand the outage is city-scale, Nari obeyed the lamp rule, Unit 2407 lost ordinary power, common-area backup remains separate, and charged personal devices fail supernaturally.
 
 AVOID
-Avoid physical Hyun-woo reveal, active unit lights, phone turning on, knife moved early, emergency corridor power inside apartment, crushed black, cinematic glow, reflective windows, extra text, flashback, or spoilers.
+Avoid Nari identity drift, long black hair, generic replacement face, physical Hyun-woo reveal, active unit lights, phone turning on, knife moved early, emergency corridor power inside apartment, crushed black, cinematic glow, reflective windows, extra text, flashback, or spoilers.
 ```
