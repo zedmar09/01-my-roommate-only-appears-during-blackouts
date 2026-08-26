@@ -8,6 +8,41 @@ Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa ST
 IMAGE PURPOSE
 This is the main reader-facing cover image shown in the mobile and web app story selection list. It is not a chapter page, not a support page, and not a comic panel page.
 
+CANONICAL CHARACTER IDENTITY AUTHORITY - MANDATORY
+For final production, attach the approved canonical visual reference for Nari and the approved canonical visual reference for Hyun-woo. If the only approved identity reference is the earlier approved cover, attach that image and use it for CHARACTER IDENTITY ONLY.
+
+The canonical visual reference images are the absolute authority for WHO Nari and Hyun-woo are. Preserve the same people exactly. The written descriptions below are guardrails and must never be used to reinterpret, recast, beautify, simplify, or redesign their established identities.
+
+Canonical visual references control:
+- face shape and facial proportions
+- eye shape and placement
+- nose and mouth shape
+- apparent adult age and ethnicity
+- hair silhouette, length, shape, and color
+- Nari's beauty mark and recognizable facial identifiers
+- Hyun-woo's technical lower-face mask shape and fit
+- Hyun-woo's long low-tied hair silhouette
+- Hyun-woo's broad adult build
+- Hyun-woo's established dense circuit-sigil tattoo layout and visual density
+- stable adult body proportions
+
+The current cover `.md` controls only the new cover's pose, expression, wardrobe, composition, story symbols, environment, typography, lighting treatment, and flat-2D rendering. It does NOT authorize a new face, new hairstyle, new mask, new tattoo design, or new body type.
+
+If the earlier approved cover is used as the identity reference, DO NOT copy its rendering style, lighting, composition, pose, title layout, gloss, reflections, or cinematic treatment. Extract only the established Nari/Hyun-woo identity from it, then render those SAME PEOPLE using the current flat matte 2D instructions.
+
+Do not average conflicting or rejected character images. Use only the approved canonical reference for each character. A drifted/rejected generation is never an identity reference.
+
+Hard rejection examples:
+- Nari with long black hair instead of her established short dark-plum asymmetrical shag
+- Nari with a different generic heroine face
+- Nari losing her recognizable beauty mark or adult game-designer identity
+- Hyun-woo with short hair instead of established long black hair tied low
+- Hyun-woo becoming slimmer/narrower than his established broad build
+- Hyun-woo with a generic cloth mask instead of his established modern technical lower-face mask
+- Hyun-woo with simplified, sparse, or newly invented tattoos instead of the established dense circuit-sigil design
+
+If approved canonical character references are not attached, do not treat a newly invented face as final production character identity. Final cover approval requires identity comparison against the approved canonical references.
+
 SYMBOLIC COVER CONTINUITY
 This is symbolic premise art, not a literal Chapter 1 moment. It may combine Nari in her outdoor game-designer clothing, physical blackout Hyun-woo, noodles, the electrical binder, the brass key, and dead devices for marketing clarity even though those exact wardrobe/prop states do not all share one interior scene. Never use this cover as wardrobe, prop-position, lighting, or scene-blocking continuity reference for Chapter 1 pages.
 
@@ -69,7 +104,7 @@ ENVIRONMENT AND APPLIANCE LOCK
 Match Unit 2407's established open-plan layout: living room and matte black television on the left, pale-gray dining table near center, kitchen and matte cool-gray refrigerator on the right, hallway behind, and dark-panel windows on the exterior wall. Walls are flat light cool gray, lower cabinets muted eucalyptus green, counters matte pale gray, floors medium neutral gray, and chairs muted dark burgundy. If the refrigerator is visible, keep its 180 cm-tall matte cool-gray body, two upper doors, lower freezer drawer, recessed dark handles, and narrow black upper-right display. If the television is visible, keep its 110 cm-wide matte black body, thin bezel, centered stand, and low charcoal console. Do not redesign, enlarge, relocate, or add glossy reflections to either appliance.
 
 MAIN CHARACTER - YOON NARI
-Show Yoon Nari as the central foreground heroine:
+Show the SAME approved canonical Yoon Nari as the central foreground heroine. The attached canonical visual reference controls her identity; the bullets below are consistency checks, not permission to redesign her:
 - Korean woman, 30 years old.
 - Short asymmetrical dark-plum shag haircut.
 - Sharp tired eyes with faint under-eye shadows.
@@ -80,20 +115,21 @@ Show Yoon Nari as the central foreground heroine:
 - Holding a sticker-covered tablet or notebook labeled with a small bug-report style mark.
 - Expression: exhausted, suspicious, brave because she has no patience left for fear.
 
-IMPORTANT: Nari must not resemble existing story-library heroines. Do not give her imperial robes, station uniform, red scarf, crescent hair clip, transparent umbrella thriller silhouette, cartographer field coat, palace hair ornaments, school uniform, or teenage proportions.
+IMPORTANT: Nari must not resemble a newly invented heroine or existing story-library heroines. Do not give her long black hair, an unrelated face, imperial robes, station uniform, red scarf, crescent hair clip, transparent umbrella thriller silhouette, cartographer field coat, palace hair ornaments, school uniform, or teenage proportions.
 
 MALE LEAD - JOO HYUN-WOO
-Beside or slightly behind Nari, show Joo Hyun-woo:
+Beside or slightly behind Nari, show the SAME approved canonical Joo Hyun-woo. The attached canonical visual reference controls his identity; the bullets below are consistency checks, not permission to redesign him:
 - Tall Korean man, appears early-to-mid 30s.
-- Broad shoulders, long black hair tied low at the nape.
+- Broad shoulders and established broad adult build.
+- Long black hair tied low at the nape, never short hair.
 - Severe dark eyes.
-- Matte black modern technical mask covering the lower half of his face.
-- Intricate tattoos from neck down both arms and across collarbones, combining circuit traces, waveform lines, breaker symbols, and talisman-like brush geometry.
+- Established matte black modern technical mask covering the lower half of his face, not a generic cloth mask.
+- Established dense intricate tattoos from neck down both arms and across collarbones, combining circuit traces, breaker symbols, waveform lines, and talisman-like brush geometry. Do not simplify or invent a new tattoo map.
 - Tattoos are matte black with faint pale electric blue-white accents against the blackout, not neon glow.
 - Wears a black sleeveless top, loose dark utility pants, worn boots, and an old engineer's jacket.
 - Body language: intimidating silhouette, but protective and gentle toward Nari.
 
-IMPORTANT: Hyun-woo's mask must look modern and technical, not an imperial fantasy half-mask. Do not make him look like a palace prince, gothic warlord, vampire, corporate avenger, school delinquent, or xianxia cultivator.
+IMPORTANT: Hyun-woo's mask must look like the established modern technical lower-face mask. Do not give him short hair, a generic cloth mask, sparse/simple tattoos, a slimmer recast body, palace-prince styling, gothic warlord styling, vampire styling, corporate-avenger styling, school-delinquent styling, or xianxia styling.
 
 SETTING AND STORY SYMBOLS
 Use a layered blackout-apartment composition:
@@ -118,16 +154,16 @@ Use a rich urban supernatural romance palette:
 - Avoid making the palette one-note purple, dark-blue-only, corporate noir red, beige, or palace fantasy gold.
 
 APP THUMBNAIL PREVIEW CONSISTENCY
-The full cover and every app-card crop must preserve the same flat matte color, line weight, character faces, appliance design, and neutral exposure. Keep both leads and the full readable title inside the centered safe area. Do not make the cropped preview darker, brighter, glossier, more reflective, or more cinematic than the full cover.
+The full cover and every app-card crop must preserve the same flat matte color, line weight, canonical character identities, appliance design, and neutral exposure. Keep both leads and the full readable title inside the centered safe area. Do not make the cropped preview darker, brighter, glossier, more reflective, or more cinematic than the full cover.
 
 COMPOSITION
-Nari should be the first thing the viewer sees, with Hyun-woo close enough to feel like her impossible roommate and protector. The title should sit cleanly at the top or upper third with strong contrast. The instant noodles, candle, dead smart devices, and faint tattoo accents should make the premise instantly readable: a romantic supernatural roommate story built around blackouts.
+Nari should be the first thing the viewer sees, with the same canonical Hyun-woo close enough to feel like her impossible roommate and protector. The title should sit cleanly at the top or upper third with strong contrast. The instant noodles, candle, dead smart devices, and faint tattoo accents should make the premise instantly readable: a romantic supernatural roommate story built around blackouts.
 
 STORY CLARITY
 The image should tell the viewer this story is about an exhausted game designer, a mysterious masked tattooed man who appears only when the power goes out, haunted smart-home devices, and a dangerous romance tied to electricity, missing records, and blackout secrets.
 
 AVOID
-Avoid treating this symbolic cover as a literal Chapter 1 scene, black-and-white only, plain sketch, school uniforms, teen romance, fantasy robes, palace clothing, crowns, historical half-masks, station uniforms, red scarves, coffins, lilies, loyalty percentages, corporate revenge boardroom mood, debt ledger boxes, cartography maps, glossy webtoon shine, shiny apartment surfaces, mirror-like reflections, glass glare, wet floors, glossy counters, glossy refrigerator doors, plastic shine, excessive glow, cinematic lighting, rim light, bloom, lens flare, volumetric beams, gradients, depth-of-field blur, photorealism, semi-photorealism, 3D/CG render, painterly concept art, airbrushed rendering, western superhero style, chibi style, childish mood, heavy gore, cluttered title area, unreadable text, fake extra words, synopsis text, genre text, author names, watermarks, signatures, page numbers, app interface elements, and copying any existing story cover layout.
+Avoid any character recast or identity drift; Nari with long hair or an unrelated face; Hyun-woo with short hair, generic cloth mask, simplified tattoos, or slimmer recast build; treating this symbolic cover as a literal Chapter 1 scene; black-and-white only; plain sketch; school uniforms; teen romance; fantasy robes; palace clothing; crowns; historical half-masks; station uniforms; red scarves; coffins; lilies; loyalty percentages; corporate revenge boardroom mood; debt ledger boxes; cartography maps; glossy webtoon shine; shiny apartment surfaces; mirror-like reflections; glass glare; wet floors; glossy counters; glossy refrigerator doors; plastic shine; excessive glow; cinematic lighting; rim light; bloom; lens flare; volumetric beams; gradients; depth-of-field blur; photorealism; semi-photorealism; 3D/CG render; painterly concept art; airbrushed rendering; western superhero style; chibi style; childish mood; heavy gore; cluttered title area; unreadable text; fake extra words; synopsis text; genre text; author names; watermarks; signatures; page numbers; app interface elements; and copying any existing story cover layout.
 ```
 
 ## App Metadata
@@ -141,8 +177,9 @@ Yoon Nari rents an unusually cheap smart apartment with one rule: never turn off
 
 ## Usage Notes
 
+- Final production cover generation requires the approved canonical visual reference for Nari and Hyun-woo to be attached. If the earlier approved cover is the only approved identity source, use it for identity only, never as rendering/composition authority.
 - ChatGPT output should be PNG first: `story_cover.png`.
 - After approval, manually convert the PNG to `story_cover.webp`.
 - Use `story_cover.webp` for the mobile and web app story selection list.
 - The genre and synopsis above are app metadata only. Do not include them in the generated cover image.
-- Keep this cover consistent with the colored flat 2D human-drawn style used for reader-facing comic pages.
+- Keep this cover consistent with the colored flat 2D human-drawn style used for reader-facing comic pages while preserving the approved canonical character identities.
