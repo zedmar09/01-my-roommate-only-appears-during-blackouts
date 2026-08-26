@@ -6,7 +6,11 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 5 as PNG. Save it
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 5 of "My Roommate Only Appears During Blackouts".
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`; directly continue Page 4.
+Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 4.
+
+CANONICAL CHARACTER REFERENCE LOCK
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. The canonical reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 4 controls page-to-page environment/prop/rendering continuity only and cannot override canonical identity. This page prompt controls Nari's current poses, sleep appearance, home wardrobe, actions, props, and scene.
+Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
@@ -22,7 +26,7 @@ POWER AND SUPERNATURAL RULE LOCK
 During the brief 1:17 A.M. mains flicker, nonphysical Hyun-woo can move only lightweight toaster crumbs. He does not form a body. This clean reply is his action; no hostile black pixels appear.
 
 CHARACTER CONSISTENCY
-Nari remains the same adult home design. During sleep she is off-panel or shown naturally asleep; do not invent a dream/flashback.
+Nari is the SAME approved canonical adult home design. During sleep she is off-panel or shown naturally asleep; do not invent a dream/flashback or alter her face/hair identity.
 
 SETTING AND PROP CONTINUITY
 Brass key begins in Nari's hand and returns to entry tray. Unplugged speaker moves from counter into the cabinet stockpot under two dish towels and its lid. Paper note stays beside toaster. Fruit knife has a fitted blade guard before going beneath sofa cushion. TV remains unplugged. Hallway lamp stays on except one instant flicker.
@@ -84,5 +88,5 @@ STORY CLARITY
 The reader must trace every defensive object placement, see time advance explicitly to 1:17 A.M. and then morning, and understand the crumb reply required a brief electrical flicker rather than full physical manifestation.
 
 AVOID
-Avoid missing, numbered, or decorated time-card gutters; unguarded knife; moving speaker without showing hands; missing towels/lid; crumbs moving without flicker; physical Hyun-woo; hostile signature; flashback styling; glossy/cinematic effects; and extra text.
+Avoid Nari identity drift, long black hair, generic replacement face, missing/numbered/decorated time-card gutters, unguarded knife, moving speaker without showing hands, missing towels/lid, crumbs moving without flicker, physical Hyun-woo, hostile signature, flashback styling, glossy/cinematic effects, and extra text.
 ```
