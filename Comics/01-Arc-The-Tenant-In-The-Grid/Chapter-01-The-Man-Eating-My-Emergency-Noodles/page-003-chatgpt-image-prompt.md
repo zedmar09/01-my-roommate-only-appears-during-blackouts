@@ -45,6 +45,13 @@ TIME CAPTION VISIBILITY LOCK
 - Panel 4 must contain `LATER THAT NIGHT` as a LARGE, prominent narration caption integrated into the panel composition.
 - These time captions must be immediately noticeable at normal page-reading size, clearly larger/more prominent than ordinary captions, and must never be reduced to tiny decorative text.
 
+NARRATION CAPTION DESIGN
+Narration and time-caption presentation is scene-adaptive, not fixed to one background, color, shape, or placement.
+Blend each narration caption into its actual panel while keeping it clearly readable and visually distinct from dialogue, SFX, device text, and the small circled panel-order number.
+Use whatever restrained flat-2D caption treatment best fits that scene—light, dark, solid, bordered, or another simple high-contrast shape—without changing the exact wording.
+Do NOT force a white caption box when the scene calls for another treatment, and do NOT force every caption on the page to look identical.
+Maintain strong contrast and breathing room; never place narration as unreadable bare text over busy artwork.
+
 SPOILER BOUNDARY
 Do not show Hyun-woo physically, hostile text, Black Surge imagery, or explanations.
 
@@ -89,7 +96,7 @@ SFX: YANK
 No reply.
 
 SFX AND TEXT BLENDING
-Use easy-to-read physical sounds only. Keep the electrical flicker restrained. Time captions are intentionally prominent and must not be treated as small decorative gutter text.
+Use easy-to-read physical sounds only. Keep the electrical flicker restrained. Time and narration captions are intentionally prominent where scripted, but their graphic treatment should adapt to each panel rather than being forced into one fixed box style.
 
 TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `7`. Dialogue is spoken aloud unless explicitly marked otherwise. Do not print production labels such as `NARRATION`, `RECORDED SPEAKER`, `HYUN-WOO`, or `NARI` in the artwork. Speaker dialogue must use speech bubbles with tails pointing to the screenless speaker, never printed words on the device body.
@@ -98,7 +105,7 @@ STORY CLARITY
 The reader must understand: one week has passed; the apartment's automation is irritating Nari; later that night she asks the assistant to turn on the kitchen light; the normal synthetic assistant misunderstands her; Nari repeats the command more directly; during a brief flicker the SAME speaker suddenly produces a clearly different natural male voice; Nari is startled because the voice changed; she asks who spoke and gets no answer; then she unplugs the speaker.
 
 AVOID
-Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, random thermostat values, physical Hyun-woo, identical assistant/male voice treatment, hostile signature, oversized speaker, missing cord/plug action, glossy/cinematic rendering, reflections, extra text, missing/duplicated/out-of-order/oversized panel numbers, and flashbacks.
+Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, rigid one-style-fits-all narration treatment, random thermostat values, physical Hyun-woo, identical assistant/male voice treatment, hostile signature, oversized speaker, missing cord/plug action, glossy/cinematic rendering, reflections, extra text, missing/duplicated/out-of-order/oversized panel numbers, and flashbacks.
 ```
 
 ## Locked Reader-Facing Text
