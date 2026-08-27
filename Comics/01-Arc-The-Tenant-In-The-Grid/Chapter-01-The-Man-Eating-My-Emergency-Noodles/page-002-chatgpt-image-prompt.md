@@ -44,6 +44,13 @@ Show doorbell, Nari opening, Mrs. Na crossing the threshold, both walking to the
 TIME DISPLAY LOCK
 Do NOT use a tiny separate gutter time card. Put `LATER THAT EVENING...` clearly inside the upper portion of Panel 1 as a large, easy-to-read narration caption. It must be visually noticeable at normal page-reading size and larger than ordinary minor captions, while still leaving the doorbell action readable.
 
+NARRATION CAPTION DESIGN
+Narration and time-caption presentation is scene-adaptive, not fixed to one background, color, shape, or placement.
+Blend each narration caption into its actual panel while keeping it clearly readable and visually distinct from dialogue, SFX, device text, and the small circled panel-order number.
+Use whatever restrained flat-2D caption treatment best fits that scene—light, dark, solid, bordered, or another simple high-contrast shape—without changing the exact wording.
+Do NOT force a white caption box when the scene calls for another treatment, and do NOT force every caption on the page to look identical.
+Maintain strong contrast and breathing room; never place narration as unreadable bare text over busy artwork.
+
 SPOILER BOUNDARY
 Mrs. Na gives a clear safety instruction but remains evasive about why. Do not explain Hyun-woo, the hostile system, the accident, or future rules.
 
@@ -97,7 +104,7 @@ SFX: CLINK
 No dialogue.
 
 SFX AND TEXT BLENDING
-Keep SFX source-aligned and easy to read. The Panel 1 time caption must be clearly noticeable and must not be reduced to tiny decorative text.
+Keep SFX source-aligned and easy to read. The Panel 1 time caption must be clearly noticeable and must not be reduced to tiny decorative text. Its visual treatment should adapt to the panel rather than being forced into a fixed caption-box style.
 
 TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `9`. Dialogue is spoken aloud unless explicitly marked otherwise. Keep bubble order obvious. Do not print production labels such as `NARRATION`, `SFX`, `MRS. NA`, or `NARI` in the artwork. Do not add measurements, extra warnings, fine print, or additional dialogue.
@@ -106,7 +113,7 @@ STORY CLARITY
 The reader must understand: time has advanced to later that evening; Mrs. Na arrives after Nari's move-in; she gives Nari the apartment guide and detached brass backup key; she warns Nari not to let the hallway go dark after midnight; that protective light must come from the apartment itself and cannot be replaced with a phone/tablet; if the whole building loses power Nari must keep screens off and wait for power to return; Mrs. Na refuses to explain why and physically leaves.
 
 AVOID
-Avoid Nari or Mrs. Na identity drift, spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, tiny/unreadable time caption, supernatural reveal, glossy/cinematic effects, reflections, extra text, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
+Avoid Nari or Mrs. Na identity drift, spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, tiny/unreadable time caption, rigid one-style-fits-all narration treatment, supernatural reveal, glossy/cinematic effects, reflections, extra text, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
 ```
 
 ## Locked Reader-Facing Text
