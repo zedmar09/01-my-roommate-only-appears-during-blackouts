@@ -57,6 +57,13 @@ Do not paraphrase, rewrite, add, omit, or move any line.
 The only other readable text allowed is the apartment-door number `2407` where naturally visible in corridor/door views and the box label `KITCHEN / DO NOT DROP`.
 Do NOT place `2407` or any other unit/building number on the exterior high-rise facade in Panel 1.
 
+NARRATION CAPTION DESIGN LOCK
+Every reader-facing `CAPTION:` line on Page 1 must be rendered inside a SOLID WHITE rectangular narration box with dark/black high-contrast lettering.
+Keep the white box clean, flat, opaque, and clearly separated from the artwork behind it; do NOT render narration directly on top of the illustration.
+Do not use transparent boxes, colored boxes, speech bubbles, gradient boxes, decorative banners, or floating text for narration.
+Preserve this same white narration-box treatment consistently across Panels 1, 2, 4, and 5.
+The small circled panel-order numbers remain separate from the narration boxes and must not overlap them.
+
 PANEL 1
 Wide exterior of the modern residential high-rise at night with a believable Seoul city setting. The building should look desirable, ordinary, and well maintained rather than ominous.
 CAPTION: UNIT 2407 WAS TOO CHEAP.
@@ -98,6 +105,7 @@ No other text.
 FINAL CHECK BEFORE GENERATING
 - Exactly 6 panels in the order above.
 - Exactly one small circled panel-order number per panel: `1` through `6`, with no missing, duplicated, or out-of-order numbers.
+- Every narration `CAPTION:` uses a solid white rectangular background box with dark/black lettering; no narration is printed directly on artwork.
 - Exact text only; no invented biography, tenant rules, narration, footer, or extra dialogue.
 - Nari matches the canonical PNG and keeps loose untied short hair in every panel.
 - Scrunchie stays on wrist.
@@ -130,6 +138,10 @@ FINAL CHECK BEFORE GENERATING
 ## Required Panel Order Markers
 
 Render one small circled number inside each panel in reading order: `1`, `2`, `3`, `4`, `5`, `6`.
+
+## Narration Caption Presentation
+
+All Page 1 narration captions use solid white rectangular caption boxes with dark/black lettering. Do not render narration directly on top of the artwork.
 
 ## Production Thread Use
 
