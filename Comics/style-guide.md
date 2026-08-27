@@ -82,9 +82,20 @@ Comics/<NN-Arc-Or-Season-Name-In-Camel-Case>/<Chapter-NN-Title-Of-The-Chapter-In
 - Save approved story-page PNG/WebP outputs using the chapter's established naming convention.
 - Keep story cover and compact KISAH front/back assets under `Covers/`.
 - Use `prompt-template.md` as the reusable production template.
-- Every page prompt should include environment/appliance, lighting/exposure, power, character, prop, object-scale, scene/time, spoiler, pacing, production-label, text, story-clarity, and avoid guards.
-- `PANEL 1`, `PANEL 2`, etc. are production instructions only. Never render panel numbers, circled numbers, production labels, or page-layout labels in finished artwork.
+- Every page prompt should include environment/appliance, lighting/exposure, power, character, prop, object-scale, scene/time, spoiler, pacing, panel-order-marker, text, story-clarity, and avoid guards.
+- `PANEL 1`, `PANEL 2`, etc. remain prompt-production labels and are never printed literally. The finished interior artwork instead uses one small circled reading-order number per story panel, matching the page's locked panel sequence.
 - Early Arc 1 prompts must not explain Hyun-woo's full origin, complete Black Surge mechanics, body-restoration rules, memory-transfer cost, human culprit, or climax logic before the story earns them.
+
+## Panel Order Marker Rule
+
+- Chapter 1 interior pages require exactly ONE small circled reading-order number inside every story panel.
+- Number panels consecutively from `1` through the page's locked panel count, in the same top-to-bottom/left-to-right reading order defined by the page prompt.
+- Place each number near the upper-left inside its panel or at a quiet gutter-edge position.
+- Keep the marker readable but subtle; it must not compete with dialogue or story art.
+- Never place a number over speech bubbles, narration captions, SFX, device text, notebook text, faces, hands, recurring props, or clues.
+- Reject missing, duplicated, skipped, out-of-order, oversized, or ambiguous panel numbers.
+- These numbers are intentional reader-facing navigation markers; do not confuse them with the literal production labels `PANEL 1`, `PANEL 2`, etc.
+- Compact KISAH support banners are not interior story pages and do not use panel-order markers.
 
 ## Panel Pacing Rule
 
@@ -109,7 +120,7 @@ Comics/<NN-Arc-Or-Season-Name-In-Camel-Case>/<Chapter-NN-Title-Of-The-Chapter-In
 - Do **not** create a separate blank time-card gutter or extra transition strip unless an individual page explicitly requests one.
 - For a mid-page time jump, put the large time caption inside the first panel after the jump while preserving clear panel chronology.
 - If a page directly continues the preceding page, do not invent a time caption or transition strip unless scripted.
-- Production panel labels and numbers never appear in artwork.
+- Literal production labels such as `PANEL 1` never appear in artwork; the small circled reading-order markers required above do appear.
 - Chapter 1 is chronological and contains no flashback. Do not invent flashback panels, dream borders, memory images, or past-event inserts.
 - If a future script explicitly requests a flashback, it must use a written time caption and clearly specified visual treatment; never rely on color alone.
 
