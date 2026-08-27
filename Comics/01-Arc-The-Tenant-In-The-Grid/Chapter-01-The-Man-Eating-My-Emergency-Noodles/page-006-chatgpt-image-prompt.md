@@ -47,7 +47,7 @@ SPOILER BOUNDARY
 Reveal only that digital evidence cannot be safely preserved and that the helpful presence can warn Nari. Manual remains incomplete and Mrs. Na remains evasive.
 
 PAGE FORMAT AND PACING
-One vertical page with 9 readable panels. Use close-ups for the repeated test and short screen text; keep the final binder-return panel small but unmistakable. Do not add reader-facing production panel numbers.
+One vertical page with exactly 9 readable panels. Use close-ups for the repeated test and short screen text; keep the final binder-return panel small but unmistakable. Render exactly ONE small circled panel-order number inside every panel: `1` through `9`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, device text, SFX, faces, hands, the note, binder, phone/tablet, or clues.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Nari photographs the physical handwritten note. The phone's photo result shows the same counter but no paper/writing; the physical note remains beneath the phone.
@@ -88,13 +88,13 @@ SFX AND TEXT BLENDING
 Keep camera and glitch SFX close to devices. No atmospheric glow.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below. The clean tablet warning uses stable cyan-white lettering. Do not add `RECORD CORRUPTED` or any other hostile explanatory message. Keep manual diagram labels minimal and readable.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `9`. The clean tablet warning uses stable cyan-white lettering. Do not add `RECORD CORRUPTED` or any other hostile explanatory message. Keep manual diagram labels minimal and readable.
 
 STORY CLARITY
 The reader must understand two photos fail, the typed digital record disappears during a malfunction, the unknown helpful presence immediately warns Nari not to save this digitally because something else can see it, the manual is incomplete, Mrs. Na refuses a real answer, and Nari returns the binder to the counter before shopping.
 
 AVOID
-Avoid Nari identity drift, long black hair, generic replacement face, physical Mrs. Na, obsolete crumb evidence, `RECORD CORRUPTED`, one-photo conclusion, hostile styling on the clean warning, revealed hostile-system name/origin, giant binder, binder left open/on the dining table after Panel 8, binder teleportation, open south panel, glossy screens, cinematic effects, reader-facing panel numbers, and extra text.
+Avoid Nari identity drift, long black hair, generic replacement face, physical Mrs. Na, obsolete crumb evidence, `RECORD CORRUPTED`, one-photo conclusion, hostile styling on the clean warning, revealed hostile-system name/origin, giant binder, binder left open/on the dining table after Panel 8, binder teleportation, open south panel, glossy screens, cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, and extra text.
 ```
 
 ## Locked Reader-Facing Text
@@ -119,6 +119,10 @@ Avoid Nari identity drift, long black hair, generic replacement face, physical M
 | 8 Mrs. Na Text | Text message to Nari | `IF THE POWER GOES OUT, KEEP EVERY SCREEN OFF.` |
 | 8 Mrs. Na Text | Text message to Nari | `WE'LL TALK IN PERSON.` |
 | 9 | No dialogue | — |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `9`.
 
 ## Production Thread Use
 
