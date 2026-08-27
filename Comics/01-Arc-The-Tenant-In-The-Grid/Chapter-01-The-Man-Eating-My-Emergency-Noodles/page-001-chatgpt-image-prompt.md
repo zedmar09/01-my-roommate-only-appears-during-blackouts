@@ -46,8 +46,10 @@ The moving cart stays outside in the corridor through Panels 2–4.
 
 PAGE STRUCTURE
 Use exactly SIX clearly separated panels.
-Panel numbering below is production-only. Do NOT render panel numbers on the finished comic page.
-Do not add a page-title footer, chapter-title footer, credits, author name, watermark, or extra labels.
+Render exactly ONE small circled panel-order number inside every panel: `1`, `2`, `3`, `4`, `5`, `6`, matching the top-to-bottom reading order below.
+Place each number near the upper-left inside its own panel or at a quiet gutter-edge position. Keep it clearly readable but subtle.
+Never place a panel number over dialogue, captions, SFX, faces, hands, the moving box, the smart lock, the speaker, or other story clues.
+Do not add any other production labels, page-title footer, chapter-title footer, credits, author name, watermark, or extra labels.
 
 TEXT FIDELITY
 Use ONLY the exact captions, dialogue, and SFX listed below.
@@ -95,7 +97,7 @@ No other text.
 
 FINAL CHECK BEFORE GENERATING
 - Exactly 6 panels in the order above.
-- Do NOT render production panel numbers.
+- Exactly one small circled panel-order number per panel: `1` through `6`, with no missing, duplicated, or out-of-order numbers.
 - Exact text only; no invented biography, tenant rules, narration, footer, or extra dialogue.
 - Nari matches the canonical PNG and keeps loose untied short hair in every panel.
 - Scrunchie stays on wrist.
@@ -124,6 +126,10 @@ FINAL CHECK BEFORE GENERATING
 | 6 SFX | `BLIP` |
 | 6 Speaker | `WELCOME HOME, YOON NARI.` |
 | 6 Nari | `GREAT. IT TALKS.` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1`, `2`, `3`, `4`, `5`, `6`.
 
 ## Production Thread Use
 
