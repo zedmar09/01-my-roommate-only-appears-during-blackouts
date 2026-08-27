@@ -4,6 +4,21 @@ Status: **PASS — PRE-GENERATION GUARD READY**
 
 This checklist is the production guard for the final locked Chapter 1 interior sequence: **Pages 001–018**.
 
+## Image-Only Execution Rule — Applies To Pages 001–018
+
+Every Chapter 1 page prompt is already a FINAL production instruction. During image generation:
+
+- Do **not** rewrite, summarize, paraphrase, reinterpret, improve, reorganize, or re-block the page production prompt before generating.
+- Do **not** substitute a more generic comic action for the specific scripted action.
+- Do **not** invent alternate poses, movements, prop interactions, transitions, dialogue, captions, SFX, device text, notebook text, character motivations, or environment changes.
+- Do **not** change panel sequence, panel count, subject position, object position, movement route, lighting/power state, or scene geography unless the current page prompt explicitly requires that change.
+- Treat wording such as `hears`, `looks`, `opens`, `walks`, `places`, `picks up`, `remains`, `does not move`, `voice-only`, and `physically absent` literally.
+- If a production instruction seems unusual, execute the written instruction rather than “correcting” it into a conventional pose or action.
+- The only creative freedom is the drawing/composition necessary to realize the locked script without changing its meaning.
+- After reading the page prompt and references, **generate the comic image directly**. Do not output a rewritten production prompt, revised script, explanation, alternate plan, or pre-generation summary in place of the image.
+
+This rule governs **every Page 001–018 generation**, including pages whose individual Markdown does not repeat this block verbatim.
+
 ## Current Production Rule Change
 
 Chapter 1 interior pages require **visible reader-facing panel-order markers**.
@@ -133,6 +148,8 @@ Reject any generation with a different panel count or a marker sequence that doe
 Before generating every page confirm:
 
 - current page prompt from `main`
+- page prompt will be executed literally without rewrite/reinterpretation
+- generation response will be the image, not a rewritten prompt or production summary
 - correct page/output filename
 - required canonical character PNG(s) attached
 - only approved prior page used for scene continuity when needed
@@ -161,6 +178,7 @@ Reject:
 - character identity drift
 - rigid one-style-fits-all narration presentation that ignores the local scene
 - unreadable narration caused by insufficient contrast
+- generic substitute actions that contradict the exact scripted verb or blocking
 
 Required style: flat 2D human-drawn modern manga/manhwa, clean ink, matte cel colors, solid blocks, restrained hard-edged shadows.
 
@@ -175,6 +193,7 @@ Reject:
 - unexplained character teleportation
 - unexplained object movement/cleanup
 - common-area emergency light incorrectly becoming apartment power
+- a character operating an object when the script says they only hear/see/react to it
 
 Critical object paths:
 
@@ -192,6 +211,14 @@ Critical object paths:
 - TV stays visibly unplugged after Page 4 through final hostile activation
 
 ## Critical Page Guards
+
+### Page 2 Doorbell
+- Panel 1: Nari is already **inside Unit 2407** among moving boxes.
+- Mrs. Na is the visitor **outside** and is the source of the doorbell ring.
+- Nari only hears/reacts to `DING-DONG`.
+- Nari must not knock, ring, press, tap, buzz, activate, point at, or touch the doorbell, intercom, smart lock, entry panel, wall button, or door control in Panel 1.
+- The front door stays closed until Nari opens it in Panel 2.
+- Mrs. Na does not appear inside Unit 2407 before Panel 3 threshold crossing.
 
 ### Pages 10–12
 - Hyun-woo is at the dining table, never the sink/counter.
@@ -246,23 +273,25 @@ Removed story beats must not return, including `OUR APARTMENT`, reader-facing `R
 
 Do not approve Page N until all applicable checks pass:
 
-1. Exact locked panel count.
-2. Exactly one small circled reading-order marker per panel, consecutively `1…N`.
-3. Marker placement is subtle and does not obscure story content.
-4. Character identity matches canonical PNGs.
-5. Wardrobe/physical state matches current/prior approved page.
-6. Environment geometry remains consistent.
-7. Object states/positions match continuity ledger.
-8. Movement is physically understandable; no teleportation.
-9. Power/lighting state matches story moment.
-10. Device actor signature is correct.
-11. Reader-facing story text is exact and complete.
-12. Narration/time-caption design, where present, fits the local scene, stays high-contrast/readable, and is not unnecessarily forced into one universal box style.
-13. SFX is attached to the correct physical source.
-14. No extra text/brands/logos/ads/random Korean promotional copy.
-15. No spoilers/future lore.
-16. Flat matte 2D style is preserved.
-17. Page is safe to use as the continuity reference for Page N+1.
+1. The generator executed the locked page prompt rather than rewriting/reinterpreting it.
+2. Exact locked panel count.
+3. Exactly one small circled reading-order marker per panel, consecutively `1…N`.
+4. Marker placement is subtle and does not obscure story content.
+5. Character identity matches canonical PNGs.
+6. Wardrobe/physical state matches current/prior approved page.
+7. Environment geometry remains consistent.
+8. Object states/positions match continuity ledger.
+9. Movement is physically understandable; no teleportation.
+10. Scripted verbs/actions are literal: characters do not operate/touch objects unless instructed.
+11. Power/lighting state matches story moment.
+12. Device actor signature is correct.
+13. Reader-facing story text is exact and complete.
+14. Narration/time-caption design, where present, fits the local scene, stays high-contrast/readable, and is not unnecessarily forced into one universal box style.
+15. SFX is attached to the correct physical source.
+16. No extra text/brands/logos/ads/random Korean promotional copy.
+17. No spoilers/future lore.
+18. Flat matte 2D style is preserved.
+19. Page is safe to use as the continuity reference for Page N+1.
 
 If any check fails: REJECT the image, do not use it downstream, correct/regenerate it, then run the gate again.
 
@@ -277,6 +306,7 @@ After Page 18 is approved, perform one final Page 1→18 image audit for:
 - Page 10–15 subject positions
 - clean-vs-hostile signatures
 - exact story text/SFX
+- literal execution of scripted actions without invented substitute interactions
 - narration/time-caption readability and scene-appropriate design wherever narration appears
 - exact panel counts
 - correct small circled `1…N` markers on every page
