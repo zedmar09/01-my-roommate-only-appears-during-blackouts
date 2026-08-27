@@ -8,7 +8,7 @@ Chapter 1 uses colored flat 2D human-drawn modern manga/manhwa artwork. Everythi
 
 This revised `chapter.md` is the current Chapter 1 story and dialogue authority.
 
-`page-001-chatgpt-image-prompt.md` and `page-002-chatgpt-image-prompt.md` are now synchronized to the current approved Page 1 and Page 2 reader-facing text. `page-003-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md` still require synchronization during the later page-by-page script, dialogue, SFX, and image-continuity pass. Until each remaining page is synchronized, this chapter remains the dialogue authority.
+`page-001-chatgpt-image-prompt.md`, `page-002-chatgpt-image-prompt.md`, and `page-003-chatgpt-image-prompt.md` are now synchronized to the current approved Page 1, Page 2, and Page 3 reader-facing text. `page-004-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md` still require synchronization during the later page-by-page script, dialogue, SFX, and image-continuity pass. Until each remaining page is synchronized, this chapter remains the dialogue authority.
 
 Cover files are outside this revision scope.
 
@@ -115,27 +115,33 @@ Nari carried the brass backup key to the entry shelf and placed it in a shallow 
 
 ---
 
-One week later, Nari had learned that Unit 2407 was not exactly haunted.
+One week later, the apartment's automation had become a daily irritation.
 
-It was aggressively automated.
+The curtains opened themselves every morning, even when Nari had worked until four. The thermostat kept resetting to nineteen degrees whenever she fell asleep on the sofa. The robot vacuum repeatedly caught charging cables under its wheels.
 
-The curtains opened at sunrise even when she had worked until four in the morning. The thermostat reset itself to nineteen degrees whenever she fell asleep on the sofa. The robot vacuum ignored dust but repeatedly caught charging cables under its wheels.
+"Hey! Drop that!" Nari shouted as it dragged another cable away.
 
-That night, Nari stood in the kitchen with a cup of noodles and looked at the counter speaker.
+Later that night, Nari stood in the kitchen with a cup of noodles and looked at the counter speaker.
 
-"Kitchen light on."
+"Turn on the kitchen light."
 
-The recorded assistant replied, "I found results for kitchen lighting."
+The speaker answered in its usual bright synthetic assistant voice.
 
-Nari closed her eyes for one tired second.
+"Sorry. I didn't catch that."
 
-"No. Turn on the light."
+Nari stared at it.
+
+"The light. Turn it on."
 
 The kitchen light flickered.
 
 The speaker's ordinary indicator blinked out for a fraction of a second.
 
-In that brief gap, a different voice came through the speaker. Low. Male. Calm.
+Then the same speaker produced a completely different voice.
+
+Not synthetic.
+
+A low, natural adult male voice.
 
 "You could say please."
 
