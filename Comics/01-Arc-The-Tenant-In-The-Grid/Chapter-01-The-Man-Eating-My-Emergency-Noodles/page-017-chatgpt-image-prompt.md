@@ -5,6 +5,15 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 17 as PNG. Save i
 ```text
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 17 of "My Roommate Only Appears During Blackouts".
 
+IMAGE-ONLY EXECUTION LOCK
+This production prompt is already FINAL. Do not rewrite, summarize, paraphrase, reinterpret, improve, reorganize, re-block, or redesign the production instructions before generating.
+Do not invent alternate actions, poses, staging, dialogue, captions, SFX, props, transitions, lighting, movement, or character motivations.
+Execute the script literally as written, then output the comic image only.
+If an instruction seems unusual, follow the written instruction instead of substituting a more generic comic action.
+The only creative freedom is the visual drawing/composition explicitly left open by this prompt without changing any locked story meaning.
+Do not output a rewritten prompt, analysis, explanation, plan, summary, or production notes instead of the image.
+Stop after this one page. Do not generate Page 18.
+
 IMPORTANT REFERENCES
 Use `../../../characters.md` and `../../style-guide.md`; directly continue the APPROVED Page 16 image with exact subject, cabinet, furniture, appliance, prop, and floor-object positions.
 
