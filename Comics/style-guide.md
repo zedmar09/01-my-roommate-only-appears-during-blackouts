@@ -82,13 +82,13 @@ Comics/<NN-Arc-Or-Season-Name-In-Camel-Case>/<Chapter-NN-Title-Of-The-Chapter-In
 - Save approved story-page PNG/WebP outputs using the chapter's established naming convention.
 - Keep story cover and compact KISAH front/back assets under `Covers/`.
 - Use `prompt-template.md` as the reusable production template.
-- Every page prompt should include environment/appliance, lighting/exposure, power, character, prop, object-scale, scene/time, spoiler, pacing, panel-order-marker, text, story-clarity, and avoid guards.
+- Every page prompt should include environment/appliance, lighting/exposure, power, character, prop, object-scale, scene/time, narration-design, spoiler, pacing, panel-order-marker, text, story-clarity, and avoid guards.
 - `PANEL 1`, `PANEL 2`, etc. remain prompt-production labels and are never printed literally. The finished interior artwork instead uses one small circled reading-order number per story panel, matching the page's locked panel sequence.
 - Early Arc 1 prompts must not explain Hyun-woo's full origin, complete Black Surge mechanics, body-restoration rules, memory-transfer cost, human culprit, or climax logic before the story earns them.
 
 ## Panel Order Marker Rule
 
-- Chapter 1 interior pages require exactly ONE small circled reading-order number inside every story panel.
+- All interior story pages across all chapters and arcs require exactly ONE small circled reading-order number inside every story panel unless an individual production prompt explicitly defines a different reader-navigation system.
 - Number panels consecutively from `1` through the page's locked panel count, in the same top-to-bottom/left-to-right reading order defined by the page prompt.
 - Place each number near the upper-left inside its panel or at a quiet gutter-edge position.
 - Keep the marker readable but subtle; it must not compete with dialogue or story art.
@@ -115,19 +115,29 @@ Comics/<NN-Arc-Or-Season-Name-In-Camel-Case>/<Chapter-NN-Title-Of-The-Chapter-In
 ## Time, Entrance, And Flashback Rules
 
 - Do not begin a new interaction after a location or character change without a visual bridge. Show arrival, door opening, entrance, walking route, elevator/lobby transition, or an establishing panel before dialogue begins.
-- For Chapter 1 and the default series workflow, a meaningful time jump uses a **large, high-contrast uppercase narration caption inside the first establishing story panel of the new time period**.
+- By default across all chapters, a meaningful time jump uses a **large, high-contrast uppercase narration caption inside the first establishing story panel of the new time period** unless the individual page explicitly requests another treatment.
 - The time caption must be noticeable and readable. Do not shrink it into a tiny label.
 - Do **not** create a separate blank time-card gutter or extra transition strip unless an individual page explicitly requests one.
-- For a mid-page time jump, put the large time caption inside the first panel after the jump while preserving clear panel chronology.
+- For a mid-page time jump, put the time caption inside the first panel after the jump while preserving clear panel chronology.
 - If a page directly continues the preceding page, do not invent a time caption or transition strip unless scripted.
 - Literal production labels such as `PANEL 1` never appear in artwork; the small circled reading-order markers required above do appear.
-- Chapter 1 is chronological and contains no flashback. Do not invent flashback panels, dream borders, memory images, or past-event inserts.
+- Chapter 1 is chronological and contains no flashback. Future flashbacks must be explicitly scripted; never invent them.
 - If a future script explicitly requests a flashback, it must use a written time caption and clearly specified visual treatment; never rely on color alone.
+
+## Narration Caption Design Rule
+
+- Narration and time-caption wording is exact and locked by the page script, but the visual presentation is dynamic and scene-adaptive.
+- Blend narration into the local composition while keeping it clearly readable and visually distinct from dialogue, SFX, device text, notebook text, and panel-order markers.
+- Appropriate treatments may include a clean light box, dark box, bordered shape, restrained banner, or another simple high-contrast flat-2D treatment that suits the panel.
+- Do not force one fixed white background, color, shape, border, size, or placement across a page, chapter, arc, or the whole series.
+- Do not render narration as unreadable bare text over a busy background; preserve sufficient contrast and breathing room.
+- Narration treatment may change from panel to panel when the scene benefits from it, but the exact scripted wording must never change.
+- Time captions still obey their prominence requirement: when a page says a time caption is large or noticeable, its dynamic design must preserve that hierarchy.
 
 ## Lettering Rule
 
 - Keep dialogue, captions, SFX, notebook text, and device text short, uppercase, readable, and exactly as scripted.
-- Speech bubbles should be clean. Narration captions should sit in deliberate caption boxes. Device text belongs inside the real device display. Notebook text should look handwritten. SFX should follow the physical sound source.
+- Speech bubbles should be clean. Narration uses the dynamic scene-adaptive treatment defined above. Device text belongs inside the real device display. Notebook text should look handwritten. SFX should follow the physical sound source.
 - Do not let text cover faces, hands, recurring props, or clues.
 - For a screenless smart speaker, audible dialogue uses a normal speech bubble with its tail pointing to the speaker. Never print a sentence on the speaker body or squeeze it into the indicator light.
 - Hyun-woo's device messages use clean, stable cool cyan-white lettering with minimal static and no crawling black pixels.
