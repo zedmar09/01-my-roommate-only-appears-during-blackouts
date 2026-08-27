@@ -56,6 +56,14 @@ TIME AND SCENE CONTINUITY
 TIME TRANSITION CAPTION
 [For a meaningful time jump, place a LARGE, HIGH-CONTRAST uppercase narration caption inside the first establishing story panel of the new time period. Make it noticeable, not tiny. Do NOT create a separate blank time-card gutter or transition strip unless this exact page explicitly requests one. For direct continuity write: `NO TIME CAPTION - direct continuation. Do not invent a transition strip.`]
 
+NARRATION CAPTION DESIGN
+Narration and time-caption wording is exact and locked, but the VISUAL DESIGN is scene-adaptive.
+Blend each narration caption naturally into its actual panel while keeping it clearly readable and visually distinct from dialogue, SFX, device text, notebook text, and the small circled panel-order marker.
+Choose an appropriate flat 2D treatment for the local scene: a clean light box, dark box, bordered shape, restrained banner, or another simple high-contrast caption treatment that supports the composition.
+Do NOT force every narration caption across a page, chapter, arc, or series to use the same white background, color, shape, border, size, or placement.
+Do NOT place narration as unreadable bare text over a busy background; preserve sufficient contrast and breathing room.
+The narration design may change from panel to panel when the scene benefits from it, but the exact scripted wording must never change.
+
 SPOILER BOUNDARY
 Do not add future-arc explanation, culprit answers, endgame logic, Hyun-woo origin, Black Surge origin, restoration rules, memory cost, or climax content unless the exact page has earned it.
 
@@ -92,7 +100,7 @@ STORY CLARITY
 The reader must understand: [one sentence describing the exact required story beat.]
 
 AVOID
-Avoid black-and-white-only output, grayscale interiors, glossy webtoon shine, shiny apartment surfaces, mirror-like reflections, glass glare, wet floors, excessive glow, cinematic lighting, painterly concept art, photorealism, 3D rendering, strong gradients, teenage proportions, historical masks/robes, chibi overreaction, heavy gore, unreadable text, unscripted text, extra brands/logos, character identity drift, environment resets, object teleportation, reader-facing page numbers, missing/duplicated/skipped/out-of-order/oversized panel markers, literal `PANEL 1` production labels, and future spoilers.
+Avoid black-and-white-only output, grayscale interiors, glossy webtoon shine, shiny apartment surfaces, mirror-like reflections, glass glare, wet floors, excessive glow, cinematic lighting, painterly concept art, photorealism, 3D rendering, strong gradients, teenage proportions, historical masks/robes, chibi overreaction, heavy gore, unreadable text, unscripted text, extra brands/logos, character identity drift, environment resets, object teleportation, reader-facing page numbers, missing/duplicated/skipped/out-of-order/oversized panel markers, literal `PANEL 1` production labels, rigid one-style narration treatment across unrelated scenes, and future spoilers.
 ```
 ````
 
@@ -159,14 +167,15 @@ Every interior page prompt should include, in this order:
 9. `CONTINUITY`
 10. `TIME AND SCENE CONTINUITY`
 11. `TIME TRANSITION CAPTION`
-12. `SPOILER BOUNDARY`
-13. `PAGE FORMAT AND PACING`
-14. `PANEL ORDER MARKERS`
-15. `PAGE LAYOUT AND SCRIPT`
-16. `SFX AND TEXT BLENDING`
-17. `TEXT AND LETTERING RULES`
-18. `STORY CLARITY`
-19. `AVOID`
+12. `NARRATION CAPTION DESIGN`
+13. `SPOILER BOUNDARY`
+14. `PAGE FORMAT AND PACING`
+15. `PANEL ORDER MARKERS`
+16. `PAGE LAYOUT AND SCRIPT`
+17. `SFX AND TEXT BLENDING`
+18. `TEXT AND LETTERING RULES`
+19. `STORY CLARITY`
+20. `AVOID`
 
 ## Prompt Audit Checklist
 
@@ -180,6 +189,8 @@ Before pasting an interior prompt into ChatGPT, verify:
 - Previous approved page is used only for scene/object/environment continuity and never overrides canonical identity.
 - Recurring props have exact positions/states and any movement is physically shown or clearly implied.
 - Dialogue, captions, SFX, notebook text, and device text are copied exactly and remain short/readable.
+- Narration/time-caption wording is exact, but its visual treatment is scene-adaptive rather than forced into one fixed white box/background/shape across every panel or chapter.
+- Narration remains high-contrast and readable against the local artwork.
 - Hyun-woo/helpful device signature and hostile broken-white/black-pixel signature are visibly distinct.
 - Every meaningful time jump uses a LARGE in-panel narration caption; no separate blank time-card gutter is invented unless explicitly requested.
 - Direct-continuation pages do not invent a time caption or transition strip.
