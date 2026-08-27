@@ -62,8 +62,13 @@ Do not add future-arc explanation, culprit answers, endgame logic, Hyun-woo orig
 PAGE FORMAT AND PACING
 Create one vertical manhwa page with exactly [PANEL_COUNT] panels when the script/checklist locks a count. Vary panel sizes only within that count to improve readability and pacing.
 
-PRODUCTION PANEL LABELS
-`PANEL 1`, `PANEL 2`, etc. below are prompt-production labels only. NEVER render panel numbers, circled numbers, page numbers, production labels, layout labels, or counting marks in the finished artwork.
+PANEL ORDER MARKERS
+`PANEL 1`, `PANEL 2`, etc. below are prompt-production labels only and must never be printed literally.
+Render exactly ONE small circled reading-order number inside every story panel, consecutively from `1` through `[PANEL_COUNT]`, matching the panel sequence below.
+Place each marker near the upper-left inside its panel or at a quiet gutter-edge position. Keep it readable but subtle.
+Never place a marker over dialogue, narration, SFX, device text, notebook text, faces, hands, recurring props, or clues.
+Reject missing, duplicated, skipped, out-of-order, oversized, or ambiguous panel numbers.
+Do not render page numbers or other production/layout labels.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - [Clear visual description with character acting, camera distance, lighting, position, and key props.]
@@ -81,13 +86,13 @@ SFX AND TEXT BLENDING
 Use SFX only where useful. Source-align every SFX to the correct physical event. Keep quiet object sounds small, electrical danger thin/jagged, and horror restrained. Do not place SFX over faces, speech bubbles, hands, recurring props, or key clues.
 
 TEXT AND LETTERING RULES
-Use only the specified speech, caption, SFX, notebook, screen, and device text. Keep generated text short, uppercase, readable, and exact—do not paraphrase or add filler. Speech belongs in bubbles, device text inside actual screens, notebook text on paper, and audible screenless-speaker dialogue in a speech bubble whose tail points to the hardware. Never print sentences on the speaker body or indicator. Hyun-woo/helpful device communication uses clean stable cool cyan-white treatment with minimal static and no crawling black pixels. Hostile communication uses stark broken/doubled white glyphs with crawling black pixels. Do not invent brands, logos, advertising, promotional Korean copy, fake slogans, prices, author names, credits, signatures, or watermarks.
+Use only the specified speech, caption, SFX, notebook, screen, and device text, plus the required small circled panel-order markers. Keep generated text short, uppercase, readable, and exact—do not paraphrase or add filler. Speech belongs in bubbles, device text inside actual screens, notebook text on paper, and audible screenless-speaker dialogue in a speech bubble whose tail points to the hardware. Never print sentences on the speaker body or indicator. Hyun-woo/helpful device communication uses clean stable cool cyan-white treatment with minimal static and no crawling black pixels. Hostile communication uses stark broken/doubled white glyphs with crawling black pixels. Do not invent brands, logos, advertising, promotional Korean copy, fake slogans, prices, author names, credits, signatures, or watermarks.
 
 STORY CLARITY
 The reader must understand: [one sentence describing the exact required story beat.]
 
 AVOID
-Avoid black-and-white-only output, grayscale interiors, glossy webtoon shine, shiny apartment surfaces, mirror-like reflections, glass glare, wet floors, excessive glow, cinematic lighting, painterly concept art, photorealism, 3D rendering, strong gradients, teenage proportions, historical masks/robes, chibi overreaction, heavy gore, unreadable text, unscripted text, extra brands/logos, character identity drift, environment resets, object teleportation, reader-facing page numbers, reader-facing panel numbers, circled production numbers, and future spoilers.
+Avoid black-and-white-only output, grayscale interiors, glossy webtoon shine, shiny apartment surfaces, mirror-like reflections, glass glare, wet floors, excessive glow, cinematic lighting, painterly concept art, photorealism, 3D rendering, strong gradients, teenage proportions, historical masks/robes, chibi overreaction, heavy gore, unreadable text, unscripted text, extra brands/logos, character identity drift, environment resets, object teleportation, reader-facing page numbers, missing/duplicated/skipped/out-of-order/oversized panel markers, literal `PANEL 1` production labels, and future spoilers.
 ```
 ````
 
@@ -124,7 +129,7 @@ SPOILER BOUNDARY
 Do not add plot explanations, future-arc answers, threat forms, climax imagery, or synopsis text.
 
 SUPPORT PAGE COMPOSITION
-[Describe exact 1024 x 768 landscape composition with one locked appliance and large `SUPPORT KISAH` typography. Do not use panel borders, production numbers, browser chrome, app UI, QR codes, URLs, or fake interface controls.]
+[Describe exact 1024 x 768 landscape composition with one locked appliance and large `SUPPORT KISAH` typography. Do not use panel borders, panel-order markers, production numbers, browser chrome, app UI, QR codes, URLs, or fake interface controls.]
 
 SUPPORT PAGE TEXT
 SUPPORT KISAH
@@ -135,7 +140,7 @@ MOOD
 [clean, modern, inviting, appliance-focused, confident, reader-focused]
 
 AVOID
-Avoid any canvas other than exact 1024 x 768, portrait/square output, people/characters, silhouettes/reflections, multiple hero appliances, appliance redesign, story-title cover layout, chapter-title text, plot synopsis, hearts/flowers/candles/wedding imagery, hostile glitch styling, glossy/cinematic/photoreal/3D/painterly rendering, browser/app UI, QR codes, URLs, fake logos, extra text, unreadable lettering, signatures/watermarks, page numbers, and panel numbers.
+Avoid any canvas other than exact 1024 x 768, portrait/square output, people/characters, silhouettes/reflections, multiple hero appliances, appliance redesign, story-title cover layout, chapter-title text, plot synopsis, hearts/flowers/candles/wedding imagery, hostile glitch styling, glossy/cinematic/photoreal/3D/painterly rendering, browser/app UI, QR codes, URLs, fake logos, extra text, unreadable lettering, signatures/watermarks, page numbers, and panel-order markers.
 ```
 ````
 
@@ -156,7 +161,7 @@ Every interior page prompt should include, in this order:
 11. `TIME TRANSITION CAPTION`
 12. `SPOILER BOUNDARY`
 13. `PAGE FORMAT AND PACING`
-14. `PRODUCTION PANEL LABELS`
+14. `PANEL ORDER MARKERS`
 15. `PAGE LAYOUT AND SCRIPT`
 16. `SFX AND TEXT BLENDING`
 17. `TEXT AND LETTERING RULES`
@@ -178,7 +183,9 @@ Before pasting an interior prompt into ChatGPT, verify:
 - Hyun-woo/helpful device signature and hostile broken-white/black-pixel signature are visibly distinct.
 - Every meaningful time jump uses a LARGE in-panel narration caption; no separate blank time-card gutter is invented unless explicitly requested.
 - Direct-continuation pages do not invent a time caption or transition strip.
-- `PANEL 1`, `PANEL 2`, etc. remain production labels only; NO reader-facing panel/circled/page numbers are rendered.
+- Literal `PANEL 1`, `PANEL 2`, etc. remain prompt labels only.
+- Every interior story panel has exactly one small circled reading-order marker in consecutive order from `1` through the locked panel count.
+- Reject missing, duplicated, skipped, out-of-order, oversized, ambiguous, or obstructive panel markers.
 - Every entrance/location change has a visual bridge.
 - No object, character, or environment teleports/resets without scripted movement.
 - No unscripted brand/logo/advertising/promotional Korean/filler text is added.
