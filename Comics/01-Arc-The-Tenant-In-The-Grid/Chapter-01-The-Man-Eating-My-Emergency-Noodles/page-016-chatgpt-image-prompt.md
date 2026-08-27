@@ -75,7 +75,7 @@ SPOILER BOUNDARY
 Do not explain the camera corruption, hostile system, Hyun-woo's disappearance mechanism, Mrs. Na's knowledge, or future lore.
 
 PAGE FORMAT AND PACING
-One vertical page with 8 panels. Do NOT render reader-facing production panel numbers.
+One vertical page with exactly 8 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `8`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, interface text, SFX, Nari's face/hands, locks, phone, camera evidence, or cabinet clues.
 The pacing should feel like one continuous evidence chain: disappearance -> locked door -> entry history -> missing footage -> security confirmation -> Mrs. Na voicemail -> hidden cabinet responds.
 
 PAGE LAYOUT AND SCRIPT
@@ -120,16 +120,16 @@ Keep `TUG` at the physical door/latch, `BEEP` at the phone, and both `MFF-CHIME`
 Do not place the cabinet chime near the refrigerator, TV, phone, or another appliance.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `8`.
 Keep smart-lock/camera text flat, minimal, and readable. Avoid dense fake-app UI, brands, logos, promotional text, or random Korean text.
 Security and voicemail audio use normal speech bubbles/device-audio treatment.
-Do not render production labels or panel numbers.
+Do not render production labels.
 
 STORY CLARITY
 The reader must understand that Nari methodically tests a normal-intruder explanation and rules it out: the door/latch never opened, the lock shows no other entry, the camera loses exactly the crucial blackout interval, and security confirms elevators were down with no reports on her floor. Mrs. Na does not answer. Only then does the hidden unplugged speaker signal from the cabinet.
 
 AVOID
-Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/silhouetted Hyun-woo, a visible intruder in camera footage, teleporting Nari between rooms, opening the cabinet early, showing the speaker early, moving/cleaning the dropped knife, chair, pot, trivet, cloth, candle, pantry, refrigerator, sink, cooktop, binder, brass key, or table, relighting the candle, activating the TV, hostile screen text, glossy screens, cinematic lighting, extra jokes, extra dialogue, reader-facing panel numbers, and spoilers.
+Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/silhouetted Hyun-woo, a visible intruder in camera footage, teleporting Nari between rooms, opening the cabinet early, showing the speaker early, moving/cleaning the dropped knife, chair, pot, trivet, cloth, candle, pantry, refrigerator, sink, cooktop, binder, brass key, or table, relighting the candle, activating the TV, hostile screen text, glossy screens, cinematic lighting, extra jokes, extra dialogue, missing/duplicated/out-of-order/oversized panel numbers, and spoilers.
 ```
 
 ## Locked Reader-Facing Text
@@ -155,6 +155,10 @@ Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/s
 | 7 | No dialogue - Nari freezes and turns toward cabinet | — |
 | 8 SFX | Second muffled chime from same closed cabinet | `MFF-CHIME` |
 | 8 Nari | Spoken quietly toward cabinet | `...NO.` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `8`.
 
 ## Production Thread Use
 
