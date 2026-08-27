@@ -46,6 +46,17 @@ Show each placement by hand. Speaker fits inside household stockpot; knife guard
 CONTINUITY
 This is Nari's practical response to the impossible Page 4 warning and hostile refrigerator activation. She attempts a low-tech way to communicate with whoever has been using the clean device messages.
 
+REPEATED HANDWRITING LAYOUT LOCK - CRITICAL
+The handwritten question in Panel 3 and the original question shown again in Panel 7 are the SAME PHYSICAL WRITING on the SAME PIECE OF PAPER. Do not re-typeset, re-wrap, resize, restyle, or redraw that original question differently when it reappears.
+In BOTH Panel 3 and Panel 7, render Nari's original handwritten question with this exact two-line visual layout:
+`WHO ARE`
+`YOU?`
+The line break after `WHO ARE` is mandatory visual continuity. `YOU?` must stay on the second line in both appearances.
+Keep the same handwriting style, approximate letter size, spacing, alignment, and placement on the paper between Panels 3 and 7. Panel 7 is a closer view of the same note, not a newly written/reformatted copy.
+The logical reader-facing wording remains exactly `WHO ARE YOU?`; the required two-line break is only its locked visual layout on the physical paper.
+The new reply in Panel 7 must be added beneath the existing two-line question without causing the original question to reflow into one line.
+If Panel 3 and Panel 7 show different wrapping, different line breaks, or visibly different original handwriting, the page is NOT approved.
+
 TIME AND SCENE CONTINUITY
 Panels 1-4 continue the same night after Page 4. Panel 5 advances to 1:17 A.M. using a LARGE in-panel narration caption. Panel 6 advances to the next morning using another LARGE in-panel narration caption. Do not use separate tiny time-card gutters. No flashback.
 
@@ -75,7 +86,9 @@ SFX: CLINK
 PANEL 2 - At the lower kitchen cabinet, she places the unplugged speaker into the existing stockpot, covers it with two dish towels, sets the lid, and closes the cabinet.
 SFX: CLUNK
 
-PANEL 3 - Nari writes a short question on ordinary paper and deliberately leaves the paper beside the toaster with an ordinary pen immediately beside it.
+PANEL 3 - Nari writes a short question on ordinary paper and deliberately leaves the paper beside the toaster with an ordinary pen immediately beside it. The handwriting must use the locked two-line layout and must remain visually identical when shown again in Panel 7:
+WHO ARE
+YOU?
 NOTE, handwritten by Nari: WHO ARE YOU?
 
 PANEL 4 - Nari secures the fruit knife's fitted guard, then slides the guarded knife beneath a sofa cushion.
@@ -88,7 +101,10 @@ SFX near moving pen: SCRATCH... SCRATCH...
 PANEL 6 - Morning. Place the LARGE clearly readable narration caption `THE NEXT MORNING` prominently inside the panel. Nari approaches the note, sees the new handwriting beneath her question, and stops short.
 NARI, spoken quietly to herself: WHAT THE...
 
-PANEL 7 - Close-up of the same physical paper. Nari's original handwriting remains visible at the top. A clearly different handwritten line now appears beneath it. The pen lies beside the paper where it stopped.
+PANEL 7 - Close-up of the SAME physical paper from Panel 3. Nari's original question remains at the top with the SAME handwriting and SAME mandatory two-line layout:
+WHO ARE
+YOU?
+Do NOT collapse it into one line and do NOT change its spacing/wrapping. A clearly different handwritten reply now appears beneath it. The pen lies beside the paper where it stopped.
 ORIGINAL NOTE: WHO ARE YOU?
 NEW HANDWRITTEN REPLY: NOT THE ONE YOU SHOULD BE AFRAID OF.
 
@@ -97,12 +113,13 @@ Keep object sounds small and source-aligned. `SCRATCH... SCRATCH...` must clearl
 
 TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `7`. The reply is ordinary physical handwriting on paper, visually distinct from Nari's handwriting. Do not render it as glowing text, a speech bubble, digital typography, or hostile broken glyphs. Do not print production labels such as `NOTE`, `ORIGINAL NOTE`, `NEW HANDWRITTEN REPLY`, `NARI`, or `SFX` in the artwork.
+For the repeated original note `WHO ARE YOU?`, textual wording and the physical two-line layout are both locked: render `WHO ARE` on line 1 and `YOU?` on line 2 in Panels 3 and 7.
 
 STORY CLARITY
-The reader must understand: Nari hides the unplugged speaker and prepares defensively; she leaves a handwritten question and pen as a low-tech test; at exactly 1:17 A.M. a brief electrical flicker coincides with the pen moving by itself; the next morning she finds a physical handwritten reply that refuses to identify the helpful presence but warns that something else is the real danger.
+The reader must understand: Nari hides the unplugged speaker and prepares defensively; she leaves a handwritten question and pen as a low-tech test; at exactly 1:17 A.M. a brief electrical flicker coincides with the pen moving by itself; the next morning she finds the SAME physical note with the SAME original two-line question plus a new handwritten reply that refuses to identify the helpful presence but warns that something else is the real danger.
 
 AVOID
-Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, rigid one-style-fits-all narration treatment, unguarded knife, moving speaker without showing hands, missing towels/lid, toaster crumbs forming words, crumbs moving across paper, floating ink, invisible hand, physical Hyun-woo, hostile signature, flashback styling, glossy/cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, and extra text.
+Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, rigid one-style-fits-all narration treatment, unguarded knife, moving speaker without showing hands, missing towels/lid, toaster crumbs forming words, crumbs moving across paper, floating ink, invisible hand, physical Hyun-woo, hostile signature, flashback styling, glossy/cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, extra text, Panel 7 changing `WHO ARE / YOU?` into one line, different wrapping between Panels 3 and 7, or redrawing the original question with visibly different handwriting.
 ```
 
 ## Locked Reader-Facing Text
@@ -111,14 +128,14 @@ Avoid Nari identity drift, long black hair, generic replacement face, tiny/unrea
 | --- | --- | --- |
 | 1 SFX | Nari returning brass key to tray | `CLINK` |
 | 2 SFX | Speaker placed inside stockpot / cabinet | `CLUNK` |
-| 3 Note | Handwritten message / meant for the unknown presence | `WHO ARE YOU?` |
+| 3 Note | Handwritten message / same physical note as Panel 7; visual layout locked as `WHO ARE` / `YOU?` | `WHO ARE YOU?` |
 | 4 SFX | Knife guard securing into place | `SNICK` |
 | 5 Time | Large narration caption / reader only | `1:17 A.M.` |
 | 5 SFX | Hallway lamp flickering | `FZZT` |
 | 5 SFX | Pen moving across paper | `SCRATCH... SCRATCH...` |
 | 6 Time | Large narration caption / reader only | `THE NEXT MORNING` |
 | 6 Nari | Spoken quietly to herself | `WHAT THE...` |
-| 7 Note | Nari's original handwritten question | `WHO ARE YOU?` |
+| 7 Note | Same original physical handwriting from Panel 3; preserve exact two-line layout `WHO ARE` / `YOU?` | `WHO ARE YOU?` |
 | 7 Reply | New physical handwritten reply / reader and Nari can read it | `NOT THE ONE YOU SHOULD BE AFRAID OF.` |
 
 ## Required Panel Order Markers
