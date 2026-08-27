@@ -50,7 +50,7 @@ SPOILER BOUNDARY
 Do not show who moved the pen, Hyun-woo's body, hostile entity form, or future lore. The helpful presence still does not give Nari its name.
 
 PAGE FORMAT AND PACING
-One vertical page with 7 panels. Do not add reader-facing production panel numbers.
+One vertical page with exactly 7 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `7`, matching the reading order below. Place each number near the upper-left inside its own panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, captions, SFX, Nari's face/hands, note/pen, knife, speaker/storage stockpot, or other clues.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Nari visibly returns the brass key to the shallow entry tray.
@@ -80,13 +80,13 @@ SFX AND TEXT BLENDING
 Keep object sounds small and source-aligned. `SCRATCH... SCRATCH...` must clearly come from the pen touching the paper. Time captions are intentionally prominent and must not be treated as decorative microtext.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below. The reply is ordinary physical handwriting on paper, visually distinct from Nari's handwriting. Do not render it as glowing text, a speech bubble, digital typography, or hostile broken glyphs. Do not print production labels such as `NOTE`, `ORIGINAL NOTE`, `NEW HANDWRITTEN REPLY`, `NARI`, or `SFX` in the artwork.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `7`. The reply is ordinary physical handwriting on paper, visually distinct from Nari's handwriting. Do not render it as glowing text, a speech bubble, digital typography, or hostile broken glyphs. Do not print production labels such as `NOTE`, `ORIGINAL NOTE`, `NEW HANDWRITTEN REPLY`, `NARI`, or `SFX` in the artwork.
 
 STORY CLARITY
 The reader must understand: Nari hides the unplugged speaker and prepares defensively; she leaves a handwritten question and pen as a low-tech test; at exactly 1:17 A.M. a brief electrical flicker coincides with the pen moving by itself; the next morning she finds a physical handwritten reply that refuses to identify the helpful presence but warns that something else is the real danger.
 
 AVOID
-Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, unguarded knife, moving speaker without showing hands, missing towels/lid, toaster crumbs forming words, crumbs moving across paper, floating ink, invisible hand, physical Hyun-woo, hostile signature, flashback styling, glossy/cinematic effects, reader-facing panel numbers, and extra text.
+Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, unguarded knife, moving speaker without showing hands, missing towels/lid, toaster crumbs forming words, crumbs moving across paper, floating ink, invisible hand, physical Hyun-woo, hostile signature, flashback styling, glossy/cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, and extra text.
 ```
 
 ## Locked Reader-Facing Text
@@ -104,6 +104,10 @@ Avoid Nari identity drift, long black hair, generic replacement face, tiny/unrea
 | 6 Nari | Spoken quietly to herself | `WHAT THE...` |
 | 7 Note | Nari's original handwritten question | `WHO ARE YOU?` |
 | 7 Reply | New physical handwritten reply / reader and Nari can read it | `NOT THE ONE YOU SHOULD BE AFRAID OF.` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `7`.
 
 ## Production Thread Use
 
