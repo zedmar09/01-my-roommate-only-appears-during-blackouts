@@ -2,7 +2,7 @@
 
 Status: **PASS — FINAL PRE-GENERATION GUARD COMPLETE**
 
-This is the current go/no-go audit of the Chapter 1 production package on `main` after the completed Page 1–18 dialogue/continuity rewrite, shared guard cleanup, visible panel-order-marker requirement, and scene-adaptive narration-design rule.
+This is the current go/no-go audit of the Chapter 1 production package on `main` after the completed Page 1–18 dialogue/continuity rewrite, shared guard cleanup, visible panel-order-marker requirement, scene-adaptive narration-design rule, and the chapter-wide image-only execution lock.
 
 ## Audited Production Package
 
@@ -16,6 +16,37 @@ This is the current go/no-go audit of the Chapter 1 production package on `main`
 - approved canonical character references
 
 Chapter 1 contains exactly **18 story pages**. There is no Page 019 production prompt.
+
+## Image-Only Execution Rule
+
+The current Page 001–018 Markdown files are already the final production instructions.
+
+For every page generation:
+
+- do not rewrite, summarize, paraphrase, reinterpret, improve, reorganize, or re-block the page prompt before generation
+- do not invent alternate actions, poses, prop interactions, transitions, dialogue, captions, SFX, device text, notebook text, or motivations
+- execute specific scripted verbs and blocking literally
+- do not substitute a generic comic action for a precise scripted action
+- do not move characters/objects unless the current page explicitly scripts movement
+- if an instruction seems unusual, follow the written instruction rather than “correcting” it
+- creative freedom is limited to drawing/composition that realizes the locked instructions without changing meaning
+- after reading the prompt/references, generate the page image directly; do not replace the image with a rewritten prompt, production explanation, alternate plan, or pre-generation script
+
+This rule applies to **all Pages 001–018**, even if the individual page Markdown does not repeat the block verbatim.
+
+## Page 2 Doorbell Blocking Lock
+
+Page 2 Panel 1 is explicitly locked as follows:
+
+- Nari is already **inside Unit 2407** among moving boxes.
+- Mrs. Na is the visitor **outside in the corridor** and is the source of the `DING-DONG`.
+- Nari only hears/reacts to the doorbell sound.
+- Nari must not knock, ring, press, tap, buzz, activate, point at, or touch any doorbell, intercom, smart lock, entry panel, buzzer, wall button, or door control in Panel 1.
+- The front door remains closed during Panel 1.
+- Nari opens the door from inside in Panel 2.
+- Mrs. Na does not cross into Unit 2407 until Panel 3.
+
+Any Page 2 image showing Nari operating the doorbell/buzzer in Panel 1 is an automatic **REJECT**.
 
 ## Panel Order Marker Rule
 
@@ -64,13 +95,15 @@ Narration/time-caption **wording is locked**, but its graphic presentation is in
 - Large time captions remain large/noticeable even though their styling is adaptive.
 - Pages without narration do not gain invented captions.
 
-For Chapter 1, the narration-bearing page prompts are explicitly aligned to this rule. Narration-free pages remain unchanged while inheriting the same global guard through `Comics/style-guide.md` and `Comics/prompt-template.md`.
+For Chapter 1, the narration-bearing page prompts are explicitly aligned to this rule. Narration-free pages remain unchanged while inheriting the same global guard through `Comics/style-guide.md`, `Comics/prompt-template.md`, and the Chapter 1 generation checklist.
 
 ## Final Verification Matrix
 
 | Area | Result | Verified state |
 |---|---|---|
 | Page sequence | PASS | Exactly Pages 001–018; no Page 019. |
+| Image-only execution | PASS | Pages 001–018 are executed from the locked prompt without pre-generation rewrite/reinterpretation. |
+| Page 2 doorbell | PASS | Nari inside; outside visitor rings; Nari never operates doorbell/intercom/control in Panel 1. |
 | Master/story sync | PASS | `chapter.md` remains synchronized to the locked Page 1–18 story/dialogue. |
 | Dialogue | PASS | Production-presentation changes do not alter approved dialogue, narration wording, device text, notebook text, or SFX. |
 | Panel counts | PASS | Locked counts remain `6, 9, 7, 7, 7, 9, 6, 6, 5, 6, 4, 6, 5, 8, 8, 8, 8, 6`. |
@@ -108,9 +141,12 @@ Do not reintroduce:
 - separate tiny/full-width time-card gutters for Chapter 1
 - the obsolete instruction to remove all panel numbers
 - any obsolete instruction forcing all narration into identical solid-white caption boxes
+- pre-generation rewriting/rephrasing of a locked page prompt
+- generic substitute actions that contradict a scripted action/source
 
 The current requirements are:
 
+- **execute every locked page prompt literally and generate the image directly**
 - **small circled order markers are mandatory on every interior story panel**
 - **narration design is dynamic and scene-adaptive while exact wording stays locked**
 
@@ -118,23 +154,24 @@ The current requirements are:
 
 Chapter 1 is cleared for generation only with strict sequential approval:
 
-1. Generate Page 1 first.
-2. Audit it before approval.
+1. Read the current page prompt and references; do not rewrite/reinterpret the production instructions.
+2. Generate the page image directly from the locked prompt.
 3. Verify exact panel count and exact consecutive circled panel markers.
 4. Verify marker placement does not cover story content.
 5. Verify canonical character identity.
 6. Verify environment geometry and object states.
-7. Verify exact dialogue/narration/device/notebook text and SFX.
-8. Where narration/time captions are present, verify scene-appropriate dynamic treatment, high contrast, readability, and required time-caption prominence.
-9. Reject narration that is unreadable or mechanically forced into one universal caption style regardless of scene.
-10. Verify correct lighting/power state and clean-vs-hostile device signature.
-11. Reject any page with missing, duplicate, skipped, out-of-order, oversized, or obstructive panel markers.
-12. Only an **approved** Page N may become the continuity reference for Page N+1.
-13. Never use rejected/provisional/drifted artwork downstream.
-14. After Page 18, perform one final Page 1→18 visual continuity audit.
+7. Verify exact scripted verbs/actions/sources were followed literally; reject invented substitute interactions.
+8. Verify exact dialogue/narration/device/notebook text and SFX.
+9. Where narration/time captions are present, verify scene-appropriate dynamic treatment, high contrast, readability, and required time-caption prominence.
+10. Reject narration that is unreadable or mechanically forced into one universal caption style regardless of scene.
+11. Verify correct lighting/power state and clean-vs-hostile device signature.
+12. Reject any page with missing, duplicate, skipped, out-of-order, oversized, or obstructive panel markers.
+13. Only an **approved** Page N may become the continuity reference for Page N+1.
+14. Never use rejected/provisional/drifted artwork downstream.
+15. After Page 18, perform one final Page 1→18 visual continuity audit.
 
 ## Final Result
 
-**PASS — Chapter 1's 18-page production package and shared guardrails are aligned with both the visible panel-order-marker requirement and the scene-adaptive narration-design rule, and are cleared for strict sequential image generation.**
+**PASS — Chapter 1's 18-page production package and shared guardrails are aligned with the image-only execution rule, Page 2 doorbell blocking, visible panel-order-marker requirement, and scene-adaptive narration-design rule, and are cleared for strict sequential image generation.**
 
 This PASS applies to instructions currently on `main`. It does not pre-approve generated artwork; every rendered page still requires post-generation review.
