@@ -289,6 +289,12 @@ Critical object paths:
 
 ### Pages 16–18
 - Hyun-woo is never physically drawn.
+- **Page 16 power/lighting is restored before the page begins. Panels 1–8 must use the normal medium-bright neutral powered Unit 2407 baseline.**
+- Page 16 must NOT use blackout darkness, deep charcoal/blue-black current-time lighting, candlelight, emergency lighting as the apartment light source, screen glow as primary room illumination, or any look suggesting a second outage.
+- Nari's same clothing from Pages 9–15 is wardrobe continuity only; it does NOT justify blackout lighting on Page 16.
+- Any earlier-outage darkness/emergency lighting may appear only inside the scripted camera/archive display as historical evidence. It must never restyle the surrounding present-time apartment.
+- Page 16 Panel 5 remains a present-time normally lit apartment phone-call panel; do not replace it with a dark outage corridor/elevator scene.
+- A Page 16 generation in which the current apartment looks dark or unpowered is an **automatic REJECT**.
 - Page 16: disappearance spot → door/latch → entry history → camera → security → Mrs. Na voicemail → closed cabinet chimes.
 - Page 17: same cabinet/stockpot/towels/speaker; phone counter; knife floor → desk sheath; food checked before eating.
 - Page 18: same open cabinet; table → desk → table notebook route; hostile unplugged TV ending.
@@ -344,7 +350,7 @@ Do not approve Page N until all applicable checks pass:
 10. Object states/positions match continuity ledger.
 11. Movement is physically understandable; no teleportation.
 12. Scripted verbs/actions are literal: characters do not operate/touch objects unless instructed.
-13. Power/lighting state matches story moment.
+13. Power/lighting state matches story moment; specifically, Page 16 current-time Panels 1–8 are visibly powered and normally lit after Page 15 restores Unit 2407 power.
 14. Device actor signature is correct.
 15. Reader-facing story text is exact and complete.
 16. Narration/time-caption design, where present, fits the local scene, stays high-contrast/readable, and is not unnecessarily forced into one universal box style.
@@ -364,6 +370,7 @@ After Page 18 is approved, perform one final Page 1→18 image audit for:
 - Unit 2407 geometry/appliance consistency
 - recurring object paths
 - power/time continuity
+- Page 16 current-time powered-lighting continuity after Page 15 restoration
 - Page 10–15 subject positions
 - clean-vs-hostile signatures
 - exact verbatim story text/SFX
