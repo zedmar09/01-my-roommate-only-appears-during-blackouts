@@ -45,6 +45,14 @@ This occurs later the same night after Page 8.
 Panel 1 contains a LARGE, high-contrast, clearly readable in-panel time narration caption: `LATER THAT NIGHT — 12:43 A.M.`
 Do not use a tiny separate time-card gutter.
 
+NARRATION CAPTION DESIGN
+Narration and time-caption presentation is scene-adaptive, not fixed to one background, color, shape, or placement.
+Blend each narration caption into its actual panel while keeping it clearly readable and visually distinct from dialogue, thought text, SFX, and the small circled panel-order number.
+Use whatever restrained flat-2D caption treatment best fits that scene—light, dark, solid, bordered, or another simple high-contrast shape—without changing the exact wording.
+The caption treatment may change appropriately between the powered desk scene, blackout panels, exterior city panel, and dark-phone evidence panel.
+Do NOT force a white caption box when the scene calls for another treatment, and do NOT force every caption on the page to look identical.
+Maintain strong contrast and breathing room; never place narration as unreadable bare text over busy or very dark artwork.
+
 PAGE FORMAT AND PACING
 One vertical page with exactly 5 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `5`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover narration, thought text, SFX, Nari's face/hands, the phone, emergency tray, flashlight/radio, knife, or outage clues.
 
@@ -71,13 +79,13 @@ SFX near radio: KSSHT
 NARI, spoken quietly to herself: NOTHING.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `5`. `MRS. NA SAID NO SCREENS.` is an INTERNAL THOUGHT and must use the comic's established thought/narration treatment, not a speech bubble heard by another character. Do not print labels such as `NARRATION`, `THOUGHT`, `NARI`, or `SFX` in the artwork.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `5`. `MRS. NA SAID NO SCREENS.` is an INTERNAL THOUGHT and must use the comic's established thought treatment, not a speech bubble heard by another character. Narration design may adapt to each scene while the exact wording stays locked. Do not print labels such as `NARRATION`, `THOUGHT`, `NARI`, or `SFX` in the artwork.
 
 STORY CLARITY
 The reader must understand: Unit 2407 loses power through no action by Nari; the outage is citywide; Nari remembers the no-screen rule and deliberately does not activate her charged phone; she safely tests the flashlight and radio instead; both fail; the knife remains untouched for the next page.
 
 AVOID
-Avoid identity drift, changed desk geometry, moved emergency tray, knife removed from sheath, phone screen lighting up, Nari pressing the phone, hallway lamp staying on after the outage, corridor backup lighting appearing inside the apartment, random product branding or advertisements, readable promotional Korean text, physical Hyun-woo reveal, hostile-screen text, reflective windows, glossy/cinematic effects, extra dialogue, missing/duplicated/out-of-order/oversized panel numbers, or flashback styling.
+Avoid identity drift, changed desk geometry, moved emergency tray, knife removed from sheath, phone screen lighting up, Nari pressing the phone, hallway lamp staying on after the outage, corridor backup lighting appearing inside the apartment, random product branding or advertisements, readable promotional Korean text, physical Hyun-woo reveal, hostile-screen text, reflective windows, glossy/cinematic effects, rigid one-style-fits-all narration treatment, extra dialogue, missing/duplicated/out-of-order/oversized panel numbers, or flashback styling.
 ```
 
 ## Locked Reader-Facing Text
