@@ -10,111 +10,107 @@ Use `../../../characters.md` and `../../style-guide.md`; directly continue appro
 
 CANONICAL CHARACTER REFERENCE LOCK
 Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md` and the APPROVED flat-2D canonical Hyun-woo reference created from `../../../Character-References/hyunwoo-canonical-flat2d-chatgpt-image-prompt.md`.
-Those canonical references are the absolute authority for each character's face, hair, adult age, persistent identifiers, and stable body proportions. For Hyun-woo they also control the established modern technical lower-face mask, long black hair tied low, broad build, clothing, and dense circuit-sigil tattoo map.
-Approved Page 10 controls the exact starting pose, chair, table, pot, candle, sink distance, refrigerator relationship, pantry relationship, and kitchen/dining geometry. This page must NOT reinterpret or relocate any of those elements.
-Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
+Those canonical references are absolute authority for each character's face, hair, adult age, body proportions, clothing, and persistent identifiers. For Hyun-woo they also control his modern technical lower-face mask, long black hair tied low, broad build, and dense circuit-sigil tattoo map.
+Approved Page 10 controls the exact starting pose, chair, table, pot, candle, sink distance, refrigerator relationship, pantry relationship, and kitchen/dining geometry. Do NOT reinterpret or relocate any of those elements.
 
 EXACT CONTINUATION FROM PAGE 10 - CRITICAL
-Page 11 begins in the exact same physical moment and space where Page 10 ends.
-Hyun-woo has NOT changed chairs, stood up, crossed the room, moved to the sink, moved to the counter, or changed orientation.
-He remains seated in the SAME DINING CHAIR CLOSEST TO THE KITCHEN/REFRIGERATOR SIDE OF THE DINING TABLE.
-His body remains angled partly toward the hallway/kitchen entrance where Nari is standing.
-Nari remains at the SAME kitchen/dining entrance where Page 10 ended, knife held low.
-Do not reset the scene or stage a new reveal location.
+Page 11 begins in the exact same physical moment where Page 10 ends.
+Hyun-woo remains seated in the SAME dining chair closest to the kitchen/refrigerator side of the dining table.
+His body remains angled partly toward the kitchen/dining entrance where Nari stands.
+Nari remains at that SAME entrance with the practical knife held low.
+Hyun-woo has NOT moved to the sink, counter, cooktop, pantry, island, or another chair.
+Do not reset the scene for the reveal.
+
+ENVIRONMENT AND OBJECT POSITION LOCK
+The dining table remains center/open-plan and physically separate from the kitchen counter.
+The SAME noodle pot remains on the SAME trivet directly in front of Hyun-woo.
+The SAME folded cloth remains around/near the hot pot handle.
+The SAME short pillar candle remains in the SAME ceramic holder beside the pot.
+The sink stays several feet behind/to the side of Hyun-woo as background only.
+The cooktop stays off after use.
+The refrigerator and slightly open pantry stay on the kitchen side.
+Exactly five unopened other-flavor noodle packets remain in/near the pantry where composition allows.
+Do not move any of these objects between panels merely to improve composition.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
-HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
-Use 100% flat 2D human-drawn manga/manhwa: clean ink, matte cel colors, solid blocks, mature adults, one hard-edged shadow. Apply to skin, hair, mask, tattoos, clothes, knife, candle, holder, pot, table, chair, sink, appliances, and background. No glossy, cinematic, photoreal, 3D/CG, painterly, airbrushed, reflective, bloom, rim-light, flare, volumetric, gradient, blur, glare, wet, shiny, or over-rendered treatment.
+Use 100% flat 2D human-drawn manga/manhwa with clean ink, matte cel colors, solid blocks, mature adult proportions, and one controlled hard-edged shadow tone.
+HARD BAN: no semi-photorealism, cinematic rendering, 3D/CG, painterly treatment, glossy surfaces, reflections, bloom, rim light, lens flare, volumetric light, gradient shading, blur, glare, wet/shiny treatment, or over-rendering.
 
-ENVIRONMENT AND APPLIANCE MASTER LOCK
-Preserve the exact Page 10 kitchen/dining geometry.
-Dining table remains center/open-plan. Kitchen counter, sink, and cooktop remain separate behind/to the side. Refrigerator and slightly open pantry remain on the kitchen side.
-Do not merge the dining table with the kitchen counter, sink, washbasin, cooktop, or an invented island.
-
-HYUN-WOO POSITION LOCK
-Hyun-woo remains seated in the same dining chair closest to the kitchen/refrigerator side of the table.
-He is NOT seated beside the sink, at the washbasin, at the counter, at the cooktop, inside the pantry area, or on an island stool.
-The sink remains several feet behind/to the side of him and may be visible only as background kitchen context.
-The reveal must happen from his existing Page 10 seated position.
-
-TABLE OBJECT POSITION LOCK
-The SAME noodle pot remains on the SAME trivet on the dining table directly in front of Hyun-woo.
-The SAME folded cloth remains around/near the hot pot handle.
-The SAME short pillar candle remains in the SAME ceramic holder on the SAME dining table beside the pot.
-The SAME chair orientation, pot position, candle position, table edge, refrigerator relationship, pantry opening, sink distance, and Nari viewing angle must remain unchanged from Page 10.
-At the start of Page 11, Hyun-woo's chopsticks are no longer actively lifting noodles. They rest against/in the pot before his free hand adjusts/pulls up the mask.
-
-LIGHTING AND EXPOSURE LOCK
-Readable charcoal/blue-gray blackout shapes with small local matte amber candlelight from the dining table only. Faint tattoo accents do not light the room. Do not change the candle into a dramatic spotlight for the reveal.
-
-POWER AND SUPERNATURAL RULE LOCK
-Ordinary power remains absent, so Hyun-woo is fully physical. His tattoos are existing matte-black circuit-sigil ink; distant emergency activity may add only faint pale blue-white current accents along existing ink, never glowing veins beneath skin.
+LIGHTING LOCK
+Ordinary apartment power remains absent. Use readable charcoal/blue-gray blackout shapes with a small local matte amber candle source on the dining table only. Do not turn the candle into a spotlight or change the room geometry through darkness.
 
 CHARACTER CONSISTENCY
-Nari is the SAME approved canonical Nari from Page 10 and remains at the entrance with the practical knife held low.
-Hyun-woo is the SAME approved canonical tall Korean man in his early/mid 30s with broad shoulders, long black hair tied low, severe eyes, black sleeveless top, dark utility trousers, worn boots, established modern matte-black lower-face technical mask, and established dense matte-black circuit-sigil tattoos.
-Do not reinterpret either face, hair, mask, body build, clothing, or tattoo map from text.
+Nari is the SAME approved canonical Nari from Page 10 and stays at the entrance with the practical knife held low.
+Hyun-woo is the SAME canonical tall Korean man in his early/mid 30s with broad shoulders, long black hair tied low, severe eyes, black sleeveless top, dark utility trousers, worn boots, established modern matte-black lower-face technical mask, and established dense matte-black circuit-sigil tattoos.
+Do not change either character's face, hair, clothing, build, height, age, or proportions.
 
-SETTING AND PROP CONTINUITY
-Page 10 established that Hyun-woo was already eating from the dining table. He finishes/halts the eating action before the reveal beat.
-Do not show noodles passing through a mask.
-Do not show his uncovered lower face.
-The pantry remains slightly ajar with five unopened noodle packets visible where composition allows.
-The cooktop remains off after use. The sink may remain damp but is background only.
-Nari does not advance from the kitchen/dining entrance until a later page.
+MASK / EATING CONTINUITY
+Page 10 showed Hyun-woo finishing/eating while his identity remained concealed.
+At the start of Page 11 he is no longer lifting noodles. His chopsticks rest against/in the pot.
+He adjusts/secures the established mask before the dominant reveal becomes readable.
+Never show noodles passing through the mask and never expose his uncovered lower face.
 
-OBJECT SCALE AND SPATIAL LOGIC
-Hyun-woo is tall but human-scale. Chair, table, pot, candle, knife, sink, refrigerator, pantry, and kitchen counters remain residential scale. The technical mask is fitted and modern, not a fantasy half-mask.
-
-CONTINUITY
-His first line answers Nari's Page 10 warning `DON'T MOVE. I HAVE A KNIFE.` His name answers her direct question. The reader should recognize that the hidden eater from Page 10 and the revealed Hyun-woo on Page 11 are physically the SAME person in the SAME chair.
+POWER AND SUPERNATURAL RULE LOCK
+Ordinary Unit 2407 power remains absent, so Hyun-woo is fully physical.
+His tattoos remain matte-black ink. Any pale blue-white current accent is extremely faint and follows existing tattoo lines only; no glowing veins or neon effects.
 
 TIME AND SCENE CONTINUITY
-Exact continuation at 12:56 A.M. No time jump, no reset, no flashback.
-
-TIME TRANSITION CARD
-NO TIME CARD. This page directly continues Page 10.
+Exact continuation at 12:56 A.M. No time card, time jump, flashback, room reset, or character relocation.
 
 SPOILER BOUNDARY
-Reveal appearance and name only. No origin, Black Surge name, accident, hostile-system explanation, or future rules.
+Reveal only that the hidden eater is the same presence Nari has been communicating with and reveal his name. Do not explain his origin, the hostile system's origin/name, the accident, or future rules.
 
 PAGE FORMAT AND PACING
-One vertical page with 4 large panels. Do not add reader-facing production panel numbers.
+One vertical page with 4 large panels. Do not render production panel numbers.
+The conversation should feel tense and controlled, not comedic. Hyun-woo speaks briefly and calmly; Nari remains suspicious and does not lower the knife simply because he asks.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 - Exact continuation of Page 10 Panel 6. Nari remains at the kitchen/dining entrance, knife held low. Hyun-woo remains seated in the exact locked dining chair across the dining table. Same pot/trivet/candle positions. His face is still mostly concealed by angle/shadow.
-HYUN-WOO: WITH THE FRUIT KNIFE OR THE BIGGER ONE?
+PANEL 1 - Exact continuation of Page 10 Panel 6. Nari remains at the kitchen/dining entrance with knife held low. Hyun-woo remains seated in the locked dining chair across the dining table; face still mostly concealed by angle/shadow. Same pot, trivet, candle, chair, sink distance, refrigerator, and pantry positions.
+HYUN-WOO, spoken aloud to Nari: I CAN SEE THAT.
 
-PANEL 2 - Nari tightens her grip but does not move closer. Her fear shifts into focused suspicion. Hyun-woo remains seated in the same position.
-NARI: THE BIGGER ONE. WHO ARE YOU?
+PANEL 2 - Nari does not move closer. She keeps her attention on him and asks directly. Hyun-woo remains seated and calm.
+NARI, spoken aloud to Hyun-woo: WHO ARE YOU?
+HYUN-WOO, spoken aloud to Nari: PUT THE KNIFE DOWN.
+NARI, spoken aloud to Hyun-woo: ANSWER ME FIRST.
 
-PANEL 3 - From the SAME seated position, Hyun-woo's chopsticks already rest at the pot. With his free hand he pulls/adjusts the established technical mask securely over nose, mouth, and jaw before his face becomes fully readable. Do not move him beside the sink or counter for this action.
+PANEL 3 - Hyun-woo remains in the SAME chair. His chopsticks are resting against/in the same noodle pot. He speaks before the full reveal, connecting himself to the prior clean communications. Nari stays at the entrance.
+HYUN-WOO, spoken aloud to Nari: YOU'VE BEEN TALKING TO ME FOR DAYS.
+NARI, spoken aloud to Hyun-woo: YOU'RE THE ONE IN THE SCREENS?
+HYUN-WOO, spoken aloud to Nari: SOME OF THEM.
+Then, with his free hand, he adjusts/secures the established technical mask over nose, mouth, and jaw before his face becomes fully readable.
 SFX: TCHK
 
-PANEL 4 - Dominant reveal from the SAME chair and SAME dining-table position. Reveal the canonical masked Hyun-woo: same long tied-low hair, broad shoulders, severe eyes, established matte-black mask, clothing, and tattoo map. The same pot on trivet and same candle in ceramic holder remain visibly anchored on the dining table. Sink/counter stay background only and clearly separate from where he sits.
-HYUN-WOO: MY NAME IS HYUN-WOO.
+PANEL 4 - Dominant reveal from the SAME seated position and SAME dining chair. Reveal canonical masked Hyun-woo without moving him or changing the environment. Same pot on trivet and same candle remain visibly anchored on the dining table. Sink/counter stay background only.
+NARI, spoken aloud to Hyun-woo: THEN WHO ARE YOU?
+HYUN-WOO, spoken aloud to Nari: HYUN-WOO.
 
 SFX AND TEXT BLENDING
-Only the quiet mask sound. No electrical spectacle and no relocation cues.
+Only the quiet mask SFX `TCHK`. No electrical spectacle, no additional SFX, no relocation cues.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase dialogue/SFX listed below. No screen text, extra narration, labels, or generated product text.
+Use only the exact uppercase reader-facing dialogue/SFX listed below. Do not add narration, screen text, labels, product text, or extra dialogue.
 
 STORY CLARITY
-The reader must understand that the hidden eater from Page 10 is the same canonical Hyun-woo, still seated in the same dining chair at the same table. He knows Nari has two knives, secures his mask before full visibility, and identifies himself without changing location.
+The reader must understand that the hidden eater from Page 10 is the SAME canonical Hyun-woo in the SAME chair. Nari challenges him, he connects himself to the communications she has already encountered, makes clear that only SOME of the screen activity was his, then finally gives his name.
 
 AVOID
-Avoid Nari or Hyun-woo identity drift, relocating Hyun-woo to sink/washbasin/counter/cooktop/island, changing dining chairs, changing table placement, changing pot/candle positions, resetting the camera geography, short-haired Hyun-woo, generic cloth mask, simplified/new tattoo map, slimmer recast build, long-haired Nari, generic replacement faces, uncovered lower face, eating through mask, palace/vampire/xianxia styling, glowing veins, neon tattoos, oversized body/props, cinematic candle glow, reflections, extra text, and spoilers.
+Avoid Nari or Hyun-woo identity drift; relocating Hyun-woo to sink/washbasin/counter/cooktop/island; changing dining chairs; changing table, pot, trivet, candle, refrigerator, pantry, or sink positions; resetting camera geography; short-haired Hyun-woo; generic cloth mask; simplified/new tattoo map; slimmer recast build; uncovered lower face; eating through mask; glowing veins; neon tattoos; oversized body/props; cinematic candle glow; reflections; extra text; jokes; or spoilers.
 ```
 
-## Current Reader-Facing Text for Review
+## Locked Reader-Facing Text
 
 | PanelText | Type / Who hears it | Text |
 | --- | --- | --- |
-| 1 Hyun-woo | Spoken aloud to Nari | `WITH THE FRUIT KNIFE OR THE BIGGER ONE?` |
-| 2 Nari | Spoken aloud to Hyun-woo | `THE BIGGER ONE. WHO ARE YOU?` |
-| 3 SFX | Hyun-woo adjusting/pulling up his mask | `TCHK` |
-| 4 Hyun-woo | Spoken aloud to Nari | `MY NAME IS HYUN-WOO.` |
+| 1 Hyun-woo | Spoken aloud to Nari from the dark | `I CAN SEE THAT.` |
+| 2 Nari | Spoken aloud to Hyun-woo | `WHO ARE YOU?` |
+| 2 Hyun-woo | Spoken aloud to Nari | `PUT THE KNIFE DOWN.` |
+| 2 Nari | Spoken aloud to Hyun-woo | `ANSWER ME FIRST.` |
+| 3 Hyun-woo | Spoken aloud to Nari | `YOU'VE BEEN TALKING TO ME FOR DAYS.` |
+| 3 Nari | Spoken aloud to Hyun-woo | `YOU'RE THE ONE IN THE SCREENS?` |
+| 3 Hyun-woo | Spoken aloud to Nari | `SOME OF THEM.` |
+| 3 SFX | Hyun-woo securing/adjusting his mask | `TCHK` |
+| 4 Nari | Spoken aloud to Hyun-woo | `THEN WHO ARE YOU?` |
+| 4 Hyun-woo | Spoken aloud to Nari | `HYUN-WOO.` |
 
 ## Production Thread Use
 
