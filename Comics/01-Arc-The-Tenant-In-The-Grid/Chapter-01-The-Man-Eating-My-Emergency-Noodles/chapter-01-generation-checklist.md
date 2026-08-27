@@ -6,7 +6,7 @@ This checklist is the production guard for the final locked Chapter 1 interior s
 
 ## Current Production Rule Change
 
-Chapter 1 interior pages now require **visible reader-facing panel-order markers**.
+Chapter 1 interior pages require **visible reader-facing panel-order markers**.
 
 - Render exactly ONE small circled number inside every story panel.
 - Number panels consecutively from `1` through the page's locked panel count.
@@ -16,6 +16,17 @@ Chapter 1 interior pages now require **visible reader-facing panel-order markers
 - Reject missing, duplicated, skipped, out-of-order, oversized, or ambiguous numbers.
 - Literal prompt labels such as `PANEL 1`, `PANEL 2`, etc. are still production instructions and must never be printed literally.
 - Cover/front/back support assets do not use these markers.
+
+Chapter 1 also uses **scene-adaptive narration/time-caption design**.
+
+- Narration/time-caption wording is exact and locked by the page prompt.
+- The visual treatment is NOT locked to one white box, background, border, color, shape, size, or placement.
+- Caption presentation should blend with the actual scene while staying clearly readable and distinct from dialogue, SFX, device/notebook text, and panel-order markers.
+- Appropriate treatments may include a clean light box, dark box, bordered shape, restrained banner, or another simple high-contrast flat-2D treatment suited to the panel.
+- Do not force every caption on a page or chapter to look identical.
+- Do not use unreadable bare narration over a busy or dark background.
+- When a page requires a LARGE / noticeable time caption, the dynamic treatment must preserve that visual hierarchy.
+- Do not invent narration on pages that have none.
 
 ## Approved Production Sources
 
@@ -130,6 +141,8 @@ Before generating every page confirm:
 - starting subject/object/environment state matches prior approved page
 - exact dialogue/captions/device text/notebook text/SFX copied without paraphrase
 - large in-panel time caption used where scripted
+- narration/time-caption visual treatment is scene-adaptive and readable, not forced into one fixed white/background/shape style
+- no narration is invented on narration-free pages
 - no separate time-card gutter unless explicitly requested
 - no extra brands, logos, ads, prices, fake slogans, random promotional Korean text, signatures, or watermarks
 - no future-lore spoilers
@@ -146,6 +159,8 @@ Reject:
 - wet/shiny/plastic surfaces
 - strong gradients/cinematic color grading
 - character identity drift
+- rigid one-style-fits-all narration presentation that ignores the local scene
+- unreadable narration caused by insufficient contrast
 
 Required style: flat 2D human-drawn modern manga/manhwa, clean ink, matte cel colors, solid blocks, restrained hard-edged shadows.
 
@@ -222,6 +237,8 @@ Reject if the image:
 - renders numbers too large or over important content
 - prints literal production labels such as `PANEL 1`
 - adds a page number or unrelated counting marks
+- forces all narration/time captions into a fixed white-box treatment regardless of scene
+- makes narration/time captions difficult to read against the local artwork
 
 Removed story beats must not return, including `OUR APARTMENT`, reader-facing `RECORD CORRUPTED`, toaster-crumb writing, Page 8 car-key beat, Page 9 phone activation, Page 11 fruit-knife joke, Page 12 haunting-noodles banter, and Page 15 cheap-rent/door banter.
 
@@ -240,11 +257,12 @@ Do not approve Page N until all applicable checks pass:
 9. Power/lighting state matches story moment.
 10. Device actor signature is correct.
 11. Reader-facing story text is exact and complete.
-12. SFX is attached to the correct physical source.
-13. No extra text/brands/logos/ads/random Korean promotional copy.
-14. No spoilers/future lore.
-15. Flat matte 2D style is preserved.
-16. Page is safe to use as the continuity reference for Page N+1.
+12. Narration/time-caption design, where present, fits the local scene, stays high-contrast/readable, and is not unnecessarily forced into one universal box style.
+13. SFX is attached to the correct physical source.
+14. No extra text/brands/logos/ads/random Korean promotional copy.
+15. No spoilers/future lore.
+16. Flat matte 2D style is preserved.
+17. Page is safe to use as the continuity reference for Page N+1.
 
 If any check fails: REJECT the image, do not use it downstream, correct/regenerate it, then run the gate again.
 
@@ -259,6 +277,7 @@ After Page 18 is approved, perform one final Page 1→18 image audit for:
 - Page 10–15 subject positions
 - clean-vs-hostile signatures
 - exact story text/SFX
+- narration/time-caption readability and scene-appropriate design wherever narration appears
 - exact panel counts
 - correct small circled `1…N` markers on every page
 - no missing/duplicate/out-of-order markers
