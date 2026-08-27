@@ -53,6 +53,13 @@ Panel 1 must contain the LARGE, HIGH-CONTRAST narration caption `LATER THAT DAY`
 It must be immediately noticeable at normal comic-reading size.
 Do not use a separate tiny time-card gutter and do not reduce the time caption to decorative microtext.
 
+NARRATION CAPTION DESIGN
+Narration and time-caption presentation is scene-adaptive, not fixed to one background, color, shape, or placement.
+Blend each narration caption into its actual panel while keeping it clearly readable and visually distinct from dialogue, SFX, product labels, and the small circled panel-order number.
+Use whatever restrained flat-2D caption treatment best fits that scene—light, dark, solid, bordered, or another simple high-contrast shape—without changing the exact wording.
+Do NOT force a white caption box when the scene calls for another treatment, and do NOT force every caption on the page to look identical.
+Maintain strong contrast and breathing room; never place narration as unreadable bare text over busy artwork.
+
 SPOILER BOUNDARY
 No blackout, Hyun-woo body, hostile activity, or future explanation.
 
@@ -80,7 +87,7 @@ PANEL 6 - Work desk: Nari places flashlight, radio, and sheathed practical knife
 NARRATION CAPTION: THE FLASHLIGHT, RADIO, AND KNIFE STAYED WITHIN REACH.
 
 SFX AND TEXT BLENDING
-Use only the small smart-lock `BEEP`. Let object placement read through hands and composition. Captions must be clean, readable, and visually separate from product labels.
+Use only the small smart-lock `BEEP`. Let object placement read through hands and composition. Captions must be clean, readable, visually separate from product labels, and styled to suit each panel rather than forced into one fixed caption-box design.
 
 TEXT AND LETTERING RULES
 Use only the exact reader-facing narration and SFX listed below, plus the required small circled panel-order numbers `1` through `6`. Do not generate extra advertising copy, promotional Korean text, fake brands, store slogans, prices, sale labels, or dense product text. Generic product labels may appear only when necessary for clarity.
@@ -89,7 +96,7 @@ STORY CLARITY
 The reader must immediately understand that Nari is building a blackout kit, bringing the supplies home, putting food/light/emergency spares in the pantry, and keeping the flashlight/radio/knife close enough to reach quickly.
 
 AVOID
-Avoid Nari identity drift, long black hair, generic replacement face, convenience-store setting, real or invented brands, logos, Korean advertising text, promotional signage, fruit knife shown or purchased at the store, wording or imagery implying two knife purchases, free-hand contradiction, loose blades, missing holders/sheaths, random noodle count, oversized gear, supernatural effects, glossy/cinematic rendering, extra dialogue, extra captions, missing/duplicated/out-of-order/oversized panel numbers, and teleporting props.
+Avoid Nari identity drift, long black hair, generic replacement face, convenience-store setting, real or invented brands, logos, Korean advertising text, promotional signage, fruit knife shown or purchased at the store, wording or imagery implying two knife purchases, free-hand contradiction, loose blades, missing holders/sheaths, random noodle count, oversized gear, supernatural effects, glossy/cinematic rendering, rigid one-style-fits-all narration treatment, extra dialogue, extra captions, missing/duplicated/out-of-order/oversized panel numbers, and teleporting props.
 ```
 
 ## Locked Reader-Facing Text
