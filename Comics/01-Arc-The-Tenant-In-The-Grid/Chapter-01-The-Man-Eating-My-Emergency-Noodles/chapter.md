@@ -8,7 +8,7 @@ Chapter 1 uses colored flat 2D human-drawn modern manga/manhwa artwork. Everythi
 
 This revised `chapter.md` is the current Chapter 1 story and dialogue authority.
 
-`page-001-chatgpt-image-prompt.md`, `page-002-chatgpt-image-prompt.md`, `page-003-chatgpt-image-prompt.md`, and `page-004-chatgpt-image-prompt.md` are now synchronized to the current approved Page 1 through Page 4 reader-facing text. `page-005-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md` still require synchronization during the later page-by-page script, dialogue, SFX, and image-continuity pass. Until each remaining page is synchronized, this chapter remains the dialogue authority.
+`page-001-chatgpt-image-prompt.md` through `page-005-chatgpt-image-prompt.md` are now synchronized to the current approved Page 1 through Page 5 reader-facing text. `page-006-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md` still require synchronization during the later page-by-page script, dialogue, SFX, and image-continuity pass. Until each remaining page is synchronized, this chapter remains the dialogue authority.
 
 Cover files are outside this revision scope.
 
@@ -205,7 +205,7 @@ She returned the brass key to the entry tray.
 
 Then she carried the unplugged speaker to the lower kitchen cabinet, placed it inside the stockpot stored there, covered it with two dish towels, put the stockpot lid on, and closed the cabinet.
 
-She wrote a note on paper and left it beside the toaster.
+She wrote a note on paper and left it beside the toaster with a pen.
 
 ```text
 WHO ARE YOU?
@@ -215,23 +215,37 @@ Before going to bed, Nari took the fruit knife from the kitchen drawer. It had a
 
 The hallway lamp stayed on.
 
-At 1:17 a.m., while Nari slept, the lamp clicked off for one breath and came back on.
+At 1:17 a.m., while Nari slept, the hallway lamp gave one brief electrical flicker.
 
-In the kitchen, toaster crumbs scraped slowly across the paper.
+In the kitchen, the pen beside her note trembled, touched down, and began dragging itself across the paper.
+
+Scratch. Scratch.
+
+When it stopped, a second handwritten line sat beneath Nari's question.
+
+```text
+KEEP THE LIGHT ON.
+```
 
 ---
 
-The next morning, Nari found a reply formed from burnt crumbs beneath her note.
+The next morning, Nari found the new handwriting beneath her note.
+
+"What the..."
+
+Her original question was still there.
 
 ```text
-TENANT.
+WHO ARE YOU?
+
+KEEP THE LIGHT ON.
 ```
 
 She took a photograph.
 
 The photograph showed a blank counter.
 
-The physical note and the crumbs were still there.
+The physical note and both handwritten lines were still there.
 
 Nari changed the angle and took a second picture.
 
