@@ -68,7 +68,7 @@ SPOILER BOUNDARY
 No physical Hyun-woo, hostile entity, blackout, future lore, or explanation of how the interference works.
 
 PAGE FORMAT AND PACING
-One vertical page with 6 panels. Do not render production panel numbers.
+One vertical page with exactly 6 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `6`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, captions, SFX, faces, hands, devices, elevator controls, or spatial clues.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Exterior at Nari's residential building entrance. Rain is visible beyond the entrance canopy. Nari and Seungjae have just arrived on foot. Seungjae still holds the open umbrella covering them. The building entrance is directly beside/behind them so the next panel can logically move indoors.
@@ -99,13 +99,13 @@ SFX AND TEXT BLENDING
 Keep `THUNK` and `BIP` small, physical, and source-aligned. Do not use menacing glitch effects. The clean tablet text stays contained within the screen.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below. No advertising copy, Korean promotional text, lobby labels, fake brands, store signage, extra jokes, or generated device notifications.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `6`. No advertising copy, Korean promotional text, lobby labels, fake brands, store signage, extra jokes, or generated device notifications.
 
 STORY CLARITY
 The reader must immediately understand that Seungjae walked Nari home, they arrived together at the residential building, the electronics begin failing only after they enter the ground-floor lobby, the unknown clean-message presence wants Seungjae to leave, Nari objects to the interference, Nari goes upstairs alone, and Seungjae leaves through the ground-floor entrance.
 
 AVOID
-Avoid Nari or Seungjae identity drift, generic replacement faces, random location changes, apartment interior, apartment corridor, parking garage, restaurant, office, unexplained car key, Seungjae entering the elevator, Seungjae going upstairs, Nari leaving the building instead of entering the elevator, moved entrance/elevator positions between panels, trapped exits, elevator malfunction, building-wide power failure, reflective characters in glass, hostile signature, physical Hyun-woo, glossy/cinematic effects, advertisements, random Korean text, extra dialogue, and flashback styling.
+Avoid Nari or Seungjae identity drift, generic replacement faces, random location changes, apartment interior, apartment corridor, parking garage, restaurant, office, unexplained car key, Seungjae entering the elevator, Seungjae going upstairs, Nari leaving the building instead of entering the elevator, moved entrance/elevator positions between panels, trapped exits, elevator malfunction, building-wide power failure, reflective characters in glass, hostile signature, physical Hyun-woo, glossy/cinematic effects, advertisements, random Korean text, extra dialogue, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
 ```
 
 ## Locked Reader-Facing Text
@@ -124,6 +124,10 @@ Avoid Nari or Seungjae identity drift, generic replacement faces, random locatio
 | 5 Nari | Spoken quietly toward tablet / Seungjae should not clearly hear | `DON'T TOUCH HIS STUFF.` |
 | 6 Seungjae | Spoken aloud to Nari | `I'M GOING TO HEAD OUT BEFORE ANYTHING ELSE DIES.` |
 | 6 Nari | Spoken aloud to Seungjae | `TEXT ME WHEN YOUR PHONE'S BACK.` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `6`.
 
 ## Production Thread Use
 
