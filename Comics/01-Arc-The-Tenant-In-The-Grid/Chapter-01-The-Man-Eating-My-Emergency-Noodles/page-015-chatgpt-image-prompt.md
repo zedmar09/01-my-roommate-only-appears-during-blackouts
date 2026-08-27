@@ -83,7 +83,7 @@ Reveal only that the hostile broken messages come from something separate from H
 Do not name the hostile entity/system, reveal origins, accidents, culprits, future memory rules, or later-chapter lore.
 
 PAGE FORMAT AND PACING
-One vertical page with 8 panels. Do NOT render reader-facing production panel numbers.
+One vertical page with exactly 8 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `8`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, SFX, faces, hands, knife, refrigerator, power-return beat, or story clues.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Exact continuation from Page 14. Hyun-woo is still holding the wrist he caught after the knife fell. The practical knife is visibly on its established floor spot. Hyun-woo releases Nari's wrist. The refrigerator gives three quiet mechanical/digital clicks and then becomes silent. The extinguished candle remains smoking faintly in its holder on the table.
@@ -125,13 +125,13 @@ SFX AND TEXT BLENDING
 Keep `TIK. TIK. TIK.` source-aligned to the refrigerator and small/quiet. Keep `VZZT` source-aligned to the apartment power return. No unrelated static or extra sound effects.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below. Dialogue stays in normal speech bubbles. No device text appears on Page 15. Do not add jokes, exposition, narration, production labels, or panel numbers.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `8`. Dialogue stays in normal speech bubbles. No device text appears on Page 15. Do not add jokes, exposition, narration, or production labels.
 
 STORY CLARITY
 The reader must understand: Hyun-woo physically releases Nari's wrist; the hostile refrigerator falls silent; the broken messages come from something separate from him; the other messages came from Hyun-woo; the hostile presence is trying to learn Nari's identity; outside city power returns before Unit 2407; Hyun-woo remains physical until Unit 2407 itself powers on; he cannot answer where he goes; and after the power snap he is simply gone without a visible transformation.
 
 AVOID
-Avoid Nari or Hyun-woo identity drift, long-haired Nari, short-haired Hyun-woo, generic replacement faces, generic cloth mask, simplified/new tattoo map, slimmer Hyun-woo recast build, resetting their positions, moving Nari to refrigerator side, sending Hyun-woo back to his chair/sink/counter, teleportation before the scripted disappearance, picking up the knife, moving the dropped knife, moving chair/pot/trivet/cloth/candle/pantry/refrigerator/sink/cooktop, relighting candle, early Unit 2407 power, Hyun-woo visible after apartment power is restored, visible dissolution/transformation imagery, glowing particles, network diagrams, crushed black, cinematic power flare, extra lore/text, reader-facing panel numbers, and spoilers.
+Avoid Nari or Hyun-woo identity drift, long-haired Nari, short-haired Hyun-woo, generic replacement faces, generic cloth mask, simplified/new tattoo map, slimmer Hyun-woo recast build, resetting their positions, moving Nari to refrigerator side, sending Hyun-woo back to his chair/sink/counter, teleportation before the scripted disappearance, picking up the knife, moving the dropped knife, moving chair/pot/trivet/cloth/candle/pantry/refrigerator/sink/cooktop, relighting candle, early Unit 2407 power, Hyun-woo visible after apartment power is restored, visible dissolution/transformation imagery, glowing particles, network diagrams, crushed black, cinematic power flare, extra lore/text, missing/duplicated/out-of-order/oversized panel numbers, and spoilers.
 ```
 
 ## Locked Reader-Facing Text
@@ -157,6 +157,10 @@ Avoid Nari or Hyun-woo identity drift, long-haired Nari, short-haired Hyun-woo, 
 | 7 SFX | Unit 2407 power returning | `VZZT` |
 | 7 | No dialogue - Nari shields her eyes; no visible disappearance process | — |
 | 8 | No dialogue - Nari lowers her arm; Hyun-woo is already absent | — |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `8`.
 
 ## Production Thread Use
 
