@@ -5,6 +5,15 @@ Generate Chapter 1, Page 1 as a PNG. Save the approved result as `1.png`, then m
 ```text
 Create exactly ONE 1024 x 1536 vertical colored flat-2D human-drawn manga/manhwa page for Chapter 1, Page 1 of "My Roommate Only Appears During Blackouts".
 
+IMAGE-ONLY EXECUTION LOCK
+This production prompt is already FINAL. Do not rewrite, summarize, paraphrase, reinterpret, improve, reorganize, re-block, or redesign the production instructions before generating.
+Do not invent alternate actions, poses, staging, dialogue, captions, SFX, props, transitions, lighting, movement, or character motivations.
+Execute the script literally as written, then output the comic image only.
+If an instruction seems unusual, follow the written instruction instead of substituting a more generic comic action.
+The only creative freedom is the visual drawing/composition explicitly left open by this prompt, such as scene-adaptive narration treatment, without changing any locked story meaning.
+Do not output a rewritten prompt, analysis, explanation, plan, summary, or production notes instead of the image.
+Stop after this one page. Do not generate Page 2.
+
 REQUIRED REFERENCE
 Attach `../../../Character-References/nari-canonical-flat2d.png`.
 That PNG is the absolute authority for Nari's face, age, proportions, short asymmetrical dark-plum hair, and beauty mark.
