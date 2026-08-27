@@ -93,7 +93,7 @@ SPOILER BOUNDARY
 Do not explain the hostile system's origin, the mask, Hyun-woo's origin, or future lore.
 
 PAGE FORMAT AND PACING
-One vertical page with 8 panels. Sequential horror/action/touch beats must remain visually separate. Do not add reader-facing production panel numbers.
+One vertical page with exactly 8 panels. Sequential horror/action/touch beats must remain visually separate. Render exactly ONE small circled panel-order number inside every panel: `1` through `8`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, thought text, hostile screen text, SFX, faces, hands, knife trajectory, candle, or clues.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Exact continuation of Page 13. Hyun-woo remains between Nari and the refrigerator. Nari remains behind him with the knife held low. The same candle/holder is visible on the dining table behind/to the side; pushed-back chair and all props remain fixed.
@@ -127,13 +127,13 @@ SFX AND TEXT BLENDING
 Keep `PFF` source-aligned to the candle, `KIIIIII` source-aligned to the refrigerator display, and `CLANG` floor-aligned to the knife's landing point. Do not obscure hands, the candle holder, or the knife trajectory.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below. Hostile refrigerator text stays broken white with crawling black pixels. `WARM.` is internal thought/reader-only, never a spoken bubble. Do not print production labels in the artwork.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `8`. Hostile refrigerator text stays broken white with crawling black pixels. `WARM.` is internal thought/reader-only, never a spoken bubble. Do not print production labels in the artwork.
 
 STORY CLARITY
 The reader must understand: Page 14 continues from the exact Page 13 positions; Mrs. Na's light rule meant apartment/mains lighting, not this candle; the hostile presence uses the candle to locate Nari; she extinguishes it; the refrigerator reacts violently; she drops the established knife; and only afterward Hyun-woo catches her wrist, revealing that his physical body is warm.
 
 AVOID
-Avoid Nari or Hyun-woo identity drift, resetting character positions, moving Nari beside refrigerator, moving Hyun-woo back to his chair, teleporting either character, moving dining table/pot/trivet/candle/pantry/refrigerator/sink/cooktop, changing the pushed-back chair, white candle center, candle without holder, knife drop before the shriek, wrist catch before knife hits floor, simultaneous muddled drop/catch pose, glowing skin veins, neon tattoos, clean cyan hostile text, cinematic darkness/glow, crushed black, extra text, reader-facing panel numbers, or spoilers.
+Avoid Nari or Hyun-woo identity drift, resetting character positions, moving Nari beside refrigerator, moving Hyun-woo back to his chair, teleporting either character, moving dining table/pot/trivet/candle/pantry/refrigerator/sink/cooktop, changing the pushed-back chair, white candle center, candle without holder, knife drop before the shriek, wrist catch before knife hits floor, simultaneous muddled drop/catch pose, glowing skin veins, neon tattoos, clean cyan hostile text, cinematic darkness/glow, crushed black, extra text, missing/duplicated/out-of-order/oversized panel numbers, or spoilers.
 ```
 
 ## Locked Reader-Facing Text
@@ -151,6 +151,10 @@ Avoid Nari or Hyun-woo identity drift, resetting character positions, moving Nar
 | 7 SFX | Practical knife striking the floor | `CLANG` |
 | 8 Nari | Thought / internal only | `WARM.` |
 | 8 Hyun-woo | Spoken quietly but firmly to Nari | `STAY IN THE DARK UNTIL THE POWER'S BACK.` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `8`.
 
 ## Production Thread Use
 
