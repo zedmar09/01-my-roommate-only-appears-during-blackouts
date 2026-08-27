@@ -44,6 +44,17 @@ The A5 grocery notebook remains at the desk until Page 18.
 The refrigerator, sink, cooktop, dining table, pantry, entry route, desk, cabinet, and all apartment geometry remain fixed.
 Do not clean up, move, duplicate, resize, rotate, replace, or merge any object unless this page explicitly scripts that movement.
 
+CURRENT-TIME POWERED-LIGHTING CONTINUITY LOCK - ABSOLUTE
+Page 17 directly continues the fully restored, normally powered Page 16 state. The PRESENT-TIME apartment must remain visibly powered and normally lit in ALL EIGHT PANELS.
+Use the same medium-bright neutral powered interior baseline throughout. Walls, floor, kitchen, dining area, desk area, Nari, cabinet, furniture, and recurring props must remain clearly readable under ordinary apartment lighting.
+Do NOT reintroduce the Page 9-15 blackout palette on Page 17.
+Do NOT render Page 17 as dark, dim, underexposed, blue-black, deep charcoal blackout lighting, candlelit, emergency-lit, silhouette-heavy, or primarily illuminated by the speaker indicator.
+The extinguished candle is only a continuity prop and provides ZERO story-world lighting.
+Nari's same clothes from the blackout are WARDROBE continuity only; they do NOT imply blackout lighting.
+The unplugged speaker's weak cyan-white indicator is a tiny contained hardware signal only. It does NOT illuminate Nari, the cabinet, kitchen, or room.
+Hyun-woo speaking through the unplugged speaker does NOT cause a power loss, dimming, flicker, room-darkening effect, supernatural glow, or second outage.
+If any Page 17 panel looks as though Unit 2407 is still or newly unpowered, the page is NOT approved.
+
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 Use 100% flat 2D human-drawn manga/manhwa with clean ink, matte cel colors, solid blocks, mature adult proportions, and one controlled hard-edged shadow.
 HARD BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, bloom, rim light, volumetric light, gradients, glare, lens flare, wet/shiny surfaces, or over-rendering.
@@ -78,7 +89,7 @@ This does NOT restore him physically, power other unplugged devices, affect apar
 His speech remains weak/clean and may have restrained ordinary static, never hostile broken-text styling.
 
 CHARACTER CONSISTENCY
-Nari is the SAME approved canonical adult Nari in the exact Page 16 outfit and physical state.
+Nari is the SAME approved canonical adult Nari in the exact Page 16 outfit and physical state. This is wardrobe continuity only; the apartment remains normally powered and lit.
 Her behavior progresses naturally: suspicious recognition at cabinet -> cautious inspection of speaker -> practical safety cleanup -> careful food inspection -> reluctant trust -> focused questioning.
 Do not make her broadly comedic, flirtatious, panicked, or careless with the knife/food.
 No second physical person appears.
@@ -100,9 +111,9 @@ Pot remains on trivet; folded cloth remains at hot handle.
 Do not invent new food, extra noodle packets, extra bowls, or additional cooking activity.
 
 LIGHTING AND TIME CONTINUITY
-Direct continuation minutes after Page 16. Unit 2407 remains normally powered at a medium-bright neutral baseline.
+Direct continuation minutes after Page 16. Unit 2407 remains normally powered at a medium-bright neutral baseline in Panels 1-8 without exception.
 No time card, flashback, clothing change, cleanup montage, or unexplained passage of time.
-Speaker indicator stays tiny and contained without glow flooding.
+Speaker indicator stays tiny and contained without glow flooding and never becomes the room's lighting source.
 
 SPOILER BOUNDARY
 Reveal only that Hyun-woo can borrow just enough power to talk through the unplugged speaker, that Nari should document events on paper, and that she should stay away from the south-wall panel.
@@ -113,34 +124,34 @@ One vertical page with exactly 8 panels. Render exactly ONE small circled panel-
 The page should move continuously from suspicion -> confirmation of Hyun-woo's voice -> safe knife storage -> cautious food inspection -> limited trust -> useful warning.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 - Exact Page 16 continuation. Nari reaches the SAME lower cabinet, places the phone she was using onto the nearby kitchen counter, kneels, and opens only the cabinet door. The SAME lidded speaker-storage stockpot is visible inside. Speaker remains hidden beneath lid/towels.
+PANEL 1 - Exact Page 16 continuation in the normally lit powered kitchen. Nari reaches the SAME lower cabinet, places the phone she was using onto the nearby kitchen counter, kneels, and opens only the cabinet door. The SAME lidded speaker-storage stockpot is visible inside. Speaker remains hidden beneath lid/towels.
 SFX at cabinet hinge: CREAK
 No dialogue.
 
-PANEL 2 - Same position. Nari lifts the SAME stockpot lid. The SAME two towels and SAME unplugged screenless speaker are revealed inside. Tiny weak cyan-white indicator appears; disconnected cord is readable. Bubble tail points to speaker hardware.
+PANEL 2 - Same normally lit powered kitchen and same position. Nari lifts the SAME stockpot lid. The SAME two towels and SAME unplugged screenless speaker are revealed inside. Tiny weak cyan-white indicator appears; disconnected cord is readable. Bubble tail points to speaker hardware. The indicator does not darken or relight the room.
 SFX at lid: CLINK
 HYUN-WOO, voice through speaker: YOU SHOULD EAT BEFORE IT GETS COLD.
 
-PANEL 3 - Nari remains beside the cabinet and points toward the visibly disconnected speaker cord.
+PANEL 3 - Nari remains beside the cabinet in the same normally lit kitchen and points toward the visibly disconnected speaker cord.
 NARI, spoken aloud toward speaker: YOU'RE UNPLUGGED.
 HYUN-WOO, voice through speaker: I'M BORROWING JUST ENOUGH POWER TO TALK.
 NARI, spoken aloud toward speaker: IS THAT SAFE?
 HYUN-WOO, voice through speaker: NO.
 
-PANEL 4 - After the exchange, Nari rises, walks to the SAME established kitchen-floor spot, and picks up the practical knife by its handle. The cabinet remains open behind/in continuity; speaker/storage stockpot remain in place.
+PANEL 4 - After the exchange, Nari rises, walks to the SAME established kitchen-floor spot, and picks up the practical knife by its handle. The cabinet remains open behind/in continuity; speaker/storage stockpot remain in place. Ordinary apartment lighting remains on.
 No dialogue.
 
-PANEL 5 - Connecting desk view. Nari carries the practical knife safely to her work desk and slides it into the SAME empty sheath in the desk tray beside the failed flashlight and radio. She leaves it there and turns back toward the dining table empty-handed.
+PANEL 5 - Connecting normally lit desk view. Nari carries the practical knife safely to her work desk and slides it into the SAME empty sheath in the desk tray beside the failed flashlight and radio. She leaves it there and turns back toward the dining table empty-handed.
 SFX at sheath: SHK
 No dialogue.
 
-PANEL 6 - At the SAME dining table, Nari examines the opened spicy-seafood packet, seasoning wrapper, noodle cooking pot and broth. She smells the broth. Pot remains on the SAME trivet; folded cloth remains at handle. Do not show her eating yet.
+PANEL 6 - At the SAME normally lit dining table, Nari examines the opened spicy-seafood packet, seasoning wrapper, noodle cooking pot and broth. She smells the broth. Pot remains on the SAME trivet; folded cloth remains at handle. Do not show her eating yet.
 No dialogue.
 
-PANEL 7 - Nari sits in the available dining chair and takes one cautious bite with a clean pair of chopsticks. Preserve pushed-back Hyun-woo chair, pot/trivet/cloth, extinguished candle/holder, pantry state, and all room geometry.
+PANEL 7 - Nari sits in the available dining chair in the normally lit apartment and takes one cautious bite with a clean pair of chopsticks. Preserve pushed-back Hyun-woo chair, pot/trivet/cloth, extinguished candle/holder, pantry state, and all room geometry.
 No dialogue or narration caption.
 
-PANEL 8 - After swallowing, Nari remains seated and looks toward the SAME open lower cabinet across the kitchen/dining area.
+PANEL 8 - After swallowing, Nari remains seated in the normally lit powered apartment and looks toward the SAME open lower cabinet across the kitchen/dining area.
 NARI, spoken toward open cabinet: TELL ME WHAT I NEED TO KNOW.
 HYUN-WOO, voice through speaker: WRITE THINGS DOWN. PAPER ONLY.
 HYUN-WOO, voice through speaker: AND STAY AWAY FROM THE SOUTH-WALL PANEL.
@@ -156,10 +167,10 @@ Use only the exact uppercase reader-facing text listed below, plus the required 
 No brands, logos, promotional text, random Korean text, extra jokes, additional exposition, or words printed directly on the speaker.
 
 STORY CLARITY
-The reader must understand: the same hidden unplugged speaker from Page 5 is responding; Hyun-woo can borrow only enough power to speak while remaining physically absent; Nari safely removes and sheathes the knife before handling food; she inspects the food before eating; and Hyun-woo gives two practical warnings that lead directly into Page 18's binder question.
+The reader must understand: Page 17 continues the restored-power state from Page 16; the apartment stays normally powered and lit while the same hidden unplugged speaker from Page 5 responds; Hyun-woo can borrow only enough power to speak while remaining physically absent; Nari safely removes and sheathes the knife before handling food; she inspects the food before eating; and Hyun-woo gives two practical warnings that lead directly into Page 18's binder question.
 
 AVOID
-Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/silhouetted Hyun-woo, different speaker design, plugged-in speaker, moving speaker out of stockpot, merging storage stockpot with noodle cooking pot, changing towels, cabinet relocation, teleporting Nari or knife, loose knife at table, casual unexamined eating, missing trivet/cloth/candle holder, moving binder/key/notebook, closing pantry, hostile speaker styling, broken glyphs/black pixels, glossy/cinematic lighting, extra lore/text, missing/duplicated/out-of-order/oversized panel numbers, and spoilers.
+Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/silhouetted Hyun-woo, different speaker design, plugged-in speaker, moving speaker out of stockpot, merging storage stockpot with noodle cooking pot, changing towels, cabinet relocation, teleporting Nari or knife, loose knife at table, casual unexamined eating, missing trivet/cloth/candle holder, moving binder/key/notebook, closing pantry, hostile speaker styling, broken glyphs/black pixels, glossy/cinematic lighting, dark/underexposed current-time panels, blackout palette, emergency-light look, speaker-indicator-as-room-light, second outage, extra lore/text, missing/duplicated/out-of-order/oversized panel numbers, and spoilers.
 ```
 
 ## Locked Reader-Facing Text
