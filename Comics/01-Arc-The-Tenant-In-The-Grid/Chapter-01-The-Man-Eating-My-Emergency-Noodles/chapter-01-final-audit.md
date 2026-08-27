@@ -1,47 +1,108 @@
 # Chapter 01 Final Audit
 
-Status: PASS — STORY AND PROMPT PACKAGE READY FOR IMAGE GENERATION
+Status: PASS — FINAL PRE-GENERATION AUDIT COMPLETE
 
-This document records the independent final comparison. It must not infer correctness from the continuity audit or generation checklist.
+This is a fresh final check of the merged Chapter 1 production package on `main`. It supersedes the earlier final-audit PASS that predated the completed Page 1–18 dialogue and continuity rewrite.
 
-## Files Under Test
+## Audited Production Package
 
-- Root `README.md`, `characters.md`, and `series-plan.md`
-- `Comics/README.md`, `Comics/style-guide.md`, and `Comics/prompt-template.md`
-- Arc 1 `README.md`
-- Chapter 1 `chapter.md`
+- `chapter.md`
 - `page-001-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md`
-- Chapter 1 continuity audit and generation checklist
-- `Covers/story_cover-chatgpt-image-prompt.md`
-- `Covers/front-chatgpt-image-prompt.md`
-- `Covers/back-chatgpt-image-prompt.md`
+- `chapter-01-continuity-audit.md`
+- `chapter-01-generation-checklist.md`
+- canonical character references used by Chapter 1
+- `characters.md`
+- `Comics/style-guide.md`
+
+Chapter 1 contains exactly **18 story pages**. No `page-019-chatgpt-image-prompt.md` exists.
+
+## Production Content Baseline
+
+Approved story/page-prompt content was merged to `main` at:
+
+`99b4ba51b1f321db0cf57b6464ec6c5279fa43d3`
+
+Subsequent commits refresh QA documentation only; they do not alter the locked story or page-prompt content.
 
 ## Independent Verification Matrix
 
-| Area | Required comparison | Result |
+| Area | Result | Verified state |
 |---|---|---|
-| Story causality | Read prose from move-in through final TV message without using audit claims | PASS - Every scene has a visible cause, rational response, physical bridge, and aftermath. |
-| Dialogue | Compare each page line to prose meaning, speaker, trigger, and voice | PASS - Replies answer prior speech/action; Nari and Hyun-woo retain distinct adult voices. |
-| Supernatural rules | Compare README, characters, style guide, prose, all prompts, and checklist | PASS - Ordinary supply, supernatural current, lamp, phone, batteries, flicker, disconnected-device, darkness, and return rules agree. |
-| Timeline | Compare time cards, prose timestamps, elapsed cooking interval, and page order | PASS - Page 3 uses `ONE WEEK LATER` and `THAT NIGHT`; Page 5 uses `LATER THAT NIGHT - 1:17 A.M.` and `THE NEXT MORNING`; outage begins 12:43 A.M.; kitchen discovery occurs 12:56 A.M.; exact power-return time remains unspecified. |
-| Character behavior | Verify Nari investigates/contact/checks/security/food; Hyun-woo/Mrs. Na/Seungjae remain in role | PASS - All required rational actions and character boundaries are present. |
-| Object continuity | Compare every recurring prop against prose and all prompt positions/states | PASS - Page 6 Panel 9 visibly returns the binder before Page 7; only the sheathed practical knife is purchased while the guarded fruit knife stays in Unit 2407; all other tracked objects remain traceable. |
-| Environment | Compare Unit 2407 geometry/palette/appliance locks on all files | PASS - Geometry, colors, power states, common-area backup, and appliance bodies remain fixed. |
-| Device actors | Verify clean cyan Hyun-woo versus broken hostile signature in every occurrence | PASS - Evidence corruption/final confirmation are hostile; clean messages/warnings are Hyun-woo. |
-| Power return | Verify Unit remains dark through final dialogue and Hyun-woo is absent after unit power-on | PASS - City returns first; Unit remains dark; the next beat after unit power shows empty space. |
-| Visual lock | Confirm every generation prompt and cover/support prompt enforces matte flat 2D and full avoid list | PASS - All use 100% flat 2D human-drawn colored manga/manhwa and reject glossy, cinematic, semi-photoreal, 3D/CG, painterly, reflective, and over-rendered output. |
-| Page/file counts | Verify contiguous 001-018 files, declared 18 pages, panel counts, PNG/WebP names | PASS - 18 contiguous prompts; panel counts are `6, 9, 7, 7, 7, 9, 6, 6, 5, 6, 4, 6, 5, 8, 9, 6, 8, 6`; every declaration equals its script; outputs map 1-18. |
-| Spoiler control | Verify no Chapter 1 prompt reveals origin, culprit, restoration, memory-transfer climax, or sacrifice | PASS - Chapter 1 reveals only a distinct hostile screen actor and Hyun-woo's limited warning. |
-| Stale claims | Search old 14-page, seven-minute, 12:50, unsupported outage-end timestamp, two-knife purchase, dangerous elevator-jealousy, phone-blocking, white-center, old noodle, under-skin, and false-pass wording | PASS - No stale conflicting assertion remains; retained old wording appears only where explicitly listed as a rejection condition. |
+| Page sequence | PASS | Exactly `001` through `018`, contiguous; no Page 019. |
+| Master/story sync | PASS | `chapter.md` is synchronized to the locked Page 1–18 story/dialogue. |
+| Dialogue | PASS | Reader-facing dialogue is connected, adult, understandable, and matches the approved page-by-page locks. |
+| SFX / narration | PASS | SFX sources and large time captions are explicitly defined where required. |
+| Panel counts | PASS | `6, 9, 7, 7, 7, 9, 6, 6, 5, 6, 4, 6, 5, 8, 8, 8, 8, 6`. |
+| Character references | PASS | Approved canonical PNGs for Nari, Mrs. Na, Seungjae, and Hyun-woo are present on `main`. |
+| Character identity locks | PASS | Every page that visually shows a recurring character specifies the required canonical reference(s). |
+| Page 8 geography | PASS | Exterior canopy -> same ground-floor lobby -> elevator bank; Nari goes upstairs alone; Seungjae exits; no car-key beat. |
+| Page 9 screen rule | PASS | Nari deliberately leaves phone screen dark and tests only flashlight/radio. |
+| Page 10–12 spatial lock | PASS | Canonical Hyun-woo is seated at the dining table, not the sink/counter; same chair/table/pot/candle geometry carries through reveal and interrogation. |
+| Page 13–15 movement | PASS | Chair push -> rise -> cross -> protective block; candle/knife/wrist sequence is ordered; city returns before Unit 2407; disappearance process is not shown. |
+| Page 16 evidence chain | PASS | Door/latch -> entry history -> camera loss -> security -> Mrs. Na voicemail -> same closed cabinet chimes. |
+| Page 17 object route | PASS | Same speaker/storage stockpot/towels/lid; phone set on counter; practical knife floor -> desk sheath; food checked before eating. |
+| Page 18 ending | PASS | Hyun-woo voice-only; `I CAN'T PROMISE I'M NOT.`; notebook physically retrieved; cautious apartment-power hypothesis; hostile unplugged TV ends on `NEW TENANT CONFIRMED`. |
+| Object continuity | PASS | Key, binder, two knives, six-noodle inventory, speaker-storage stockpot vs noodle pot, candle, chair, phone, notebook, TV and refrigerator all have traceable states. |
+| Actor signatures | PASS | Hyun-woo/helpful presentation remains clean; hostile presentation remains broken-white/black-pixel corruption. |
+| Power rules | PASS | Apartment power, city return, hallway-light rule, no-screen outage behavior, candle exception, physical Hyun-woo, borrowed speaker power, and disappearance trigger agree. |
+| Visual style | PASS | Flat 2D human-drawn matte manga/manhwa style is explicitly locked; glossy/cinematic/photoreal/3D/painterly/reflective treatments are rejected. |
+| Reader-facing production numbers | PASS | Current prompts explicitly prohibit rendering production panel numbers. |
+| Brand/text contamination | PASS | Page prompts guard against extra brands, logos, advertising, fake slogans, random promotional Korean text, and unscripted copy. |
+| Spoiler boundary | PASS | Chapter 1 does not reveal hostile-system origin, Hyun-woo origin/accident, future restoration, memory-cost, culprit, sacrifice, or climax. |
 
-## Verified Production State
+## Removed / Obsolete Material Confirmed Absent From Current Production Script
 
-- Structural validation: PASS.
-- Story/content anchor validation: PASS.
-- Canon/metadata/cover validation: PASS.
-- Markdown whitespace and patch validation: PASS.
-- AppleDouble and generated-image artifact scan: PASS; no such files remain.
-- Final correction regression: PASS; all six verified issues are corrected in prompts, canon, continuity audit, and generation checklist.
-- Visual hard lock: 100% flat 2D human-drawn colored manga/manhwa, matte cel colors, clean ink, and controlled hard-edged shading. No glossy, cinematic, photorealistic/semi-photorealistic, 3D/CG, painterly, reflective, bloom, rim-light, lens-flare, volumetric, gradient, wet/shiny, or over-rendered treatment.
+The current production package does not use these superseded reader-facing beats:
 
-No images were generated during this audit. The Markdown story and prompt package is ready for the later image-generation stage.
+- `OUR APARTMENT`
+- `RECORD CORRUPTED`
+- toaster crumbs forming `TENANT.`
+- Page 8 `TOO MANY DEVICES` / car-key exchange
+- Page 9 phone activation during outage
+- Page 11 fruit-knife joke
+- Page 12 `haunting my noodles` exchange
+- Page 15 cheap-rent / `THROUGH THE DOOR?` banter
+
+Where old wording is mentioned in an `AVOID`/rejection rule, it is intentionally present only as a guard against regeneration drift.
+
+## Locked Panel Counts
+
+| Page | Panels |
+|---:|---:|
+| 1 | 6 |
+| 2 | 9 |
+| 3 | 7 |
+| 4 | 7 |
+| 5 | 7 |
+| 6 | 9 |
+| 7 | 6 |
+| 8 | 6 |
+| 9 | 5 |
+| 10 | 6 |
+| 11 | 4 |
+| 12 | 6 |
+| 13 | 5 |
+| 14 | 8 |
+| 15 | 8 |
+| 16 | 8 |
+| 17 | 8 |
+| 18 | 6 |
+
+## Final Generation Guard
+
+The story/prompt package is ready for generation **only under strict sequential approval**:
+
+1. Generate one page at a time, Page 1 through Page 18.
+2. Use the current page prompt from `main`.
+3. Attach only the canonical recurring-character PNGs required by that page.
+4. For Page 2 onward, use only the immediately previous **approved** interior page as continuity reference when required.
+5. Never use rejected/provisional/drifted artwork downstream.
+6. After generation, verify exact panel count, canonical character identity, environment geometry, object positions/states, power state, exact reader-facing text, SFX source, device signature, and flat-matte style.
+7. If any guard fails, reject/regenerate that page before continuing.
+8. After Page 18, perform one final visual 1->18 continuity audit before declaring the rendered chapter complete.
+
+## Final Result
+
+**PASS — Chapter 1's 18-page Markdown story/prompt package is cleared for strict sequential image generation.**
+
+This PASS applies to the production instructions and continuity package. It does **not** pre-approve future generated images. Every rendered page must still pass the post-generation guard before it may become the continuity reference for the next page.
