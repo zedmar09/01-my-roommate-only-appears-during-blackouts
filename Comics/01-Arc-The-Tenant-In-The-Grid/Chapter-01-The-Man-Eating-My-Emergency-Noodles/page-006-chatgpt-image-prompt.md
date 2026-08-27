@@ -14,6 +14,13 @@ The only creative freedom is the visual drawing/composition explicitly left open
 Do not output a rewritten prompt, analysis, explanation, plan, summary, or production notes instead of the image.
 Stop after this one page. Do not generate Page 7.
 
+READER-FACING TEXT LOCK — ABSOLUTE
+All reader-facing text in this page prompt is FINAL and must be reproduced VERBATIM.
+This includes dialogue, SFX, device/screen text, printed object text, handwriting, messages, interface labels, timestamps, and any other explicitly scripted readable text.
+Do NOT rewrite, paraphrase, shorten, expand, correct, translate, summarize, merge, split, substitute, reorder, duplicate, omit, or invent reader-facing text.
+Preserve exact spelling, punctuation, capitalization, numbers, wording, speaker/source attribution, text type, and panel assignment.
+If exact scripted text cannot be rendered correctly, the page is NOT approved. Never replace it with approximate text.
+
 IMPORTANT REFERENCES
 Use `../../../characters.md` and `../../style-guide.md`; directly continue approved Page 5.
 
@@ -38,7 +45,21 @@ CHARACTER CONSISTENCY
 Nari is the SAME approved canonical competent 30-year-old adult, alert and testing reproducibility rather than panicking randomly. Do not reinterpret her face or hair from text.
 
 SETTING AND PROP CONTINUITY
-The physical paper still shows Nari's `WHO ARE YOU?` and the different handwriting `NOT THE ONE YOU SHOULD BE AFRAID OF.` Photo 1 and Photo 2 both show the same counter but omit the paper/writing while the physical evidence remains beneath the phone. Tablet freezes after Nari types. Binder contains mundane circuit pages, south-wall diagram, missing Section 17 page, and one handwritten mains-light note. Phone later shows two unanswered calls and one text exchange with Mrs. Na while the open binder stays beside Nari. After the exchange, she closes the binder and physically returns it to the kitchen counter.
+The physical paper is the SAME paper from approved Page 5 Panel 7. It still shows Nari's original question and the different handwritten reply beneath it. Photo 1 and Photo 2 both show the same counter but omit the paper/writing inside the DIGITAL PHOTO RESULT while the real physical evidence remains visibly present in front of Nari. Tablet freezes after Nari types. Binder contains mundane circuit pages, south-wall diagram, missing Section 17 page, and one handwritten mains-light note. Phone later shows two unanswered calls and one text exchange with Mrs. Na while the open binder stays beside Nari. After the exchange, she closes the binder and physically returns it to the kitchen counter.
+
+PHYSICAL NOTE / PHOTO EVIDENCE CONTINUITY LOCK - CRITICAL
+The note shown on Page 6 is NOT a recreated note, replacement note, rewritten note, re-typeset note, or new piece of paper. It is the exact SAME physical paper from approved Page 5 Panel 7.
+Preserve the same paper size, orientation, position near the toaster, handwriting style, approximate letter size, line spacing, and relative placement of both handwritten messages from approved Page 5.
+Nari's original question must retain the exact Page 5 two-line layout in every real-world Page 6 view where it is readable:
+`WHO ARE`
+`YOU?`
+Do NOT collapse `WHO ARE YOU?` into one line on Page 6. Do NOT move `YOU?` back onto the first line.
+The reply `NOT THE ONE YOU SHOULD BE AFRAID OF.` remains the SAME different handwriting already added beneath Nari's question on Page 5. Preserve its approved Page 5 handwriting style, wrapping/line breaks, spacing, and placement; do not rewrite or reflow it merely because the camera angle changes.
+Panels 1 and 2 are two photographic tests of the SAME unchanged physical evidence. Changing camera angle does not change the paper, handwriting, line breaks, wording, spacing, or reply position.
+CRITICAL DIGITAL-VS-PHYSICAL DISTINCTION: the supernatural failure affects only what appears in the PHONE'S CAPTURED PHOTO/PHOTO-RESULT display. The real paper in the physical scene remains present and unchanged before, during, and after both photographs.
+The phone's captured result should show the same counter area but omit the paper/writing. Do not make the real physical note disappear from Nari's actual environment.
+Do not accidentally show one-line `WHO ARE YOU?` on the real note while the approved Page 5 note used two lines.
+If the physical note differs from approved Page 5 in original-question wrapping, handwriting, paper orientation, or reply placement, the page is NOT approved.
 
 OBJECT SCALE AND SPATIAL LOGIC
 Phone/tablet/binder remain ordinary adult scale. Use close-ups for readable evidence; never enlarge the binder or print dense illegible paragraphs.
@@ -59,11 +80,11 @@ PAGE FORMAT AND PACING
 One vertical page with exactly 9 readable panels. Use close-ups for the repeated test and short screen text; keep the final binder-return panel small but unmistakable. Render exactly ONE small circled panel-order number inside every panel: `1` through `9`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, device text, SFX, faces, hands, the note, binder, phone/tablet, or clues.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 - Nari photographs the physical handwritten note. The phone's photo result shows the same counter but no paper/writing; the physical note remains beneath the phone.
+PANEL 1 - Nari photographs the SAME physical handwritten note from approved Page 5. The real note remains physically present and unchanged beside the toaster. Where readable in the real-world portion of the panel, Nari's original question must still appear as the exact two-line handwriting `WHO ARE` / `YOU?`, with the same different handwritten reply beneath it as approved Page 5. The phone's captured photo/photo-result display shows the same counter area but omits the paper/writing.
 SFX: SNAP
 VISIBLE PHYSICAL NOTE: WHO ARE YOU? / NOT THE ONE YOU SHOULD BE AFRAID OF.
 
-PANEL 2 - She changes angle and takes a second photo. Second result is blank again while the physical note remains present.
+PANEL 2 - Nari changes only the camera angle and takes a second photo of the SAME unchanged physical note. The real paper remains in the same place with the same orientation, same `WHO ARE` / `YOU?` two-line original question, and same reply beneath it. The second captured photo/photo-result again omits the paper/writing while the real physical note remains visibly present in the scene.
 SFX: SNAP
 NARI, spoken quietly to herself: IT'S NOT SHOWING UP.
 
@@ -98,12 +119,13 @@ Keep camera and glitch SFX close to devices. No atmospheric glow.
 
 TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `9`. The clean tablet warning uses stable cyan-white lettering. Do not add `RECORD CORRUPTED` or any other hostile explanatory message. Keep manual diagram labels minimal and readable.
+For the real physical Page 5 note visible on Page 6, wording and physical layout are both continuity-locked: Nari's original question remains `WHO ARE` on line 1 and `YOU?` on line 2; the reply preserves the approved Page 5 handwriting layout beneath it.
 
 STORY CLARITY
-The reader must understand two photos fail, the typed digital record disappears during a malfunction, the unknown helpful presence immediately warns Nari not to save this digitally because something else can see it, the manual is incomplete, Mrs. Na refuses a real answer, and Nari returns the binder to the counter before shopping.
+The reader must understand that Nari tests the SAME physical evidence twice: the real handwritten note remains visibly present and unchanged, but each digital photo result omits it. She then tries a typed digital record, receives the clean warning, discovers the manual is incomplete, contacts Mrs. Na, and returns the binder to the counter before shopping.
 
 AVOID
-Avoid Nari identity drift, long black hair, generic replacement face, physical Mrs. Na, obsolete crumb evidence, `RECORD CORRUPTED`, one-photo conclusion, hostile styling on the clean warning, revealed hostile-system name/origin, giant binder, binder left open/on the dining table after Panel 8, binder teleportation, open south panel, glossy screens, cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, and extra text.
+Avoid Nari identity drift, long black hair, generic replacement face, physical Mrs. Na, obsolete crumb evidence, `RECORD CORRUPTED`, one-photo conclusion, hostile styling on the clean warning, revealed hostile-system name/origin, giant binder, binder left open/on the dining table after Panel 8, binder teleportation, open south panel, glossy screens, cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, extra text, replacing/recreating the Page 5 note, changing the physical note's paper orientation, changing the original `WHO ARE` / `YOU?` two-line layout, reflowing the reply, or making the REAL note disappear when only the PHONE PHOTO is supposed to omit it.
 ```
 
 ## Locked Reader-Facing Text
@@ -111,9 +133,9 @@ Avoid Nari identity drift, long black hair, generic replacement face, physical M
 | PanelText | Type / Who hears it | Text |
 | --- | --- | --- |
 | 1 SFX | Nari taking a photo | `SNAP` |
-| 1 Note | Physical handwriting / visible in scene | `WHO ARE YOU?` |
-| 1 Reply | Physical handwriting / visible in scene | `NOT THE ONE YOU SHOULD BE AFRAID OF.` |
-| 2 SFX | Nari taking a second photo | `SNAP` |
+| 1 Note | Same physical Page 5 handwriting; original question visually remains `WHO ARE` / `YOU?` | `WHO ARE YOU?` |
+| 1 Reply | Same physical Page 5 reply; preserve approved handwriting wrapping/placement | `NOT THE ONE YOU SHOULD BE AFRAID OF.` |
+| 2 SFX | Nari taking a second photo of the same unchanged physical note | `SNAP` |
 | 2 Nari | Spoken quietly to herself | `IT'S NOT SHOWING UP.` |
 | 3 SFX | Tablet malfunctioning | `KZZT` |
 | 4 Tablet | Clean warning from the unknown helpful presence | `DON'T SAVE THIS DIGITALLY.` |
@@ -138,7 +160,7 @@ Render one small circled number inside each panel in reading order: `1` through 
 For a fresh generation, attach only:
 1. `Character-References/nari-canonical-flat2d.png`
 2. this current `page-006-chatgpt-image-prompt.md`
-3. approved Page 5 only if needed for apartment, note, and prop continuity
+3. the APPROVED Page 5 image as a MANDATORY apartment + physical-note continuity reference
 
 For a targeted correction of an otherwise correct Page 6, use the current near-pass Page 6 image as the edit target together with this `.md`; preserve all correct panels/text/characters and change only the explicitly identified defects.
 
