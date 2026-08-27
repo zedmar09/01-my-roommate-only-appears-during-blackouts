@@ -23,7 +23,7 @@ LIGHTING AND EXPOSURE LOCK
 Night uses medium-bright neutral powered baseline. At 1:17 A.M. the hallway lamp gives one brief restrained electrical flicker. Morning returns to the same neutral baseline, not brighter cinematic grading.
 
 POWER AND SUPERNATURAL RULE LOCK
-At 1:17 A.M., during one brief mains flicker, the unknown helpful presence can move the lightweight pen Nari deliberately leaves beside her handwritten note. The pen writes a short physical warning on the paper. No body manifests. No hostile black pixels appear. The writing is a physical handwritten addition, not screen text.
+At 1:17 A.M., during one brief mains flicker, the unknown helpful presence can move the lightweight pen Nari deliberately leaves beside her handwritten note. The pen writes a short physical reply on the paper. No body manifests. No hostile black pixels appear. The writing is a physical handwritten addition, not screen text.
 
 CHARACTER CONSISTENCY
 Nari is the SAME approved canonical adult home design. During sleep she is off-panel or shown naturally asleep; do not invent a dream/flashback or alter her face/hair identity.
@@ -74,7 +74,7 @@ NARI, spoken quietly to herself: WHAT THE...
 
 PANEL 7 - Close-up of the same physical paper. Nari's original handwriting remains visible at the top. A clearly different handwritten line now appears beneath it. The pen lies beside the paper where it stopped.
 ORIGINAL NOTE: WHO ARE YOU?
-NEW HANDWRITTEN REPLY: KEEP THE LIGHT ON.
+NEW HANDWRITTEN REPLY: NOT THE ONE YOU SHOULD BE AFRAID OF.
 
 SFX AND TEXT BLENDING
 Keep object sounds small and source-aligned. `SCRATCH... SCRATCH...` must clearly come from the pen touching the paper. Time captions are intentionally prominent and must not be treated as decorative microtext.
@@ -83,7 +83,7 @@ TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing text listed below. The reply is ordinary physical handwriting on paper, visually distinct from Nari's handwriting. Do not render it as glowing text, a speech bubble, digital typography, or hostile broken glyphs. Do not print production labels such as `NOTE`, `ORIGINAL NOTE`, `NEW HANDWRITTEN REPLY`, `NARI`, or `SFX` in the artwork.
 
 STORY CLARITY
-The reader must understand: Nari hides the unplugged speaker and prepares defensively; she leaves a handwritten question and pen as a low-tech test; at exactly 1:17 A.M. a brief electrical flicker coincides with the pen moving by itself; the next morning she finds a physical handwritten warning telling her to keep the light on. The unknown presence still refuses to identify itself.
+The reader must understand: Nari hides the unplugged speaker and prepares defensively; she leaves a handwritten question and pen as a low-tech test; at exactly 1:17 A.M. a brief electrical flicker coincides with the pen moving by itself; the next morning she finds a physical handwritten reply that refuses to identify the helpful presence but warns that something else is the real danger.
 
 AVOID
 Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, unguarded knife, moving speaker without showing hands, missing towels/lid, toaster crumbs forming words, crumbs moving across paper, floating ink, invisible hand, physical Hyun-woo, hostile signature, flashback styling, glossy/cinematic effects, reader-facing panel numbers, and extra text.
@@ -103,7 +103,7 @@ Avoid Nari identity drift, long black hair, generic replacement face, tiny/unrea
 | 6 Time | Large narration caption / reader only | `THE NEXT MORNING` |
 | 6 Nari | Spoken quietly to herself | `WHAT THE...` |
 | 7 Note | Nari's original handwritten question | `WHO ARE YOU?` |
-| 7 Reply | New physical handwritten reply / reader and Nari can read it | `KEEP THE LIGHT ON.` |
+| 7 Reply | New physical handwritten reply / reader and Nari can read it | `NOT THE ONE YOU SHOULD BE AFRAID OF.` |
 
 ## Production Thread Use
 
