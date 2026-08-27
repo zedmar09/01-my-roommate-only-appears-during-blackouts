@@ -74,7 +74,7 @@ SPOILER BOUNDARY
 Do not name the hostile system or explain its origin. Establish only that something other than Hyun-woo can use a dead screen and knows Nari's identity.
 
 PAGE FORMAT AND PACING
-One vertical page with 5 panels. Do not add reader-facing production panel numbers.
+One vertical page with exactly 5 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `5`, matching the reading order below. Place each number near the upper-left inside its own panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, SFX, faces, hands, chair movement, refrigerator display, or story clues.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Exact Page 12 continuation. Hyun-woo remains seated in the same locked dining chair. Nari remains in her same approach position with the knife held low. The candle flame bends sharply sideways while staying in its holder. Black pixels begin collecting only at the edge of the dead refrigerator display. Hyun-woo notices it first and immediately becomes serious.
@@ -101,13 +101,13 @@ SFX AND TEXT BLENDING
 Keep `KZZT` source-aligned to the refrigerator display, `SKRRK` source-aligned to the dining chair, and `TIK... TIK...` source-aligned to the dead display typing. Do not move SFX to unrelated objects.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below. Hostile refrigerator text uses only the broken stark-white/black-pixel signature. Dialogue stays in normal speech bubbles. Do not print production labels in the artwork.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `5`. Hostile refrigerator text uses only the broken stark-white/black-pixel signature. Dialogue stays in normal speech bubbles. Do not print production labels in the artwork.
 
 STORY CLARITY
 The reader must understand: the conversation continues in the exact same room setup; Hyun-woo notices the hostile refrigerator first; he physically pushes back his chair, rises, crosses the room without teleporting, and places himself between Nari and the refrigerator; the refrigerator remains electrically dead but its display activates anyway; and the hostile presence knows Nari's full name.
 
 AVOID
-Avoid Nari or Hyun-woo identity drift, changing their clothes, moving Nari beside the refrigerator, relocating Hyun-woo before Panel 2, teleporting Hyun-woo, changing dining chairs, resetting the table, moving pot/trivet/candle, moving the pantry, shifting sink/cooktop position, merging table and kitchen counter, reflective refrigerator imagery, humanoid silhouette, third figure, clean cyan hostile text, refrigerator redesign, glowing veins, glossy/cinematic lighting, extra lore/text, reader-facing panel numbers, and spoilers.
+Avoid Nari or Hyun-woo identity drift, changing their clothes, moving Nari beside the refrigerator, relocating Hyun-woo before Panel 2, teleporting Hyun-woo, changing dining chairs, resetting the table, moving pot/trivet/candle, moving the pantry, shifting sink/cooktop position, merging table and kitchen counter, reflective refrigerator imagery, humanoid silhouette, third figure, clean cyan hostile text, refrigerator redesign, glowing veins, glossy/cinematic lighting, extra lore/text, missing/duplicated/out-of-order/oversized panel numbers, and spoilers.
 ```
 
 ## Locked Reader-Facing Text
@@ -124,6 +124,10 @@ Avoid Nari or Hyun-woo identity drift, changing their clothes, moving Nari besid
 | 4 Hyun-woo | Spoken firmly to Nari | `DON'T LOOK AT THE SCREEN.` |
 | 5 SFX | Dead refrigerator display typing | `TIK... TIK...` |
 | 5 Fridge | Hostile device text / reader and Nari can see it | `YOON NARI` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `5`.
 
 ## Production Thread Use
 
