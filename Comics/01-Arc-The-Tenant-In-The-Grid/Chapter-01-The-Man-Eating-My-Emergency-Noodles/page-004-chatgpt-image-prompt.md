@@ -37,6 +37,13 @@ TIME CAPTION RULE
 Do NOT use a tiny gutter time card.
 Place `TWO NIGHTS LATER` as a LARGE, CLEAR narration caption inside Panel 1 near the upper portion of the panel. It must be immediately noticeable at normal reading size.
 
+NARRATION CAPTION DESIGN
+Narration and time-caption presentation is scene-adaptive, not fixed to one background, color, shape, or placement.
+Blend each narration caption into its actual panel while keeping it clearly readable and visually distinct from dialogue, SFX, device text, and the small circled panel-order number.
+Use whatever restrained flat-2D caption treatment best fits that scene—light, dark, solid, bordered, or another simple high-contrast shape—without changing the exact wording.
+Do NOT force a white caption box when the scene calls for another treatment, and do NOT force every caption on the page to look identical.
+Maintain strong contrast and breathing room; never place narration as unreadable bare text over busy artwork.
+
 DEVICE ACTOR LOCK
 Two different supernatural actors are seeded here:
 1. TV / unknown male actor: clean, stable cool cyan-white text, minimal static, no crawling black pixels.
@@ -107,7 +114,7 @@ The reader must understand this sequence:
 - Nari does not yet understand that there are two actors
 
 AVOID
-Avoid tiny time captions, missing/duplicated/out-of-order/oversized panel numbers, Nari asking who it is before verifying the unplugged TV remains active, `NOT THE FRIDGE`, `OUR APARTMENT`, TV reflections, refrigerator reflections, humanoid silhouettes, physical Hyun-woo, identical visual styling for TV and refrigerator text, changed appliance bodies, glossy screens, cinematic glow, extra dialogue, or spoilers.
+Avoid tiny time captions, rigid one-style-fits-all narration treatment, missing/duplicated/out-of-order/oversized panel numbers, Nari asking who it is before verifying the unplugged TV remains active, `NOT THE FRIDGE`, `OUR APARTMENT`, TV reflections, refrigerator reflections, humanoid silhouettes, physical Hyun-woo, identical visual styling for TV and refrigerator text, changed appliance bodies, glossy screens, cinematic glow, extra dialogue, or spoilers.
 ```
 
 ## Locked Reader-Facing Text
