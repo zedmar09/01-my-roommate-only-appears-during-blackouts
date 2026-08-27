@@ -18,13 +18,13 @@ HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/
 Use 100% flat 2D human-drawn manga/manhwa artwork with visible clean ink, matte cel colors, solid blocking, mature adults, and one hard-edged shadow tone. Apply this flat matte treatment to all people, clothes, walls, floor, door, counter, binder, keys, handbag, lamp, appliances, and background. Absolutely no glossy, cinematic, photoreal, 3D/CG, painterly, airbrushed, reflective, bloom, rim-light, flare, volumetric, gradient, blur, glass-glare, wet, shiny, or over-rendered treatment.
 
 ENVIRONMENT AND APPLIANCE MASTER LOCK
-Preserve Unit 2407's layout and palette: TV/living room left, dining center, kitchen/refrigerator right, hallway behind, matte windows outside; cool-gray walls, eucalyptus cabinets, pale-gray counters/table, medium-gray floor, burgundy chairs. Keep locked refrigerator, TV, speaker, and cooktop designs unchanged and nonreflective.
+Preserve Unit 2407's layout and palette from approved Page 1: TV/living room left, dining center, kitchen/refrigerator right, hallway behind, corner windows with believable Seoul city view; cool-gray walls, eucalyptus cabinets, pale-gray counters/table, medium-gray floor, exactly two burgundy dining chairs. Keep locked refrigerator, TV, speaker, and cooktop designs unchanged and nonreflective.
 
 LIGHTING AND EXPOSURE LOCK
 One medium-bright neutral powered baseline. Hallway lamp is an ordinary mains-powered household lamp, visibly on.
 
 POWER AND SUPERNATURAL RULE LOCK
-Mrs. Na's powered-night rule uses the apartment's mains-powered hallway lamp. Phone screens do not count. No manifestation or supernatural effect occurs on this page.
+Mrs. Na's warning concerns the apartment's own supplied electrical light. A phone or tablet cannot substitute for it. No manifestation or supernatural visual effect occurs on this page.
 
 CHARACTER CONSISTENCY
 Nari is the SAME approved canonical Nari from Page 1. Mrs. Na is the SAME approved canonical Mrs. Na: a Korean woman in her late 60s with silver hair in a tight twist, jade earrings, mauve coat, gloves, analog watch, structured handbag already over one shoulder, binder under one arm, and metal key ring. Do not reinterpret either face from text.
@@ -41,61 +41,111 @@ Nari already has smart-lock access and is opening boxes. Mrs. Na arrives afterwa
 TIME AND SCENE CONTINUITY
 Show doorbell, Nari opening, Mrs. Na crossing the threshold, both walking to the kitchen, then her departure. No teleportation or flashback.
 
-TIME TRANSITION CARD
-Before Panel 1, add one unnumbered quiet full-width gutter containing only: LATER THAT EVENING
+TIME DISPLAY LOCK
+Do NOT use a tiny separate gutter time card. Put `LATER THAT EVENING...` clearly inside the upper portion of Panel 1 as a large, easy-to-read narration caption. It must be visually noticeable at normal page-reading size and larger than ordinary minor captions, while still leaving the doorbell action readable.
 
 SPOILER BOUNDARY
-Mrs. Na is evasive. Do not explain Hyun-woo, the hostile system, the accident, or future rules.
+Mrs. Na gives a clear safety instruction but remains evasive about why. Do not explain Hyun-woo, the hostile system, the accident, or future rules.
 
 PAGE FORMAT AND PACING
-One vertical page with 9 panels; keep dialogue bubbles compact and ordered.
-
-PANEL ORDER NUMBERS
-Add small circled numbers 1-9 in gutters/upper-left, never over text, faces, hands, or props. Do not number the time card.
+One vertical page with exactly 9 clearly separated panels. Do NOT render production panel numbers in the final comic. Keep dialogue bubbles readable, naturally ordered, and large enough for the exact text.
 
 PAGE LAYOUT AND SCRIPT
+
 PANEL 1 - Nari among moving boxes hears the doorbell.
-SFX: DING-DONG.
+NARRATION CAPTION, large and clearly visible: LATER THAT EVENING...
+SFX: DING-DONG
+No dialogue.
 
 PANEL 2 - Nari opens the door. Mrs. Na waits in the corridor with the already-established handbag, binder, and key ring.
-MRS. NA: I BROUGHT THE UNIT GUIDE.
+MRS. NA, spoken aloud to Nari: I BROUGHT THE APARTMENT GUIDE.
 
-PANEL 3 - Nari steps aside; Mrs. Na visibly crosses the threshold. A connecting view leads toward the kitchen.
+PANEL 3 - Nari steps aside; Mrs. Na visibly crosses the threshold. A connecting view leads naturally toward the kitchen.
+No text.
 
 PANEL 4 - At the counter, Mrs. Na lays down the correctly sized binder, detaches the brass key from her ring, then places it beside the binder. Remaining keys stay in her hand.
-SFX: THUMP. CLINK.
-BINDER: UNIT 2407 / ELECTRICAL OPERATION GUIDE
-NARI: A MANUAL FOR THE LIGHTS?
-MRS. NA: FOR THE APARTMENT.
+SFX: THUMP
+SFX: CLINK
+BINDER PRINTED TEXT: UNIT 2407 / ELECTRICAL OPERATION GUIDE
+NARI, spoken aloud to Mrs. Na: THIS PLACE NEEDS A MANUAL?
+MRS. NA, spoken aloud to Nari: IT DOES.
 
-PANEL 5 - Nari jokes; Mrs. Na remains serious.
-NARI: IS THERE A BOSS PHASE?
-MRS. NA: NEVER TURN OFF ALL THE LIGHTS AFTER MIDNIGHT.
+PANEL 5 - Nari asks a practical question. Mrs. Na becomes noticeably serious before giving the one instruction that matters.
+NARI, spoken aloud to Mrs. Na: ANYTHING I ACTUALLY NEED TO KNOW?
+MRS. NA, spoken aloud to Nari: YES. ONE THING.
+MRS. NA, spoken aloud to Nari: AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.
 
-PANEL 6 - Mrs. Na points to the active hallway lamp.
-MRS. NA: KEEP THAT ONE ON. PHONE SCREENS DO NOT COUNT.
-NARI: WHY? WHAT HAPPENS IF I DO?
+PANEL 6 - Mrs. Na points specifically to the active hallway lamp. Nari follows her gesture.
+MRS. NA, spoken aloud to Nari: THE LIGHT HAS TO COME FROM THE APARTMENT ITSELF.
+MRS. NA, spoken aloud to Nari: DON'T TRY TO REPLACE IT WITH A PHONE OR TABLET.
+NARI, spoken aloud to Mrs. Na: WHY? WHAT HAPPENS IF IT GOES OUT?
 
-PANEL 7 - Mrs. Na checks her analog watch when Nari asks the practical follow-up.
-NARI: WHAT IF THE BUILDING LOSES POWER?
-MRS. NA: THEN DO NOT TURN ON A SCREEN. CALL ME WHEN POWER RETURNS.
+PANEL 7 - Mrs. Na checks her analog watch. She avoids the reason, so Nari asks the obvious practical follow-up.
+MRS. NA, spoken aloud to Nari: JUST KEEP IT ON.
+NARI, spoken aloud to Mrs. Na: WHAT IF THE WHOLE BUILDING LOSES POWER?
+MRS. NA, spoken aloud to Nari: THEN DON'T TURN ON A SCREEN.
+MRS. NA, spoken aloud to Nari: WAIT FOR THE POWER TO COME BACK, THEN CALL ME.
 
-PANEL 8 - At the doorway Mrs. Na leaves with handbag and remaining key ring. Nari watches her cross into the corridor.
-MRS. NA: GOOD NIGHT, MS. YOON.
-NARI: THAT WAS NOT REASSURING.
+PANEL 8 - At the doorway, Mrs. Na leaves with her handbag and remaining key ring. Nari watches her cross into the corridor. The exchange should feel unresolved rather than comedic.
+NARI, spoken aloud to Mrs. Na: YOU'RE NOT GOING TO TELL ME WHY.
+MRS. NA, spoken aloud to Nari: NOT TONIGHT.
+MRS. NA, spoken aloud to Nari: GOOD NIGHT, MS. YOON.
+NARI, spoken aloud to Mrs. Na: THAT'S NOT VERY COMFORTING.
 
-PANEL 9 - After the door closes, Nari carries the brass key from kitchen counter to entry shelf and places it in the shallow tray. Wide angle keeps binder visibly on kitchen counter.
-SFX: CLINK.
+PANEL 9 - After the door closes, Nari carries the brass backup key from the kitchen counter to the entry shelf and places it in the shallow tray. Wide angle keeps the electrical binder visibly on the kitchen counter.
+SFX: CLINK
+No dialogue.
 
 SFX AND TEXT BLENDING
-Keep listed SFX small and source-aligned. No decorative effects in the time card.
+Keep SFX source-aligned and easy to read. The Panel 1 time caption must be clearly noticeable and must not be reduced to tiny decorative text.
 
 TEXT AND LETTERING RULES
-Use only exact uppercase text. Keep bubble order obvious. Do not print measurements, extra warnings, or generated fine print.
+Use only the exact uppercase reader-facing text listed below. Dialogue is spoken aloud unless explicitly marked otherwise. Keep bubble order obvious. Do not print production labels such as `NARRATION`, `SFX`, `MRS. NA`, or `NARI` in the artwork. Do not add measurements, extra warnings, fine print, or additional dialogue.
 
 STORY CLARITY
-The reader must understand Mrs. Na arrived after move-in, gave a detached backup key, defined mains light versus phone screen, refused to explain, and physically left.
+The reader must understand: time has advanced to later that evening; Mrs. Na arrives after Nari's move-in; she gives Nari the apartment guide and detached brass backup key; she warns Nari not to let the hallway go dark after midnight; that protective light must come from the apartment itself and cannot be replaced with a phone/tablet; if the whole building loses power Nari must keep screens off and wait for power to return; Mrs. Na refuses to explain why and physically leaves.
 
 AVOID
-Avoid Nari or Mrs. Na identity drift, a spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, supernatural reveal, glossy/cinematic effects, reflections, extra text, and flashback styling.
+Avoid Nari or Mrs. Na identity drift, spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, tiny/unreadable time caption, supernatural reveal, glossy/cinematic effects, reflections, extra text, panel numbers, and flashback styling.
 ```
+
+## Locked Reader-Facing Text
+
+| PanelText | Type / Who hears it | Text |
+| --- | --- | --- |
+| 1 Time | Narration / reader only | `LATER THAT EVENING...` |
+| 1 SFX | Sound in scene | `DING-DONG` |
+| 2 Mrs. Na | Spoken aloud to Nari | `I BROUGHT THE APARTMENT GUIDE.` |
+| 3 | No text | — |
+| 4 SFX | Sound in scene | `THUMP` |
+| 4 SFX | Sound in scene | `CLINK` |
+| 4 Binder | Printed object text / readable in scene | `UNIT 2407 / ELECTRICAL OPERATION GUIDE` |
+| 4 Nari | Spoken aloud to Mrs. Na | `THIS PLACE NEEDS A MANUAL?` |
+| 4 Mrs. Na | Spoken aloud to Nari | `IT DOES.` |
+| 5 Nari | Spoken aloud to Mrs. Na | `ANYTHING I ACTUALLY NEED TO KNOW?` |
+| 5 Mrs. Na | Spoken aloud to Nari | `YES. ONE THING.` |
+| 5 Mrs. Na | Spoken aloud to Nari | `AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.` |
+| 6 Mrs. Na | Spoken aloud to Nari | `THE LIGHT HAS TO COME FROM THE APARTMENT ITSELF.` |
+| 6 Mrs. Na | Spoken aloud to Nari | `DON'T TRY TO REPLACE IT WITH A PHONE OR TABLET.` |
+| 6 Nari | Spoken aloud to Mrs. Na | `WHY? WHAT HAPPENS IF IT GOES OUT?` |
+| 7 Mrs. Na | Spoken aloud to Nari | `JUST KEEP IT ON.` |
+| 7 Nari | Spoken aloud to Mrs. Na | `WHAT IF THE WHOLE BUILDING LOSES POWER?` |
+| 7 Mrs. Na | Spoken aloud to Nari | `THEN DON'T TURN ON A SCREEN.` |
+| 7 Mrs. Na | Spoken aloud to Nari | `WAIT FOR THE POWER TO COME BACK, THEN CALL ME.` |
+| 8 Nari | Spoken aloud to Mrs. Na | `YOU'RE NOT GOING TO TELL ME WHY.` |
+| 8 Mrs. Na | Spoken aloud to Nari | `NOT TONIGHT.` |
+| 8 Mrs. Na | Spoken aloud to Nari | `GOOD NIGHT, MS. YOON.` |
+| 8 Nari | Spoken aloud to Mrs. Na | `THAT'S NOT VERY COMFORTING.` |
+| 9 SFX | Sound in scene | `CLINK` |
+
+## Production Thread Use
+
+For a fresh generation, attach only:
+1. `Character-References/nari-canonical-flat2d.png`
+2. `Character-References/mrs-na-canonical-flat2d.png`
+3. this current `page-002-chatgpt-image-prompt.md`
+4. approved Page 1 only if needed for apartment continuity
+
+For a targeted correction of an otherwise correct Page 2, use the current near-pass Page 2 image as the edit target together with this `.md`; preserve all correct panels/text/characters and change only the explicitly identified defects.
+
+Never use an older rejected Page 2, the legacy cover, or an unrelated page as continuity authority.
