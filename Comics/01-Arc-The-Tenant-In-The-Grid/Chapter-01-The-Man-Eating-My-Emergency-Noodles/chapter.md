@@ -8,7 +8,7 @@ Chapter 1 uses colored flat 2D human-drawn modern manga/manhwa artwork. Everythi
 
 This revised `chapter.md` is the current Chapter 1 story and dialogue authority.
 
-`page-001-chatgpt-image-prompt.md`, `page-002-chatgpt-image-prompt.md`, and `page-003-chatgpt-image-prompt.md` are now synchronized to the current approved Page 1, Page 2, and Page 3 reader-facing text. `page-004-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md` still require synchronization during the later page-by-page script, dialogue, SFX, and image-continuity pass. Until each remaining page is synchronized, this chapter remains the dialogue authority.
+`page-001-chatgpt-image-prompt.md`, `page-002-chatgpt-image-prompt.md`, `page-003-chatgpt-image-prompt.md`, and `page-004-chatgpt-image-prompt.md` are now synchronized to the current approved Page 1 through Page 4 reader-facing text. `page-005-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md` still require synchronization during the later page-by-page script, dialogue, SFX, and image-continuity pass. Until each remaining page is synchronized, this chapter remains the dialogue authority.
 
 Cover files are outside this revision scope.
 
@@ -182,18 +182,12 @@ After a few seconds, she backed toward the entry shelf and picked up the brass k
 The television changed.
 
 ```text
-NOT THE FRIDGE
+DON'T LOOK AT THE FRIDGE.
 ```
 
 Nari stared at it.
 
-"Not helpful. Get out."
-
-A short pause.
-
-```text
-OUR APARTMENT
-```
+"What does that mean?"
 
 Every electric light in Unit 2407 blinked once.
 
@@ -286,7 +280,7 @@ Eighteen.
 
 Section seventeen had been removed cleanly from the binding.
 
-Beside the south-wall diagram, someone had written a warning in faded ink.
+Beside the south-wall diagram, someone had written a warning in faded ink:
 
 ```text
 KEEP ONE MAINS-POWERED LIGHT ON AFTER MIDNIGHT.
