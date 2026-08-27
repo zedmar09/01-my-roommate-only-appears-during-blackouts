@@ -47,9 +47,16 @@ Nari is the SAME approved canonical competent 30-year-old adult, alert and testi
 SETTING AND PROP CONTINUITY
 The physical paper is the SAME paper from approved Page 5 Panel 7. It still shows Nari's original question and the different handwritten reply beneath it. Photo 1 and Photo 2 both show the same counter but omit the paper/writing inside the DIGITAL PHOTO RESULT while the real physical evidence remains visibly present in front of Nari. Tablet freezes after Nari types. Binder contains mundane circuit pages, south-wall diagram, missing Section 17 page, and one handwritten mains-light note. Phone later shows two unanswered calls and one text exchange with Mrs. Na while the open binder stays beside Nari. After the exchange, she closes the binder and physically returns it to the kitchen counter.
 
+APPROVED PAGE 5 NOTE DESIGN LOCK - ABSOLUTE
+Approved Page 5 Panel 7 is the visual authority for the handwritten paper object. Page 6 Panels 1 and 2 must reproduce that same paper design, not merely the same words.
+Match the Page 5 paper's visible size, aspect ratio, color, corner shape, edge angle, flat matte paper fill, ink placement, handwriting scale, distance from the toaster, distance from the stopped pen, counter position, and small cast shadow as closely as the new camera angle allows.
+Do not replace it with a different note design: no sticky note, index card, notebook sheet, clipboard paper, receipt, lined paper, torn scrap, folded letter, crumpled sheet, new white rectangle, enlarged prop note, or cleaner re-typeset evidence card.
+The Page 6 note may be viewed from a new angle, but the object must still read as the exact Page 5 paper continuing in place.
+If the approved Page 5 image is not attached or the Page 5 Panel 7 note is not visible enough to match, do not invent a new paper design; the Page 6 generation is NOT approved.
+
 PHYSICAL NOTE / PHOTO EVIDENCE CONTINUITY LOCK - CRITICAL
 The note shown on Page 6 is NOT a recreated note, replacement note, rewritten note, re-typeset note, or new piece of paper. It is the exact SAME physical paper from approved Page 5 Panel 7.
-Preserve the same paper size, orientation, position near the toaster, handwriting style, approximate letter size, line spacing, and relative placement of both handwritten messages from approved Page 5.
+Preserve the same paper design, size, orientation, position near the toaster, relationship to the pen, handwriting style, approximate letter size, line spacing, and relative placement of both handwritten messages from approved Page 5.
 Nari's original question must retain the exact Page 5 two-line layout in every real-world Page 6 view where it is readable:
 `WHO ARE`
 `YOU?`
@@ -80,11 +87,11 @@ PAGE FORMAT AND PACING
 One vertical page with exactly 9 readable panels. Use close-ups for the repeated test and short screen text; keep the final binder-return panel small but unmistakable. Render exactly ONE small circled panel-order number inside every panel: `1` through `9`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, device text, SFX, faces, hands, the note, binder, phone/tablet, or clues.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 - Nari photographs the SAME physical handwritten note from approved Page 5. The real note remains physically present and unchanged beside the toaster. Where readable in the real-world portion of the panel, Nari's original question must still appear as the exact two-line handwriting `WHO ARE` / `YOU?`, with the same different handwritten reply beneath it as approved Page 5. The phone's captured photo/photo-result display shows the same counter area but omits the paper/writing.
+PANEL 1 - Nari photographs the SAME physical handwritten note from approved Page 5. The real note remains physically present and unchanged beside the toaster, with the same paper design, scale, orientation, corner shape, edge angle, flat matte color, pen relationship, counter position, and cast shadow from approved Page 5 Panel 7. Where readable in the real-world portion of the panel, Nari's original question must still appear as the exact two-line handwriting `WHO ARE` / `YOU?`, with the same different handwritten reply beneath it as approved Page 5. The phone's captured photo/photo-result display shows the same counter area but omits the paper/writing.
 SFX: SNAP
-VISIBLE PHYSICAL NOTE: WHO ARE YOU? / NOT THE ONE YOU SHOULD BE AFRAID OF.
+Do not print any production label for the note. The only readable handwriting on the real physical note is the locked original question and reply listed below; the original question remains visually split as `WHO ARE` / `YOU?`, with the reply beneath it.
 
-PANEL 2 - Nari changes only the camera angle and takes a second photo of the SAME unchanged physical note. The real paper remains in the same place with the same orientation, same `WHO ARE` / `YOU?` two-line original question, and same reply beneath it. The second captured photo/photo-result again omits the paper/writing while the real physical note remains visibly present in the scene.
+PANEL 2 - Nari changes only the camera angle and takes a second photo of the SAME unchanged physical note. The real paper remains in the same place with the same Page 5 paper design, same orientation, same relationship to the toaster and pen, same `WHO ARE` / `YOU?` two-line original question, and same reply beneath it. The second captured photo/photo-result again omits the paper/writing while the real physical note remains visibly present in the scene.
 SFX: SNAP
 NARI, spoken quietly to herself: IT'S NOT SHOWING UP.
 
@@ -119,13 +126,13 @@ Keep camera and glitch SFX close to devices. No atmospheric glow.
 
 TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `9`. The clean tablet warning uses stable cyan-white lettering. Do not add `RECORD CORRUPTED` or any other hostile explanatory message. Keep manual diagram labels minimal and readable.
-For the real physical Page 5 note visible on Page 6, wording and physical layout are both continuity-locked: Nari's original question remains `WHO ARE` on line 1 and `YOU?` on line 2; the reply preserves the approved Page 5 handwriting layout beneath it.
+For the real physical Page 5 note visible on Page 6, wording, physical layout, and paper-object design are all continuity-locked: Nari's original question remains `WHO ARE` on line 1 and `YOU?` on line 2; the reply preserves the approved Page 5 handwriting layout beneath it; the paper itself preserves the approved Page 5 size, shape, color, orientation, counter placement, and pen/toaster relationship.
 
 STORY CLARITY
 The reader must understand that Nari tests the SAME physical evidence twice: the real handwritten note remains visibly present and unchanged, but each digital photo result omits it. She then tries a typed digital record, receives the clean warning, discovers the manual is incomplete, contacts Mrs. Na, and returns the binder to the counter before shopping.
 
 AVOID
-Avoid Nari identity drift, long black hair, generic replacement face, physical Mrs. Na, obsolete crumb evidence, `RECORD CORRUPTED`, one-photo conclusion, hostile styling on the clean warning, revealed hostile-system name/origin, giant binder, binder left open/on the dining table after Panel 8, binder teleportation, open south panel, glossy screens, cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, extra text, replacing/recreating the Page 5 note, changing the physical note's paper orientation, changing the original `WHO ARE` / `YOU?` two-line layout, reflowing the reply, or making the REAL note disappear when only the PHONE PHOTO is supposed to omit it.
+Avoid Nari identity drift, long black hair, generic replacement face, physical Mrs. Na, obsolete crumb evidence, `RECORD CORRUPTED`, one-photo conclusion, hostile styling on the clean warning, revealed hostile-system name/origin, giant binder, binder left open/on the dining table after Panel 8, binder teleportation, open south panel, glossy screens, cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, extra text, replacing/recreating the Page 5 note, changing the physical note's paper design/size/shape/color/corners, changing the physical note's paper orientation, changing the note's counter placement or pen/toaster relationship, changing the original `WHO ARE` / `YOU?` two-line layout, reflowing the reply, or making the REAL note disappear when only the PHONE PHOTO is supposed to omit it.
 ```
 
 ## Locked Reader-Facing Text

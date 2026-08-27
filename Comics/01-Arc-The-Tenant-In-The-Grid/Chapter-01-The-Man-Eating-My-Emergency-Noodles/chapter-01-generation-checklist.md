@@ -239,6 +239,7 @@ Reject:
 Critical object paths:
 
 - brass backup key → entry tray
+- Page 5 handwritten paper/pen evidence beside toaster → same physical paper design and position in Page 6 photo tests
 - electrical binder → kitchen counter after Page 6
 - guarded fruit knife → under sofa cushion
 - practical knife → desk sheath → drawn Page 10 → floor Page 14–16 → re-sheathed at desk Page 17–18
@@ -263,6 +264,14 @@ Critical object paths:
 - Panel 4: `THIS PLACE NEEDS A MANUAL?` belongs only to Nari; `IT DOES.` belongs only to Mrs. Na. Their bubble tails must point only to their respective speakers and must not cross.
 - Panel 5 reading order is locked: Nari `ANYTHING I ACTUALLY NEED TO KNOW?` → Mrs. Na `YES. ONE THING.` → Mrs. Na `AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.`
 - Page 2 Panels 4–8 must never leave the reader guessing whether Nari or Mrs. Na is speaking.
+
+### Pages 5–6 Handwritten Evidence
+- Page 5 Panel 3 and Panel 7 must show the same physical paper and the same original `WHO ARE` / `YOU?` two-line handwriting layout.
+- Page 5 Panel 7 becomes the visual authority for the note object: paper size, aspect ratio, color, corners, edge angle, counter placement, pen relationship, toaster relationship, and flat matte paper treatment.
+- Page 6 Panels 1–2 must continue that exact same paper object. A new generic note design, sticky note, index card, lined sheet, receipt, notebook page, torn scrap, enlarged prop note, or cleaner re-typeset evidence card is an automatic reject.
+- In Page 6, the real physical note remains visible and unchanged; only the phone's captured photo/result omits the paper/writing.
+- Page 6 must not collapse the real note's `WHO ARE` / `YOU?` layout into one line, reflow the reply, move the note, redesign the note, or make the real note disappear.
+- Fresh Page 6 generation requires the approved Page 5 image as a continuity reference. Without approved Page 5, Page 6 is not ready for production generation.
 
 ### Pages 10–12
 - Hyun-woo is at the dining table, never the sink/counter.
