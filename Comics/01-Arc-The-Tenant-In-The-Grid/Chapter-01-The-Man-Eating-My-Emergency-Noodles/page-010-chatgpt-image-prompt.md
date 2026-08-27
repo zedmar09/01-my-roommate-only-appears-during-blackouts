@@ -76,6 +76,14 @@ Panel 1 must contain the LARGE, HIGH-CONTRAST, immediately noticeable narration 
 `12:56 A.M. — THIRTEEN MINUTES INTO THE BLACKOUT`
 Do not reduce it to tiny decorative text.
 
+NARRATION CAPTION DESIGN
+Narration and time-caption presentation is scene-adaptive, not fixed to one background, color, shape, or placement.
+Blend each narration caption into its actual blackout panel while keeping it clearly readable and visually distinct from dialogue, SFX, the candlelight, and the small circled panel-order number.
+Use whatever restrained flat-2D caption treatment best fits that specific composition—light, dark, solid, bordered, or another simple high-contrast shape—without changing the exact wording.
+The treatment may differ between the dark desk, hallway approach, and candlelit dining reveal as needed for readability and mood.
+Do NOT force a white caption box when the scene calls for another treatment, and do NOT force every narration caption on the page to look identical.
+Maintain strong contrast and breathing room; never place narration as unreadable bare text over busy or very dark artwork.
+
 SPOILER BOUNDARY
 Do not reveal Hyun-woo's face, readable mask construction, tattoos, name, or detailed identity on Page 10. His canonical reference is used for consistency, not for an early reveal.
 
@@ -103,16 +111,16 @@ SFX: SLURP
 NARI: DON'T MOVE. I HAVE A KNIFE.
 
 SFX AND TEXT BLENDING
-Keep `SLURP` source-aligned to Hyun-woo at the dining table and `SHNK` source-aligned to the knife draw. Do not place eating SFX near the sink, counter, refrigerator, or pantry.
+Keep `SLURP` source-aligned to Hyun-woo at the dining table and `SHNK` source-aligned to the knife draw. Do not place eating SFX near the sink, counter, refrigerator, or pantry. Narration presentation should adapt to the local blackout composition rather than use a forced universal caption-box style.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `6`. Do not add dialogue from the hidden figure yet. Do not print production labels in the artwork.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `6`. Do not add dialogue from the hidden figure yet. Narration design may adapt to each scene while its exact wording stays locked. Do not print production labels in the artwork.
 
 STORY CLARITY
 The reader must understand: thirteen minutes have passed; Nari obeyed the no-screen rule; she hears someone eating; retrieves the established knife; physically reaches the kitchen/dining entrance; sees that the candle and noodles were prepared by someone else; and the eater is seated at the dining table, not at the sink or counter.
 
 AVOID
-Avoid Nari identity drift, generic hidden man, incorrect Hyun-woo proportions, short-haired hidden figure, relocating Hyun-woo beside the sink/washbasin/counter/cooktop, invented island seating, moving the pot off the dining table, changing dining chair between Pages 10 and 11, moving candle between Pages 10 and 11, phone activation, loose sheath teleportation, giant candle/pot/knife, candle without holder, premature Hyun-woo reveal, crushed black, cinematic glow, extra text, missing/duplicated/out-of-order/oversized panel numbers, or flashback.
+Avoid Nari identity drift, generic hidden man, incorrect Hyun-woo proportions, short-haired hidden figure, relocating Hyun-woo beside the sink/washbasin/counter/cooktop, invented island seating, moving the pot off the dining table, changing dining chair between Pages 10 and 11, moving candle between Pages 10 and 11, phone activation, loose sheath teleportation, giant candle/pot/knife, candle without holder, premature Hyun-woo reveal, crushed black, cinematic glow, rigid one-style-fits-all narration treatment, extra text, missing/duplicated/out-of-order/oversized panel numbers, or flashback.
 ```
 
 ## Locked Reader-Facing Text
