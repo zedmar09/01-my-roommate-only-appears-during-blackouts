@@ -57,7 +57,7 @@ SPOILER BOUNDARY
 No blackout, Hyun-woo body, hostile activity, or future explanation.
 
 PAGE FORMAT AND PACING
-One vertical page with 6 panels and a practical preparation rhythm. Do not add reader-facing production panel numbers.
+One vertical page with exactly 6 panels and a practical preparation rhythm. Render exactly ONE small circled panel-order number inside every panel: `1` through `6`, matching the reading order below. Place each number near the upper-left inside its own panel or at a quiet gutter-edge position, readable but subtle. Never cover captions, SFX, Nari's face/hands, shopping items, lock, pantry inventory, knife/sheath, or clues.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Establish a large neighborhood home-supply mart/supermarket, not a convenience store. Nari compares ordinary emergency supplies in a household aisle. Product packaging is generic, unbranded, and minimally labeled.
@@ -83,13 +83,13 @@ SFX AND TEXT BLENDING
 Use only the small smart-lock `BEEP`. Let object placement read through hands and composition. Captions must be clean, readable, and visually separate from product labels.
 
 TEXT AND LETTERING RULES
-Use only the exact reader-facing narration and SFX listed below. Do not generate extra advertising copy, promotional Korean text, fake brands, store slogans, prices, sale labels, or dense product text. Generic product labels may appear only when necessary for clarity.
+Use only the exact reader-facing narration and SFX listed below, plus the required small circled panel-order numbers `1` through `6`. Do not generate extra advertising copy, promotional Korean text, fake brands, store slogans, prices, sale labels, or dense product text. Generic product labels may appear only when necessary for clarity.
 
 STORY CLARITY
 The reader must immediately understand that Nari is building a blackout kit, bringing the supplies home, putting food/light/emergency spares in the pantry, and keeping the flashlight/radio/knife close enough to reach quickly.
 
 AVOID
-Avoid Nari identity drift, long black hair, generic replacement face, convenience-store setting, real or invented brands, logos, Korean advertising text, promotional signage, fruit knife shown or purchased at the store, wording or imagery implying two knife purchases, free-hand contradiction, loose blades, missing holders/sheaths, random noodle count, oversized gear, supernatural effects, glossy/cinematic rendering, extra dialogue, extra captions, and teleporting props.
+Avoid Nari identity drift, long black hair, generic replacement face, convenience-store setting, real or invented brands, logos, Korean advertising text, promotional signage, fruit knife shown or purchased at the store, wording or imagery implying two knife purchases, free-hand contradiction, loose blades, missing holders/sheaths, random noodle count, oversized gear, supernatural effects, glossy/cinematic rendering, extra dialogue, extra captions, missing/duplicated/out-of-order/oversized panel numbers, and teleporting props.
 ```
 
 ## Locked Reader-Facing Text
@@ -103,6 +103,10 @@ Avoid Nari identity drift, long black hair, generic replacement face, convenienc
 | 4 | No dialogue - Nari enters Unit 2407 with the supplies | — |
 | 5 Caption | Narration / reader only | `FOOD, CANDLES, MATCHES, AND SPARES WENT IN THE PANTRY.` |
 | 6 Caption | Narration / reader only | `THE FLASHLIGHT, RADIO, AND KNIFE STAYED WITHIN REACH.` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `6`.
 
 ## Production Thread Use
 
