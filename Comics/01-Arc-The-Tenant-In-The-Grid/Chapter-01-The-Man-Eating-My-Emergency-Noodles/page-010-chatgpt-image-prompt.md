@@ -80,7 +80,7 @@ SPOILER BOUNDARY
 Do not reveal Hyun-woo's face, readable mask construction, tattoos, name, or detailed identity on Page 10. His canonical reference is used for consistency, not for an early reveal.
 
 PAGE FORMAT AND PACING
-One vertical page with 6 panels. Do not add reader-facing production panel numbers.
+One vertical page with exactly 6 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `6`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover narration, dialogue, SFX, faces, hands, knife/sheath, candle, pot, or spatial clues.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Same desk and exact object positions from Page 9. Place the LARGE narration caption `12:56 A.M. — THIRTEEN MINUTES INTO THE BLACKOUT`. Nari remains near the desk. Phone screen stays dark; failed flashlight and radio remain where established; practical knife is still sheathed in its tray. No dialogue.
@@ -106,13 +106,13 @@ SFX AND TEXT BLENDING
 Keep `SLURP` source-aligned to Hyun-woo at the dining table and `SHNK` source-aligned to the knife draw. Do not place eating SFX near the sink, counter, refrigerator, or pantry.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below. Do not add dialogue from the hidden figure yet. Do not print production labels in the artwork.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `6`. Do not add dialogue from the hidden figure yet. Do not print production labels in the artwork.
 
 STORY CLARITY
 The reader must understand: thirteen minutes have passed; Nari obeyed the no-screen rule; she hears someone eating; retrieves the established knife; physically reaches the kitchen/dining entrance; sees that the candle and noodles were prepared by someone else; and the eater is seated at the dining table, not at the sink or counter.
 
 AVOID
-Avoid Nari identity drift, generic hidden man, incorrect Hyun-woo proportions, short-haired hidden figure, relocating Hyun-woo beside the sink/washbasin/counter/cooktop, invented island seating, moving the pot off the dining table, changing dining chair between Pages 10 and 11, moving candle between Pages 10 and 11, phone activation, loose sheath teleportation, giant candle/pot/knife, candle without holder, premature Hyun-woo reveal, crushed black, cinematic glow, extra text, or flashback.
+Avoid Nari identity drift, generic hidden man, incorrect Hyun-woo proportions, short-haired hidden figure, relocating Hyun-woo beside the sink/washbasin/counter/cooktop, invented island seating, moving the pot off the dining table, changing dining chair between Pages 10 and 11, moving candle between Pages 10 and 11, phone activation, loose sheath teleportation, giant candle/pot/knife, candle without holder, premature Hyun-woo reveal, crushed black, cinematic glow, extra text, missing/duplicated/out-of-order/oversized panel numbers, or flashback.
 ```
 
 ## Locked Reader-Facing Text
@@ -129,6 +129,10 @@ Avoid Nari identity drift, generic hidden man, incorrect Hyun-woo proportions, s
 | 6 Caption | Narration / reader only | `SHE HADN'T COOKED THE NOODLES.` |
 | 6 SFX | Hidden Hyun-woo eating at the dining table | `SLURP` |
 | 6 Nari | Spoken aloud to the hidden figure | `DON'T MOVE. I HAVE A KNIFE.` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `6`.
 
 ## Production Thread Use
 
