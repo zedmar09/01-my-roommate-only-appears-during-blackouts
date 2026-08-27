@@ -8,7 +8,7 @@ Chapter 1 uses colored flat 2D human-drawn modern manga/manhwa artwork. Everythi
 
 This revised `chapter.md` is the current Chapter 1 story and dialogue authority.
 
-`page-001-chatgpt-image-prompt.md` through `page-005-chatgpt-image-prompt.md` are now synchronized to the current approved Page 1 through Page 5 reader-facing text. `page-006-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md` still require synchronization during the later page-by-page script, dialogue, SFX, and image-continuity pass. Until each remaining page is synchronized, this chapter remains the dialogue authority.
+`page-001-chatgpt-image-prompt.md` through `page-006-chatgpt-image-prompt.md` are now synchronized to the current approved Page 1 through Page 6 reader-facing text. `page-007-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md` still require synchronization during the later page-by-page script, dialogue, SFX, and image-continuity pass. Until each remaining page is synchronized, this chapter remains the dialogue authority.
 
 Cover files are outside this revision scope.
 
@@ -224,7 +224,7 @@ Scratch. Scratch.
 When it stopped, a second handwritten line sat beneath Nari's question.
 
 ```text
-KEEP THE LIGHT ON.
+NOT THE ONE YOU SHOULD BE AFRAID OF.
 ```
 
 ---
@@ -238,7 +238,7 @@ Her original question was still there.
 ```text
 WHO ARE YOU?
 
-KEEP THE LIGHT ON.
+NOT THE ONE YOU SHOULD BE AFRAID OF.
 ```
 
 She took a photograph.
@@ -251,7 +251,7 @@ Nari changed the angle and took a second picture.
 
 Blank again.
 
-"Same result," she said quietly.
+"It's not showing up," she said quietly.
 
 She opened a new note on her tablet and typed what had happened.
 
@@ -263,13 +263,7 @@ Then it restarted.
 
 Her note was gone.
 
-Broken white text appeared for a moment.
-
-```text
-RECORD CORRUPTED
-```
-
-Then the broken text disappeared and was replaced by clean cyan-white lettering.
+Clean cyan-white lettering appeared instead.
 
 ```text
 DON'T SAVE THIS DIGITALLY.
@@ -294,6 +288,8 @@ Eighteen.
 
 Section seventeen had been removed cleanly from the binding.
 
+"Section seventeen is missing," she said quietly.
+
 Beside the south-wall diagram, someone had written a warning in faded ink:
 
 ```text
@@ -313,7 +309,7 @@ Voicemail.
 Nari sent a text.
 
 ```text
-I UNPLUGGED THE TV. IT STAYED ON.
+THE TV STAYED ON AFTER I UNPLUGGED IT.
 WHAT IS IN UNIT 2407?
 ```
 
@@ -323,7 +319,7 @@ Almost a minute passed before Mrs. Na replied.
 
 ```text
 KEEP THE HALLWAY LAMP ON.
-IF THE POWER GOES OUT, KEEP ALL SCREENS OFF.
+IF THE POWER GOES OUT, KEEP EVERY SCREEN OFF.
 WE'LL TALK IN PERSON.
 ```
 
