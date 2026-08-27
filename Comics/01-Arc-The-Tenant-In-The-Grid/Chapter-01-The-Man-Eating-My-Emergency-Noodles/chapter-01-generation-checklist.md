@@ -19,6 +19,44 @@ Every Chapter 1 page prompt is already a FINAL production instruction. During im
 
 This rule governs **every Page 001–018 generation**, including pages whose individual Markdown does not repeat this block verbatim.
 
+## Script Immutability Rule — ABSOLUTE — Applies To Pages 001–018
+
+The script already written in each `page-###-chatgpt-image-prompt.md` is FINAL production canon. Production has ZERO authority to rewrite it.
+
+For every Page 001–018:
+
+- Reproduce every scripted reader-facing line **verbatim**.
+- Do not rewrite, paraphrase, shorten, expand, improve, simplify, correct, translate, censor, summarize, merge, split, reorder, duplicate, omit, or invent text.
+- Preserve exact spelling, capitalization, punctuation, ellipses, dashes, numbers, timestamps, wording, and line order.
+- Preserve the exact **panel assignment** of every line.
+- Preserve the exact **speaker/source attribution** of every line.
+- Preserve the exact **text type**: dialogue stays dialogue; narration stays narration; thought stays thought; SFX stays SFX; device/screen text stays on the specified device/screen; printed object text stays on that object; handwriting stays handwriting; messages stay messages; notebook text stays notebook text.
+- Never move a line from one character to another, from dialogue to narration, from a device to a speech bubble, from narration into dialogue, or between panels.
+- Never add filler dialogue, explanatory narration, extra SFX, extra labels, unscripted reactions, or “helpful” text.
+- If the generator cannot render the exact scripted text correctly, the image is **REJECTED**. Approximate or “close enough” text is not acceptable.
+- A production image is not allowed to become continuity reference if ANY scripted text, source, panel, or text type is changed.
+
+This rule applies even when an individual page already contains `TEXT AND LETTERING RULES`, `Locked Reader-Facing Text`, or `IMAGE-ONLY EXECUTION LOCK`. Those sections reinforce this global rule; they do not weaken it.
+
+## Dialogue / Callout Attribution Rule — ABSOLUTE — Applies To Pages 001–018
+
+Dialogue ownership is part of the script, not optional graphic styling.
+
+For every dialogue panel in Chapter 1:
+
+- Every spoken line must visually belong only to the exact scripted speaker.
+- Every speech-bubble tail/callout must point unmistakably to the correct speaking character or exact scripted audio source.
+- Never point a tail between two characters or toward an ambiguous shared space.
+- Never cross two speakers' bubble tails in a way that makes ownership unclear.
+- Never merge dialogue from different speakers into one bubble.
+- Never attach one speaker's line to another speaker's bubble.
+- When two or more characters speak in one panel, keep each bubble on/near that speaker's side where possible and preserve the exact scripted reading order.
+- Consecutive lines from the SAME speaker may use connected bubbles only if the source remains unmistakable and exact wording/order remains unchanged.
+- Narration, thought captions, SFX, device text, object text, handwriting, messages, and notebook text must not receive a character speech-bubble tail unless the page explicitly defines an audible source.
+- Screenless-speaker dialogue must point to the actual speaker hardware when the page says the voice comes through that device.
+- Voice-only/off-panel audio must use the exact source treatment defined by that page; do not visually assign it to a physically present character.
+- Wrong speaker, wrong tail, ambiguous tail, crossed/mixed ownership, or reordered dialogue = **automatic REJECT**.
+
 ## Current Production Rule Change
 
 Chapter 1 interior pages require **visible reader-facing panel-order markers**.
@@ -150,6 +188,8 @@ Before generating every page confirm:
 - current page prompt from `main`
 - page prompt will be executed literally without rewrite/reinterpretation
 - generation response will be the image, not a rewritten prompt or production summary
+- exact script text/source/panel/type will be preserved verbatim
+- dialogue bubble/callout ownership will match the exact scripted speaker/source
 - correct page/output filename
 - required canonical character PNG(s) attached
 - only approved prior page used for scene continuity when needed
@@ -179,6 +219,7 @@ Reject:
 - rigid one-style-fits-all narration presentation that ignores the local scene
 - unreadable narration caused by insufficient contrast
 - generic substitute actions that contradict the exact scripted verb or blocking
+- wrong-speaker dialogue bubbles or ambiguous/crossed callout tails
 
 Required style: flat 2D human-drawn modern manga/manhwa, clean ink, matte cel colors, solid blocks, restrained hard-edged shadows.
 
@@ -212,13 +253,16 @@ Critical object paths:
 
 ## Critical Page Guards
 
-### Page 2 Doorbell
+### Page 2 Doorbell / Dialogue Attribution
 - Panel 1: Nari is already **inside Unit 2407** among moving boxes.
 - Mrs. Na is the visitor **outside** and is the source of the doorbell ring.
 - Nari only hears/reacts to `DING-DONG`.
 - Nari must not knock, ring, press, tap, buzz, activate, point at, or touch the doorbell, intercom, smart lock, entry panel, wall button, or door control in Panel 1.
 - The front door stays closed until Nari opens it in Panel 2.
 - Mrs. Na does not appear inside Unit 2407 before Panel 3 threshold crossing.
+- Panel 4: `THIS PLACE NEEDS A MANUAL?` belongs only to Nari; `IT DOES.` belongs only to Mrs. Na. Their bubble tails must point only to their respective speakers and must not cross.
+- Panel 5 reading order is locked: Nari `ANYTHING I ACTUALLY NEED TO KNOW?` → Mrs. Na `YES. ONE THING.` → Mrs. Na `AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.`
+- Page 2 Panels 4–8 must never leave the reader guessing whether Nari or Mrs. Na is speaking.
 
 ### Pages 10–12
 - Hyun-woo is at the dining table, never the sink/counter.
@@ -256,7 +300,13 @@ Never swap them.
 
 Reject if the image:
 
-- changes, omits, paraphrases, or invents story text
+- changes, omits, paraphrases, rewrites, reorders, moves, duplicates, or invents story text
+- changes a line's speaker/source
+- changes a line's panel assignment
+- changes a line's text type
+- gives a dialogue line to the wrong character
+- uses an ambiguous or wrong speech-bubble tail/callout
+- merges dialogue from different speakers into one bubble
 - omits a panel-order number
 - duplicates a panel-order number
 - skips a number
@@ -274,24 +324,26 @@ Removed story beats must not return, including `OUR APARTMENT`, reader-facing `R
 Do not approve Page N until all applicable checks pass:
 
 1. The generator executed the locked page prompt rather than rewriting/reinterpreting it.
-2. Exact locked panel count.
-3. Exactly one small circled reading-order marker per panel, consecutively `1…N`.
-4. Marker placement is subtle and does not obscure story content.
-5. Character identity matches canonical PNGs.
-6. Wardrobe/physical state matches current/prior approved page.
-7. Environment geometry remains consistent.
-8. Object states/positions match continuity ledger.
-9. Movement is physically understandable; no teleportation.
-10. Scripted verbs/actions are literal: characters do not operate/touch objects unless instructed.
-11. Power/lighting state matches story moment.
-12. Device actor signature is correct.
-13. Reader-facing story text is exact and complete.
-14. Narration/time-caption design, where present, fits the local scene, stays high-contrast/readable, and is not unnecessarily forced into one universal box style.
-15. SFX is attached to the correct physical source.
-16. No extra text/brands/logos/ads/random Korean promotional copy.
-17. No spoilers/future lore.
-18. Flat matte 2D style is preserved.
-19. Page is safe to use as the continuity reference for Page N+1.
+2. Every scripted text line is verbatim and remains in its exact panel, source/speaker, and text type.
+3. Every dialogue bubble/callout points unambiguously to the correct scripted speaker/source; no mixed/crossed ownership.
+4. Exact locked panel count.
+5. Exactly one small circled reading-order marker per panel, consecutively `1…N`.
+6. Marker placement is subtle and does not obscure story content.
+7. Character identity matches canonical PNGs.
+8. Wardrobe/physical state matches current/prior approved page.
+9. Environment geometry remains consistent.
+10. Object states/positions match continuity ledger.
+11. Movement is physically understandable; no teleportation.
+12. Scripted verbs/actions are literal: characters do not operate/touch objects unless instructed.
+13. Power/lighting state matches story moment.
+14. Device actor signature is correct.
+15. Reader-facing story text is exact and complete.
+16. Narration/time-caption design, where present, fits the local scene, stays high-contrast/readable, and is not unnecessarily forced into one universal box style.
+17. SFX is attached to the correct physical source.
+18. No extra text/brands/logos/ads/random Korean promotional copy.
+19. No spoilers/future lore.
+20. Flat matte 2D style is preserved.
+21. Page is safe to use as the continuity reference for Page N+1.
 
 If any check fails: REJECT the image, do not use it downstream, correct/regenerate it, then run the gate again.
 
@@ -305,7 +357,9 @@ After Page 18 is approved, perform one final Page 1→18 image audit for:
 - power/time continuity
 - Page 10–15 subject positions
 - clean-vs-hostile signatures
-- exact story text/SFX
+- exact verbatim story text/SFX
+- exact speaker/source/panel/text-type attribution
+- correct dialogue bubble/callout ownership
 - literal execution of scripted actions without invented substitute interactions
 - narration/time-caption readability and scene-appropriate design wherever narration appears
 - exact panel counts
