@@ -46,7 +46,7 @@ Panel 1 contains a LARGE, high-contrast, clearly readable in-panel time narratio
 Do not use a tiny separate time-card gutter.
 
 PAGE FORMAT AND PACING
-One vertical page with 5 panels. Do not render production panel numbers in the finished artwork.
+One vertical page with exactly 5 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `5`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover narration, thought text, SFX, Nari's face/hands, the phone, emergency tray, flashlight/radio, knife, or outage clues.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Unit 2407, work desk. Nari is working on a dragon-combat game build. The hallway lamp is visibly on in the background. The front-door manual safety latch is engaged. The emergency tray is visible immediately right of the keyboard with flashlight, radio, and fully sheathed knife in their established positions.
@@ -71,13 +71,13 @@ SFX near radio: KSSHT
 NARI, spoken quietly to herself: NOTHING.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below. `MRS. NA SAID NO SCREENS.` is an INTERNAL THOUGHT and must use the comic's established thought/narration treatment, not a speech bubble heard by another character. Do not print labels such as `NARRATION`, `THOUGHT`, `NARI`, or `SFX` in the artwork.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `5`. `MRS. NA SAID NO SCREENS.` is an INTERNAL THOUGHT and must use the comic's established thought/narration treatment, not a speech bubble heard by another character. Do not print labels such as `NARRATION`, `THOUGHT`, `NARI`, or `SFX` in the artwork.
 
 STORY CLARITY
 The reader must understand: Unit 2407 loses power through no action by Nari; the outage is citywide; Nari remembers the no-screen rule and deliberately does not activate her charged phone; she safely tests the flashlight and radio instead; both fail; the knife remains untouched for the next page.
 
 AVOID
-Avoid identity drift, changed desk geometry, moved emergency tray, knife removed from sheath, phone screen lighting up, Nari pressing the phone, hallway lamp staying on after the outage, corridor backup lighting appearing inside the apartment, random product branding or advertisements, readable promotional Korean text, physical Hyun-woo reveal, hostile-screen text, reflective windows, glossy/cinematic effects, extra dialogue, reader-facing panel numbers, or flashback styling.
+Avoid identity drift, changed desk geometry, moved emergency tray, knife removed from sheath, phone screen lighting up, Nari pressing the phone, hallway lamp staying on after the outage, corridor backup lighting appearing inside the apartment, random product branding or advertisements, readable promotional Korean text, physical Hyun-woo reveal, hostile-screen text, reflective windows, glossy/cinematic effects, extra dialogue, missing/duplicated/out-of-order/oversized panel numbers, or flashback styling.
 ```
 
 ## Locked Reader-Facing Text
@@ -95,6 +95,10 @@ Avoid identity drift, changed desk geometry, moved emergency tray, knife removed
 | 5 SFX | Flashlight button pressed twice | `CLICK  CLICK` |
 | 5 SFX | Radio giving one brief burst of static | `KSSHT` |
 | 5 Nari | Spoken quietly to herself | `NOTHING.` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `5`.
 
 ## Production Thread Use
 
