@@ -2,622 +2,796 @@
 
 ## Comic Adaptation Note
 
-Chapter 1 uses colored flat 2D human-drawn modern manga/manhwa artwork. Everything shares the same matte cel treatment: characters, skin, hair, clothing, furniture, appliances, screens, walls, floors, windows, counters, props, and city views. Use clean ink linework, solid color blocking, one controlled hard-edged shadow tone, warm matte amber candlelight, limited cool device text, and faint pale blue-white current accents only where scripted. Never use glossy, cinematic, photorealistic, 3D, painterly, airbrushed, reflective, bloom, rim-light, lens-flare, volumetric, or over-rendered treatment.
+Chapter 1 uses colored flat 2D human-drawn modern manga/manhwa artwork. Everything shares the same matte cel treatment: characters, skin, hair, clothing, furniture, appliances, screens, walls, floors, windows, counters, props, and city views. Use clean ink linework, solid color blocking, one controlled hard-edged shadow tone, warm matte amber candlelight where scripted, limited cool device text, and faint pale blue-white current accents only where scripted. Never use glossy, cinematic, photorealistic, 3D, painterly, airbrushed, reflective, bloom, rim-light, lens-flare, volumetric, or over-rendered treatment.
+
+## Narrative Source Status
+
+This `chapter.md` is synchronized to the final approved Chapter 1 production scripts in `page-001-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md`.
+
+Chapter 1 contains **18 story pages total**. Cover/front/back files are outside this revision scope.
+
+The page prompt files remain the production authority for panel blocking, object positions, subject positions, lettering placement, SFX source alignment, and image-generation continuity. This master file is the story/dialogue continuity authority.
 
 ## Story Draft
 
+### Page 01
+
 Unit 2407 was too cheap.
 
-That was the first thing Yoon Nari knew.
+In Seoul, cheap rent always hid a catch.
 
-In Seoul, cheap rent always hid a catch. Sometimes the catch was mold. Sometimes it was a neighbor who practiced drums at two in the morning. Sometimes it was a bathroom door that opened only when the weather was emotionally supportive.
+Yoon Nari arrived at the twenty-fourth-floor apartment with moving boxes and her tablet. The smart lock beeped and clicked open.
 
-Unit 2407 had none of those problems.
+Two bedrooms. Corner windows. City view.
 
-Nari stood in the twenty-fourth-floor corridor with her backpack on, her tablet under one arm, and a moving box marked KITCHEN / DO NOT DROP balanced against her hip. She tapped the smart lock, pushed the door open, and crossed the threshold before the box defeated her arms.
+All for less than her old place.
 
-She set it down and looked around.
+Smart lock. Smart lights. Smart climate.
 
-Two bedrooms. Corner windows. A river view beyond the towers. Smart lights, smart lock, smart refrigerator, smart thermostat, smart curtains, and a compact corded speaker on the kitchen counter with a cheerful standby light.
+Smart everything.
 
-All of it cost less than her old one-room officetel with the moldy ceiling and the downstairs karaoke bar devoted to breakup songs.
-
-"What is the catch?" Nari asked.
-
-The speaker answered in a bright recorded voice.
+A screenless corded smart-home speaker on the kitchen counter activated.
 
 "Welcome home, Yoon Nari."
 
 Nari looked at it.
 
-"Found it."
+"Great. It talks."
 
-Later that evening, while she was opening boxes, the doorbell rang.
+---
 
-Nari checked the door camera before opening it.
+### Page 02
 
-Na Young-sook, the landlord, waited in the corridor with a structured handbag over one shoulder, a thick binder tucked under one arm, and a metal key ring in her gloved hand.
+Later that evening, the doorbell rang.
 
-"I brought the unit guide," Mrs. Na said.
+Mrs. Na Young-sook, the landlord, brought a thick binder labeled:
 
-She was a narrow woman in her late sixties, with silver hair twisted into a bun so tight it looked like a legal argument. Square jade earrings matched the tailored mauve coat that probably cost more than Nari's moving truck. An analog watch circled one wrist.
+```text
+UNIT 2407
+ELECTRICAL OPERATION GUIDE
+```
 
-Nari stepped aside. Mrs. Na crossed the threshold, and they walked together from the entry to the kitchen counter.
+She also left Nari a brass backup key.
 
-Mrs. Na laid down the binder. Its cover read UNIT 2407 ELECTRICAL OPERATION GUIDE. Then she turned her key ring in one hand, detached a small brass key, and placed it beside the binder. The remaining keys stayed with her.
+Nari looked at the binder.
 
-"A manual for the lights?" Nari asked.
+"This place needs a manual?"
 
-"For the apartment."
+"It does."
 
-"Is there a boss phase?"
+"Anything I actually need to know?"
 
-Mrs. Na did not smile. "There is one important rule. Never turn off all the lights after midnight."
+Mrs. Na's expression turned serious.
 
-She pointed toward the ordinary electric lamp in the hallway. It was on.
+"Yes. One thing."
 
-"Keep that one on. The light must come from the apartment wiring. Phone screens do not count."
+She looked toward the apartment hallway.
 
-"Why? What happens if I turn it off?"
+"After midnight, don't let the hallway go dark."
 
-Mrs. Na checked her analog watch.
+"The light has to come from the apartment itself. Don't try to replace it with a phone or tablet."
 
-"Just keep the lamp on."
+Nari frowned.
 
-"What if the building loses power?"
+"Why? What happens if it goes out?"
 
-For the first time, Mrs. Na hesitated.
+"Just keep it on."
 
-"Then do not turn on a screen. Call me after the power returns."
+"What if the whole building loses power?"
 
-"That creates several new questions."
+Mrs. Na hesitated.
 
-Mrs. Na picked up her remaining key ring, adjusted the handbag already on her shoulder, and walked back to the front door.
+"Then don't turn on a screen."
+
+"Wait for the power to come back, then call me."
+
+Nari studied her.
+
+"You're not going to tell me why."
+
+"Not tonight."
+
+Mrs. Na left.
 
 "Good night, Ms. Yoon."
 
-"That was not reassuring."
+Nari watched the door close.
 
-After Mrs. Na left, Nari carried the brass key to the entry shelf and placed it in a shallow tray. The electrical binder stayed on the kitchen counter.
+"That's not very comforting."
 
-That was how the first week began.
+The binder remained on the kitchen counter. Nari placed the brass backup key in the entry tray.
 
-One week later, Nari had learned that the apartment was not haunted.
+---
 
-It was worse.
+### Page 03
 
-It was optimized.
+One week later, Unit 2407's automation had become a daily irritation.
 
-The curtains opened at sunrise even when Nari had fallen asleep at four. The coffee machine sent moralizing hydration notices. The thermostat reset itself to nineteen degrees whenever she slept on the sofa. The robot vacuum avoided dust but hunted phone chargers with religious commitment.
+The curtains opened themselves every morning. The thermostat kept returning to 19°C. The robot vacuum repeatedly grabbed charging cables.
 
-That night, Nari stood in the kitchen with a cup of noodles.
+"Hey! Drop that!"
 
-"Turn on the kitchen light," she told the speaker.
+Later that night, Nari stood in the kitchen and addressed the smart speaker.
 
-"Searching the web for kitchen blight," the recorded assistant replied.
+"Turn on the kitchen light."
 
-"No. Turn on the light."
+The ordinary bright synthetic assistant replied:
 
-The kitchen light flickered once but did not stay on. The speaker's ordinary indicator went dark.
+"Sorry. I didn't catch that."
 
-A different voice, low and male, said, "Say please."
+Nari stared at it.
 
-Nari dropped her chopsticks.
+"The light. Turn it on."
+
+The light flickered. Her chopsticks hit the floor.
+
+Then the same speaker produced a completely different voice: low, natural, calm, adult male.
+
+"You could say please."
+
+Nari froze.
 
 "Who said that?"
 
-No answer came.
+No answer.
 
-She pulled the speaker's plug from the wall.
+She unplugged the speaker.
 
-For two nights, nothing else happened.
+---
 
-Two nights later, the television turned on by itself after midnight while Nari was brushing her teeth.
+### Page 04
 
-The matte black screen carried one clean cyan-white caption.
+Two nights later, Nari was brushing her teeth when the television switched on by itself.
 
-```text
-YOUR PATCH NOTES ARE TOO LONG
-```
+Ten minutes earlier, she had read her game patch notes aloud.
 
-Ten minutes earlier, Nari had read a build update aloud from her locked tablet.
-
-Alone.
-
-She rinsed, crossed into the living room, and pulled the television plug from the outlet.
-
-The screen stayed on. Its letters remained clean, but a fine static tremor ran along the screen edge.
-
-Nari remained crouched beside the loose plug, watching the impossible caption hold steady. Then she backed toward the entry shelf and took the brass key from its tray. It was not a weapon, but having a piece of metal in her hand felt marginally better than having none.
-
-"All right," she said. "Who is this?"
-
-The television answered in the same clean cyan-white text.
+The TV displayed clean cyan-white text:
 
 ```text
-NOT THE FRIDGE
+YOUR PATCH NOTES ARE TOO LONG.
 ```
 
-"That narrows nothing. Get out of my apartment."
+Nari unplugged the television.
 
-The screen paused.
+It stayed on.
+
+She stared at the loose plug, then at the screen.
+
+"Okay. Who are you?"
+
+The TV changed:
 
 ```text
-OUR APARTMENT
+DON'T LOOK AT THE FRIDGE.
 ```
 
-Every electric light in Unit 2407 blinked once.
+Nari frowned.
 
-Behind Nari, the refrigerator's narrow display woke for less than a second. Its text was not clean or cyan. Stark white letters doubled at their edges while black pixels crawled across the matte screen.
+"What does that mean?"
+
+The apartment lights flickered.
+
+Behind her, the refrigerator display briefly activated with a completely different visual signature: broken stark-white letters with crawling black pixels.
 
 ```text
 TENANT PROFILE: PENDING
 ```
 
-Nari had already turned back to the television. By the time she looked toward the kitchen, the refrigerator was dark.
+By the time Nari turned around, the refrigerator was dark again.
 
-She returned the brass key to the entry tray.
+---
 
-At the lower kitchen cabinet, she placed the unplugged corded speaker inside the stockpot stored there, covered it with two dish towels, set the lid on top, and closed the cabinet.
+### Page 05
 
-Then she left a handwritten note beside the toaster.
+Nari returned the brass key to the entry tray.
+
+She put the unplugged speaker inside a storage stockpot in the lower kitchen cabinet, covered it with the same two dish towels, replaced the lid, and shut the cabinet.
+
+Then she wrote a physical paper note and left a pen beside it:
 
 ```text
 WHO ARE YOU?
 ```
 
-The fruit knife from the kitchen drawer had a fitted blade guard. Nari checked that the guard was secure before sliding the knife beneath a sofa cushion. It was still poor tactical training, but at least it was not a household accident waiting for her hand.
+Before bed, she secured the fitted guard on the small fruit knife and hid the guarded knife beneath a sofa cushion.
 
-She left the hallway lamp on and went to bed.
+At 1:17 a.m., the hallway lamp briefly flickered.
 
-At 1:17 a.m., the lamp clicked off for one breath and returned. In the kitchen, toaster crumbs shifted across the note in short, scraping movements.
+The pen moved by itself across the paper.
 
-Nari slept through it.
+Scratch. Scratch.
 
-The next morning, the note had a reply in blocky burnt crumbs.
-
-```text
-TENANT.
-```
-
-Nari photographed it.
-
-The image showed a blank counter.
-
-She checked the physical note, adjusted the angle, and took a second photograph.
-
-Blank again.
-
-"Reproducible," she muttered.
-
-She opened a new note on her tablet and typed what had happened. Black pixels gathered at the corners of the screen. The tablet froze, restarted, and returned with the file missing.
-
-For one beat, broken white text crossed the restart screen.
+The next morning, Nari found a new handwritten reply beneath her question:
 
 ```text
-RECORD CORRUPTED
+WHO ARE YOU?
+
+NOT THE ONE YOU SHOULD BE AFRAID OF.
 ```
 
-Then a clean cyan-white message replaced it.
+"What the..."
+
+---
+
+### Page 06
+
+Nari photographed the handwritten note.
+
+The photograph did not show the writing.
+
+She tried again.
+
+Still nothing.
+
+"It's not showing up."
+
+She tried recording the event on her tablet. The tablet froze, restarted, and removed her digital note.
+
+Then clean cyan-white text appeared:
 
 ```text
-STOP. IT CAN SEE WHAT YOU SAVE.
+DON'T SAVE THIS DIGITALLY.
+IT CAN SEE IT.
 ```
 
-Nari stared at the different lettering.
+Nari stared at the tablet.
 
 "It?"
 
-The message vanished.
+She opened the electrical binder.
 
-Nari retrieved the electrical binder from the kitchen counter and opened it at the dining table.
+The section numbering jumped from 16 to 18.
 
-She read every section that mentioned emergency power, manual shutoffs, or the apartment after midnight. Most of it was aggressively ordinary: circuit labels, evacuation procedures, warranty notices, and a diagram identifying an emergency access panel on the south wall.
+"Section seventeen is missing."
 
-Section numbers jumped from sixteen to eighteen. The page for section seventeen had been removed cleanly from the binding.
-
-In the margin beside the south-wall diagram, someone had written in faded ink:
+An older handwritten note beside the south-wall diagram read:
 
 ```text
-AFTER MIDNIGHT, KEEP ONE MAINS-POWERED LIGHT ACTIVE.
+KEEP ONE MAINS-POWERED LIGHT ON AFTER MIDNIGHT.
 ```
 
-That was all.
-
-Nari called Mrs. Na. The call went to voicemail.
-
-She tried again. Voicemail.
-
-Nari sent one text.
+Nari texted Mrs. Na:
 
 ```text
-THE UNPLUGGED TV STAYED ON. WHAT IS IN UNIT 2407?
+THE TV STAYED ON AFTER I UNPLUGGED IT. WHAT IS IN UNIT 2407?
 ```
 
-The message changed to READ.
-
-Nearly a minute later, Mrs. Na replied.
+Mrs. Na replied:
 
 ```text
 KEEP THE HALLWAY LAMP ON.
-IF THE BUILDING LOSES POWER, DO NOT USE THE SCREENS.
-WE WILL SPEAK IN PERSON.
+IF THE POWER GOES OUT, KEEP EVERY SCREEN OFF.
+WE'LL TALK IN PERSON.
 ```
 
-Nari called immediately.
+Nari returned the binder to the kitchen counter.
 
-Mrs. Na did not answer.
+---
 
-Nari closed the binder, left it on the kitchen counter, and went shopping.
+### Page 07
 
-At a large neighborhood home-supply mart with a supermarket floor, she bought short pillar candles, ceramic candle holders, matches, spare batteries, a battery flashlight, a portable radio, a manual can opener, and a practical kitchen knife in a protective sheath.
+Later that day, Nari went to a neighborhood home-supply mart and built a blackout kit.
 
-She came home carrying both bag handles in her left hand. With her right, she tapped the smart lock, waited for the beep, pushed the door open, and crossed the threshold.
+She bought short candles, ceramic holders, matches, spare batteries, a flashlight, portable radio, manual can opener, and one practical kitchen knife in a protective sheath.
 
-In a shallow tray inside the lower pantry cabinet, beside six emergency noodle packets, she arranged the candles, holders, matches, batteries, and can opener.
+Back at Unit 2407, food, candles, matches, batteries, and other spares went into the pantry.
 
-At her work desk, she placed the flashlight, radio, and sheathed practical knife in a second shallow tray to the right of her keyboard. The sheath fixed the blade safely in place with the handle facing her chair.
+The pantry now contained exactly six emergency noodle packets: one spicy-seafood packet and five other flavors.
 
-The guarded fruit knife remained beneath the sofa cushion.
+The flashlight, radio, and sheathed practical knife stayed within reach in the desk tray, with the knife handle positioned toward her chair.
 
-If the apartment wanted rules, Nari could build a test environment.
+The guarded fruit knife remained beneath the sofa cushion. The binder stayed on the kitchen counter. The brass key stayed in the entry tray.
 
-She did not tell Hyejin. Her closest friend would arrive with incense, a screwdriver, and a spreadsheet titled GHOST REPRO STEPS, and Nari did not have the energy to manage both a haunting and formal QA.
+---
 
-Besides, the apartment obeyed the routine.
+### Page 08
 
-After midnight, the hallway lamp stayed on.
+Two days later, after work, associate producer Im Seungjae walked Nari home in the rain.
 
-Nothing appeared. Nothing touched her.
+Outside the apartment building entrance, he asked:
 
-The devices remained rude but manageable. The thermostat returned to nineteen degrees when she fell asleep on the sofa. The television criticized her combat balance. The refrigerator highlighted food nearing its expiry date.
+"Want to get dinner sometime? When we're not working late?"
 
-Two days later, after work, associate producer Im Seungjae walked Nari home beneath an umbrella.
+They entered the ground-floor residential lobby. The glass doors closed behind them while Seungjae folded the umbrella.
 
-"We should get dinner sometime when we are not shipping a crisis," he said as they entered the ground-floor lobby.
+He checked his phone.
 
-Before the elevator arrived, his foldable phone died. Then his earbuds, smartwatch, and power bank failed in quick succession.
+"...My phone just died."
 
-"Why did everything just die?" he asked.
+His earbuds disconnected.
 
-He pressed his electronic car key. Its indicator flashed normally.
+"Okay. That's weird."
 
-"At least I can still get home."
-
-Inside Nari's bag, her tablet woke with a clean cyan-white message.
+Inside Nari's bag, her tablet activated with clean device text:
 
 ```text
-THAT GUY: LOW POWER MODE
+HE SHOULD GO.
 ```
 
-Nari looked down at it.
+Nari lowered her voice toward the tablet.
 
-"Are you twelve?" she whispered.
+"You did that?"
 
 The tablet replied:
 
 ```text
-OLDER
+ONLY FOR A MINUTE.
 ```
 
-The elevator doors opened.
+"Don't touch his stuff."
 
-Nari stepped inside while Seungjae turned toward the lobby exit.
+At the elevator, Nari stepped inside while Seungjae turned back toward the same lobby entrance.
 
-"I will text you when my phone revives," he said.
+"I'm going to head out before anything else dies."
 
-"Get home first."
+"Text me when your phone's back."
 
-The doors began to close between them.
+He never went upstairs.
 
-Later that night, Nari locked Unit 2407 and slid the manual safety latch into place.
+---
 
-At 12:43 a.m., Seoul went dark.
+### Page 09
 
-Not flicker-dark.
+Later that night, at 12:43 a.m., Nari was working at her desk. The hallway lamp was deliberately on.
 
-The city died in one breath.
+Then every ordinary powered device in Unit 2407 shut off at once.
 
-Nari was at her desk, headphones around her neck, watching a dragon boss refuse to land inside its own hitbox. The monitor went black. Her room light vanished. The air purifier stopped. The refrigerator fell silent. The hallway lamp she had deliberately left on went out with everything else.
+The city outside was dark too.
 
-Beyond the windows, towers lost their grids of light. Traffic signals failed below. Car horns rose from the avenue, alarms began to chirp, and worried voices crossed between balconies.
+Her phone had shown 81% battery ten minutes earlier, but Nari remembered Mrs. Na's warning and left the screen completely dark.
 
-Under Nari's front door, a thin band of the building corridor's emergency light appeared. It came from a separate backup circuit outside Unit 2407. Inside the apartment, ordinary power was completely gone.
+Mrs. Na said no screens.
 
-"Of course," Nari said into the dark. "Of course this happens after midnight."
+Nari pressed the flashlight twice.
 
-She pressed her phone's power button.
+Click. Click.
 
 Nothing.
 
-She pressed it again and held it.
+The portable radio gave one brief burst of static and died.
 
-Still nothing.
+"Nothing."
 
-The battery had shown eighty-one percent ten minutes earlier.
+The practical sheathed knife remained in the desk tray beside the failed flashlight and radio.
 
-Her fingers found the organized desk tray. She clicked the flashlight once, then twice. New batteries, no light. The radio gave one breath of static and died.
+---
 
-Nari waited, then repeated the sequence.
+### Page 10
 
-Phone. Flashlight. Radio.
+At 12:56 a.m., thirteen minutes into the blackout, Nari heard slurping from the kitchen/dining area.
 
-Again.
+She carefully drew the practical knife, leaving the empty sheath in the desk tray.
 
-Again.
+She kept the blade low and followed the sound.
 
-The corridor's emergency strip did not reach beyond the entry. Nari stayed at the desk while the sounds outside shifted from surprise to tense conversation. Somewhere below, a generator started and stopped. The elevator remained silent.
+The lower pantry was slightly ajar. Five unopened other-flavor noodle packets remained inside.
 
-At 12:56 a.m., thirteen minutes into the blackout, Nari heard someone slurping noodles in her kitchen.
+A candle Nari had bought burned in its ceramic holder on the dining table.
 
-Not pipes. Not a settling wall.
+A noodle pot sat on a trivet with a folded cloth at the hot handle.
 
-Someone was eating with the wet confidence of a man who had not paid for the food.
+Nari had not lit that candle.
 
-Nari reached into the desk tray by touch. The fixed orientation put the knife handle under her fingers. She lifted the sheathed knife, drew the blade carefully, and left the empty sheath in the tray beside the dead flashlight and radio.
+She had not cooked those noodles.
 
-She stood, knocked her knee against the desk, cursed, and followed the wall through the hallway. The apartment had not changed shape, but without its constant electrical hum, every room felt larger.
+A broad seated figure was eating from the pot in the exact dining chair closest to the kitchen/refrigerator side of the table. He was not beside the sink or counter.
 
-A small amber light marked the kitchen entrance.
+Slurp.
 
-Nari stopped there.
+Nari kept the knife low.
 
-The lower pantry cabinet stood slightly open. A short pillar candle burned in one of the ceramic holders from her emergency tray. The manual gas cooktop was off, but a used match lay on its heat-safe rest and the sink was damp. A steaming noodle pot sat on a trivet at the dining table. A folded cloth wrapped its hot handle.
+"Don't move. I have a knife."
 
-Nari had not arranged any of it.
+---
 
-A seated figure lifted noodles in the shadows.
+### Page 11
 
-"I am armed," Nari said.
+The hidden man remained in the same dining chair.
 
-The slurping stopped.
+"I can see that."
 
-A low male voice answered, "With the fruit knife or the bigger one?"
+Nari did not move the knife closer.
 
-Nari tightened her grip. "The bigger one. Who are you?"
+"Who are you?"
 
-At the table, the figure set his chopsticks against the pot. With his other hand, he pulled a matte black technical mask securely over his lower face before leaning into the candle's limited light.
+"Put the knife down."
 
-He was tall even while seated, with broad shoulders and long black hair tied low. Matte-black circuit-sigil tattoos ran from his collarbones down his bare arms. When distant emergency lights pulsed outside, the existing ink lines gained faint pale blue-white current accents for less than a second.
+"Answer me first."
 
-"My name is Hyun-woo."
+The man remained calm.
 
-Nari took one cautious step toward the table. Her bare foot nudged an empty noodle packet on the floor.
+"You've been talking to me for days."
 
-Spicy seafood.
+Nari stared at him.
 
-The single packet of that flavor from her emergency supply.
+"You're the one in the screens?"
 
-Five other noodle packets remained visible inside the open pantry.
+"Some of them."
 
-She looked up.
+He secured his technical mask before leaning enough into view for Nari to identify him clearly.
 
-"You ate my last spicy seafood one?"
+Nari pressed again.
 
-Hyun-woo glanced toward the pantry. "You still have five."
+"Then who are you?"
 
-"Five inferior ones. You are haunting my noodles."
+"Hyun-woo."
 
-"I am not haunting them. I am eating them."
+---
 
-"How did you get in?"
+### Page 12
 
-"I live here."
+Hyun-woo stayed seated in the same dining chair. Nari took only one cautious step forward.
 
-"I signed the lease alone."
+"That's your name. How did you get in here?"
 
-"Mrs. Na should have warned you."
+Hyun-woo answered:
 
-Nari's grip shifted on the knife. "You know Mrs. Na?"
+"I didn't come through the door."
 
-The candle flame bent sideways.
+"Then how are you here?"
 
-Black pixels began collecting at one edge of the refrigerator's dead display. There was no reflection and no human silhouette, only a corrupted pattern forcing itself across matte black glass.
+"I was here before you moved in."
 
-Hyun-woo saw it. The humor left his eyes.
+Nari's expression hardened.
 
-He pushed his chair back, rose, and crossed the short space between the table and Nari. The chair remained angled away from the table behind him. He stopped between her and the refrigerator.
+"That's impossible. I rent this place alone."
 
-"Nari. Eyes on me."
+Her foot nudged the empty spicy-seafood noodle packet.
 
-She looked past his shoulder anyway.
+Crinkle.
 
-"The refrigerator is off."
+Nari looked down, then back at him.
 
-"It does not need ordinary power."
+"And you've been using my pantry."
 
-A single stark-white line appeared on the dead display. Broken glyphs formed beneath it while black pixels crawled along the edges.
+"I was hungry."
 
-"It is hungry," Hyun-woo said.
+Nari returned to the real problem.
 
-The display typed her name.
+"Who else knows you're here?"
+
+"Mrs. Na."
+
+"She knows about you?"
+
+"Yes."
+
+"Then why didn't she tell me?"
+
+"Ask her."
+
+The five other noodle packets remained in the pantry.
+
+---
+
+### Page 13
+
+The candle flame suddenly bent sideways.
+
+KZZT.
+
+Black pixels began collecting around the edge of the dead refrigerator display.
+
+Hyun-woo noticed first.
+
+He pushed the same dining chair back.
+
+SKRRK.
+
+He stood, physically crossed around the dining table, and stopped between Nari and the refrigerator. The chair remained pushed back and angled behind him. Nari stayed where she was with the knife held low.
+
+"Nari. Look at me."
+
+Nari looked past his shoulder anyway.
+
+"The fridge is off."
+
+"That doesn't stop it."
+
+"Don't look at the screen."
+
+The otherwise dead refrigerator display typed with the hostile broken-white/black-pixel signature.
+
+Tik... tik...
 
 ```text
 YOON NARI
 ```
 
-The air smelled like hot dust.
+---
 
-Hyun-woo's hand snapped to the side of his mask. His fingers pressed hard against the strap near his jaw. The existing matte-black tattoo lines on his forearm gained faint pale blue-white current accents. They were still ink on skin, not light beneath it.
+### Page 14
+
+Hyun-woo remained between Nari and the refrigerator.
 
 "Blow out the candle."
 
-"Mrs. Na said to keep a light on."
+Nari looked toward the dining table.
 
-The refrigerator added a second line.
+"Mrs. Na told me to keep a light on."
+
+The refrigerator display added:
 
 ```text
 IDENTITY LOCKING
 ```
 
-"Her rule is for building power," Hyun-woo said. "That flame is helping it see you."
+Hyun-woo answered urgently:
 
-The candle developed an unnatural blue center.
+"She meant the apartment lights."
 
-"Now, Nari."
+"That candle is helping it find you."
 
-She blew it out.
+The candle flame developed an unnatural blue center.
 
-Darkness swallowed the room.
+"Now."
 
-The refrigerator released a thin digital shriek, like a thousand notification tones flattened into pain. Nari clapped both hands over her ears. The knife slipped from her fingers and struck the floor.
+Nari blew it out.
 
-Then Hyun-woo caught her wrist.
+Pff.
+
+The refrigerator released a thin digital shriek.
+
+KIIIIII.
+
+Nari jerked both hands toward her ears. The practical knife slipped from her fingers and hit the established floor spot.
+
+CLANG.
+
+Only after the knife hit the floor did Hyun-woo catch one of her wrists.
+
+His hand was warm.
 
 Warm.
 
-His palm was callused and human, his grip firm without hurting her.
+"Stay in the dark until the power's back."
 
-"Stay in the dark until the power returns," he said close to her ear.
+---
 
-"That is finally a clear instruction."
+### Page 15
 
-"I am improving."
+The refrigerator clicked three times in the darkness.
 
-The refrigerator clicked three times and went silent.
+Tik. Tik. Tik.
 
-Hyun-woo let go of her wrist. Nari did not step away.
+Hyun-woo released Nari's wrist. The knife remained on the floor. The pushed chair, pot, trivet, folded cloth, extinguished candle, pantry, refrigerator, sink, and cooktop all remained where they were.
+
+Nari asked:
 
 "What was that?"
 
-"The reason Mrs. Na can charge cheap rent."
+"Something else in the system."
 
-"I need a better answer."
+"Not me."
 
-"You will not like it."
+Nari connected it to the earlier incidents.
 
-"I already dislike the short answer."
-
-Hyun-woo exhaled.
-
-"The clean messages are mine," he said. "The broken text is not. Something else uses screens to learn people."
-
-Nari waited for the sentence to become less impossible.
-
-It did not.
-
-Outside, cheers began rising along the avenue. Far towers returned first, then bridge lamps, then confused traffic signals.
-
-Unit 2407 remained dark.
-
-Nari heard Hyun-woo move away.
-
-"What are you doing?"
-
-"Power is coming back."
-
-"So?"
-
-"So I am leaving."
-
-"Through the door?"
-
-"No."
-
-"That is a terrible answer."
-
-"You keep asking difficult questions."
-
-The apartment power snapped back.
-
-The ceiling lights flashed on. Nari threw one arm over her eyes.
-
-When she lowered it on the next beat, Hyun-woo was gone.
-
-The chair remained pushed back. The noodle pot remained on its trivet. The candle smoked in its ceramic holder. The knife lay where it had fallen.
-
-Nari turned toward the entry.
-
-The front door was locked. The manual safety latch had not moved. The smart-lock history showed only her own entry earlier that evening and no opening after it.
-
-She checked the door-camera archive. Every clip before 12:43 a.m. was normal. The blackout interval was a broken black thumbnail with no usable image. The corridor feed returned with the emergency lights, but it showed no one entering or leaving Unit 2407.
-
-Nari called building security.
-
-The night guard confirmed that the elevators had stopped during the outage and the corridor emergency lights had run on a separate backup circuit. No one had reported an intruder on the twenty-fourth floor.
-
-She called Mrs. Na.
-
-Voicemail.
-
-The smart speaker inside the closed stockpot gave a muffled chime.
-
-Nari stared at the lower cabinet.
-
-"No."
-
-The chime sounded again.
-
-She opened the cabinet and lifted the stockpot lid. Beneath the same dish towels, the unplugged speaker showed a tiny, weak cyan-white indicator. Static wrapped around Hyun-woo's voice.
-
-"You should eat before the noodles get cold."
-
-"You are unplugged."
-
-"Borrowed current. Briefly."
-
-"That sounds expensive."
-
-"It is. Eat."
-
-Nari left the lid propped open and retrieved the dropped knife. She slid it back into the empty sheath waiting in the desk tray, then returned to the dining table.
-
-She did not immediately touch the food.
-
-She checked the opened packet, the seasoning wrapper, and the pot. Ordinary instant noodles. She smelled the broth. Spicy seafood. She had watched Hyun-woo eat from the same pot, and nothing in it looked more suspicious than the man who had cooked it.
-
-Her stomach made the final decision.
-
-Nari sat in the available chair. Hyun-woo had left half the noodles and a clean pair of chopsticks. The folded handle cloth was still in place; the trivet protected the table beneath the pot.
-
-She took one careful bite.
-
-The noodles were overcooked, spicy, and still warm.
-
-"Tell me one useful thing."
-
-Static moved softly inside the cabinet.
-
-"Keep notes on paper. Do not open the south-wall panel. After midnight, keep one mains-powered light on. If building power fails, keep screens dark and follow my warning."
-
-Nari looked toward the electrical binder on the kitchen counter. "That missing section was about the panel, wasn't it?"
-
-The speaker went quiet.
-
-"Are you dangerous?" she asked.
+"The broken messages?"
 
 "Yes."
 
-A pause.
+"The other messages came from me."
 
-"But not by choice."
+"What does it want from me?"
 
-Nari carried her A5 grocery notebook from the work desk to the dining table. She left the electrical binder on the kitchen counter and the brass backup key in the entry tray; she no longer needed to gather objects she had already inspected.
+"I don't know what it wants."
 
-Outside, Seoul shone as if nothing had happened.
+"But it's trying to learn who you are."
 
-Nari opened the notebook to a clean page.
+Outside the windows, distant city power began returning while Unit 2407 remained dark.
+
+Hyun-woo noticed.
+
+"Power's coming back."
+
+Nari turned toward him.
+
+"Wait. What happens to you?"
+
+"When the power comes back, I'm gone."
+
+"Where do you go?"
+
+Hyun-woo's voice was quiet.
+
+"I can't answer that."
+
+Unit 2407's own power snapped back.
+
+VZZT.
+
+Nari shielded her eyes.
+
+There was no visible transformation, dissolution, or portal.
+
+When she lowered her arm, Hyun-woo was simply gone.
+
+The pushed-back chair, noodle pot, extinguished candle, and dropped knife remained as physical evidence.
+
+---
+
+### Page 16
+
+Nari stared at the empty space.
+
+"Hyun-woo?"
+
+No answer.
+
+She walked to the front door and physically tested the still-engaged manual safety latch.
+
+Tug.
+
+She checked the smart-lock history:
 
 ```text
-UNIT 2407 BUG REPORT
-
-OBSERVATION 001:
-ROOMMATE PHYSICAL DURING BLACKOUT.
-
-HYPOTHESIS:
-LOSS OF BUILDING POWER REQUIRED.
+ENTRY HISTORY
+YOON NARI — LAST ENTRY
 ```
 
-The television across the living room was still visibly unplugged.
+Nari said quietly:
 
-Its matte screen turned on.
+"The door never opened."
 
-This time the lettering was stark white and broken, with black pixels crawling around every doubled edge.
+She checked the door-camera archive.
+
+```text
+12:43 A.M. — RECORDING LOST
+VIDEO RESUMED AFTER OUTAGE
+```
+
+The resumed corridor was empty.
+
+"And the camera missed the whole thing."
+
+Nari called building security.
+
+"This is Unit 2407. Did anyone come up to the twenty-fourth floor during the outage?"
+
+Security replied:
+
+"No, ma'am. The elevators were down the entire time."
+
+"We didn't get any reports from your floor either."
+
+Nari then called Mrs. Na.
+
+An automated voice answered:
+
+"Please leave a message after the tone."
+
+Beep.
+
+"Mrs. Na, call me back."
+
+"I need to know what's going on in this apartment."
+
+After she finished speaking, a muffled electronic chime came from the same still-closed lower kitchen cabinet where the unplugged speaker had been hidden.
+
+Mff-chime.
+
+Nari froze and turned toward the kitchen.
+
+A second muffled chime came from the same cabinet.
+
+Mff-chime.
+
+"...No."
+
+The encounter evidence remained untouched while she performed the security check.
+
+---
+
+### Page 17
+
+Nari returned to the lower kitchen cabinet. She set her phone on the nearby kitchen counter, then opened the same cabinet.
+
+Creak.
+
+The same storage stockpot was still inside.
+
+She lifted its lid.
+
+Clink.
+
+The same two dish towels and same unplugged screenless speaker were underneath. Its cord was visibly disconnected. A tiny weak clean indicator activated.
+
+Hyun-woo's voice came through the speaker.
+
+"You should eat before it gets cold."
+
+Nari pointed at the disconnected cord.
+
+"You're unplugged."
+
+"I'm borrowing just enough power to talk."
+
+"Is that safe?"
+
+"No."
+
+Nari then retrieved the practical knife from the exact floor spot where it had fallen, carried it safely to the desk, and slid it back into the existing sheath beside the failed flashlight and radio.
+
+Shk.
+
+She left the knife there and returned to the dining table empty-handed.
+
+Before eating, she inspected the opened spicy-seafood packet, seasoning wrapper, cooking pot, broth, and chopsticks, then smelled the broth.
+
+She used a clean pair of chopsticks and took one cautious bite.
+
+After swallowing, she looked toward the open cabinet.
+
+"Tell me what I need to know."
+
+Hyun-woo answered through the speaker:
+
+"Write things down. Paper only."
+
+"And stay away from the south-wall panel."
+
+Nari glanced toward the electrical binder.
+
+"The panel in the binder?"
+
+"Yes."
+
+---
+
+### Page 18
+
+Nari remained seated at the same dining table. The lower cabinet remained open with the same storage stockpot, towels, and unplugged speaker inside. Her phone remained on the kitchen counter. The binder remained on the counter. The brass key remained in the entry tray. The practical knife remained safely sheathed at the desk.
+
+Nari looked toward the binder.
+
+"The missing section was about that panel, wasn't it?"
+
+The speaker gave no answer.
+
+Nari looked back toward it.
+
+"Hyun-woo?"
+
+Still no answer to that question.
+
+Nari asked something else.
+
+"Are you dangerous?"
+
+Hyun-woo finally replied:
+
+"I can't promise I'm not."
+
+Nari stood, walked to the work desk, retrieved her A5 grocery notebook and a pen, then physically returned to the dining table. The binder and brass key remained where they were.
+
+She opened the notebook to a clean page and wrote:
+
+```text
+UNIT 2407 — BUG REPORT
+
+OBSERVATION 001:
+HYUN-WOO BECAME PHYSICAL DURING THE BLACKOUT.
+
+HYPOTHESIS:
+LOSS OF APARTMENT POWER MAY BE THE TRIGGER.
+```
+
+The wording remained a hypothesis because she had witnessed only one blackout. City power had returned before Unit 2407, and Hyun-woo remained physical until the apartment itself regained ordinary power.
+
+Across the living room, the same visibly unplugged matte television activated.
+
+KZZT.
+
+Its message did not use Hyun-woo's clean cyan-white signature. It used the hostile broken stark-white letters and crawling black pixels.
 
 ```text
 NEW TENANT CONFIRMED
 ```
 
-Nari looked from the hostile text to her paper notebook.
+The apartment lights flickered once.
 
-Then every electric light in Unit 2407 flickered once.
+FZZT.
+
+Nari looked up from the paper.
+
+Chapter 1 ends there.

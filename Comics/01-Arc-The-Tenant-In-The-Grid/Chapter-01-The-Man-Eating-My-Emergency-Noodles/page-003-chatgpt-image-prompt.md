@@ -9,7 +9,7 @@ IMPORTANT REFERENCES
 Use `../../../characters.md` and `../../style-guide.md`; preserve approved Page 2 for environment/rendering continuity.
 
 CANONICAL CHARACTER REFERENCE LOCK
-Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. That reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 2 controls page-to-page apartment/rendering continuity only; it cannot override canonical identity. This page prompt controls Nari's current pose, expression, home wardrobe, actions, props, and scene.
+Attach the APPROVED flat-2D canonical Nari reference created from `../../../Character-References/nari-canonical-flat2d-chatgpt-image-prompt.md`. That reference is absolute authority for Nari's face, hair, adult age, beauty mark, and stable proportions. Approved Page 2 controls page-to-page apartment/rendering continuity only; it cannot override canonical identity. This page prompt controls Nari's current pose, expression, home wardrobe, actions, props, dialogue, and scene.
 Do not attach the legacy/original cover, rejected/drifted covers, or unapproved character generations.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
@@ -23,7 +23,7 @@ LIGHTING AND EXPOSURE LOCK
 Powered scenes use the same medium-bright neutral baseline. The scripted kitchen-light flicker is one flat on/off beat without glow or cinematic darkness.
 
 POWER AND SUPERNATURAL RULE LOCK
-During one brief ordinary-power flicker, nonphysical Hyun-woo can speak through the powered speaker. His signal is clean cyan-white with minimal static and no crawling black pixels. He does not become physical.
+During one brief ordinary-power flicker, nonphysical Hyun-woo can speak through the powered speaker. He does not become physical. The key reader clue is AUDIO: the normal assistant uses its usual bright recorded synthetic voice, then after the flicker a clearly DIFFERENT low adult male voice comes from the SAME speaker. Do not make the two voices sound or letter identically.
 
 CHARACTER CONSISTENCY
 Nari is the SAME approved canonical 30-year-old Korean game designer. At home she wears an oversized hoodie and loose black trousers, yellow scrunchie visible, headphones nearby/around neck, beauty mark preserved. Match the approved flat-2D canonical reference; do not invent a new face or hair shape.
@@ -35,62 +35,99 @@ OBJECT SCALE AND SPATIAL LOGIC
 Keep cup, chopsticks, speaker, thermostat, and robot vacuum household-sized. Show Nari's hand actually pulling the plug.
 
 CONTINUITY
-This is the first clean Hyun-woo voice. The apartment has been annoying but not openly threatening.
+This is the first clean Hyun-woo voice. Before this moment, the apartment has been annoying but not openly threatening.
 
 TIME AND SCENE CONTINUITY
-Panels 1-3 are a chronological daytime comedy montage one week after move-in. Then a dedicated `THAT NIGHT` gutter bridges to Panels 4-7 in the kitchen at night. No flashback.
+Panels 1-3 are a chronological daytime montage one week after move-in. Panel 4 begins later that same night. Do not use separate tiny time-card gutters. Put each time transition INSIDE the relevant panel as a large, clearly readable narration caption.
 
-TIME TRANSITION CARD
-Before Panel 1, add an unnumbered quiet full-width gutter containing only: ONE WEEK LATER
-Between Panels 3 and 4, add a second unnumbered quiet full-width gutter containing only: THAT NIGHT
+TIME CAPTION VISIBILITY LOCK
+- Panel 1 must contain `ONE WEEK LATER` as a LARGE, prominent narration caption integrated into the panel composition.
+- Panel 4 must contain `LATER THAT NIGHT` as a LARGE, prominent narration caption integrated into the panel composition.
+- These time captions must be immediately noticeable at normal page-reading size, clearly larger/more prominent than ordinary captions, and must never be reduced to tiny decorative text.
 
 SPOILER BOUNDARY
-Do not show Hyun-woo, hostile text, Black Surge imagery, or explanations.
+Do not show Hyun-woo physically, hostile text, Black Surge imagery, or explanations.
 
 PAGE FORMAT AND PACING
-One vertical page with 7 panels plus two unnumbered time-card gutters, quick comedy above and a cleaner supernatural beat below.
-
-PANEL ORDER NUMBERS
-Add small circled numbers 1-7, not on either time-card gutter and never over text/faces/hands/props.
+One vertical page with exactly 7 clearly separated panels. Do not render production panel numbers in the final comic.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 - Curtains open at sunrise while exhausted Nari lies on the sofa.
-SFX: WHRR.
-CAPTION: NARI LEARNED THE APARTMENT WAS NOT HAUNTED.
+PANEL 1 - Morning. Curtains open automatically while exhausted Nari lies on the sofa. Put the large `ONE WEEK LATER` caption prominently inside this panel.
+TIME CAPTION, narration/readers only: ONE WEEK LATER
+SFX: WHIRR
+CAPTION, narration/readers only: THE CURTAINS OPENED THEMSELVES EVERY MORNING.
 
-PANEL 2 - Thermostat reads exactly `19 C`; blanket-wrapped Nari glares.
-CAPTION: IT WAS WORSE.
+PANEL 2 - Thermostat reads exactly `19°C`; blanket-wrapped Nari glares at it.
+CAPTION, narration/readers only: THE THERMOSTAT KEPT RESETTING TO 19°C.
 
-PANEL 3 - Robot vacuum drags a charger as Nari lunges after it.
-SFX: VRRR.
-CAPTION: IT WAS OPTIMIZED.
+PANEL 3 - Robot vacuum drags a charging cable while Nari lunges after it.
+SFX: VRR
+NARI, spoken aloud to the robot vacuum: HEY! DROP THAT!
 
-[UNNUMBERED TIME CARD: THAT NIGHT]
+PANEL 4 - Kitchen later that night. Nari holds cup noodles and addresses the still-plugged speaker. Put the large `LATER THAT NIGHT` caption prominently inside this panel.
+TIME CAPTION, narration/readers only: LATER THAT NIGHT
+NARI, spoken aloud to the smart speaker: TURN ON THE KITCHEN LIGHT.
 
-PANEL 4 - Kitchen at night. Nari holds cup noodles and addresses the plugged-in speaker.
-NARI: TURN ON THE KITCHEN LIGHT.
+PANEL 5 - Same normal recorded assistant voice from Page 1 responds from the speaker. Nari is tired and mildly irritated, not frightened.
+RECORDED SPEAKER, bright synthetic device voice spoken aloud to Nari: SORRY. I DIDN'T CATCH THAT.
+NARI, spoken aloud to the smart speaker: THE LIGHT. TURN IT ON.
 
-PANEL 5 - Speaker misunderstands; bubble tail points to hardware. Nari replies.
-RECORDED SPEAKER: SEARCHING FOR KITCHEN BLIGHT.
-NARI: NO. TURN ON THE LIGHT.
+PANEL 6 - Kitchen light flickers once. The speaker's normal indicator cuts out for a fraction of a second. Then a CLEARLY DIFFERENT low adult male voice comes from the same speaker. Nari immediately recognizes that this is not the recorded assistant voice and drops her chopsticks.
+SFX: FZZT
+SFX: CLATTER
+HYUN-WOO / UNKNOWN MALE VOICE, low natural adult male voice through speaker, spoken aloud to Nari: YOU COULD SAY PLEASE.
 
-PANEL 6 - Kitchen light flickers once; ordinary indicator cuts out. A clean restrained cyan signal replaces it and Nari drops her chopsticks.
-SFX: FLIK. CLATTER.
-HYUN-WOO SPEAKER VOICE: SAY PLEASE.
+VOICE CHANGE MUST BE OBVIOUS:
+- Recorded assistant in Panel 5 = bright, artificial/synthetic, familiar smart-home assistant voice.
+- Unknown male in Panel 6 = low, natural, calm adult male voice.
+- Use a visibly different speech-bubble treatment for the male voice if helpful, but do not identify or name Hyun-woo to the reader yet.
+- Nari's startled reaction must clearly be caused by hearing a DIFFERENT HUMAN-SOUNDING VOICE, not merely by another assistant response.
 
-PANEL 7 - Nari stares, then visibly unplugs the speaker after no answer.
-NARI: WHO SAID THAT?
-SFX: YANK.
+PANEL 7 - Nari stares at the speaker and asks who spoke. No answer comes. She then visibly pulls the plug from the wall.
+NARI, spoken aloud to the unknown voice: WHO SAID THAT?
+SFX: YANK
+No reply.
 
 SFX AND TEXT BLENDING
-Use rounded comedy SFX above and restrained flat electrical marks below; no glow flooding. Keep both time-card gutters undecorated.
+Use easy-to-read physical sounds only. Keep the electrical flicker restrained. Time captions are intentionally prominent and must not be treated as small decorative gutter text.
 
 TEXT AND LETTERING RULES
-Use only listed uppercase text. Speaker voices require bubbles with tails to the screenless speaker. Hyun-woo bubble may have a restrained cyan outline; no hostile black pixels.
+Use only the exact uppercase reader-facing text listed below. Dialogue is spoken aloud unless explicitly marked otherwise. Do not print production labels such as `NARRATION`, `RECORDED SPEAKER`, `HYUN-WOO`, or `NARI` in the artwork. Speaker dialogue must use speech bubbles with tails pointing to the screenless speaker, never printed words on the device body.
 
 STORY CLARITY
-The reader must understand one week passed, the daytime examples end before `THAT NIGHT`, the apartment is obnoxiously automated, a different male voice answers during a brief flicker, and Nari unplugs the speaker.
+The reader must understand: one week has passed; the apartment's automation is irritating Nari; later that night she asks the assistant to turn on the kitchen light; the normal synthetic assistant misunderstands her; Nari repeats the command more directly; during a brief flicker the SAME speaker suddenly produces a clearly different natural male voice; Nari is startled because the voice changed; she asks who spoke and gets no answer; then she unplugs the speaker.
 
 AVOID
-Avoid any Nari identity drift, long black hair, generic replacement face, missing/numbered/decorated time-card gutters, random thermostat values, physical Hyun-woo, hostile signature, oversized speaker, missing cord/plug action, glossy/cinematic rendering, reflections, extra text, and flashbacks.
+Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, random thermostat values, physical Hyun-woo, identical assistant/male voice treatment, hostile signature, oversized speaker, missing cord/plug action, glossy/cinematic rendering, reflections, extra text, rendered production panel numbers, and flashbacks.
 ```
+
+## Locked Reader-Facing Text
+
+| PanelText | Type / Who hears it | Text |
+| --- | --- | --- |
+| 1 Time | Large narration caption / reader only | `ONE WEEK LATER` |
+| 1 SFX | Sound in scene | `WHIRR` |
+| 1 Caption | Narration / reader only | `THE CURTAINS OPENED THEMSELVES EVERY MORNING.` |
+| 2 Caption | Narration / reader only | `THE THERMOSTAT KEPT RESETTING TO 19°C.` |
+| 3 SFX | Sound in scene | `VRR` |
+| 3 Nari | Spoken aloud to the robot vacuum | `HEY! DROP THAT!` |
+| 4 Time | Large narration caption / reader only | `LATER THAT NIGHT` |
+| 4 Nari | Spoken aloud to the smart speaker | `TURN ON THE KITCHEN LIGHT.` |
+| 5 Speaker | Normal recorded synthetic device voice / spoken aloud to Nari | `SORRY. I DIDN'T CATCH THAT.` |
+| 5 Nari | Spoken aloud to the smart speaker | `THE LIGHT. TURN IT ON.` |
+| 6 SFX | Electrical sound in scene | `FZZT` |
+| 6 SFX | Chopsticks hitting floor | `CLATTER` |
+| 6 Unknown male | Clearly different low natural male voice through speaker / spoken aloud to Nari | `YOU COULD SAY PLEASE.` |
+| 7 Nari | Spoken aloud to the unknown voice | `WHO SAID THAT?` |
+| 7 SFX | Nari unplugging speaker | `YANK` |
+
+## Production Thread Use
+
+For a fresh generation, attach only:
+1. `Character-References/nari-canonical-flat2d.png`
+2. this current `page-003-chatgpt-image-prompt.md`
+3. approved Page 2 only if needed for apartment continuity
+
+For a targeted correction of an otherwise correct Page 3, use the current near-pass Page 3 image as the edit target together with this `.md`; preserve all correct panels/text/characters and change only the explicitly identified defects.
+
+Never use an older rejected Page 3, the legacy cover, or an unrelated page as continuity authority.
