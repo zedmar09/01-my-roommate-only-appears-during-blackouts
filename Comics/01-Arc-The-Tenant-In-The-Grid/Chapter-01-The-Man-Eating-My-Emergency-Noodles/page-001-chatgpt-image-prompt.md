@@ -30,7 +30,7 @@ UNIT 2407 MASTER LAYOUT
 - EXACTLY TWO dark-burgundy dining chairs total
 - kitchen / matte cool-gray refrigerator on RIGHT
 - hallway / bedroom doors BEHIND
-- dark-panel windows on exterior wall
+- dark-panel corner windows on exterior wall with a believable Seoul city view
 - lower kitchen cabinets muted eucalyptus green
 - floor medium neutral gray
 - speaker is a SMALL screenless matte-charcoal corded cylinder plugged into the counter outlet
@@ -46,7 +46,7 @@ The moving cart stays outside in the corridor through Panels 2–4.
 
 PAGE STRUCTURE
 Use exactly SIX clearly separated panels.
-Add small circled panel numbers 1–6 near the upper-left/gutter of each panel.
+Panel numbering below is production-only. Do NOT render panel numbers on the finished comic page.
 Do not add a page-title footer, chapter-title footer, credits, author name, watermark, or extra labels.
 
 TEXT FIDELITY
@@ -56,43 +56,46 @@ The only other readable text allowed is the apartment-door number `2407` where n
 Do NOT place `2407` or any other unit/building number on the exterior high-rise facade in Panel 1.
 
 PANEL 1
-Wide exterior of the modern high-rise at night, Seoul visible outside.
+Wide exterior of the modern residential high-rise at night with a believable Seoul city setting. The building should look desirable, ordinary, and well maintained rather than ominous.
 CAPTION: UNIT 2407 WAS TOO CHEAP.
 No exterior `2407` sign or number on the building facade.
 No other text.
 
 PANEL 2
 Corridor. Nari is still OUTSIDE the apartment, balancing the same moving box while tapping the smart lock. The small moving cart with exactly TWO boxes is clearly behind her in the corridor.
-SFX: BEEP.
+SFX: BEEP
 CAPTION: IN SEOUL, CHEAP RENT ALWAYS HIDES A CATCH.
 No other text.
 
 PANEL 3
 Nari pushes the apartment door open and visibly crosses the threshold carrying the SAME box. The reader must clearly see first entry from corridor into apartment.
-SFX: CLICK.
+SFX: CLICK
 No caption. No dialogue. No other text.
 
 PANEL 4
 Nari has just set the SAME box down immediately inside. The box is visible on the floor. The front door remains open/visible, and the corridor cart with its TWO boxes remains visible through/near the doorway.
-Use this wide panel to establish the fixed apartment layout: TV left, dining table center with EXACTLY TWO burgundy chairs TOTAL, kitchen/refrigerator right, hallway behind, windows exterior. Do not draw a third or fourth dining chair.
-SFX: THUD.
-CAPTION: TWO BEDROOMS. CORNER VIEW. SMART EVERYTHING.
+Use this wide panel to establish the fixed apartment layout: TV left, dining table center with EXACTLY TWO burgundy chairs TOTAL, kitchen/refrigerator right, hallway behind, corner windows on the exterior wall with a believable city view. Do not draw a third or fourth dining chair.
+SFX: THUD
+CAPTION: TWO BEDROOMS. CORNER WINDOWS. CITY VIEW.
+CAPTION: ALL FOR LESS THAN MY OLD PLACE.
 No other text.
 
 PANEL 5
-Nari looks toward the SMALL plugged-in counter speaker. Its cord clearly reaches the outlet. Her expression is dry and suspicious, not frightened.
-NARI: WHAT IS THE CATCH?
-No caption. No other text.
+Nari scans the apartment and notices the SMALL plugged-in counter speaker. Its cord clearly reaches the outlet. Her expression is observant and mildly wary, not frightened.
+CAPTION: SMART LOCK. SMART LIGHTS. SMART CLIMATE.
+CAPTION: SMART EVERYTHING.
+No dialogue. No other text.
 
 PANEL 6
-Close-up of the correctly sized screenless corded speaker, with Nari behind/beside it in suspicious profile.
-SFX: BLIP.
+Close-up or medium close-up of the correctly sized screenless corded speaker, with Nari behind/beside it in dry profile.
+SFX: BLIP
 RECORDED SPEAKER VOICE, bubble tail points to the SPEAKER: WELCOME HOME, YOON NARI.
-NARI: FOUND IT.
+NARI: GREAT. IT TALKS.
 No other text.
 
 FINAL CHECK BEFORE GENERATING
 - Exactly 6 panels in the order above.
+- Do NOT render production panel numbers.
 - Exact text only; no invented biography, tenant rules, narration, footer, or extra dialogue.
 - Nari matches the canonical PNG and keeps loose untied short hair in every panel.
 - Scrunchie stays on wrist.
@@ -100,9 +103,27 @@ FINAL CHECK BEFORE GENERATING
 - Panel 4 has EXACTLY TWO burgundy dining chairs total, never three or four.
 - Panel 3 visibly shows threshold crossing.
 - Panel 4 visibly shows box down + open door + corridor cart continuity.
+- Use a believable high-floor Seoul CITY VIEW; do not force a river view or landmark-specific geography.
 - Speaker stays small, screenless, corded, and plugged in.
-- No Hyun-woo, blackout, hostile signal, or supernatural manifestation yet.
+- No Hyun-woo, blackout, hostile signal, supernatural manifestation, landlord warning, or future-story clue yet.
 ```
+
+## Locked Reader-Facing Text
+
+| PanelText | Text |
+| --- | --- |
+| 1 | `UNIT 2407 WAS TOO CHEAP.` |
+| 2 | `IN SEOUL, CHEAP RENT ALWAYS HIDES A CATCH.` |
+| 2 SFX | `BEEP` |
+| 3 SFX | `CLICK` |
+| 4 | `TWO BEDROOMS. CORNER WINDOWS. CITY VIEW.` |
+| 4 | `ALL FOR LESS THAN MY OLD PLACE.` |
+| 4 SFX | `THUD` |
+| 5 | `SMART LOCK. SMART LIGHTS. SMART CLIMATE.` |
+| 5 | `SMART EVERYTHING.` |
+| 6 SFX | `BLIP` |
+| 6 Speaker | `WELCOME HOME, YOON NARI.` |
+| 6 Nari | `GREAT. IT TALKS.` |
 
 ## Production Thread Use
 
