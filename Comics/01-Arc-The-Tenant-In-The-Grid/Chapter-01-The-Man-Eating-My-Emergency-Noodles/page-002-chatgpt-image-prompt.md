@@ -48,7 +48,7 @@ SPOILER BOUNDARY
 Mrs. Na gives a clear safety instruction but remains evasive about why. Do not explain Hyun-woo, the hostile system, the accident, or future rules.
 
 PAGE FORMAT AND PACING
-One vertical page with exactly 9 clearly separated panels. Do NOT render production panel numbers in the final comic. Keep dialogue bubbles readable, naturally ordered, and large enough for the exact text.
+One vertical page with exactly 9 clearly separated panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `9`, matching the reading order below. Place each number near the upper-left inside its own panel or at a quiet gutter-edge position, readable but subtle. Never place a number over dialogue, captions, SFX, faces, hands, the binder/key, hallway lamp, or story clues. Keep dialogue bubbles readable, naturally ordered, and large enough for the exact text.
 
 PAGE LAYOUT AND SCRIPT
 
@@ -100,13 +100,13 @@ SFX AND TEXT BLENDING
 Keep SFX source-aligned and easy to read. The Panel 1 time caption must be clearly noticeable and must not be reduced to tiny decorative text.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below. Dialogue is spoken aloud unless explicitly marked otherwise. Keep bubble order obvious. Do not print production labels such as `NARRATION`, `SFX`, `MRS. NA`, or `NARI` in the artwork. Do not add measurements, extra warnings, fine print, or additional dialogue.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `9`. Dialogue is spoken aloud unless explicitly marked otherwise. Keep bubble order obvious. Do not print production labels such as `NARRATION`, `SFX`, `MRS. NA`, or `NARI` in the artwork. Do not add measurements, extra warnings, fine print, or additional dialogue.
 
 STORY CLARITY
 The reader must understand: time has advanced to later that evening; Mrs. Na arrives after Nari's move-in; she gives Nari the apartment guide and detached brass backup key; she warns Nari not to let the hallway go dark after midnight; that protective light must come from the apartment itself and cannot be replaced with a phone/tablet; if the whole building loses power Nari must keep screens off and wait for power to return; Mrs. Na refuses to explain why and physically leaves.
 
 AVOID
-Avoid Nari or Mrs. Na identity drift, spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, tiny/unreadable time caption, supernatural reveal, glossy/cinematic effects, reflections, extra text, panel numbers, and flashback styling.
+Avoid Nari or Mrs. Na identity drift, spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, tiny/unreadable time caption, supernatural reveal, glossy/cinematic effects, reflections, extra text, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
 ```
 
 ## Locked Reader-Facing Text
@@ -137,6 +137,10 @@ Avoid Nari or Mrs. Na identity drift, spontaneous handbag, key teleportation, gi
 | 8 Mrs. Na | Spoken aloud to Nari | `GOOD NIGHT, MS. YOON.` |
 | 8 Nari | Spoken aloud to Mrs. Na | `THAT'S NOT VERY COMFORTING.` |
 | 9 SFX | Sound in scene | `CLINK` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `9`.
 
 ## Production Thread Use
 
