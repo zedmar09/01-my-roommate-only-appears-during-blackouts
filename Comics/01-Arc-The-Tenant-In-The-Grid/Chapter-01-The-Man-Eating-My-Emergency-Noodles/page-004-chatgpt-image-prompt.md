@@ -45,7 +45,8 @@ The visual difference must be obvious even though Nari does not yet understand i
 
 PAGE STRUCTURE
 Use exactly SEVEN clearly separated panels.
-Do NOT render production panel numbers.
+Render exactly ONE small circled panel-order number inside every panel: `1` through `7`, matching the reading order below.
+Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, captions, SFX, faces, hands, plugs, screens, or story clues.
 
 PAGE LAYOUT AND SCRIPT
 
@@ -87,7 +88,7 @@ FRIDGE: TENANT PROFILE: PENDING
 No silhouette, reflection, face, or body appears on the refrigerator.
 
 TEXT AND LETTERING RULES
-Use only the exact reader-facing text listed below.
+Use only the exact reader-facing text listed below, plus the required small circled panel-order numbers `1` through `7`.
 Do not paraphrase or add dialogue.
 TV text must use the clean cyan-white unknown-male signature.
 Refrigerator text must use the corrupted hostile signature.
@@ -106,7 +107,7 @@ The reader must understand this sequence:
 - Nari does not yet understand that there are two actors
 
 AVOID
-Avoid tiny time captions, production panel numbers, Nari asking who it is before verifying the unplugged TV remains active, `NOT THE FRIDGE`, `OUR APARTMENT`, TV reflections, refrigerator reflections, humanoid silhouettes, physical Hyun-woo, identical visual styling for TV and refrigerator text, changed appliance bodies, glossy screens, cinematic glow, extra dialogue, or spoilers.
+Avoid tiny time captions, missing/duplicated/out-of-order/oversized panel numbers, Nari asking who it is before verifying the unplugged TV remains active, `NOT THE FRIDGE`, `OUR APARTMENT`, TV reflections, refrigerator reflections, humanoid silhouettes, physical Hyun-woo, identical visual styling for TV and refrigerator text, changed appliance bodies, glossy screens, cinematic glow, extra dialogue, or spoilers.
 ```
 
 ## Locked Reader-Facing Text
@@ -125,6 +126,10 @@ Avoid tiny time captions, production panel numbers, Nari asking who it is before
 | 6 Nari | Spoken aloud to the TV | `WHAT DOES THAT MEAN?` |
 | 7 SFX | Apartment lights flicker / sound in scene | `FZZT` |
 | 7 Fridge | Hostile device text / reader sees it; Nari does not clearly see it | `TENANT PROFILE: PENDING` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `7`.
 
 ## Production Thread Use
 
