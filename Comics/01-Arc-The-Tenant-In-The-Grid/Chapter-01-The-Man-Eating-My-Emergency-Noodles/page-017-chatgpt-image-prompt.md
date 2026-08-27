@@ -100,7 +100,7 @@ Reveal only that Hyun-woo can borrow just enough power to talk through the unplu
 Do not reveal Hyun-woo's origin, the hostile system's name/origin, host mechanics, accidents, culprits, future memory rules, or climax.
 
 PAGE FORMAT AND PACING
-One vertical page with 8 panels. Do NOT render reader-facing production panel numbers.
+One vertical page with exactly 8 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `8`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, SFX, Nari's face/hands, cabinet/stockpot/speaker, knife/sheath, food, or clues.
 The page should move continuously from suspicion -> confirmation of Hyun-woo's voice -> safe knife storage -> cautious food inspection -> limited trust -> useful warning.
 
 PAGE LAYOUT AND SCRIPT
@@ -143,14 +143,14 @@ Use only `CREAK`, `CLINK`, and `SHK`, each source-aligned to the correct physica
 Speaker speech uses normal voice bubbles with a restrained clean cyan-white accent and tails pointing to the speaker hardware. Do not use hostile device-text styling.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below.
-No brands, logos, promotional text, random Korean text, extra jokes, additional exposition, printed panel numbers, or words printed directly on the speaker.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `8`.
+No brands, logos, promotional text, random Korean text, extra jokes, additional exposition, or words printed directly on the speaker.
 
 STORY CLARITY
 The reader must understand: the same hidden unplugged speaker from Page 5 is responding; Hyun-woo can borrow only enough power to speak while remaining physically absent; Nari safely removes and sheathes the knife before handling food; she inspects the food before eating; and Hyun-woo gives two practical warnings that lead directly into Page 18's binder question.
 
 AVOID
-Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/silhouetted Hyun-woo, different speaker design, plugged-in speaker, moving speaker out of stockpot, merging storage stockpot with noodle cooking pot, changing towels, cabinet relocation, teleporting Nari or knife, loose knife at table, casual unexamined eating, missing trivet/cloth/candle holder, moving binder/key/notebook, closing pantry, hostile speaker styling, broken glyphs/black pixels, glossy/cinematic lighting, extra lore/text, reader-facing panel numbers, and spoilers.
+Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/silhouetted Hyun-woo, different speaker design, plugged-in speaker, moving speaker out of stockpot, merging storage stockpot with noodle cooking pot, changing towels, cabinet relocation, teleporting Nari or knife, loose knife at table, casual unexamined eating, missing trivet/cloth/candle holder, moving binder/key/notebook, closing pantry, hostile speaker styling, broken glyphs/black pixels, glossy/cinematic lighting, extra lore/text, missing/duplicated/out-of-order/oversized panel numbers, and spoilers.
 ```
 
 ## Locked Reader-Facing Text
@@ -175,6 +175,10 @@ Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/s
 | 8 Hyun-woo | Voice through speaker | `AND STAY AWAY FROM THE SOUTH-WALL PANEL.` |
 | 8 Nari | Spoken toward speaker | `THE PANEL IN THE BINDER?` |
 | 8 Hyun-woo | Voice through speaker | `YES.` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `8`.
 
 ## Production Thread Use
 
