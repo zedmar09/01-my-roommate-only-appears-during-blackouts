@@ -61,7 +61,7 @@ SPOILER BOUNDARY
 Reveal only that the hidden eater is the same presence Nari has been communicating with and reveal his name. Do not explain his origin, the hostile system's origin/name, the accident, or future rules.
 
 PAGE FORMAT AND PACING
-One vertical page with 4 large panels. Do not render production panel numbers.
+One vertical page with exactly 4 large panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `4`, matching the reading order below. Place each number near the upper-left inside its own panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, SFX, Nari/Hyun-woo faces or hands, knife, mask, pot, candle, or spatial clues.
 The conversation should feel tense and controlled, not comedic. Hyun-woo speaks briefly and calmly; Nari remains suspicious and does not lower the knife simply because he asks.
 
 PAGE LAYOUT AND SCRIPT
@@ -88,13 +88,13 @@ SFX AND TEXT BLENDING
 Only the quiet mask SFX `TCHK`. No electrical spectacle, no additional SFX, no relocation cues.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing dialogue/SFX listed below. Do not add narration, screen text, labels, product text, or extra dialogue.
+Use only the exact uppercase reader-facing dialogue/SFX listed below, plus the required small circled panel-order numbers `1` through `4`. Do not add narration, screen text, labels, product text, or extra dialogue.
 
 STORY CLARITY
 The reader must understand that the hidden eater from Page 10 is the SAME canonical Hyun-woo in the SAME chair. Nari challenges him, he connects himself to the communications she has already encountered, makes clear that only SOME of the screen activity was his, then finally gives his name.
 
 AVOID
-Avoid Nari or Hyun-woo identity drift; relocating Hyun-woo to sink/washbasin/counter/cooktop/island; changing dining chairs; changing table, pot, trivet, candle, refrigerator, pantry, or sink positions; resetting camera geography; short-haired Hyun-woo; generic cloth mask; simplified/new tattoo map; slimmer recast build; uncovered lower face; eating through mask; glowing veins; neon tattoos; oversized body/props; cinematic candle glow; reflections; extra text; jokes; or spoilers.
+Avoid Nari or Hyun-woo identity drift; relocating Hyun-woo to sink/washbasin/counter/cooktop/island; changing dining chairs; changing table, pot, trivet, candle, refrigerator, pantry, or sink positions; resetting camera geography; short-haired Hyun-woo; generic cloth mask; simplified/new tattoo map; slimmer recast build; uncovered lower face; eating through mask; glowing veins; neon tattoos; oversized body/props; cinematic candle glow; reflections; extra text; jokes; missing/duplicated/out-of-order/oversized panel numbers; or spoilers.
 ```
 
 ## Locked Reader-Facing Text
@@ -111,6 +111,10 @@ Avoid Nari or Hyun-woo identity drift; relocating Hyun-woo to sink/washbasin/cou
 | 3 SFX | Hyun-woo securing/adjusting his mask | `TCHK` |
 | 4 Nari | Spoken aloud to Hyun-woo | `THEN WHO ARE YOU?` |
 | 4 Hyun-woo | Spoken aloud to Nari | `HYUN-WOO.` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `4`.
 
 ## Production Thread Use
 
