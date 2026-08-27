@@ -2,7 +2,7 @@
 
 Status: **PASS — FINAL PRE-GENERATION GUARD COMPLETE**
 
-This is the current go/no-go audit of the Chapter 1 production package on `main` after the completed Page 1–18 dialogue/continuity rewrite, shared guard cleanup, and the new visible panel-order-marker requirement.
+This is the current go/no-go audit of the Chapter 1 production package on `main` after the completed Page 1–18 dialogue/continuity rewrite, shared guard cleanup, visible panel-order-marker requirement, and scene-adaptive narration-design rule.
 
 ## Audited Production Package
 
@@ -17,11 +17,9 @@ This is the current go/no-go audit of the Chapter 1 production package on `main`
 
 Chapter 1 contains exactly **18 story pages**. There is no Page 019 production prompt.
 
-## Panel Order Marker Change
+## Panel Order Marker Rule
 
-The production rule has intentionally changed from the earlier no-number policy.
-
-Every Chapter 1 interior story panel now requires one small circled reader-facing order marker:
+Every Chapter 1 interior story panel requires one small circled reader-facing order marker:
 
 - Page 1: `1–6`
 - Page 2: `1–9`
@@ -54,15 +52,30 @@ Rules:
 - no separate reader-facing page number required
 - support banners do not use panel markers
 
+## Narration Caption Design Rule
+
+Narration/time-caption **wording is locked**, but its graphic presentation is intentionally dynamic.
+
+- Caption design responds to the actual panel and story moment.
+- Do not force one fixed white box, background, border, color, shape, size, or placement across the chapter.
+- Use a restrained high-contrast flat-2D treatment that fits the local scene: light box, dark box, bordered shape, restrained banner, or another simple readable treatment.
+- Keep narration visually distinct from dialogue, SFX, device text, notebook text, and the small circled panel-order marker.
+- Never sacrifice readability: no low-contrast bare text over busy or very dark artwork.
+- Large time captions remain large/noticeable even though their styling is adaptive.
+- Pages without narration do not gain invented captions.
+
+For Chapter 1, the narration-bearing page prompts are explicitly aligned to this rule. Narration-free pages remain unchanged while inheriting the same global guard through `Comics/style-guide.md` and `Comics/prompt-template.md`.
+
 ## Final Verification Matrix
 
 | Area | Result | Verified state |
 |---|---|---|
 | Page sequence | PASS | Exactly Pages 001–018; no Page 019. |
 | Master/story sync | PASS | `chapter.md` remains synchronized to the locked Page 1–18 story/dialogue. |
-| Dialogue | PASS | The panel-marker change does not alter approved dialogue, narration, device text, notebook text, or SFX. |
+| Dialogue | PASS | Production-presentation changes do not alter approved dialogue, narration wording, device text, notebook text, or SFX. |
 | Panel counts | PASS | Locked counts remain `6, 9, 7, 7, 7, 9, 6, 6, 5, 6, 4, 6, 5, 8, 8, 8, 8, 6`. |
-| Panel order markers | PASS | Every page prompt now requires one small circled marker per panel in exact consecutive reading order. |
+| Panel order markers | PASS | Every page prompt requires one small circled marker per panel in exact consecutive reading order. |
+| Narration design | PASS | Narration/time-caption wording is exact; presentation is scene-adaptive, high-contrast, and not locked to a universal white box/background/shape. |
 | Time transitions | PASS | Meaningful time jumps remain large noticeable in-panel narration captions; no separate tiny time-card gutters. |
 | Canonical identities | PASS | Nari, Mrs. Na, Seungjae, and Hyun-woo use approved canonical references where visually present. |
 | Visual style | PASS | Flat 2D human-drawn matte manga/manhwa; glossy/cinematic/photoreal/3D/painterly/reflective treatments rejected. |
@@ -94,8 +107,12 @@ Do not reintroduce:
 - `LOSS OF BUILDING POWER REQUIRED.` as the final notebook hypothesis
 - separate tiny/full-width time-card gutters for Chapter 1
 - the obsolete instruction to remove all panel numbers
+- any obsolete instruction forcing all narration into identical solid-white caption boxes
 
-The current requirement is the opposite of the old panel-number rule: **small circled order markers are mandatory on every interior story panel.**
+The current requirements are:
+
+- **small circled order markers are mandatory on every interior story panel**
+- **narration design is dynamic and scene-adaptive while exact wording stays locked**
 
 ## Final Generation Guard
 
@@ -108,14 +125,16 @@ Chapter 1 is cleared for generation only with strict sequential approval:
 5. Verify canonical character identity.
 6. Verify environment geometry and object states.
 7. Verify exact dialogue/narration/device/notebook text and SFX.
-8. Verify correct lighting/power state and clean-vs-hostile device signature.
-9. Reject any page with missing, duplicate, skipped, out-of-order, oversized, or obstructive markers.
-10. Only an **approved** Page N may become the continuity reference for Page N+1.
-11. Never use rejected/provisional/drifted artwork downstream.
-12. After Page 18, perform one final Page 1→18 visual continuity audit.
+8. Where narration/time captions are present, verify scene-appropriate dynamic treatment, high contrast, readability, and required time-caption prominence.
+9. Reject narration that is unreadable or mechanically forced into one universal caption style regardless of scene.
+10. Verify correct lighting/power state and clean-vs-hostile device signature.
+11. Reject any page with missing, duplicate, skipped, out-of-order, oversized, or obstructive panel markers.
+12. Only an **approved** Page N may become the continuity reference for Page N+1.
+13. Never use rejected/provisional/drifted artwork downstream.
+14. After Page 18, perform one final Page 1→18 visual continuity audit.
 
 ## Final Result
 
-**PASS — Chapter 1's 18-page production package and shared guardrails are aligned with the visible panel-order-marker requirement and cleared for strict sequential image generation.**
+**PASS — Chapter 1's 18-page production package and shared guardrails are aligned with both the visible panel-order-marker requirement and the scene-adaptive narration-design rule, and are cleared for strict sequential image generation.**
 
 This PASS applies to instructions currently on `main`. It does not pre-approve generated artwork; every rendered page still requires post-generation review.
