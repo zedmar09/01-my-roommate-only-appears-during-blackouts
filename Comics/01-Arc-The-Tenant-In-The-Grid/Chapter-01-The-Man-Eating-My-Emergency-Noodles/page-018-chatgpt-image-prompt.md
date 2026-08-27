@@ -111,7 +111,7 @@ End only on the hostile tenant-confirmation beat.
 Do not reveal the hostile system's name/origin, Hyun-woo's accident/origin, culprit, host mechanics, future memory rules, restoration, sacrifice, or climax.
 
 PAGE FORMAT AND PACING
-One vertical page with 6 panels. Do NOT render reader-facing production panel numbers.
+One vertical page with exactly 6 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `6`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, notebook handwriting, TV text, SFX, Nari's face/hands, speaker/cabinet, or final clues.
 The pacing should feel like one connected ending sequence: panel warning -> Hyun-woo's guarded answer -> Nari chooses paper documentation -> observation/hypothesis -> hostile system interrupts and confirms her tenancy.
 
 PAGE LAYOUT AND SCRIPT
@@ -149,17 +149,17 @@ Keep each sound source-aligned to the correct object/event.
 Do not add unrelated static, footsteps, chimes, speaker sounds, or dramatic sound effects.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `6`.
 Hyun-woo's line appears as voice-through-speaker dialogue, never printed on the speaker.
 Notebook text must visibly look handwritten on paper.
 Final TV text uses only hostile broken-white/black-pixel styling.
-Do not add brands, logos, promotional text, random Korean text, fake interface text, reader-facing panel numbers, or extra exposition.
+Do not add brands, logos, promotional text, random Korean text, fake interface text, or extra exposition.
 
 STORY CLARITY
 The reader must understand: Page 18 begins from the exact Page 17 table/cabinet setup; Hyun-woo refuses to answer the missing-section question; he cannot promise he is harmless; Nari physically retrieves the paper notebook because digital records are unreliable; she records one observation and one cautious hypothesis; and the hostile system—not Hyun-woo—interrupts from the still-unplugged TV with `NEW TENANT CONFIRMED`.
 
 AVOID
-Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/silhouetted Hyun-woo, moving or closing the open speaker cabinet, moving the speaker/storage stockpot/towels/lid, plugging in the speaker, moving binder/key/phone, moving or unsheathing the knife, moving the dining table/pot/trivet/cloth/candle/pushed chair/pantry, teleporting the notebook, digital notebook substitution, `LOSS OF BUILDING POWER REQUIRED`, reflective TV imagery, clean cyan final TV text, plugging in the TV, humanoid silhouette on TV, third figure, glossy/cinematic lighting, extra lore/text, reader-facing panel numbers, or spoilers.
+Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/silhouetted Hyun-woo, moving or closing the open speaker cabinet, moving the speaker/storage stockpot/towels/lid, plugging in the speaker, moving binder/key/phone, moving or unsheathing the knife, moving the dining table/pot/trivet/cloth/candle/pushed chair/pantry, teleporting the notebook, digital notebook substitution, `LOSS OF BUILDING POWER REQUIRED`, reflective TV imagery, clean cyan final TV text, plugging in the TV, humanoid silhouette on TV, third figure, glossy/cinematic lighting, extra lore/text, missing/duplicated/out-of-order/oversized panel numbers, or spoilers.
 ```
 
 ## Locked Reader-Facing Text
@@ -182,6 +182,10 @@ Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/s
 | 6 TV | Hostile device text | `NEW TENANT CONFIRMED` |
 | 6 SFX | Apartment lights flickering once | `FZZT` |
 | 6 | No Nari dialogue - end on her reaction | — |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `6`.
 
 ## Production Thread Use
 
