@@ -45,6 +45,19 @@ The TV remains visibly UNPLUGGED in its established living-room position from Pa
 The refrigerator, sink, cooktop, dining table, pantry, cabinet, desk, entry shelf, TV console, and all apartment geometry remain fixed.
 Do not clean up, move, duplicate, resize, rotate, replace, merge, or reset any object unless this page explicitly scripts that movement.
 
+CURRENT-TIME POWERED-LIGHTING CONTINUITY LOCK - ABSOLUTE
+Page 18 directly continues the restored-power state from Pages 16-17. The PRESENT-TIME apartment remains visibly powered and normally lit throughout ALL SIX PANELS.
+Use the same medium-bright neutral powered interior baseline in the kitchen, dining area, desk area, living room, and all connecting views.
+Do NOT reintroduce the Page 9-15 blackout palette on Page 18.
+Do NOT render current-time Page 18 as dark, dim, underexposed, blue-black, deep charcoal blackout lighting, candlelit, emergency-lit, silhouette-heavy, or dependent on speaker/TV glow for visibility.
+The extinguished candle is only a continuity prop and provides ZERO story-world lighting.
+Nari's same clothes from the blackout are WARDROBE continuity only; they do NOT imply blackout lighting.
+The weak speaker indicator remains a tiny contained signal only and does not illuminate the room.
+The hostile TV activation in Panel 6 occurs while Unit 2407 is STILL normally powered. The TV's supernatural activation does NOT cause another outage.
+The Panel 6 apartment-light flicker is one brief flicker only. The lights stay powered before, during, and after the beat; do NOT turn the final panel into blackout darkness.
+Do NOT show Hyun-woo becoming physical during the TV activation because Unit 2407 never loses ordinary power on Page 18.
+If any Page 18 panel looks as though Unit 2407 is unpowered or has returned to blackout conditions, the page is NOT approved.
+
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 Use 100% flat 2D human-drawn manga/manhwa with clean ink, matte cel colors, solid blocks, mature adult proportions, and one controlled hard-edged shadow.
 HARD BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, bloom, rim light, volumetric light, gradients, glare, lens flare, wet/shiny surfaces, or over-rendering.
@@ -80,13 +93,14 @@ The TV activation is supernatural and does NOT mean its wall plug has been recon
 
 POWER AND LIGHTING LOCK
 Unit 2407 remains normally powered during the entire page.
-Use a medium-bright neutral powered apartment baseline.
+Use a medium-bright neutral powered apartment baseline in Panels 1-6 without exception.
 The weak speaker indicator is contained and casts no room glow.
 The final TV activation and apartment-light flicker are brief flat effects only: no bloom, flare, rays, cinematic darkness, reflection, or color wash.
+The apartment-light `FZZT` in Panel 6 is a momentary flicker, not a blackout. The room must remain readable as powered immediately after the flicker.
 Hyun-woo does NOT become physical when the unplugged TV activates because Unit 2407 itself remains powered.
 
 CHARACTER CONSISTENCY
-Nari is the SAME approved canonical adult Nari in the exact Page 17 outfit and physical state.
+Nari is the SAME approved canonical adult Nari in the exact Page 17 outfit and physical state. This is wardrobe continuity only; the apartment remains normally powered and lit.
 Her behavior remains analytical and controlled. She is processing evidence, not becoming suddenly casual, comedic, hysterical, or flirtatious.
 Her expressions progress naturally: suspicion at Hyun-woo's silence -> cautious concern -> methodical documentation -> alarm when hostile TV text appears.
 No second physical person appears.
@@ -124,33 +138,33 @@ One vertical page with exactly 6 panels. Render exactly ONE small circled panel-
 The pacing should feel like one connected ending sequence: panel warning -> Hyun-woo's guarded answer -> Nari chooses paper documentation -> observation/hypothesis -> hostile system interrupts and confirms her tenancy.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 - Exact Page 17 continuation. Nari remains seated at the SAME dining table. She looks from the SAME open speaker cabinet toward the SAME electrical binder on the kitchen counter. Binder remains untouched.
+PANEL 1 - Exact Page 17 continuation in the normally lit powered apartment. Nari remains seated at the SAME dining table. She looks from the SAME open speaker cabinet toward the SAME electrical binder on the kitchen counter. Binder remains untouched.
 NARI, spoken toward open speaker cabinet: THE MISSING SECTION WAS ABOUT THAT PANEL, WASN'T IT?
 The speaker gives no answer.
 After the silence, Nari looks back toward the speaker.
 NARI, spoken toward speaker: HYUN-WOO?
 
-PANEL 2 - Nari remains seated in the same position. The weak clean speaker signal is still present; Hyun-woo remains voice-only.
+PANEL 2 - Nari remains seated in the same normally lit position. The weak clean speaker signal is still present; Hyun-woo remains voice-only.
 NARI, spoken toward speaker: ARE YOU DANGEROUS?
 HYUN-WOO, voice through speaker: I CAN'T PROMISE I'M NOT.
 
-PANEL 3 - No dialogue. Nari stands from the SAME occupied dining chair and walks from the dining area to the established work desk. The open cabinet, speaker/storage stockpot, binder, key, phone, table props, pantry, and TV all remain fixed.
+PANEL 3 - No dialogue. Nari stands from the SAME occupied dining chair and walks through the normally lit apartment from the dining area to the established work desk. The open cabinet, speaker/storage stockpot, binder, key, phone, table props, pantry, and TV all remain fixed.
 
-PANEL 4 - At the SAME work desk, Nari picks up the SAME A5 grocery notebook and a pen. The safely sheathed practical knife, failed flashlight, and radio remain in the desk tray. Nari then physically returns to the SAME dining table carrying only notebook and pen.
+PANEL 4 - At the SAME normally lit work desk, Nari picks up the SAME A5 grocery notebook and a pen. The safely sheathed practical knife, failed flashlight, and radio remain in the desk tray. Nari then physically returns to the SAME dining table carrying only notebook and pen.
 No dialogue.
 
-PANEL 5 - Seated again at the SAME dining-table chair, Nari opens the A5 notebook to a clean page and writes. City outside remains normally lit. Keep handwriting large enough to read and on separate lines.
+PANEL 5 - Seated again at the SAME dining-table chair in the normally lit powered apartment, Nari opens the A5 notebook to a clean page and writes. City outside remains normally lit. Keep handwriting large enough to read and on separate lines.
 NOTEBOOK, physical handwriting: UNIT 2407 — BUG REPORT
 NOTEBOOK, physical handwriting: OBSERVATION 001:
 NOTEBOOK, physical handwriting: HYUN-WOO BECAME PHYSICAL DURING THE BLACKOUT.
 NOTEBOOK, physical handwriting: HYPOTHESIS:
 NOTEBOOK, physical handwriting: LOSS OF APARTMENT POWER MAY BE THE TRIGGER.
 
-PANEL 6 - Dominant final panel. Nari is still at the dining table when the SAME visibly unplugged matte TV in the living-room area activates. It displays only hostile broken-white text with crawling black pixels. Nari turns from the notebook toward the TV from her existing position. The apartment lights flicker once but stay powered. No reflection or silhouette appears on TV.
+PANEL 6 - Dominant final panel. Nari is still at the dining table in the normally powered apartment when the SAME visibly unplugged matte TV in the living-room area activates. It displays only hostile broken-white text with crawling black pixels. Nari turns from the notebook toward the TV from her existing position. The apartment lights flicker once but STAY POWERED; do not turn the room dark before or after the flicker. No reflection or silhouette appears on TV.
 SFX at TV activation: KZZT
 TV, hostile device text: NEW TENANT CONFIRMED
 SFX for apartment lights flickering once: FZZT
-No Nari dialogue. End on her reaction and the hostile message.
+No Nari dialogue. End on her reaction and the hostile message while Unit 2407 remains powered.
 
 SFX AND TEXT BLENDING
 Use only `KZZT` for the TV activation and `FZZT` for the single apartment-light flicker.
@@ -165,10 +179,10 @@ Final TV text uses only hostile broken-white/black-pixel styling.
 Do not add brands, logos, promotional text, random Korean text, fake interface text, or extra exposition.
 
 STORY CLARITY
-The reader must understand: Page 18 begins from the exact Page 17 table/cabinet setup; Hyun-woo refuses to answer the missing-section question; he cannot promise he is harmless; Nari physically retrieves the paper notebook because digital records are unreliable; she records one observation and one cautious hypothesis; and the hostile system—not Hyun-woo—interrupts from the still-unplugged TV with `NEW TENANT CONFIRMED`.
+The reader must understand: Page 18 begins from the exact normally powered Page 17 table/cabinet setup; Hyun-woo refuses to answer the missing-section question; he cannot promise he is harmless; Nari physically retrieves the paper notebook because digital records are unreliable; she records one observation and one cautious hypothesis; and the hostile system—not Hyun-woo—interrupts from the still-unplugged TV while Unit 2407 remains powered with `NEW TENANT CONFIRMED`.
 
 AVOID
-Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/silhouetted Hyun-woo, moving or closing the open speaker cabinet, moving the speaker/storage stockpot/towels/lid, plugging in the speaker, moving binder/key/phone, moving or unsheathing the knife, moving the dining table/pot/trivet/cloth/candle/pushed chair/pantry, teleporting the notebook, digital notebook substitution, `LOSS OF BUILDING POWER REQUIRED`, reflective TV imagery, clean cyan final TV text, plugging in the TV, humanoid silhouette on TV, third figure, glossy/cinematic lighting, extra lore/text, missing/duplicated/out-of-order/oversized panel numbers, or spoilers.
+Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/silhouetted Hyun-woo, moving or closing the open speaker cabinet, moving the speaker/storage stockpot/towels/lid, plugging in the speaker, moving binder/key/phone, moving or unsheathing the knife, moving the dining table/pot/trivet/cloth/candle/pushed chair/pantry, teleporting the notebook, digital notebook substitution, `LOSS OF BUILDING POWER REQUIRED`, reflective TV imagery, clean cyan final TV text, plugging in the TV, humanoid silhouette on TV, third figure, glossy/cinematic lighting, dark/underexposed current-time panels, blackout palette, emergency-light look, speaker/TV glow as room lighting, treating the final `FZZT` as a new outage, Hyun-woo becoming physical, extra lore/text, missing/duplicated/out-of-order/oversized panel numbers, or spoilers.
 ```
 
 ## Locked Reader-Facing Text
