@@ -12,6 +12,15 @@ Execute the script literally as written, then output the comic image only.
 If an instruction seems unusual, follow the written instruction instead of substituting a more generic comic action.
 The only creative freedom is the visual drawing/composition needed to realize the locked instructions without changing their meaning.
 
+READER-FACING TEXT LOCK — ABSOLUTE
+All reader-facing text in this page prompt is FINAL and must be reproduced VERBATIM.
+This includes dialogue, narration/time captions, internal thoughts, SFX, device/screen text, printed object text, handwritten notes, messages, interface labels, timestamps, and any other explicitly scripted readable text.
+Do NOT rewrite, paraphrase, shorten, expand, correct, translate, summarize, censor, merge, split, substitute, reorder, duplicate, omit, or invent any reader-facing text.
+Preserve exact spelling, punctuation, capitalization, ellipses, dashes, numbers, wording, speaker/source attribution, and panel assignment.
+A line assigned to a specific character, narrator, device, object, or SFX source must remain with that exact source and in that exact scripted panel.
+Only visual styling and placement required for readability may adapt; styling must never alter wording or source attribution.
+If exact scripted text cannot be rendered correctly, the page is NOT approved. Never replace it with approximate text.
+
 IMPORTANT REFERENCES
 Use `../../../characters.md` and `../../style-guide.md`; match approved Page 1 for page-to-page continuity.
 
