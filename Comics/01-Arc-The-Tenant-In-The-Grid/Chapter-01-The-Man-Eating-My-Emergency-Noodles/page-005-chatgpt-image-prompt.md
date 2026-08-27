@@ -46,6 +46,13 @@ Do not reduce time narration to tiny decorative gutter text.
 Panel 5 must visibly contain: `1:17 A.M.`
 Panel 6 must visibly contain: `THE NEXT MORNING`
 
+NARRATION CAPTION DESIGN
+Narration and time-caption presentation is scene-adaptive, not fixed to one background, color, shape, or placement.
+Blend each narration caption into its actual panel while keeping it clearly readable and visually distinct from dialogue, SFX, device text, and the small circled panel-order number.
+Use whatever restrained flat-2D caption treatment best fits that scene—light, dark, solid, bordered, or another simple high-contrast shape—without changing the exact wording.
+Do NOT force a white caption box when the scene calls for another treatment, and do NOT force every caption on the page to look identical.
+Maintain strong contrast and breathing room; never place narration as unreadable bare text over busy artwork.
+
 SPOILER BOUNDARY
 Do not show who moved the pen, Hyun-woo's body, hostile entity form, or future lore. The helpful presence still does not give Nari its name.
 
@@ -77,7 +84,7 @@ ORIGINAL NOTE: WHO ARE YOU?
 NEW HANDWRITTEN REPLY: NOT THE ONE YOU SHOULD BE AFRAID OF.
 
 SFX AND TEXT BLENDING
-Keep object sounds small and source-aligned. `SCRATCH... SCRATCH...` must clearly come from the pen touching the paper. Time captions are intentionally prominent and must not be treated as decorative microtext.
+Keep object sounds small and source-aligned. `SCRATCH... SCRATCH...` must clearly come from the pen touching the paper. Time captions are intentionally prominent, but their visual treatment should adapt to each panel rather than being forced into one fixed caption-box style.
 
 TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `7`. The reply is ordinary physical handwriting on paper, visually distinct from Nari's handwriting. Do not render it as glowing text, a speech bubble, digital typography, or hostile broken glyphs. Do not print production labels such as `NOTE`, `ORIGINAL NOTE`, `NEW HANDWRITTEN REPLY`, `NARI`, or `SFX` in the artwork.
@@ -86,7 +93,7 @@ STORY CLARITY
 The reader must understand: Nari hides the unplugged speaker and prepares defensively; she leaves a handwritten question and pen as a low-tech test; at exactly 1:17 A.M. a brief electrical flicker coincides with the pen moving by itself; the next morning she finds a physical handwritten reply that refuses to identify the helpful presence but warns that something else is the real danger.
 
 AVOID
-Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, unguarded knife, moving speaker without showing hands, missing towels/lid, toaster crumbs forming words, crumbs moving across paper, floating ink, invisible hand, physical Hyun-woo, hostile signature, flashback styling, glossy/cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, and extra text.
+Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, rigid one-style-fits-all narration treatment, unguarded knife, moving speaker without showing hands, missing towels/lid, toaster crumbs forming words, crumbs moving across paper, floating ink, invisible hand, physical Hyun-woo, hostile signature, flashback styling, glossy/cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, and extra text.
 ```
 
 ## Locked Reader-Facing Text
