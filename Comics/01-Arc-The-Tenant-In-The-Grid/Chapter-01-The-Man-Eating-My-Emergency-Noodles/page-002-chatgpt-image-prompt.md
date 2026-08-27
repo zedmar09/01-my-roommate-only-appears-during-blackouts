@@ -21,6 +21,17 @@ A line assigned to a specific character, narrator, device, object, or SFX source
 Only visual styling and placement required for readability may adapt; styling must never alter wording or source attribution.
 If exact scripted text cannot be rendered correctly, the page is NOT approved. Never replace it with approximate text.
 
+DIALOGUE / CALLOUT ATTRIBUTION LOCK — CRITICAL
+Speaker attribution is part of the locked script and is NOT optional layout styling.
+Every spoken line must belong only to the exact scripted speaker shown for that line.
+Every speech-bubble tail/callout must point unmistakably to the correct speaking character or exact audio source. Never point between two characters, toward the wrong character, or into an ambiguous shared space.
+When Nari and Mrs. Na both speak in the same panel, keep each speaker's bubble on or near that speaker's side of the composition and direct its tail only to that speaker.
+Do not cross Nari's and Mrs. Na's speech-bubble tails. Do not merge dialogue from different speakers into one bubble. Do not attach one character's line to the other character's bubble.
+Consecutive lines from the SAME speaker may use clearly connected bubbles only if the source remains unmistakable and the exact wording/order is preserved.
+Narration captions, SFX, binder/object text, and other non-spoken text must NOT receive character speech-bubble tails.
+Preserve the exact dialogue order written in each panel. Bubble placement may adapt for readability, but speaker ownership and reading sequence may not change.
+If any line appears to come from the wrong person, if a tail points to the wrong person, or if speaker ownership is visually ambiguous, the page is NOT approved.
+
 IMPORTANT REFERENCES
 Use `../../../characters.md` and `../../style-guide.md`; match approved Page 1 for page-to-page continuity.
 
@@ -104,38 +115,49 @@ No dialogue.
 
 PANEL 2 - From the SAME apartment-side entry geography, Nari opens the door from INSIDE Unit 2407. This is the first reveal of the corridor. Mrs. Na waits outside with the already-established handbag, binder, and key ring.
 MRS. NA, spoken aloud to Nari: I BROUGHT THE APARTMENT GUIDE.
+Bubble tail/callout must point to MRS. NA only.
 
 PANEL 3 - Nari steps aside; Mrs. Na visibly crosses the threshold. A connecting view leads naturally toward the kitchen.
 No text.
 
-PANEL 4 - At the counter, Mrs. Na lays down the correctly sized binder, detaches the brass key from her ring, then places it beside the binder. Remaining keys stay in her hand.
+PANEL 4 - At the counter, Mrs. Na lays down the correctly sized binder, detaches the brass key from her ring, then places it beside the binder. Remaining keys stay in her hand. Keep BOTH characters visibly readable enough that their dialogue ownership is obvious.
 SFX: THUMP
 SFX: CLINK
 BINDER PRINTED TEXT: UNIT 2407 / ELECTRICAL OPERATION GUIDE
 NARI, spoken aloud to Mrs. Na: THIS PLACE NEEDS A MANUAL?
+- Put this line in NARI'S own speech bubble on/near Nari's side of the panel. Its tail/callout points ONLY to Nari.
 MRS. NA, spoken aloud to Nari: IT DOES.
+- Put this reply in MRS. NA'S own speech bubble on/near Mrs. Na's side of the panel. Its tail/callout points ONLY to Mrs. Na.
+Do NOT cross the two speech-bubble tails. Do NOT merge these two speakers into one bubble. `THUMP`, `CLINK`, and the binder title are not speech bubbles and receive no character tails.
 
-PANEL 5 - Nari asks a practical question. Mrs. Na becomes noticeably serious before giving the one instruction that matters.
+PANEL 5 - Nari asks a practical question. Mrs. Na becomes noticeably serious before giving the one instruction that matters. Keep BOTH characters visibly readable enough that the question and reply sequence cannot be confused.
 NARI, spoken aloud to Mrs. Na: ANYTHING I ACTUALLY NEED TO KNOW?
+- NARI'S bubble must be on/near Nari's side with a tail pointing ONLY to Nari.
 MRS. NA, spoken aloud to Nari: YES. ONE THING.
+- MRS. NA'S reply bubble must be on/near Mrs. Na's side with a tail pointing ONLY to Mrs. Na.
 MRS. NA, spoken aloud to Nari: AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.
+- This is ALSO Mrs. Na's line. Use a second clearly connected Mrs. Na bubble or a separate Mrs. Na bubble with its source unmistakably Mrs. Na. Do NOT point it to Nari.
+Reading order in Panel 5 is locked: Nari question → Mrs. Na `YES. ONE THING.` → Mrs. Na warning. Do not reorder these lines or cross their callouts.
 
 PANEL 6 - Mrs. Na points specifically to the active hallway lamp. Nari follows her gesture.
 MRS. NA, spoken aloud to Nari: THE LIGHT HAS TO COME FROM THE APARTMENT ITSELF.
 MRS. NA, spoken aloud to Nari: DON'T TRY TO REPLACE IT WITH A PHONE OR TABLET.
 NARI, spoken aloud to Mrs. Na: WHY? WHAT HAPPENS IF IT GOES OUT?
+All Mrs. Na bubbles/tails point only to Mrs. Na. Nari's question bubble/tail points only to Nari. Preserve the written order and do not cross speaker tails.
 
 PANEL 7 - Mrs. Na checks her analog watch. She avoids the reason, so Nari asks the obvious practical follow-up.
 MRS. NA, spoken aloud to Nari: JUST KEEP IT ON.
 NARI, spoken aloud to Mrs. Na: WHAT IF THE WHOLE BUILDING LOSES POWER?
 MRS. NA, spoken aloud to Nari: THEN DON'T TURN ON A SCREEN.
 MRS. NA, spoken aloud to Nari: WAIT FOR THE POWER TO COME BACK, THEN CALL ME.
+Each line stays with its scripted speaker. Mrs. Na bubble tails point only to Mrs. Na; Nari's bubble tail points only to Nari. Preserve exact reading order.
 
 PANEL 8 - At the doorway, Mrs. Na leaves with her handbag and remaining key ring. Nari watches her cross into the corridor. The exchange should feel unresolved rather than comedic.
 NARI, spoken aloud to Mrs. Na: YOU'RE NOT GOING TO TELL ME WHY.
 MRS. NA, spoken aloud to Nari: NOT TONIGHT.
 MRS. NA, spoken aloud to Nari: GOOD NIGHT, MS. YOON.
 NARI, spoken aloud to Mrs. Na: THAT'S NOT VERY COMFORTING.
+Nari's lines must point only to Nari; Mrs. Na's lines must point only to Mrs. Na. Preserve the exact alternating reading order; do not cross or swap tails.
 
 PANEL 9 - After the door closes, Nari carries the brass backup key from the kitchen counter to the entry shelf and places it in the shallow tray. Wide angle keeps the electrical binder visibly on the kitchen counter.
 SFX: CLINK
@@ -145,13 +167,13 @@ SFX AND TEXT BLENDING
 Keep SFX source-aligned and easy to read. In Panel 1, `DING-DONG` comes through the closed entrance door from the outside visitor side and is something Nari hears from inside; it is NOT caused by Nari touching a control. The Panel 1 time caption must be clearly noticeable and must not be reduced to tiny decorative text. Its visual treatment should adapt to the panel rather than being forced into a fixed caption-box style.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `9`. Dialogue is spoken aloud unless explicitly marked otherwise. Keep bubble order obvious. Do not print production labels such as `NARRATION`, `SFX`, `MRS. NA`, or `NARI` in the artwork. Do not add measurements, extra warnings, fine print, or additional dialogue.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `9`. Dialogue is spoken aloud unless explicitly marked otherwise. Keep bubble order obvious. Every dialogue bubble/callout must visually identify the exact scripted speaker without ambiguity. Do not print production labels such as `NARRATION`, `SFX`, `MRS. NA`, or `NARI` in the artwork. Do not add measurements, extra warnings, fine print, or additional dialogue.
 
 STORY CLARITY
-The reader must understand: time has advanced to later that evening; Panel 1 is viewed from INSIDE Unit 2407 toward the interior face of Nari's closed entrance door; Nari is already inside among moving boxes when an outside visitor rings the doorbell; the corridor and Mrs. Na are not revealed until Nari opens the door in Panel 2; Mrs. Na arrives after Nari's move-in; she gives Nari the apartment guide and detached brass backup key; she warns Nari not to let the hallway go dark after midnight; that protective light must come from the apartment itself and cannot be replaced with a phone/tablet; if the whole building loses power Nari must keep screens off and wait for power to return; Mrs. Na refuses to explain why and physically leaves.
+The reader must understand: time has advanced to later that evening; Panel 1 is viewed from INSIDE Unit 2407 toward the interior face of Nari's closed entrance door; Nari is already inside among moving boxes when an outside visitor rings the doorbell; the corridor and Mrs. Na are not revealed until Nari opens the door in Panel 2; Mrs. Na arrives after Nari's move-in; she gives Nari the apartment guide and detached brass backup key; she warns Nari not to let the hallway go dark after midnight; that protective light must come from the apartment itself and cannot be replaced with a phone/tablet; if the whole building loses power Nari must keep screens off and wait for power to return; Mrs. Na refuses to explain why and physically leaves. The reader must never have to guess whether Nari or Mrs. Na is speaking in any dialogue panel.
 
 AVOID
-Avoid an exterior/corridor-facing front-door composition in Panel 1, camera placed in the corridor, visible corridor before Panel 2, exterior door face, outside smart-lock keypad/doorbell hardware, unit-number plaque, doormat/landing framing, Nari ringing/pressing/buzzing/knocking at her own door, Nari touching a doorbell/intercom/smart-lock control in Panel 1, Nari outside Unit 2407 in Panel 1, Mrs. Na already inside before Panel 2, Nari or Mrs. Na identity drift, spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, tiny/unreadable time caption, rigid one-style-fits-all narration treatment, supernatural reveal, glossy/cinematic effects, reflections, extra text, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
+Avoid ambiguous or crossed speech-bubble tails, wrong-speaker callouts, dialogue bubbles floating between both characters without a clear source, merged dialogue from different speakers, speaker-attribution swaps, reordered dialogue, an exterior/corridor-facing front-door composition in Panel 1, camera placed in the corridor, visible corridor before Panel 2, exterior door face, outside smart-lock keypad/doorbell hardware, unit-number plaque, doormat/landing framing, Nari ringing/pressing/buzzing/knocking at her own door, Nari touching a doorbell/intercom/smart-lock control in Panel 1, Nari outside Unit 2407 in Panel 1, Mrs. Na already inside before Panel 2, Nari or Mrs. Na identity drift, spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, tiny/unreadable time caption, rigid one-style-fits-all narration treatment, supernatural reveal, glossy/cinematic effects, reflections, extra text, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
 ```
 
 ## Locked Reader-Facing Text
