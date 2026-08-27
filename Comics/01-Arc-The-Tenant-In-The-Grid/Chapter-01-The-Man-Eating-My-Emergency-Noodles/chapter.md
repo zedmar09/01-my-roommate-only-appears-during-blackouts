@@ -8,17 +8,15 @@ Chapter 1 uses colored flat 2D human-drawn modern manga/manhwa artwork. Everythi
 
 This revised `chapter.md` is the current Chapter 1 story and dialogue authority.
 
-The existing `page-001-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md` were written from the previous draft. They must be synchronized to this chapter during the later page-by-page script, dialogue, SFX, and image-continuity pass. Until that synchronization is complete, the page prompts are not dialogue authority.
+`page-001-chatgpt-image-prompt.md` and `page-002-chatgpt-image-prompt.md` are now synchronized to the current approved Page 1 and Page 2 reader-facing text. `page-003-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md` still require synchronization during the later page-by-page script, dialogue, SFX, and image-continuity pass. Until each remaining page is synchronized, this chapter remains the dialogue authority.
 
 Cover files are outside this revision scope.
 
 ## Story Draft
 
-Unit 2407 was suspiciously cheap.
+Unit 2407 was too cheap.
 
-In Seoul, rent that low usually meant a problem: mold, bad plumbing, thin walls, or a landlord who stopped answering after the deposit cleared.
-
-Unit 2407 had none of those problems.
+In Seoul, cheap rent always hid a catch.
 
 Yoon Nari stood in the twenty-fourth-floor corridor with a backpack on her shoulders, her sticker-covered tablet under one arm, and a moving box marked `KITCHEN / DO NOT DROP` balanced against her hip. A small moving cart with two more boxes waited behind her.
 
@@ -28,21 +26,19 @@ The lock beeped. Nari pushed the door open, crossed the threshold, and set the b
 
 Then she looked around.
 
-Two bedrooms. Corner windows. A river view beyond the towers. Smart lights. Smart thermostat. Smart curtains. Smart refrigerator. Smart lock. A small screenless corded speaker sat on the kitchen counter with its standby light on.
+Two bedrooms. Corner windows. City view. Smart lights. Smart climate controls. Smart refrigerator. Smart lock. Smart everything.
 
-The entire apartment cost less than her old one-room officetel.
+All for less than her old place.
 
-Nari looked at the speaker.
+A small screenless corded speaker sat on the kitchen counter with its standby light on.
 
-"So what's wrong with this place?"
-
-The speaker answered in a bright recorded voice.
+The speaker chimed.
 
 "Welcome home, Yoon Nari."
 
-Nari stared at it for a second.
+Nari looked at it.
 
-"There it is."
+"Great. It talks."
 
 ---
 
@@ -73,27 +69,33 @@ Nari looked from the binder to Mrs. Na.
 
 "Anything I actually need to know?"
 
-Mrs. Na glanced toward the hallway.
+Mrs. Na's expression turned serious.
 
-"One rule. After midnight, keep at least one apartment light on."
+"Yes. One thing."
+
+She glanced toward the hallway.
+
+"After midnight, don't let the hallway go dark."
 
 She pointed to the ordinary electric lamp in the hallway. It was already lit.
 
-"Keep that lamp on. It has to be powered by the apartment. A phone or tablet does not count."
+"The light has to come from the apartment itself. Don't try to replace it with a phone or tablet."
 
-Nari frowned. "Why? What happens if it goes dark?"
+Nari frowned.
+
+"Why? What happens if it goes out?"
 
 Mrs. Na checked her analog watch.
 
 "Just keep it on."
 
+Nari studied her.
+
 "What if the whole building loses power?"
 
 Mrs. Na hesitated.
 
-"If that happens, keep every screen off. Wait until the power returns, then call me."
-
-Nari studied her face.
+"Then don't turn on a screen. Wait for the power to come back, then call me."
 
 "You're not going to tell me why."
 
@@ -103,7 +105,9 @@ Mrs. Na picked up her remaining key ring and walked back toward the door.
 
 "Good night, Ms. Yoon."
 
-"Not reassuring."
+Nari watched her leave.
+
+"That's not very comforting."
 
 Mrs. Na left with her handbag and the remaining keys.
 
