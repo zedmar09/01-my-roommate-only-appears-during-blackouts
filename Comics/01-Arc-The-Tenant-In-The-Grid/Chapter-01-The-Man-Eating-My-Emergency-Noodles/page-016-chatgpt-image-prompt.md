@@ -40,6 +40,17 @@ The lower kitchen cabinet containing the stockpot and unplugged speaker remains 
 The brass backup key remains in the entry tray. The electrical binder remains on the kitchen counter.
 Do not move, duplicate, resize, rotate, replace, merge, or clean up any of these objects.
 
+CURRENT-TIME POWERED-LIGHTING CONTINUITY LOCK - ABSOLUTE
+Page 15 already restored ordinary supplied power to Unit 2407 before Page 16 begins. Therefore the PRESENT-TIME apartment in Page 16 must remain visibly powered and normally lit in ALL EIGHT PANELS.
+Use the same medium-bright neutral powered interior baseline established for normal Unit 2407 scenes. Walls, floor, kitchen, dining area, entry area, doors, furniture, Nari, and recurring props must all remain clearly readable in normal powered light.
+Do NOT carry the Page 9-15 blackout palette forward into current-time Page 16.
+Do NOT render current-time Page 16 as dark, dim, underexposed, blue-black, deep charcoal blackout lighting, candlelit, emergency-lit, silhouette-heavy, or visually dependent on screen glow.
+Do NOT imply that Unit 2407 lost power again. There is no second outage on this page.
+The extinguished candle is only a continuity prop and provides ZERO story-world lighting on Page 16.
+Nari wearing the same clothes she wore during the blackout is WARDROBE continuity only; it does NOT mean the apartment is still in blackout lighting.
+References to the 12:43 A.M. outage are historical evidence only. Historical outage information may appear INSIDE the door-camera archive display where scripted, but the surrounding present-time apartment and Nari remain normally powered and lit.
+If any present-time Page 16 panel looks like the blackout is still active, the page is NOT approved.
+
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 100% flat 2D human-drawn manga/manhwa with clean ink, matte cel colors, solid blocks, mature adult proportions, and one controlled hard-edged shadow.
 HARD BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, bloom, rim light, volumetric light, gradients, glare, lens flare, wet/shiny surfaces, or over-rendering.
@@ -47,12 +58,12 @@ HARD BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, pa
 ENVIRONMENT AND MOVEMENT MASTER LOCK
 Preserve the exact open-plan Unit 2407 geometry established on Pages 10-15.
 Nari must physically move through the apartment in a believable sequence:
-- Panel 1 starts in the kitchen/dining area at Hyun-woo's former position.
-- Panel 2 shows Nari at the front door physically testing the still-engaged manual safety latch and locked door.
-- Panels 3-4 keep her at the entry area while she checks the smart-lock history and door-camera archive.
-- Panel 5 keeps her near the entry area while she calls building security.
-- Panel 6 shows her calling Mrs. Na; she may begin turning back toward the kitchen only after leaving the voicemail.
-- Panels 7-8 direct her attention back toward the SAME closed lower kitchen cabinet where the unplugged speaker has remained hidden since Page 5.
+- Panel 1 starts in the normally lit kitchen/dining area at Hyun-woo's former position.
+- Panel 2 shows Nari at the normally lit front-door/entry area physically testing the still-engaged manual safety latch and locked door.
+- Panels 3-4 keep her at the same normally lit entry area while she checks the smart-lock history and door-camera archive.
+- Panel 5 keeps her near the same normally lit entry area while she calls building security.
+- Panel 6 shows her calling Mrs. Na in the same powered apartment; she may begin turning back toward the kitchen only after leaving the voicemail.
+- Panels 7-8 direct her attention back toward the SAME closed lower kitchen cabinet in the still normally lit powered kitchen where the unplugged speaker has remained hidden since Page 5.
 Do not teleport Nari between kitchen, entry, and cabinet. Show the spatial transition through angle/background continuity.
 
 PROP POSITION LOCK
@@ -67,18 +78,24 @@ The TV remains unplugged and inactive.
 No hostile device text appears on this page.
 
 LIGHTING AND POWER LOCK
-All panels occur after Unit 2407 power has returned. Use the normal medium-bright neutral powered apartment baseline.
-Screens are readable matte displays, not glowing light sources.
-The corridor emergency lights seen in the camera archive belong to the building's separate backup circuit during the outage; do not confuse them with Unit 2407's power.
+All panels occur AFTER Unit 2407 power has returned. Use the normal medium-bright neutral powered apartment baseline in Panels 1-8 without exception.
+Ordinary apartment lighting is visibly functioning throughout the present-time scene. The kitchen/dining and entry areas must not look like blackout spaces.
+Screens are readable matte displays, not glowing light sources and not the primary illumination for Nari or the room.
+The camera archive may reference the earlier outage, but any dark/emergency-lit outage imagery must remain contained inside that archived device content only. It must not alter the lighting of the surrounding present-time apartment.
+The corridor emergency lights referenced in archived outage evidence belong to the building's separate backup circuit during the earlier outage; they are NOT the current lighting source for Unit 2407.
+Do not use the thin under-door emergency-light strip as a dominant present-time lighting cue on Page 16.
+No panel may visually suggest that current Unit 2407 power is absent, unstable, or only partially restored.
 
 CHARACTER CONSISTENCY
-Nari is the same canonical adult Nari in the exact blackout-night outfit from Pages 9-15. She is shaken but methodical, not hysterical or comedic.
+Nari is the same canonical adult Nari in the exact same clothing she wore during Pages 9-15. This is wardrobe continuity only; the apartment lighting is now fully restored and normally powered.
+She is shaken but methodical, not hysterical or comedic.
 Her expressions progress logically: disbelief -> verification -> concern -> controlled frustration -> startled recognition at the cabinet chime.
 No second person appears physically.
 
 TIME AND SCENE CONTINUITY
 Immediate minutes after Page 15. No time card, flashback, clothing change, cleanup, or unexplained passage of time.
-The smart-lock/camera checks must clearly refer to the blackout that began at 12:43 A.M.
+The smart-lock/camera checks refer to the blackout that began at 12:43 A.M., but Page 16 itself takes place AFTER power restoration.
+Do not visually treat the current Page 16 scene as a continuation of blackout darkness.
 
 SPOILER BOUNDARY
 Do not explain the camera corruption, hostile system, Hyun-woo's disappearance mechanism, Mrs. Na's knowledge, or future lore.
@@ -88,39 +105,39 @@ One vertical page with exactly 8 panels. Render exactly ONE small circled panel-
 The pacing should feel like one continuous evidence chain: disappearance -> locked door -> entry history -> missing footage -> security confirmation -> Mrs. Na voicemail -> hidden cabinet responds.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 - Exact continuation from Page 15. Powered kitchen/dining area. Nari looks at the empty space where Hyun-woo stood. All established props remain untouched behind/around her.
+PANEL 1 - Exact continuation from Page 15. NORMAL POWERED/LIT kitchen/dining area. Nari looks at the empty space where Hyun-woo stood. Ordinary apartment lighting is visibly restored; this must NOT look like a blackout panel. All established props remain untouched behind/around her.
 NARI, spoken aloud into the empty apartment: HYUN-WOO?
 
-PANEL 2 - Nari has physically walked to the front door. She grips/tests the still-engaged manual safety latch and locked door. The latch must visibly be in the same engaged position established before the blackout.
+PANEL 2 - Nari has physically walked to the NORMAL POWERED/LIT front-door entry area. She grips/tests the still-engaged manual safety latch and locked door. The latch must visibly be in the same engaged position established before the blackout.
 SFX at door/latch: TUG
 No dialogue.
 
-PANEL 3 - Same entry area. Nari checks the smart-lock history on the established lock/interface. Keep interface text minimal and legible.
+PANEL 3 - Same NORMAL POWERED/LIT entry area. Nari checks the smart-lock history on the established lock/interface. The surrounding apartment remains clearly illuminated by ordinary supplied power; the interface is not lighting the scene. Keep interface text minimal and legible.
 SMART LOCK, device text: ENTRY HISTORY
 SMART LOCK, device text: YOON NARI — LAST ENTRY
 NARI, spoken quietly to herself: THE DOOR NEVER OPENED.
 
-PANEL 4 - Same entry area. Nari checks the door-camera archive. Show normal footage before the outage, a corrupt/missing interval beginning at 12:43 A.M., then resumed empty corridor footage after the outage. Absolutely no person, silhouette, reflection, or hidden figure in the corrupt interval or resumed corridor.
+PANEL 4 - Same NORMAL POWERED/LIT entry area. Nari checks the door-camera archive. The PRESENT-TIME room around Nari remains normally lit. Only inside the camera/archive display, show normal footage before the earlier outage, a corrupt/missing interval beginning at 12:43 A.M., then resumed empty corridor footage after the outage. Any earlier-outage darkness/emergency lighting is confined to the archive display and must not spill into or restyle the current panel. Absolutely no person, silhouette, reflection, or hidden figure in the corrupt interval or resumed corridor.
 CAMERA, device text: 12:43 A.M. — RECORDING LOST
 CAMERA, device text: VIDEO RESUMED AFTER OUTAGE
 NARI, spoken quietly to herself: AND THE CAMERA MISSED THE WHOLE THING.
 
-PANEL 5 - Nari calls building security from near the entry area. A small background/inset may show the stopped elevator or emergency-lit twenty-fourth-floor corridor, but no person appears there.
+PANEL 5 - Nari calls building security from the NORMAL POWERED/LIT entry area. Keep this as a present-time apartment shot. Do NOT turn the panel into a dark outage corridor/elevator scene; the security information is communicated through the phone dialogue.
 NARI, spoken into phone: THIS IS UNIT 2407. DID ANYONE COME UP TO THE TWENTY-FOURTH FLOOR DURING THE OUTAGE?
 SECURITY, spoken over phone: NO, MA'AM. THE ELEVATORS WERE DOWN THE ENTIRE TIME.
 SECURITY, spoken over phone: WE DIDN'T GET ANY REPORTS FROM YOUR FLOOR EITHER.
 
-PANEL 6 - Nari calls Mrs. Na. The call reaches ordinary voicemail. Nari is still holding the same phone and has not yet approached/opened the lower cabinet.
+PANEL 6 - Nari calls Mrs. Na in the same NORMAL POWERED/LIT apartment. The call reaches ordinary voicemail. Nari is still holding the same phone and has not yet approached/opened the lower cabinet.
 PHONE SYSTEM, automated voice heard by Nari: PLEASE LEAVE A MESSAGE AFTER THE TONE.
 SFX from phone: BEEP
 NARI, spoken into phone for Mrs. Na: MRS. NA, CALL ME BACK.
 NARI, spoken into phone for Mrs. Na: I NEED TO KNOW WHAT'S GOING ON IN THIS APARTMENT.
 
-PANEL 7 - After Nari finishes speaking, a muffled electronic chime comes from the SAME still-closed lower kitchen cabinet that contains the stockpot and unplugged speaker. Nari freezes and turns her head/body toward the kitchen. Do not open the cabinet and do not show the speaker yet.
+PANEL 7 - After Nari finishes speaking, a muffled electronic chime comes from the SAME still-closed lower kitchen cabinet that contains the stockpot and unplugged speaker. The CURRENT kitchen remains normally powered and lit. Nari freezes and turns her head/body toward the kitchen. Do not open the cabinet and do not show the speaker yet.
 SFX source-aligned to closed cabinet: MFF-CHIME
 No dialogue.
 
-PANEL 8 - Same closed cabinet, same kitchen geometry. A second muffled chime confirms the source. Nari has moved only enough to face/look toward it; she has not opened the cabinet yet. Her reaction is controlled disbelief, not broad comedy.
+PANEL 8 - Same closed cabinet, same NORMAL POWERED/LIT kitchen geometry. A second muffled chime confirms the source. Nari has moved only enough to face/look toward it; she has not opened the cabinet yet. Her reaction is controlled disbelief, not broad comedy. Do not darken the room for suspense.
 SFX source-aligned to closed cabinet: MFF-CHIME
 NARI, spoken quietly toward the cabinet: ...NO.
 
@@ -135,10 +152,10 @@ Security and voicemail audio use normal speech bubbles/device-audio treatment.
 Do not render production labels.
 
 STORY CLARITY
-The reader must understand that Nari methodically tests a normal-intruder explanation and rules it out: the door/latch never opened, the lock shows no other entry, the camera loses exactly the crucial blackout interval, and security confirms elevators were down with no reports on her floor. Mrs. Na does not answer. Only then does the hidden unplugged speaker signal from the cabinet.
+The reader must understand that ordinary supplied power has already returned to Unit 2407 before Page 16 begins and remains on throughout the page. Nari methodically tests a normal-intruder explanation and rules it out: the door/latch never opened, the lock shows no other entry, the camera loses exactly the crucial earlier blackout interval, and security confirms elevators were down with no reports on her floor. Mrs. Na does not answer. Only then does the hidden unplugged speaker signal from the cabinet.
 
 AVOID
-Avoid Nari identity drift, long black hair, outfit changes, physical/reflected/silhouetted Hyun-woo, a visible intruder in camera footage, teleporting Nari between rooms, opening the cabinet early, showing the speaker early, moving/cleaning the dropped knife, chair, pot, trivet, cloth, candle, pantry, refrigerator, sink, cooktop, binder, brass key, or table, relighting the candle, activating the TV, hostile screen text, glossy screens, cinematic lighting, extra jokes, extra dialogue, missing/duplicated/out-of-order/oversized panel numbers, and spoilers.
+Avoid ANY present-time blackout/dark rendering on Page 16; dark or underexposed current apartment panels; blue-black/charcoal blackout palette; candlelit current scenes; emergency lighting as current Unit 2407 lighting; screen glow as the room's primary illumination; current-time silhouettes caused by darkness; implying a second outage; carrying Page 15 darkness into Page 16; using Nari's same clothes as justification for blackout lighting; Nari identity drift; long black hair; outfit changes; physical/reflected/silhouetted Hyun-woo; a visible intruder in camera footage; teleporting Nari between rooms; opening the cabinet early; showing the speaker early; moving/cleaning the dropped knife, chair, pot, trivet, cloth, candle, pantry, refrigerator, sink, cooktop, binder, brass key, or table; relighting the candle; activating the TV; hostile screen text; glossy screens; cinematic lighting; extra jokes; extra dialogue; missing/duplicated/out-of-order/oversized panel numbers; and spoilers.
 ```
 
 ## Locked Reader-Facing Text
