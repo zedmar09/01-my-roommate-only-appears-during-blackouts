@@ -70,7 +70,7 @@ SPOILER BOUNDARY
 Hyun-woo may name Mrs. Na only after Nari asks who else knows he is there. Do not reveal his origin, accident, hostile-system name, or full supernatural rules.
 
 PAGE FORMAT AND PACING
-One vertical page with 6 panels. Do not add reader-facing production panel numbers.
+One vertical page with exactly 6 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `6`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, SFX, Nari/Hyun-woo faces or hands, knife, noodle packet, pot, candle, or spatial clues.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Exact continuation from Page 11. Nari remains at the kitchen/dining entrance with knife held low. Hyun-woo remains seated in the locked dining chair at the same table.
@@ -103,13 +103,13 @@ SFX AND TEXT BLENDING
 Use only the small physical `CRINKLE` at Nari's foot. No electrical SFX or relocation cues.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below. Keep dialogue order obvious and conversational. Do not print production labels in the artwork.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `6`. Keep dialogue order obvious and conversational. Do not print production labels in the artwork.
 
 STORY CLARITY
 The reader must understand: Hyun-woo did not enter through the door; he claims he was already present before Nari moved in; Nari notices he used her pantry; Mrs. Na is the only other person Hyun-woo names as knowing he is there; and Hyun-woo refuses to explain Mrs. Na's decision for her.
 
 AVOID
-Avoid Nari or Hyun-woo identity drift, moving Hyun-woo to the sink/washbasin/counter/cooktop/pantry/island, changing his dining chair, changing table/pot/candle positions, changing Nari's route, more than one Nari step, raised threatening knife, empty pantry, wrong noodle count, generic cloth mask, simplified tattoo map, short-haired Hyun-woo, long-haired Nari, extra lore, glossy/cinematic effects, reflections, reader-facing panel numbers, and extra text.
+Avoid Nari or Hyun-woo identity drift, moving Hyun-woo to the sink/washbasin/counter/cooktop/pantry/island, changing his dining chair, changing table/pot/candle positions, changing Nari's route, more than one Nari step, raised threatening knife, empty pantry, wrong noodle count, generic cloth mask, simplified tattoo map, short-haired Hyun-woo, long-haired Nari, extra lore, glossy/cinematic effects, reflections, missing/duplicated/out-of-order/oversized panel numbers, and extra text.
 ```
 
 ## Locked Reader-Facing Text
@@ -130,6 +130,10 @@ Avoid Nari or Hyun-woo identity drift, moving Hyun-woo to the sink/washbasin/cou
 | 6 Hyun-woo | Spoken aloud to Nari | `YES.` |
 | 6 Nari | Spoken aloud to Hyun-woo | `THEN WHY DIDN'T SHE TELL ME?` |
 | 6 Hyun-woo | Spoken aloud to Nari | `ASK HER.` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `6`.
 
 ## Production Thread Use
 
