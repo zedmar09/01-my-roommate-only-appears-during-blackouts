@@ -64,6 +64,13 @@ Panel 1 must contain a LARGE, HIGH-CONTRAST, immediately noticeable in-panel nar
 `TWO DAYS LATER — AFTER WORK`
 Do not use a tiny separate gutter time card.
 
+NARRATION CAPTION DESIGN
+Narration and time-caption presentation is scene-adaptive, not fixed to one background, color, shape, or placement.
+Blend the narration caption naturally into the rainy exterior entrance panel while keeping it clearly readable and visually distinct from dialogue, SFX, and the small circled panel-order number.
+Use whatever restrained flat-2D caption treatment best fits that scene—light, dark, solid, bordered, or another simple high-contrast shape—without changing the exact wording.
+Do NOT force a white caption box when the scene calls for another treatment.
+Maintain strong contrast and breathing room; never place narration as unreadable bare text over busy artwork.
+
 SPOILER BOUNDARY
 No physical Hyun-woo, hostile entity, blackout, future lore, or explanation of how the interference works.
 
@@ -96,7 +103,7 @@ SEUNGJAE, spoken aloud to Nari: I'M GOING TO HEAD OUT BEFORE ANYTHING ELSE DIES.
 NARI, spoken aloud to Seungjae: TEXT ME WHEN YOUR PHONE'S BACK.
 
 SFX AND TEXT BLENDING
-Keep `THUNK` and `BIP` small, physical, and source-aligned. Do not use menacing glitch effects. The clean tablet text stays contained within the screen.
+Keep `THUNK` and `BIP` small, physical, and source-aligned. Do not use menacing glitch effects. The clean tablet text stays contained within the screen. The Panel 1 narration design should fit the rainy arrival composition rather than use a forced universal caption-box style.
 
 TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `6`. No advertising copy, Korean promotional text, lobby labels, fake brands, store signage, extra jokes, or generated device notifications.
@@ -105,7 +112,7 @@ STORY CLARITY
 The reader must immediately understand that Seungjae walked Nari home, they arrived together at the residential building, the electronics begin failing only after they enter the ground-floor lobby, the unknown clean-message presence wants Seungjae to leave, Nari objects to the interference, Nari goes upstairs alone, and Seungjae leaves through the ground-floor entrance.
 
 AVOID
-Avoid Nari or Seungjae identity drift, generic replacement faces, random location changes, apartment interior, apartment corridor, parking garage, restaurant, office, unexplained car key, Seungjae entering the elevator, Seungjae going upstairs, Nari leaving the building instead of entering the elevator, moved entrance/elevator positions between panels, trapped exits, elevator malfunction, building-wide power failure, reflective characters in glass, hostile signature, physical Hyun-woo, glossy/cinematic effects, advertisements, random Korean text, extra dialogue, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
+Avoid Nari or Seungjae identity drift, generic replacement faces, random location changes, apartment interior, apartment corridor, parking garage, restaurant, office, unexplained car key, Seungjae entering the elevator, Seungjae going upstairs, Nari leaving the building instead of entering the elevator, moved entrance/elevator positions between panels, trapped exits, elevator malfunction, building-wide power failure, reflective characters in glass, hostile signature, physical Hyun-woo, glossy/cinematic effects, advertisements, random Korean text, rigid one-style-fits-all narration treatment, extra dialogue, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
 ```
 
 ## Locked Reader-Facing Text
