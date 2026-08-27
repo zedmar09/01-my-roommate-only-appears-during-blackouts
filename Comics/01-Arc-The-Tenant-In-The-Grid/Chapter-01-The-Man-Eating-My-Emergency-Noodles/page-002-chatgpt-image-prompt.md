@@ -5,6 +5,13 @@ Copy the prompt below into ChatGPT to generate Chapter 1, Page 2 as PNG. Save it
 ```text
 Create a colored flat 2D human-drawn modern supernatural romance manga/manhwa comic page for Chapter 1, Page 2 of "My Roommate Only Appears During Blackouts".
 
+IMAGE-ONLY EXECUTION LOCK
+This production prompt is already FINAL. Do not rewrite, summarize, paraphrase, reinterpret, improve, reorganize, re-block, or redesign the production instructions before generating.
+Do not invent alternate actions, poses, staging, dialogue, captions, SFX, props, transitions, or character motivations.
+Execute the script literally as written, then output the comic image only.
+If an instruction seems unusual, follow the written instruction instead of substituting a more generic comic action.
+The only creative freedom is the visual drawing/composition needed to realize the locked instructions without changing their meaning.
+
 IMPORTANT REFERENCES
 Use `../../../characters.md` and `../../style-guide.md`; match approved Page 1 for page-to-page continuity.
 
@@ -41,8 +48,17 @@ Nari already has smart-lock access and is opening boxes. Mrs. Na arrives afterwa
 TIME AND SCENE CONTINUITY
 Show doorbell, Nari opening, Mrs. Na crossing the threshold, both walking to the kitchen, then her departure. No teleportation or flashback.
 
+PANEL 1 DOORBELL SOURCE LOCK - CRITICAL
+At the start of Page 2, Nari is ALREADY INSIDE Unit 2407 among moving boxes.
+Mrs. Na is the visitor OUTSIDE in the corridor and is the person who has just rung the apartment doorbell from outside.
+Nari only HEARS and reacts to the `DING-DONG` from inside the apartment.
+Nari must NOT knock, ring, press, tap, buzz, activate, point at, or touch any doorbell, intercom, smart lock, entry panel, buzzer, wall button, or door control in Panel 1.
+Do not place Nari outside the apartment in Panel 1.
+Do not show Mrs. Na inside the apartment before Nari opens the door in Panel 2.
+The door remains CLOSED during Panel 1.
+
 TIME DISPLAY LOCK
-Do NOT use a tiny separate gutter time card. Put `LATER THAT EVENING...` clearly inside the upper portion of Panel 1 as a large, easy-to-read narration caption. It must be visually noticeable at normal page-reading size and larger than ordinary minor captions, while still leaving the doorbell action readable.
+Do NOT use a tiny separate gutter time card. Put `LATER THAT EVENING...` clearly inside the upper portion of Panel 1 as a large, easy-to-read narration caption. It must be visually noticeable at normal page-reading size and larger than ordinary minor captions, while still leaving the doorbell reaction readable.
 
 NARRATION CAPTION DESIGN
 Narration and time-caption presentation is scene-adaptive, not fixed to one background, color, shape, or placement.
@@ -59,12 +75,12 @@ One vertical page with exactly 9 clearly separated panels. Render exactly ONE sm
 
 PAGE LAYOUT AND SCRIPT
 
-PANEL 1 - Nari among moving boxes hears the doorbell.
+PANEL 1 - INSIDE Unit 2407. Nari is among moving boxes and hears the apartment doorbell ring from OUTSIDE the closed front door. She is not touching any door control; she is simply interrupted by the sound and looks toward the closed door. Mrs. Na is not yet visible inside the apartment.
 NARRATION CAPTION, large and clearly visible: LATER THAT EVENING...
-SFX: DING-DONG
+SFX from the front-door/visitor side: DING-DONG
 No dialogue.
 
-PANEL 2 - Nari opens the door. Mrs. Na waits in the corridor with the already-established handbag, binder, and key ring.
+PANEL 2 - Nari opens the door from INSIDE Unit 2407. Mrs. Na waits in the corridor with the already-established handbag, binder, and key ring.
 MRS. NA, spoken aloud to Nari: I BROUGHT THE APARTMENT GUIDE.
 
 PANEL 3 - Nari steps aside; Mrs. Na visibly crosses the threshold. A connecting view leads naturally toward the kitchen.
@@ -104,16 +120,16 @@ SFX: CLINK
 No dialogue.
 
 SFX AND TEXT BLENDING
-Keep SFX source-aligned and easy to read. The Panel 1 time caption must be clearly noticeable and must not be reduced to tiny decorative text. Its visual treatment should adapt to the panel rather than being forced into a fixed caption-box style.
+Keep SFX source-aligned and easy to read. In Panel 1, `DING-DONG` comes from the closed front-door/visitor side and is something Nari hears; it is NOT caused by Nari touching a control. The Panel 1 time caption must be clearly noticeable and must not be reduced to tiny decorative text. Its visual treatment should adapt to the panel rather than being forced into a fixed caption-box style.
 
 TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `9`. Dialogue is spoken aloud unless explicitly marked otherwise. Keep bubble order obvious. Do not print production labels such as `NARRATION`, `SFX`, `MRS. NA`, or `NARI` in the artwork. Do not add measurements, extra warnings, fine print, or additional dialogue.
 
 STORY CLARITY
-The reader must understand: time has advanced to later that evening; Mrs. Na arrives after Nari's move-in; she gives Nari the apartment guide and detached brass backup key; she warns Nari not to let the hallway go dark after midnight; that protective light must come from the apartment itself and cannot be replaced with a phone/tablet; if the whole building loses power Nari must keep screens off and wait for power to return; Mrs. Na refuses to explain why and physically leaves.
+The reader must understand: time has advanced to later that evening; Nari is already inside Unit 2407 when an outside visitor rings the doorbell; Nari opens the door and Mrs. Na is waiting in the corridor; Mrs. Na arrives after Nari's move-in; she gives Nari the apartment guide and detached brass backup key; she warns Nari not to let the hallway go dark after midnight; that protective light must come from the apartment itself and cannot be replaced with a phone/tablet; if the whole building loses power Nari must keep screens off and wait for power to return; Mrs. Na refuses to explain why and physically leaves.
 
 AVOID
-Avoid Nari or Mrs. Na identity drift, spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, tiny/unreadable time caption, rigid one-style-fits-all narration treatment, supernatural reveal, glossy/cinematic effects, reflections, extra text, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
+Avoid Nari ringing/pressing/buzzing/knocking at her own door, Nari touching a doorbell/intercom/smart-lock control in Panel 1, Nari outside Unit 2407 in Panel 1, Mrs. Na already inside before Panel 2, Nari or Mrs. Na identity drift, spontaneous handbag, key teleportation, giant binder/key, Mrs. Na appearing inside without entry, missing exit, tiny/unreadable time caption, rigid one-style-fits-all narration treatment, supernatural reveal, glossy/cinematic effects, reflections, extra text, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
 ```
 
 ## Locked Reader-Facing Text
@@ -121,7 +137,7 @@ Avoid Nari or Mrs. Na identity drift, spontaneous handbag, key teleportation, gi
 | PanelText | Type / Who hears it | Text |
 | --- | --- | --- |
 | 1 Time | Narration / reader only | `LATER THAT EVENING...` |
-| 1 SFX | Sound in scene | `DING-DONG` |
+| 1 SFX | Doorbell rung by outside visitor / sound Nari hears from inside | `DING-DONG` |
 | 2 Mrs. Na | Spoken aloud to Nari | `I BROUGHT THE APARTMENT GUIDE.` |
 | 3 | No text | — |
 | 4 SFX | Sound in scene | `THUMP` |
