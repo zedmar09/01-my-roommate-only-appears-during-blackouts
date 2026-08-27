@@ -49,7 +49,7 @@ SPOILER BOUNDARY
 Do not show Hyun-woo physically, hostile text, Black Surge imagery, or explanations.
 
 PAGE FORMAT AND PACING
-One vertical page with exactly 7 clearly separated panels. Do not render production panel numbers in the final comic.
+One vertical page with exactly 7 clearly separated panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `7`, matching the reading order below. Place each number near the upper-left inside its own panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, captions, SFX, Nari's face/hands, the thermostat, robot vacuum, speaker, plug, or other story clues.
 
 PAGE LAYOUT AND SCRIPT
 PANEL 1 - Morning. Curtains open automatically while exhausted Nari lies on the sofa. Put the large `ONE WEEK LATER` caption prominently inside this panel.
@@ -92,13 +92,13 @@ SFX AND TEXT BLENDING
 Use easy-to-read physical sounds only. Keep the electrical flicker restrained. Time captions are intentionally prominent and must not be treated as small decorative gutter text.
 
 TEXT AND LETTERING RULES
-Use only the exact uppercase reader-facing text listed below. Dialogue is spoken aloud unless explicitly marked otherwise. Do not print production labels such as `NARRATION`, `RECORDED SPEAKER`, `HYUN-WOO`, or `NARI` in the artwork. Speaker dialogue must use speech bubbles with tails pointing to the screenless speaker, never printed words on the device body.
+Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `7`. Dialogue is spoken aloud unless explicitly marked otherwise. Do not print production labels such as `NARRATION`, `RECORDED SPEAKER`, `HYUN-WOO`, or `NARI` in the artwork. Speaker dialogue must use speech bubbles with tails pointing to the screenless speaker, never printed words on the device body.
 
 STORY CLARITY
 The reader must understand: one week has passed; the apartment's automation is irritating Nari; later that night she asks the assistant to turn on the kitchen light; the normal synthetic assistant misunderstands her; Nari repeats the command more directly; during a brief flicker the SAME speaker suddenly produces a clearly different natural male voice; Nari is startled because the voice changed; she asks who spoke and gets no answer; then she unplugs the speaker.
 
 AVOID
-Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, random thermostat values, physical Hyun-woo, identical assistant/male voice treatment, hostile signature, oversized speaker, missing cord/plug action, glossy/cinematic rendering, reflections, extra text, rendered production panel numbers, and flashbacks.
+Avoid Nari identity drift, long black hair, generic replacement face, tiny/unreadable time captions, separate time-card gutters, random thermostat values, physical Hyun-woo, identical assistant/male voice treatment, hostile signature, oversized speaker, missing cord/plug action, glossy/cinematic rendering, reflections, extra text, missing/duplicated/out-of-order/oversized panel numbers, and flashbacks.
 ```
 
 ## Locked Reader-Facing Text
@@ -120,6 +120,10 @@ Avoid Nari identity drift, long black hair, generic replacement face, tiny/unrea
 | 6 Unknown male | Clearly different low natural male voice through speaker / spoken aloud to Nari | `YOU COULD SAY PLEASE.` |
 | 7 Nari | Spoken aloud to the unknown voice | `WHO SAID THAT?` |
 | 7 SFX | Nari unplugging speaker | `YANK` |
+
+## Required Panel Order Markers
+
+Render one small circled number inside each panel in reading order: `1` through `7`.
 
 ## Production Thread Use
 
