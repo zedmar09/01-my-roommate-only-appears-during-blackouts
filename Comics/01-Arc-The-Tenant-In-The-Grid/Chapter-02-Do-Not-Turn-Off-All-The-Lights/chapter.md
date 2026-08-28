@@ -4,29 +4,25 @@
 
 This chapter directly continues Chapter 1, `The Man Eating My Emergency Noodles`.
 
-Chapter 1 is the hard continuity base for character states, Unit 2407 geometry, object positions, power rules, device signatures, and already-earned reader knowledge.
+Chapter 1 is the hard continuity base for Unit 2407 geometry, object states, power rules, device signatures, character knowledge, and the final powered-apartment cliffhanger.
 
-This prose manuscript is the approved Chapter 2 story draft only. Page-by-page production prompts, image-generation checklist, continuity audit, and final audit are not created yet.
+This `chapter.md` is synchronized to the Chapter 2 production prompts `page-001-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md`.
+
+Chapter 2 contains **18 story pages total**. The page prompts are production authority for panel blocking, object/subject positions, panel counts, movement, lighting, SFX source, and image-generation continuity. This file is the master story/dialogue continuity authority.
 
 ## Story Draft
 
 ### Page 01
 
-Immediate continuation from the final panel of Chapter 1.
+Immediate continuation from Chapter 1 Page 18.
 
-Unit 2407 is fully powered.
+Unit 2407 is fully powered and normally lit. Nari remains seated at the dining table with her paper notebook open. The lower kitchen cabinet is still open with the storage stockpot, towels, and unplugged speaker inside. Her phone and electrical binder remain on the kitchen counter. The practical knife remains safely sheathed at the desk.
 
-Nari is still seated at the dining table with her paper notebook open in front of her. The lower kitchen cabinet is still open. The storage stockpot, towels, and unplugged speaker remain inside. Her phone and electrical binder remain on the kitchen counter. The practical knife remains safely sheathed at the desk.
-
-Across the living room, the visibly unplugged television still displays:
+Across the living room, the visibly unplugged television still displays the hostile message:
 
 ```text
 NEW TENANT CONFIRMED
 ```
-
-Broken white letters crawl at the edges with black pixels.
-
-The apartment lights finish their single brief flicker and remain on.
 
 Hyun-woo's weak voice comes through the unplugged speaker.
 
@@ -36,32 +32,28 @@ Nari looks at the loose television plug.
 
 "I wasn't planning to."
 
-The television glitches once.
+The hostile screen glitches.
 
 FZZT.
 
-The hostile message disappears.
-
-The screen becomes dead black again.
+The message disappears and the television becomes dead black again. The apartment remains fully powered.
 
 ---
 
 ### Page 02
 
-Nari adds another line to her paper notebook.
+Nari writes in her physical notebook:
 
 ```text
 OBSERVATION 002:
 UNPLUGGED TV ACTIVATED WHILE UNIT POWER WAS ON.
 ```
 
-She looks toward the open cabinet.
-
-Hyun-woo speaks through the speaker.
+Hyun-woo speaks through the unplugged speaker.
 
 "Keep the hallway light on until morning."
 
-Nari glances toward the still-powered hallway lamp.
+Nari looks toward the powered hallway lamp.
 
 "The one Mrs. Na warned me about."
 
@@ -73,25 +65,19 @@ Nari rubs her eyes.
 
 No answer.
 
-After the speaker goes quiet, Nari replaces the towels and lid over it and closes the lower cabinet.
-
-The hallway lamp remains on.
+Nari physically gets up, walks to the lower cabinet, replaces the towels and lid over the speaker setup, and closes the cabinet. The hallway lamp remains on.
 
 ---
 
 ### Page 03
 
-The next morning.
+The next morning, the doorbell rings.
 
 DING-DONG.
 
-Nari, clearly exhausted, walks from inside Unit 2407 to the front door.
+Nari, clearly exhausted, walks from inside Unit 2407 to the front door and opens it from inside.
 
-She opens it.
-
-Mrs. Na stands in the corridor in her established mauve coat with her handbag, jade earrings, old analog watch, and metal key ring.
-
-Mrs. Na looks at Nari's face.
+Mrs. Na stands outside in the corridor in her established mauve coat with handbag, jade earrings, analog watch, and metal key ring.
 
 "You called."
 
@@ -105,47 +91,39 @@ Mrs. Na goes completely still.
 
 ### Page 04
 
-Inside Unit 2407.
-
-Mrs. Na has crossed the threshold. Nari closes the door behind her.
-
-Mrs. Na looks toward the apartment interior.
+The conversation continues at the open threshold. Mrs. Na remains outside at first.
 
 "Where did you hear that name?"
 
-Nari folds her arms.
-
 "At my dining table."
 
-Mrs. Na looks sharply at her.
+Mrs. Na looks sharply at Nari.
 
 "There was a blackout."
 
 "You know there was."
 
-Mrs. Na checks her analog watch even though it is morning.
+Mrs. Na checks her analog watch even though it is morning. Nari notices.
 
-Nari notices.
+Only after the exchange does Nari shift aside and Mrs. Na cross the threshold. Nari closes the front door behind her.
 
 ---
 
 ### Page 05
 
-They remain near the entry/living area.
-
-Nari does not let Mrs. Na redirect the conversation.
+Both women remain near the entry/living area.
 
 "He said you knew he was here."
 
-Mrs. Na takes a moment before answering.
+Mrs. Na takes a moment.
 
 "I know the name."
 
 "That's not an answer."
 
-"It's the one I can give you."
+"That's all I'm saying."
 
-Nari stares at her.
+Nari gestures toward the apartment interior.
 
 "You rented me an apartment with a man in the electrical system."
 
@@ -153,25 +131,17 @@ Mrs. Na answers carefully.
 
 "I rented you an apartment I thought I could keep safe."
 
-That wording bothers Nari more than a denial would have.
-
 ---
 
 ### Page 06
 
-Nari points toward the hallway lamp.
+Nari looks toward the powered hallway lamp.
 
 "Is that light what makes him appear?"
 
 Mrs. Na answers immediately.
 
 "No."
-
-Nari pauses.
-
-It is the first clean answer Mrs. Na has given her.
-
-Mrs. Na continues.
 
 "Losing the apartment's power does that."
 
@@ -181,15 +151,15 @@ Nari looks toward the lamp again.
 
 "Then why does this have to stay on?"
 
-Mrs. Na's expression becomes more guarded.
+Mrs. Na becomes guarded.
 
 "Because the light is for something else."
 
-Nari:
+Nari connects it to the corrupted screen incidents.
 
 "The thing in the screens."
 
-Mrs. Na does not answer directly.
+Mrs. Na does not confirm directly.
 
 "Keep one mains-powered light on after midnight."
 
@@ -197,13 +167,11 @@ Mrs. Na does not answer directly.
 
 ### Page 07
 
-Nari steps toward the kitchen far enough that the electrical binder on the counter is visible.
+Nari turns toward the kitchen side far enough that the electrical binder on the counter and the south-wall area can be established.
 
 "Hyun-woo also told me to stay away from the south-wall panel."
 
-Mrs. Na's composure changes.
-
-Small, but immediate.
+Mrs. Na's composure changes immediately.
 
 "Then stay away from it."
 
@@ -217,37 +185,27 @@ Mrs. Na looks toward the south wall without approaching it.
 
 "Something that should not still be connected."
 
-Nari:
-
 "Connected to what?"
 
-Mrs. Na picks up her handbag.
+Mrs. Na adjusts her handbag.
 
 "Not today."
 
-Nari looks openly irritated.
-
 "You say that a lot."
-
-Mrs. Na:
 
 "There are reasons."
 
 "I'm starting to hate your reasons."
 
+Neither woman touches or opens the south-wall panel.
+
 ---
 
 ### Page 08
 
-Later that day at Nth Pixel Studio.
-
-Nari sits at her workstation with her normal tablet nearby—but she is writing in a paper notebook.
+Later that day at Nth Pixel Studio, Nari sits at her workstation with her normal tablet nearby, but writes in the physical paper notebook.
 
 Koo Hyejin, the QA lead, stops beside her desk.
-
-Copper bob. Rectangular glasses. Denim jacket with enamel pins. Handheld-console phone case.
-
-Hyejin looks at the notebook.
 
 "You're writing bug reports on paper now?"
 
@@ -259,13 +217,13 @@ Hyejin looks at her.
 
 "That's not what offline means."
 
-Nari:
+Nari finally glances up.
 
 "It is in my apartment."
 
-Hyejin studies her for a moment.
+Hyejin studies her.
 
-"I'm going to pretend that answer was normal."
+"I'm not even going to ask."
 
 ---
 
@@ -277,61 +235,63 @@ Nari tries to make the question sound hypothetical.
 
 "If a bug only happens under one very specific condition..."
 
-Hyejin immediately answers in QA mode.
+Hyejin answers simply.
 
-"One variable at a time."
+"Change one thing at a time."
 
-Nari nods.
+Then:
 
-Hyejin continues.
+"And don't start with the thing that can break everything."
 
-"And don't test the catastrophic branch in production."
-
-Nari stops writing for half a second.
+Nari's pen stops briefly.
 
 "Right."
 
-Hyejin narrows her eyes.
+Hyejin notices.
 
-"That pause was not reassuring."
+"Why do I feel like you're about to?"
 
-Nari closes the notebook.
+Nari closes the notebook instead of answering.
 
 ---
 
 ### Page 10
 
-Later that night in Unit 2407.
+Later that night — after midnight.
 
-After midnight.
+Unit 2407 remains normally powered. The hallway lamp is clearly on.
 
-The apartment is normally powered.
+Nari has her physical notebook ready and small removable markers near several ordinary light switches.
 
-The hallway lamp is clearly on.
-
-Nari has placed small pieces of removable tape near several ordinary light switches and has her paper notebook ready.
-
-She opens the lower kitchen cabinet and lifts the stockpot lid enough for the unplugged speaker to be audible.
+She physically opens the lower cabinet and exposes the unplugged speaker enough for it to be audible.
 
 Hyun-woo's weak voice comes through.
 
 "What are you doing?"
 
-Nari switches off the kitchen light.
+Nari walks to the kitchen light switch and switches off only the kitchen light.
 
-The hallway lamp remains on.
+CLICK.
 
-"Not turning off all the lights."
+The hallway lamp remains on. The apartment still has supplied power. Hyun-woo does not appear physically.
 
-Hyun-woo:
+Nari checks the result.
 
-"That answer doesn't help."
+"Changing one thing at a time."
 
-Nari:
+Hyun-woo understands.
 
-"Good."
+"You're testing it."
 
-"Now you know how I feel."
+Nari looks toward the hallway lamp.
+
+"I'm leaving your important light on."
+
+"That doesn't make this a good idea."
+
+Nari writes in the notebook.
+
+"It makes it a controlled bad idea."
 
 ---
 
@@ -339,15 +299,9 @@ Nari:
 
 Nari continues carefully.
 
-Living-room light off.
+She switches off the living-room light, then the bedroom light, then the dining-area light. The apartment still has normal supplied power. Refrigerator, smart lock, and outlets remain powered.
 
-Bedroom light off.
-
-Dining-area light off.
-
-The apartment still has normal supplied power. Appliances remain powered. Outlets remain live.
-
-Only the hallway lamp remains on.
+Only the hallway lamp remains intentionally on among the ordinary room lights.
 
 Hyun-woo does not become physical.
 
@@ -358,17 +312,15 @@ UNIT POWER: ON.
 HYUN-WOO: NOT PHYSICAL.
 ```
 
-Hyun-woo:
+Hyun-woo asks through the speaker:
 
 "Disappointed?"
 
-Nari looks toward the closed distance between herself and the cabinet.
+Nari looks toward the cabinet.
 
 "Relieved."
 
-A small pause.
-
-Then:
+A beat.
 
 "Mostly."
 
@@ -382,25 +334,19 @@ FZZT.
 
 Nari immediately stops writing.
 
-Hyun-woo's voice changes.
-
-Sharper.
+Hyun-woo's voice becomes sharper.
 
 "Nari."
 
-She looks at the lamp.
+She looks at the lamp but keeps her hands away.
 
 "I'm not touching it."
 
-Hyun-woo:
-
 "Leave it alone."
 
-The lamp flickers again.
+The hallway lamp flickers again without Nari touching anything.
 
-The refrigerator continues humming normally.
-
-The apartment still has power.
+The refrigerator continues humming normally. The apartment still has supplied power.
 
 ---
 
@@ -410,24 +356,16 @@ CLICK.
 
 The hallway lamp switches off by itself.
 
-Now every ordinary room light Nari had been using is dark—but Unit 2407 still has supplied power.
+Now every ordinary room light Nari had been using is dark, but Unit 2407 still has supplied power. The refrigerator hum continues. The smart-lock indicator remains powered. Hyun-woo does not physically appear.
 
-The refrigerator hum continues.
-
-The smart-lock indicator remains powered.
-
-Hyun-woo does not physically appear.
-
-The refrigerator display activates with the hostile broken-white/black-pixel signature.
+The refrigerator display activates with the hostile broken-white/black-pixel signature:
 
 ```text
 VISUAL ACCESS: OPEN
 YOON NARI
 ```
 
-Nari freezes.
-
-She does not activate her phone.
+Nari freezes and keeps her phone dark.
 
 Hyun-woo's voice comes urgently through the unplugged speaker.
 
@@ -439,45 +377,31 @@ Hyun-woo's voice comes urgently through the unplugged speaker.
 
 ### Page 14
 
-Nari moves through the dark apartment toward the established hallway wall switch.
+Nari physically moves through the dark-but-powered apartment toward the established hallway wall switch.
 
-No phone flashlight.
+No phone flashlight. No tablet. No candle.
 
-No tablet.
-
-No candle.
-
-She reaches the switch physically.
+She reaches the switch and turns the hallway lamp back on.
 
 CLICK.
 
-The hallway lamp comes back on.
-
-Normal mains light fills the immediate hallway area.
+Ordinary mains light returns locally.
 
 The refrigerator's hostile text breaks apart.
 
 KZZT.
 
-The black pixels collapse.
+The black pixels collapse and the refrigerator display returns to normal.
 
-The refrigerator display goes back to normal.
-
-Unit 2407 never lost supplied power.
-
-Hyun-woo never manifested physically.
+Unit 2407 never lost supplied power. Hyun-woo never manifested physically.
 
 ---
 
 ### Page 15
 
-Nari stands beneath the restored hallway light.
-
-She looks toward the lower cabinet.
+Nari stands near the restored hallway light and looks toward the lower cabinet.
 
 "That wasn't a blackout."
-
-Hyun-woo:
 
 "No."
 
@@ -485,13 +409,13 @@ Hyun-woo:
 
 "No."
 
-Nari exhales.
+Nari states the result.
 
 "So turning off the lights doesn't make you physical."
 
 "No."
 
-Nari looks toward the refrigerator.
+She looks toward the now-normal refrigerator.
 
 "But it made that thing stronger."
 
@@ -503,39 +427,33 @@ Hyun-woo is quiet for a beat.
 
 ### Page 16
 
-Nari remains near the hallway, keeping the lamp on.
+Nari remains near the hallway.
 
 "See me how?"
 
-Hyun-woo:
+Hyun-woo answers through the speaker.
 
 "Through the system."
 
 "The light makes that harder."
 
-Nari:
-
 "What is it?"
 
 A pause.
 
-Hyun-woo:
-
 "Don't name it."
 
-Nari looks genuinely annoyed now.
+Nari looks genuinely annoyed.
 
 "That's not how bug reports work."
 
-Hyun-woo:
-
 "Make an exception."
 
-Nari looks at the paper notebook.
+Nari looks down at her paper notebook.
 
 "You're very difficult to document."
 
-Hyun-woo:
+Hyun-woo answers dryly.
 
 "I've noticed."
 
@@ -543,11 +461,9 @@ Hyun-woo:
 
 ### Page 17
 
-Nari returns to the dining table.
+Nari physically returns to the dining table. The hallway lamp remains visibly on in the background.
 
-The hallway lamp remains visibly on in the background.
-
-She writes carefully in the physical notebook.
+She writes carefully in the physical notebook:
 
 ```text
 UNIT 2407 — BUG REPORT
@@ -571,27 +487,17 @@ She underlines `SEPARATE`.
 
 ### Page 18
 
-Quiet apartment.
+Quiet apartment. Normal supplied power. Hallway lamp on.
 
-Normal supplied power.
+Nari is still seated at the dining table with the physical notebook open. The lower cabinet remains open enough for Hyun-woo's voice to reach her. The electrical binder remains on the kitchen counter.
 
-Hallway lamp on.
-
-Nari is still at the dining table.
-
-The lower cabinet remains open enough for Hyun-woo's voice to reach her.
-
-From the south wall:
+From behind the closed south-wall access panel:
 
 TIK.
 
-Nari stops writing.
+Nari stops writing and looks toward the panel. She does not stand.
 
-Her eyes move toward the closed south-wall access panel.
-
-She does not stand.
-
-Hyun-woo immediately says:
+Hyun-woo immediately says through the speaker:
 
 "Don't."
 
@@ -599,13 +505,13 @@ Nari keeps both hands on the table.
 
 "I didn't move."
 
-Another sound comes from behind the closed panel.
+Another sound comes from behind the same closed panel.
 
 TIK... TIK...
 
 The hallway lamp remains steadily on.
 
-Nari looks from the panel—to the electrical binder on the kitchen counter—then back to the panel.
+Nari looks from the closed panel to the electrical binder on the kitchen counter and back to the panel.
 
 She stays seated.
 
