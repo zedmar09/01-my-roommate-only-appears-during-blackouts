@@ -32,6 +32,17 @@ Nari begins at the same kitchen/dining entrance where Page 11 ended, practical k
 Only Nari moves: in Panel 4 she takes ONE cautious step toward the dining table and accidentally nudges the empty spicy-seafood noodle packet with her bare foot.
 Do not reset the scene or invent a new camera geography.
 
+PAGE 11 → PAGE 12 DISTANCE PROGRESSION LOCK - ABSOLUTE
+Page 12 must begin from the EXACT cautious physical separation established at the end of approved Page 11. Do not reset Nari and Hyun-woo farther apart, and do not start them closer than Page 11 ended.
+Panels 1-3 preserve that same guarded distance. Hyun-woo remains seated; Nari remains at the kitchen/dining entrance with the knife low. Camera changes must not falsely imply that either character moved.
+Panel 4 is the ONLY distance-closing beat on this page: Nari takes exactly ONE cautious step toward the dining table. Hyun-woo does not move.
+That one step must visibly reduce the story-world distance between them. The reader should be able to feel that Nari is now closer than she was on Page 11, while still leaving believable personal space and no physical contact.
+Panels 5-6 preserve Nari's NEW, CLOSER stopped position after the step. Do NOT move her backward to the Page 11 entrance distance. Do NOT move Hyun-woo toward her.
+By the END of Page 12, Nari and seated Hyun-woo must be visibly closer than they were throughout Page 11, but not shoulder-to-shoulder, not intimate, and not touching.
+This end-of-Page-12 spacing is the required handoff into Page 13, where Hyun-woo pushes his chair back, stands, walks around the table, and moves into the protective blocking position between Nari and the refrigerator.
+The Page 13 movement should require a believable short physical route, not a teleport across the room. Page 12 therefore must NOT finish with Nari reset far back at the entrance.
+If Page 12 makes the characters farther apart than Page 11, keeps them at identical distance after Nari's scripted step, or places them implausibly close before the step, the page is NOT approved.
+
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 HARD STYLE BAN: no semi-photorealism, glossy rendering, cinematic rendering, 3D/CG, painterly treatment, reflections, or over-rendering.
 Use 100% flat 2D human-drawn manga/manhwa with clean ink, matte cel colors, solid blocks, adult proportions, and one hard-edged shadow. No glossy, cinematic, photoreal, 3D/CG, painterly, airbrushed, reflective, bloom, rim-light, flare, volumetric, gradient, blur, glare, wet, shiny, or over-rendered treatment.
@@ -70,7 +81,7 @@ OBJECT SCALE AND SPATIAL LOGIC
 All furniture and props remain residential scale. The empty noodle packet is ordinary packet size, not oversized. Hyun-woo stays human-scale and seated. Preserve all Page 11 chair positions.
 
 CONTINUITY
-The dialogue is one connected interrogation: Nari challenges how he entered; Hyun-woo says he did not use the door; he reveals he was already present before her move-in; Nari notices he used her pantry; then she asks who else knows he is there, leading naturally to Mrs. Na.
+The dialogue is one connected interrogation: Nari challenges how he entered; Hyun-woo says he did not use the door; he reveals he was already present before her move-in; Nari takes one cautious step closer and notices he used her pantry; then she asks who else knows he is there, leading naturally to Mrs. Na. The single step intentionally narrows their physical distance before Page 13's protective movement.
 
 TIME AND SCENE CONTINUITY
 Direct continuation at 12:56 A.M. No time card, no time jump, no flashback.
@@ -82,27 +93,27 @@ PAGE FORMAT AND PACING
 One vertical page with exactly 6 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `6`, matching the reading order below. Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, SFX, Nari/Hyun-woo faces or hands, knife, noodle packet, pot, candle, or spatial clues.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 - Exact continuation from Page 11. Nari remains at the kitchen/dining entrance with knife held low. Hyun-woo remains seated in the locked dining chair at the same table.
+PANEL 1 - Exact continuation from Page 11. Nari remains at the kitchen/dining entrance with knife held low. Hyun-woo remains seated in the locked dining chair at the same table. Preserve the exact cautious distance from Page 11 Panel 4.
 NARI: THAT'S YOUR NAME. HOW DID YOU GET IN HERE?
 
-PANEL 2 - Hyun-woo remains seated and answers calmly. No relocation.
+PANEL 2 - Hyun-woo remains seated and answers calmly. No relocation. Nari remains at the same Page 11 distance; she has not stepped closer yet.
 HYUN-WOO: I DIDN'T COME THROUGH THE DOOR.
 NARI: THEN HOW ARE YOU HERE?
 
-PANEL 3 - Hyun-woo remains in the same chair, guarded but matter-of-fact.
+PANEL 3 - Hyun-woo remains in the same chair, guarded but matter-of-fact. Nari still holds the Page 11 starting position and distance.
 HYUN-WOO: I WAS HERE BEFORE YOU MOVED IN.
 NARI: THAT'S IMPOSSIBLE. I RENT THIS PLACE ALONE.
 
-PANEL 4 - Nari takes exactly ONE cautious step toward the dining table. Her bare foot nudges the empty spicy-seafood packet on the floor. Hyun-woo does not move.
+PANEL 4 - Nari takes exactly ONE cautious step toward the dining table. This must visibly reduce the distance between her and seated Hyun-woo. Her bare foot nudges the empty spicy-seafood packet on the floor. Hyun-woo does not move.
 SFX: CRINKLE
 NARI: AND YOU'VE BEEN USING MY PANTRY.
 HYUN-WOO: I WAS HUNGRY.
 
-PANEL 5 - Nari stays where she stopped after the one step. Hyun-woo remains seated in the same chair.
+PANEL 5 - Nari stays at the NEW closer position where she stopped after the one step. Do not reset her to the entrance. Hyun-woo remains seated in the same chair.
 NARI: WHO ELSE KNOWS YOU'RE HERE?
 HYUN-WOO: MRS. NA.
 
-PANEL 6 - Same positions, same table objects, same blackout lighting.
+PANEL 6 - Same NEW closer positions as Panel 5, same table objects, same blackout lighting. Nari remains closer than she was on Page 11; Hyun-woo remains seated and no one touches. This is the locked starting geometry for Page 13's chair-push / stand / cross / protective-block movement.
 NARI: SHE KNOWS ABOUT YOU?
 HYUN-WOO: YES.
 NARI: THEN WHY DIDN'T SHE TELL ME?
@@ -115,10 +126,10 @@ TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `6`. Keep dialogue order obvious and conversational. Do not print production labels in the artwork.
 
 STORY CLARITY
-The reader must understand: Hyun-woo did not enter through the door; he claims he was already present before Nari moved in; Nari notices he used her pantry; Mrs. Na is the only other person Hyun-woo names as knowing he is there; and Hyun-woo refuses to explain Mrs. Na's decision for her.
+The reader must understand: Hyun-woo did not enter through the door; he claims he was already present before Nari moved in; Nari begins at the same guarded distance as Page 11, then deliberately takes one cautious step closer; she notices he used her pantry; Mrs. Na is the only other person Hyun-woo names as knowing he is there; and the closer end-of-page spacing prepares the physical continuity for Page 13.
 
 AVOID
-Avoid Nari or Hyun-woo identity drift, moving Hyun-woo to the sink/washbasin/counter/cooktop/pantry/island, changing his dining chair, changing table/pot/candle positions, changing Nari's route, more than one Nari step, raised threatening knife, empty pantry, wrong noodle count, generic cloth mask, simplified tattoo map, short-haired Hyun-woo, long-haired Nari, extra lore, glossy/cinematic effects, reflections, missing/duplicated/out-of-order/oversized panel numbers, and extra text.
+Avoid Nari or Hyun-woo identity drift, Page 12 starting farther apart than Page 11 ended, Page 12 starting artificially close before Nari's step, failing to visibly reduce the distance after the one step, moving Nari backward again in Panels 5-6, making Nari and Hyun-woo touch or appear intimate, moving Hyun-woo to the sink/washbasin/counter/cooktop/pantry/island, changing his dining chair, changing table/pot/candle positions, changing Nari's route, more than one Nari step, raised threatening knife, empty pantry, wrong noodle count, generic cloth mask, simplified tattoo map, short-haired Hyun-woo, long-haired Nari, extra lore, glossy/cinematic effects, reflections, missing/duplicated/out-of-order/oversized panel numbers, and extra text.
 ```
 
 ## Locked Reader-Facing Text
