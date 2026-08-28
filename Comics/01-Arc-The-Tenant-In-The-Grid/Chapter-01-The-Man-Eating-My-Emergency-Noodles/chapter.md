@@ -288,19 +288,31 @@ The guarded fruit knife remained beneath the sofa cushion. The binder stayed on 
 
 Two days later, after work, associate producer Im Seungjae walked Nari home in the rain.
 
-Outside the apartment building entrance, he asked:
+Outside the apartment building entrance, under the canopy, they were both oriented toward the glass doors and about to go inside.
+
+Seungjae asked:
 
 "Want to get dinner sometime? When we're not working late?"
 
-They entered the ground-floor residential lobby. The glass doors closed behind them while Seungjae folded the umbrella.
+Nari answered before anything interrupted them:
+
+"Yeah. I'd like that."
+
+They then crossed inward through the ground-floor glass entrance together. The rainy exterior stayed behind them and the elevator bank was deeper inside the lobby ahead.
+
+The glass doors closed behind them while Seungjae folded the umbrella.
 
 He checked his phone.
 
 "...My phone just died."
 
-His earbuds disconnected.
+They kept walking deeper into the same lobby in the same direction toward the elevator bank. Neither of them turned toward the exit.
+
+His earbuds and smartwatch also stopped responding.
 
 "Okay. That's weird."
+
+They reached the elevator waiting area together. Seungjae stayed beside Nari while they waited; he had not started leaving.
 
 Inside Nari's bag, her tablet activated with clean device text:
 
@@ -308,7 +320,7 @@ Inside Nari's bag, her tablet activated with clean device text:
 HE SHOULD GO.
 ```
 
-Nari lowered her voice toward the tablet.
+Nari lowered her voice toward the tablet while Seungjae remained beside her, occupied with his dead devices.
 
 "You did that?"
 
@@ -320,13 +332,19 @@ ONLY FOR A MINUTE.
 
 "Don't touch his stuff."
 
-At the elevator, Nari stepped inside while Seungjae turned back toward the same lobby entrance.
+Only when the elevator arrived did their paths split.
+
+Nari began stepping into the elevator alone.
+
+For the first time since entering the lobby, Seungjae turned back toward the same ground-floor entrance.
 
 "I'm going to head out before anything else dies."
 
+Nari looked back at him from the elevator doorway.
+
 "Text me when your phone's back."
 
-He never went upstairs.
+Seungjae began one continuous return walk toward the lobby exit. He never went upstairs, never exited earlier, and never re-entered the building.
 
 ---
 
