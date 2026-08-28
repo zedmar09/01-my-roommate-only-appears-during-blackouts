@@ -49,7 +49,7 @@ CHARACTER CONTINUITY
 Nari is the SAME approved canonical 30-year-old Nari in home clothes. Her toothpaste must be rinsed away before she handles the TV plug. Keep her reactions practical first, frightened second.
 
 SETTING AND PROP CONTINUITY
-This occurs two nights after Page 3. The speaker remains unplugged on the kitchen counter. The brass backup key remains in the entry tray until Nari picks it up defensively after confirming the unplugged TV is still active.
+This occurs two nights after Page 3. The speaker remains unplugged on the kitchen counter. The brass backup key remains in the entry tray until Nari picks it up defensively after confirming the unplugged TV is still active. The brass key remains in her hand through Panels 5-8 and is not returned to the tray until Page 5.
 
 TIME CAPTION RULE
 Do NOT use a tiny gutter time card.
@@ -68,9 +68,16 @@ Two different supernatural actors are seeded here:
 2. Refrigerator / hostile actor: stark broken or doubled white text with crawling black pixels and corrupted screen edges.
 The visual difference must be obvious even though Nari does not yet understand it.
 
+PAGE 4 FRIDGE DISAPPEARANCE / PAGE 5 HANDOFF LOCK — ABSOLUTE
+Panel 7 is the brief hostile refrigerator activation. Panel 8 is a separate aftermath beat after that hostile text has already vanished.
+Do NOT combine the activation and the aftermath into one panel.
+The reader sees `TENANT PROFILE: PENDING` in Panel 7, but Nari does not have enough time to clearly process/read the words.
+By Panel 8 the refrigerator display is already completely dark again. Nari is still holding the brass backup key, reaches/checks the refrigerator too late, and ends Page 4 physically at or immediately beside the refrigerator.
+Page 5 must begin from this exact refrigerator-side position. The key is NOT returned to the tray on Page 4.
+
 PAGE STRUCTURE
-Use exactly SEVEN clearly separated panels.
-Render exactly ONE small circled panel-order number inside every panel: `1` through `7`, matching the reading order below.
+Use exactly EIGHT clearly separated panels.
+Render exactly ONE small circled panel-order number inside every panel: `1` through `8`, matching the reading order below.
 Place each number near the upper-left inside its panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, captions, SFX, faces, hands, plugs, screens, or story clues.
 
 PAGE LAYOUT AND SCRIPT
@@ -108,35 +115,27 @@ The warning should feel urgent and strange, not comedic.
 
 PANEL 7
 All apartment lights flicker once.
-
 Behind Nari, the refrigerator's narrow display activates for less than a second with the established hostile visual signature: broken stark-white letters, doubled edges, corrupted screen edges, and crawling black pixels.
-
-Nari is still holding the same small brass backup key from Panel 5.
-
-She reacts to the flicker and turns toward the refrigerator.
-
-The reader clearly sees the refrigerator text `TENANT PROFILE: PENDING` before the display goes dark again.
-
-The hostile message disappears too quickly for Nari to clearly read it.
-
-Nari only understands that the refrigerator briefly activated.
-
-After the display has already gone dark, Nari cautiously approaches the refrigerator while still holding the brass key and looks at the now-dead display, trying to understand what just happened.
-
-END PAGE 4 with Nari physically at or immediately beside the refrigerator area, still holding the brass key and looking at the now-dark refrigerator display.
-
-This exact physical location/state is the mandatory starting continuity for Page 5.
-
+Nari is still holding the same small brass backup key from Panel 5. She reacts to the flicker and turns toward the refrigerator.
+The reader clearly sees the refrigerator text `TENANT PROFILE: PENDING`, but the hostile message is already beginning to vanish before Nari can clearly process/read the words.
+Do NOT show Nari reaching the refrigerator yet. This panel ends during her reaction/turn toward it.
 SFX: FZZT
 FRIDGE: TENANT PROFILE: PENDING
-
 No silhouette, reflection, face, body, or physical Hyun-woo appears.
 
+PANEL 8
+Separate aftermath beat immediately after Panel 7. The refrigerator display is now completely dark again; `TENANT PROFILE: PENDING` is GONE and must not appear anywhere in this panel.
+Nari, still holding the same brass backup key, has completed her turn and cautiously moves to / reaches the refrigerator to inspect the now-dead display. Show enough Unit 2407 geography that her movement from the entry/TV side toward the refrigerator reads naturally rather than as teleportation.
+End Page 4 with Nari physically at or immediately beside the refrigerator, focused on the dark display, still holding the brass key. This exact final location/state is the mandatory starting continuity for Page 5 Panel 1.
+NARRATION / READER ONLY: BY THE TIME NARI TURNED TOWARD IT, THE MESSAGE WAS ALREADY GONE.
+No dialogue. No SFX. No device text.
+
 TEXT AND LETTERING RULES
-Use only the exact reader-facing text listed below, plus the required small circled panel-order numbers `1` through `7`.
+Use only the exact reader-facing text listed below, plus the required small circled panel-order numbers `1` through `8`.
 Do not paraphrase or add dialogue.
 TV text must use the clean cyan-white unknown-male signature.
-Refrigerator text must use the corrupted hostile signature.
+Refrigerator text must use the corrupted hostile signature only in Panel 7.
+Panel 8 must show a completely dark refrigerator display with no residual hostile words or pixels.
 Do not print production labels such as `NARI`, `TV`, `FRIDGE`, `CAPTION`, or `SFX` in the artwork.
 
 STORY CLARITY
@@ -150,16 +149,16 @@ The reader must understand this sequence:
 - Nari asks what the warning means
 - apartment lights flicker
 - refrigerator briefly displays `TENANT PROFILE: PENDING`
-- reader sees the message
-- Nari turns too late to clearly read it
-- refrigerator is already dark when she reaches/checks it
-- Nari cautiously approaches the refrigerator while still holding the brass key
+- reader sees the hostile message in Panel 7
+- Nari turns toward it but cannot clearly process/read it before it vanishes
+- Panel 8 separately proves the refrigerator display is already dark again
+- Nari reaches/checks the refrigerator too late while still holding the brass key
 - Page 4 ends with Nari beside the now-dark refrigerator
 - Nari does not yet understand that there are two supernatural actors
 - Page 5 must physically continue from this exact refrigerator-side position
 
 AVOID
-Avoid tiny time captions, rigid one-style-fits-all narration treatment, missing/duplicated/out-of-order/oversized panel numbers, Nari asking who it is before verifying the unplugged TV remains active, `NOT THE FRIDGE`, `OUR APARTMENT`, TV reflections, refrigerator reflections, humanoid silhouettes, physical Hyun-woo, identical visual styling for TV and refrigerator text, changed appliance bodies, glossy screens, cinematic glow, extra dialogue, Nari clearly reading `TENANT PROFILE: PENDING`, putting the brass key away on Page 4, Nari teleporting away from the refrigerator, ending Page 4 back at the entry tray, refrigerator still showing the hostile message after Nari reaches it, Page 4 ending in a location that Page 5 cannot directly continue, or spoilers.
+Avoid tiny time captions, rigid one-style-fits-all narration treatment, missing/duplicated/out-of-order/oversized panel numbers, Nari asking who it is before verifying the unplugged TV remains active, `NOT THE FRIDGE`, `OUR APARTMENT`, TV reflections, refrigerator reflections, humanoid silhouettes, physical Hyun-woo, identical visual styling for TV and refrigerator text, changed appliance bodies, glossy screens, cinematic glow, extra dialogue, Nari clearly reading `TENANT PROFILE: PENDING`, keeping `TENANT PROFILE: PENDING` visible in Panel 8, combining Panels 7 and 8 into one beat, returning the brass key on Page 4, ending Page 4 back at the entry tray, teleporting Nari to the refrigerator without readable geography, or spoilers.
 ```
 
 ## Locked Reader-Facing Text
@@ -177,11 +176,12 @@ Avoid tiny time captions, rigid one-style-fits-all narration treatment, missing/
 | 6 TV | Clean device text / response to Nari | `DON'T LOOK AT THE FRIDGE.` |
 | 6 Nari | Spoken aloud to the TV | `WHAT DOES THAT MEAN?` |
 | 7 SFX | Apartment lights flicker / sound in scene | `FZZT` |
-| 7 Fridge | Hostile device text / reader sees it; Nari does not clearly see it | `TENANT PROFILE: PENDING` |
+| 7 Fridge | Hostile device text / reader sees it; Nari does not clearly process/read it in time | `TENANT PROFILE: PENDING` |
+| 8 Caption | Narration / reader only; refrigerator display already dark | `BY THE TIME NARI TURNED TOWARD IT, THE MESSAGE WAS ALREADY GONE.` |
 
 ## Required Panel Order Markers
 
-Render one small circled number inside each panel in reading order: `1` through `7`.
+Render one small circled number inside each panel in reading order: `1` through `8`.
 
 ## Production Thread Use
 
@@ -190,12 +190,10 @@ For a fresh generation, attach only:
 2. this current `page-004-chatgpt-image-prompt.md`
 3. approved Page 3 only if needed for apartment continuity
 
-For a targeted correction, use the approved Page 4 image as the edit target.
-
+For a targeted correction, use the current approved/near-approved Page 4 image as the edit target.
 Preserve Panels 1-6 exactly if already approved.
-
-Revise ONLY Panel 7 as needed to establish: brief fridge activation, message disappears before Nari clearly reads it, Nari approaches/checks the now-dark refrigerator, and Page 4 ends with Nari beside the refrigerator holding the brass key.
-
-Do not redraw unrelated panels.
+Preserve the approved reader-facing content and core visual event of Panel 7; revise only what is necessary to keep Panel 7 as the brief activation/reaction beat.
+Add the new Panel 8 as the separate message-gone / refrigerator-check aftermath beat.
+Do not redraw unrelated panels from scratch.
 
 Never use an older rejected Page 4, the legacy cover, or an unrelated page as continuity authority.
