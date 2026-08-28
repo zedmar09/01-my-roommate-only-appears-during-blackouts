@@ -302,17 +302,21 @@ They then crossed inward through the ground-floor glass entrance together. The r
 
 The glass doors closed behind them while Seungjae folded the umbrella.
 
-He checked his phone.
+He checked his phone and stopped.
 
-"...My phone just died."
+"Wait. My phone just died."
 
 They kept walking deeper into the same lobby in the same direction toward the elevator bank. Neither of them turned toward the exit.
 
-His earbuds and smartwatch also stopped responding.
+Seungjae checked his smartwatch and earbuds. The watch was dead too, and the earbuds had also stopped responding.
 
-"Okay. That's weird."
+He looked genuinely confused by several independent devices failing within moments of each other.
 
-They reached the elevator waiting area together. Seungjae stayed beside Nari while they waited; he had not started leaving.
+"My watch too?"
+
+"Why is everything dying at once?"
+
+They reached the elevator waiting area together. Seungjae stayed beside Nari while they waited; he had not started leaving. He continued looking between his dead phone, smartwatch, and earbuds, trying to understand what was happening.
 
 Inside Nari's bag, her tablet activated with clean device text:
 
