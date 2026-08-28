@@ -107,7 +107,7 @@ NARI, spoken aloud to the TV: WHAT DOES THAT MEAN?
 The warning should feel urgent and strange, not comedic.
 
 PANEL 7
-All apartment lights flicker once. Behind Nari, the refrigerator's narrow display activates for less than a second with a visibly DIFFERENT hostile style: broken stark-white letters, doubled edges, crawling black pixels. Nari is still oriented toward the TV and does not see the refrigerator message clearly before it disappears.
+All apartment lights flicker once. Behind Nari, the refrigerator's narrow display activates for less than a second with a visibly DIFFERENT hostile style: broken stark-white letters, doubled edges, crawling black pixels. Nari is still oriented toward the TV when the flicker happens and only begins turning her head/shoulders toward the refrigerator in reaction to it. She is too late to clearly read the message before the refrigerator display goes dark again. The reader sees `TENANT PROFILE: PENDING`; Nari only registers that the refrigerator display briefly activated behind her.
 SFX: FZZT
 FRIDGE: TENANT PROFILE: PENDING
 No silhouette, reflection, face, or body appears on the refrigerator.
@@ -129,10 +129,10 @@ The reader must understand this sequence:
 - instead of answering, the TV warns her not to look at the refrigerator
 - Nari asks what the warning means
 - a second, visually different actor activates the refrigerator behind her
-- Nari does not yet understand that there are two actors
+- Nari reacts to the refrigerator activation but is too late to clearly read `TENANT PROFILE: PENDING`; she does not yet understand that there are two actors
 
 AVOID
-Avoid tiny time captions, rigid one-style-fits-all narration treatment, missing/duplicated/out-of-order/oversized panel numbers, Nari asking who it is before verifying the unplugged TV remains active, `NOT THE FRIDGE`, `OUR APARTMENT`, TV reflections, refrigerator reflections, humanoid silhouettes, physical Hyun-woo, identical visual styling for TV and refrigerator text, changed appliance bodies, glossy screens, cinematic glow, extra dialogue, or spoilers.
+Avoid tiny time captions, rigid one-style-fits-all narration treatment, missing/duplicated/out-of-order/oversized panel numbers, Nari asking who it is before verifying the unplugged TV remains active, `NOT THE FRIDGE`, `OUR APARTMENT`, TV reflections, refrigerator reflections, humanoid silhouettes, physical Hyun-woo, identical visual styling for TV and refrigerator text, changed appliance bodies, glossy screens, cinematic glow, extra dialogue, Nari clearly reading the refrigerator message, or spoilers.
 ```
 
 ## Locked Reader-Facing Text
