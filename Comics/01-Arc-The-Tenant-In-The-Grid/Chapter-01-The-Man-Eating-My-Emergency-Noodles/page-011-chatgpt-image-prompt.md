@@ -30,6 +30,17 @@ Nari remains at that SAME entrance with the practical knife held low.
 Hyun-woo has NOT moved to the sink, counter, cooktop, pantry, island, or another chair.
 Do not reset the scene for the reveal.
 
+PAGE 11 CAUTIOUS-DISTANCE CONTINUITY LOCK - ABSOLUTE
+Page 11 is the guarded first conversation and must preserve a CLEAR, BELIEVABLE PHYSICAL DISTANCE between Nari and Hyun-woo for all four panels.
+Start from the exact Page 10 ending distance: Nari remains at the kitchen/dining entrance while Hyun-woo remains seated at the dining table.
+The dining table and open floor between them must remain visually readable as separation. Do not use compressed camera framing that falsely makes them look shoulder-to-shoulder, face-to-face at intimate range, or within easy touching distance.
+Nari does NOT take a step toward Hyun-woo anywhere on Page 11. Hyun-woo does NOT stand, lean across the table to close the gap, or move his chair toward Nari.
+Camera angle changes may occur, but the STORY-WORLD DISTANCE must not shrink. A close-up may crop the space for emphasis, but it must not imply that their bodies physically moved closer.
+Keep Nari's knife low and defensive. Her guarded stance and the remaining space between them should communicate that she is still testing whether he is dangerous.
+Panel 4 must END with the same cautious physical separation still intact after Hyun-woo gives his name.
+This end-of-Page-11 spacing becomes the mandatory starting distance for Page 12.
+If any Page 11 panel makes Nari and Hyun-woo appear already close enough to touch, already standing near one another, or materially closer than the Page 10 ending without scripted movement, the page is NOT approved.
+
 ENVIRONMENT AND OBJECT POSITION LOCK
 The dining table remains center/open-plan and physically separate from the kitchen counter.
 The SAME noodle pot remains on the SAME trivet directly in front of Hyun-woo.
@@ -74,22 +85,22 @@ One vertical page with exactly 4 large panels. Render exactly ONE small circled 
 The conversation should feel tense and controlled, not comedic. Hyun-woo speaks briefly and calmly; Nari remains suspicious and does not lower the knife simply because he asks.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 - Exact continuation of Page 10 Panel 6. Nari remains at the kitchen/dining entrance with knife held low. Hyun-woo remains seated in the locked dining chair across the dining table; face still mostly concealed by angle/shadow. Same pot, trivet, candle, chair, sink distance, refrigerator, and pantry positions.
+PANEL 1 - Exact continuation of Page 10 Panel 6. Nari remains at the kitchen/dining entrance with knife held low. Hyun-woo remains seated in the locked dining chair across the dining table; face still mostly concealed by angle/shadow. Preserve the clear cautious distance and visible separation between them. Same pot, trivet, candle, chair, sink distance, refrigerator, and pantry positions.
 HYUN-WOO, spoken aloud to Nari: I CAN SEE THAT.
 
-PANEL 2 - Nari does not move closer. She keeps her attention on him and asks directly. Hyun-woo remains seated and calm.
+PANEL 2 - Nari does not move closer. She keeps her attention on him and asks directly. Hyun-woo remains seated and calm. Preserve the SAME physical distance established in Panel 1.
 NARI, spoken aloud to Hyun-woo: WHO ARE YOU?
 HYUN-WOO, spoken aloud to Nari: PUT THE KNIFE DOWN.
 NARI, spoken aloud to Hyun-woo: ANSWER ME FIRST.
 
-PANEL 3 - Hyun-woo remains in the SAME chair. His chopsticks are resting against/in the same noodle pot. He speaks before the full reveal, connecting himself to the prior clean communications. Nari stays at the entrance.
+PANEL 3 - Hyun-woo remains in the SAME chair. His chopsticks are resting against/in the same noodle pot. He speaks before the full reveal, connecting himself to the prior clean communications. Nari stays at the entrance and does not close the gap. Preserve the same cautious separation.
 HYUN-WOO, spoken aloud to Nari: YOU'VE BEEN TALKING TO ME FOR DAYS.
 NARI, spoken aloud to Hyun-woo: YOU'RE THE ONE IN THE SCREENS?
 HYUN-WOO, spoken aloud to Nari: SOME OF THEM.
 Then, with his free hand, he adjusts/secures the established technical mask over nose, mouth, and jaw before his face becomes fully readable.
 SFX: TCHK
 
-PANEL 4 - Dominant reveal from the SAME seated position and SAME dining chair. Reveal canonical masked Hyun-woo without moving him or changing the environment. Same pot on trivet and same candle remain visibly anchored on the dining table. Sink/counter stay background only.
+PANEL 4 - Dominant reveal from the SAME seated position and SAME dining chair. Reveal canonical masked Hyun-woo without moving him or changing the environment. Nari remains at the same guarded distance. Same pot on trivet and same candle remain visibly anchored on the dining table. Sink/counter stay background only. End Page 11 with the separation still intact so Page 12 can begin from it.
 NARI, spoken aloud to Hyun-woo: THEN WHO ARE YOU?
 HYUN-WOO, spoken aloud to Nari: HYUN-WOO.
 
@@ -100,10 +111,10 @@ TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing dialogue/SFX listed below, plus the required small circled panel-order numbers `1` through `4`. Do not add narration, screen text, labels, product text, or extra dialogue.
 
 STORY CLARITY
-The reader must understand that the hidden eater from Page 10 is the SAME canonical Hyun-woo in the SAME chair. Nari challenges him, he connects himself to the communications she has already encountered, makes clear that only SOME of the screen activity was his, then finally gives his name.
+The reader must understand that the hidden eater from Page 10 is the SAME canonical Hyun-woo in the SAME chair. Nari challenges him from a guarded distance, he connects himself to the communications she has already encountered, makes clear that only SOME of the screen activity was his, then finally gives his name without either character closing the physical gap on this page.
 
 AVOID
-Avoid Nari or Hyun-woo identity drift; relocating Hyun-woo to sink/washbasin/counter/cooktop/island; changing dining chairs; changing table, pot, trivet, candle, refrigerator, pantry, or sink positions; resetting camera geography; short-haired Hyun-woo; generic cloth mask; simplified/new tattoo map; slimmer recast build; uncovered lower face; eating through mask; glowing veins; neon tattoos; oversized body/props; cinematic candle glow; reflections; extra text; jokes; missing/duplicated/out-of-order/oversized panel numbers; or spoilers.
+Avoid Nari or Hyun-woo identity drift; Nari and Hyun-woo standing too close together on Page 11; intimate face-to-face blocking; Nari stepping toward the table before Page 12; camera compression that falsely implies they moved closer; relocating Hyun-woo to sink/washbasin/counter/cooktop/island; changing dining chairs; changing table, pot, trivet, candle, refrigerator, pantry, or sink positions; resetting camera geography; short-haired Hyun-woo; generic cloth mask; simplified/new tattoo map; slimmer recast build; uncovered lower face; eating through mask; glowing veins; neon tattoos; oversized body/props; cinematic candle glow; reflections; extra text; jokes; missing/duplicated/out-of-order/oversized panel numbers; or spoilers.
 ```
 
 ## Locked Reader-Facing Text
