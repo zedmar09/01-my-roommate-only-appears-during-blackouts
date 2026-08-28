@@ -40,28 +40,39 @@ Nari is the SAME approved canonical adult home design. During sleep she is off-p
 SETTING AND PROP CONTINUITY
 This directly follows Page 4, where the clean TV message warned `DON'T LOOK AT THE FRIDGE.` and the hostile refrigerator briefly displayed `TENANT PROFILE: PENDING` behind Nari.
 
-Page 5 begins as an immediate continuation of the final Page 4 pose: Nari is still near the entry shelf, still holding the brass backup key, and still looking toward the refrigerator after its display went dark before she could clearly read the hostile message.
+At the end of Page 4, Nari is physically at or immediately beside the refrigerator, the refrigerator display is already dark, and she is still holding the brass backup key after checking the now-dead display.
 
-After a short reaction beat, she deliberately returns the brass key to the entry tray. Only then does she physically move toward the kitchen and hide the already-unplugged speaker inside the lower cabinet stockpot beneath two dish towels and its lid.
+Page 5 begins after that check: Nari physically walks back from the refrigerator area toward the entry shelf and deliberately returns the brass key to the entry tray. Only then does she physically move toward the kitchen and hide the already-unplugged speaker inside the lower cabinet stockpot beneath two dish towels and its lid.
 
 Nari then places a paper note and ordinary pen together beside the toaster. Fruit knife has a fitted blade guard before going beneath sofa cushion. TV remains visibly unplugged. Hallway lamp stays on except for the single brief 1:17 A.M. flicker.
 
-PAGE 4 → PAGE 5 IMMEDIATE CONTINUITY LOCK — CRITICAL
+PAGE 4 → PAGE 5 PHYSICAL MOVEMENT CONTINUITY LOCK — ABSOLUTE
 Page 5 Panel 1 begins in the exact physical moment where approved Page 4 Panel 7 ends.
 
-Nari is still near the entry shelf.
-She is still holding the same small brass backup key.
-Her body/head orientation is still toward the refrigerator.
-The refrigerator display is now dark again after its brief hostile activation.
-She has NOT walked away, changed location, placed the key down off-panel, or reset her pose between pages.
+At the END of Page 4:
+- Nari is physically at or immediately beside the refrigerator
+- the refrigerator display is already dark
+- she is still holding the brass backup key
 
-The first visible beat of Page 5 must show Nari watching the now-dark refrigerator for a short moment while still holding the brass key.
+Therefore Page 5 must NOT begin with Nari magically standing at the entry tray.
 
-Only after that reaction beat does she look at/lower the key and deliberately return it to the same shallow entry tray.
+The reader must be able to understand that Nari physically traveled from the refrigerator area back to the entry shelf / tray.
 
-The `CLINK` therefore represents a conscious decision after the refrigerator incident, not an unrelated prop-reset action.
+No teleportation.
+No unexplained location reset.
+No tight crop that hides the route and makes it appear that she was already at the tray.
 
-After returning the key, Nari physically turns and walks from the entry area toward the kitchen before hiding the unplugged speaker.
+The first visible beat of Page 5 must show Nari returning from the now-dark refrigerator area toward the entry shelf while still holding the brass key.
+
+Use a medium-wide or wide composition, not a tight hand/key/tray close-up.
+
+The refrigerator must remain visible deeper behind Nari OR the established refrigerator side of the apartment must be unmistakably visible behind her.
+
+Only at the end of that short walk does she deliberately lower the brass key into the same shallow entry tray.
+
+The `CLINK` comes from the brass key physically touching the tray.
+
+After returning the key, Nari physically turns and walks from the entry area back toward the kitchen before hiding the unplugged speaker.
 
 Do not skip the movement between the entry area and kitchen.
 Do not place Nari already beside the kitchen cabinet in Panel 1.
@@ -71,7 +82,7 @@ OBJECT SCALE AND SPATIAL LOGIC
 Show each placement by hand. Speaker fits inside household stockpot; knife guard fully covers blade; paper and pen remain ordinary household size. In the supernatural writing beat, the same pen Nari left beside the note must visibly touch and move across the paper; do not invent floating ink or a second pen.
 
 CONTINUITY
-The reader must understand this exact reasoning chain: TV warns Nari not to look at the refrigerator -> refrigerator activates -> Nari turns too late to clearly read the message -> Page 4 ends with her still holding the brass key and staring at the now-dark refrigerator -> Page 5 begins from that exact pose -> she realizes the key is useless protection and returns it -> she moves to isolate the unplugged speaker -> she then creates a low-tech paper-and-pen communication test -> she finishes her physical safety preparations with the guarded fruit knife.
+The reader must understand this exact reasoning chain: TV warns Nari not to look at the refrigerator -> refrigerator activates -> Nari turns too late to clearly read the message -> refrigerator is already dark when she reaches/checks it -> Page 4 ends with her at or beside the now-dark refrigerator, still holding the brass key -> Page 5 begins as she physically walks back from the refrigerator side to the entry tray -> she realizes the key is useless protection and returns it -> she moves from the entry area back to the kitchen to isolate the unplugged speaker -> she then creates a low-tech paper-and-pen communication test -> she finishes her physical safety preparations with the guarded fruit knife.
 
 Do not present Page 5 as an unrelated new setup or unexplained reset.
 
@@ -109,21 +120,38 @@ PAGE FORMAT AND PACING
 One vertical page with exactly 7 panels. Render exactly ONE small circled panel-order number inside every panel: `1` through `7`, matching the reading order below. Place each number near the upper-left inside its own panel or at a quiet gutter-edge position, readable but subtle. Never cover dialogue, captions, SFX, Nari's face/hands, note/pen, knife, speaker/storage stockpot, or other clues.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 - Exact continuation from Page 4 Panel 7.
+PANEL 1 — EXACT CONTINUATION FROM PAGE 4.
 
-Nari is still near the entry shelf in the SAME position/orientation where Page 4 ended, still holding the small brass backup key and looking toward the now-dark refrigerator.
+The refrigerator display is already dark.
 
-Hold this reaction for a short visual beat so the reader understands she is processing the refrigerator activation.
+Nari has just left the refrigerator area after checking the now-dead display. She is still holding the same brass backup key.
 
-She then lowers her gaze toward the brass key, decides it is not useful protection, and deliberately returns it to the SAME shallow entry tray with her own hand.
+Use a medium-wide or wide composition that clearly preserves the established Unit 2407 geography and shows that Nari has physically crossed from the refrigerator side toward the entry shelf.
+
+Capture Nari at the END of that short walk as she reaches the shallow entry tray.
+
+The refrigerator / refrigerator side remains visible deeper behind her so the reader understands where she just came from.
+
+Her body angle, trailing foot, and weight shift must show recent movement from the refrigerator toward the tray rather than a static reset.
+
+She deliberately lowers the brass key into the SAME shallow entry tray with her own hand.
+
+No dialogue.
 
 SFX: CLINK
 
-PANEL 2 - After returning the brass key, Nari physically turns away from the entry shelf and walks toward the kitchen.
+PANEL 2
 
-At the lower kitchen cabinet, she takes the already-unplugged speaker from the counter, places it inside the existing household stockpot, covers it with the same two dish towels, replaces the lid, and closes the cabinet.
+After returning the brass key, Nari physically turns away from the entry shelf and walks toward the kitchen.
 
-This must read as the next practical response to the Page 4 refrigerator incident, not as a disconnected new setup or location reset.
+Preserve the established apartment geography so the reader understands this is a new physical movement from entry area back toward the kitchen.
+
+At the lower kitchen cabinet, she takes the already-unplugged speaker from the counter, places it inside the existing stockpot, covers it with the same two dish towels, replaces the lid, and closes the cabinet.
+
+This action must read as Nari's practical response after the refrigerator incident.
+
+No teleportation.
+No unexplained room reset.
 
 SFX: CLUNK
 
@@ -157,27 +185,28 @@ Use only the exact uppercase reader-facing text listed below, plus the required 
 For the repeated original note `WHO ARE YOU?`, textual wording and the physical two-line layout are both locked: render `WHO ARE` on line 1 and `YOU?` on line 2 in Panels 3 and 7.
 
 STORY CLARITY
-The reader must understand this exact reasoning chain: TV warns Nari not to look at the refrigerator -> refrigerator activates -> Nari turns too late to clearly read the message -> Page 4 ends with her still holding the brass key and staring at the now-dark refrigerator -> Page 5 begins from that exact pose -> she realizes the key is useless protection and returns it -> she moves to isolate the unplugged speaker -> she then creates a low-tech paper-and-pen communication test -> she finishes her physical safety preparations with the guarded fruit knife. At exactly 1:17 A.M. a brief electrical flicker coincides with the pen moving by itself. The next morning she finds the SAME physical note with the SAME original two-line question plus a new handwritten reply that refuses to identify the helpful presence but warns that something else is the real danger.
+The reader must understand this exact reasoning chain: TV warns Nari not to look at the refrigerator -> refrigerator activates -> Nari turns too late to clearly read the message -> refrigerator is already dark when she reaches/checks it -> Page 4 ends with her at or beside the now-dark refrigerator, still holding the brass key -> Page 5 begins as she physically walks back from the refrigerator side to the entry tray -> she realizes the key is useless protection and returns it -> she moves from the entry area back to the kitchen to isolate the unplugged speaker -> she then creates a low-tech paper-and-pen communication test -> she finishes her physical safety preparations with the guarded fruit knife. At exactly 1:17 A.M. a brief electrical flicker coincides with the pen moving by itself. The next morning she finds the SAME physical note with the SAME original two-line question plus a new handwritten reply that refuses to identify the helpful presence but warns that something else is the real danger.
 
 AVOID
-Avoid Nari identity drift, long black hair, generic replacement face, Page 5 opening as a disconnected reset unrelated to Page 4, opening Page 5 with Nari already looking at the key tray instead of the refrigerator, key already returned off-panel, Nari suddenly appearing beside the kitchen cabinet, unexplained location reset, fridge reaction omitted, Page 5 appearing unrelated to Page 4, Nari acting as though she clearly read `TENANT PROFILE: PENDING`, tiny/unreadable time captions, separate time-card gutters, rigid one-style-fits-all narration treatment, unguarded knife, moving speaker without showing hands, missing towels/lid, toaster crumbs forming words, crumbs moving across paper, floating ink, invisible hand, physical Hyun-woo, hostile signature, flashback styling, glossy/cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, extra text, Panel 7 changing `WHO ARE / YOU?` into one line, different wrapping between Panels 3 and 7, or redrawing the original question with visibly different handwriting.
+Avoid Nari identity drift, long black hair, generic replacement face, Page 5 opening as a disconnected reset unrelated to Page 4, Page 5 Panel 1 as a tight key/tray close-up, refrigerator completely absent from the continuity composition, Nari appearing at the tray without evidence she walked from the refrigerator, key already lying in the tray, fridge message still visible on Page 5, Nari acting as though she clearly read `TENANT PROFILE: PENDING`, Nari teleporting between fridge / entry / kitchen, Panel 1 looking like a random unrelated key-return action, Panel 2 beginning with Nari magically already at the cabinet, changing Panels 3-7 unnecessarily, changing dialogue/SFX/text, changing apartment geometry, tiny/unreadable time captions, separate time-card gutters, rigid one-style-fits-all narration treatment, unguarded knife, moving speaker without showing hands, missing towels/lid, toaster crumbs forming words, crumbs moving across paper, floating ink, invisible hand, physical Hyun-woo, hostile signature, flashback styling, glossy/cinematic effects, missing/duplicated/out-of-order/oversized panel numbers, extra text, Panel 7 changing `WHO ARE / YOU?` into one line, different wrapping between Panels 3 and 7, or redrawing the original question with visibly different handwriting.
 ```
 
 ## Locked Reader-Facing Text
 
 | PanelText | Type / Who hears it | Text |
 | --- | --- | --- |
-| 1 SFX | Nari returning brass key to tray | `CLINK` |
-| 2 SFX | Speaker placed inside stockpot / cabinet | `CLUNK` |
-| 3 Note | Handwritten message / same physical note as Panel 7; visual layout locked as `WHO ARE` / `YOU?` | `WHO ARE YOU?` |
-| 4 SFX | Knife guard securing into place | `SNICK` |
+| 1 | No dialogue — Nari physically returns from refrigerator area to entry tray | — |
+| 1 SFX | Brass key physically returned to tray | `CLINK` |
+| 2 SFX | Speaker placed inside stockpot / cabinet setup | `CLUNK` |
+| 3 Note | Handwritten physical note; same note as Panel 7; visual layout locked as `WHO ARE` / `YOU?` | `WHO ARE YOU?` |
+| 4 SFX | Fruit-knife guard securing | `SNICK` |
 | 5 Time | Large narration caption / reader only | `1:17 A.M.` |
 | 5 SFX | Hallway lamp flickering | `FZZT` |
-| 5 SFX | Pen moving across paper | `SCRATCH... SCRATCH...` |
+| 5 SFX | Pen physically writing on paper | `SCRATCH... SCRATCH...` |
 | 6 Time | Large narration caption / reader only | `THE NEXT MORNING` |
 | 6 Nari | Spoken quietly to herself | `WHAT THE...` |
-| 7 Note | Same original physical handwriting from Panel 3; preserve exact two-line layout `WHO ARE` / `YOU?` | `WHO ARE YOU?` |
-| 7 Reply | New physical handwritten reply / reader and Nari can read it | `NOT THE ONE YOU SHOULD BE AFRAID OF.` |
+| 7 Note | Same original physical handwriting; exact two-line layout `WHO ARE` / `YOU?` | `WHO ARE YOU?` |
+| 7 Reply | New physical handwritten reply | `NOT THE ONE YOU SHOULD BE AFRAID OF.` |
 
 ## Required Panel Order Markers
 
@@ -192,11 +221,11 @@ For a fresh generation, attach only:
 
 For this continuity correction, attach the approved revised Page 4 image as mandatory preceding-page continuity reference.
 
-Use the current approved/near-approved Page 5 image as the edit target when available.
+Use the existing Page 5 image as the edit target if Panels 2-7 are otherwise correct.
 
-Preserve every correct Page 5 element outside the affected Page 5 Panels 1-2 continuity correction.
+Preserve all correct content.
 
-Revise only the opening handoff, Nari's fridge reaction, brass-key return, and physical movement toward the kitchen unless another change is strictly required to maintain continuity.
+Correct primarily: Panel 1 geography/movement/fridge-to-tray continuity, and Panel 2 only if necessary to preserve the entry-to-kitchen movement.
 
 Do not redesign Panels 3-7.
 

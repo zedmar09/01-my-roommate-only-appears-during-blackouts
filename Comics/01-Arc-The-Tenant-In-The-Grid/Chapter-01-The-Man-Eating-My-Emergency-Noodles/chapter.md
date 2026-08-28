@@ -177,17 +177,19 @@ Behind her, the refrigerator display briefly activated with a completely differe
 TENANT PROFILE: PENDING
 ```
 
-By the time Nari turned around, the refrigerator was dark again.
+By the time Nari turned toward it, the message was already gone.
+
+Still holding the brass backup key, she cautiously approached the refrigerator and stared at the now-dark display.
 
 ---
 
 ### Page 05
 
-Nari remained near the entry shelf for a moment, still holding the brass backup key and watching the refrigerator after its display went dark.
+After checking the now-dark refrigerator, Nari walked back toward the entry shelf with the brass backup key still in her hand.
 
 Then she returned the brass key to the tray.
 
-She put the unplugged speaker inside a storage stockpot in the lower kitchen cabinet, covered it with the same two dish towels, replaced the lid, and shut the cabinet.
+She then moved to the kitchen and put the unplugged speaker inside a storage stockpot in the lower kitchen cabinet, covered it with the same two dish towels, replaced the lid, and shut the cabinet.
 
 Then she wrote a physical paper note and left a pen beside it:
 
