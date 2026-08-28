@@ -2,7 +2,7 @@
 
 Status: **PASS — FINAL PRE-GENERATION GUARD COMPLETE**
 
-This is the current go/no-go audit of the Chapter 1 production package on `main` after the completed Page 1–18 dialogue/continuity rewrite, shared guard cleanup, visible panel-order-marker requirement, scene-adaptive narration-design rule, and the chapter-wide image-only execution lock.
+This is the current go/no-go audit of the Chapter 1 production package on `main` after the completed Page 1–18 dialogue/continuity rewrite, shared guard cleanup, visible panel-order-marker requirement, scene-adaptive narration-design rule, chapter-wide image-only execution lock, and the Page 4→5 refrigerator disappearance / walking-continuity correction.
 
 ## Audited Production Package
 
@@ -55,8 +55,8 @@ Every Chapter 1 interior story panel requires one small circled reader-facing or
 - Page 1: `1–6`
 - Page 2: `1–9`
 - Page 3: `1–7`
-- Page 4: `1–7`
-- Page 5: `1–7`
+- Page 4: `1–8`
+- Page 5: `1–8`
 - Page 6: `1–9`
 - Page 7: `1–6`
 - Page 8: `1–6`
@@ -94,6 +94,7 @@ Narration/time-caption **wording is locked**, but its graphic presentation is in
 - Never sacrifice readability: no low-contrast bare text over busy or very dark artwork.
 - Large time captions remain large/noticeable even though their styling is adaptive.
 - Pages without narration do not gain invented captions.
+- Page 4 Panel 8 specifically carries the locked reader-only aftermath narration `BY THE TIME NARI TURNED TOWARD IT, THE MESSAGE WAS ALREADY GONE.` after the refrigerator hostile text has already vanished.
 
 For Chapter 1, the narration-bearing page prompts are explicitly aligned to this rule. Narration-free pages remain unchanged while inheriting the same global guard through `Comics/style-guide.md`, `Comics/prompt-template.md`, and the Chapter 1 generation checklist.
 
@@ -105,8 +106,8 @@ For Chapter 1, the narration-bearing page prompts are explicitly aligned to this
 | Image-only execution | PASS | Pages 001–018 are executed from the locked prompt without pre-generation rewrite/reinterpretation. |
 | Page 2 doorbell | PASS | Nari inside; outside visitor rings; Nari never operates doorbell/intercom/control in Panel 1. |
 | Master/story sync | PASS | `chapter.md` remains synchronized to the locked Page 1–18 story/dialogue. |
-| Dialogue | PASS | Production-presentation changes do not alter approved dialogue, narration wording, device text, notebook text, or SFX. |
-| Panel counts | PASS | Locked counts remain `6, 9, 7, 7, 7, 9, 6, 6, 5, 6, 4, 6, 5, 8, 8, 8, 8, 6`. |
+| Dialogue | PASS | Page 4→5 restructuring preserves all previously approved dialogue/SFX/device text; only the new Page 4 Panel 8 reader-only aftermath narration is added. |
+| Panel counts | PASS | Locked counts are now `6, 9, 7, 8, 8, 9, 6, 6, 5, 6, 4, 6, 5, 8, 8, 8, 8, 6`. |
 | Panel order markers | PASS | Every page prompt requires one small circled marker per panel in exact consecutive reading order. |
 | Narration design | PASS | Narration/time-caption wording is exact; presentation is scene-adaptive, high-contrast, and not locked to a universal white box/background/shape. |
 | Time transitions | PASS | Meaningful time jumps remain large noticeable in-panel narration captions; no separate tiny time-card gutters. |
@@ -114,6 +115,7 @@ For Chapter 1, the narration-bearing page prompts are explicitly aligned to this
 | Visual style | PASS | Flat 2D human-drawn matte manga/manhwa; glossy/cinematic/photoreal/3D/painterly/reflective treatments rejected. |
 | Unit 2407 geometry | PASS | Living/TV left, dining center, kitchen/refrigerator right, hallway behind; fixed appliance bodies and room geometry. |
 | Object continuity | PASS | Key, binder, two knives, noodles, two separate pots, towels/lid/speaker, candle, chair, phone, notebook, TV, and refrigerator have traceable states. |
+| Pages 4–5 movement | PASS | P4 P7 hostile flash → P4 P8 dark-fridge aftermath → P5 P1 walk away from fridge → P5 P2 continue to tray + `CLINK` → P5 P3 walk back to kitchen + `CLUNK`; no teleportation. |
 | Page 8 geography | PASS | Exterior canopy → same ground-floor lobby → elevator bank; Nari goes upstairs alone; Seungjae leaves. |
 | Page 9 screen rule | PASS | Phone remains dark during outage. |
 | Pages 10–12 | PASS | Hyun-woo stays at the dining table; Page 12 keeps him seated while only Nari steps. |
@@ -172,6 +174,6 @@ Chapter 1 is cleared for generation only with strict sequential approval:
 
 ## Final Result
 
-**PASS — Chapter 1's 18-page production package and shared guardrails are aligned with the image-only execution rule, Page 2 doorbell blocking, visible panel-order-marker requirement, and scene-adaptive narration-design rule, and are cleared for strict sequential image generation.**
+**PASS — Chapter 1's 18-page production package and shared guardrails are aligned with the image-only execution rule, Page 2 doorbell blocking, visible panel-order-marker requirement, scene-adaptive narration-design rule, and the revised Page 4→5 refrigerator/walking continuity bridge. Pages 4 and 5 are now locked at eight panels each and are cleared for strict sequential image generation.**
 
 This PASS applies to instructions currently on `main`. It does not pre-approve generated artwork; every rendered page still requires post-generation review.
