@@ -73,13 +73,11 @@ Current active arc:
 
 - `Comics/01-Arc-The-Tenant-In-The-Grid/`
 
-Current working chapter package:
+Current working chapter packages:
 
 1. The Man Eating My Emergency Noodles - `chapter.md`, 18 page prompts, continuity audit, final audit, and generation checklist are present. Shared `Covers/` prompts for `story_cover`, `front`, and `back` are present. Final reader PNG/WebP assets are not present in this working copy yet.
 
-Planned/referenced next chapter:
-
-2. Do Not Turn Off All The Lights - planned in the roadmap, but its folder and files are not present in this working copy yet.
+2. Do Not Turn Off All The Lights - `Comics/01-Arc-The-Tenant-In-The-Grid/Chapter-02-Do-Not-Turn-Off-All-The-Lights/chapter.md` prose draft is present. Page prompts, continuity audit, final audit, generation checklist, and reader PNG/WebP assets are not created yet.
 
 Current Arc 1 planned chapter list:
 
