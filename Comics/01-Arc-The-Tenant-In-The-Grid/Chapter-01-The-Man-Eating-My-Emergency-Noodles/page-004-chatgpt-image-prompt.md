@@ -107,10 +107,18 @@ NARI, spoken aloud to the TV: WHAT DOES THAT MEAN?
 The warning should feel urgent and strange, not comedic.
 
 PANEL 7
-All apartment lights flicker once. Behind Nari, the refrigerator's narrow display activates for less than a second with a visibly DIFFERENT hostile style: broken stark-white letters, doubled edges, crawling black pixels. Nari is still oriented toward the TV when the flicker happens and only begins turning her head/shoulders toward the refrigerator in reaction to it. She is too late to clearly read the message before the refrigerator display goes dark again. The reader sees `TENANT PROFILE: PENDING`; Nari only registers that the refrigerator display briefly activated behind her.
+All apartment lights flicker once. Behind Nari, the refrigerator's narrow display activates for less than a second with a visibly DIFFERENT hostile style: broken stark-white letters, doubled edges, crawling black pixels.
+
+Nari is still holding the same small brass backup key from Panel 5. She reacts to the flicker and begins turning her head and shoulders toward the refrigerator, but she is too late to clearly read the message before the refrigerator display goes dark again.
+
+The reader clearly sees `TENANT PROFILE: PENDING`. Nari only registers that the refrigerator briefly activated behind her.
+
+End the panel with Nari still holding the brass key and oriented toward the now-dark refrigerator. This exact final physical state is the mandatory starting continuity for Page 5 Panel 1.
+
 SFX: FZZT
 FRIDGE: TENANT PROFILE: PENDING
-No silhouette, reflection, face, or body appears on the refrigerator.
+
+No silhouette, reflection, face, body, or physical Hyun-woo appears on the refrigerator.
 
 TEXT AND LETTERING RULES
 Use only the exact reader-facing text listed below, plus the required small circled panel-order numbers `1` through `7`.
@@ -129,10 +137,15 @@ The reader must understand this sequence:
 - instead of answering, the TV warns her not to look at the refrigerator
 - Nari asks what the warning means
 - a second, visually different actor activates the refrigerator behind her
-- Nari reacts to the refrigerator activation but is too late to clearly read `TENANT PROFILE: PENDING`; she does not yet understand that there are two actors
+- Nari reacts and begins turning toward it
+- the reader sees `TENANT PROFILE: PENDING`
+- Nari is too late to clearly read the message and only knows the refrigerator briefly activated
+- Page 4 ends with Nari still holding the brass key and looking toward the now-dark refrigerator
+- this exact final pose/state must continue directly into Page 5 Panel 1
+- Nari does not yet understand that there are two supernatural actors
 
 AVOID
-Avoid tiny time captions, rigid one-style-fits-all narration treatment, missing/duplicated/out-of-order/oversized panel numbers, Nari asking who it is before verifying the unplugged TV remains active, `NOT THE FRIDGE`, `OUR APARTMENT`, TV reflections, refrigerator reflections, humanoid silhouettes, physical Hyun-woo, identical visual styling for TV and refrigerator text, changed appliance bodies, glossy screens, cinematic glow, extra dialogue, Nari clearly reading the refrigerator message, or spoilers.
+Avoid tiny time captions, rigid one-style-fits-all narration treatment, missing/duplicated/out-of-order/oversized panel numbers, Nari asking who it is before verifying the unplugged TV remains active, `NOT THE FRIDGE`, `OUR APARTMENT`, TV reflections, refrigerator reflections, humanoid silhouettes, physical Hyun-woo, identical visual styling for TV and refrigerator text, changed appliance bodies, glossy screens, cinematic glow, extra dialogue, Nari clearly reading the refrigerator message, putting the brass key away on Page 4, walking away from the refrigerator before the page ends, resetting her pose/location before Page 5, ending Page 4 in a physical state that Page 5 cannot directly continue, or spoilers.
 ```
 
 ## Locked Reader-Facing Text
@@ -163,6 +176,10 @@ For a fresh generation, attach only:
 2. this current `page-004-chatgpt-image-prompt.md`
 3. approved Page 3 only if needed for apartment continuity
 
-For a targeted correction of an otherwise correct Page 4, use the current near-pass Page 4 image as the edit target together with this `.md`; preserve all correct panels/text/characters and change only explicitly identified defects.
+For a targeted correction of an otherwise correct Page 4, use the current approved/near-approved Page 4 image as the edit target together with this `.md`; preserve every correct panel, character, appliance, text line, object, lighting choice, and composition detail that is not part of the Panel 7 continuity correction.
+
+Revise only the affected Page 4 Panel 7 reaction/handoff unless another change is strictly required to make that handoff physically coherent.
+
+Do not regenerate unrelated panels from scratch.
 
 Never use an older rejected Page 4, the legacy cover, or an unrelated page as continuity authority.

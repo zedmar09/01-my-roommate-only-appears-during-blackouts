@@ -183,7 +183,9 @@ By the time Nari turned around, the refrigerator was dark again.
 
 ### Page 05
 
-Nari returned the brass key to the entry tray.
+Nari remained near the entry shelf for a moment, still holding the brass backup key and watching the refrigerator after its display went dark.
+
+Then she returned the brass key to the tray.
 
 She put the unplugged speaker inside a storage stockpot in the lower kitchen cabinet, covered it with the same two dish towels, replaced the lid, and shut the cabinet.
 
