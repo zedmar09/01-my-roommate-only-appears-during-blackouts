@@ -2,7 +2,7 @@
 
 Status: **PASS — FINAL LOCKED STORY/PROMPT CONTINUITY VERIFIED**
 
-This audit reflects the current production files on `main`, including the newly required reader-facing panel-order markers.
+This audit reflects the current production files on `main`, including the required reader-facing panel-order markers and the revised Page 4→5 refrigerator-to-entry movement bridge.
 
 ## Production Scope
 
@@ -31,8 +31,8 @@ Locked marker ranges:
 | 1 | 1–6 |
 | 2 | 1–9 |
 | 3 | 1–7 |
-| 4 | 1–7 |
-| 5 | 1–7 |
+| 4 | 1–8 |
+| 5 | 1–8 |
 | 6 | 1–9 |
 | 7 | 1–6 |
 | 8 | 1–6 |
@@ -83,8 +83,18 @@ The two signatures must never be swapped.
 - Chapter 1 does not use separate tiny blank time-card gutters.
 - Direct-continuation pages do not invent time transitions.
 - Chapter 1 is chronological and contains no flashback.
+- Page 4 Panel 8 uses the exact reader-only aftermath narration `BY THE TIME NARI TURNED TOWARD IT, THE MESSAGE WAS ALREADY GONE.` to separate the hostile flash from the later dark-fridge inspection.
 
 ## Critical Spatial Continuity
+
+### Pages 4–5
+- Page 4 Panel 7 is the brief hostile activation: the reader sees `TENANT PROFILE: PENDING`; Nari turns toward the refrigerator but cannot clearly process/read the words before they vanish.
+- Page 4 Panel 8 is a separate aftermath panel with the refrigerator display completely dark. Nari reaches/checks it too late while still holding the brass backup key.
+- Page 4 ends with Nari at/immediately beside the refrigerator, not back at the entry tray.
+- Page 5 Panel 1 begins from that exact refrigerator-side position and shows Nari turning away and starting the walk toward the entry area. She remains in transit at the panel end.
+- Page 5 Panel 2 continues the SAME uninterrupted walking direction until she reaches the entry shelf and returns the key with `CLINK`.
+- Page 5 Panel 3 occurs only after the key return: Nari turns and physically moves back toward the kitchen before hiding the speaker with `CLUNK`.
+- No refrigerator-to-tray or tray-to-kitchen teleportation is allowed.
 
 ### Pages 10–12
 - Hyun-woo is seated at the dining table, not sink/counter/cooktop.
@@ -109,7 +119,7 @@ The two signatures must never be swapped.
 
 ## Object Ledger
 
-- Brass backup key: entry tray through ending.
+- Brass backup key: entry tray after Page 2 → held defensively through Page 4 Panels 5–8 → returned by hand to entry tray Page 5 Panel 2 → tray through ending.
 - Electrical binder: kitchen counter after Page 6 through ending.
 - Guarded fruit knife: under sofa cushion, distinct from practical knife.
 - Practical knife: desk tray → drawn Page 10 → floor Page 14–16 → re-sheathed at desk Page 17–18.
@@ -126,8 +136,10 @@ The two signatures must never be swapped.
 
 PASS:
 
-- Locked dialogue/SFX/device/notebook text remains unchanged by this panel-marker update.
-- Small circled panel-order markers are now intentionally reader-facing and required.
+- Page 4 Panel 8 now adds the locked reader-only narration `BY THE TIME NARI TURNED TOWARD IT, THE MESSAGE WAS ALREADY GONE.` as the explicit disappearance/aftermath bridge.
+- All other approved dialogue/SFX/device/notebook text remains unchanged by the Page 4→5 continuity restructuring.
+- Page 5 preserves `CLINK`, `CLUNK`, `WHO ARE YOU?`, `SNICK`, `1:17 A.M.`, `FZZT`, `SCRATCH... SCRATCH...`, `THE NEXT MORNING`, `WHAT THE...`, and `NOT THE ONE YOU SHOULD BE AFRAID OF.` exactly while shifting them to the new 8-panel layout.
+- Small circled panel-order markers remain intentionally reader-facing and required.
 - Literal production labels are not reader-facing.
 - Large in-panel time captions remain required where scripted.
 - Removed obsolete story beats remain absent, including `OUR APARTMENT`, reader-facing `RECORD CORRUPTED`, toaster-crumb writing, Page 8 car-key beat, Page 9 phone activation, Page 11 fruit-knife joke, Page 12 haunting-noodles banter, and Page 15 cheap-rent/door banter.
@@ -151,4 +163,4 @@ Reject:
 
 ## Verification Result
 
-**PASS — the current 18-page story/prompt package remains internally consistent after adding visible panel-order markers and is ready for strict sequential image generation, subject to the generation checklist and per-page approval gate.**
+**PASS — the current 18-page story/prompt package remains internally consistent after the Page 4→5 refrigerator disappearance/walking bridge update. Pages 4 and 5 now each use eight panels, and the package remains ready for strict sequential image generation, subject to the generation checklist and per-page approval gate.**
