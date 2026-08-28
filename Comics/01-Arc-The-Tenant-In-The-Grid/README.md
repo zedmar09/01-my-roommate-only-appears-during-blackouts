@@ -6,7 +6,7 @@ Folder: `01-Arc-The-Tenant-In-The-Grid`
 ## Chapter Folders
 
 - `Chapter-01-The-Man-Eating-My-Emergency-Noodles/` - Chapter 1: The Man Eating My Emergency Noodles (`chapter.md`, 18 page prompts, `chapter-01-continuity-audit.md`, `chapter-01-final-audit.md`, and `chapter-01-generation-checklist.md` present; PNG/WebP reader assets not present in this working folder)
-- Chapter 2: Do Not Turn Off All The Lights - planned/referenced only; folder and files are not present in this working copy yet.
+- `Chapter-02-Do-Not-Turn-Off-All-The-Lights/` - Chapter 2: Do Not Turn Off All The Lights (`chapter.md` prose draft present; page prompts, continuity audit, final audit, generation checklist, and PNG/WebP reader assets not created yet)
 
 ## File Rules
 
