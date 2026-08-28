@@ -273,6 +273,17 @@ Critical object paths:
 - Page 6 must not collapse the real note's `WHO ARE` / `YOU?` layout into one line, reflow the reply, move the note, redesign the note, or make the real note disappear.
 - Fresh Page 6 generation requires the approved Page 5 image as a continuity reference. Without approved Page 5, Page 6 is not ready for production generation.
 
+### Page 8 Lobby Route / Multi-Device Failure
+- Panel 1: Seungjae asks `WANT TO GET DINNER SOMETIME? WHEN WE'RE NOT WORKING LATE?`; Nari must answer `YEAH. I'D LIKE THAT.` before any device failure begins.
+- Panel 2 is an **ENTERING-INWARD** lobby shot. The glass entrance closes behind them. Seungjae must not look like he is leaving. His first failure is the phone, with exact line `WAIT. MY PHONE JUST DIED.`
+- Panel 3 remains deeper inside the SAME lobby while both continue toward the elevator. Seungjae checks separate personal devices: smartwatch and earbuds. The watch also dies and the earbuds fail/disconnect.
+- Panel 3 dialogue order is locked: `MY WATCH TOO?` → `WHY IS EVERYTHING DYING AT ONCE?`
+- The old line `OKAY. THAT'S WEIRD.` must NOT return.
+- Seungjae must visibly look confused/increasingly concerned because several independent devices fail almost at once. A version where only the phone fails is an **automatic REJECT**.
+- The building itself remains normally powered: no lobby blackout, elevator failure, door lockout, or safety-system interference.
+- Panels 2–5 keep Seungjae continuously inside the lobby and moving/waiting with Nari. No U-turn or exit attempt before Panel 6.
+- Panel 6 is the FIRST and ONLY time Seungjae turns back toward the ground-floor entrance. Nari enters the elevator alone; Seungjae does not go upstairs.
+
 ### Pages 10–12
 - Hyun-woo is at the dining table, never the sink/counter.
 - Canonical Hyun-woo is already used on Page 10 while identity is hidden by angle/shadow.
@@ -332,7 +343,7 @@ Reject if the image:
 - forces all narration/time captions into a fixed white-box treatment regardless of scene
 - makes narration/time captions difficult to read against the local artwork
 
-Removed story beats must not return, including `OUR APARTMENT`, reader-facing `RECORD CORRUPTED`, toaster-crumb writing, Page 8 car-key beat, Page 9 phone activation, Page 11 fruit-knife joke, Page 12 haunting-noodles banter, and Page 15 cheap-rent/door banter.
+Removed story beats must not return, including `OUR APARTMENT`, reader-facing `RECORD CORRUPTED`, toaster-crumb writing, Page 8 car-key beat, Page 8 old `OKAY. THAT'S WEIRD.` reaction, Page 9 phone activation, Page 11 fruit-knife joke, Page 12 haunting-noodles banter, and Page 15 cheap-rent/door banter.
 
 ## Post-Generation Approval Gate
 
