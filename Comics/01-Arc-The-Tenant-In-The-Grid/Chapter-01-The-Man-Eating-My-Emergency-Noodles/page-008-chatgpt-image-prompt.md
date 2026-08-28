@@ -65,7 +65,10 @@ LIGHTING AND EXPOSURE LOCK
 One medium-bright neutral powered baseline. Rain outside may be darker but not cinematic. Device failure uses tiny contained static marks only.
 
 POWER AND SUPERNATURAL RULE LOCK
-Nonphysical Hyun-woo causes brief petty interference with Seungjae's personal electronics only. This is not a blackout and does not affect the lobby lights, elevator, building access, doors, or any safety system. Hyun-woo's tablet text uses the clean stable cyan-white signature with no hostile black pixels.
+Nonphysical Hyun-woo causes brief petty interference with Seungjae's PERSONAL ELECTRONICS ONLY. This is not a blackout and does not affect the lobby lights, elevator, building access, doors, or any safety system.
+The failure sequence is cumulative and visually clear: Seungjae's phone dies first in Panel 2; then his smartwatch and earbuds also fail in Panel 3. By Panel 3 he realizes several independent personal devices have died almost at once and is visibly confused by the pattern.
+Do not make only one device fail. Do not make Seungjae calm or unsurprised after multiple devices stop working.
+Hyun-woo's tablet text uses the clean stable cyan-white signature with no hostile black pixels.
 
 CHARACTER CONSISTENCY
 Nari is the SAME approved canonical 30-year-old Korean woman in practical after-work clothing, headphones and shoulder bag with stickered tablet. Seungjae is the SAME approved canonical Korean man, 33, with neat brown hair, office-casual clothing and umbrella. Do not reinterpret either face from text.
@@ -73,7 +76,8 @@ Nari is the SAME approved canonical 30-year-old Korean woman in practical after-
 SETTING AND PROP CONTINUITY
 Panel 1: umbrella is still open because they have just reached the covered entrance.
 Panel 2: after they cross INWARD through the lobby doors, Seungjae folds/closes the umbrella and keeps it with him.
-His phone fails first just after they enter. Then additional personal electronics such as earbuds and smartwatch fail while both continue farther into the lobby toward the elevator bank.
+His PHONE fails first just after they enter. He visibly checks the dead phone and is immediately confused because it was working moments earlier.
+Panel 3: while both continue farther into the lobby, Seungjae checks his SMARTWATCH and EARBUDS. They also stop responding. The reader must see that these are separate personal devices and that the failures are accumulating.
 Nari's tablet remains inside her shoulder bag when its screen wakes.
 Seungjae never handles Nari's tablet and never clearly sees its supernatural text.
 
@@ -87,10 +91,16 @@ Panel 1 dialogue order is locked:
 2. Nari answers: `YEAH. I'D LIKE THAT.`
 Only after that exchange is complete do they enter the lobby in Panel 2 and Seungjae's phone dies.
 Do not skip Nari's answer. Do not make Seungjae jump directly from asking Nari out to talking about his dead phone without receiving her response.
-The later phone/device failure interrupts what had just become a mutually positive conversation; it does not erase or replace Nari's answer.
+
+The device-failure dialogue is also locked as one escalating reaction:
+- Panel 2, after checking the dead phone: `WAIT. MY PHONE JUST DIED.`
+- Panel 3, after checking the smartwatch: `MY WATCH TOO?`
+- Panel 3, after realizing the phone, watch, and other personal electronics are all failing: `WHY IS EVERYTHING DYING AT ONCE?`
+Do not restore the old generic line `OKAY. THAT'S WEIRD.`
+The illustration must support the dialogue: Seungjae should visibly look puzzled and increasingly concerned as he checks the phone, smartwatch, and earbuds.
 
 CONTINUITY
-Two days after Nari prepared her blackout kit. This is an ordinary after-work walk home interrupted by petty supernatural interference. The dinner invitation is answered positively by Nari before the interference begins.
+Two days after Nari prepared her blackout kit. This is an ordinary after-work walk home interrupted by petty supernatural interference. The dinner invitation is answered positively by Nari before the interference begins. Seungjae then experiences a rapid, confusing sequence of failures across multiple personal devices.
 
 TIME AND SCENE CONTINUITY
 The entire page is one continuous scene from the exterior entrance to the elevator. No flashback, no skipped location, no re-entry, and no repeated exit.
@@ -119,20 +129,21 @@ LARGE NARRATION CAPTION: TWO DAYS LATER — AFTER WORK
 SEUNGJAE, spoken aloud to Nari: WANT TO GET DINNER SOMETIME? WHEN WE'RE NOT WORKING LATE?
 NARI, spoken aloud to Seungjae: YEAH. I'D LIKE THAT.
 
-PANEL 2 - THRESHOLD-CROSSING / ENTRY SHOT. Nari and Seungjae have just crossed INWARD through the SAME glass doors into the ground-floor lobby. Their bodies and walking direction point AWAY from the entrance and DEEPER INTO the building toward the elevator bank. The rainy exterior is clearly BEHIND them through the doors. Seungjae folds the umbrella only after entering. The glass lobby door closes behind them as he checks his phone and discovers it has suddenly died.
+PANEL 2 - THRESHOLD-CROSSING / ENTRY SHOT. Nari and Seungjae have just crossed INWARD through the SAME glass doors into the ground-floor lobby. Their bodies and walking direction point AWAY from the entrance and DEEPER INTO the building toward the elevator bank. The rainy exterior is clearly BEHIND them through the doors. Seungjae folds the umbrella only after entering. The glass lobby door closes behind them. He checks his phone, sees that it has suddenly died, and reacts with immediate confusion because it was working before they entered.
 SFX at the glass entrance door closing BEHIND them: THUNK
-SEUNGJAE, spoken aloud to Nari: ...MY PHONE JUST DIED.
+SEUNGJAE, spoken aloud to Nari: WAIT. MY PHONE JUST DIED.
 Do NOT frame Seungjae as leaving, stepping outside, facing the street, or turning back toward the entrance.
 
-PANEL 3 - SAME lobby, several believable walking steps farther inward in the SAME direction toward the elevator bank. The entrance is now farther behind them than in Panel 2. Seungjae and Nari remain side by side. He checks his earbuds and smartwatch as they also stop responding; Nari notices his confusion.
+PANEL 3 - SAME lobby, several believable walking steps farther inward in the SAME direction toward the elevator bank. The entrance is now farther behind them than in Panel 2. Seungjae and Nari remain side by side. Seungjae checks his smartwatch and earbuds because the phone has already died. His smartwatch also stops responding; the earbuds fail/disconnect as well. Show him visibly confused by multiple independent devices failing almost simultaneously.
 SFX near failing personal device: BIP
-SEUNGJAE, spoken aloud to Nari: OKAY. THAT'S WEIRD.
+SEUNGJAE, spoken aloud to Nari: MY WATCH TOO?
+SEUNGJAE, spoken aloud to Nari: WHY IS EVERYTHING DYING AT ONCE?
 No one turns toward the exit. No one changes buildings or rooms.
 
-PANEL 4 - SAME lobby, now at the elevator waiting area. Nari and Seungjae have reached the elevator bank together and stop there while waiting. Seungjae is still physically present beside Nari; he has NOT started leaving. He looks at his dead phone/devices or toward the elevator. Inside Nari's shoulder bag, her stickered tablet quietly wakes with clean cyan-white text. Frame the screen so Nari and the reader can notice it without implying Seungjae clearly reads it.
+PANEL 4 - SAME lobby, now at the elevator waiting area. Nari and Seungjae have reached the elevator bank together and stop there while waiting. Seungjae is still physically present beside Nari; he has NOT started leaving. He looks between his dead phone, smartwatch, and earbuds with lingering confusion or toward the elevator. Inside Nari's shoulder bag, her stickered tablet quietly wakes with clean cyan-white text. Frame the screen so Nari and the reader can notice it without implying Seungjae clearly reads it.
 TABLET, clean device text: HE SHOULD GO.
 
-PANEL 5 - SAME elevator-bank position while they are still waiting for the elevator. Nari angles her bag slightly toward herself and speaks under her breath so Seungjae does not clearly hear. Seungjae remains beside her, still occupied with his failed devices and still NOT leaving.
+PANEL 5 - SAME elevator-bank position while they are still waiting for the elevator. Nari angles her bag slightly toward herself and speaks under her breath so Seungjae does not clearly hear. Seungjae remains beside her, still occupied with his failed phone/watch/earbuds and still NOT leaving.
 NARI, spoken quietly toward tablet: YOU DID THAT?
 TABLET, clean device text: ONLY FOR A MINUTE.
 NARI, spoken quietly toward tablet: DON'T TOUCH HIS STUFF.
@@ -147,13 +158,13 @@ Keep `THUNK` and `BIP` small, physical, and source-aligned. Do not use menacing 
 
 TEXT AND LETTERING RULES
 Use only the exact uppercase reader-facing text listed below, plus the required small circled panel-order numbers `1` through `6`. No advertising copy, Korean promotional text, lobby labels, fake brands, store signage, extra jokes, or generated device notifications.
-Every speech bubble must point unambiguously to the correct speaker. Nari's Panel 1 answer belongs only to Nari.
+Every speech bubble must point unambiguously to the correct speaker. Nari's Panel 1 answer belongs only to Nari. Both Panel 3 reaction lines belong only to Seungjae and must read in the locked order.
 
 STORY CLARITY
-The reader must immediately understand: Seungjae walked Nari home; he asks her to dinner outside and she answers yes; they then ENTER the residential building together exactly once; they continue continuously through the SAME ground-floor lobby toward the elevator; Seungjae's electronics fail only after entry; the unknown clean-message presence wants him to leave; Nari objects to the interference; they remain together at the elevator bank until the elevator arrives; Nari goes upstairs alone; and Seungjae then begins one single return walk toward the ground-floor entrance.
+The reader must immediately understand: Seungjae walked Nari home; he asks her to dinner outside and she answers yes; they then ENTER the residential building together exactly once; they continue continuously through the SAME ground-floor lobby toward the elevator; Seungjae's PHONE dies after entry; his SMARTWATCH and EARBUDS also fail moments later; he becomes visibly confused because several independent devices are dying at once; the unknown clean-message presence wants him to leave; Nari objects to the interference; they remain together at the elevator bank until the elevator arrives; Nari goes upstairs alone; and Seungjae then begins one single return walk toward the ground-floor entrance.
 
 AVOID
-Avoid Nari or Seungjae identity drift, generic replacement faces, Seungjae exiting or turning toward the exit before Panel 6, Panel 2 looking like an exit shot, Seungjae appearing outside again after Panel 1, Seungjae leaving and then reappearing inside, repeated exit actions, skipped lobby geography, random location changes, apartment interior, apartment corridor, parking garage, restaurant, office, unexplained car key, Seungjae entering the elevator, Seungjae going upstairs, Nari leaving the building instead of entering the elevator, moved entrance/elevator positions between panels, trapped exits, elevator malfunction, building-wide power failure, reflective characters in glass, hostile signature, physical Hyun-woo, glossy/cinematic effects, advertisements, random Korean text, rigid one-style-fits-all narration treatment, missing Nari response to the dinner invitation, extra dialogue, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
+Avoid Nari or Seungjae identity drift, generic replacement faces, Seungjae exiting or turning toward the exit before Panel 6, Panel 2 looking like an exit shot, Seungjae appearing outside again after Panel 1, Seungjae leaving and then reappearing inside, repeated exit actions, skipped lobby geography, random location changes, apartment interior, apartment corridor, parking garage, restaurant, office, unexplained car key, Seungjae entering the elevator, Seungjae going upstairs, Nari leaving the building instead of entering the elevator, moved entrance/elevator positions between panels, trapped exits, elevator malfunction, building-wide power failure, only one device failing, Seungjae acting calm while multiple devices fail, reflective characters in glass, hostile signature, physical Hyun-woo, glossy/cinematic effects, advertisements, random Korean text, rigid one-style-fits-all narration treatment, missing Nari response to the dinner invitation, restoring `OKAY. THAT'S WEIRD.`, extra dialogue, missing/duplicated/out-of-order/oversized panel numbers, and flashback styling.
 ```
 
 ## Locked Reader-Facing Text
@@ -164,9 +175,10 @@ Avoid Nari or Seungjae identity drift, generic replacement faces, Seungjae exiti
 | 1 Seungjae | Spoken aloud to Nari | `WANT TO GET DINNER SOMETIME? WHEN WE'RE NOT WORKING LATE?` |
 | 1 Nari | Spoken aloud to Seungjae | `YEAH. I'D LIKE THAT.` |
 | 2 SFX | Ground-floor lobby glass entrance closing behind both characters after they enter | `THUNK` |
-| 2 Seungjae | Spoken aloud to Nari | `...MY PHONE JUST DIED.` |
-| 3 SFX | Earbuds/watch device sound | `BIP` |
-| 3 Seungjae | Spoken aloud to Nari | `OKAY. THAT'S WEIRD.` |
+| 2 Seungjae | Spoken aloud to Nari after his phone dies | `WAIT. MY PHONE JUST DIED.` |
+| 3 SFX | Smartwatch/earbuds failing | `BIP` |
+| 3 Seungjae | Spoken aloud to Nari while checking his dead smartwatch | `MY WATCH TOO?` |
+| 3 Seungjae | Spoken aloud to Nari after realizing multiple devices have failed | `WHY IS EVERYTHING DYING AT ONCE?` |
 | 4 Tablet | Clean device text / Nari can read it | `HE SHOULD GO.` |
 | 5 Nari | Spoken quietly toward tablet / Seungjae should not clearly hear | `YOU DID THAT?` |
 | 5 Tablet | Clean device text / reply to Nari | `ONLY FOR A MINUTE.` |
