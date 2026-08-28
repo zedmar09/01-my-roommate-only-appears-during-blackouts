@@ -163,8 +163,8 @@ Generate and approve only in this order:
 | 1 | 1–6 |
 | 2 | 1–9 |
 | 3 | 1–7 |
-| 4 | 1–7 |
-| 5 | 1–7 |
+| 4 | 1–8 |
+| 5 | 1–8 |
 | 6 | 1–9 |
 | 7 | 1–6 |
 | 8 | 1–6 |
@@ -238,7 +238,7 @@ Reject:
 
 Critical object paths:
 
-- brass backup key → entry tray
+- brass backup key → entry tray Page 2 → held defensively through Page 4 Panels 5–8 → physically returned to entry tray Page 5 Panel 2 → tray through ending
 - Page 5 handwritten paper/pen evidence beside toaster → same physical paper design and position in Page 6 photo tests
 - electrical binder → kitchen counter after Page 6
 - guarded fruit knife → under sofa cushion
@@ -265,9 +265,18 @@ Critical object paths:
 - Panel 5 reading order is locked: Nari `ANYTHING I ACTUALLY NEED TO KNOW?` → Mrs. Na `YES. ONE THING.` → Mrs. Na `AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.`
 - Page 2 Panels 4–8 must never leave the reader guessing whether Nari or Mrs. Na is speaking.
 
+### Pages 4–5 Refrigerator / Return Route
+- Page 4 Panel 7 is the brief hostile refrigerator activation: `FZZT` and `TENANT PROFILE: PENDING`. The reader sees the hostile message; Nari turns toward it but cannot clearly process/read it before it vanishes.
+- Page 4 Panel 8 is a separate aftermath beat. The refrigerator display is completely dark and the message must NOT remain visible. Exact narration: `BY THE TIME NARI TURNED TOWARD IT, THE MESSAGE WAS ALREADY GONE.`
+- Page 4 ends with Nari physically at or immediately beside the now-dark refrigerator, still holding the brass backup key.
+- Page 5 Panel 1 begins at that exact refrigerator-side position and shows Nari turning away and starting to walk toward the entry area. She is still in transit at the end of Panel 1. No `CLINK` yet.
+- Page 5 Panel 2 must visibly continue the SAME uninterrupted walking direction until Nari reaches the entry shelf. Only at the end does she physically return the brass key to the tray with `CLINK`.
+- Page 5 Panel 3 occurs only after the key return: Nari turns and physically moves back toward the kitchen, then hides the unplugged speaker with `CLUNK`.
+- Reject any version that starts Page 5 already at the tray, collapses the two-panel fridge-to-tray walk into one static key shot, changes walking direction between Panels 1–2, teleports Nari, or keeps the fridge hostile text visible on Page 5.
+
 ### Pages 5–6 Handwritten Evidence
-- Page 5 Panel 3 and Panel 7 must show the same physical paper and the same original `WHO ARE` / `YOU?` two-line handwriting layout.
-- Page 5 Panel 7 becomes the visual authority for the note object: paper size, aspect ratio, color, corners, edge angle, counter placement, pen relationship, toaster relationship, and flat matte paper treatment.
+- Page 5 Panel 4 and Panel 8 must show the same physical paper and the same original `WHO ARE` / `YOU?` two-line handwriting layout.
+- Page 5 Panel 8 becomes the visual authority for the note object: paper size, aspect ratio, color, corners, edge angle, counter placement, pen relationship, toaster relationship, and flat matte paper treatment.
 - Page 6 Panels 1–2 must continue that exact same paper object. A new generic note design, sticky note, index card, lined sheet, receipt, notebook page, torn scrap, enlarged prop note, or cleaner re-typeset evidence card is an automatic reject.
 - In Page 6, the real physical note remains visible and unchanged; only the phone's captured photo/result omits the paper/writing.
 - Page 6 must not collapse the real note's `WHO ARE` / `YOU?` layout into one line, reflow the reply, move the note, redesign the note, or make the real note disappear.
