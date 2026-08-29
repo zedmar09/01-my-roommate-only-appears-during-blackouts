@@ -12,7 +12,7 @@ READER-FACING TEXT LOCK — ABSOLUTE
 All narration/dialogue wording and panel/source assignments are final.
 
 IMPORTANT REFERENCES
-Use `../../../characters.md`, `../../style-guide.md`, and the approved canonical character references. This is a new location/time from Page 7.
+Use `../../../characters.md`, `../../style-guide.md`, the approved canonical character references, and approved Page 7 only for the fact that the previous scene ended inside Unit 2407. This page is an intentional new time/location.
 
 CANONICAL CHARACTER REFERENCE LOCK
 Attach `../../../Character-References/nari-canonical-flat2d.png` and the APPROVED `../../../Character-References/hyejin-canonical-flat2d.png` created from `../../../Character-References/hyejin-canonical-flat2d-chatgpt-image-prompt.md`.
@@ -32,22 +32,22 @@ POWER AND SUPERNATURAL RULE LOCK
 No supernatural event occurs at work on this page.
 
 CHARACTER CONSISTENCY
-Nari in normal work outfit/creative-worker silhouette, tired but functional. Hyejin must match her approved canonical PNG exactly and remain visually distinct from Nari.
+Nari uses her established normal Nth Pixel work look/accessory family rather than a new fashion redesign. Where approved Chapter 1 work/after-work artwork is available, use it only as secondary wardrobe/accessory continuity; Nari's canonical PNG remains identity authority. Hyejin must match her approved canonical PNG exactly and remain visually distinct from Nari.
 
 SETTING AND PROP CONTINUITY
-Nari's stickered tablet/workstation nearby, but she deliberately writes in the same physical paper notebook used for Unit 2407 notes. Hyejin stops beside her desk.
+Nari's stickered tablet/workstation is nearby, but she deliberately writes in the same physical paper notebook used for Unit 2407 notes. Hyejin stops beside her desk. The explicit time/location cut permits Nari to have naturally brought her notebook, phone, and normal work belongings with her during the unshown commute; no object is teleporting within a continuous scene.
 
 OBJECT SCALE AND SPATIAL LOGIC
 Notebook, tablet, monitors, and phone remain realistic office scale. Do not enlarge Hyejin's phone case or enamel pins for readability.
 
 CONTINUITY
-Nari takes Hyun-woo's paper-only warning seriously; Hyejin notices the unusual analog bug-report habit.
+Page 7 ended with Mrs. Na still inside Unit 2407 and clearly preparing to end the conversation. Page 8 intentionally skips the ordinary departure/commute through a narrated later-time/location cut. During that cut Mrs. Na can leave normally and Nari can travel to work; do NOT imply Page 8 is the same physical moment as Page 7.
 
 TIME AND SCENE CONTINUITY
-Clear location/time jump from morning apartment conversation to later at work.
+Intentional location/time jump from the morning Unit 2407 conversation to Nth Pixel Studio later that day. The explicit caption is mandatory because Mrs. Na's departure and Nari's commute occur off-panel inside this elapsed-time cut.
 
 TIME TRANSITION CAPTION
-Panel 1 LARGE in-panel caption: LATER THAT DAY
+Panel 1 LARGE in-panel caption: LATER THAT DAY — NTH PIXEL STUDIO
 
 NARRATION CAPTION DESIGN
 Scene-adaptive high-contrast flat caption; wording exact.
@@ -62,8 +62,8 @@ PANEL ORDER MARKERS
 One small circled marker `1`–`6` per panel.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 — Establish Nth Pixel Studio later that day. Nari at workstation writing in physical notebook.
-LARGE CAPTION: LATER THAT DAY
+PANEL 1 — Establish Nth Pixel Studio later that day. Nari is already at her workstation after the unshown ordinary commute and is writing in the physical notebook.
+LARGE CAPTION: LATER THAT DAY — NTH PIXEL STUDIO
 
 PANEL 2 — Hyejin approaches/stops beside desk and notices notebook.
 HYEJIN: YOU'RE WRITING BUG REPORTS ON PAPER NOW?
@@ -87,17 +87,17 @@ TEXT AND LETTERING RULES
 Exact caption/dialogue only plus markers. No fake game UI text, brands, logos, code, slogans, or filler Korean copy.
 
 STORY CLARITY
-Reader must understand Nari is using paper because digital records are unsafe, while Hyejin interprets it as strange work behavior.
+Reader must understand time has advanced, the location is now Nth Pixel Studio, Mrs. Na's departure/commute happened during the narrated cut, Nari is using paper because digital records are unsafe, and Hyejin interprets it as strange work behavior.
 
 AVOID
-Avoid generating Page 8 before Hyejin canonical PNG approval; old line `I'M GOING TO PRETEND THAT ANSWER WAS NORMAL.`; supernatural office effects; teen designs; Nari/Hyejin look-alike drift; branded enamel pins; readable console branding; extra coworkers speaking; glossy/cinematic/reflective rendering; or corporate-logo clutter.
+Avoid an uncaptioned apartment-to-office teleport; generating Page 8 before Hyejin canonical PNG approval; old line `I'M GOING TO PRETEND THAT ANSWER WAS NORMAL.`; supernatural office effects; teen designs; Nari/Hyejin look-alike drift; branded enamel pins; readable console branding; extra coworkers speaking; glossy/cinematic/reflective rendering; or corporate-logo clutter.
 ```
 
 ## Locked Reader-Facing Text
 
 | PanelText | Type / Source | Text |
 |---|---|---|
-| 1 Time | Large narration caption | `LATER THAT DAY` |
+| 1 Time/location | Large narration caption | `LATER THAT DAY — NTH PIXEL STUDIO` |
 | 2 Hyejin | Spoken | `YOU'RE WRITING BUG REPORTS ON PAPER NOW?` |
 | 3 Nari | Spoken | `OFFLINE BUILD.` |
 | 4 Hyejin | Spoken | `THAT'S NOT WHAT OFFLINE MEANS.` |
