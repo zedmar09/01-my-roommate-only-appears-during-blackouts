@@ -33,13 +33,13 @@ CHARACTER CONSISTENCY
 Nari freezes rather than reaching for her phone. She follows the Chapter 1 screen rule and does not touch, raise, or activate the phone.
 
 SETTING AND PROP CONTINUITY
-Nari is still at/near the dining table where she was writing on Page 12. Her physical notebook remains open/on the dining table and stays there when she later moves to the hallway on Page 14. Her phone remains in its established position on the kitchen counter from the Chapter 1 ending / Chapter 2 Page 1; it does NOT move into Nari's hand. Lower cabinet/speaker remains audio source. Hallway switch location fixed; Nari has not yet reached it.
+Nari is still at/near the dining table where she was writing on Page 12. Her physical notebook remains open/on the dining table and stays there when she later moves to the hallway on Page 14. Her phone remains screen-down/dark on the kitchen counter exactly where Page 10 re-established it after she returned home from work; it has not moved during Pages 10–12. Lower cabinet/speaker remains audio source. Hallway switch location fixed; Nari has not yet reached it.
 
 OBJECT SCALE AND SPATIAL LOGIC
 No teleportation. Refrigerator display text stays on actual narrow fridge display. Notebook does not jump into Nari's hands or move off the table. Phone stays on kitchen counter with screen dark.
 
 CONTINUITY
-Page 12 ended with the hallway lamp flickering by itself while supply remained on; now it switches itself fully off and hostile screen activity immediately increases.
+Page 12 ended with the hallway lamp flickering by itself while supply remained on; now it switches itself fully off and hostile screen activity immediately increases. Phone and notebook remain in the fixed test positions established earlier.
 
 TIME AND SCENE CONTINUITY
 NO TIME CAPTION — direct continuation.
