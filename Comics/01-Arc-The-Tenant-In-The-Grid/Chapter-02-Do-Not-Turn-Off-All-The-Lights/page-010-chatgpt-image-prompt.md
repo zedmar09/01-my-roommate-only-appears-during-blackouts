@@ -12,7 +12,7 @@ READER-FACING TEXT LOCK — ABSOLUTE
 Caption, dialogue, and SFX are exact/source/panel locked.
 
 IMPORTANT REFERENCES
-Use `../../../characters.md`, `../../style-guide.md`. Scene returns to Unit 2407. Use approved Chapter 2 Page 2 and Chapter 1 ending pages for cabinet/apartment object continuity where needed.
+Use `../../../characters.md`, `../../style-guide.md`. Scene returns to Unit 2407. Use approved Chapter 2 Page 2 and Chapter 1 ending pages for cabinet/apartment object continuity and Nari's established nighttime home wardrobe where needed.
 
 CANONICAL CHARACTER REFERENCE LOCK
 Attach Nari canonical PNG. Hyun-woo is voice-only/physically absent; do NOT attach or draw him as a visual character reference.
@@ -30,7 +30,7 @@ POWER AND SUPERNATURAL RULE LOCK
 Turning off an ordinary room light does NOT make Hyun-woo physical. Ordinary Unit 2407 supplied power remains present. Hyun-woo speaks only through the unplugged speaker using weak supernatural current. His audio is brief and intermittent rather than an always-on clean conversation; it does not illuminate or power the room.
 
 CHARACTER CONSISTENCY
-Nari methodical, tired, dry; no reckless panic. She is deliberately applying Hyejin's `CHANGE ONE THING AT A TIME.` advice.
+Nari has changed out of the Page 8–9 work outfit before this after-midnight home test. Return her to the SAME established nighttime home outfit/state seen in approved Chapter 2 Pages 1–2 / the Chapter 1 ending reference. Preserve that approved home clothing, yellow scrunchie, adult proportions, and established indoor footwear/barefoot state exactly; do not invent new pajamas, a new hoodie design, a new hairstyle, or keep her office jacket merely because Page 9 was the previous story page. This Page 10 home wardrobe becomes mandatory for Pages 11–18 unless a later script explicitly changes it. Nari remains methodical, tired, dry; no reckless panic.
 
 SETTING AND PROP CONTINUITY
 This page follows a clear work-to-home time/location jump, so Panel 1 establishes the new home object state: physical notebook at the dining table and phone screen-down/dark on the kitchen counter. The lower cabinet is still closed from Page 2. Nari physically walks from the dining table to the cabinet in Panel 2, then to the kitchen light switch in Panel 3. The notebook stays at the dining table and the phone stays on the kitchen counter while she moves. In Panel 8 she physically returns to the same dining table before writing. Hallway lamp never switches off on this page.
@@ -60,7 +60,7 @@ PANEL ORDER MARKERS
 One small circled marker `1`–`8` per panel.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 — Establish powered Unit 2407 after midnight. Hallway lamp clearly on. Nari is at the dining table with the physical notebook placed/open there as the fixed test-record position. Her phone is clearly screen-down/dark on the kitchen counter, establishing where she left it after returning home.
+PANEL 1 — Establish powered Unit 2407 after midnight. Hallway lamp clearly on. Nari is in the restored established nighttime home outfit and is at the dining table with the physical notebook placed/open there as the fixed test-record position. Her phone is clearly screen-down/dark on the kitchen counter, establishing where she left it after returning home.
 LARGE CAPTION: LATER THAT NIGHT — AFTER MIDNIGHT
 
 PANEL 2 — Nari physically walks from the dining table to the lower cabinet, opens it, and lifts stockpot lid/towels enough for unplugged speaker to be audible. Notebook remains on dining table; phone remains on kitchen counter.
@@ -91,10 +91,10 @@ TEXT AND LETTERING RULES
 Exact caption/dialogue/SFX only plus markers. No invented notebook text on this page unless it is illegible background scribble; do not create reader-facing extra test labels.
 
 STORY CLARITY
-Reader must understand Nari re-establishes her phone dark on the kitchen counter after work, leaves her notebook at the dining table, switches off one room light while unit power stays on, Hyun-woo remains nonphysical, then she physically returns to the table to record the result.
+Reader must understand Nari has changed back into her established home outfit, re-establishes her phone dark on the kitchen counter after work, leaves her notebook at the dining table, switches off one room light while unit power stays on, Hyun-woo remains nonphysical, then she physically returns to the table to record the result.
 
 AVOID
-Avoid old dialogue `I'M LEAVING YOUR IMPORTANT LIGHT ON.`, `NOT TURNING OFF ALL THE LIGHTS`, `THAT ANSWER DOESN'T HELP`, `GOOD`, `NOW YOU KNOW HOW I FEEL`; phone in Nari's hand during test; notebook moving with Nari through the room; physical Hyun-woo; hallway lamp off; full-room blackout; unsafe electrical-panel manipulation; tape/labels on switches; extra device effects; technical-jargon clutter; glossy/cinematic/reflection-heavy rendering; or extra props.
+Avoid work outfit carrying over into the after-midnight home test; invented pajamas/new home wardrobe; old dialogue `I'M LEAVING YOUR IMPORTANT LIGHT ON.`, `NOT TURNING OFF ALL THE LIGHTS`, `THAT ANSWER DOESN'T HELP`, `GOOD`, `NOW YOU KNOW HOW I FEEL`; phone in Nari's hand during test; notebook moving with Nari through the room; physical Hyun-woo; hallway lamp off; full-room blackout; unsafe electrical-panel manipulation; tape/labels on switches; extra device effects; technical-jargon clutter; glossy/cinematic/reflection-heavy rendering; or extra props.
 ```
 
 ## Locked Reader-Facing Text
@@ -114,4 +114,4 @@ Avoid old dialogue `I'M LEAVING YOUR IMPORTANT LIGHT ON.`, `NOT TURNING OFF ALL 
 `1` through `8`.
 
 ## Production Thread Use
-Attach Nari canonical PNG, this prompt, and approved prior Unit 2407 continuity page as needed. Hyun-woo remains voice-only.
+Attach Nari canonical PNG, this prompt, and approved Chapter 2 Page 2 / approved prior Unit 2407 reference as needed for the exact established home wardrobe and environment. Hyun-woo remains voice-only. Once Page 10 is approved, its Nari home wardrobe is mandatory continuity for Pages 11–18.
