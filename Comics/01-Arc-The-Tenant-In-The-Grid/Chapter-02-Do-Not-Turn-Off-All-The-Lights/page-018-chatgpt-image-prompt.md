@@ -12,34 +12,34 @@ READER-FACING TEXT LOCK — ABSOLUTE
 SFX and dialogue are exact/source/panel locked.
 
 IMPORTANT REFERENCES
-Use `../../../characters.md`, `../../style-guide.md`, approved Page 17 as mandatory dining-table/notebook/hallway-lamp continuity.
+Use `../../../characters.md`, `../../style-guide.md`, approved Page 17 as mandatory dining-table/notebook/hallway-lamp/dining-light continuity.
 
 CANONICAL CHARACTER REFERENCE LOCK
 Attach Nari canonical PNG. Hyun-woo remains voice-only/physically absent; do not draw him.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
-Flat matte 2D modern supernatural manhwa, clean ink, adult proportions, restrained hard-edge shading. No glossy/cinematic/photoreal/3D/painterly/reflections/bloom.
+Use 100% flat 2D human-drawn modern supernatural manhwa with clean ink, matte cel colors, solid blocks, adult proportions, and restrained hard-edged shading. HARD BAN: glossy/cinematic/photoreal/3D/painterly rendering, mirror-like reflections, glass glare, bloom, rim light, lens flare, volumetric beams, gradients, blur, wet/shiny surfaces, plastic shine, or over-rendered reflective effects.
 
 ENVIRONMENT AND APPLIANCE MASTER LOCK
-Same quiet powered Unit 2407. Nari at dining table, notebook open. Hallway lamp steadily ON. Lower cabinet remains open enough for speaker audio. Electrical binder remains on kitchen counter. South-wall access panel remains CLOSED and physically untouched.
+Same quiet powered Unit 2407. Nari at dining table, notebook open. Hallway lamp steadily ON and dining-area light remains ON from Page 17. Lower cabinet remains open enough for speaker audio. Electrical binder remains on kitchen counter. South-wall access panel remains CLOSED and physically untouched.
 
 LIGHTING AND EXPOSURE LOCK
-Normal supplied nighttime power with hallway lamp on. No blackout, flicker, hostile screen activation, or cinematic darkness.
+Normal supplied nighttime power with both hallway lamp and dining-area light on. Use medium-bright neutral flat powered exposure. No blackout, flicker, hostile screen activation, screen-glow room, glossy reflections, or cinematic darkness.
 
 POWER AND SUPERNATURAL RULE LOCK
-Hyun-woo is voice-only. South-wall sound is a physical/unknown `TIK` from behind the closed panel; do not show an entity/body/current effect.
+Hyun-woo is voice-only. His single warning is a brief weak burst through the unplugged speaker, not a continuously powered conversation. South-wall sound is a physical/unknown `TIK` from behind the closed panel; do not show an entity/body/current effect.
 
 CHARACTER CONSISTENCY
 Nari stays seated throughout and keeps both hands on/near table when warned. She does NOT stand or approach panel.
 
 SETTING AND PROP CONTINUITY
-Notebook remains at table; binder remains kitchen counter; cabinet/speaker remains open enough for audio. South-wall panel remains closed.
+Notebook remains at table; binder remains kitchen counter; cabinet/speaker remains open enough for audio. South-wall panel remains closed. Dining-area light and hallway lamp remain steadily on for all six panels.
 
 OBJECT SCALE AND SPATIAL LOGIC
-Use established sightlines from dining table to south wall and binder; Nari's eye movement may change but body location does not.
+Use established sightlines from dining table to south wall and binder; Nari's eye movement may change but body location does not. Do not relocate the binder or panel merely to fit a composition.
 
 CONTINUITY
-Page 17 documented the rule; now the closed south-wall panel responds with a sound, and Hyun-woo immediately warns Nari not to investigate.
+Page 17 documented the corrected Observation 003–004 sequence under restored dining light; now the closed south-wall panel responds with a sound, and Hyun-woo immediately warns Nari not to investigate.
 
 TIME AND SCENE CONTINUITY
 NO TIME CAPTION — direct continuation.
@@ -57,7 +57,7 @@ PANEL ORDER MARKERS
 One marker `1`–`6` per panel.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 — Quiet apartment. Nari still at table, notebook open, hallway lamp on. From established south wall comes one small sound.
+PANEL 1 — Quiet powered apartment. Nari still at table, notebook open, hallway lamp and dining-area light both on. From established south wall comes one small sound.
 SFX, from behind closed south-wall panel: TIK
 
 PANEL 2 — Nari stops writing; eyes move toward closed south-wall panel. She stays seated.
@@ -72,7 +72,7 @@ NARI: I DIDN'T MOVE.
 PANEL 5 — Another sound from behind same closed panel.
 SFX: TIK... TIK...
 
-PANEL 6 — Final wide/controlled suspense beat. Nari looks from closed south-wall panel to electrical binder on kitchen counter and back to panel. She remains seated. Hallway lamp steady. No screen activation.
+PANEL 6 — Final wide/controlled suspense beat. Nari looks from closed south-wall panel to electrical binder on kitchen counter and back to panel. She remains seated. Hallway lamp and dining-area light remain steady. No screen activation.
 No text.
 
 SFX AND TEXT BLENDING
@@ -82,10 +82,10 @@ TEXT AND LETTERING RULES
 Exact SFX/dialogue only plus markers. Hyun-woo callout points to speaker hardware. No chapter-end text printed.
 
 STORY CLARITY
-Reader must understand the south-wall panel remains closed but something behind it is active enough to make a sound, and Hyun-woo considers approaching it dangerous.
+Reader must understand the south-wall panel remains closed but something behind it is active enough to make a sound, Hyun-woo considers approaching it dangerous, and ordinary supplied power remains stable.
 
 AVOID
-Avoid opening panel, Nari standing, physical Hyun-woo, hostile fridge/TV text, flickering hallway lamp, entity silhouette, extra cliffhanger caption, dialogue changes, or future reveal.
+Avoid opening panel, Nari standing, physical Hyun-woo, hostile fridge/TV text, flickering hallway lamp, dining light switching off, entity silhouette, extra cliffhanger caption, dialogue changes, glossy/cinematic/reflective effects, or future reveal.
 ```
 
 ## Locked Reader-Facing Text
