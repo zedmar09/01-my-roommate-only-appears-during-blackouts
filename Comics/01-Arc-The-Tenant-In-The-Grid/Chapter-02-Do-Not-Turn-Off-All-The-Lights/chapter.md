@@ -263,9 +263,9 @@ Later that night — after midnight.
 
 Unit 2407 remains normally powered. The hallway lamp is clearly on.
 
-Nari establishes the physical notebook at the dining table as her fixed test-record position. She does not add tape labels, switch markers, or technical testing equipment.
+Nari has changed out of her work outfit and back into the same established nighttime home outfit/state used in approved Chapter 2 Pages 1–2. She re-establishes her phone screen-down and dark on the kitchen counter, and establishes the physical notebook at the dining table as her fixed test-record position. She does not add tape labels, switch markers, or technical testing equipment.
 
-She physically walks from the dining table to the lower cabinet, opens it, and exposes the unplugged speaker enough for it to be audible. The notebook stays on the dining table.
+She physically walks from the dining table to the lower cabinet, opens it, and exposes the unplugged speaker enough for it to be audible. The notebook stays on the dining table and the phone stays on the kitchen counter.
 
 Hyun-woo's weak voice comes through in short intermittent bursts.
 
@@ -291,7 +291,7 @@ Nari looks toward the hallway lamp.
 
 "That doesn't make this a good idea."
 
-Nari physically returns to the same dining table and writes in the notebook.
+Nari physically returns to the same dining table and writes in the notebook. The phone remains dark on the kitchen counter.
 
 "It makes it a controlled bad idea."
 
@@ -299,7 +299,7 @@ Nari physically returns to the same dining table and writes in the notebook.
 
 ### Page 11
 
-Nari begins at the dining table where Page 10 ended. The physical notebook remains on that table while she checks the remaining room lights.
+Nari begins at the dining table where Page 10 ended, wearing the same restored nighttime home outfit. The physical notebook remains on that table while she checks the remaining room lights.
 
 She physically walks to the living-room switch and turns the living-room light off. From there she continues through the established apartment route to the bedroom switch and turns the bedroom light off. She then returns toward the dining area and turns the dining-area light off.
 
@@ -334,13 +334,13 @@ The hallway lamp gives one restrained flicker.
 
 FZZT.
 
-Nari immediately stops writing at the dining table.
+Nari immediately stops writing at the dining table. The notebook stays open on the table and the phone remains dark on the kitchen counter.
 
 Hyun-woo's voice becomes sharper.
 
 "Nari."
 
-She looks at the lamp but keeps her hands away.
+From the table, she looks at the lamp but keeps her hands away and does not approach the switch.
 
 "I'm not touching it."
 
@@ -360,7 +360,7 @@ The hallway lamp switches off by itself.
 
 Now every ordinary room light Nari had been using is dark, but Unit 2407 still has supplied power. The refrigerator hum continues. The smart-lock indicator remains powered. Hyun-woo does not physically appear.
 
-Nari remains at/near the dining table. Her physical notebook stays open on the table. Her phone remains dark on the kitchen counter in its established position; she does not reach for it or move it.
+Nari remains at/near the dining table. Her physical notebook stays open on the table. Her phone remains screen-down and dark on the kitchen counter exactly where Page 10 established it; she does not reach for it or move it.
 
 The refrigerator display activates with the hostile broken-white/black-pixel signature:
 
@@ -431,7 +431,7 @@ Hyun-woo is quiet for a beat.
 
 ### Page 16
 
-Nari remains near the hallway. Her physical notebook is still back on the dining table.
+Nari remains near the hallway in the same Page 10–15 home outfit. Her physical notebook is still back on the dining table.
 
 "See me how?"
 
@@ -465,7 +465,7 @@ Hyun-woo answers dryly.
 
 ### Page 17
 
-Nari physically walks from the hallway area toward the dining area. Before sitting down, she turns the dining-area light back on. The hallway lamp remains on.
+Nari physically walks from the hallway area toward the dining area. Before sitting down, she turns the dining-area light back on. The hallway lamp remains on. Her Page 10 nighttime home outfit remains unchanged.
 
 She then continues to the dining table, sits, and opens the same physical notebook under normal apartment light.
 
@@ -497,7 +497,7 @@ The numbering is continuous: Chapter 1 ended with `OBSERVATION 001`, and Chapter
 
 Quiet apartment. Normal supplied power. Hallway lamp and dining-area light both on.
 
-Nari is still seated at the dining table with the physical notebook open. The lower cabinet remains open enough for Hyun-woo's voice to reach her. The electrical binder remains on the kitchen counter.
+Nari is still seated at the dining table in the same nighttime home outfit with the physical notebook open. The lower cabinet remains open enough for Hyun-woo's voice to reach her. The electrical binder remains on the kitchen counter.
 
 From behind the closed south-wall access panel:
 
