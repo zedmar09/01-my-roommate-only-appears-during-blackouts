@@ -21,28 +21,28 @@ STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 Use 100% flat 2D human-drawn modern manhwa with clean ink, matte cel colors, solid blocks, adult proportions, and restrained hard-edged shading. HARD BAN: glossy/cinematic/photoreal/3D/painterly rendering, mirror-like reflections, glass glare, bloom, rim light, lens flare, volumetric light, gradients, blur, wet/shiny surfaces, plastic shine, or over-rendered reflective effects.
 
 ENVIRONMENT AND APPLIANCE MASTER LOCK
-Nari begins near the hallway from Page 16. Her physical notebook is still on the dining table. Hallway lamp remains steadily ON. On her way back to the dining table she physically restores the dining-area light so she can write under ordinary apartment light. Lower cabinet remains open enough for speaker continuity but is silent. Refrigerator remains normal.
+Nari begins near the hallway from Page 16. Her physical notebook is still on the dining table. Hallway lamp remains steadily ON. On her way back to the dining table she physically restores the dining-area light so she can write under ordinary apartment light. Lower cabinet remains open enough for speaker continuity but is silent. Refrigerator remains normal. Phone remains screen-down/dark on the kitchen counter.
 
 LIGHTING AND EXPOSURE LOCK
 Unit 2407 supplied power remains ON. Panel 1 starts with hallway lamp on and dining-area light still off from the test; Nari turns the dining-area light back ON before writing. Panels 2–7 use a normal readable powered interior with both hallway lamp and dining-area light on. Do not use blackout darkness, screen glow, cinematic mood lighting, glossy reflections, or overexposure.
 
 POWER AND SUPERNATURAL RULE LOCK
-No supernatural activation. Restoring the dining-area light is an ordinary switch action while Unit 2407 remains powered. This page documents observed rules only.
+No supernatural activation. Restoring the dining-area light is an ordinary switch action while Unit 2407 remains powered. This page documents the COMPLETE earned distinction: after midnight, Hyun-woo's physical manifestation is tied to actual Unit 2407 supplied-power loss, not merely darkness or a switched-off lamp.
 
 CHARACTER CONSISTENCY
-Nari methodical, focused, using paper only. She restores enough normal room light to write rather than trying to take notes in an unnecessarily dark dining area.
+Nari methodical, focused, using paper only. She restores enough normal room light to write rather than trying to take notes in an unnecessarily dark dining area. Same approved Page 10–16 home wardrobe.
 
 SETTING AND PROP CONTINUITY
-Same physical paper notebook from Chapter 1/early Chapter 2 remains at dining table until Nari reaches it in Panel 2. Nari writes by hand; no tablet/phone used for notes.
+Same physical paper notebook from Chapter 1/early Chapter 2 remains at dining table until Nari reaches it in Panel 2. Nari writes by hand; no tablet/phone used for notes. Phone remains on kitchen counter; binder remains on kitchen counter; lower cabinet stays open; hallway lamp stays on.
 
 OBJECT SCALE AND SPATIAL LOGIC
 Panel 1 must show Nari physically moving from hallway toward the dining-area light switch and turning it on. Panel 2 continues the same movement to the table before she sits. No teleportation. Notebook stays ordinary A5 scale; use close-ups for readability rather than enlarging it unnaturally.
 
 CONTINUITY
-Nari ends Page 16 near the hallway and has not retrieved the notebook yet. She now restores the dining-area light, walks back to the table, and consolidates tonight's test results into the same paper bug-report sequence. Chapter 1 ended with `OBSERVATION 001`, and Chapter 2 Page 2 already recorded `OBSERVATION 002`; therefore this page MUST continue with `OBSERVATION 003` and `OBSERVATION 004` and must never reuse `OBSERVATION 002`.
+Nari ends Page 16 near the hallway and has not retrieved the notebook yet. She now restores the dining-area light, walks back to the table, and consolidates tonight's test results into the same paper bug-report sequence. Chapter 1 ended with `OBSERVATION 001`, and Chapter 2 Page 2 already recorded `OBSERVATION 002`; therefore this page MUST continue with `OBSERVATION 003` and `OBSERVATION 004` and must never reuse `OBSERVATION 002`. The final written manifestation condition must include `AFTER MIDNIGHT` so it does not falsely imply daytime power loss is already proven to manifest Hyun-woo.
 
 TIME AND SCENE CONTINUITY
-NO TIME CAPTION — direct continuation.
+NO TIME CAPTION — direct continuation from Page 16 during the same after-midnight test sequence established on Page 10.
 
 NARRATION CAPTION DESIGN
 No narration.
@@ -57,7 +57,7 @@ PANEL ORDER MARKERS
 One marker `1`–`7` per panel.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 — Exact continuation from Page 16. Nari physically walks from hallway area toward the dining-area light switch and turns the dining-area light back ON. Hallway lamp remains ON. Notebook is still on dining table.
+PANEL 1 — Exact continuation from Page 16. Nari physically walks from hallway area toward the dining-area light switch and turns the dining-area light back ON. Hallway lamp remains ON. Notebook is still on dining table; phone remains on kitchen counter.
 No reader-facing text or SFX.
 
 PANEL 2 — Nari continues the same route to the dining table, sits, and opens the same physical notebook to the next entry. Both hallway lamp and dining-area light remain on.
@@ -76,9 +76,9 @@ PANEL 5 — Same page.
 NOTEBOOK: CURRENT RULE:
 NOTEBOOK: KEEP ONE MAINS-POWERED LIGHT ON AFTER MIDNIGHT.
 
-PANEL 6 — Same page.
+PANEL 6 — Same page. Nari records the complete separate condition with the after-midnight qualifier.
 NOTEBOOK: SEPARATE CONDITION:
-NOTEBOOK: HYUN-WOO BECOMES PHYSICAL ONLY WHEN UNIT 2407 LOSES POWER.
+NOTEBOOK: AFTER MIDNIGHT, HYUN-WOO BECOMES PHYSICAL ONLY WHEN UNIT 2407 LOSES POWER.
 
 PANEL 7 — Close-up of same notebook. Nari underlines the word `SEPARATE` within `SEPARATE CONDITION:` without rewriting/reflowing the entry. Hallway lamp and dining-area light remain steadily on in wider context if visible.
 No new text.
@@ -87,13 +87,13 @@ SFX AND TEXT BLENDING
 No SFX. Notebook text must look like Nari's physical handwriting, not typeset UI or glowing text.
 
 TEXT AND LETTERING RULES
-Exact notebook wording only plus markers. Preserve em dash and punctuation. Do not reuse `OBSERVATION 002`, do not change `UNIT 2407` to building/city power, and do not turn notebook text into screen text.
+Exact notebook wording only plus markers. Preserve em dash and punctuation. Do not reuse `OBSERVATION 002`, do not change `UNIT 2407` to building/city power, do not omit `AFTER MIDNIGHT`, and do not turn notebook text into screen text.
 
 STORY CLARITY
-Reader must understand: Observation 001 came from Chapter 1, Observation 002 was the unplugged-TV event earlier this chapter, Observations 003–004 are tonight's light test, darkness and actual unit-power loss are separate conditions, and one mains-powered light remains the current protective rule.
+Reader must understand: Observation 001 came from Chapter 1, Observation 002 was the unplugged-TV event earlier this chapter, Observations 003–004 are tonight's light test, darkness and actual unit-power loss are separate conditions, one mains-powered light remains the current protective rule, and Hyun-woo's physical condition is specifically an after-midnight Unit 2407 power-loss condition.
 
 AVOID
-Avoid writing in a dark dining area, notebook teleportation, digital notes, duplicate `OBSERVATION 002`, old `OBSERVATION 003` numbering for the fridge event, altered rule wording, `LOSS OF BUILDING POWER`, entity name, screen text, notebook redesign/reflow, turning off hallway lamp, glossy/cinematic/reflective rendering, or panel-count errors.
+Avoid writing in a dark dining area, notebook/phone teleportation, digital notes, duplicate `OBSERVATION 002`, old `OBSERVATION 003` numbering for the fridge event, altered rule wording, omission of `AFTER MIDNIGHT`, `LOSS OF BUILDING POWER`, entity name, screen text, notebook redesign/reflow, turning off hallway lamp, glossy/cinematic/reflective rendering, or panel-count errors.
 ```
 
 ## Locked Reader-Facing Text
@@ -108,7 +108,7 @@ Avoid writing in a dark dining area, notebook teleportation, digital notes, dupl
 | 5 Notebook | Physical handwriting | `CURRENT RULE:` |
 | 5 Notebook | Physical handwriting | `KEEP ONE MAINS-POWERED LIGHT ON AFTER MIDNIGHT.` |
 | 6 Notebook | Physical handwriting | `SEPARATE CONDITION:` |
-| 6 Notebook | Physical handwriting | `HYUN-WOO BECOMES PHYSICAL ONLY WHEN UNIT 2407 LOSES POWER.` |
+| 6 Notebook | Physical handwriting | `AFTER MIDNIGHT, HYUN-WOO BECOMES PHYSICAL ONLY WHEN UNIT 2407 LOSES POWER.` |
 
 ## Required Panel Order Markers
 `1` through `7`.
