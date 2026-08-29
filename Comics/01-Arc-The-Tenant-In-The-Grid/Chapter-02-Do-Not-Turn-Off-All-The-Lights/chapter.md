@@ -12,6 +12,14 @@ Chapter 2 contains **18 story pages total**. The page prompts are production aut
 
 Before generating Page 8, create and QA-approve `Character-References/hyejin-canonical-flat2d.png` from `Character-References/hyejin-canonical-flat2d-chatgpt-image-prompt.md`. Page 8 must not invent Hyejin's first uncontrolled visual design.
 
+## Approved Artwork Handoff Authority
+
+For the Chapter 1 → Chapter 2 handoff, the APPROVED Chapter 1 Page 18 ARTWORK is the absolute authority for every subject, object, appliance, furniture relationship, table item, clothing state, and lighting condition that is visibly shown to the reader.
+
+If an older prose prompt, generic environment template, or remembered left/right screen placement conflicts with the approved artwork, the approved artwork wins for the visible handoff state. Written continuity notes may only fill in off-frame objects and may not contradict or visually redesign what the approved final page shows.
+
+The most important visible anchors carried into Chapter 2 Page 1 are: Nari still seated at the dining table; the large noodle pot still on the table; the ceramic mug still on the table; the visible blue dining-table towel/cloth still present; the lower cabinet still open with the unplugged speaker setup; the TV already active with `NEW TENANT CONFIRMED`; and Unit 2407 still normally powered.
+
 ## Time / Location Jump Authority
 
 Only these Chapter 2 pages intentionally skip elapsed time or location:
@@ -28,15 +36,17 @@ The explicit Page 3 overnight cut allows normal off-panel sleep/hygiene and ordi
 
 ### Page 01
 
-Immediate continuation from Chapter 1 Page 18 Panel 6. No time has passed.
+Immediate continuation from the APPROVED Chapter 1 Page 18 Panel 6. No time has passed.
 
-Unit 2407 is fully powered and normally lit. Nari remains seated at the same dining-table chair in the same Chapter 1 ending home/blackout outfit and established indoor/barefoot state. Her paper notebook is open in front of her.
+Unit 2407 is fully powered and normally lit. Nari remains seated at the same dining-table position in the same Chapter 1 ending home/blackout outfit and established indoor/barefoot state.
 
-The lower kitchen cabinet is still open with the same storage stockpot, two towels, propped lid, and visibly unplugged speaker inside. Her phone and electrical binder remain on the kitchen counter. The brass backup key remains in the entry tray. The practical knife remains safely sheathed in the desk tray beside the failed flashlight and radio.
+The visible dining-table environment remains the same as the approved final artwork: the large noodle pot is still on its trivet/hot plate, the ceramic mug is still on the table, and the visible blue dining-table towel/folded cloth remains in its approved position. Her physical notebook remains part of the same dining-table work area.
 
-The Chapter 1 dinner setup has NOT yet been cleaned: noodle pot/trivet/folded cloth remain at the table; extinguished candle remains in its holder; Hyun-woo's chair remains pushed back; empty spicy-seafood packet/wrapper remain; pantry remains ajar with five unopened noodle packets.
+The lower kitchen cabinet is still open with the same storage stockpot, towels, lid, and visibly unplugged speaker inside. Her phone and electrical binder retain their established kitchen-counter states when that area is framed. The brass backup key remains in the entry tray. Off-frame safety/evidence props retain their last established states unless the approved artwork visibly establishes otherwise.
 
-Across the living room, the visibly unplugged television still displays:
+The pantry inventory remains five unopened noodle packets. No cleanup has occurred yet.
+
+Across the living room, the visibly unplugged television is already displaying:
 
 ```text
 NEW TENANT CONFIRMED
@@ -46,7 +56,7 @@ Hyun-woo's weak voice comes through the unplugged speaker.
 
 "Don't touch the TV."
 
-Nari looks at the loose television plug.
+Nari stays seated and looks toward the loose television plug.
 
 "I wasn't planning to."
 
@@ -60,7 +70,9 @@ The message disappears and the television becomes dead black again. The apartmen
 
 ### Page 02
 
-Direct continuation; the Chapter 1 dinner/investigation setup still has not been silently cleaned or reset.
+Direct continuation; the Chapter 1/Page 1 dinner and investigation setup still has not been silently cleaned or reset.
+
+The large noodle pot, ceramic mug, and blue dining-table towel/cloth remain where approved Page 1 left them whenever that part of the table is framed. The TV is now dead and visibly unplugged. The lower speaker cabinet remains open.
 
 Nari writes in her physical notebook:
 
@@ -85,7 +97,7 @@ Nari rubs her eyes.
 
 No answer.
 
-Nari physically gets up, walks from the table to the lower cabinet, settles the same towels/lid over the speaker setup, and closes the cabinet. The hallway lamp remains on. All other Page 1 handoff objects remain fixed through the end of this page.
+Nari physically gets up, walks from the table to the lower cabinet, settles the same towels/lid over the speaker setup, and closes the cabinet. The hallway lamp remains on. The noodle pot, mug, table towel/cloth, and all other direct-continuation scene anchors remain untouched through the end of this page.
 
 ---
 
@@ -95,13 +107,13 @@ Large in-panel caption:
 
 `THE NEXT MORNING — UNIT 2407`
 
-This explicit overnight jump is the first point where ordinary off-panel domestic cleanup is allowed. Nari may have slept/washed and put away the previous night's meal-only clutter. The noodle pot/trivet/cloth, empty packet/wrapper, and candle/holder no longer need to remain visible; the pushed-back chair may be normalized; pantry may be closed, but its inventory remains five unopened noodle packets.
+This explicit overnight jump is the first point where ordinary off-panel domestic cleanup is allowed. Nari may have slept/washed and put away the previous night's meal-only clutter. The large noodle pot/trivet, ceramic mug, blue table towel/cloth, empty packet/wrapper, and candle/holder no longer need to remain visible; the pushed-back chair may be normalized; pantry may be closed, but its inventory remains five unopened noodle packets.
 
-Persistent evidence/safety objects remain traceable: dead unplugged TV, closed lower cabinet with speaker setup inside, binder on kitchen counter, brass key in entry tray, sheathed practical knife plus failed flashlight/radio in desk tray, notebook at dining table, and hallway lamp still on from the overnight instruction.
+Persistent evidence/safety objects remain traceable: dead unplugged TV, closed lower cabinet with speaker setup inside, binder on kitchen counter, brass key in entry tray, off-frame safety/evidence props in their last established states, notebook at dining table, and hallway lamp still on from the overnight instruction.
 
 DING-DONG.
 
-Nari, clearly exhausted and still in her established home-outfit continuity, walks from inside Unit 2407 to the front door and opens it from inside.
+Nari, clearly exhausted and still recognizably the same canonical adult Nari, walks from inside Unit 2407 to the front door and opens it from inside.
 
 Mrs. Na stands outside in the corridor in her established mauve coat with handbag, jade earrings, analog watch, and metal key ring.
 

@@ -1,10 +1,11 @@
 # Chapter 02 Final Audit
 
-Status: **PASS — THIRD FINAL REAL-SCENARIO CROSS-CHAPTER INSPECTION COMPLETE / ZERO KNOWN DOCUMENTATION DEFECTS**
+Status: **PASS — APPROVED CHAPTER 1 ARTWORK CONTINUITY CORRECTION COMPLETE / ZERO KNOWN DOCUMENTATION DEFECTS**
 
 ## Audited Package
 
-- Chapter 1 `page-018-chatgpt-image-prompt.md` as physical handoff authority
+- APPROVED Chapter 1 Page 18 ARTWORK as visual handoff authority
+- Chapter 1 `page-018-chatgpt-image-prompt.md` as supporting off-frame continuity authority
 - Chapter 2 `chapter.md`
 - Chapter 2 `page-001-chatgpt-image-prompt.md` through `page-018-chatgpt-image-prompt.md`
 - `chapter-02-continuity-audit.md`
@@ -17,19 +18,48 @@ Status: **PASS — THIRD FINAL REAL-SCENARIO CROSS-CHAPTER INSPECTION COMPLETE /
 
 Chapter 2 contains exactly **18 story pages** and no Page 019 prompt.
 
-This inspection assumes the events are happening in a real apartment/workplace. Every character/object must either move through a readable physical route or be covered by an explicit elapsed-time/location caption. It re-opened the previous PASS and checked the Chapter 1 ending object-by-object against Chapter 2 Page 1 rather than relying on a summary.
+This final correction was triggered by direct comparison against the APPROVED Chapter 1 final artwork. The prior documentation had the correct overall story state but did not explicitly preserve every visually obvious table/environment anchor from the approved image. That has now been corrected.
 
-## Mandatory Pre-Page-8 Asset Gate
+## Approved Artwork Wins For Visible Continuity
 
-Before generating Page 8, generate and QA-approve:
+For Chapter 1 Page 18 → Chapter 2 Page 1, the APPROVED Chapter 1 Page 18 ARTWORK is absolute authority for anything visibly shown to the reader.
 
-`Character-References/hyejin-canonical-flat2d.png`
+If an older prompt, generic Unit 2407 template, or remembered left/right screen placement conflicts with the approved artwork, the approved artwork wins for visible subject/environment/object state. Written prompt notes may only fill in off-frame objects and may not contradict or redesign the approved image.
 
-from:
+This rule prevents a technically correct prose handoff from producing a visually different apartment/table setup.
 
-`Character-References/hyejin-canonical-flat2d-chatgpt-image-prompt.md`
+## Corrected Visible Chapter 1 → Chapter 2 Handoff
 
-Page 8 must not establish Hyejin through an uncontrolled first story drawing.
+Chapter 2 Page 1 begins in the exact physical moment after the approved Chapter 1 final panel.
+
+The following visible anchors are mandatory:
+- Nari remains seated at the same dining-table position.
+- Nari remains in the same Chapter 1 ending home/blackout outfit and established barefoot/indoor-foot state.
+- large noodle pot remains on the dining table on the same trivet/hot plate.
+- ceramic mug remains on the dining table in the same approved position.
+- visible blue dining-table towel/folded cloth remains in the same approved position.
+- physical notebook remains part of the same table work area.
+- lower cabinet remains OPEN with the same unplugged-speaker storage setup.
+- TV remains in the same approved room relationship, visibly unplugged, and already displays `NEW TENANT CONFIRMED`.
+- Unit 2407 remains normally powered and lit.
+- Hyun-woo remains physically absent / voice-only.
+
+Page 1 changes only the hostile TV display state. Page 2 changes only the cabinet state at Panel 6. The table/environment anchors may not silently disappear before Page 3.
+
+## Direct Page 1–2 Reject Gate
+
+Reject Page 1 or Page 2 if:
+- Nari starts standing or beside the TV instead of seated at the table.
+- the noodle pot is missing.
+- the ceramic mug is missing.
+- the blue table towel/cloth is missing.
+- the table is cleaned/minimalist.
+- the cabinet closes before Page 2 Panel 6.
+- the TV body/location is redesigned or relocated.
+- apartment furniture/appliance relationships reset.
+- an old generic screen-side layout is forced over the approved artwork.
+- a new blackout/flicker is invented.
+- physical Hyun-woo appears.
 
 ## Final Approved Time / Location Jumps
 
@@ -43,57 +73,36 @@ Only these three pages may skip elapsed time/location:
 
 Every other page is **direct continuation** and must not invent a time jump, location reset, commute, arrival, cleanup, wardrobe change, flashback, or transition card.
 
-There are no backward-time cuts (`AN HOUR AGO`, `5 HOURS EARLIER`, etc.) in Chapter 2. If future revisions add one, it must receive its own large explicit caption; none exists in the current final script.
-
-## Chapter 1 → Chapter 2 Handoff — Fully Verified
-
-Chapter 2 Page 1 begins in the exact physical moment after Chapter 1 Page 18 Panel 6.
-
-The following must survive unchanged into Page 1:
-
-- Unit 2407 powered / normally lit
-- Nari seated at same dining chair
-- exact Chapter 1 ending home/blackout outfit + established indoor/barefoot state
-- A5 paper notebook open on dining table
-- lower cabinet open
-- same stockpot / two towels / propped lid / unplugged speaker / disconnected cord
-- phone on kitchen counter
-- electrical binder on kitchen counter
-- brass backup key in entry tray
-- practical knife sheathed in desk tray
-- failed flashlight and radio beside knife
-- noodle pot on trivet with folded cloth
-- extinguished candle in holder
-- Hyun-woo dining chair pushed back/angled
-- empty spicy-seafood packet and seasoning wrapper
-- pantry ajar with exactly five unopened noodle packets
-- TV visibly unplugged and showing `NEW TENANT CONFIRMED`
-- Hyun-woo physically absent / voice-only
-
-Pages 1–2 may not silently clean/reset this environment. Page 1 changes only TV hostile screen state. Page 2 Panel 6 closes only the speaker cabinet as scripted.
+There are no backward-time cuts (`AN HOUR AGO`, `5 HOURS EARLIER`, etc.) in Chapter 2.
 
 ## Overnight Cleanup Boundary — Realistic And Explicit
 
 Page 3's exact next-morning caption is the first legal cleanup boundary.
 
-Because real time has explicitly passed, ordinary off-panel meal cleanup is allowed without needing a cleanup montage. Dinner-only clutter may be put away; chair may return to normal; pantry may close.
+Because real time has explicitly passed, ordinary off-panel meal cleanup is allowed without needing a cleanup montage. These transient items may be put away after the Page 3 cut:
+- large noodle pot/trivet
+- ceramic mug
+- blue dining-table towel/cloth
+- empty packet/wrapper
+- candle/holder
+- pushed-back chair may return to normal
+- pantry door may close
 
-Persistent evidence/safety state must remain:
+Persistent evidence/safety state remains traceable:
 - TV dead/unplugged
 - cabinet closed with speaker setup inside
 - binder counter
 - key entry tray
-- sheathed knife + failed flashlight/radio desk tray
+- off-frame safety/evidence props in last established states
 - notebook dining table until later narrated work cut
 - pantry inventory five unopened packets
 - hallway lamp still on through morning Mrs. Na visit
 
 This resolves both failure modes: no magical instant cleanup on Pages 1–2, and no unrealistic requirement to preserve dinner clutter forever after a narrated overnight interval.
 
-## Complete Power / Manifestation Rule — Corrected
+## Complete Power / Manifestation Rule
 
-The prior wording was missing an important qualifier. Final canon is now explicit:
-
+Final canon remains:
 - Page 6 Mrs. Na: `AFTER MIDNIGHT, LOSING THE APARTMENT'S POWER DOES THAT.`
 - Page 6: `TURNING OFF A LIGHT IS NOT THE SAME THING.`
 - Page 17 notebook: `AFTER MIDNIGHT, HYUN-WOO BECOMES PHYSICAL ONLY WHEN UNIT 2407 LOSES POWER.`
@@ -102,14 +111,18 @@ Therefore:
 - darkness alone ≠ Hyun-woo physical
 - room-light switch-off ≠ Unit power loss
 - actual Unit 2407 power loss is separate
-- the manifestation condition demonstrated/recorded here is specifically **after midnight**
+- manifestation condition demonstrated/recorded here is specifically **after midnight**
 - daytime power loss is NOT falsely established as a proven manifestation trigger
 
 ## Final Verification Matrix
 
 | Area | Result | Verified state |
 |---|---|---|
-| Chapter 1 handoff | PASS | Exact P18 furniture/object/wardrobe/power state locked into Ch2 P1. |
+| Approved-artwork authority | PASS | Approved Ch1 P18 controls visible handoff; text only supplements off-frame state. |
+| Chapter 1 handoff | PASS | Exact seated/table/cabinet/TV/power state locked into Ch2 P1. |
+| Noodle pot continuity | PASS | Visible P1–2; may be cleaned only across narrated P3 overnight cut. |
+| Ceramic mug continuity | PASS | Visible P1–2; may be cleaned only across narrated P3 overnight cut. |
+| Blue table towel continuity | PASS | Visible P1–2; may be cleaned only across narrated P3 overnight cut. |
 | Direct Page 1–2 continuity | PASS | No cleanup/reset except scripted TV shutdown + cabinet close. |
 | Overnight realism | PASS | P3 exact morning caption licenses ordinary meal cleanup while persistent evidence survives. |
 | Time/location jumps | PASS | Only P3, P8, P10; all have exact large captions. |
@@ -121,7 +134,7 @@ Therefore:
 | Mrs. Na identity | PASS | Canonical P3–7. |
 | Hyejin identity | PASS WITH PRECONDITION | Canonical PNG mandatory before P8. |
 | Wardrobe path | PASS | Ch1 home → morning home continuity → work → narrated return to same home outfit P10–18. |
-| Mrs. Na movement | PASS | Outside → threshold crossing → inside → prepares to leave; P8 time cut covers actual departure. |
+| Mrs. Na movement | PASS | Outside → threshold crossing → inside → prepares to leave; P8 time cut covers departure. |
 | P8 location jump | PASS | `LATER THAT DAY — NTH PIXEL STUDIO`; no apartment→office teleport. |
 | P10 location jump | PASS | `LATER THAT NIGHT — UNIT 2407 — AFTER MIDNIGHT`; no office→apartment teleport. |
 | P10 route | PASS | table → cabinet → kitchen switch → table. |
@@ -140,7 +153,6 @@ Therefore:
 | Notebook path | PASS | home table → narrated work travel → work → narrated return table → fixed through test → P17–18. |
 | Binder path | PASS | kitchen counter throughout. |
 | Brass key | PASS | entry tray throughout. |
-| Knife/failed radio/flashlight | PASS | desk tray; no unscripted use/movement. |
 | Pantry inventory | PASS | five unopened packets survive overnight cleanup boundary. |
 | South-wall panel | PASS | closed/untouched all chapter; sound only P18. |
 | Power continuity | PASS | no actual Ch2 Unit 2407 blackout. |
@@ -154,7 +166,6 @@ Therefore:
 ## Exact Final Transition / Rule Watchlist
 
 Automatic reject if obsolete text appears:
-
 - P3 old caption `THE NEXT MORNING` without location
 - P6 old `LOSING THE APARTMENT'S POWER DOES THAT.` without `AFTER MIDNIGHT`
 - P8 old caption `LATER THAT DAY` without location
@@ -167,13 +178,6 @@ Automatic reject if obsolete text appears:
 - P15 repetitive three-`NO.` exchange
 - P16 `THROUGH THE SYSTEM.` / `DON'T NAME IT.`
 - P17 duplicate `OBSERVATION 002`
-
-Final replacements include:
-- `THE NEXT MORNING — UNIT 2407`
-- `AFTER MIDNIGHT, LOSING THE APARTMENT'S POWER DOES THAT.`
-- `LATER THAT DAY — NTH PIXEL STUDIO`
-- `LATER THAT NIGHT — UNIT 2407 — AFTER MIDNIGHT`
-- `AFTER MIDNIGHT, HYUN-WOO BECOMES PHYSICAL ONLY WHEN UNIT 2407 LOSES POWER.`
 
 ## Flat 2D / Rendering Rejection Gate — ABSOLUTE
 
@@ -198,7 +202,8 @@ Require clean human-drawn ink, matte cel colors, solid blocks, adult proportions
 
 Reject any generated page that:
 - jumps character/object between places without scripted route or approved explicit time/location cut
-- changes Page 1–2 clutter without script
+- changes Page 1–2 visible table/environment anchors without script
+- removes pot/mug/blue table towel before P3 overnight cut
 - moves Mrs. Na inside before P4 P6
 - has Nari operate P3 doorbell/intercom
 - carries notebook through P11 switch route or P13–16 hallway route
@@ -213,7 +218,7 @@ Reject any generated page that:
 
 ## Required Production Workflow
 
-1. Generate P1 using approved Chapter 1 P18 as mandatory continuity reference.
+1. Generate P1 using APPROVED Chapter 1 P18 ARTWORK as mandatory continuity reference.
 2. Audit/approve each page sequentially.
 3. Only approved Page N may become continuity reference for N+1.
 4. Enforce exact time/location captions only on P3, P8, P10.
@@ -224,4 +229,4 @@ Reject any generated page that:
 
 ## Final Result
 
-**PASS — the Chapter 2 production documentation is now cross-checked against Chapter 1 Page 18 at object-level detail and against a real-scenario time/location model. There are zero known documentation continuity defects. Only Pages 3, 8, and 10 may skip elapsed time/location, each with exact mandatory narration. Future generated artwork still requires page-by-page QA.**
+**PASS — Chapter 2 production documentation is now aligned to the APPROVED Chapter 1 Page 18 artwork at visible environment/object level. The opening must read as the exact next moment: seated Nari, same large noodle pot, same ceramic mug, same blue table towel/cloth, same open cabinet, same already-active unplugged TV, same powered apartment. Page 3 is the first legal cleanup boundary. There are zero known documentation continuity defects.**

@@ -1,6 +1,6 @@
 # Chapter 02 Continuity Audit
 
-Status: **PASS — REAL-SCENARIO CROSS-CHAPTER CONTINUITY VERIFIED / ZERO KNOWN DOCUMENTATION DEFECTS**
+Status: **PASS — APPROVED-ARTWORK CROSS-CHAPTER CONTINUITY VERIFIED / ZERO KNOWN DOCUMENTATION DEFECTS**
 
 ## Production Scope
 
@@ -8,30 +8,45 @@ Chapter 2 contains exactly 18 story pages: `page-001-chatgpt-image-prompt.md` th
 
 `chapter.md` is story/dialogue continuity authority. Each page prompt is production authority for exact panel count, blocking, movement, prop positions, wardrobe, time/location captions, lighting/power state, exact reader-facing text, SFX source, and circled panel-order markers.
 
-This audit treats Chapter 1 Page 18 and every Chapter 2 page as one real physical timeline. Characters, furniture, appliances, evidence, clothing, lights, and handheld objects must either move through a visible route or be covered by an explicit elapsed-time/location caption.
+This audit treats the APPROVED Chapter 1 Page 18 ARTWORK and every Chapter 2 page as one real physical timeline. Characters, furniture, appliances, table items, evidence, clothing, lights, and handheld objects must either move through a visible route or be covered by an explicit elapsed-time/location caption.
+
+## Approved Artwork Visual Authority
+
+For the Chapter 1 → Chapter 2 handoff, the APPROVED Chapter 1 Page 18 ARTWORK is absolute authority for every subject, prop, table item, furniture/appliance relationship, clothing state, and lighting condition that is visibly shown.
+
+If an older text prompt, generic Unit 2407 template, or remembered left/right screen placement conflicts with the approved artwork, the approved artwork wins for the visible handoff state. Written continuity notes may only fill in off-frame objects and may not contradict or redesign what the reader just saw.
 
 ## Chapter 1 → Chapter 2 Exact Handoff
 
-Chapter 2 Page 1 directly continues Chapter 1 Page 18 Panel 6 with **no elapsed time**.
+Chapter 2 Page 1 directly continues the APPROVED Chapter 1 Page 18 Panel 6 with **no elapsed time**.
 
-At Chapter 2 Page 1 start:
+Visible opening anchors that must survive unchanged into Chapter 2 Page 1:
 - Unit 2407 ordinary supplied power is ON and normally lit.
-- Nari is seated at same dining-table chair in same Chapter 1 ending home/blackout outfit and established indoor/barefoot state.
-- A5 paper notebook is open on dining table.
-- lower cabinet is open.
-- same stockpot, two towels, propped lid, unplugged speaker, disconnected cord remain in cabinet.
-- phone and electrical binder remain kitchen counter.
-- brass backup key remains entry tray.
-- practical knife remains safely sheathed in desk tray beside failed flashlight/radio.
-- noodle pot/trivet/folded cloth remain dining table.
-- extinguished candle remains in holder.
-- Hyun-woo's dining chair remains pushed back/angled.
-- empty spicy-seafood packet/wrapper remain.
-- pantry remains ajar with exactly five unopened noodle packets.
-- TV remains visibly unplugged and hostile-active with `NEW TENANT CONFIRMED`.
+- Nari is still seated at the same dining-table position in the same ending home/blackout outfit and established barefoot/indoor-foot state.
+- large noodle pot remains on the same dining-table trivet/hot plate.
+- ceramic mug remains on the dining table in its approved position.
+- visible blue dining-table towel/folded cloth remains in its approved position.
+- physical notebook remains part of the same table work area.
+- lower cabinet remains OPEN with the same unplugged-speaker storage setup.
+- TV remains visibly unplugged and already hostile-active with `NEW TENANT CONFIRMED`.
 - Hyun-woo remains physically absent / voice-only.
 
+Other established evidence/safety objects retain their last canonical states when off-frame and may not be arbitrarily relocated.
+
 Pages 1–2 are one uninterrupted scene. **No cleanup/reset is allowed** except Page 1 TV becoming dead and Page 2 Panel 6 closing the lower cabinet as explicitly scripted.
+
+## Direct-Continuation Environment Reject Gate
+
+Reject Page 1 or Page 2 if any of these occur without an explicit scripted move:
+- Nari begins standing, walking, or beside the TV instead of seated at the table.
+- noodle pot disappears.
+- ceramic mug disappears.
+- blue table towel/cloth disappears.
+- table becomes clean/minimalist.
+- open cabinet closes before Page 2 Panel 6.
+- TV body/location is redesigned or relocated.
+- apartment furniture/appliance relationships reset.
+- old generic screen-side layout overrides the approved artwork's visible room relationships.
 
 ## Real-Scenario Time / Location Matrix
 
@@ -51,19 +66,21 @@ There are no backward-time sequences such as `AN HOUR AGO`, `5 HOURS EARLIER`, o
 
 Page 3's exact next-morning caption is the first legal boundary for ordinary domestic cleanup.
 
-Meal-only items may be put away during that explicit overnight interval:
-- noodle pot/trivet/folded cloth
-- empty spicy packet/seasoning wrapper
+Meal-only items that may be put away during that explicit overnight interval:
+- large noodle pot/trivet
+- ceramic mug
+- blue dining-table towel/cloth
+- empty packet/wrapper
 - extinguished candle/holder
 - pushed-back dining chair may be normalized
-- pantry may be closed
+- pantry door may be closed
 
 Persistent canon survives the cut:
 - TV remains dead/unplugged.
 - lower speaker cabinet remains closed.
 - electrical binder remains kitchen counter.
 - brass key remains entry tray.
-- sheathed practical knife + failed flashlight/radio remain desk tray.
+- off-frame safety/evidence props retain last established states unless later explicitly moved.
 - notebook remains dining table until later Page 8 cut.
 - pantry inventory remains exactly five unopened noodle packets.
 - hallway lamp remains on through morning Mrs. Na visit unless script changes it.
@@ -85,7 +102,7 @@ Canonical `nari-canonical-flat2d.png` throughout.
 
 Wardrobe path:
 - P1–2: exact Chapter 1 ending home/blackout outfit.
-- P3–7: same established home continuity; no arbitrary next-morning redesign.
+- P3–7: same canonical home continuity; overnight cut does not authorize arbitrary redesign.
 - P8–9: established Nth Pixel work look/accessory family.
 - P10: narrated home cut returns Nari to SAME established nighttime home outfit from P1–2.
 - P11–18: approved P10 home wardrobe stays unchanged.
@@ -105,8 +122,8 @@ No physical body anywhere in Chapter 2. Voice-only source is same unplugged spea
 
 1. Hyun-woo's physical-manifestation condition is specifically **after midnight + actual Unit 2407 supplied-power loss**.
 2. Switching off an ordinary room light while supply remains present does **not** create his body.
-3. Page 6 reader-facing line is corrected to: `AFTER MIDNIGHT, LOSING THE APARTMENT'S POWER DOES THAT.`
-4. Page 17 written rule is corrected to: `AFTER MIDNIGHT, HYUN-WOO BECOMES PHYSICAL ONLY WHEN UNIT 2407 LOSES POWER.`
+3. Page 6 reader-facing line: `AFTER MIDNIGHT, LOSING THE APARTMENT'S POWER DOES THAT.`
+4. Page 17 written rule: `AFTER MIDNIGHT, HYUN-WOO BECOMES PHYSICAL ONLY WHEN UNIT 2407 LOSES POWER.`
 5. The hallway mains-powered light is a protective powered-night anchor for hostile visual access, not the cause of Hyun-woo's body.
 6. P13 hallway darkness occurs while refrigerator, smart lock, outlets, and Unit supply remain powered.
 7. Chapter 2 contains no actual Unit 2407 blackout and no physical Hyun-woo.
@@ -148,13 +165,13 @@ Hyun-woo's voice through unplugged speaker is limited supernatural borrowed curr
 
 ## Object Ledger
 
+- Opening table anchors: large noodle pot + ceramic mug + blue table towel/cloth persist through P1–2; may be cleaned only across P3 narrated overnight cut.
 - Hallway lamp: ON P1–12 → self-OFF P13 → restored P14 → ON P15–18.
 - Dining-area light: ON initially → OFF P11 → OFF P12–16 → restored P17 → ON P18.
 - TV: unplugged/hostile-active P1 start → dead/unplugged thereafter.
 - Speaker stockpot/towels/lid: open cabinet P1–2 → closed P2 → reopens P10 → open enough through P18.
 - Electrical binder: kitchen counter throughout; referenced P7/P18.
 - Brass key: entry tray throughout.
-- Practical knife: sheathed desk tray with failed flashlight/radio throughout.
 - Notebook: dining table P1–7 → travels within narrated P8 cut to work P8–9 → re-established dining table P10 → stays table during P10–16 movement → used P17–18.
 - Phone: home counter early → may travel during narrated work cut → re-established screen-down/dark kitchen counter P10 → stays counter P10–18.
 - Pantry: five unopened packets after overnight cleanup; no unscripted consumption/duplication.
@@ -212,4 +229,4 @@ Do not reveal:
 
 ## Verification Result
 
-**PASS — Chapter 2 is now cross-checked against the exact Chapter 1 Page 18 physical state and against a real-scenario time/location model. Only Pages 3, 8, and 10 contain approved elapsed-time/location cuts, each with exact mandatory narration. All other pages are physically continuous. No known documentation continuity defect remains.**
+**PASS — Chapter 2 is cross-checked against the APPROVED Chapter 1 Page 18 artwork at visible environment/object level and against a real-scenario time/location model. Pages 1–2 preserve the approved seated/table/cabinet/TV scene, including the noodle pot, ceramic mug, and blue table towel/cloth. Page 3 is the first legal cleanup boundary. Only Pages 3, 8, and 10 contain approved elapsed-time/location cuts. No known documentation continuity defect remains.**
