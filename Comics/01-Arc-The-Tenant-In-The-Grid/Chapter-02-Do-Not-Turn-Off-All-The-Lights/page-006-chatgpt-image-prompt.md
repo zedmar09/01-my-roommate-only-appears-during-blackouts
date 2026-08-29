@@ -18,37 +18,37 @@ CANONICAL CHARACTER REFERENCE LOCK
 Attach approved Nari and Mrs. Na canonical PNGs.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
-100% flat matte 2D modern manhwa. Ban glossy/cinematic/photoreal/3D/painterly/reflections/bloom/gradients.
+Use 100% flat 2D human-drawn modern manhwa with clean ink, matte cel colors, solid blocks, adult proportions, and restrained hard-edged shading. Ban glossy/cinematic/photoreal/3D/painterly rendering, reflections, bloom, rim light, gradients, glare, wet/shiny surfaces, or over-rendering.
 
 ENVIRONMENT AND APPLIANCE MASTER LOCK
-Same powered Unit 2407 entry/living area. The established hallway mains lamp must be visually identifiable and steadily ON throughout the page.
+Same powered Unit 2407 entry/living area. The established hallway mains lamp must be visually identifiable and steadily ON throughout the page. Morning apartment/object state continues from Pages 3–5 without reset.
 
 LIGHTING AND EXPOSURE LOCK
-Normal powered morning baseline. Lamp is an ordinary mains-powered household light, not supernatural glow.
+Normal powered morning baseline. Hallway lamp remains ordinary mains-powered household light, not supernatural glow.
 
 POWER AND SUPERNATURAL RULE LOCK
-This page explicitly establishes: switching off a light is NOT the same as losing ordinary supplied apartment power. Loss of Unit 2407 supplied power permits Hyun-woo's physical body after midnight; merely switching off a lamp does not. The hallway light is protective for something else.
+This page explicitly establishes the COMPLETE earned rule, not a shortened version: AFTER MIDNIGHT, actual loss of Unit 2407 ordinary supplied power can permit Hyun-woo's physical body; merely switching off an ordinary lamp while supply still exists does not. Daytime power loss is NOT established here as a manifestation trigger. The hallway light is protective for something else.
 
 CHARACTER CONSISTENCY
 Nari and Mrs. Na remain in same positions/outfits from Page 5 with only small natural shifts.
 
 SETTING AND PROP CONTINUITY
-Hallway lamp must stay visible/clearly established. Neither woman touches the lamp or switch on this page.
+Hallway lamp must stay visible/clearly established. Neither woman touches the lamp or switch on this page. Persistent Unit 2407 props remain where established; do not use this dialogue page as an excuse to rearrange the room.
 
 OBJECT SCALE AND SPATIAL LOGIC
 Keep realistic spacing and stable room geometry.
 
 CONTINUITY
-Mrs. Na's `I THOUGHT I COULD KEEP SAFE` leads directly into Nari asking what the hallway light actually does.
+Mrs. Na's `I RENTED YOU AN APARTMENT I THOUGHT I COULD KEEP SAFE.` leads directly into Nari asking what the hallway light actually does. Her answer must preserve the already-established after-midnight condition from Chapter 1.
 
 TIME AND SCENE CONTINUITY
-NO TIME CAPTION — direct continuation.
+NO TIME CAPTION — direct continuation from Page 5 during the same morning visit.
 
 NARRATION CAPTION DESIGN
 No narration.
 
 SPOILER BOUNDARY
-Explain only the earned distinction between light-off and loss-of-unit-power; do not name/explain hostile entity origin.
+Explain only the earned distinction between light-off and after-midnight loss-of-unit-power; do not name/explain hostile entity origin.
 
 PAGE FORMAT AND PACING
 Exactly 7 panels.
@@ -63,8 +63,8 @@ NARI: IS THAT LIGHT WHAT MAKES HIM APPEAR?
 PANEL 2 — Mrs. Na answers immediately.
 MRS. NA: NO.
 
-PANEL 3 — Wider two-shot with lamp visible. Mrs. Na explains carefully.
-MRS. NA: LOSING THE APARTMENT'S POWER DOES THAT.
+PANEL 3 — Wider two-shot with lamp visible. Mrs. Na gives the complete rule in plain language.
+MRS. NA: AFTER MIDNIGHT, LOSING THE APARTMENT'S POWER DOES THAT.
 MRS. NA: TURNING OFF A LIGHT IS NOT THE SAME THING.
 
 PANEL 4 — Nari looks toward lamp again.
@@ -86,10 +86,10 @@ TEXT AND LETTERING RULES
 Exact dialogue only plus panel markers. Do not turn Mrs. Na's rule into narration or screen text.
 
 STORY CLARITY
-Reader must clearly distinguish ordinary light-switch darkness from actual loss of Unit 2407 supplied power.
+Reader must clearly distinguish three things: ordinary light-switch darkness, actual Unit 2407 supplied-power loss, and the fact that Hyun-woo's physical manifestation condition applies after midnight.
 
 AVOID
-Avoid showing Hyun-woo, turning lamp off, implying darkness alone manifests him, phone-screen substitute, extra supernatural explanation, dialogue changes, or confusing mains vs supernatural current.
+Avoid showing Hyun-woo, turning lamp off, implying darkness alone manifests him, implying any daytime outage automatically manifests him, phone-screen substitute, extra supernatural explanation, dialogue changes, or confusing mains vs supernatural current.
 ```
 
 ## Locked Reader-Facing Text
@@ -98,7 +98,7 @@ Avoid showing Hyun-woo, turning lamp off, implying darkness alone manifests him,
 |---|---|---|
 | 1 Nari | Spoken | `IS THAT LIGHT WHAT MAKES HIM APPEAR?` |
 | 2 Mrs. Na | Spoken | `NO.` |
-| 3 Mrs. Na | Spoken | `LOSING THE APARTMENT'S POWER DOES THAT.` |
+| 3 Mrs. Na | Spoken | `AFTER MIDNIGHT, LOSING THE APARTMENT'S POWER DOES THAT.` |
 | 3 Mrs. Na | Spoken | `TURNING OFF A LIGHT IS NOT THE SAME THING.` |
 | 4 Nari | Spoken | `THEN WHY DOES THIS HAVE TO STAY ON?` |
 | 5 Mrs. Na | Spoken | `BECAUSE THE LIGHT IS FOR SOMETHING ELSE.` |
