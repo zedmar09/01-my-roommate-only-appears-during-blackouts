@@ -1,6 +1,6 @@
 # Chapter 02 Image Generation Checklist
 
-Status: **PASS — ZERO KNOWN DOCUMENTATION ISSUES AFTER THIRD AUDIT**
+Status: **PASS — REAL-SCENARIO CROSS-CHAPTER AUDIT COMPLETE / ZERO KNOWN DOCUMENTATION ISSUES**
 
 This checklist governs Chapter 2, `Do Not Turn Off All The Lights`, Pages 001–018.
 
@@ -8,7 +8,7 @@ Important asset precondition: **before generating Page 8, create and QA-approve 
 
 ## Image-Only Execution Rule
 
-Every `page-###-chatgpt-image-prompt.md` is a FINAL production instruction. Do not rewrite, summarize, paraphrase, reinterpret, improve, reorganize, re-block, or substitute generic actions before generation. Generate the image directly. Exact scripted verbs, movement, object states, text, sources, panel counts, lighting, power rules, and wardrobe are production canon.
+Every `page-###-chatgpt-image-prompt.md` is a FINAL production instruction. Do not rewrite, summarize, paraphrase, reinterpret, improve, reorganize, re-block, or substitute generic actions before generation. Generate the image directly. Exact scripted verbs, movement, object states, text, sources, panel counts, lighting, power rules, wardrobe, and time/location captions are production canon.
 
 ## Script Immutability Rule — ABSOLUTE
 
@@ -17,22 +17,37 @@ Every `page-###-chatgpt-image-prompt.md` is a FINAL production instruction. Do n
 - Do not add filler dialogue, labels, extra SFX, explanatory narration, brands, logos, prices, fake UI text, promotional Korean copy, signatures, or watermarks.
 - Wrong speaker/source/panel/text type = automatic reject.
 
+## Real-Scenario Time / Location Jump Gate — ABSOLUTE
+
+Only these Chapter 2 pages are allowed to skip elapsed time or location:
+
+| Page | Exact required transition caption | What the cut legitimately covers |
+|---:|---|---|
+| 3 | `THE NEXT MORNING — UNIT 2407` | overnight sleep/hygiene and ordinary meal-only cleanup before Mrs. Na arrives |
+| 8 | `LATER THAT DAY — NTH PIXEL STUDIO` | Mrs. Na's normal departure and Nari's normal commute to work |
+| 10 | `LATER THAT NIGHT — UNIT 2407 — AFTER MIDNIGHT` | Nari's commute home, return to established home outfit, and re-establishment of phone/notebook before testing |
+
+Every other Chapter 2 page is a **direct continuation** and must use NO invented time caption, flashback, cleanup montage, commute, arrival, wardrobe change, room reset, or location jump.
+
+A page is an automatic reject if a character/object appears in a new place with no physically shown route and no approved time/location cut explaining the change.
+
+There are **no flashbacks, `HOURS EARLIER`, `5 HOURS EARLIER`, or backward-time cuts** in Chapter 2. Do not invent one.
+
 ## Dialogue / Callout Attribution Rule
 
 - Spoken dialogue tails/callouts point only to the exact speaking character.
-- Hyun-woo is voice-only throughout Chapter 2; his callouts must point to the actual unplugged speaker hardware when visible or otherwise be unmistakably off-panel speaker audio.
+- Hyun-woo is voice-only throughout Chapter 2; his callouts must point to actual unplugged speaker hardware when visible or otherwise be unmistakably off-panel speaker audio.
 - Never draw a physical Hyun-woo in Chapter 2.
-- Device text remains on the actual device display; notebook text remains physical handwriting.
+- Device text remains on actual device display; notebook text remains physical handwriting.
 
 ## Unplugged-Speaker Communication Guard — ABSOLUTE
 
 Hyun-woo's nonphysical speech through the unplugged speaker is an effortful supernatural exception, not a normal powered audio channel.
 
-- Treat his speech as short, weak, intermittent bursts separated by silence/effort.
-- Do not depict an always-on clean speaker conversation, loud room-filling audio, or a glowing/powered speaker body.
-- Do not invent extra static SFX unless the exact page scripts one.
-- Repeated use of this risky channel is compatible with the hostile interference that escalates later in the chapter.
-- The speaker's supernatural voice never counts as ordinary Unit 2407 supplied power.
+- Treat speech as short, weak, intermittent bursts separated by silence/effort.
+- Do not depict an always-on clean speaker conversation, loud room-filling audio, or glowing/powered speaker body.
+- Do not invent extra static SFX unless exact page scripts one.
+- Speaker supernatural voice never counts as ordinary Unit 2407 supplied power.
 
 ## Canonical Character Reference Gate
 
@@ -46,10 +61,10 @@ Hyun-woo's nonphysical speech through the unplugged speaker is an effortful supe
 ### Hyejin Canonical Preflight — REQUIRED BEFORE PAGE 8
 
 1. Generate Hyejin from `Character-References/hyejin-canonical-flat2d-chatgpt-image-prompt.md`.
-2. QA the reference for the locked adult face, copper bob, rectangular glasses, denim jacket, generic enamel pins, handheld-console-shaped phone case, matte flat-2D style, and zero readable branding.
-3. Save the approved asset as `Character-References/hyejin-canonical-flat2d.png`.
+2. QA locked adult face, copper bob, rectangular glasses, denim jacket, generic enamel pins, handheld-console-shaped phone case, matte flat-2D style, and zero readable branding.
+3. Save approved asset as `Character-References/hyejin-canonical-flat2d.png`.
 4. Do **not** generate Page 8 until that PNG exists and is approved.
-5. Page 8 and Page 9 must use the Hyejin canonical PNG as identity authority. Approved Page 8 is only secondary wardrobe/environment continuity for Page 9 and cannot override canonical identity.
+5. Pages 8–9 use Hyejin canonical PNG as identity authority; approved Page 8 is only secondary wardrobe/environment continuity for Page 9.
 
 ## Locked Panel Counts And Required Circled Markers
 
@@ -84,119 +99,159 @@ Generate and approve only:
 
 Only approved Page N may become scene/object/environment continuity reference for Page N+1. Never use rejected/provisional artwork downstream.
 
-## Chapter 1 Handoff Gate
+## Chapter 1 → Chapter 2 Handoff Gate — ABSOLUTE
 
-Page 1 requires approved Chapter 1 Page 18 as mandatory continuity reference. Verify:
+Page 1 must attach APPROVED Chapter 1 Page 18 and preserve the exact physical state.
 
-- Unit 2407 fully powered and normally lit
-- Nari seated at dining table
-- paper notebook open
-- lower cabinet open with same speaker-storage setup
-- phone and binder on kitchen counter
-- practical knife safely sheathed at desk
-- TV visibly unplugged and showing `NEW TENANT CONFIRMED`
-- Hyun-woo physically absent / voice-only
+Verify all of the following at Chapter 2 Page 1 start:
+
+- Unit 2407 fully powered and normally lit.
+- Nari seated at same dining-table chair in same Chapter 1 ending home/blackout outfit and established indoor/barefoot state.
+- A5 paper notebook open on dining table.
+- lower cabinet open.
+- same stockpot, two towels, propped stockpot lid, unplugged speaker, visibly disconnected cord inside cabinet.
+- phone on kitchen counter.
+- electrical binder on kitchen counter.
+- brass backup key in entry tray.
+- practical knife safely sheathed in desk tray beside failed flashlight and radio.
+- noodle pot on trivet with folded cloth at handle.
+- extinguished candle in ceramic holder.
+- Hyun-woo's dining chair pushed back/angled.
+- empty spicy-seafood packet and seasoning wrapper still present.
+- pantry slightly ajar with exactly five unopened noodle packets.
+- TV visibly unplugged and showing `NEW TENANT CONFIRMED` at Chapter 2 Page 1 start.
+- Hyun-woo physically absent / voice-only.
+
+### Direct-continuation cleanup prohibition
+Pages 1–2 are the same uninterrupted late-night scene. **No dinner/safety/evidence prop may silently clean itself up or move during Pages 1–2.** Page 2 Panel 6 may close only the lower speaker cabinet as scripted.
+
+### Narrated overnight cleanup boundary
+Page 3's exact caption `THE NEXT MORNING — UNIT 2407` is the first moment ordinary meal-only cleanup may have occurred off-panel.
+
+After that explicit overnight cut:
+- noodle pot/trivet/cloth, empty packet/wrapper, and candle/holder may be put away.
+- pushed-back chair may be normalized.
+- pantry may be closed, but inventory remains exactly five unopened noodle packets.
+- TV remains dead/unplugged.
+- lower speaker cabinet remains closed.
+- binder remains kitchen counter.
+- brass key remains entry tray.
+- practical knife remains sheathed with failed flashlight/radio in desk tray.
+- notebook remains at dining table until later carried away during approved Page 8 time/location cut.
+- hallway lamp remains on through the morning Mrs. Na visit unless script changes it.
 
 ## Wardrobe Continuity Guard
 
 - Pages 1–2: exact Chapter 1 ending nighttime home outfit/state.
-- Pages 3–7: Page 3 establishes the next-morning Nari outfit; approved Page 3 controls Pages 4–7 wardrobe continuity.
-- Pages 8–9: work outfit/office state; Page 9 continues approved Page 8.
-- Page 10: Nari has changed back into the SAME established nighttime home outfit/state from approved Pages 1–2, not the work outfit.
-- Pages 11–18: preserve approved Page 10 home wardrobe exactly unless the script explicitly changes it. No invented pajamas/new hoodie/office-jacket carryover.
+- Pages 3–7: same established home-outfit continuity unless approved Page 3 explicitly shows a mundane next-morning variation; Pages 4–7 then follow approved Page 3. Do not invent a random redesign.
+- Pages 8–9: established Nth Pixel work look/accessory family; Page 9 continues approved Page 8.
+- Page 10: explicit time/location cut allows Nari to change back into SAME established nighttime home outfit/state from Pages 1–2.
+- Pages 11–18: preserve approved Page 10 home wardrobe exactly unless script explicitly changes it.
 
 ## Critical Page Guards
 
-### Pages 1–2 — Powered cliffhanger aftermath
-- Page 1 does not create another outage/flicker.
+### Pages 1–2 — Exact Chapter 1 cliffhanger aftermath
+- No time passes between Chapter 1 P18 and Chapter 2 P1.
+- Page 1 does not create another apartment outage/flicker.
+- Page 1 `FZZT` belongs only to TV hostile shutdown/glitch, not apartment lights.
 - Hostile TV uses broken-white/black-pixel signature and goes dead.
 - Page 2 records `OBSERVATION 002` on physical paper.
 - Hallway lamp remains on overnight.
-- Cabinet closes only at Page 2 Panel 6.
+- Cabinet closes only Page 2 Panel 6.
+- No other handoff prop silently moves/cleans/resets.
 
-### Pages 3–7 — Mrs. Na conversation
+### Pages 3–7 — Narrated next morning / Mrs. Na conversation
+- Page 3 exact caption: `THE NEXT MORNING — UNIT 2407`.
+- Overnight caption is what authorizes normal off-panel meal cleanup; do not show a same-moment magical reset.
 - Page 3 doorbell source is outside; Nari never operates doorbell/intercom.
 - Mrs. Na stays outside until Page 4 Panel 6 threshold crossing.
-- Page 5 uses revised line `THAT'S ALL I'M SAYING.`
-- Page 6 clearly distinguishes room-light switching from actual Unit 2407 supplied-power loss.
+- Page 5 uses `THAT'S ALL I'M SAYING.`
+- Page 6 must use exact corrected line: `AFTER MIDNIGHT, LOSING THE APARTMENT'S POWER DOES THAT.`
+- Page 6 clearly distinguishes after-midnight unit-power loss from ordinary room-light switching.
 - Page 7 south-wall panel stays closed and untouched.
 
-### Pages 8–9 — Nth Pixel Studio
-- Hyejin canonical PNG is mandatory before Page 8.
-- Page 8 Hyejin line is `I'M NOT EVEN GOING TO ASK.`
-- Page 9 uses simple reader-friendly wording: `CHANGE ONE THING AT A TIME.` and `AND DON'T START WITH THE THING THAT CAN BREAK EVERYTHING.`
+### Pages 8–9 — Narrated work jump
+- Page 8 exact caption: `LATER THAT DAY — NTH PIXEL STUDIO`.
+- The explicit cut covers Mrs. Na leaving and Nari commuting; do not imply same-moment teleportation.
+- Hyejin canonical PNG mandatory before Page 8.
+- Page 8 Hyejin line: `I'M NOT EVEN GOING TO ASK.`
+- Page 9: `CHANGE ONE THING AT A TIME.` / `AND DON'T START WITH THE THING THAT CAN BREAK EVERYTHING.`
 - Hyejin does not learn supernatural truth.
 
-### Pages 10–12 — Controlled light test
+### Pages 10–12 — Narrated return home / controlled light test
+- Page 10 exact caption: `LATER THAT NIGHT — UNIT 2407 — AFTER MIDNIGHT`.
+- The explicit cut covers commute home + wardrobe return + phone/notebook setup.
 - Unit 2407 supplied power remains ON.
 - Hallway lamp remains ON through Page 12.
-- Page 10 re-establishes Nari's phone **screen-down/dark on the kitchen counter** after she returns from work; it stays there through the test.
-- Page 10 uses only Nari's physical notebook as test record; **no switch tape, labels, markers, meters, or invented testing equipment**.
-- Page 10 notebook stays at dining table while Nari walks dining table → lower cabinet → kitchen switch; Panel 8 physically returns Nari to that same table.
-- Page 10 exact final line is `I'M LEAVING THE HALL LIGHT ON.`; obsolete `I'M LEAVING YOUR IMPORTANT LIGHT ON.` must not return.
-- Page 11 route is explicit and continuous: dining table → living-room switch → bedroom switch → dining-area switch → dining table.
-- Page 11 notebook remains on dining table during Panels 1–3 and is used only after Nari physically returns in Panel 4.
-- Page 12 begins at the same dining table. Notebook stays open on the table for the entire page; Nari never picks it up or approaches/touches the hallway switch.
+- Page 10 phone re-established screen-down/dark on kitchen counter and stays there through test.
+- Page 10 no switch tape/labels/markers/meters.
+- Page 10 notebook stays dining table while Nari walks table → cabinet → kitchen switch; Panel 8 returns Nari to table.
+- Page 10 final line: `I'M LEAVING THE HALL LIGHT ON.`
+- Page 11 route: table → living-room switch → bedroom switch → dining-area switch → table.
+- Page 11 notebook remains dining table during switch route.
+- Page 12 starts at same dining table; notebook open there entire page; Nari never approaches/touches hallway switch.
 - Hyun-woo never manifests physically.
 
-### Pages 13–16 — Hallway-light hostile-access proof
+### Pages 13–16 — Direct hostile-access proof
 - Page 13 hallway lamp switches itself OFF while supplied power remains ON.
-- Refrigerator and smart lock prove power remains present.
-- Nari and notebook remain at/near dining table on Page 13.
-- Phone remains screen-down/dark on the kitchen counter exactly where Page 10 established it. Nari never reaches for it.
-- Hostile fridge text exactly `VISUAL ACCESS: OPEN` / `YOON NARI` with broken-white/black-pixel signature.
-- Page 14 Nari physically walks from dining area to hallway switch with no phone/tablet/candle and restores hallway lamp.
-- Page 14 notebook stays dining table and phone stays kitchen counter throughout route.
-- Page 14 dark route remains readable through restrained matte city-window ambient light and tiny existing powered indicators only; no impossible pitch-black navigation and no cinematic lighting.
-- Unit 2407 never experiences a blackout on Pages 10–18.
-- Page 15 uses the final reader-friendly rule exchange: `THE POWER NEVER WENT OUT.` / `SO THE DARK ISN'T WHAT MAKES YOU PHYSICAL.` / `RIGHT.`
-- Page 16 uses `THROUGH THE DEVICES.` / `THE HALL LIGHT MAKES THAT HARDER.` / `NOT OVER THIS SPEAKER.`; do not restore `THROUGH THE SYSTEM.` or `DON'T NAME IT.`
-- Page 16 Nari may look toward the notebook on the dining table but does not retrieve it yet.
+- Refrigerator + smart lock prove power remains present.
+- Nari/notebook remain at dining table.
+- Phone remains dark kitchen counter; Nari never reaches for it.
+- Hostile fridge text exactly `VISUAL ACCESS: OPEN` / `YOON NARI`.
+- Page 14 Nari physically walks dining area → hallway switch with no phone/tablet/candle.
+- Page 14 notebook remains table; phone remains counter.
+- Page 14 route readable through restrained matte city/window ambient light and tiny existing powered indicators only; no impossible pitch-black navigation/cinematic lighting.
+- Unit 2407 never experiences blackout on Pages 10–18.
+- Page 15 final rule exchange: `THE POWER NEVER WENT OUT.` / `SO THE DARK ISN'T WHAT MAKES YOU PHYSICAL.` / `RIGHT.`
+- Page 16: `THROUGH THE DEVICES.` / `THE HALL LIGHT MAKES THAT HARDER.` / `NOT OVER THIS SPEAKER.`
+- Page 16 notebook remains table; Nari does not retrieve it yet.
 
-### Pages 17–18 — Restored writing light / paper rule log / south-wall cliffhanger
-- Page 17 begins with Nari physically walking from hallway toward dining area and restoring the dining-area light BEFORE she writes.
-- Hallway lamp stays on while dining-area light is restored; this is ordinary powered lighting, not a power-return beat.
-- Page 17 is exactly 7 panels.
-- Observation numbering is continuous across the story: Chapter 1 = `OBSERVATION 001`, Chapter 2 Page 2 = `OBSERVATION 002`, Page 17 = `OBSERVATION 003` and `OBSERVATION 004`.
-- Page 17 exact new observation text includes `WHEN THE LAST APARTMENT LIGHT WENT OUT, THE FRIDGE SCREEN ACTIVATED IMMEDIATELY.`
-- Page 17 exact separate-condition wording is `HYUN-WOO BECOMES PHYSICAL ONLY WHEN UNIT 2407 LOSES POWER.`
-- Page 18 carries both the hallway lamp and dining-area light steadily ON.
-- Page 18 Nari stays seated and never approaches/touches/opens south-wall panel.
-- `TIK` and `TIK... TIK...` source-align to the closed south-wall panel.
+### Pages 17–18 — Direct writing return / cliffhanger
+- Page 17 begins with physical hallway → dining-area switch → dining-table route.
+- Dining-area light restored BEFORE detailed writing; hallway lamp remains on.
+- Page 17 exactly 7 panels.
+- Observation numbering: Ch1 `001`, Ch2 P2 `002`, Ch2 P17 `003` and `004`.
+- Page 17 exact observation: `WHEN THE LAST APARTMENT LIGHT WENT OUT, THE FRIDGE SCREEN ACTIVATED IMMEDIATELY.`
+- Page 17 exact separate condition: `AFTER MIDNIGHT, HYUN-WOO BECOMES PHYSICAL ONLY WHEN UNIT 2407 LOSES POWER.`
+- Do NOT omit `AFTER MIDNIGHT`; daytime power-loss manifestation is not established as a proven rule.
+- Page 18 hallway lamp + dining-area light stay ON.
+- Page 18 Nari stays seated; south-wall panel never approached/touched/opened.
+- `TIK` and `TIK... TIK...` source-align only to closed south-wall panel.
 
 ## Object Ledger
 
-- Hallway lamp: on Pages 1–12; switches itself off Page 13; restored Page 14; remains on through Page 18.
-- Dining-area light: switched off Page 11; remains off Pages 12–16; physically restored Page 17; remains on Page 18.
-- TV: visibly unplugged; hostile-active Page 1 then dead.
-- Speaker-storage stockpot/towels/lid: same lower cabinet; cabinet closes Page 2, reopens Page 10 and remains open enough for later voice source.
-- Electrical binder: kitchen counter; visually referenced Pages 7 and 18; never relocated for composition.
-- Physical notebook: table early → work Pages 8–9 → re-established at dining table Page 10 → remains table during switch test/movement Pages 10–16 → used there Pages 17–18.
-- Phone: kitchen counter Pages 1–7; may travel naturally with Nari during the work time jump; Page 10 explicitly re-establishes it screen-down/dark on kitchen counter; it stays there Pages 10–18 and is never used in the hostile light test.
-- South-wall panel: closed and untouched throughout; sound only Page 18.
+- Hallway lamp: ON Pages 1–12; switches itself OFF P13; restored P14; ON P15–18.
+- Dining-area light: ON initially; switched OFF P11; remains OFF P12–16; physically restored P17; ON P18.
+- TV: unplugged and hostile-active P1 start → dead/unplugged thereafter.
+- Speaker stockpot/towels/lid: open cabinet P1–P2; cabinet closes P2; reopens P10; remains open enough for later voice source.
+- Electrical binder: kitchen counter throughout; referenced P7/P18.
+- Brass key: entry tray throughout unless later chapter explicitly moves it.
+- Practical knife: sheathed desk tray with failed flashlight/radio throughout.
+- Notebook: dining table P1–7 → carried during approved Page 8 cut to work → work P8–9 → re-established dining table P10 → remains table during P10–16 routes → used P17–18.
+- Phone: kitchen counter morning/home → may travel naturally during approved work cut → re-established screen-down/dark counter P10 → fixed counter P10–18.
+- Pantry inventory: five unopened noodle packets after overnight cleanup; do not duplicate/consume without script.
+- South-wall panel: closed/untouched throughout; sound only P18.
 
 ## Device Signature Guard
 
-Hyun-woo/helpful communication: clean voice or stable cyan-white when device text is explicitly scripted; no crawling black pixels.
+Hyun-woo/helpful communication: clean voice or stable cyan-white when device text explicitly scripted; no crawling black pixels.
 
-Hostile communication: broken/doubled stark-white glyphs, crawling black pixels/corruption.
+Hostile communication: broken/doubled stark-white glyphs + crawling black pixels/corruption.
 
 Never swap signatures.
 
 ## Power / Lighting Guard
 
-Chapter 2 is primarily a **powered-night rule demonstration**.
-
 - Pages 1–7: ordinary powered baseline.
 - Pages 8–9: normal office baseline.
-- Page 10: supplied power ON; kitchen light off; hallway lamp ON.
-- Page 11: ordinary room lights switched off one at a time; hallway lamp ON; supplied power ON.
-- Page 12: hallway lamp flickers but remains ON; supplied power ON.
-- Page 13: hallway lamp OFF but supplied power STILL ON.
-- Page 14: hallway lamp restored; supplied power never left.
-- Pages 15–16: hallway lamp ON; other test lights may still be off.
-- Page 17: dining-area light explicitly restored before notebook writing; hallway lamp stays ON.
-- Page 18: hallway lamp + dining-area light remain ON.
+- P10: supplied power ON; kitchen light OFF; hallway lamp ON.
+- P11: room lights switched OFF one at a time; hallway lamp ON; supply ON.
+- P12: hallway lamp flickers but remains ON; supply ON.
+- P13: hallway lamp OFF; supply STILL ON.
+- P14: hallway lamp restored; supply never left.
+- P15–16: hallway lamp ON; other test lights may remain off.
+- P17: dining-area light restored before writing; hallway lamp ON.
+- P18: hallway lamp + dining-area light ON.
 
 Do not depict a Chapter 2 blackout or physical Hyun-woo.
 
@@ -204,37 +259,35 @@ Do not depict a Chapter 2 blackout or physical Hyun-woo.
 
 Every Chapter 2 page must be **100% flat 2D human-drawn colored modern manga/manhwa**.
 
-Reject any page with:
-
+Reject:
 - glossy webtoon shine
-- cinematic or film-like lighting
-- semi-photorealism / photorealism
-- 3D/CG rendering
-- painterly or airbrushed treatment
-- soft gradient shading or cinematic color grading
-- mirror-like TV/refrigerator/window/floor reflections
+- cinematic/film lighting or color grading
+- semi-photoreal/photoreal
+- 3D/CG
+- painterly/airbrushed
+- soft gradient shading
+- mirror-like reflections
 - glass glare streaks
-- bloom, lens flare, rim light, halos, volumetric beams
+- bloom/lens flare/rim light/halos/volumetric beams
 - shiny plastic skin/hair/appliances/counters
-- wet-looking floors or counters
-- excessive electrical glow lighting the room
-- depth-of-field blur or over-rendered reflective effects
+- wet-looking floors/counters
+- excessive electrical glow lighting room
+- depth-of-field blur
+- over-rendered reflective effects
 
-Require clean ink, matte cel colors, solid blocks, adult proportions, readable backgrounds, nonreflective appliances, and at most restrained hard-edged cel shading.
+Require clean ink, matte cel colors, solid blocks, adult proportions, readable backgrounds, nonreflective appliances, restrained hard-edged cel shading.
 
 ## Reader-Friendly Dialogue Guard
 
-Reader-facing dialogue should remain conversational and understandable without engineering/QA expertise.
-
-- Production instructions may use technical continuity language; reader-facing speech should not gain extra jargon.
-- Keep the already reviewed workplace joke `OFFLINE BUILD.` because Hyejin immediately translates/corrects it in plain language.
-- Keep `MAINS-POWERED` only where it is the already-established exact safety-rule wording.
-- Do not reintroduce `ONE VARIABLE AT A TIME`, `CATASTROPHIC BRANCH IN PRODUCTION`, `THROUGH THE SYSTEM`, `DON'T NAME IT`, or `I'M LEAVING YOUR IMPORTANT LIGHT ON.`
+- Ordinary dialogue must remain understandable without QA/electrical expertise.
+- `OFFLINE BUILD.` allowed only as short character joke immediately corrected in plain language.
+- `MAINS-POWERED` allowed only as established exact safety-rule wording.
+- Do not reintroduce `ONE VARIABLE AT A TIME`, `CATASTROPHIC BRANCH IN PRODUCTION`, `THROUGH THE SYSTEM`, `DON'T NAME IT`, `I'M LEAVING YOUR IMPORTANT LIGHT ON.`, or Page 6 wording without `AFTER MIDNIGHT`.
 
 ## Post-Generation Approval Gate
 
-Before approving each page verify: exact panel count, circled markers, canonical identity, Hyejin canonical preflight where relevant, exact script/source/type, unambiguous callouts, environment geometry, wardrobe, object states, physical movement, no teleportation, correct power/lighting, correct device signature, unplugged-speaker limits, phone/notebook paths, no unscripted text/brands, fully flat matte human-drawn 2D style, reader-friendly dialogue, and spoiler boundary.
+Before approving each page verify: exact panel count, markers, canonical identity, required exact time/location caption or explicit direct-continuation status, Chapter 1 prop handoff, overnight cleanup boundary, wardrobe, movement route, object path, dialogue/SFX/device/notebook text, power/lighting, device signature, speaker limits, phone/notebook paths, no unscripted text/brands, flat matte 2D style, reader-friendly dialogue, spoiler boundary.
 
 ## Final Result
 
-**PASS — Chapter 2 documentation has zero known continuity/script/style issues after the third audit. Sequential image generation may begin, with one mandatory precondition: Hyejin's canonical PNG must be generated and approved before Page 8. Generated images are not pre-approved and must pass page-by-page review.**
+**PASS — the Chapter 2 documentation is internally aligned with Chapter 1 and with real-scenario movement/time logic. Only Pages 3, 8, and 10 may jump time/location, and each has an exact required narration caption. All other pages must remain physically continuous. Hyejin canonical PNG remains mandatory before Page 8. Generated images must still pass page-by-page QA.**
