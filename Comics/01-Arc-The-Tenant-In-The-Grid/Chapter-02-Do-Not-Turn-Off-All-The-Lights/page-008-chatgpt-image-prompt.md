@@ -12,31 +12,33 @@ READER-FACING TEXT LOCK — ABSOLUTE
 All narration/dialogue wording and panel/source assignments are final.
 
 IMPORTANT REFERENCES
-Use `../../../characters.md` and `../../style-guide.md`. This is a new location/time from Page 7.
+Use `../../../characters.md`, `../../style-guide.md`, and the approved canonical character references. This is a new location/time from Page 7.
 
 CANONICAL CHARACTER REFERENCE LOCK
-Attach `../../../Character-References/nari-canonical-flat2d.png`. Hyejin currently has no approved canonical PNG; construct her ONLY from `characters.md`: Korean woman 31, blunt shoulder-length copper bob, rectangular glasses, expressive eyebrows, oversized denim jacket with enamel pins, handheld-console phone case. Once this Page 8 is approved, it becomes Hyejin's immediate visual continuity reference for Page 9.
+Attach `../../../Character-References/nari-canonical-flat2d.png` and the APPROVED `../../../Character-References/hyejin-canonical-flat2d.png` created from `../../../Character-References/hyejin-canonical-flat2d-chatgpt-image-prompt.md`.
+If the approved Hyejin canonical PNG does not exist yet, STOP and create/QA-approve that canonical reference BEFORE generating Page 8. Do not invent Hyejin directly inside the story page as her first uncontrolled design.
+The canonical PNGs are absolute identity authority. For Hyejin preserve the same adult early-30s face, blunt shoulder-length copper bob, rectangular glasses, expressive eyebrows, realistic proportions, oversized denim jacket with generic enamel pins, and handheld-console-shaped phone case. No readable brands/logos on pins or phone case.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
-Flat matte 2D modern manhwa, clean ink, adult office-worker proportions, restrained hard-edge shadows. No glossy/cinematic/photoreal/3D/painterly/reflections/bloom.
+Use 100% flat 2D human-drawn modern manhwa with clean ink, matte cel colors, solid blocks, adult office-worker proportions, and restrained hard-edged shading. HARD BAN: glossy/cinematic/photoreal/3D/painterly rendering, mirror-like reflections, glass glare, bloom, rim light, lens flare, volumetric light, gradients, blur, wet/shiny surfaces, plastic shine, or over-rendering.
 
 ENVIRONMENT AND APPLIANCE MASTER LOCK
 Nth Pixel Studio: crowded modern mobile-game studio, cluttered desks, build monitors, snacks, bug boards, office equipment, normal coworkers in background. No fantasy office, luxury corporate boardroom, or branded logos.
 
 LIGHTING AND EXPOSURE LOCK
-Normal medium-bright office lighting, matte surfaces, no supernatural glow.
+Normal medium-bright office lighting, matte surfaces, no supernatural glow, cinematic grading, or reflective monitor glare.
 
 POWER AND SUPERNATURAL RULE LOCK
 No supernatural event occurs at work on this page.
 
 CHARACTER CONSISTENCY
-Nari in normal work outfit/creative-worker silhouette, tired but functional. Hyejin distinct from Nari: copper bob, rectangular glasses, denim jacket with pins.
+Nari in normal work outfit/creative-worker silhouette, tired but functional. Hyejin must match her approved canonical PNG exactly and remain visually distinct from Nari.
 
 SETTING AND PROP CONTINUITY
 Nari's stickered tablet/workstation nearby, but she deliberately writes in the same physical paper notebook used for Unit 2407 notes. Hyejin stops beside her desk.
 
 OBJECT SCALE AND SPATIAL LOGIC
-Notebook, tablet, monitors, phone remain realistic office scale.
+Notebook, tablet, monitors, and phone remain realistic office scale. Do not enlarge Hyejin's phone case or enamel pins for readability.
 
 CONTINUITY
 Nari takes Hyun-woo's paper-only warning seriously; Hyejin notices the unusual analog bug-report habit.
@@ -69,7 +71,7 @@ HYEJIN: YOU'RE WRITING BUG REPORTS ON PAPER NOW?
 PANEL 3 — Nari keeps writing, deadpan.
 NARI: OFFLINE BUILD.
 
-PANEL 4 — Hyejin gives her a technical-but-human skeptical look.
+PANEL 4 — Hyejin gives her a skeptical but grounded coworker look.
 HYEJIN: THAT'S NOT WHAT OFFLINE MEANS.
 
 PANEL 5 — Nari finally glances up.
@@ -88,7 +90,7 @@ STORY CLARITY
 Reader must understand Nari is using paper because digital records are unsafe, while Hyejin interprets it as strange work behavior.
 
 AVOID
-Avoid old line `I'M GOING TO PRETEND THAT ANSWER WAS NORMAL.`, supernatural office effects, teen designs, Nari/Hyejin look-alike drift, extra coworkers speaking, or corporate-logo clutter.
+Avoid generating Page 8 before Hyejin canonical PNG approval; old line `I'M GOING TO PRETEND THAT ANSWER WAS NORMAL.`; supernatural office effects; teen designs; Nari/Hyejin look-alike drift; branded enamel pins; readable console branding; extra coworkers speaking; glossy/cinematic/reflective rendering; or corporate-logo clutter.
 ```
 
 ## Locked Reader-Facing Text
@@ -106,4 +108,4 @@ Avoid old line `I'M GOING TO PRETEND THAT ANSWER WAS NORMAL.`, supernatural offi
 `1` through `6`.
 
 ## Production Thread Use
-Attach Nari canonical PNG and this prompt. After approval, use approved Page 8 as Hyejin identity/environment continuity for Page 9.
+Before Page 8 generation, create and QA-approve `Character-References/hyejin-canonical-flat2d.png` from the canonical Hyejin prompt. Then attach Nari canonical PNG, Hyejin canonical PNG, and this Page 8 prompt. After Page 8 approval, use approved Page 8 only as scene/wardrobe continuity for Page 9; it must never override either canonical identity.
