@@ -12,40 +12,56 @@ READER-FACING TEXT LOCK — ABSOLUTE
 All caption/dialogue/SFX wording, source, order, and panel assignment are immutable.
 
 IMPORTANT REFERENCES
-Use `../../../characters.md`, `../../style-guide.md`, approved Page 2 for apartment continuity.
+Use `../../../characters.md`, `../../style-guide.md`, and APPROVED Page 2 for apartment/object continuity.
 
 CANONICAL CHARACTER REFERENCE LOCK
 Attach `../../../Character-References/nari-canonical-flat2d.png` and `../../../Character-References/mrs-na-canonical-flat2d.png`. These are absolute identity references.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
-Clean flat 2D human-drawn matte cel manhwa, adult proportions, restrained hard-edge shadow. Ban glossy/cinematic/photoreal/3D/painterly/reflections/bloom/gradients.
+Use 100% flat 2D human-drawn matte cel manhwa with clean ink, solid color blocks, adult proportions, and restrained hard-edged shading. HARD BAN: glossy/cinematic/photoreal/3D/painterly rendering, mirror reflections, glare, bloom, rim light, gradients, blur, wet/shiny surfaces, or over-rendering.
 
 ENVIRONMENT AND APPLIANCE MASTER LOCK
-Morning Unit 2407 entry geometry must match Chapter 1 Page 2 and current apartment canon. Nari begins inside apartment. Mrs. Na begins outside corridor. Front door stays closed until Panel 4.
+Morning Unit 2407 entry geometry must match approved Page 2 and established apartment canon. Nari begins inside apartment. Mrs. Na begins outside corridor. Front door stays closed until Panel 4. Furniture/appliance geometry does not reset merely because time has passed.
+
+NARRATED OVERNIGHT RESET — REAL-SCENARIO RULE
+Page 3 is the FIRST intentional elapsed-time jump of Chapter 2. The large caption `THE NEXT MORNING — UNIT 2407` licenses normal off-panel overnight life between Page 2 and Page 3: Nari may sleep, perform ordinary hygiene, and clear/put away the previous night's meal-only clutter. This is NOT a magical same-moment cleanup because the time jump is explicitly narrated.
+
+At Page 3 start, the transient Chapter 1 dinner clutter is no longer required to remain visible: the noodle pot/trivet/folded cloth, empty spicy packet/wrapper, and extinguished candle/holder may have been put away during the overnight interval; the pushed-back chair may be returned to a normal usable position; the pantry may be closed. Do NOT invent a cleanup montage on Page 3.
+
+Persistent investigation/safety objects remain canonically traceable after the overnight cut:
+- TV remains DEAD and visibly unplugged.
+- lower cabinet remains CLOSED from Page 2 with the same speaker/stockpot/towels/lid setup inside.
+- electrical binder remains on kitchen counter.
+- brass backup key remains in entry tray.
+- practical knife remains safely sheathed in desk tray beside failed flashlight/radio.
+- physical notebook remains at the dining table unless later explicitly carried away during a narrated location/time cut.
+- Nari's phone remains on/near its established kitchen-counter home position during this morning visit unless naturally pocketed off-panel; do not show it activating supernaturally.
+- pantry inventory remains five unopened noodle packets even if pantry door is now closed.
+- hallway lamp remains ON from the overnight safety instruction through this Mrs. Na visit unless a later page explicitly switches it.
 
 LIGHTING AND EXPOSURE LOCK
-Normal morning powered baseline. No blackout palette or supernatural screen activation.
+Normal medium-bright morning powered baseline. Hallway lamp remains visibly/implicitly on from overnight. No blackout palette, supernatural screen activation, cinematic sunlight beams, glossy reflections, or screen-glow lighting.
 
 POWER AND SUPERNATURAL RULE LOCK
-No Hyun-woo manifestation or device communication on this page.
+No Hyun-woo manifestation or device communication on this page. Ordinary Unit 2407 supply is on.
 
 CHARACTER CONSISTENCY
-Nari: exhausted next-morning home appearance, canonical identity. Mrs. Na: mauve coat, silver twist, jade earrings, analog watch, handbag, physical key ring.
+Nari is exhausted the next morning and remains in the same established home-outfit continuity from Pages 1–2 unless the approved Page 2 itself clearly establishes another state. The overnight time jump does NOT authorize a random new fashion design. Mrs. Na: mauve coat, silver twist, jade earrings, analog watch, handbag, physical key ring.
 
 SETTING AND PROP CONTINUITY
-Page 2 ended with lower cabinet closed and hallway lamp left on overnight. Morning scene begins naturally afterward. Do not reopen cabinet or activate TV.
+Page 2 ended with lower cabinet closed and hallway lamp left on overnight. Morning scene begins after the explicitly narrated overnight interval. Keep the TV dead/unplugged and the cabinet closed. Preserve all persistent safety/investigation objects listed above. Ordinary meal cleanup is allowed only because the time jump is explicit.
 
 OBJECT SCALE AND SPATIAL LOGIC
-Show Nari walking from interior to door before opening it. No teleportation.
+Show Nari walking from interior to door before opening it. No teleportation. Door, corridor, handbag, key ring, watch, and apartment entry remain realistic scale.
 
 CONTINUITY
-Mrs. Na arrives because Nari left the Chapter 1 voicemail; Nari immediately confronts her with Hyun-woo's name.
+Mrs. Na arrives because Nari left the Chapter 1 voicemail; Nari immediately confronts her with Hyun-woo's name. The apartment is the same Unit 2407, now a few hours later rather than magically reset in the same moment.
 
 TIME AND SCENE CONTINUITY
-Meaningful time jump to morning.
+Meaningful overnight time jump from late-night Page 2 to morning Page 3. The caption is mandatory and is what makes off-panel sleep/ordinary cleanup/doorbell arrival a legitimate scenario change rather than a continuity jump.
 
 TIME TRANSITION CAPTION
-Panel 1 must contain a LARGE, noticeable in-panel caption: THE NEXT MORNING
+Panel 1 must contain a LARGE, noticeable in-panel caption: THE NEXT MORNING — UNIT 2407
 
 NARRATION CAPTION DESIGN
 Scene-adaptive high-contrast flat caption treatment; wording exact.
@@ -60,8 +76,8 @@ PANEL ORDER MARKERS
 Exactly one small circled marker `1`–`6` per panel.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 — Morning establishing panel inside powered Unit 2407. Nari visibly tired.
-LARGE CAPTION: THE NEXT MORNING
+PANEL 1 — Morning establishing panel inside the SAME powered Unit 2407. Nari visibly tired. The apartment may show normal overnight cleanup of meal-only clutter, but persistent canon objects remain in their locked locations and the hallway lamp remains on.
+LARGE CAPTION: THE NEXT MORNING — UNIT 2407
 
 PANEL 2 — Nari is still inside apartment when outside visitor rings. She only hears/reacts; she does NOT touch doorbell/intercom/lock controls.
 SFX: DING-DONG
@@ -85,17 +101,17 @@ TEXT AND LETTERING RULES
 Exact text only plus markers. Dialogue tails clearly point to correct speaker.
 
 STORY CLARITY
-Reader must understand Mrs. Na recognizes the name before saying anything further.
+Reader must understand a real overnight interval has passed, ordinary domestic cleanup can therefore have happened off-panel, the apartment itself and persistent evidence/safety props remain the same, and Mrs. Na recognizes Hyun-woo's name before saying anything further.
 
 AVOID
-Avoid Nari operating the doorbell, Mrs. Na already inside, missing walk-to-door bridge, extra greetings, dialogue changes, supernatural effects, identity drift, or tiny time caption.
+Avoid an uncaptioned morning jump, Nari operating the doorbell, Mrs. Na already inside, missing walk-to-door bridge, deleting persistent safety/evidence props, changing pantry inventory, random wardrobe redesign, extra greetings, dialogue changes, supernatural effects, identity drift, glossy/cinematic rendering, or tiny time caption.
 ```
 
 ## Locked Reader-Facing Text
 
 | PanelText | Type / Source | Text |
 |---|---|---|
-| 1 Time | Large narration caption | `THE NEXT MORNING` |
+| 1 Time/location | Large narration caption | `THE NEXT MORNING — UNIT 2407` |
 | 2 SFX | Doorbell outside apartment | `DING-DONG` |
 | 4 Mrs. Na | Spoken aloud | `YOU CALLED.` |
 | 5 Nari | Spoken aloud | `YOU KNOW HYUN-WOO.` |
@@ -104,4 +120,4 @@ Avoid Nari operating the doorbell, Mrs. Na already inside, missing walk-to-door 
 `1` through `6`.
 
 ## Production Thread Use
-Attach Nari + Mrs. Na canonical PNGs, this prompt, and approved Page 2 for interior continuity.
+Attach Nari + Mrs. Na canonical PNGs, this prompt, and APPROVED Page 2 for interior continuity.
