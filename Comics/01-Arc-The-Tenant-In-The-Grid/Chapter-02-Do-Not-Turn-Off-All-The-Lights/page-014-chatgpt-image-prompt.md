@@ -21,7 +21,7 @@ STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
 Use 100% flat 2D human-drawn modern manhwa with clean ink, matte cel colors, solid blocks, adult proportions, and restrained hard-edged shading. HARD BAN: glossy/cinematic/photoreal/3D/painterly rendering, mirror reflections, glass glare, bloom, rim light, lens flare, volumetric beams, gradients, blur, wet/shiny surfaces, plastic shine, or over-rendered reflections.
 
 ENVIRONMENT AND APPLIANCE MASTER LOCK
-Same Unit 2407 route from Nari's dining-table position to the established hallway wall switch. Refrigerator stays powered and hostile at page start. Smart-lock indicator remains powered. No appliance relocation. Nari's physical notebook remains on the dining table where she stopped writing and does not teleport with her.
+Same Unit 2407 route from Nari's dining-table position to the established hallway wall switch. Refrigerator stays powered and hostile at page start. Smart-lock indicator remains powered. No appliance relocation. Nari's physical notebook remains on the dining table where she stopped writing and does not teleport with her. Her phone remains dark on the kitchen counter where Page 13 left it.
 
 LIGHTING AND EXPOSURE LOCK
 Panels 1–2 are dark because the ordinary room lights are off, but Unit 2407 supply remains ON. Keep the route readable through restrained matte city-window ambient light and tiny existing powered-appliance indicators only; these do NOT count as the protective apartment light and must not become cinematic illumination. No phone flashlight, tablet light, candle, spotlight, bloom, or crushed-black exposure. Panel 3 hallway lamp returns with ordinary mains light. Panels 4–6 remain powered with the hallway area visibly lit.
@@ -30,13 +30,13 @@ POWER AND SUPERNATURAL RULE LOCK
 Unit supply never drops. Restoring the hallway lamp is only switching an ordinary light back on, not power restoration after blackout. Hyun-woo never manifests.
 
 CHARACTER CONSISTENCY
-Nari starts from the dining-table area established on Page 13 and physically walks the familiar apartment route to the switch. She leaves the notebook at the table, keeps her hands free for navigation/switch use, and uses no screen or flame.
+Nari starts from the dining-table area established on Page 13 and physically walks the familiar apartment route to the switch. She leaves the notebook at the table, leaves the phone untouched on the kitchen counter, keeps her hands free for navigation/switch use, and uses no screen or flame.
 
 SETTING AND PROP CONTINUITY
-Phone stays unused/dark. Notebook stays on dining table. Hallway switch fixed. Refrigerator hostile text from Page 13 breaks apart only after hallway lamp returns.
+Phone stays dark on kitchen counter. Notebook stays on dining table. Hallway switch fixed. Refrigerator hostile text from Page 13 breaks apart only after hallway lamp returns.
 
 OBJECT SCALE AND SPATIAL LOGIC
-Show Nari's continuous movement through the actual apartment route and her hand physically operating the switch. Use recognizable furniture/wall landmarks between Panels 1 and 2; no teleportation.
+Show Nari's continuous movement through the actual apartment route and her hand physically operating the switch. Use recognizable furniture/wall landmarks between Panels 1 and 2; no teleportation. Do not move the phone or notebook merely to fit a composition.
 
 CONTINUITY
 Hyun-woo ordered Nari to restore the hall light immediately; she obeys without using a phone, tablet, or candle.
@@ -57,10 +57,10 @@ PANEL ORDER MARKERS
 One small circled marker `1`–`6` per panel.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 — Exact continuation from Page 13. Nari rises/leaves the dining-table area and moves through the dark-but-powered apartment toward the hallway switch. Notebook stays on dining table. No phone flashlight, tablet, or candle. Use restrained ambient city/window light and tiny existing powered indicators only to keep her route readable.
+PANEL 1 — Exact continuation from Page 13. Nari rises/leaves the dining-table area and moves through the dark-but-powered apartment toward the hallway switch. Notebook stays on dining table. Phone stays dark on kitchen counter. No phone flashlight, tablet, or candle. Use restrained ambient city/window light and tiny existing powered indicators only to keep her route readable.
 No text.
 
-PANEL 2 — Continuous route from Panel 1. Nari reaches the established hallway wall switch physically; hand on switch, ready to restore lamp. Background landmarks must prove she walked there rather than teleported.
+PANEL 2 — Continuous route from Panel 1. Nari reaches the established hallway wall switch physically; hand on switch, ready to restore lamp. Background landmarks must prove she walked there rather than teleported. Phone and notebook remain in their fixed prior positions.
 No text.
 
 PANEL 3 — Nari switches hallway lamp ON. Ordinary mains light returns locally.
@@ -72,7 +72,7 @@ SFX: KZZT
 PANEL 5 — Black pixels collapse; refrigerator display returns to normal powered state with no hostile text.
 No text.
 
-PANEL 6 — Wider confirmation: hallway lamp steadily on; Unit 2407 supplied power never left; Hyun-woo remains physically absent. Nari catches her breath near the hallway. Notebook remains back at dining table.
+PANEL 6 — Wider confirmation: hallway lamp steadily on; Unit 2407 supplied power never left; Hyun-woo remains physically absent. Nari catches her breath near the hallway. Notebook remains back at dining table; phone remains dark on kitchen counter.
 No text.
 
 SFX AND TEXT BLENDING
@@ -82,10 +82,10 @@ TEXT AND LETTERING RULES
 No dialogue/narration/device text. Only exact SFX plus markers.
 
 STORY CLARITY
-Reader must understand Nari physically crosses the dark-but-powered apartment, restores one ordinary mains light, and suppresses the hostile screen access even though Unit 2407 never lost power.
+Reader must understand Nari physically crosses the dark-but-powered apartment, restores one ordinary mains light, and suppresses the hostile screen access even though Unit 2407 never lost power; her phone and notebook never move during this route.
 
 AVOID
-Avoid phone/tablet/candle use, impossible pitch-black navigation, actual power restoration sequence, physical Hyun-woo, blackout-to-powered transformation, notebook teleporting with Nari, residual hostile text after Panel 5, extra dialogue, glossy/cinematic effects, reflective surfaces, or teleportation.
+Avoid phone/tablet/candle use, phone moving into Nari's hand, impossible pitch-black navigation, actual power restoration sequence, physical Hyun-woo, blackout-to-powered transformation, notebook teleporting with Nari, residual hostile text after Panel 5, extra dialogue, glossy/cinematic effects, reflective surfaces, or teleportation.
 ```
 
 ## Locked Reader-Facing Text
