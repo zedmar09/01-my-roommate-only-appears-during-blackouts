@@ -12,37 +12,51 @@ READER-FACING TEXT LOCK — ABSOLUTE
 Every scripted notebook line and dialogue line is verbatim and locked to its panel/source/type.
 
 IMPORTANT REFERENCES
-Use `../../../characters.md`, `../../style-guide.md`, and approved Chapter 2 Page 1 as mandatory continuity reference.
+Use `../../../characters.md`, `../../style-guide.md`, and APPROVED Chapter 2 Page 1 as mandatory continuity reference.
 
 CANONICAL CHARACTER REFERENCE LOCK
 Attach `../../../Character-References/nari-canonical-flat2d.png`. Hyun-woo is voice-only/physically absent; do not draw or attach him as a visual character reference.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
-100% flat 2D human-drawn, clean ink, matte cel colors, adult proportions, restrained hard-edge shadow. No glossy/cinematic/photoreal/3D/painterly/reflections/bloom/gradients/glare.
+Use 100% flat 2D human-drawn modern manhwa with clean ink, matte cel colors, solid blocks, adult proportions, and restrained hard-edged shading. No glossy/cinematic/photoreal/3D/painterly rendering, reflections, glare, bloom, gradients, wet/shiny surfaces, or over-rendering.
 
 ENVIRONMENT AND APPLIANCE MASTER LOCK
-Same powered Unit 2407 geometry and exact Page 1 object positions. TV is now dead, matte black, and visibly unplugged. Lower cabinet starts open with stockpot/towels/unplugged speaker. Hallway lamp remains clearly on.
+Same powered Unit 2407 geometry and exact approved Page 1 object positions. TV is now dead, matte black, and visibly unplugged. Lower cabinet starts open with the same stockpot/two towels/propped lid/unplugged speaker arrangement. Hallway lamp remains clearly on.
+
+DIRECT-CONTINUATION PROP LOCK
+Page 2 is still the same uninterrupted late-night scene as Page 1. Until the script reaches the narrated Page 3 overnight cut, do NOT silently clean or reset the Chapter 1 ending setup. Preserve from approved Page 1:
+- brass backup key in entry tray
+- electrical binder on kitchen counter
+- phone on kitchen counter
+- sheathed practical knife plus failed flashlight/radio in desk tray
+- noodle pot/trivet/folded cloth at dining table
+- extinguished candle/holder at dining table
+- pushed-back Hyun-woo dining chair
+- empty spicy-seafood packet/seasoning wrapper
+- pantry slightly ajar with exactly five unopened noodle packets
+- physical notebook at dining table
+Only the cabinet state changes in Panel 6 when Nari deliberately closes it.
 
 LIGHTING AND EXPOSURE LOCK
-Normal supplied power stays on for all panels. Medium-bright neutral powered baseline. No flicker, blackout, candle, or emergency-light look.
+Normal supplied power stays on for all panels. Medium-bright neutral powered baseline. No flicker, blackout, candle lighting, emergency-light look, screen-glow room, or cinematic exposure.
 
 POWER AND SUPERNATURAL RULE LOCK
-Hyun-woo has no physical body while ordinary Unit 2407 power is on. His voice comes only through the unplugged speaker.
+Hyun-woo has no physical body while ordinary Unit 2407 power is on. His voice comes only through the unplugged speaker as brief weak intermittent bursts.
 
 CHARACTER CONSISTENCY
-Nari starts seated at the same dining-table chair, same outfit and tired state from Page 1.
+Nari starts seated at the same dining-table chair, same nighttime home outfit and tired state from Page 1. Do not invent a wardrobe change during this direct continuation.
 
 SETTING AND PROP CONTINUITY
-Physical notebook is open at Nari's table. Dead unplugged TV remains across living area. Open lower cabinet and speaker-storage setup remain unchanged until Panel 6, when Nari physically closes the cabinet after restoring towels/lid.
+Physical notebook is open at Nari's table. Dead unplugged TV remains across living area. Open lower cabinet and speaker-storage setup remain unchanged until Panel 6, when Nari physically replaces/settles the towels and lid over the same speaker setup and closes the cabinet. Every other direct-continuation prop remains where approved Page 1 left it.
 
 OBJECT SCALE AND SPATIAL LOGIC
-Show Nari walking from table to cabinet in Panel 6; do not teleport her. Keep stockpot, towels, lid, speaker at household scale.
+Show Nari walking from table to cabinet in Panel 6; do not teleport her. Keep stockpot, towels, lid, speaker, notebook, dinner props, and safety props at household scale.
 
 CONTINUITY
-Nari documents the hostile TV event on paper; Hyun-woo repeats the hallway-light rule; after his silence she closes the cabinet while leaving hallway lamp on.
+Nari documents the hostile TV event on paper; Hyun-woo repeats the hallway-light rule; after his silence she closes the cabinet while leaving hallway lamp on. This page does not contain enough elapsed time for unexplained cleanup.
 
 TIME AND SCENE CONTINUITY
-NO TIME CAPTION — direct continuation from Page 1.
+NO TIME CAPTION — direct continuation from Page 1. No cleanup montage, sleep cut, flashback, or wardrobe reset.
 
 NARRATION CAPTION DESIGN
 No narration.
@@ -57,7 +71,7 @@ PANEL ORDER MARKERS
 Exactly one small circled marker `1`–`6` in every panel.
 
 PAGE LAYOUT AND SCRIPT
-PANEL 1 — Same table position. Nari writes in the physical notebook. Dead unplugged TV may remain visible deeper in room.
+PANEL 1 — Same table position. Nari writes in the physical notebook. Dead unplugged TV may remain visible deeper in room; all other approved Page 1 objects remain fixed.
 NOTEBOOK, Nari handwriting: OBSERVATION 002:
 NOTEBOOK, next line: UNPLUGGED TV ACTIVATED WHILE UNIT POWER WAS ON.
 
@@ -71,10 +85,10 @@ HYUN-WOO, same speaker source: YES.
 PANEL 4 — Nari rubs eyes/bridge of nose, exhausted and dry. Hallway lamp remains on.
 NARI: YOU TWO REALLY NEED A GROUP CHAT.
 
-PANEL 5 — Hold silence. Nari waits; speaker gives no response. Cabinet still open.
+PANEL 5 — Hold silence. Nari waits; speaker gives no response. Cabinet still open. No other object changes.
 No text.
 
-PANEL 6 — Nari physically gets up, walks to lower cabinet, restores towels/lid over speaker setup, and closes cabinet. Hallway lamp stays on; TV remains dead/unplugged.
+PANEL 6 — Nari physically gets up, walks from the table to the lower cabinet, settles the same towels/lid over the speaker setup, and closes the cabinet. Hallway lamp stays on; TV remains dead/unplugged. All other Chapter 1 handoff props remain fixed through the end of this page.
 No text.
 
 SFX AND TEXT BLENDING
@@ -84,10 +98,10 @@ TEXT AND LETTERING RULES
 Use only exact text plus circled markers. Voice callouts point to speaker hardware. No invented labels.
 
 STORY CLARITY
-Reader must understand Nari records the event on paper and follows the instruction to keep the hallway lamp on while Hyun-woo falls silent.
+Reader must understand Nari records the event on paper, follows the instruction to keep the hallway lamp on, and only closes the speaker cabinet; the rest of the Chapter 1 ending environment has not magically reset yet.
 
 AVOID
-Avoid physical Hyun-woo, altered notebook wording, closing cabinet before Panel 6, hallway lamp off, TV active again, teleportation, extra dialogue/SFX/narration, or object resets.
+Avoid physical Hyun-woo, altered notebook wording, closing cabinet before Panel 6, hallway lamp off, TV active again, silent cleanup of dinner/safety props, teleportation, extra dialogue/SFX/narration, or object resets.
 ```
 
 ## Locked Reader-Facing Text
@@ -105,4 +119,4 @@ Avoid physical Hyun-woo, altered notebook wording, closing cabinet before Panel 
 `1` through `6`.
 
 ## Production Thread Use
-Attach Nari canonical PNG, this prompt, and approved Page 1. Approve Page 2 before using it for Page 3.
+Attach Nari canonical PNG, this prompt, and APPROVED Page 1. Approve Page 2 before using it for Page 3.
