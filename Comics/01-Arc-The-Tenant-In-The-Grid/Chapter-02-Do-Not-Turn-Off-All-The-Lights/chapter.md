@@ -49,7 +49,7 @@ OBSERVATION 002:
 UNPLUGGED TV ACTIVATED WHILE UNIT POWER WAS ON.
 ```
 
-Hyun-woo speaks through the unplugged speaker.
+Hyun-woo speaks in another brief weak burst through the unplugged speaker.
 
 "Keep the hallway light on until morning."
 
@@ -261,11 +261,11 @@ Later that night — after midnight.
 
 Unit 2407 remains normally powered. The hallway lamp is clearly on.
 
-Nari has her physical notebook ready and small removable markers near several ordinary light switches.
+Nari has only her physical notebook ready for the test; she does not add tape labels, switch markers, or technical testing equipment.
 
 She physically opens the lower cabinet and exposes the unplugged speaker enough for it to be audible.
 
-Hyun-woo's weak voice comes through.
+Hyun-woo's weak voice comes through in short intermittent bursts.
 
 "What are you doing?"
 
@@ -312,7 +312,7 @@ UNIT POWER: ON.
 HYUN-WOO: NOT PHYSICAL.
 ```
 
-Hyun-woo asks through the speaker:
+Hyun-woo asks in a brief voice burst through the unplugged speaker:
 
 "Disappointed?"
 
@@ -358,6 +358,8 @@ The hallway lamp switches off by itself.
 
 Now every ordinary room light Nari had been using is dark, but Unit 2407 still has supplied power. The refrigerator hum continues. The smart-lock indicator remains powered. Hyun-woo does not physically appear.
 
+Nari remains at/near the dining table. Her physical notebook stays open on the table.
+
 The refrigerator display activates with the hostile broken-white/black-pixel signature:
 
 ```text
@@ -377,9 +379,9 @@ Hyun-woo's voice comes urgently through the unplugged speaker.
 
 ### Page 14
 
-Nari physically moves through the dark-but-powered apartment toward the established hallway wall switch.
+Nari leaves the notebook on the dining table and physically moves from the dining area through the dark-but-powered apartment toward the established hallway wall switch.
 
-No phone flashlight. No tablet. No candle.
+The route remains readable through restrained city-window ambient light and tiny existing powered indicators. She uses no phone flashlight, tablet, or candle.
 
 She reaches the switch and turns the hallway lamp back on.
 
@@ -407,13 +409,13 @@ Nari stands near the restored hallway light and looks toward the lower cabinet.
 
 "And you didn't appear."
 
-"No."
+"The power never went out."
 
-Nari states the result.
+Nari states the clearer result.
 
-"So turning off the lights doesn't make you physical."
+"So the dark isn't what makes you physical."
 
-"No."
+"Right."
 
 She looks toward the now-normal refrigerator.
 
@@ -427,21 +429,21 @@ Hyun-woo is quiet for a beat.
 
 ### Page 16
 
-Nari remains near the hallway.
+Nari remains near the hallway. Her physical notebook is still back on the dining table.
 
 "See me how?"
 
-Hyun-woo answers through the speaker.
+Hyun-woo answers through the unplugged speaker in short, weak bursts.
 
-"Through the system."
+"Through the devices."
 
-"The light makes that harder."
+"The hall light makes that harder."
 
 "What is it?"
 
 A pause.
 
-"Don't name it."
+"Not over this speaker."
 
 Nari looks genuinely annoyed.
 
@@ -449,7 +451,7 @@ Nari looks genuinely annoyed.
 
 "Make an exception."
 
-Nari looks down at her paper notebook.
+Nari looks toward her paper notebook on the dining table without moving there yet.
 
 "You're very difficult to document."
 
@@ -461,33 +463,37 @@ Hyun-woo answers dryly.
 
 ### Page 17
 
-Nari physically returns to the dining table. The hallway lamp remains visibly on in the background.
+Nari physically walks from the hallway area toward the dining area. Before sitting down, she turns the dining-area light back on. The hallway lamp remains on.
 
-She writes carefully in the physical notebook:
+She then continues to the dining table, sits, and opens the same physical notebook under normal apartment light.
+
+She writes carefully:
 
 ```text
 UNIT 2407 — BUG REPORT
 
-OBSERVATION 002:
+OBSERVATION 003:
 TURNING OFF ROOM LIGHTS DID NOT MAKE HYUN-WOO PHYSICAL.
 
-OBSERVATION 003:
-WHEN THE LAST MAINS LIGHT WENT OUT, HOSTILE DEVICE ACTIVITY INCREASED IMMEDIATELY.
+OBSERVATION 004:
+WHEN THE LAST APARTMENT LIGHT WENT OUT, THE FRIDGE SCREEN ACTIVATED IMMEDIATELY.
 
 CURRENT RULE:
 KEEP ONE MAINS-POWERED LIGHT ON AFTER MIDNIGHT.
 
 SEPARATE CONDITION:
-LOSS OF UNIT POWER = HYUN-WOO PHYSICAL.
+HYUN-WOO BECOMES PHYSICAL ONLY WHEN UNIT 2407 LOSES POWER.
 ```
 
 She underlines `SEPARATE`.
+
+The numbering is continuous: Chapter 1 ended with `OBSERVATION 001`, and Chapter 2 Page 2 already recorded `OBSERVATION 002`.
 
 ---
 
 ### Page 18
 
-Quiet apartment. Normal supplied power. Hallway lamp on.
+Quiet apartment. Normal supplied power. Hallway lamp and dining-area light both on.
 
 Nari is still seated at the dining table with the physical notebook open. The lower cabinet remains open enough for Hyun-woo's voice to reach her. The electrical binder remains on the kitchen counter.
 
@@ -509,7 +515,7 @@ Another sound comes from behind the same closed panel.
 
 TIK... TIK...
 
-The hallway lamp remains steadily on.
+The hallway lamp and dining-area light remain steadily on.
 
 Nari looks from the closed panel to the electrical binder on the kitchen counter and back to the panel.
 
