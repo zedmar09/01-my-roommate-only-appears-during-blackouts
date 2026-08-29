@@ -10,6 +10,8 @@ This `chapter.md` is synchronized to the Chapter 2 production prompts `page-001-
 
 Chapter 2 contains **18 story pages total**. The page prompts are production authority for panel blocking, object/subject positions, panel counts, movement, lighting, SFX source, and image-generation continuity. This file is the master story/dialogue continuity authority.
 
+Before generating Page 8, create and QA-approve `Character-References/hyejin-canonical-flat2d.png` from `Character-References/hyejin-canonical-flat2d-chatgpt-image-prompt.md`. Page 8 must not invent Hyejin's first uncontrolled visual design.
+
 ## Story Draft
 
 ### Page 01
@@ -205,7 +207,7 @@ Neither woman touches or opens the south-wall panel.
 
 Later that day at Nth Pixel Studio, Nari sits at her workstation with her normal tablet nearby, but writes in the physical paper notebook.
 
-Koo Hyejin, the QA lead, stops beside her desk.
+Koo Hyejin, the QA lead, stops beside her desk. Her approved canonical design is used: blunt shoulder-length copper bob, rectangular glasses, expressive eyebrows, oversized denim jacket with generic enamel pins, and a handheld-console-shaped phone case with no readable brand/logo.
 
 "You're writing bug reports on paper now?"
 
@@ -229,7 +231,7 @@ Hyejin studies her.
 
 ### Page 09
 
-Hyejin remains beside the workstation.
+Hyejin remains beside the workstation, matching the same approved canonical identity and Page 8 wardrobe/environment continuity.
 
 Nari tries to make the question sound hypothetical.
 
@@ -261,15 +263,15 @@ Later that night — after midnight.
 
 Unit 2407 remains normally powered. The hallway lamp is clearly on.
 
-Nari has only her physical notebook ready for the test; she does not add tape labels, switch markers, or technical testing equipment.
+Nari establishes the physical notebook at the dining table as her fixed test-record position. She does not add tape labels, switch markers, or technical testing equipment.
 
-She physically opens the lower cabinet and exposes the unplugged speaker enough for it to be audible.
+She physically walks from the dining table to the lower cabinet, opens it, and exposes the unplugged speaker enough for it to be audible. The notebook stays on the dining table.
 
 Hyun-woo's weak voice comes through in short intermittent bursts.
 
 "What are you doing?"
 
-Nari walks to the kitchen light switch and switches off only the kitchen light.
+Nari walks from the cabinet to the kitchen light switch and switches off only the kitchen light.
 
 CLICK.
 
@@ -285,11 +287,11 @@ Hyun-woo understands.
 
 Nari looks toward the hallway lamp.
 
-"I'm leaving your important light on."
+"I'm leaving the hall light on."
 
 "That doesn't make this a good idea."
 
-Nari writes in the notebook.
+Nari physically returns to the same dining table and writes in the notebook.
 
 "It makes it a controlled bad idea."
 
@@ -297,13 +299,13 @@ Nari writes in the notebook.
 
 ### Page 11
 
-Nari continues carefully.
+Nari begins at the dining table where Page 10 ended. The physical notebook remains on that table while she checks the remaining room lights.
 
-She switches off the living-room light, then the bedroom light, then the dining-area light. The apartment still has normal supplied power. Refrigerator, smart lock, and outlets remain powered.
+She physically walks to the living-room switch and turns the living-room light off. From there she continues through the established apartment route to the bedroom switch and turns the bedroom light off. She then returns toward the dining area and turns the dining-area light off.
 
-Only the hallway lamp remains intentionally on among the ordinary room lights.
+The apartment still has normal supplied power. Refrigerator, smart lock, and outlets remain powered. Only the hallway lamp remains intentionally on among the ordinary room lights.
 
-Hyun-woo does not become physical.
+Nari physically returns to the same dining table and notebook. Hyun-woo does not become physical.
 
 Nari writes:
 
@@ -316,7 +318,7 @@ Hyun-woo asks in a brief voice burst through the unplugged speaker:
 
 "Disappointed?"
 
-Nari looks toward the cabinet.
+Nari remains at the dining table and looks toward the cabinet.
 
 "Relieved."
 
@@ -332,7 +334,7 @@ The hallway lamp gives one restrained flicker.
 
 FZZT.
 
-Nari immediately stops writing.
+Nari immediately stops writing at the dining table.
 
 Hyun-woo's voice becomes sharper.
 
@@ -358,7 +360,7 @@ The hallway lamp switches off by itself.
 
 Now every ordinary room light Nari had been using is dark, but Unit 2407 still has supplied power. The refrigerator hum continues. The smart-lock indicator remains powered. Hyun-woo does not physically appear.
 
-Nari remains at/near the dining table. Her physical notebook stays open on the table.
+Nari remains at/near the dining table. Her physical notebook stays open on the table. Her phone remains dark on the kitchen counter in its established position; she does not reach for it or move it.
 
 The refrigerator display activates with the hostile broken-white/black-pixel signature:
 
@@ -367,7 +369,7 @@ VISUAL ACCESS: OPEN
 YOON NARI
 ```
 
-Nari freezes and keeps her phone dark.
+Nari freezes.
 
 Hyun-woo's voice comes urgently through the unplugged speaker.
 
@@ -379,7 +381,7 @@ Hyun-woo's voice comes urgently through the unplugged speaker.
 
 ### Page 14
 
-Nari leaves the notebook on the dining table and physically moves from the dining area through the dark-but-powered apartment toward the established hallway wall switch.
+Nari leaves the notebook on the dining table and the phone dark on the kitchen counter. She physically moves from the dining area through the dark-but-powered apartment toward the established hallway wall switch.
 
 The route remains readable through restrained city-window ambient light and tiny existing powered indicators. She uses no phone flashlight, tablet, or candle.
 
@@ -395,7 +397,7 @@ KZZT.
 
 The black pixels collapse and the refrigerator display returns to normal.
 
-Unit 2407 never lost supplied power. Hyun-woo never manifested physically.
+Unit 2407 never lost supplied power. Hyun-woo never manifested physically. The phone and notebook remain where Nari left them.
 
 ---
 
