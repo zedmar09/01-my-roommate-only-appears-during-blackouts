@@ -18,22 +18,22 @@ CANONICAL CHARACTER REFERENCE LOCK
 Attach Nari canonical PNG. Hyun-woo remains voice-only/physically absent; do not draw or attach him visually.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
-Flat matte 2D modern manhwa, clean ink, adult proportions. No glossy/cinematic/photoreal/3D/painterly/reflections/bloom.
+Use 100% flat 2D human-drawn modern manhwa with clean ink, matte cel colors, solid blocks, adult proportions, and restrained hard-edged shading. No glossy/cinematic/photoreal/3D/painterly rendering, reflections, bloom, rim light, lens flare, gradients, glare, wet/shiny surfaces, or over-rendering.
 
 ENVIRONMENT AND APPLIANCE MASTER LOCK
-Same powered Unit 2407 near hallway. Hallway lamp now steadily on. Refrigerator display normal. Lower cabinet/speaker remains voice source.
+Same powered Unit 2407 near hallway. Hallway lamp now steadily on. Refrigerator display normal. Lower cabinet/speaker remains voice source. Nari's physical notebook remains on the dining table where she left it.
 
 LIGHTING AND EXPOSURE LOCK
-Normal localized hallway mains light with supplied power on. Do not return to blackout palette.
+Normal localized hallway mains light with supplied power on. Do not return to blackout palette. Other room lights may still be off from the test, but powered appliance indicators and stable hallway light make the powered state obvious.
 
 POWER AND SUPERNATURAL RULE LOCK
-This page verbally confirms: the event was not a blackout; darkness alone did not manifest Hyun-woo; hostile activity increased when the last ordinary room light went out.
+This page confirms in simple reader-facing language: the event was not a blackout; Unit 2407 power never went out; darkness alone did not manifest Hyun-woo; hostile activity increased when the last ordinary room light went out. Hyun-woo's unplugged-speaker voice remains weak/intermittent short bursts, never a loud continuous powered conversation.
 
 CHARACTER CONSISTENCY
-Nari stays near restored hallway light, processing results.
+Nari stays near restored hallway light, processing results. Hyun-woo remains concise, dry, and corrective through voice only.
 
 SETTING AND PROP CONTINUITY
-Do not move Nari directly to table yet; Page 16 still begins near hallway.
+Do not move Nari directly to table yet; Page 16 still begins near hallway. Notebook stays at dining table.
 
 OBJECT SCALE AND SPATIAL LOGIC
 Stable geography, no movement reset.
@@ -61,15 +61,15 @@ PANEL 1 — Nari beneath/near restored hallway light, looking toward cabinet.
 NARI: THAT WASN'T A BLACKOUT.
 HYUN-WOO, voice through speaker: NO.
 
-PANEL 2 — Nari keeps reasoning aloud.
+PANEL 2 — Nari keeps reasoning aloud. Hyun-woo gives the simple reason he did not appear.
 NARI: AND YOU DIDN'T APPEAR.
-HYUN-WOO: NO.
+HYUN-WOO: THE POWER NEVER WENT OUT.
 
-PANEL 3 — Nari states conclusion.
-NARI: SO TURNING OFF THE LIGHTS DOESN'T MAKE YOU PHYSICAL.
+PANEL 3 — Nari states the clearer conclusion.
+NARI: SO THE DARK ISN'T WHAT MAKES YOU PHYSICAL.
 
 PANEL 4 — Hyun-woo confirms, still voice-only.
-HYUN-WOO: NO.
+HYUN-WOO: RIGHT.
 
 PANEL 5 — Nari looks toward now-normal refrigerator.
 NARI: BUT IT MADE THAT THING STRONGER.
@@ -81,13 +81,13 @@ SFX AND TEXT BLENDING
 No SFX.
 
 TEXT AND LETTERING RULES
-Exact dialogue only plus markers. Hyun-woo callouts must remain speaker-sourced.
+Exact dialogue only plus markers. Hyun-woo callouts must remain speaker-sourced. Keep the exchange conversational; do not add explanatory captions.
 
 STORY CLARITY
-Reader must understand darkness did not create Hyun-woo's body but did make Nari more visible to the hostile system.
+Reader must understand Unit 2407 never lost power, darkness did not create Hyun-woo's body, and the darkness instead made Nari easier for the hostile system to access.
 
 AVOID
-Avoid physical Hyun-woo, implying blackout occurred, hostile fridge text returning, dialogue paraphrase, or extra explanation.
+Avoid the old repetitive three-`NO.` exchange, physical Hyun-woo, implying blackout occurred, hostile fridge text returning, technical exposition, dialogue paraphrase, glossy/cinematic effects, or extra explanation.
 ```
 
 ## Locked Reader-Facing Text
@@ -97,9 +97,9 @@ Avoid physical Hyun-woo, implying blackout occurred, hostile fridge text returni
 | 1 Nari | Spoken | `THAT WASN'T A BLACKOUT.` |
 | 1 Hyun-woo | Voice | `NO.` |
 | 2 Nari | Spoken | `AND YOU DIDN'T APPEAR.` |
-| 2 Hyun-woo | Voice | `NO.` |
-| 3 Nari | Spoken | `SO TURNING OFF THE LIGHTS DOESN'T MAKE YOU PHYSICAL.` |
-| 4 Hyun-woo | Voice | `NO.` |
+| 2 Hyun-woo | Voice | `THE POWER NEVER WENT OUT.` |
+| 3 Nari | Spoken | `SO THE DARK ISN'T WHAT MAKES YOU PHYSICAL.` |
+| 4 Hyun-woo | Voice | `RIGHT.` |
 | 5 Nari | Spoken | `BUT IT MADE THAT THING STRONGER.` |
 | 6 Hyun-woo | Voice | `IT MADE YOU EASIER TO SEE.` |
 
