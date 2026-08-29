@@ -12,31 +12,31 @@ READER-FACING TEXT LOCK — ABSOLUTE
 Five spoken lines are exact and panel/source locked.
 
 IMPORTANT REFERENCES
-Use `../../../characters.md`, `../../style-guide.md`, and approved Page 8 as mandatory Nth Pixel Studio + Hyejin continuity.
+Use `../../../characters.md`, `../../style-guide.md`, approved canonical character PNGs, and approved Page 8 as mandatory Nth Pixel Studio scene/wardrobe continuity.
 
 CANONICAL CHARACTER REFERENCE LOCK
-Attach Nari canonical PNG. Use approved Page 8 as the visual authority for Hyejin's copper bob, glasses, denim jacket, pins, and body proportions; do not redesign her.
+Attach `../../../Character-References/nari-canonical-flat2d.png` and the APPROVED `../../../Character-References/hyejin-canonical-flat2d.png`. Canonical PNGs control identity absolutely. Approved Page 8 controls Hyejin's current pose/wardrobe/environment continuity only and may not redesign her face, copper bob, glasses, age, proportions, or persistent identifiers.
 
 STYLE TARGET - COLORED FLAT 2D MODERN MANGA/MANHWA
-Flat matte 2D modern manhwa, clean ink, adult proportions. Ban glossy/cinematic/photoreal/3D/painterly/reflections/bloom.
+Use 100% flat 2D human-drawn modern manhwa with clean ink, matte cel colors, solid blocks, adult proportions, and restrained hard-edged shading. HARD BAN: glossy/cinematic/photoreal/3D/painterly rendering, reflections, bloom, rim light, lens flare, gradients, glare, wet/shiny surfaces, or over-rendering.
 
 ENVIRONMENT AND APPLIANCE MASTER LOCK
-Same workstation, desk clutter, notebook, tablet, and Nth Pixel Studio geography from Page 8.
+Same workstation, desk clutter, notebook, tablet, and Nth Pixel Studio geography from approved Page 8.
 
 LIGHTING AND EXPOSURE LOCK
-Normal office lighting. No supernatural effects.
+Normal office lighting. No supernatural effects, cinematic grading, or reflective monitor glare.
 
 POWER AND SUPERNATURAL RULE LOCK
 No supernatural event.
 
 CHARACTER CONSISTENCY
-Nari tries to sound hypothetical; Hyejin responds with simple common-sense testing advice, not dense technical jargon.
+Nari tries to sound hypothetical; Hyejin responds with simple common-sense testing advice, not dense technical jargon. Both characters must retain their canonical adult identities.
 
 SETTING AND PROP CONTINUITY
 Hyejin remains beside Nari's workstation. Nari still has the physical notebook open until Panel 6, when she closes it.
 
 OBJECT SCALE AND SPATIAL LOGIC
-No character or desk reset between pages.
+No character or desk reset between pages. Notebook and workstation remain realistic scale.
 
 CONTINUITY
 Page 8's awkward paper discussion flows directly into Nari asking a disguised testing question.
@@ -84,7 +84,7 @@ STORY CLARITY
 Reader must understand Nari takes away a simple rule: change one thing at a time and do not begin with the most dangerous test.
 
 AVOID
-Avoid technical QA jargon, extra explanation, supernatural reveal to Hyejin, Hyejin identity drift, office reset, or added dialogue.
+Avoid technical QA jargon, extra explanation, supernatural reveal to Hyejin, Hyejin identity drift, Nari/Hyejin look-alike drift, office reset, glossy/cinematic/reflective rendering, or added dialogue.
 ```
 
 ## Locked Reader-Facing Text
@@ -101,4 +101,4 @@ Avoid technical QA jargon, extra explanation, supernatural reveal to Hyejin, Hye
 `1` through `6`.
 
 ## Production Thread Use
-Attach Nari canonical PNG, this prompt, approved Page 8.
+Attach Nari canonical PNG, Hyejin canonical PNG, this prompt, and approved Page 8. Approved Page 8 is secondary scene/wardrobe continuity only; canonical PNGs remain identity authority.
