@@ -1,127 +1,90 @@
-# Manhwa Style Guide — Continuous Scroll Edition
+# Manhwa Style Guide
 
 ## Core Target
 
-Create an original polished **full-color Korean webtoon/manhwa** presentation designed for one continuous phone scroll.
+Polished full-color 2D Korean-webtoon/manhwa presentation with original series identity.
 
-The manhwa version may be more rendered and atmospheric than the existing `Comics/` flat-page production, but it must remain clearly 2D illustrated and must preserve the canonical character designs.
+This pipeline may be richer and more atmospheric than the existing flat comic-page version, but it must remain clearly illustrated and must preserve the approved canonical character designs.
 
-## Character Rendering
+## Characters
 
-- canonical PNGs are absolute identity authority
-- preserve adult ages, builds, proportions, hairstyles, beauty marks, masks, tattoos, glasses, and recurring accessories
-- use confident clean linework with controlled variation
-- use 2–3 shadow/value steps plus restrained ambient fill where useful
-- hair may have grouped strand detail and localized matte highlights, but no plastic/glossy shine
-- skin remains matte and natural
-- clothing shows believable folds and fabric weight without photoreal texture mapping
-- hands must be deliberate and readable because the story relies on keys, switches, knives, notebooks, plugs, phone, speaker, TV, and refrigerator
+Canonical PNGs are absolute identity authority.
 
-## Environment Rendering
-
-Unit 2407 must feel like one repeatable real apartment throughout the chapter.
-
-Lock:
-- front door / entry tray / hallway
-- living room / TV console
-- dining table and chair relationships
-- kitchen counter / refrigerator / pantry
-- lower speaker cabinet
-- work desk
-- south-wall panel
-
-Use detailed establishing backgrounds, then simplify only after geography is clear. Do not redesign the apartment for composition convenience.
-
-## Surface / Material Treatment
-
-Use:
-- matte painted walls
-- readable wood grain without glossy reflections
-- restrained brushed metal
-- controlled glass values
-- fabric texture through line/fold/color rather than photo texture
-- rain and candlelight only where story requires
+Require:
+- adult proportions
+- clean confident linework
+- expressive face/hands
+- controlled 2–3 value cel/soft-cel shading
+- matte skin and hair
+- readable fabric folds
+- stable height/build relationships
 
 Reject:
-- photorealism
-- 3D/CG-render appearance
-- mirror-like counters/appliances
-- beauty-ad skin/hair shine
-- bloom around ordinary lamps
-- lens flare
-- giant volumetric rays
-- heavy depth-of-field blur
-- wet-looking indoor surfaces
-- painterly faces that lose line definition
+- photoreal faces
+- 3D/CG rendering
+- plastic/glossy skin or hair
+- beauty-ad shine
+- heavy airbrush painting that loses line definition
 
-## Lighting Language
+## Environment
 
-### Normal apartment / daytime
-Clear neutral-warm practical lighting, diffuse daylight where appropriate, readable room depth.
+Unit 2407 must remain one coherent real apartment.
 
-### Powered night
-Cooler exterior ambience plus warm-neutral practical fixtures; do not make every scene cinematic blue/orange.
+Keep stable:
+- entry/foyer route
+- TV/living relationship
+- dining table/chairs
+- kitchen/refrigerator
+- lower speaker cabinet
+- hallway lamp
+- work desk
+- pantry
+- south-wall relationship where relevant
 
-### Blackout candle
-Small warm local candle source; deep navy/charcoal environment. Candle should not flood the entire apartment orange.
+Establishing panels may be detailed. Dialogue close-ups may simplify backgrounds only after geography is clear.
 
-### Full outage darkness
-Use silhouette separation and story-authorized ambient information only. Do not invent powered indicators during the actual Chapter 1 outage.
+## Materials
+
+Prefer matte differentiated materials: painted wall, brushed metal, muted wood, cloth, ordinary glass.
+
+Avoid mirror-like TV/fridge/counters/windows, wet-looking floors, excessive glass glare, bloom, lens flare, gratuitous rim light, or cinematic depth-of-field blur.
+
+## Lighting
+
+Powered apartment: neutral-warm practical light with readable walls/furniture.
+
+Day: diffuse daylight plus practical fill.
+
+Rain/lobby: grounded wet-weather atmosphere without glossy film lighting.
+
+Actual blackout at the Chapter 1 ending: transition surrounding reader space toward charcoal/black; do not invent powered interior indicators.
 
 ## Supernatural Signatures
 
-### Hyun-woo / helpful communication
-- clean cyan-white device text
-- stable, crisp edges
-- minimal electrical accent
+Helpful/Hyun-woo communication:
+- clean stable cyan-white device text
 - no crawling black pixels
-- unplugged speaker remains physically ordinary when voice-only
+- restrained electrical accent
 
-### Hostile system
-- broken/doubled stark-white glyphs
+Hostile communication:
+- stark broken/doubled white glyphs
 - crawling black pixel fragments
-- horizontal tearing/missing blocks used selectively
-- corruption may break the display edge for emphasis
-- no clean cyan styling
-- no neon glow flooding the room
+- corrupted screen edges
+- never clean cyan styling
 
-## Continuous-Scroll Composition
+Do not flood the entire room with neon glitch glow.
 
-The artwork is not organized as printed pages.
+## Composition
 
 Use:
-- full-width borderless establishing/reveal art
-- centered 70–90% width dialogue panels
-- narrow clue inserts only when useful
-- tall vertical reveal compositions
-- overlapping/edge-breaking SFX when motivated
-- large vertical negative space before horror reveals
+- full-width establishing/reveal art
+- centered 70–90% width dialogue art
+- narrow inserts for plugs, notes, keys, watches, device clues
+- tall portrait/reveal compositions
+- borderless art where useful
 
-Do not use:
-- six-panel page grids
-- identical panel heights
-- mechanical equal gutters
-- circled reading-order numbers
-- page footer/header repetitions
+Avoid a printed-page grid and avoid equal-size boxes repeated down the strip.
 
-## Character Introduction Space
+## Final Rejection Gate
 
-- Nari: grounded, practical, observant, tired contemporary worker
-- Mrs. Na: composed, guarded landlord
-- Seungjae: warm/ordinary coworker, never visually sinister
-- Hyun-woo: physical introduction delayed; broad silhouette first, then controlled mask/face reveal
-
-## Automatic Rejection
-
-Reject any strip or stitched section if:
-- identity drifts from canonical references
-- the apartment resets
-- text becomes too small on phone
-- a clue is covered by lettering
-- technical strip seams are visible
-- the composition looks like a printed comic page
-- every panel is boxed the same way
-- SFX source is ambiguous
-- helpful/hostile signatures are swapped
-- art becomes photoreal, 3D, glossy, or over-rendered
-- a major reveal is cramped without scroll breathing room
+Reject a technical strip if character identity drifts, apartment geometry resets, text becomes unreadable at phone width, every beat is boxed identically, gutters are uniform, effects obscure story geography, SFX source is unclear, helpful/hostile signatures are swapped, or the rendering becomes photoreal/3D/glossy.

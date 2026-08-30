@@ -1,120 +1,79 @@
-# Vertical Scroll Layout Guide — One Chapter / One Scroll
+# Vertical Scroll Layout Guide
 
-## Absolute Reader Format
+## One Chapter, One Scroll
 
-**Chapter 1 is one continuous vertical canvas.**
+The finished Manhwa Chapter 1 is one centered continuous vertical reader. Technical files are invisible production chunks only.
 
-Technical image strips are allowed only because generation tools and websites have height/file limits. They are not separate pages or story scrolls.
+## Width Lock
 
-## Fixed Width
+Use one fixed generation width for every technical strip.
 
-Working master:
-- width: **1080 px**
-- height: continuous / as long as chapter requires
+Preferred workflow:
+- generate every strip at the same maximum available portrait width
+- do not independently resize individual strips before stitching
+- stitch all approved strips first
+- uniformly resize the completed master to the final publishing width (target 800 px unless the destination platform requires another width)
 
-Final publishing master:
-- width: **800 px**
-- scale the entire stitched chapter uniformly
-- never resize individual sections independently
+Never mix strip widths.
 
-If the publishing platform needs multiple files, cut the finished 800 px master into same-width sequential WebP/PNG chunks with no inserted gap.
+## 70 Read Beats
 
-## Technical Strip Rules
+`V01`–`V70` are internal planning IDs only. They are not panel numbers and must never be drawn.
 
-When generation cannot produce the entire chapter at once:
-- generate `strip-001`, `strip-002`, etc. at the same 1080 px width
-- strip height may vary according to tool limits
-- begin each new strip with a small **continuity overlap** from the previous approved strip (roughly one simple background/gutter beat)
-- crop the duplicated overlap during assembly
-- place final strip boundaries in blank or low-information gutters
-- never cut through speech balloons, faces, SFX, device text, or active motion
-- strip filenames never appear in reader-facing art
+A read beat can be:
+- a framed panel
+- borderless art
+- a montage cluster
+- a reaction close-up
+- a device insert
+- a sound-first moment
+- empty suspense space
+- a transition composition
 
-## One-Column Webtoon Grammar
+Do not force each beat into a separate bordered panel.
 
-Reading order is always top to bottom.
+## Pilot Strip Count
 
-### Full-width / near-full-width
-Use for:
-- location establishing art
-- blackout onset
-- major supernatural screen reveals
-- first physical Hyun-woo reveal
-- power-return empty-space reveal
-- final `NEW TENANT CONFIRMED`
+Exactly 15 planned technical strips for this test: `strip-001` through `strip-015`.
 
-### Centered 70–90% width
-Use for:
-- most dialogue panels
-- reaction close-ups
-- medium character acting
+A strip generally contains 3–6 read beats. Suspense-heavy strips intentionally contain fewer beats.
 
-### Narrow 45–65% insert
-Use sparingly for:
-- unplugged cord
-- brass key
-- handwritten note
-- flashlight/radio controls
-- knife/sheath
-- analog/device clue
+## Gutter Vocabulary
 
-Do not create a newspaper or printed-comic multi-column page grid.
+Use relative rather than mechanical pixel spacing:
+- micro: rapid action/reply
+- normal: ordinary beat change
+- suspense: meaningful silence/clue
+- reveal: major scroll delay before a supernatural reveal
 
-## Gutter Rhythm
+Long gaps must have narrative purpose.
 
-Gutters are part of the chapter canvas.
+## Reader Background
 
-At 1080 px master width, use approximate vertical spacing:
-- quick dialogue/action: 30–70 px
-- ordinary beat change: 80–160 px
-- hesitation/clue: 180–360 px
-- major suspense/reveal: 400–900 px when earned
+Early chapter: white/light-neutral.
 
-These are rhythm ranges, not mandatory repeated values.
+Tense powered scenes: slightly darker neutral where useful.
 
-## Background Through The Scroll
+At the final 12:43 A.M. outage: transition into deep charcoal/black and end the chapter in darkness.
 
-Normal scenes:
-- white/light neutral reader background
+## No Traditional Page Artifacts
 
-Tension:
-- light neutral may gradually darken around isolated panels
+Do not draw:
+- circled panel numbers
+- page numbers
+- technical strip IDs
+- crop/seam guides
+- repeated chapter titles at strip boundaries
+- headers/footers between technical images
 
-Actual blackout:
-- transition the continuous reader background into charcoal/black
-- panels may float out of darkness
+## Composition Across Strip Boundaries
 
-Power restoration:
-- return toward light background only after the scene itself stabilizes
+A technical boundary may occur:
+1. in a blank gutter (preferred when natural), or
+2. through a continuing artwork/background/effect when the Asura-like continuous-reader behavior benefits from it.
 
-## Panel Borders
+If art crosses the boundary, follow `seam-continuity-protocol.md` exactly.
 
-Mix:
-- borderless full-width art
-- thin clean rectangular panels
-- floating inset close-ups
+## Text Safety
 
-Avoid thick identical borders around everything.
-
-## Dialogue Density
-
-Never shrink text to save vertical space. If a beat is dialogue-heavy:
-- make the panel taller
-- separate emotional turns into new panels
-- use scroll space
-
-## Chapter Flow
-
-Internal planning may divide the story into `Story Run A`, `Story Run B`, etc., but those labels are invisible. The finished reader must feel like one uninterrupted chapter from opening narration through the final TV cliffhanger.
-
-## Final Stitch QA
-
-Before publishing:
-- all sections exactly same width
-- no repeated/cropped panel at stitch point
-- no doubled gutter
-- no color shift at seam
-- no missing dialogue/SFX
-- no reader-visible filename/strip marker
-- no chapter header repeated mid-scroll
-- scroll can be read continuously without noticing where files were generated or cut
+Do not cut a speech balloon, narration box, essential device message, or important SFX across a technical seam. Keep all reader text fully inside one strip even if the surrounding artwork continues.

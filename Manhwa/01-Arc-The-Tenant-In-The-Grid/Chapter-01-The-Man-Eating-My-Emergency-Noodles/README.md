@@ -1,61 +1,32 @@
-# Chapter 1 Manhwa Test — One Continuous Scroll
+# Manhwa Chapter 1 Pilot
 
-Title: **The Man Eating My Emergency Noodles**
+## Source Scope
 
-Source continuity:
+This pilot adapts only source Comic Chapter 1 Pages **001–009** from:
+
 `Comics/01-Arc-The-Tenant-In-The-Grid/Chapter-01-The-Man-Eating-My-Emergency-Noodles/`
 
-## Format Authority
+Source Pages 010–018 are intentionally held for a later Manhwa Chapter 2.
 
-This adaptation is **one continuous vertical Chapter 1 reader**.
+## Chapter Shape
 
-The original 18 comic pages are source-story units only. They are not preserved as 18 manhwa pages, and the manhwa is not divided into 12 reader-visible scroll episodes.
+Reader-facing result: **one continuous vertical chapter**.
 
-Internal story runs and `strip-###` files are production tools only.
+Internal production plan:
+- 70 read beats (`V01`–`V70`) — production-only
+- 15 technical strips (`strip-001`–`strip-015`) — production-only
+- no visible beat/strip/page numbering
 
-## Fixed Geometry
+The chapter ends on the source Page 9 citywide blackout: Nari leaves her charged phone dark, the flashlight/radio fail, and Unit 2407 is left in darkness. The `SLURP` / physical Hyun-woo sequence begins the later Manhwa Chapter 2.
 
-- working/compositing width: 1080 px
-- final publishing width: 800 px
-- one continuous top-to-bottom canvas
-- no circled panel numbers
-- no page numbers
-- no repeated chapter title inside technical strips
-- technical strip seams invisible after stitching
+## Files
 
-## Chapter Structure
+- `chapter-01-continuous-scroll-plan.md` — exact 70-beat internal flow.
+- `chapter-01-strip-manifest.md` — 15-strip allocation and seam types.
+- `chapter-01-master-scroll-prompt.md` — chapter-wide presentation authority.
+- `chapter-01-generation-checklist.md` — QA/rejection gate.
+- `Production-Strips/` — generation prompts.
 
-Use `chapter-01-continuous-scroll-plan.md` for the chapter's full vertical pacing.
+## Source Authority Rule
 
-Use `chapter-01-master-scroll-prompt.md` as the architecture authority.
-
-Use `Production-Strips/` only when generation height limits make a single master image impossible.
-
-## Pilot
-
-The first test generates the top section of the same chapter as three technical strips:
-1. move-in / apartment hook
-2. Mrs. Na warning
-3. automation irritation / first human male voice
-
-These are stitched immediately into one continuous pilot section. Evaluate the stitched reading flow, not each strip in isolation.
-
-After pilot approval, continue downward through the same Chapter 1 canvas.
-
-## Canon
-
-Dialogue/lore/object state remains synchronized with approved Chapter 1 source documents. Manhwa adaptation may change:
-- panel scale
-- panel count
-- gutter length
-- camera angle
-- vertical pacing
-- arrangement of silent reaction beats
-
-It may not change:
-- spoken meaning/dialogue without explicit story revision
-- character knowledge
-- supernatural rules
-- event order
-- environment/object continuity
-- who is physically present
+The source comic prompt files remain authority for exact dialogue, narration, SFX, device text, prop state, character knowledge, and event order. The manhwa files change presentation/pacing only.

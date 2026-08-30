@@ -1,102 +1,48 @@
-# Strip 002 — Landlord Warning — ChatGPT Image Prompt
-
-Technical continuation strip for the SAME continuous Chapter 1 reader.
+# Strip 002 — Speaker Hook / Mrs. Na Arrives
 
 ```text
-Create ONE tall technical image strip that continues directly below the approved top section of Chapter 1 of "My Roommate Only Appears During Blackouts".
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME Manhwa Chapter 1 scroll.
 
-FORMAT — ABSOLUTE
-This is NOT a page and NOT a separate scroll episode.
-Working width: exactly 1080 px, matching approved Strip 001.
-No circled panel numbers, page numbers, strip titles, or ending card inside artwork.
-Use as many internal panels as the conversation naturally needs.
+TECHNICAL SCOPE
+V06–V10. Never print beat/strip IDs.
+Source: end of Comic P1 + beginning of Comic P2.
 
-REFERENCES
-Attach:
-- `Character-References/nari-canonical-flat2d.png`
-- `Character-References/mrs-na-canonical-flat2d.png`
-- APPROVED Strip 001 as apartment/environment continuity reference
-
-Use `Manhwa/style-guide.md`, `Manhwa/vertical-scroll-layout-guide.md`, `Manhwa/lettering-sfx-guide.md`.
-
-TOP HANDOFF
-Continue from the same Unit 2407 established above. This scene is later that evening, so use a natural vertical time-transition gap/establishing beat rather than a printed-page reset.
-
-STORY
-Doorbell rings. Mrs. Na arrives carrying the thick Unit 2407 electrical-operation binder and brass backup key. The conversation begins practical and becomes increasingly serious as she explains the hallway-light and blackout/screen rules.
-
-Keep Unit 2407 entry/hallway geography believable. Establish the hallway lamp visually before the warning depends on it.
-
-READER-FACING TEXT — EXACT
-SFX:
-`DING-DONG`
-
-Nari:
-`THIS PLACE NEEDS A MANUAL?`
-
-Mrs. Na:
-`IT DOES.`
-
-Nari:
-`ANYTHING I ACTUALLY NEED TO KNOW?`
-
-Mrs. Na:
-`YES. ONE THING.`
-
-Mrs. Na:
-`AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.`
-
-Mrs. Na:
-`THE LIGHT HAS TO COME FROM THE APARTMENT ITSELF. DON'T TRY TO REPLACE IT WITH A PHONE OR TABLET.`
-
-Nari:
-`WHY? WHAT HAPPENS IF IT GOES OUT?`
-
-Mrs. Na:
-`JUST KEEP IT ON.`
-
-Nari:
-`WHAT IF THE WHOLE BUILDING LOSES POWER?`
-
-IMPORTANT SUSPENSE BEAT
-Mrs. Na hesitates. Use a visibly longer vertical gap and a close reaction/watch/handbag detail before the next line. This is one of the first moments where scroll distance itself creates unease.
-
-Mrs. Na:
-`THEN DON'T TURN ON A SCREEN.`
-
-Mrs. Na:
-`WAIT FOR THE POWER TO COME BACK, THEN CALL ME.`
-
-Nari:
-`YOU'RE NOT GOING TO TELL ME WHY.`
-
-Mrs. Na:
-`NOT TONIGHT.`
-
-Mrs. Na:
-`GOOD NIGHT, MS. YOON.`
-
-Nari, after Mrs. Na leaves:
-`THAT'S NOT VERY COMFORTING.`
-
-PACING / LAYOUT
-- keep early exchange relatively tight
-- give the binder and brass key clean readable inserts
-- visually establish the hallway lamp before/around the warning
-- widen vertical spacing as Mrs. Na gets more evasive
-- `THEN DON'T TURN ON A SCREEN.` gets the strongest pause/reveal space in this strip
-- Mrs. Na's exit flows downward into Nari alone in the apartment
-- do not close with a dramatic page-ending composition; this is only a technical cut
-
-LETTERING
-Mobile-readable white speech balloons, clear tails, no brand/fake UI clutter.
-`DING-DONG` belongs to the front-door bell.
-
-BOTTOM HANDOFF
-End after Nari's `THAT'S NOT VERY COMFORTING.` with the binder remaining on the kitchen counter and brass key in the entry tray. Continue into a normal light-neutral gutter that can stitch directly into Strip 003.
-```
-
-## Attach
+ATTACH
 - Nari canonical PNG
 - Mrs. Na canonical PNG
-- approved Strip 001
+- APPROVED Strip 001 as mandatory visual continuity reference
+
+SEAM IN — GUTTER
+Continue the same light-neutral Unit 2407 kitchen/counter atmosphere from Strip 001. No new page header.
+
+V06 — Isolate the small screenless corded speaker on the counter. It remains ordinary hardware, plugged in, no supernatural glow.
+SFX: BLIP
+SPEAKER: WELCOME HOME, YOON NARI.
+
+V07 — Nari dry reaction, same move-in state.
+NARI: GREAT. IT TALKS.
+
+Use a natural larger vertical gap/time transition, not a page break.
+
+V08 — Inside Unit 2407 later that evening among moving boxes; closed entrance door seen from interior. Mrs. Na is outside and rings the doorbell.
+LARGE CAPTION: LATER THAT EVENING...
+SFX from outside: DING-DONG
+
+V09 — Nari opens from inside, revealing Mrs. Na in corridor with handbag, binder, key ring.
+MRS. NA: I BROUGHT THE APARTMENT GUIDE.
+
+V10 — Nari steps aside; Mrs. Na physically crosses threshold and they begin moving naturally toward kitchen.
+No text.
+
+SEAM OUT — GUTTER
+End during/after the natural move toward the kitchen so Strip 003 can begin at the counter without teleportation.
+
+CONTINUITY
+Same Unit 2407 as Strip 001. Moving boxes remain plausible. Mrs. Na cannot appear inside before V10.
+
+TEXT LOCK
+Exact lines only. No additional greetings.
+
+AVOID
+No printed panel numbers, strip IDs, brand copy, physical Hyun-woo, supernatural effects, or doorway geography reversal.
+```

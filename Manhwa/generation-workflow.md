@@ -1,107 +1,63 @@
-# Manhwa Generation Workflow — One Continuous Chapter
+# Manhwa Generation Workflow
 
-## Separation From Comics
+## Pilot Isolation
 
-`Comics/` and `Manhwa/` are separate presentation pipelines.
+`Comics/` remains untouched and authoritative during the test.
 
-Do not overwrite approved comic prompts/art while testing the manhwa conversion. Story/lore canon may be read from `Comics/`; manhwa layout/pacing comes from this directory.
+The manhwa pilot adapts source Comic Chapter 1 Pages 001–009 only.
 
-## Final Product
+## Fixed Pilot Plan
 
-The final product is **one continuous Chapter 1 vertical scroll**.
+- 1 continuous reader-visible chapter
+- 70 internal read beats (`V01`–`V70`), not printed
+- 15 technical strips (`strip-001`–`strip-015`), not printed
+- one fixed width across all generated strips
 
-Technical strips exist only because image-generation tools and websites cannot always handle one enormous canvas.
+## Sequential Production
 
-## Generation Loop
+1. Read the current strip prompt.
+2. Attach only canonical PNGs for characters visibly present in that strip.
+3. For Strip 002 onward, attach the immediately previous APPROVED manhwa strip.
+4. Generate one tall vertical strip using the full available canvas.
+5. QA script, identity, environment, vertical pacing, seam type, lettering, SFX, and style.
+6. Reject/regenerate before proceeding if any mandatory item fails.
+7. Only an APPROVED Strip N becomes continuity authority for Strip N+1.
+8. After Strip 015 passes, stitch all approved strips in order.
+9. Crop intentional overlap regions only during final assembly.
+10. Run one seam-by-seam full-chapter QA.
+11. Uniformly resize the completed master for publishing.
 
-For each technical strip:
-1. read the chapter continuous-scroll plan
-2. read the current strip prompt
-3. attach only canonical PNGs for characters visible in that strip
-4. attach the immediately previous APPROVED technical strip when continuity is direct
-5. generate at the fixed 1080 px working width
-6. preserve a small top continuity overlap when needed
-7. QA script, identity, environment, lighting, SFX, lettering, and one-scroll rhythm
-8. approve or regenerate
-9. crop duplicated overlap during assembly
-10. append approved strip directly beneath the previous strip with no inserted border/gap beyond the story's intended gutter
-
-## Technical Strips Are Not Story Units
-
-Never describe the final chapter to the reader as 12 scrolls or 20 pages.
-
-`strip-001`, `strip-002`, etc. are internal production assets only.
-
-A strip may contain several panels and may end anywhere that a natural empty gutter allows. If a story beat needs more space, extend the strip or move the technical cut; never compress the art just to hit a predetermined strip count.
-
-## Fixed Geometry
-
-- generation/compositing width: 1080 px
-- final publishing width: 800 px
-- all strips identical width
-- strip heights may vary
-- final chapter is uniformly downscaled after stitching
-
-Never resize individual strips independently.
-
-## Character Attachments — Chapter 1
+## Character References
 
 - Nari: `Character-References/nari-canonical-flat2d.png`
 - Mrs. Na: `Character-References/mrs-na-canonical-flat2d.png`
 - Seungjae: `Character-References/seungjae-canonical-flat2d.png`
-- Hyun-woo: `Character-References/hyunwoo-canonical-flat2d.png` only when physically visible
 
-When Hyun-woo is voice-only, default to not attaching his PNG to reduce accidental manifestation.
-
-## Previous-Strip Continuity
-
-The previous approved strip controls:
-- current wardrobe
-- hairstyle state
-- prop positions
-- open/closed doors/cabinets
-- appliance locations
-- lighting/power state
-- character position at handoff
-- damage/mess/evidence
-
-It does not force the same camera angle or panel proportions.
+Hyun-woo is never physically visible in this Manhwa Chapter 1 pilot. Do not attach `hyunwoo-canonical-flat2d.png`; his first human-sounding voice remains audio/device-only.
 
 ## Source Comic Usage
 
-Source comic pages are story/object continuity authority, not manhwa layout templates.
+Use source Comic Pages 001–009 as exact story/script/prop-rule authority, not as page-layout templates.
 
-Do not paste or imitate the old page grid. Recompose each scene for continuous vertical pacing.
+Do not recreate the old six/eight/nine-panel page grids. Recompose those events into continuous scroll pacing.
 
-## Assembly Workflow
+## Strip Failure Rules
 
-After all strips pass QA:
-1. stitch at 1080 px width
-2. remove duplicated continuity overlaps
-3. inspect every seam at 100% zoom
-4. verify continuous background/gutter color
-5. verify no dialogue/SFX duplicated or lost
-6. export one long master image if tooling permits
-7. uniformly downscale master to 800 px width
-8. if the reader/platform requires multiple upload images, cut the finished master into same-width sequential WebP/PNG blocks
-9. add **zero extra spacing** between delivery blocks
+Automatic reject for:
+- wrong or missing source text
+- invented dialogue/SFX
+- wrong speaker/source
+- canonical identity drift
+- physical Hyun-woo
+- apartment geography reset
+- missing/moved continuity prop without story action
+- visible strip label/beat number
+- uniform page-grid layout
+- obvious seam
+- text split at seam
+- helpful/hostile device signature swapped
+- glossy/photoreal/3D rendering
 
-The reader must perceive one continuous chapter.
+## Pilot Test Strategy
 
-## Pilot Test
-
-Generate only the top three technical strips first. Stitch them together immediately and evaluate the **assembled continuous section**, not each strip as if it were a separate page.
-
-Lock after pilot approval:
-- line weight
-- rendering density
-- shadow treatment
-- fixed width
-- gutter rhythm
-- balloon design
-- narration design
-- SFX treatment
-- device-text treatment
-- strip seam behavior
-
-Then continue the same chapter downward.
+Generate Strip 001 first and evaluate the actual visual density, bubble size, line/shadow treatment, and vertical pacing. The 15-strip manifest is already planned so the production thread has a stable roadmap, but do not propagate an unsatisfactory Strip 001 style downstream.

@@ -1,105 +1,51 @@
-# Lettering and SFX Guide — Continuous Manhwa
+# Manhwa Lettering and SFX Guide
 
-## Mobile-First Lettering
+## Dialogue
 
-All text must be comfortably readable after the stitched 1080 px master is uniformly reduced to 800 px publishing width.
+Use clean mobile-readable speech balloons with enough padding. Keep tails unambiguous. Do not shrink text to preserve a composition; enlarge/reflow the art instead.
 
-Do not solve density by shrinking text. Give dialogue more vertical space instead.
+Preserve approved source wording, speaker/source, order, punctuation, capitalization, and text type.
 
-## Speech Balloons
+## Narration / Time Captions
 
-Default:
-- white fill
-- clean dark outline
-- simple rounded/organic balloon shape
-- clear tail to correct speaker
-- uppercase English consistent with existing comic canon
-- generous inner padding
-- no decorative balloon treatment unless emotion requires it
+Use simple high-contrast boxes integrated into the scene. Time captions should be immediately visible without becoming a separate traditional page card.
 
-Use larger/bolder text only for actual shouting or shock.
+## Internal Thoughts
 
-Hyun-woo voice-only speech must clearly originate from the actual speaker/cabinet direction when hardware is in frame. Never create an implied physical body while unit power rules say he is absent.
-
-## Narration
-
-Use simple rectangular or lightly rounded caption boxes.
-
-- high contrast
-- no speech tail
-- visually distinct from dialogue
-- one short thought/transition per box when possible
-- do not repeat time/location information unnecessarily
-
-Narration should sit naturally in the scroll, not look like a page header.
+Use a distinct thought treatment. Do not turn internal thought into spoken dialogue.
 
 ## Device Text
 
-Device text stays physically on its device display.
+Device text remains physically on the device display.
 
-### Helpful / Hyun-woo
-- clean cyan-white
-- stable edges
-- restrained glow only inside/near the display
+Helpful signature: clean stable cyan-white.
 
-### Hostile
-- stark white broken/doubled text
-- crawling black pixel corruption
-- fragmented/missing strokes allowed
-- never use the helpful cyan signature
+Hostile signature: broken/doubled stark-white with black pixel corruption.
+
+Never put device messages in ordinary speech balloons.
+
+## Handwriting
+
+Physical notes use handwritten lettering on the paper object. Repeated appearances of the same note must retain the same wrapping, handwriting scale, placement, and paper design.
 
 ## SFX Hierarchy
 
-SFX are part of the art composition, not footnotes.
+Quiet/local sounds remain small and source-aligned: `BEEP`, `CLICK`, `THUD`, `CLINK`, `YANK`, `SNICK`, `SNAP`.
 
-### Quiet / local
-Examples: `TIK`, `CLICK`, `CRINKLE`, `CREAK`, `CLINK`, `TUG`
-- small to medium
-- positioned beside exact physical source
-- little or no perspective distortion
+Medium event sounds may integrate more strongly: `FZZT`, `CLATTER`, `KZZT`, `VRR`, `WHIRR`, `THUNK`, `BIP`, `KSSHT`.
 
-### Medium impact / electrical / movement
-Examples: `FZZT`, `KZZT`, `SLURP`, `SKRRK`, `SHK`, `BEEP`
-- medium graphic treatment
-- may angle/stretch with action
-- can overlap the panel edge if readability stays clear
+Do not invent filler footsteps/ambience merely to make the art look busy.
 
-### Major impact
-Examples: `CLANG`, `KIIIIII`, `VZZT`
-- large composition element
-- may cross empty gutter/panel edge
-- never cover face, crucial hand action, device text, or dialogue
+## SFX Placement
 
-## Sound Source Rule
+Place SFX at the physical source: lock, plug, lamp, pen, device, door, radio.
 
-Every SFX must visually belong to the correct source.
+SFX can overlap art but must not hide faces, hands, device text, clues, or dialogue.
 
-- `CLICK` at lock/switch/latch
-- `SLURP` from dining-area source before/around Hyun-woo reveal
-- `KZZT` from hostile device corruption
-- `CLANG` exactly where knife hits floor
-- `TIK` from relevant device/panel source
+## Seam Safety
 
-Do not invent filler footsteps/door sounds merely because a panel is quiet.
+All reader-facing words must sit fully inside one technical strip. Artwork may continue across a seam; text may not.
 
-## Typography Behavior
+## No Production Text
 
-Speech/narration should remain clean and neutral. SFX may be more expressive:
-- slight tilt
-- stretch/compression
-- outline/inline
-- perspective matching motion
-
-Avoid excessive 3D extrusion, neon glow, chrome effects, or decorative typography that competes with the scene.
-
-## One-Scroll Placement
-
-Lettering must never acknowledge technical strip boundaries.
-
-At stitch points:
-- no balloon may be cut
-- no caption may sit half in one strip and half in another
-- no SFX may be duplicated
-- no repeated line at overlap crop
-
-The final reader should not know where generation chunks were joined.
+Never print `V01`, `strip-001`, `SFX`, character labels, prompt labels, crop marks, or QA notes in the artwork.

@@ -1,19 +1,24 @@
-# Asura-Style Continuous Scroll Correction
+# Continuous Reader Reference Note
 
-The reader-facing manhwa format is **one continuous vertical chapter**.
+The reference reader behavior is **one continuous vertical chapter**, even when the site technically delivers that chapter through multiple same-width image files.
 
-The Asura reference chapter is delivered by the site as multiple sequential image assets, but those assets are stacked into one uninterrupted reader experience. They are technical delivery chunks, not separate story pages or separate scroll episodes.
+## What We Copy as a Production Principle
 
-For this repository:
+- continuous top-to-bottom reading
+- fixed-width sequential images
+- no reader-visible page breaks between upload images
+- some image boundaries may cut through a continuing background/composition
+- varied vertical negative space
+- full-width or tall reveal art
+- mobile-readable balloons
+- SFX integrated into the art instead of isolated in page margins
 
-- one chapter = one continuous vertical scroll
-- working width = 1080 px for generation/compositing
-- final publishing width = 800 px, uniformly downscaled as one chapter
-- all technical image strips must use the same width
-- no visible seam, border, page break, title repeat, or reset between strips
-- strip boundaries must fall inside natural gutter space
-- no circled panel numbers
-- no printed-page grid
-- internal story-run labels exist only in planning files and never appear in artwork
+## What We Do Not Copy
 
-If a platform requires the final master to be uploaded as several images, cut the finished continuous master into same-width sequential WebP/PNG assets without adding space between them. The reader should perceive one uninterrupted chapter.
+Do not copy another series' exact drawings, characters, costumes, poses, backgrounds, panel layouts, dialogue, effects, typography assets, logos, or watermarks.
+
+## Pilot Interpretation
+
+Manhwa Chapter 1 is one continuous reader experience planned as 70 internal read beats and generated as 15 technical strips. The 15 files exist only because a production system cannot safely generate the entire chapter as one enormous image.
+
+Strip boundaries are invisible in the final stitch. When a composition naturally crosses a boundary, continue the same scene/art into the next strip using the seam-continuity protocol.

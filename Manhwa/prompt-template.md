@@ -1,71 +1,44 @@
-# Continuous Manhwa Technical-Strip Prompt Template
+# Technical Strip Prompt Template
 
-Use this template only when the entire chapter cannot be generated as one enormous image.
+Use this structure for every `Production-Strips/strip-###-chatgpt-image-prompt.md`.
 
 ```text
-Create exactly ONE technical image strip that belongs inside a SINGLE CONTINUOUS vertical manhwa chapter for "My Roommate Only Appears During Blackouts".
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP belonging to the same continuous Chapter 1 scroll.
 
-IMPORTANT FORMAT
-This is NOT a page, NOT a separate scroll episode, and NOT a mini-chapter.
-It is one same-width segment of a longer stitched Chapter 1 reader.
-No strip title, no page number, no circled panel numbers, no ending card.
+TECHNICAL ID
+strip-### — production-only. Never print this ID in the artwork.
 
-CANVAS
-Working width: 1080 px.
-Use the full fixed width consistently with the previous approved strip.
-Height may be as tall as the generation tool safely permits.
-The final stitched chapter will be uniformly reduced to 800 px width.
+CONTINUOUS-CHAPTER LOCK
+This is not a page, episode, or reader-visible part. Its top must continue the approved previous strip and its bottom must hand off naturally to the next strip.
 
-CONTINUITY REFERENCES
-Attach only visible-character canonical PNGs.
-Attach the immediately previous APPROVED technical strip when this scene directly continues.
-The previous strip controls environment/object/wardrobe/power state, but not camera angle.
+SOURCE AUTHORITY
+Use the assigned source Comic Chapter 1 page(s) and exact locked reader-facing text.
+
+INTERNAL READ BEATS
+V##–V## are planning IDs only. Never render them.
+
+CHARACTER REFERENCES
+Attach only canonical PNGs for characters physically visible in this strip.
+
+PREVIOUS STRIP
+For strip-002 onward attach approved strip-(N-1) as mandatory environment/wardrobe/seam continuity.
+
+SEAM IN
+State seam type: G / A / E.
+Describe exactly what continues from previous strip.
+
+SEAM OUT
+State seam type for the next join and what must remain continuable.
+
+VERTICAL COMPOSITION
+Use variable-width/tall manhwa compositions, not a printed-page grid. Reserve real empty scroll distance when the beat requires suspense.
+
+SCRIPT LOCK
+List every exact reader-facing line/SFX/device/note text used in this strip.
 
 STYLE
-Original polished full-color Korean webtoon/manhwa rendering:
-- clean 2D linework
-- controlled cel/soft-cel shadows
-- detailed establishing backgrounds
-- mobile-readable faces/hands
-- matte materials
-- no photorealism, 3D/CG, glossy plastic skin/hair, bloom-heavy cinematic treatment, or mirror-like surfaces
+Follow `Manhwa/style-guide.md`, `vertical-scroll-layout-guide.md`, `seam-continuity-protocol.md`, and `lettering-sfx-guide.md`.
 
-ONE-SCROLL COMPOSITION
-Compose naturally top-to-bottom.
-Mix full-width art, centered dialogue panels, narrow clue inserts, and vertical negative space.
-Do not arrange the strip like a printed comic page.
-Do not make gutters mechanically equal.
-
-TOP HANDOFF
-If continuing from an approved strip, preserve a small continuity overlap/background handoff at the very top so stitching can be checked. This duplicate area will be cropped during final assembly.
-
-STORY BEATS
-[INSERT ONLY THE STORY BEATS COVERED BY THIS TECHNICAL STRIP]
-
-READER-FACING TEXT LOCK
-[INSERT EXACT DIALOGUE / NARRATION / DEVICE TEXT / SFX]
-
-LETTERING
-White clean speech balloons with correct tails.
-Simple high-contrast narration boxes.
-SFX integrated beside exact source.
-Helpful device text clean cyan-white.
-Hostile device text broken stark-white + black pixel corruption.
-
-BOTTOM HANDOFF
-End in a natural low-information gutter or stable completed beat that can continue immediately into the next strip.
-Do not add a reader-visible ending.
-Do not repeat chapter title.
-Do not create a large artificial blank gap solely because the technical strip ends.
-
-REJECTION
-Reject if it looks like a standalone comic page, contains panel numbers, changes width, resets the environment, shrinks text, duplicates dialogue, adds fake branding, or creates a visible technical boundary.
+AVOID
+No production IDs, page numbers, circled panel numbers, extra text, brand clutter, identity drift, visible seam, wrong supernatural signature, or glossy/photoreal/3D treatment.
 ```
-
-## Naming
-
-Use:
-`strip-001-...-chatgpt-image-prompt.md`
-`strip-002-...-chatgpt-image-prompt.md`
-
-The `strip-###` label is production-only and must never appear inside final artwork.

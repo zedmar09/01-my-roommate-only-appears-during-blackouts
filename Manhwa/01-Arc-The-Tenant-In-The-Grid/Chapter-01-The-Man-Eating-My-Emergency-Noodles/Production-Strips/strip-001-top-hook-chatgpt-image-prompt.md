@@ -1,71 +1,54 @@
-# Strip 001 — Top Hook — ChatGPT Image Prompt
-
-Technical generation strip for the TOP of the same continuous Chapter 1 reader.
+# Strip 001 — Move-In / Smart Everything
 
 ```text
-Create ONE tall technical image strip for the continuous vertical manhwa Chapter 1 of "My Roommate Only Appears During Blackouts".
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP for the continuous Manhwa Chapter 1 of "My Roommate Only Appears During Blackouts".
 
-FORMAT — ABSOLUTE
-This is NOT a printed comic page and NOT a standalone scroll episode.
-It is the TOP technical strip of one longer chapter.
-Working width: 1080 px.
-No circled panel numbers. No page number. No strip label. No chapter-end treatment.
-Use as many internal panels as the scene naturally needs; do not force a fixed panel count.
+THIS IS NOT A PAGE. Do not draw page borders, page numbers, circled panel numbers, strip IDs, or beat IDs.
 
-REFERENCES
-Attach `Character-References/nari-canonical-flat2d.png`.
-Use `Manhwa/style-guide.md`, `Manhwa/vertical-scroll-layout-guide.md`, and `Manhwa/lettering-sfx-guide.md`.
+TECHNICAL SCOPE
+Internal beats V01–V05 only. These IDs are never reader-facing.
+Source authority: Comic Chapter 1 Page 1.
+
+ATTACH
+- `Character-References/nari-canonical-flat2d.png`
+
+No previous manhwa strip exists.
 
 STYLE
-Original polished full-color Korean webtoon/manhwa presentation: clean 2D line art, controlled cel/soft-cel shading, detailed but readable Seoul apartment environments, adult proportions, expressive face/hands, matte materials. More production-finished than the flat comic page version, but not photoreal/3D/glossy.
+Follow `Manhwa/style-guide.md`, `vertical-scroll-layout-guide.md`, `lettering-sfx-guide.md`, and `seam-continuity-protocol.md`.
+Use polished original full-color Korean-webtoon/manhwa rendering, clean 2D linework, matte controlled shading, adult Nari identity, detailed but readable Seoul apartment environment. No photoreal/3D/glossy/cinematic rendering.
 
-CONTINUOUS TOP-TO-BOTTOM FLOW
-Start the chapter cleanly at the top. Use a broad exterior/arrival image, then descend naturally through entry, apartment reveal, smart-home details, speaker activation, and Nari reaction. Panels may be borderless or centered with light-neutral gutter. Do NOT arrange them as a six-panel page grid.
+VERTICAL FLOW
+Compose as one continuous top-to-bottom run, not five equal boxes. Use a large exterior, threshold movement, broad apartment reveal, then a flowing smart-home scan. Keep the bottom as a clean neutral gutter that can continue into Strip 002.
 
-STORY
-Nari arrives at Unit 2407 with moving boxes and tablet. The apartment is surprisingly spacious/good for the price. Establish a contemporary Seoul 24th-floor apartment, believable residential scale, corner windows/city view, smart-home features, and screenless corded speaker on kitchen counter. No overt horror yet.
+V01 — Night Seoul residential high-rise, ordinary/desirable rather than haunted.
+CAPTION: UNIT 2407 WAS TOO CHEAP.
 
-READER-FACING TEXT — EXACT
-Narration:
-`UNIT 2407 WAS TOO CHEAP.`
-`IN SEOUL, CHEAP RENT ALWAYS HID A CATCH.`
+V02 — Nari outside Unit 2407 with the carryable box and corridor cart/two boxes. Smart lock interaction.
+CAPTION: IN SEOUL, CHEAP RENT ALWAYS HIDES A CATCH.
+SFX: BEEP
 
-Smart lock SFX at the lock only:
-`BEEP`
-`CLICK`
+V03 — Nari visibly crosses the threshold carrying the same box.
+SFX: CLICK
 
-Narration during apartment reveal:
-`TWO BEDROOMS. CORNER WINDOWS. CITY VIEW.`
-`ALL FOR LESS THAN HER OLD PLACE.`
+V04 — Large apartment reveal after she sets the same box down. Maintain Unit 2407 geography: TV/living left, dining center with exactly two burgundy chairs, kitchen/refrigerator right, hallway behind, corner windows/city view.
+SFX: THUD
+CAPTION: TWO BEDROOMS. CORNER WINDOWS. CITY VIEW.
+CAPTION: ALL FOR LESS THAN MY OLD PLACE.
 
-Narration during quick smart-home run:
-`SMART LOCK. SMART LIGHTS. SMART CLIMATE.`
-`SMART EVERYTHING.`
+V05 — Flowing smart-home scan/montage that ends attention near the small screenless corded counter speaker but does not activate it yet.
+CAPTION: SMART LOCK. SMART LIGHTS. SMART CLIMATE.
+CAPTION: SMART EVERYTHING.
 
-Speaker / ordinary synthetic assistant:
-`WELCOME HOME, YOON NARI.`
+SEAM OUT — GUTTER
+End in light-neutral reader space with the kitchen/counter context still established so Strip 002 can isolate the speaker without feeling like a page reset.
 
-Nari, dry/tired:
-`GREAT. IT TALKS.`
+TEXT LOCK
+Use only the exact lines/SFX above. Do not add `WELCOME HOME` yet; that belongs to Strip 002.
 
-PACING
-- opening narration should have visual room, not sit inside a cramped text panel
-- apartment reveal should be one of the larger images in this strip
-- smart-home details can be compact integrated inserts within the vertical flow
-- leave a modest suspense/attention gap before isolating the speaker activation
-- Nari reaction closes this technical strip only because it is a safe completed beat; do not make it feel like a page ending
-
-LETTERING
-Narration uses simple clean boxes.
-Speaker voice uses an ordinary clean balloon/callout sourced to the physical speaker.
-No fake smart-home UI, logos, prices, watermarks, or filler text.
-
-BOTTOM HANDOFF
-After `GREAT. IT TALKS.`, continue into a normal light-neutral gutter/background area that can stitch directly into Strip 002. Do NOT add an ending card or giant artificial blank space.
+AVOID
+No Hyun-woo, landlord, horror effect, hostile text, page-grid layout, brand/logo clutter, extra captions, production IDs, or visible technical seam markers.
 ```
 
-## Attach
-- Nari canonical PNG
-
-## Stitching
-Strip 002 begins later that evening. The top-of-chapter apartment visual language established here becomes environment authority for the next strip.
+## Production Thread Attachments
+Attach only Nari canonical PNG + this prompt.

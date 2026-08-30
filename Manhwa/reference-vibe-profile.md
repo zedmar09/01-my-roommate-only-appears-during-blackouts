@@ -1,98 +1,57 @@
-# Reference Vibe Profile — Continuous Korean Webtoon Reader
+# Manhwa Reference Vibe Profile
 
-## Reference Observation
+## Target Reading Experience
 
-The target reading experience is the **continuous chapter presentation** used by modern scanlation/webtoon readers such as Asura: one chapter opens into a single centered vertical reading column. The site may store that chapter as many sequential images for delivery, but those images behave as invisible technical slices inside one uninterrupted scroll.
+Create the feeling of a polished contemporary Korean vertical webtoon/manhwa release without copying any reference title's exact artwork.
 
-For this project, that means:
-- no page-turn rhythm
-- no repeated page header/footer
-- no visible chunk boundary
-- no fixed six-panel page grid
-- no `Scroll 001` / `Scroll 002` labels in artwork
-- one consistent width from first story image to final cliffhanger
+The reader should feel that there are **no traditional pages**. They simply scroll through one continuous chapter.
 
-## Visual Rhythm To Capture
+## Rhythm
 
-Use the broad commercial Korean-webtoon language:
-- large full-width establishing images
-- medium-width dialogue panels centered in the column
-- occasional narrow close-up/inset panels
-- borderless art that can bleed into the gutter
-- long white or dark vertical breathing spaces before important reveals
-- action/SFX allowed to break conventional panel edges when readable
-- detailed environment at scene openings, simplified background during close emotional exchange
-- strong close-up reaction shots at turning points
+Use a mixture of:
+- large establishing images
+- medium conversational compositions
+- close reaction shots
+- narrow clue inserts
+- borderless/tall reveal art
+- montage sequences that flow vertically rather than becoming rigid grids
+- intentional blank space before suspense/reveals
 
-Do not imitate any exact panel from the reference title.
+Do not mechanically turn every source comic panel into one new manhwa panel. Recompose the story for scroll pacing while preserving exact story meaning and reader-facing script.
 
-## Art Density
+## Visual Density
 
-Target polished serialized manhwa quality rather than flat storyboard art:
-- clean confident 2D linework
-- controlled cel/soft-cel shadow layers
-- localized highlights, not glossy global shine
-- readable material differences on fabric, wall, wood, brushed metal, glass, rain, candle flame
-- backgrounds detailed enough to establish geography
-- facial expressions clear at phone scale
-- hands and props carefully drawn because the story depends on switches, cords, keys, notebook, knife, speaker, TV, and refrigerator
+Ordinary-life scenes may carry several quick beats in a compact vertical run.
 
-Keep the result illustrated, not photorealistic or 3D-rendered.
+Suspense/horror beats should expand:
+- one reaction can occupy substantial height
+- a device clue may be isolated
+- a silence can be represented by genuine empty scroll distance
+- one reveal may consume most of a technical strip
 
-## Color / Lighting Rhythm
+## Cross-Image Continuity
 
-Normal life:
-- warmer, clearer, more open backgrounds
-- light gutters
+The technical image edge is not a story edge.
 
-Suspicion:
-- slightly cooler local values
-- more negative space
-- isolated object inserts
+A wall, hallway, character, rain field, TV composition, darkness gradient, or other artwork may continue into the next technical strip. The final stitched chapter must look as if it was composed on one canvas.
 
-Actual blackout:
-- the continuous reader background may transition into charcoal/black
-- art panels emerge from darkness
-- use deep navy/charcoal rather than crushing all information to pure black
+## Pilot Scale
 
-Power return:
-- restore light background gradually after the story itself stabilizes
+Manhwa Chapter 1 adapts source Comic Chapter 1 Pages 001–009.
 
-## Lettering Vibe
+Planning target:
+- 70 internal read beats
+- 15 technical strips
+- approximately 3–6 read beats per strip depending on pacing
+- fewer beats in suspense-heavy strips, more beats in compact dialogue/action strips
 
-Speech:
-- clean white balloons
-- dark outline
-- concise uppercase English
-- mobile-first sizing
-- tails clearly tied to speakers
+## Tone Path
 
-Narration:
-- simple rectangular caption boxes
-- high contrast
-- minimal decoration
-
-SFX:
-- integrated into the artwork rather than placed like footnotes
-- size follows impact
-- may tilt/stretch with physical motion
-- remain readable and source-aligned
-
-Device text:
-- belongs on the actual screen/device
-- Hyun-woo/helpful signature = clean cyan-white
-- hostile signature = broken stark-white text with black crawling corruption
-
-## What Not To Copy
-
-Do not reproduce the reference title's:
-- characters
-- costumes
-- locations
-- exact linework
-- exact color palette
-- exact panel compositions
-- proprietary logos/credits
-- dialogue or SFX designs one-for-one
-
-The target is **the same type of professional continuous-scroll reading experience**, applied to this story's own visual identity.
+1. move-in / ordinary smart-home comedy
+2. landlord warning becomes unsettling
+3. first human-sounding voice
+4. unplugged TV / hostile fridge split
+5. paper-only evidence
+6. practical blackout preparation
+7. warm normal Seungjae scene invaded by device failures
+8. 12:43 A.M. citywide blackout chapter hook

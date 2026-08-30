@@ -1,101 +1,56 @@
 # Chapter 1 Master Continuous-Scroll Prompt
 
-Use this document as the presentation authority for the entire Chapter 1 manhwa adaptation.
+This document is the presentation authority for the pilot.
 
 ```text
-Create Chapter 1 of "My Roommate Only Appears During Blackouts" as ONE CONTINUOUS full-color vertical Korean-webtoon/manhwa chapter.
+Create Manhwa Chapter 1 of "My Roommate Only Appears During Blackouts" as ONE CONTINUOUS full-color vertical Korean-webtoon/manhwa chapter.
 
-THIS IS NOT A PRINTED COMIC PAGE SET.
-THIS IS NOT 12 SCROLL EPISODES.
-THIS IS NOT ONE IMAGE PER PANEL.
+PILOT SOURCE
+Adapt only source Comic Chapter 1 Pages 001–009.
+Do not include source Page 10 `SLURP` or any physical Hyun-woo reveal.
+
+INTERNAL PLAN
+Exactly 70 internal vertical read beats V01–V70.
+Exactly 15 technical generation strips strip-001–strip-015.
+Neither beat IDs nor strip IDs may appear in the artwork.
 
 FINAL READER EXPERIENCE
-One centered top-to-bottom continuous chapter.
+No traditional pages.
 No circled panel numbers.
 No page numbers.
-No repeated chapter title inside the body.
-No reader-visible technical-strip labels.
+No reader-visible strip divisions.
+No repeated headers/footers.
+The user continuously scrolls from the Seoul move-in to the 12:43 A.M. blackout ending.
 
-CANVAS
-Working/compositing width: 1080 px.
-Final publishing width: 800 px after the entire chapter is stitched and uniformly resized.
-All technical generation strips must remain exactly the same width.
+SOURCE AUTHORITY
+Source comic prompts control exact reader-facing wording, speaker/source, event order, character knowledge, prop state, supernatural rules, and geography.
+Manhwa files change only pacing/composition/rendering presentation.
 
-SOURCE STORY AUTHORITY
-Use the approved Chapter 1 story and continuity from:
-`Comics/01-Arc-The-Tenant-In-The-Grid/Chapter-01-The-Man-Eating-My-Emergency-Noodles/`
+CANONICAL IDENTITY
+Use approved canonical PNGs. Never derive faces from another manhwa reference.
+Hyun-woo remains nonphysical/voice-only throughout this pilot; never draw his body.
 
-Do not change event order, supernatural rules, character knowledge, physical presence, apartment geography, prop logic, or approved dialogue merely for composition.
+STYLE
+Original polished full-color 2D Korean webtoon/manhwa rendering: clean lines, matte controlled cel/soft-cel shading, adult proportions, expressive faces/hands, detailed but readable Seoul settings, variable image width/height, and deliberate negative space.
+Reject photorealism, 3D/CG, glossy plastic rendering, mirror-like surfaces, bloom-heavy cinematic treatment, or direct copying of another title's artwork.
 
-ADAPTATION RULE
-Recompose source comic pages into vertical-scroll manhwa pacing. Old comic page boundaries are irrelevant to the reader. A scene may use more/fewer panels than its source page.
+CONTINUOUS IMAGE DELIVERY
+All 15 strips use one fixed width and stitch without visible seams.
+A technical boundary may occur in a gutter or through continuing art/atmosphere.
+For continuation seams attach the previous approved strip and preserve perspective, object scale, environment alignment, character scale/pose, lighting, and background tone.
+Never split reader-facing text across a seam.
 
-ART STYLE
-Original polished full-color Korean webtoon/manhwa rendering:
-- clean 2D linework
-- canonical adult character identities
-- controlled cel/soft-cel shadowing
-- detailed but readable Seoul interiors/exteriors
-- expressive faces/hands
-- matte materials
-- varied panel width and height
-- borderless full-width reveal art when appropriate
+PACING
+Compact ordinary-life dialogue/actions.
+Expand suspicious objects, reactions, silence, and supernatural reveals.
+Use genuine vertical blank space before major beats such as the first natural male voice, unplugged-TV proof, hostile fridge message, handwritten reply, and blackout.
 
-Avoid photorealism, 3D/CG, glossy plastic hair/skin, mirror-like surfaces, bloom-heavy cinematic rendering, and copying another series' exact composition/style.
-
-CONTINUOUS SCROLL RHYTHM
-Use short gutters for quick dialogue/actions.
-Use medium gutters for normal beat changes.
-Use long vertical negative space for hesitation, suspense, and major reveals.
-Do not make all panel spacing equal.
-
-LIGHT BACKGROUND PHASE
-The chapter begins on white/light-neutral reader background for move-in, landlord warning, daily-life glitches, and ordinary-life scenes.
-
-BLACKOUT PHASE
-When the actual city/unit outage begins, transition the continuous reader background into deep charcoal/black. Let panels and text emerge from darkness. Do not reveal Hyun-woo before the slurping/dining-area suspense has landed.
-
-RETURN PHASE
-After power returns and Hyun-woo disappears, gradually return to light/neutral reader background as Nari investigates, then rebuild tension for the final TV cliffhanger.
-
-MAJOR REVEAL BREATHING SPACE
-Give materially larger vertical distance before:
-- first natural male voice `YOU COULD SAY PLEASE.`
-- unplugged television visibly remaining active
-- handwritten supernatural reply
-- blackout onset
-- first unexplained `SLURP`
-- first full physical Hyun-woo reveal
-- hostile `YOON NARI`
-- `IDENTITY LOCKING`
-- same space shown empty after Hyun-woo vanishes
-- unplugged speaker speaking again
-- final `NEW TENANT CONFIRMED`
-
-LETTERING
-Clean white speech balloons with correct tails.
-Simple high-contrast narration boxes.
-All text mobile-readable at final 800 px width.
-Device text remains on device.
-Helpful device signature is clean cyan-white.
-Hostile device signature is broken stark-white with black-pixel corruption.
-
-SFX
-Integrate SFX into the artwork at exact physical sources.
-Quiet sounds remain restrained.
-Major sounds may become large composition elements.
-Do not invent filler SFX.
-
-TECHNICAL GENERATION
-If the entire chapter cannot be produced as one image, generate same-width technical strips.
-Each new strip may include a small continuity overlap from the previous approved strip.
-Crop duplicate overlap during final stitch.
-Place technical cuts only inside safe gutters.
-Never create a reader-visible ending at a strip boundary.
-
-FINAL ASSEMBLY
-Stitch all approved technical strips into one 1080 px-wide master.
-Verify invisible seams and complete text/art continuity.
-Uniformly resize the complete master to 800 px width.
-If a website needs multiple upload images, cut the completed 800 px master into sequential same-width files without adding spacing. The reader must perceive one uninterrupted chapter.
+CHAPTER END
+V65 begins `LATER THAT NIGHT — 12:43 A.M.`.
+V66 shows Unit 2407 losing power.
+V67 proves the city is dark too.
+V68 keeps Nari's charged phone screen dark.
+V69 flashlight/radio fail while the knife stays sheathed.
+V70 holds on powerless silence with no new text.
+End immediately. Do not add `SLURP`, Hyun-woo, or a chapter-end promotional card.
 ```
