@@ -53,7 +53,7 @@ NARRATION CAPTION DESIGN
 Scene-adaptive high-contrast flat caption; wording exact.
 
 SPOILER BOUNDARY
-Hyejin does not learn about Hyun-woo or supernatural truth yet.
+Hyejin does not learn about Hyun-woo or supernatural truth. Nari only implies that screens at home are unsafe.
 
 PAGE FORMAT AND PACING
 Exactly 6 panels.
@@ -65,20 +65,20 @@ PAGE LAYOUT AND SCRIPT
 PANEL 1 — Establish Nth Pixel Studio later that day. Nari is already at her workstation after the unshown ordinary commute and is writing in the physical notebook.
 LARGE CAPTION: LATER THAT DAY — NTH PIXEL STUDIO
 
-PANEL 2 — Hyejin approaches/stops beside desk and notices notebook.
-HYEJIN: YOU'RE WRITING BUG REPORTS ON PAPER NOW?
+PANEL 2 — Hyejin approaches/stops beside desk and notices Nari deliberately using the paper notebook instead of a screen.
+HYEJIN: YOU'RE USING PAPER NOW?
 
-PANEL 3 — Nari keeps writing, deadpan.
-NARI: OFFLINE BUILD.
+PANEL 3 — Nari keeps writing, deadpan and intentionally vague.
+NARI: JUST FOR THIS.
 
-PANEL 4 — Hyejin gives her a skeptical but grounded coworker look.
-HYEJIN: THAT'S NOT WHAT OFFLINE MEANS.
+PANEL 4 — Hyejin gives her a curious, grounded coworker look.
+HYEJIN: WHY?
 
-PANEL 5 — Nari finally glances up.
-NARI: IT IS IN MY APARTMENT.
+PANEL 5 — Nari finally glances up. She gives a truthful but incomplete answer that does not reveal Hyun-woo or the supernatural details.
+NARI: SCREENS ARE A BAD IDEA AT HOME.
 
-PANEL 6 — Hyejin studies her, decides not to press.
-HYEJIN: I'M NOT EVEN GOING TO ASK.
+PANEL 6 — Hyejin's expression shifts from teasing curiosity to genuine concern. She does not know what Nari means, but the answer sounds serious enough to worry her.
+HYEJIN: ...SHOULD I BE WORRIED?
 
 SFX AND TEXT BLENDING
 No SFX.
@@ -87,10 +87,10 @@ TEXT AND LETTERING RULES
 Exact caption/dialogue only plus markers. No fake game UI text, brands, logos, code, slogans, or filler Korean copy.
 
 STORY CLARITY
-Reader must understand time has advanced, the location is now Nth Pixel Studio, Mrs. Na's departure/commute happened during the narrated cut, Nari is using paper because digital records are unsafe, and Hyejin interprets it as strange work behavior.
+Reader must understand time has advanced, the location is now Nth Pixel Studio, Mrs. Na's departure/commute happened during the narrated cut, Nari is intentionally using paper because screens at home are unsafe, and Hyejin becomes concerned without learning the supernatural truth.
 
 AVOID
-Avoid an uncaptioned apartment-to-office teleport; generating Page 8 before Hyejin canonical PNG approval; old line `I'M GOING TO PRETEND THAT ANSWER WAS NORMAL.`; supernatural office effects; teen designs; Nari/Hyejin look-alike drift; branded enamel pins; readable console branding; extra coworkers speaking; glossy/cinematic/reflective rendering; or corporate-logo clutter.
+Avoid an uncaptioned apartment-to-office teleport; generating Page 8 before Hyejin canonical PNG approval; obsolete technical dialogue such as `YOU'RE WRITING BUG REPORTS ON PAPER NOW?`, `OFFLINE BUILD.`, or `THAT'S NOT WHAT OFFLINE MEANS.`; supernatural office effects; teen designs; Nari/Hyejin look-alike drift; branded enamel pins; readable console branding; extra coworkers speaking; glossy/cinematic/reflective rendering; or corporate-logo clutter.
 ```
 
 ## Locked Reader-Facing Text
@@ -98,11 +98,11 @@ Avoid an uncaptioned apartment-to-office teleport; generating Page 8 before Hyej
 | PanelText | Type / Source | Text |
 |---|---|---|
 | 1 Time/location | Large narration caption | `LATER THAT DAY — NTH PIXEL STUDIO` |
-| 2 Hyejin | Spoken | `YOU'RE WRITING BUG REPORTS ON PAPER NOW?` |
-| 3 Nari | Spoken | `OFFLINE BUILD.` |
-| 4 Hyejin | Spoken | `THAT'S NOT WHAT OFFLINE MEANS.` |
-| 5 Nari | Spoken | `IT IS IN MY APARTMENT.` |
-| 6 Hyejin | Spoken | `I'M NOT EVEN GOING TO ASK.` |
+| 2 Hyejin | Spoken | `YOU'RE USING PAPER NOW?` |
+| 3 Nari | Spoken | `JUST FOR THIS.` |
+| 4 Hyejin | Spoken | `WHY?` |
+| 5 Nari | Spoken | `SCREENS ARE A BAD IDEA AT HOME.` |
+| 6 Hyejin | Spoken | `...SHOULD I BE WORRIED?` |
 
 ## Required Panel Order Markers
 `1` through `6`.
