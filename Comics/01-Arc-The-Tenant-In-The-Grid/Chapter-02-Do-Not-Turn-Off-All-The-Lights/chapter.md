@@ -141,9 +141,21 @@ Mrs. Na looks sharply at Nari.
 
 "You know there was."
 
-Mrs. Na checks her analog watch even though it is morning. Nari notices.
+Mrs. Na's attention drops to her old analog watch. She does not explain the gesture, and Nari notices without questioning her.
 
-Only after the exchange does Nari shift aside and Mrs. Na physically cross the threshold. Nari closes the front door behind her.
+Narration:
+
+`MRS. NA'S EYES DROPPED TO HER WATCH.`
+
+Mrs. Na gives a quick guarded look down the corridor. Nari shifts aside, and Mrs. Na physically crosses the threshold.
+
+Narration:
+
+`AFTER A QUICK LOOK DOWN THE HALL, SHE STEPPED INSIDE.`
+
+Nari closes the front door behind her.
+
+CLICK.
 
 ---
 
@@ -253,23 +265,25 @@ Nari sits at her workstation in her established Nth Pixel work look with her nor
 
 Koo Hyejin, the QA lead, stops beside her desk. Her approved canonical design is used: blunt shoulder-length copper bob, rectangular glasses, expressive eyebrows, oversized denim jacket with generic enamel pins, and a handheld-console-shaped phone case with no readable brand/logo.
 
-"You're writing bug reports on paper now?"
+Hyejin notices the paper notebook.
+
+"You're using paper now?"
 
 Nari keeps writing.
 
-"Offline build."
+"Just for this."
 
 Hyejin looks at her.
 
-"That's not what offline means."
+"Why?"
 
-Nari finally glances up.
+Nari finally glances up and gives a truthful but incomplete answer.
 
-"It is in my apartment."
+"Screens are a bad idea at home."
 
-Hyejin studies her.
+Hyejin's expression shifts from teasing curiosity to genuine concern.
 
-"I'm not even going to ask."
+"...Should I be worried?"
 
 ---
 
@@ -277,27 +291,31 @@ Hyejin studies her.
 
 Direct continuation at the same workstation. Hyejin remains beside Nari, matching the same approved canonical identity and Page 8 wardrobe/environment continuity.
 
-Nari tries to make the question sound hypothetical.
+Nari does not answer Hyejin's concern directly. Instead, she tries to ask for advice without explaining what is actually happening at home.
 
-"If a bug only happens under one very specific condition..."
+"Can I ask you something weird?"
 
-Hyejin answers simply.
+Hyejin gives her a dry look.
 
-"Change one thing at a time."
+"I think you already are."
 
-Then:
+Nari keeps the real details hidden.
 
-"And don't start with the thing that can break everything."
+"If something at home kept happening and you didn't know why..."
 
-Nari's pen stops briefly.
+Hyejin answers in ordinary common-sense language.
 
-"Right."
+"I'd start small. Just one thing."
 
-Hyejin notices.
+Nari's expression becomes more serious.
 
-"Why do I feel like you're about to?"
+"And if that one thing could go bad?"
 
-Nari closes the notebook instead of answering.
+Hyejin's teasing disappears.
+
+"Then I'd make sure someone knew what I was doing."
+
+Hyejin still does not know about Hyun-woo, the hostile system, or the supernatural rules. Her final line functions as an ordinary safety warning before Nari's later home experiment.
 
 ---
 
