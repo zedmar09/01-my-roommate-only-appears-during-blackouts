@@ -9,7 +9,7 @@ IMAGE-ONLY EXECUTION LOCK
 FINAL prompt. Execute literally, image only. No script rewrite, alternate blocking, invented text, or scene reset.
 
 READER-FACING TEXT LOCK — ABSOLUTE
-Exact dialogue wording/source/order/panel assignment is immutable.
+Exact dialogue, narration, SFX wording/source/order/panel assignment is immutable.
 
 IMPORTANT REFERENCES
 Use `../../../characters.md`, `../../style-guide.md`, approved Page 3 as mandatory threshold/character-position continuity.
@@ -30,7 +30,7 @@ POWER AND SUPERNATURAL RULE LOCK
 No supernatural device activation and no Hyun-woo body/voice.
 
 CHARACTER CONSISTENCY
-Same Nari and Mrs. Na outfits/identities from Page 3. Mrs. Na's analog watch is a deliberate recurring clue.
+Same Nari and Mrs. Na outfits/identities from Page 3. Mrs. Na's analog watch is a deliberate recurring clue; do not explain the clue on this page.
 
 SETTING AND PROP CONTINUITY
 Open front door/threshold remains fixed Panels 1–5. Panel 6 Mrs. Na crosses into Unit 2407. Panel 7 Nari closes the door behind her. No teleportation.
@@ -39,16 +39,16 @@ OBJECT SCALE AND SPATIAL LOGIC
 Door, corridor, key ring, handbag, watch stay realistic scale. Show threshold crossing physically.
 
 CONTINUITY
-Mrs. Na's reaction to Hyun-woo's name continues immediately; she connects Nari's dining-table encounter to the blackout.
+Mrs. Na's reaction to Hyun-woo's name continues immediately; she connects Nari's dining-table encounter to the blackout. The final three panels must remain readable to a first-time reader: watch clue → guarded move inside → door closes for privacy.
 
 TIME AND SCENE CONTINUITY
 NO TIME CAPTION — exact continuation from Page 3.
 
 NARRATION CAPTION DESIGN
-No narration.
+Panels 5 and 6 contain short observational narration only. Use small, clean, high-contrast flat narration boxes that do NOT resemble a time/location transition caption. Do not add narration anywhere else.
 
 SPOILER BOUNDARY
-Do not explain Mrs. Na's full knowledge or Hyun-woo's origin.
+Do not explain Mrs. Na's full knowledge, why she checks the watch, or Hyun-woo's origin.
 
 PAGE FORMAT AND PACING
 Exactly 7 panels.
@@ -69,25 +69,26 @@ MRS. NA: THERE WAS A BLACKOUT.
 PANEL 4 — Nari flatly answers.
 NARI: YOU KNOW THERE WAS.
 
-PANEL 5 — Mrs. Na checks her old analog wristwatch even though it is morning. Nari notices. Door remains open; no dialogue.
+PANEL 5 — Mrs. Na's eyes drop to her old analog wristwatch. She does not explain the gesture. Nari notices but does not question her. Door remains open.
+NARRATION: MRS. NA'S EYES DROPPED TO HER WATCH.
 
-PANEL 6 — Nari shifts aside and Mrs. Na physically crosses threshold for first time on this page.
-No text.
+PANEL 6 — Mrs. Na gives a quick guarded look down the corridor. Nari shifts aside, and Mrs. Na physically crosses the threshold for the first time on this page.
+NARRATION: AFTER A QUICK LOOK DOWN THE HALL, SHE STEPPED INSIDE.
 
-PANEL 7 — Nari closes front door behind Mrs. Na. Both are now inside entry/living area, ready for private conversation.
-No text.
+PANEL 7 — Mrs. Na is fully inside Unit 2407. Nari closes the front door behind her. Both are now inside the entry/living area, ready for the private conversation that continues on Page 5.
+SFX, front-door latch: CLICK
 
 SFX AND TEXT BLENDING
-No added door SFX or filler text.
+`CLICK` belongs only to the front-door latch closing in Panel 7. Keep it small and physical, not dramatic or electrical. Do not add footsteps, door creaks, watch sounds, or other filler SFX.
 
 TEXT AND LETTERING RULES
-Exact four dialogue lines only plus markers. Bubble tails unambiguous.
+Use exactly the four dialogue lines, two narration lines, one `CLICK` SFX, and circled panel markers. Bubble tails unambiguous. Narration has no speech-bubble tail.
 
 STORY CLARITY
-Reader must understand Mrs. Na already knows a blackout is relevant and only enters after this exchange.
+Reader must understand Mrs. Na already knows a blackout is relevant, her unexplained watch glance is intentional, she checks the corridor before entering, and Nari closes the door so the conversation can continue privately inside Unit 2407.
 
 AVOID
-Avoid Mrs. Na inside before Panel 6, door closing early, watch omitted, scene teleportation, extra dialogue/SFX, or supernatural imagery.
+Avoid Mrs. Na inside before Panel 6, door closing early, watch omitted, Nari verbally questioning the watch, explaining why Mrs. Na checks it, scene teleportation, extra dialogue/narration/SFX beyond the locked text, or supernatural imagery.
 ```
 
 ## Locked Reader-Facing Text
@@ -98,6 +99,9 @@ Avoid Mrs. Na inside before Panel 6, door closing early, watch omitted, scene te
 | 2 Nari | Spoken aloud | `AT MY DINING TABLE.` |
 | 3 Mrs. Na | Spoken aloud | `THERE WAS A BLACKOUT.` |
 | 4 Nari | Spoken aloud | `YOU KNOW THERE WAS.` |
+| 5 Narration | Observational narration | `MRS. NA'S EYES DROPPED TO HER WATCH.` |
+| 6 Narration | Observational narration | `AFTER A QUICK LOOK DOWN THE HALL, SHE STEPPED INSIDE.` |
+| 7 Door latch | SFX | `CLICK` |
 
 ## Required Panel Order Markers
 `1` through `7`.
