@@ -1,6 +1,6 @@
 # Chapter 02 Final Audit
 
-Status: **PASS — APPROVED CHAPTER 1 ARTWORK CONTINUITY CORRECTION COMPLETE / ZERO KNOWN DOCUMENTATION DEFECTS**
+Status: **PASS — APPROVED ARTWORK CONTINUITY + PAGE 4/8/9 READABILITY REVISION COMPLETE / ZERO KNOWN DOCUMENTATION DEFECTS**
 
 ## Audited Package
 
@@ -18,7 +18,7 @@ Status: **PASS — APPROVED CHAPTER 1 ARTWORK CONTINUITY CORRECTION COMPLETE / Z
 
 Chapter 2 contains exactly **18 story pages** and no Page 019 prompt.
 
-This final correction was triggered by direct comparison against the APPROVED Chapter 1 final artwork. The prior documentation had the correct overall story state but did not explicitly preserve every visually obvious table/environment anchor from the approved image. That has now been corrected.
+The documentation is now synchronized not only for cross-chapter environment continuity but also for the reader-facing Page 4 threshold bridge and the revised plain-language Page 8–9 coworker exchange.
 
 ## Approved Artwork Wins For Visible Continuity
 
@@ -98,7 +98,40 @@ Persistent evidence/safety state remains traceable:
 - pantry inventory five unopened packets
 - hallway lamp still on through morning Mrs. Na visit
 
-This resolves both failure modes: no magical instant cleanup on Pages 1–2, and no unrealistic requirement to preserve dinner clutter forever after a narrated overnight interval.
+## Page 4 Readability Bridge — Final
+
+The former three-panel silent ending is replaced with a subtle readable bridge that preserves the mystery.
+
+Exact final reader-facing additions:
+- P5 narration: `MRS. NA'S EYES DROPPED TO HER WATCH.`
+- P6 narration: `AFTER A QUICK LOOK DOWN THE HALL, SHE STEPPED INSIDE.`
+- P7 front-door latch SFX: `CLICK`
+
+Nari does not verbally question Mrs. Na's watch. The watch remains an unexplained clue. Mrs. Na remains outside through Panel 5, physically crosses the threshold in Panel 6, and the door closes only in Panel 7.
+
+## Pages 8–9 Reader-Friendly Coworker Exchange — Final
+
+The older QA-heavy `BUG REPORTS` / `OFFLINE BUILD` exchange and testing-jargon sequence are retired.
+
+Page 8 exact dialogue:
+- Hyejin: `YOU'RE USING PAPER NOW?`
+- Nari: `JUST FOR THIS.`
+- Hyejin: `WHY?`
+- Nari: `SCREENS ARE A BAD IDEA AT HOME.`
+- Hyejin: `...SHOULD I BE WORRIED?`
+
+Page 9 exact dialogue:
+- Nari: `CAN I ASK YOU SOMETHING WEIRD?`
+- Hyejin: `I THINK YOU ALREADY ARE.`
+- Nari: `IF SOMETHING AT HOME KEPT HAPPENING AND YOU DIDN'T KNOW WHY...`
+- Hyejin: `I'D START SMALL. JUST ONE THING.`
+- Nari: `AND IF THAT ONE THING COULD GO BAD?`
+- Hyejin: `THEN I'D MAKE SURE SOMEONE KNEW WHAT I WAS DOING.`
+
+This accomplishes three things without exposition:
+1. Nari tells a partial truth about screens without revealing Hyun-woo or the hostile system.
+2. Hyejin reads as a concerned coworker/friend rather than a technical advice machine.
+3. Hyejin's final warning foreshadows the risk of Nari's later home test.
 
 ## Complete Power / Manifestation Rule
 
@@ -125,6 +158,7 @@ Therefore:
 | Blue table towel continuity | PASS | Visible P1–2; may be cleaned only across narrated P3 overnight cut. |
 | Direct Page 1–2 continuity | PASS | No cleanup/reset except scripted TV shutdown + cabinet close. |
 | Overnight realism | PASS | P3 exact morning caption licenses ordinary meal cleanup while persistent evidence survives. |
+| P4 readability | PASS | Watch clue → hall glance/threshold cross → door `CLICK`; no confusing silent tail. |
 | Time/location jumps | PASS | Only P3, P8, P10; all have exact large captions. |
 | All other page transitions | PASS | Direct physical continuation; no invented time/location jumps. |
 | Page sequence | PASS | Exactly P001–P018. |
@@ -133,6 +167,9 @@ Therefore:
 | Nari identity | PASS | Canonical PNG authority whenever visible. |
 | Mrs. Na identity | PASS | Canonical P3–7. |
 | Hyejin identity | PASS WITH PRECONDITION | Canonical PNG mandatory before P8. |
+| P8 dialogue readability | PASS | Plain paper/screens conversation; no QA jargon. |
+| P9 dialogue readability | PASS | Concern/safety conversation in ordinary language. |
+| P9 foreshadow | PASS | Hyejin warns Nari to make sure someone knows before risky action. |
 | Wardrobe path | PASS | Ch1 home → morning home continuity → work → narrated return to same home outfit P10–18. |
 | Mrs. Na movement | PASS | Outside → threshold crossing → inside → prepares to leave; P8 time cut covers departure. |
 | P8 location jump | PASS | `LATER THAT DAY — NTH PIXEL STUDIO`; no apartment→office teleport. |
@@ -159,21 +196,29 @@ Therefore:
 | Hyun-woo physical rule | PASS | voice-only entire chapter. |
 | Unplugged speaker behavior | PASS | weak intermittent bursts only. |
 | Device signatures | PASS | helpful/hostile signatures never swapped. |
-| Dialogue readability | PASS | no dense QA/electrical jargon; safety terms only where needed. |
+| Dialogue readability | PASS | Page 8–9 technical exchange removed; safety terms only where needed. |
 | Visual style | PASS | 100% flat matte 2D human-drawn; glossy/cinematic/reflective/3D/painterly rejected. |
 | Spoiler boundary | PASS | no origin/culprit/Black Surge name/restoration/memory-cost reveal. |
 
-## Exact Final Transition / Rule Watchlist
+## Exact Final Transition / Dialogue / Rule Watchlist
 
 Automatic reject if obsolete text appears:
 - P3 old caption `THE NEXT MORNING` without location
+- P4 silent Panels 5–7 with no narration/SFX bridge
 - P6 old `LOSING THE APARTMENT'S POWER DOES THAT.` without `AFTER MIDNIGHT`
 - P8 old caption `LATER THAT DAY` without location
+- P8 `YOU'RE WRITING BUG REPORTS ON PAPER NOW?`
+- P8 `OFFLINE BUILD.`
+- P8 `THAT'S NOT WHAT OFFLINE MEANS.`
+- P8 `IT IS IN MY APARTMENT.`
+- P8 `I'M NOT EVEN GOING TO ASK.`
+- P9 `IF A BUG ONLY HAPPENS UNDER ONE VERY SPECIFIC CONDITION...`
+- P9 `CHANGE ONE THING AT A TIME.`
+- P9 `AND DON'T START WITH THE THING THAT CAN BREAK EVERYTHING.`
+- P9 `ONE VARIABLE AT A TIME.` / `CATASTROPHIC BRANCH IN PRODUCTION.`
 - P10 old caption `LATER THAT NIGHT — AFTER MIDNIGHT` without Unit 2407 location
 - P17 old manifestation condition without `AFTER MIDNIGHT`
 - P5 old `IT'S THE ONE I CAN GIVE YOU.`
-- P8 old `I'M GOING TO PRETEND THAT ANSWER WAS NORMAL.`
-- P9 `ONE VARIABLE AT A TIME.` / `CATASTROPHIC BRANCH IN PRODUCTION.`
 - P10 `I'M LEAVING YOUR IMPORTANT LIGHT ON.` or older `NOT TURNING OFF ALL THE LIGHTS.` sequence
 - P15 repetitive three-`NO.` exchange
 - P16 `THROUGH THE SYSTEM.` / `DON'T NAME IT.`
@@ -205,6 +250,7 @@ Reject any generated page that:
 - changes Page 1–2 visible table/environment anchors without script
 - removes pot/mug/blue table towel before P3 overnight cut
 - moves Mrs. Na inside before P4 P6
+- omits the readable P4 watch → hall glance/entry → door-close sequence
 - has Nari operate P3 doorbell/intercom
 - carries notebook through P11 switch route or P13–16 hallway route
 - puts phone in Nari's hand during P10–14 hostile test
@@ -223,10 +269,11 @@ Reject any generated page that:
 3. Only approved Page N may become continuity reference for N+1.
 4. Enforce exact time/location captions only on P3, P8, P10.
 5. Before P8, generate/QA Hyejin canonical PNG.
-6. Reject wrong script/source/panel count/marker/identity/wardrobe/movement/object path/power state/lighting/device signature/speaker behavior/extra text.
-7. Reject glossy/cinematic/reflection-heavy rendering even if script is otherwise correct.
-8. After P18, run one final rendered-image P1→18 continuity audit.
+6. Enforce revised Page 4, Page 8, and Page 9 reader-facing text exactly.
+7. Reject wrong script/source/panel count/marker/identity/wardrobe/movement/object path/power state/lighting/device signature/speaker behavior/extra text.
+8. Reject glossy/cinematic/reflection-heavy rendering even if script is otherwise correct.
+9. After P18, run one final rendered-image P1→18 continuity audit.
 
 ## Final Result
 
-**PASS — Chapter 2 production documentation is now aligned to the APPROVED Chapter 1 Page 18 artwork at visible environment/object level. The opening must read as the exact next moment: seated Nari, same large noodle pot, same ceramic mug, same blue table towel/cloth, same open cabinet, same already-active unplugged TV, same powered apartment. Page 3 is the first legal cleanup boundary. There are zero known documentation continuity defects.**
+**PASS — Chapter 2 production documentation is aligned to the APPROVED Chapter 1 Page 18 artwork, the Page 4 readability bridge, and the revised reader-friendly Page 8–9 coworker conversation. The opening remains the exact next physical moment from Chapter 1; Page 3 is the first legal cleanup boundary; Pages 3, 8, and 10 are the only elapsed-time/location jumps; and the Page 9 safety warning now cleanly foreshadows Nari's later home experiment without revealing supernatural truth. Zero known documentation defects remain.**
