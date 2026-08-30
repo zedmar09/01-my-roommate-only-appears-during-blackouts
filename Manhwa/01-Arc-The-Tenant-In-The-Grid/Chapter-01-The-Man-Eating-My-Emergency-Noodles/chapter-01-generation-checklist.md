@@ -1,6 +1,6 @@
 # Chapter 1 Manhwa Generation Checklist
 
-Status: **PILOT SPEC LOCKED — READY FOR STRIP 001 TEST**
+Status: **PILOT SPEC REVISED — REGENERATE STRIP 001**
 
 ## Scope
 
@@ -10,7 +10,7 @@ Status: **PILOT SPEC LOCKED — READY FOR STRIP 001 TEST**
 - one continuous reader-visible chapter
 - source Pages 010–018 excluded
 
-## Script Gate
+## Script / Source Gate
 
 For each strip:
 - exact source wording only
@@ -18,6 +18,15 @@ For each strip:
 - exact SFX/device/note text
 - no invented filler dialogue/narration/SFX
 - no production labels in artwork
+- do not silently drop source content assigned to that strip
+
+### Strip 001 completeness gate
+Strip 001 must contain ALL source Comic Page 1 content through:
+- `BLIP`
+- `WELCOME HOME, YOON NARI.`
+- `GREAT. IT TALKS.`
+
+Reject Strip 001 if it ends at `SMART EVERYTHING.` or leaves the speaker/reaction for Strip 002.
 
 ## Identity Gate
 
@@ -35,6 +44,18 @@ Reject if:
 - gutters are mechanically uniform
 - an important reveal has no vertical breathing room
 
+## Whitespace / Canvas-Use Gate — ABSOLUTE
+
+Large white/neutral space is allowed only when it clearly functions as narration spacing, intentional pause, silence, suspense, reveal setup/aftermath, or continuing atmosphere/background.
+
+Reject if:
+- the story content ends and a huge blank tail remains at the bottom
+- the blank area has no narration, pause, reveal, atmosphere, or seam purpose
+- Strip N has a giant bottom gutter and Strip N+1 starts with another giant gutter
+- empty canvas is used merely to make the strip tall
+
+For ordinary seams require only a small controlled buffer, or continue actual environment/background/art toward the bottom.
+
 ## Seam Gate
 
 - identical width for all strips
@@ -49,18 +70,7 @@ Reject if:
 
 ## Apartment / Prop Gate
 
-Preserve source continuity for:
-- binder
-- brass key
-- screenless speaker and plug state
-- TV plug/body
-- refrigerator display/body
-- handwritten note/pen
-- fruit knife under sofa
-- pantry and six noodles
-- desk emergency tray / flashlight / radio / sheathed practical knife
-- hallway lamp
-- phone/tablet states
+Preserve source continuity for binder, brass key, screenless speaker and plug state, TV plug/body, refrigerator display/body, handwritten note/pen, fruit knife, pantry/six noodles, desk emergency tray, flashlight, radio, sheathed practical knife, hallway lamp, phone/tablet states.
 
 ## Device Signature Gate
 
