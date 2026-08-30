@@ -1,32 +1,38 @@
-# Manhwa Chapter 1 Pilot
+# Manhwa Chapter 1 — Full Vertical Adaptation
 
 ## Source Scope
 
-This pilot adapts only source Comic Chapter 1 Pages **001–009** from:
+This chapter adapts the FULL source Comic Chapter 1, Pages **001–018** from:
 
 `Comics/01-Arc-The-Tenant-In-The-Grid/Chapter-01-The-Man-Eating-My-Emergency-Noodles/`
 
-Source Pages 010–018 are intentionally held for a later Manhwa Chapter 2.
+There is no split into a separate Manhwa Chapter 2 for these source pages.
 
 ## Chapter Shape
 
-Reader-facing result: **one continuous vertical chapter**.
+Reader-facing result: **one continuous vertical Chapter 1**.
 
 Internal production plan:
-- 70 read beats (`V01`–`V70`) — production-only
-- 15 technical strips (`strip-001`–`strip-015`) — production-only
+- 146 read beats (`V01`–`V146`) — production-only
+- 32 technical strips (`strip-001`–`strip-032`) — production-only
+- Strips 001–015 adapt source Pages 001–009
+- Strips 016–032 adapt source Pages 010–018
 - no visible beat/strip/page numbering
 
-The chapter ends on the source Page 9 citywide blackout: Nari leaves her charged phone dark, the flashlight/radio fail, and Unit 2407 is left in darkness. The `SLURP` / physical Hyun-woo sequence begins the later Manhwa Chapter 2.
+The chapter begins with Nari moving into Unit 2407 and ends with the still-unplugged TV displaying `NEW TENANT CONFIRMED` while the apartment remains powered.
+
+## No-Dead-Space Rule
+
+Technical strips must feel like portions of one intentional scroll, never incomplete pages. Large vertical spacing is allowed only when it performs a real story function. Do not leave giant empty bottom tails. Do not invent text/SFX as filler; expand existing art, environment, reaction, or atmosphere instead.
 
 ## Files
 
-- `chapter-01-continuous-scroll-plan.md` — exact 70-beat internal flow.
-- `chapter-01-strip-manifest.md` — 15-strip allocation and seam types.
-- `chapter-01-master-scroll-prompt.md` — chapter-wide presentation authority.
-- `chapter-01-generation-checklist.md` — QA/rejection gate.
-- `Production-Strips/` — generation prompts.
+- `chapter-01-continuous-scroll-plan.md` — exact 146-beat internal flow
+- `chapter-01-strip-manifest.md` — 32-strip allocation and seam types
+- `chapter-01-master-scroll-prompt.md` — chapter-wide presentation authority
+- `chapter-01-generation-checklist.md` — QA/rejection gate
+- `Production-Strips/` — generation prompts 001–032
 
 ## Source Authority Rule
 
-The source comic prompt files remain authority for exact dialogue, narration, SFX, device text, prop state, character knowledge, and event order. The manhwa files change presentation/pacing only.
+Source comic prompt files remain authority for exact dialogue, narration, SFX, device text, prop state, character knowledge, event order, movement, and supernatural rules. Manhwa files change presentation/pacing only.

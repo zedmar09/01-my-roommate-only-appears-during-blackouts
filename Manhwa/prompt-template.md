@@ -3,7 +3,7 @@
 Use this structure for every `Production-Strips/strip-###-chatgpt-image-prompt.md`.
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP belonging to the same continuous chapter scroll.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP belonging to the same continuous Chapter 1 scroll.
 
 TECHNICAL ID
 strip-### — production-only. Never print this ID in the artwork.
@@ -12,7 +12,7 @@ CONTINUOUS-CHAPTER LOCK
 This is not a page, episode, or reader-visible part. Its top must continue the approved previous strip and its bottom must hand off naturally to the next strip.
 
 SOURCE AUTHORITY
-Use the assigned source Comic Chapter page(s) and exact locked reader-facing text. Preserve all story content assigned to this strip; change presentation only.
+Use the assigned source Comic Chapter 1 page(s) and exact locked reader-facing text.
 
 INTERNAL READ BEATS
 V##–V## are planning IDs only. Never render them.
@@ -24,25 +24,24 @@ PREVIOUS STRIP
 For strip-002 onward attach approved strip-(N-1) as mandatory environment/wardrobe/seam continuity.
 
 SEAM IN
-State seam type: G / A / E. Describe exactly what continues from previous strip.
-
-SEAM OUT
-State seam type and what remains continuable.
+State seam type: G / A / E.
+Describe exactly what continues from the previous strip.
 
 VERTICAL COMPOSITION
-Use continuous Korean-webtoon/manhwa flow, not a printed-page grid. Use varied composition heights and widths. Reserve negative space only when it has a clear reading function.
+Use variable-width/tall manhwa compositions, not a printed-page grid.
 
-NO DEAD CANVAS
-Do not leave a huge unused white/neutral block at the bottom because the content ended early. Bottom negative space is allowed only for a deliberate narration pause, silence, suspense, reveal aftermath, atmosphere continuation, or a small controlled seam buffer.
-
-If the assigned content is visually short, use the available height intentionally: enlarge meaningful art, extend the environment/atmosphere, give a justified pause, or include the next assigned beat when allowed. Never pad with empty space.
+NO DEAD BOTTOM — ABSOLUTE
+Do not leave a giant unused white/neutral/black tail at the bottom. If the scripted content occupies less than the canvas, expand the EXISTING composition, environment, reaction, atmosphere, or suspense interval. Existing narration/SFX may be designed into the spacing where scripted. Never invent filler text or sound merely to fill space. Use only a compact seam buffer when needed.
 
 SCRIPT LOCK
 List every exact reader-facing line/SFX/device/note text used in this strip.
+
+SEAM OUT
+State seam type for the next join and what must remain continuable. Avoid double blank gaps across adjacent strips.
 
 STYLE
 Follow `Manhwa/style-guide.md`, `vertical-scroll-layout-guide.md`, `seam-continuity-protocol.md`, and `lettering-sfx-guide.md`.
 
 AVOID
-No production IDs, page numbers, circled panel numbers, extra text, brand clutter, identity drift, visible seam, wrong supernatural signature, glossy/photoreal/3D treatment, or purposeless blank bottom tail.
+No production IDs, page numbers, circled panel numbers, extra text, brand clutter, identity drift, visible seam, wrong power state, wrong supernatural signature, purposeless bottom emptiness, or glossy/photoreal/3D treatment.
 ```

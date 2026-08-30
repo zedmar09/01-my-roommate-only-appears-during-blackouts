@@ -1,101 +1,112 @@
 # Chapter 1 Manhwa Generation Checklist
 
-Status: **PILOT SPEC REVISED — REGENERATE STRIP 001**
+Status: **FULL CHAPTER SPEC LOCKED — 32 STRIPS**
 
 ## Scope
 
-- source Comic Chapter 1 Pages 001–009 only
-- 70 internal read beats
-- 15 technical strips
+- source Comic Chapter 1 Pages 001–018
+- 146 internal read beats
+- 32 technical strips
 - one continuous reader-visible chapter
-- source Pages 010–018 excluded
+- Strips 001–015 = source Pages 001–009
+- Strips 016–032 = source Pages 010–018
 
-## Script / Source Gate
+## Script Gate
 
-For each strip:
+For every strip:
 - exact source wording only
 - exact speaker/source ownership
 - exact SFX/device/note text
 - no invented filler dialogue/narration/SFX
 - no production labels in artwork
-- do not silently drop source content assigned to that strip
-
-### Strip 001 completeness gate
-Strip 001 must contain ALL source Comic Page 1 content through:
-- `BLIP`
-- `WELCOME HOME, YOON NARI.`
-- `GREAT. IT TALKS.`
-
-Reject Strip 001 if it ends at `SMART EVERYTHING.` or leaves the speaker/reaction for Strip 002.
 
 ## Identity Gate
 
 - canonical PNG is absolute face/body identity authority
-- previous strip controls current wardrobe/environment state, not identity
-- Hyun-woo never physically appears in this pilot
+- previous approved strip controls environment/wardrobe/pose continuity, not identity
+- attach only characters physically visible in the strip
+- Hyun-woo physical sequence: Strips 017–025 only
+- Strips 028–030 Hyun-woo voice-only: do not attach his PNG
 
 ## Continuous Layout Gate
 
 Reject if:
 - looks like a printed manga page/grid
-- contains circled numbers/page numbers
-- contains `strip-###` or `V##`
-- all compositions have equal height
-- gutters are mechanically uniform
-- an important reveal has no vertical breathing room
+- contains circled/page/strip/beat numbers
+- all compositions have mechanically equal height
+- important reveal has no scroll breathing room
+- huge bottom area is purposeless blank canvas
+- strip feels cut off/unfinished
+- bottom gap plus next top gap creates a double break
 
-## Whitespace / Canvas-Use Gate — ABSOLUTE
+## No-Dead-Space Gate — Absolute
 
-Large white/neutral space is allowed only when it clearly functions as narration spacing, intentional pause, silence, suspense, reveal setup/aftermath, or continuing atmosphere/background.
+Inspect the lower 20–25% of every strip.
 
-Reject if:
-- the story content ends and a huge blank tail remains at the bottom
-- the blank area has no narration, pause, reveal, atmosphere, or seam purpose
-- Strip N has a giant bottom gutter and Strip N+1 starts with another giant gutter
-- empty canvas is used merely to make the strip tall
+Large space is allowed only when it visibly functions as:
+- existing narration/time transition
+- meaningful silence/hesitation
+- reveal delay
+- scripted SFX beat
+- reaction hold
+- atmosphere/environment continuation
+- controlled seam
 
-For ordinary seams require only a small controlled buffer, or continue actual environment/background/art toward the bottom.
+Never invent reader-facing text/SFX just to fill space. Prefer expanding existing art/composition.
 
 ## Seam Gate
 
 - identical width for all strips
 - follow manifest seam type
-- previous approved strip mandatory for 002–015
+- previous approved strip mandatory for 002–032
 - no text split across seam
 - no obvious horizontal join
 - no duplicated/missing background
 - no character/object scale jump
 - no changed apartment/lobby axis
-- overlap, if used, contains no repeated dialogue
+- no unplanned power/lighting jump
 
 ## Apartment / Prop Gate
 
-Preserve source continuity for binder, brass key, screenless speaker and plug state, TV plug/body, refrigerator display/body, handwritten note/pen, fruit knife, pantry/six noodles, desk emergency tray, flashlight, radio, sheathed practical knife, hallway lamp, phone/tablet states.
+Preserve source continuity for binder, brass key, speaker/stockpot/towels/cord, TV plug/body, refrigerator display/body, handwritten note/pen, knives/sheaths, pantry/six noodles, desk emergency tray, candle/holder, noodle pot/trivet/cloth, pushed chair, notebook, hallway lamp, phone/tablet, and south-wall panel.
 
 ## Device Signature Gate
 
-Helpful: clean cyan-white, stable.
+Helpful/Hyun-woo: clean stable cyan-white accent.
 Hostile: broken stark-white + black pixel corruption.
 Never swap.
 
-## P8 Lobby Gate
+## Outage / Hyun-woo Gate — Strips 014–025
 
-Nari and Seungjae enter once and continue inward. Seungjae does not begin leaving until elevator arrives. Phone dies first, then watch/earbuds. Nari's tablet stays in her bag.
+- no phone-screen activation during outage
+- first `SLURP` precedes physical reveal
+- Hyun-woo canonical body/hair/mask/tattoo continuity
+- dining-table geography preserved
+- chair push/rise/crossing shown without teleporting
+- `YOON NARI` then `IDENTITY LOCKING` hostile progression
+- candle extinguish order preserved
+- knife drop occurs before wrist catch
+- city power may return while Unit 2407 remains dark
+- Hyun-woo stays physical until Unit 2407 itself powers on
+- no visible disappearance process
 
-## P9 Blackout Gate
+## Powered Aftermath Gate — Strips 026–032
 
-- hallway lamp on before outage
-- Unit power and city power then fail
-- phone remains completely dark
-- flashlight/radio tests fail
-- knife remains sheathed and untouched
-- no physical Hyun-woo
-- no `SLURP`
+- normal neutral powered baseline throughout
+- no accidental second outage
+- no physical/reflected/silhouetted Hyun-woo
+- door/history/camera/security evidence chain preserved
+- speaker remains unplugged inside storage stockpot
+- practical knife safely sheathed before food handling
+- paper-only / south-wall warning preserved
+- physical A5 notebook used for bug report
+- TV remains visibly unplugged at final activation
 
-## End Gate
+## Final Gate
 
-Strip 015 ends in powerless silence. No teaser card or extra text.
+Strip 032 ends on hostile `NEW TENANT CONFIRMED` plus one `FZZT` light flicker while Unit 2407 stays powered.
+No extra chapter-end copy.
 
 ## Promotion Gate
 
-Even after all 15 strips pass, do not replace `Comics/` without explicit user approval and the requirements in `Manhwa/pilot-promotion-gate.md`.
+Even after all 32 strips pass, do not replace `Comics/` without explicit user approval and `Manhwa/pilot-promotion-gate.md`.
