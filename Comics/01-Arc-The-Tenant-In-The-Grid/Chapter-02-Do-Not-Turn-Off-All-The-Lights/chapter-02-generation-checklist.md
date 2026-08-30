@@ -1,6 +1,6 @@
 # Chapter 02 Image Generation Checklist
 
-Status: **PASS — APPROVED CHAPTER 1 ARTWORK HANDOFF VERIFIED / ZERO KNOWN DOCUMENTATION ISSUES**
+Status: **PASS — APPROVED CHAPTER 1 ARTWORK HANDOFF + READER-FRIENDLY DIALOGUE VERIFIED / ZERO KNOWN DOCUMENTATION ISSUES**
 
 This checklist governs Chapter 2, `Do Not Turn Off All The Lights`, Pages 001–018.
 
@@ -47,6 +47,7 @@ There are **no flashbacks, `HOURS EARLIER`, `5 HOURS EARLIER`, or backward-time 
 - Hyun-woo is voice-only throughout Chapter 2; his callouts must point to actual unplugged speaker hardware when visible or otherwise be unmistakably off-panel speaker audio.
 - Never draw a physical Hyun-woo in Chapter 2.
 - Device text remains on actual device display; notebook text remains physical handwriting.
+- Page 4 Panels 5–6 use narration boxes, not speech bubbles; Panel 7 `CLICK` is the front-door latch.
 
 ## Unplugged-Speaker Communication Guard — ABSOLUTE
 
@@ -187,18 +188,22 @@ After that explicit overnight cut:
 - Overnight caption is what authorizes normal off-panel meal cleanup, including pot/mug/table towel; do not show a same-moment magical reset.
 - Page 3 doorbell source is outside; Nari never operates doorbell/intercom.
 - Mrs. Na stays outside until Page 4 Panel 6 threshold crossing.
+- Page 4 Panel 5 narration exactly `MRS. NA'S EYES DROPPED TO HER WATCH.`
+- Page 4 Panel 6 narration exactly `AFTER A QUICK LOOK DOWN THE HALL, SHE STEPPED INSIDE.`
+- Page 4 Panel 7 front-door latch SFX exactly `CLICK`.
 - Page 5 uses `THAT'S ALL I'M SAYING.`
 - Page 6 must use exact corrected line: `AFTER MIDNIGHT, LOSING THE APARTMENT'S POWER DOES THAT.`
 - Page 6 clearly distinguishes after-midnight unit-power loss from ordinary room-light switching.
 - Page 7 south-wall panel stays closed and untouched.
 
-### Pages 8–9 — Narrated work jump
+### Pages 8–9 — Narrated work jump / concern foreshadow
 - Page 8 exact caption: `LATER THAT DAY — NTH PIXEL STUDIO`.
 - The explicit cut covers Mrs. Na leaving and Nari commuting; do not imply same-moment teleportation.
 - Hyejin canonical PNG mandatory before Page 8.
-- Page 8 Hyejin line: `I'M NOT EVEN GOING TO ASK.`
-- Page 9: `CHANGE ONE THING AT A TIME.` / `AND DON'T START WITH THE THING THAT CAN BREAK EVERYTHING.`
-- Hyejin does not learn supernatural truth.
+- Page 8 dialogue is plain coworker language, not QA jargon: `YOU'RE USING PAPER NOW?` / `JUST FOR THIS.` / `WHY?` / `SCREENS ARE A BAD IDEA AT HOME.` / `...SHOULD I BE WORRIED?`
+- Page 9 continues immediately from Hyejin's concern. Exact six lines: `CAN I ASK YOU SOMETHING WEIRD?` / `I THINK YOU ALREADY ARE.` / `IF SOMETHING AT HOME KEPT HAPPENING AND YOU DIDN'T KNOW WHY...` / `I'D START SMALL. JUST ONE THING.` / `AND IF THAT ONE THING COULD GO BAD?` / `THEN I'D MAKE SURE SOMEONE KNEW WHAT I WAS DOING.`
+- Hyejin does not learn Hyun-woo's identity, the hostile-system truth, or supernatural rules.
+- Hyejin's final warning foreshadows Page 10's risky home experiment without turning Hyejin into a technical exposition device.
 
 ### Pages 10–12 — Narrated return home / controlled light test
 - Page 10 exact caption: `LATER THAT NIGHT — UNIT 2407 — AFTER MIDNIGHT`.
@@ -302,8 +307,8 @@ Require clean ink, matte cel colors, solid blocks, adult proportions, readable b
 ## Reader-Friendly Dialogue Guard
 
 - Ordinary dialogue must remain understandable without QA/electrical expertise.
-- `OFFLINE BUILD.` allowed only as short character joke immediately corrected in plain language.
-- `MAINS-POWERED` allowed only as established exact safety-rule wording.
+- Pages 8–9 intentionally use ordinary coworker/friend language; do not restore the technical `BUG REPORTS` / `OFFLINE BUILD` / `THAT'S NOT WHAT OFFLINE MEANS` exchange or the old QA-testing wording.
+- `MAINS-POWERED` is allowed only as established exact safety-rule wording.
 - Do not reintroduce `ONE VARIABLE AT A TIME`, `CATASTROPHIC BRANCH IN PRODUCTION`, `THROUGH THE SYSTEM`, `DON'T NAME IT`, `I'M LEAVING YOUR IMPORTANT LIGHT ON.`, or Page 6 wording without `AFTER MIDNIGHT`.
 
 ## Post-Generation Approval Gate
@@ -312,4 +317,4 @@ Before approving each page verify: exact panel count, markers, canonical identit
 
 ## Final Result
 
-**PASS — Chapter 2 documentation is aligned to the APPROVED Chapter 1 Page 18 artwork and real-scenario movement/time logic. Pages 1–2 must visibly preserve the approved seated/table/cabinet/TV environment, including the noodle pot, ceramic mug, and blue table towel/cloth. Page 3 is the first legal overnight cleanup boundary. Only Pages 3, 8, and 10 may jump time/location. Hyejin canonical PNG remains mandatory before Page 8. Generated images must still pass page-by-page QA.**
+**PASS — Chapter 2 documentation is aligned to the APPROVED Chapter 1 Page 18 artwork, real-scenario movement/time logic, the Page 4 narration/SFX bridge, and the revised reader-friendly Page 8–9 coworker dialogue. Pages 1–2 preserve the approved seated/table/cabinet/TV environment; Page 3 is the first legal overnight cleanup boundary; only Pages 3, 8, and 10 may jump time/location. Hyejin canonical PNG remains mandatory before Page 8. Generated images must still pass page-by-page QA.**
