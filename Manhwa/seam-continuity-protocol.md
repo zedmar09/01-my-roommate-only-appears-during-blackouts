@@ -6,57 +6,58 @@ Technical image boundaries must disappear after stitching. The reader should nev
 
 ## Seam Types
 
-### G — Gutter Seam
-Preferred when a natural blank/quiet vertical gap exists. End one strip inside the gap and begin the next as a continuation of that same reader-space background.
+### G — Controlled Gutter Seam
+Use when a natural quiet vertical gap exists. This is NOT permission to leave the remainder of the strip empty.
+
+A valid G seam contains only the amount of reader-space needed by the pacing. The previous meaningful art/narration/atmosphere should remain close enough to the bottom that the strip feels intentionally composed.
+
+Never create a huge blank tail at Strip N and another huge blank opening at Strip N+1. Treat the combined stitched gutter as one pacing decision.
 
 ### A — Artwork-Continuation Seam
-Used when a tall composition intentionally crosses files. The lower portion of Strip N and upper portion of Strip N+1 depict the same continuous environment/composition.
+Use when a tall composition intentionally crosses files. The lower portion of Strip N and upper portion of Strip N+1 depict the same continuous environment/composition.
 
 ### E — Effect/Atmosphere Seam
-Used for rain, darkness, glitch fragments, light falloff, city background, or other continuous atmospheric fields.
+Use for rain, darkness, glitch fragments, light falloff, city background, or other continuous atmospheric fields.
 
 ## Previous-Strip Attachment Rule
 
 For every strip after 001, attach the immediately previous APPROVED manhwa strip as mandatory continuity reference.
 
-For A/E seams, the previous strip is especially critical. The next strip must continue:
-- same camera axis/perspective
-- same object scale
-- same wall/floor/background alignment
-- same character wardrobe/identity
-- same continuing pose when the body crosses the seam
-- same lighting/background tone
+For A/E seams preserve same camera axis/perspective, object scale, environment alignment, wardrobe/identity, continuing pose, lighting, and background tone.
 
 ## Overlap Strategy
 
-When practical, intentionally repeat a small lower-edge continuity zone from Strip N at the top of Strip N+1. The duplicate region is cropped during final stitching.
-
-Recommended overlap concept: roughly 10–20% of the visible transition area, not a reader-visible repeated panel.
+When practical, intentionally repeat a small lower-edge continuity zone from Strip N at the top of Strip N+1. Crop the duplicate region during final stitching.
 
 Do not repeat dialogue or SFX inside the overlap.
 
 ## Text Seam Rule — Absolute
 
-Never split these across a seam:
-- speech balloon
-- narration box
-- handwritten message
-- device text
-- critical SFX word
-- a face if the seam would create a visibly mismatched reconstruction
+Never split speech balloons, narration boxes, handwritten messages, device text, critical SFX, or a face when mismatch would be obvious.
 
-A background, torso/legs, furniture, rain field, dark room, or tall effect may continue if continuity can be matched reliably.
+Backgrounds, furniture, rain, darkness, bodies below the face, and tall effects may continue when continuity is reliable.
+
+## Bottom-Edge Intent Gate
+
+Every strip bottom must be one of these:
+- compact intentional gutter,
+- continuing artwork,
+- continuing atmosphere/effect,
+- purposeful narration/silence/reveal aftermath,
+- chapter ending.
+
+A large featureless white/neutral tail with no story purpose is an automatic reject.
 
 ## Seam QA
 
-Before approval compare the bottom of Strip N to the top of Strip N+1:
-- width identical
-- no horizontal white/black accidental line
+Compare bottom of Strip N to top of Strip N+1:
+- identical width
+- no accidental horizontal line
 - no duplicated text
-- no missing floor/wall segment
+- no missing background segment
 - no changed appliance geometry
 - no color-temperature jump
-- no changed character scale
-- no pose teleport
+- no character scale/pose teleport
+- no doubled oversized blank gutter
 
 If the join is obvious at normal phone-scroll speed, reject/regenerate the newer strip before continuing.
