@@ -1,6 +1,6 @@
 # Chapter 02 Continuity Audit
 
-Status: **PASS — APPROVED-ARTWORK CROSS-CHAPTER CONTINUITY VERIFIED / ZERO KNOWN DOCUMENTATION DEFECTS**
+Status: **PASS — APPROVED-ARTWORK CROSS-CHAPTER CONTINUITY + REVISED DIALOGUE VERIFIED / ZERO KNOWN DOCUMENTATION DEFECTS**
 
 ## Production Scope
 
@@ -110,10 +110,19 @@ Wardrobe path:
 ### Mrs. Na — P3–7
 Canonical Mrs. Na; corridor → threshold → inside entry/living → south-wall warning. No teleportation.
 
+Page 4 now has a readable threshold bridge:
+- P5 narration: `MRS. NA'S EYES DROPPED TO HER WATCH.`
+- P6 narration: `AFTER A QUICK LOOK DOWN THE HALL, SHE STEPPED INSIDE.`
+- P7 front-door latch SFX: `CLICK`
+
+The watch remains an unexplained clue; Nari does not ask about it.
+
 ### Hyejin — P8–9
 `Character-References/hyejin-canonical-flat2d-chatgpt-image-prompt.md` exists.
 
 **P8 is blocked until `Character-References/hyejin-canonical-flat2d.png` is generated and QA-approved.** That PNG controls identity on P8–9; approved P8 is secondary environment/wardrobe continuity only.
+
+Hyejin's dialogue is intentionally ordinary coworker/friend language rather than QA jargon. She senses danger but does not learn the supernatural truth.
 
 ### Hyun-woo
 No physical body anywhere in Chapter 2. Voice-only source is same unplugged speaker.
@@ -150,10 +159,10 @@ Hyun-woo's voice through unplugged speaker is limited supernatural borrowed curr
 - P1: Nari stays seated; no approach to TV.
 - P2: table → lower cabinet before closing it.
 - P3: inside apartment → front door before opening.
-- P4: Mrs. Na outside through P5; crosses threshold P6; door closes P7.
+- P4: Mrs. Na outside through P5; looks down hall and crosses threshold P6; door closes with `CLICK` P7.
 - P7: Nari shifts toward kitchen enough to reveal binder/south-wall sightline; neither woman touches panel.
 - P8: explicit later-day studio caption covers Mrs. Na departure and commute; no apartment→office teleport.
-- P9: exact same workstation scene as P8.
+- P9: exact same workstation scene as P8; conversation continues immediately.
 - P10: explicit later-night Unit 2407 caption covers commute home/wardrobe/setup; route table → cabinet → kitchen switch → table.
 - P11: table → living-room switch → bedroom switch → dining-area switch → table; notebook stays table during route.
 - P12: Nari + open notebook remain at dining table; Nari does not approach switch.
@@ -190,11 +199,14 @@ No duplicate numbering remains.
 
 Key corrected final lines:
 - P3 caption: `THE NEXT MORNING — UNIT 2407`
+- P4 narration: `MRS. NA'S EYES DROPPED TO HER WATCH.`
+- P4 narration: `AFTER A QUICK LOOK DOWN THE HALL, SHE STEPPED INSIDE.`
+- P4 door-latch SFX: `CLICK`
 - P5: `THAT'S ALL I'M SAYING.`
 - P6: `AFTER MIDNIGHT, LOSING THE APARTMENT'S POWER DOES THAT.`
 - P8 caption: `LATER THAT DAY — NTH PIXEL STUDIO`
-- P8: `I'M NOT EVEN GOING TO ASK.`
-- P9: `CHANGE ONE THING AT A TIME.` / `AND DON'T START WITH THE THING THAT CAN BREAK EVERYTHING.`
+- P8: `YOU'RE USING PAPER NOW?` / `JUST FOR THIS.` / `WHY?` / `SCREENS ARE A BAD IDEA AT HOME.` / `...SHOULD I BE WORRIED?`
+- P9: `CAN I ASK YOU SOMETHING WEIRD?` / `I THINK YOU ALREADY ARE.` / `IF SOMETHING AT HOME KEPT HAPPENING AND YOU DIDN'T KNOW WHY...` / `I'D START SMALL. JUST ONE THING.` / `AND IF THAT ONE THING COULD GO BAD?` / `THEN I'D MAKE SURE SOMEONE KNEW WHAT I WAS DOING.`
 - P10 caption: `LATER THAT NIGHT — UNIT 2407 — AFTER MIDNIGHT`
 - P10: `I'M LEAVING THE HALL LIGHT ON.`
 - P15: `THE POWER NEVER WENT OUT.` / `SO THE DARK ISN'T WHAT MAKES YOU PHYSICAL.` / `RIGHT.`
@@ -206,9 +218,10 @@ Do not restore obsolete wording or shorter power rule that omits `AFTER MIDNIGHT
 ## Reader-Technicality Check
 
 PASS:
-- normal dialogue conversational without QA/electrical expertise.
-- `OFFLINE BUILD.` is short character joke immediately corrected in plain language.
-- `MAINS-POWERED` retained only as established safety-rule term.
+- Pages 8–9 no longer use the `BUG REPORTS` / `OFFLINE BUILD` / QA-advice exchange.
+- Hyejin and Nari now speak in ordinary coworker/friend language.
+- Hyejin's Page 9 final warning `THEN I'D MAKE SURE SOMEONE KNEW WHAT I WAS DOING.` foreshadows the risky Page 10 test without revealing supernatural details.
+- `MAINS-POWERED` remains only as an established safety-rule term.
 - notebook observations use concrete readable language.
 
 ## Flat Matte Visual Style Check
@@ -229,4 +242,4 @@ Do not reveal:
 
 ## Verification Result
 
-**PASS — Chapter 2 is cross-checked against the APPROVED Chapter 1 Page 18 artwork at visible environment/object level and against a real-scenario time/location model. Pages 1–2 preserve the approved seated/table/cabinet/TV scene, including the noodle pot, ceramic mug, and blue table towel/cloth. Page 3 is the first legal cleanup boundary. Only Pages 3, 8, and 10 contain approved elapsed-time/location cuts. No known documentation continuity defect remains.**
+**PASS — Chapter 2 is cross-checked against the APPROVED Chapter 1 Page 18 artwork at visible environment/object level, a real-scenario time/location model, the Page 4 narration/SFX bridge, and the revised Page 8–9 reader-friendly coworker exchange. Pages 1–2 preserve the approved seated/table/cabinet/TV scene. Page 3 is the first legal cleanup boundary. Only Pages 3, 8, and 10 contain approved elapsed-time/location cuts. No known documentation continuity defect remains.**
