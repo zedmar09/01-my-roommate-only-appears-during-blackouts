@@ -1,129 +1,151 @@
-# Chapter 1 Manhwa Generation Checklist
+# Chapter 1 Continuous Manhwa Generation Checklist
 
-Status: **PILOT — SCROLLS 001–003 READY FOR VISUAL TEST**
+Status: **PILOT / ONE-CONTINUOUS-SCROLL FORMAT**
 
-## Before Every Generation
+## Absolute Format Gate
 
-- read the current scroll prompt completely
-- attach only required canonical character PNGs
-- attach previous APPROVED manhwa slice when direct continuity applies
-- do not attach rejected/provisional manhwa slices
-- do not use source comic page layout as the new composition template
+- Chapter 1 is one continuous vertical scroll.
+- Working width is 1080 px.
+- Final publishing width is 800 px.
+- Technical strips are not separate pages or scroll episodes.
+- No circled panel numbers.
+- No page numbers.
+- No repeated chapter title inside the body.
+- No visible strip seam.
+- No fixed comic-page grid.
 
-## Global Format
+Automatic reject if a generated strip looks like a self-contained printed page with a top/bottom page composition.
 
-- vertical-scroll phone reading
-- no circled panel numbers
-- no fixed 2-column/3-column comic-page grid
-- varied panel widths/heights
-- variable vertical gutters
-- readable text at phone scale
-- stitchable top/bottom edges
+## Technical Strip Gate
 
-## Global Art
+Every `strip-###`:
+- same exact 1080 px width
+- height may vary
+- may use a small continuity overlap at top
+- overlap is cropped during stitch
+- ends only in a safe gutter or completed low-information beat
+- never cuts a balloon, face, important hand action, SFX, or screen text
+- contains no strip label in artwork
+
+## Character References
+
+Attach only visible canonical characters:
+- Nari: `Character-References/nari-canonical-flat2d.png`
+- Mrs. Na: `Character-References/mrs-na-canonical-flat2d.png`
+- Seungjae: `Character-References/seungjae-canonical-flat2d.png`
+- Hyun-woo: `Character-References/hyunwoo-canonical-flat2d.png` only when physically visible
+
+Do not attach Hyun-woo during voice-only/powered states unless a specific prompt explicitly requires it.
+
+## Story Continuity Gate
+
+Use the approved Chapter 1 source story as authority for:
+- event order
+- dialogue meaning/text
+- time/location
+- power state
+- who is physically present
+- apartment geography
+- prop inventory and movement
+- helpful vs hostile device signatures
+
+The manhwa adaptation may recompose panel count/camera/gutters but may not create teleportation or change lore.
+
+## One-Scroll Composition Gate
 
 Require:
-- polished modern full-color 2D manhwa
-- canonical faces/proportions
-- detailed key environments
-- controlled character shading
-- matte believable materials
-- clear hand/object interaction
-- expressive reaction close-ups
+- varied panel widths
+- full-width establishing/reveal art where earned
+- centered medium dialogue panels
+- narrow clue inserts used sparingly
+- vertical negative space used intentionally
+- no mechanical equal spacing
+- no multi-column newspaper layout
+
+## Lettering Gate
+
+- mobile readable after 1080 → 800 uniform scale
+- correct speaker tails
+- narration visually distinct
+- device text on the actual device
+- no fake UI filler
+- no brands/logos
+- SFX at exact source
+
+## SFX Gate
+
+Quiet local SFX stay restrained.
+Medium action/electrical SFX integrate into the art.
+Major impact SFX may cross panel edges when readable.
+
+Do not invent filler sounds.
+
+## Visual Style Gate
+
+Require:
+- polished original 2D Korean-webtoon rendering
+- canonical identities
+- controlled cel/soft-cel shadows
+- detailed establishing environments
+- matte surfaces
+- readable lighting
 
 Reject:
-- photorealism
-- 3D/CG-looking people
-- glossy plastic skin/hair
-- excessive bloom/rim light/lens flare
-- fake cinematic blur
-- apartment geometry drift
-- generic AI luxury-apartment redesign
+- photoreal
+- 3D/CG
+- glossy plastic hair/skin
+- mirror-like surfaces
+- bloom-heavy cinematic rendering
+- excessive blur
+- copied compositions from the reference title
 
-## Text
+## Chapter-Specific Reveal Gate
 
-- exact approved dialogue/narration/device text
-- white dialogue balloons with dark outline
-- clear tails
-- narration boxes separate from speech
-- device text physically on device
-- no invented labels/UI/logos
-- no panel numbers
+Give extra vertical breathing room before:
+- `YOU COULD SAY PLEASE.`
+- unplugged TV still active
+- handwritten reply
+- blackout
+- `SLURP`
+- physical Hyun-woo reveal
+- `YOON NARI`
+- `IDENTITY LOCKING`
+- Hyun-woo absence after power return
+- unplugged speaker talking again
+- `NEW TENANT CONFIRMED`
 
-## SFX
+## Blackout Background Gate
 
-- use only scripted/approved SFX
-- source-aligned
-- scale proportional to impact
-- do not flood quiet scenes with unnecessary footsteps/cloth sounds
+Before actual outage: keep reader background light/neutral.
+During actual outage: transition into charcoal/black continuous background.
+Do not switch to black merely for random drama.
+Return toward light background only after power/reality stabilizes.
 
-## Device Signature
+## Assembly Gate
 
-Helpful / Hyun-woo:
-- clean stable cyan-white
+After stitching approved strips:
+- exactly one continuous 1080 px master
+- no doubled overlap
+- no accidental missing pixels/gutter jump
+- no seam color mismatch
+- no duplicated dialogue/SFX
+- no width mismatch
+- no artificial blank band at strip boundaries
 
-Hostile system:
-- broken/doubled stark white
-- black crawling pixels
+Then uniformly resize the complete master to 800 px width.
 
-Automatic reject if signatures are swapped.
+If platform upload requires multiple files, cut the finished 800 px master into same-width blocks with no added space. These are delivery files only.
 
-## Chapter 1 Continuity
+## Pilot Approval
 
-- Nari identity from canonical PNG
-- Mrs. Na identity from canonical PNG
-- Seungjae identity from canonical PNG
-- Hyun-woo physical identity from canonical PNG only when physically visible
-- Unit 2407 layout remains one real apartment
-- brass key, binder, speaker, TV, pantry, notebook, knives, lights, and other evidence follow source canon
-- no object teleportation inside continuous scenes
+First assemble technical strips 001–003 into one continuous top-of-chapter sample.
 
-## Pilot 001 QA — Move-In
+Approve based on the **stitched result**:
+- does it read as one webtoon chapter?
+- are gutters natural?
+- does text read on mobile?
+- do panel widths vary naturally?
+- does the apartment remain continuous?
+- are strip seams invisible?
 
-Approve only if:
-- Nari clearly reads as canonical adult Nari
-- apartment feels attractive but plausibly too-cheap, not haunted immediately
-- smart-home devices are generic/no brands
-- screenless speaker is visually established clearly
-- `WELCOME HOME, YOON NARI.` is tied to speaker
-- `GREAT. IT TALKS.` reads as dry, not terrified
-- scroll uses varied panel heights and breathing room
-
-## Pilot 002 QA — Mrs. Na Warning
-
-Approve only if:
-- direct continuity with established Unit 2407 entry/hallway
-- Mrs. Na matches canonical reference
-- binder and brass key are visible/credible household scale
-- hallway lamp becomes a visual anchor
-- Mrs. Na's hesitation before the screen warning has extra scroll space
-- phone/tablet are shown only as examples in the rule; no supernatural effect occurs
-- the scene stays grounded and conversational
-
-## Pilot 003 QA — Speaker Answers Back
-
-Approve only if:
-- one-week time jump is explicit/readable
-- automation annoyance montage is quick/lightly comic
-- normal assistant voice and human male voice feel distinct in lettering/source
-- light flicker is restrained
-- fallen chopsticks are readable
-- substantial suspense gutter appears before `YOU COULD SAY PLEASE.`
-- no physical Hyun-woo appears
-- Nari physically unplugs the speaker at the end
-
-## Pilot Lock After Approval
-
-Once 001–003 are approved, record and preserve:
-- line weight
-- eye rendering
-- skin/hair shading density
-- apartment material treatment
-- normal-scene gutter size
-- suspense gutter size
-- bubble outline/shape
-- narration treatment
-- SFX treatment
-- device text type treatment
-
-Only after those are locked should Scrolls 004–012 receive final generation prompts.
+Only after this passes should the rest of Chapter 1 be generated.

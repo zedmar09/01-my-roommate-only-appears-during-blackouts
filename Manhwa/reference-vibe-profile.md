@@ -1,110 +1,98 @@
-# Reference Vibe Profile — Modern Vertical-Scroll Manhwa
+# Reference Vibe Profile — Continuous Korean Webtoon Reader
 
-Reference study target: the linked Asura Scans presentation of `Surviving The Game as a Barbarian`, Chapter 1, plus the user's supplied visual references when available.
+## Reference Observation
 
-This file describes **high-level production characteristics only**. It must never be used to copy exact artwork, panels, character designs, backgrounds, poses, dialogue, SFX shapes, or page composition from another series.
+The target reading experience is the **continuous chapter presentation** used by modern scanlation/webtoon readers such as Asura: one chapter opens into a single centered vertical reading column. The site may store that chapter as many sequential images for delivery, but those images behave as invisible technical slices inside one uninterrupted scroll.
 
-## Reading Experience To Reproduce
+For this project, that means:
+- no page-turn rhythm
+- no repeated page header/footer
+- no visible chunk boundary
+- no fixed six-panel page grid
+- no `Scroll 001` / `Scroll 002` labels in artwork
+- one consistent width from first story image to final cliffhanger
 
-The desired feeling is a professionally assembled full-color manhwa chapter that reads naturally on a phone:
+## Visual Rhythm To Capture
 
-- one centered vertical reading column
-- full-width establishing panels mixed with tighter portraits/inserts
-- generous vertical negative space before reveals or important answers
-- dialogue allowed to breathe instead of filling every frame
-- background detail concentrated where geography matters
-- close-ups and simplified backgrounds used for emotional beats
-- strong top-to-bottom visual flow without panel numbers
-- major reveal panels given more vertical space than ordinary dialogue panels
-- SFX integrated into the artwork instead of placed as detached captions
-- lettering that remains readable on a narrow mobile screen
+Use the broad commercial Korean-webtoon language:
+- large full-width establishing images
+- medium-width dialogue panels centered in the column
+- occasional narrow close-up/inset panels
+- borderless art that can bleed into the gutter
+- long white or dark vertical breathing spaces before important reveals
+- action/SFX allowed to break conventional panel edges when readable
+- detailed environment at scene openings, simplified background during close emotional exchange
+- strong close-up reaction shots at turning points
+
+Do not imitate any exact panel from the reference title.
 
 ## Art Density
 
-Use a **detailed 2D manhwa finish**, richer than the existing flat comic-page test but still clearly illustrated.
+Target polished serialized manhwa quality rather than flat storyboard art:
+- clean confident 2D linework
+- controlled cel/soft-cel shadow layers
+- localized highlights, not glossy global shine
+- readable material differences on fabric, wall, wood, brushed metal, glass, rain, candle flame
+- backgrounds detailed enough to establish geography
+- facial expressions clear at phone scale
+- hands and props carefully drawn because the story depends on switches, cords, keys, notebook, knife, speaker, TV, and refrigerator
 
-Required:
-- confident clean line art
-- controlled cel-to-soft hybrid shading, with character forms remaining graphic and readable
-- detailed key environments, especially Unit 2407, hallway, lobby, kitchen/dining area, and blackout scenes
-- strong value separation between foreground characters and background
-- subtle ambient color in backgrounds
-- expressive eyes, hands, silhouette, posture, and facial acting
-- controlled texture in fabric, walls, rain, concrete, wood, metal, and screen corruption
+Keep the result illustrated, not photorealistic or 3D-rendered.
 
-Avoid:
-- photoreal faces
-- 3D/CG-looking characters
-- plastic/glossy skin
-- excessive bloom
-- mirror-like appliance reflections
-- lens flare
-- overdone rim light
-- muddy painterly faces
-- hyper-detailed clutter that competes with dialogue
+## Color / Lighting Rhythm
 
-## Panel Rhythm
+Normal life:
+- warmer, clearer, more open backgrounds
+- light gutters
 
-A typical sequence should use this rhythm where appropriate:
+Suspicion:
+- slightly cooler local values
+- more negative space
+- isolated object inserts
 
-`establish → medium interaction → close reaction → insert/detail → silence/gutter → reveal`
+Actual blackout:
+- the continuous reader background may transition into charcoal/black
+- art panels emerge from darkness
+- use deep navy/charcoal rather than crushing all information to pure black
 
-Do not mechanically repeat this pattern. Use it as a pacing vocabulary.
+Power return:
+- restore light background gradually after the story itself stabilizes
 
-### Ordinary Conversation
+## Lettering Vibe
 
-Keep panels comparatively close together. Use white/light-neutral gutters in normal scenes. Use alternating medium/close framing and avoid six identical talking-head boxes.
+Speech:
+- clean white balloons
+- dark outline
+- concise uppercase English
+- mobile-first sizing
+- tails clearly tied to speakers
 
-### Unease / Suspicion
+Narration:
+- simple rectangular caption boxes
+- high contrast
+- minimal decoration
 
-Increase vertical spacing. Use detail inserts such as:
-- loose TV plug
-- hallway lamp
-- analog watch
-- handwritten note
-- cabinet lid
-- disconnected speaker cord
-- dead phone screen
+SFX:
+- integrated into the artwork rather than placed like footnotes
+- size follows impact
+- may tilt/stretch with physical motion
+- remain readable and source-aligned
 
-### Blackout / Horror
+Device text:
+- belongs on the actual screen/device
+- Hyun-woo/helpful signature = clean cyan-white
+- hostile signature = broken stark-white text with black crawling corruption
 
-Allow the page background itself to become charcoal/black. Increase empty vertical space between sounds and reveals. A sound can appear before the source becomes visible.
+## What Not To Copy
 
-### Reveal
+Do not reproduce the reference title's:
+- characters
+- costumes
+- locations
+- exact linework
+- exact color palette
+- exact panel compositions
+- proprietary logos/credits
+- dialogue or SFX designs one-for-one
 
-Give the important image substantially more height than surrounding panels. Hyun-woo's first physical appearance should feel like a genuine scroll reveal, not one more small box.
-
-## Text Behavior
-
-- white dialogue balloons with clean dark outline
-- readable uppercase English matching existing story script
-- limited text per balloon
-- narration boxes separate from dialogue balloons
-- device text integrated into the actual screen/device
-- no floating UI unrelated to the script
-
-## SFX Behavior
-
-Small environmental SFX stay compact and near their source. Important impact/glitch SFX can break panel boundaries slightly but must not cover faces or critical clues.
-
-Use size hierarchy:
-
-- quiet: `TIK`, `BEEP`, `CLICK`, `CRINKLE`
-- medium: `FZZT`, `KZZT`, `SKRRK`, `SLURP`
-- impact: `CLANG`, `KIIIIII`, `VZZT`
-
-## Color / Mood Vocabulary For This Series
-
-This story is not action-fantasy; apply the vertical-manwha grammar to a modern techno-horror apartment story.
-
-- normal home: restrained warm-neutral residential palette
-- office/lobby: cooler clean neutral palette
-- helpful Hyun-woo device communication: clean cyan-white accent only
-- hostile system: stark broken white + black pixel corruption
-- candle blackout: warm amber local source against deep navy/charcoal darkness
-- full blackout after candle extinguishes: deep readable darkness with minimal silhouette separation, not crushed black everywhere
-- returning power: sudden neutral apartment light, not magical glow
-
-## Non-Copy Rule
-
-The reference is a benchmark for **professional vertical-scroll presentation**. Every composition in this project must be newly designed for Nari, Hyun-woo, Mrs. Na, Seungjae, Unit 2407, and this story's own geography.
+The target is **the same type of professional continuous-scroll reading experience**, applied to this story's own visual identity.

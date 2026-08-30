@@ -1,66 +1,71 @@
-# Manhwa Scroll Prompt Template
+# Continuous Manhwa Technical-Strip Prompt Template
 
-Copy this structure for each future vertical-scroll slice.
+Use this template only when the entire chapter cannot be generated as one enormous image.
 
 ```text
-Create exactly ONE vertical full-color 2D manhwa scroll slice for "My Roommate Only Appears During Blackouts".
+Create exactly ONE technical image strip that belongs inside a SINGLE CONTINUOUS vertical manhwa chapter for "My Roommate Only Appears During Blackouts".
 
-OUTPUT INTENT
-This is one slice of a longer stitched vertical-scroll chapter, not a printed comic page. Compose top-to-bottom for phone reading. No circled panel numbers. No fixed page-grid layout.
+IMPORTANT FORMAT
+This is NOT a page, NOT a separate scroll episode, and NOT a mini-chapter.
+It is one same-width segment of a longer stitched Chapter 1 reader.
+No strip title, no page number, no circled panel numbers, no ending card.
 
-EXECUTION LOCK
-Follow the scripted actions/text literally. Do not invent dialogue, narration, SFX, props, supernatural events, wardrobe changes, time jumps, or location resets.
+CANVAS
+Working width: 1080 px.
+Use the full fixed width consistently with the previous approved strip.
+Height may be as tall as the generation tool safely permits.
+The final stitched chapter will be uniformly reduced to 800 px width.
 
-REFERENCES
-- canonical character PNGs for visible characters only
-- immediately previous APPROVED manhwa slice when continuity is direct
-- `Manhwa/style-guide.md`
-- `Manhwa/vertical-scroll-layout-guide.md`
-- `Manhwa/lettering-sfx-guide.md`
-- source comic chapter only for story/lore/object continuity, never as a fixed layout template
+CONTINUITY REFERENCES
+Attach only visible-character canonical PNGs.
+Attach the immediately previous APPROVED technical strip when this scene directly continues.
+The previous strip controls environment/object/wardrobe/power state, but not camera angle.
 
-VISUAL STYLE
-Polished modern full-color Korean-manwha presentation. Detailed clean 2D line art, controlled character rendering, atmospheric but readable backgrounds, strong value separation, expressive faces/hands, varied panel scale. No photorealism, 3D/CG, plastic gloss, excessive bloom, mirror reflections, or generic AI cinematic effects.
+STYLE
+Original polished full-color Korean webtoon/manhwa rendering:
+- clean 2D linework
+- controlled cel/soft-cel shadows
+- detailed establishing backgrounds
+- mobile-readable faces/hands
+- matte materials
+- no photorealism, 3D/CG, glossy plastic skin/hair, bloom-heavy cinematic treatment, or mirror-like surfaces
 
-VERTICAL PACING
-Use variable gutters. Ordinary dialogue stays relatively tight. Suspense and reveal moments receive larger vertical gaps. Important reveal panels receive more height than routine dialogue panels.
+ONE-SCROLL COMPOSITION
+Compose naturally top-to-bottom.
+Mix full-width art, centered dialogue panels, narrow clue inserts, and vertical negative space.
+Do not arrange the strip like a printed comic page.
+Do not make gutters mechanically equal.
 
-LETTERING
-Use exact reader-facing text. White dialogue balloons with clean dark outlines. Narration boxes separate from speech. Device text stays on actual device displays. SFX visually originates from its source.
+TOP HANDOFF
+If continuing from an approved strip, preserve a small continuity overlap/background handoff at the very top so stitching can be checked. This duplicate area will be cropped during final assembly.
 
-DEVICE SIGNATURES
-Helpful/Hyun-woo: clean stable cyan-white.
-Hostile system: broken/doubled stark white + black crawling pixel corruption.
-Never swap.
-
-CONTINUITY
-State exact incoming positions/objects/lighting from the previous approved slice. Every movement must be readable. No object teleportation.
-
-SLICE BEATS
-[Define 5–8 top-to-bottom beats.]
+STORY BEATS
+[INSERT ONLY THE STORY BEATS COVERED BY THIS TECHNICAL STRIP]
 
 READER-FACING TEXT LOCK
-[List exact dialogue/narration/SFX/device text in reading order.]
+[INSERT EXACT DIALOGUE / NARRATION / DEVICE TEXT / SFX]
 
-END-OF-SLICE HANDOFF
-[Describe the final character/object/lighting state that the next approved slice must inherit.]
+LETTERING
+White clean speech balloons with correct tails.
+Simple high-contrast narration boxes.
+SFX integrated beside exact source.
+Helpful device text clean cyan-white.
+Hostile device text broken stark-white + black pixel corruption.
 
-AVOID
-No panel numbers, extra UI, brands/logos, filler text, incorrect speaker tails, extra SFX, character identity drift, environment reset, or effects that obscure story clues.
+BOTTOM HANDOFF
+End in a natural low-information gutter or stable completed beat that can continue immediately into the next strip.
+Do not add a reader-visible ending.
+Do not repeat chapter title.
+Do not create a large artificial blank gap solely because the technical strip ends.
+
+REJECTION
+Reject if it looks like a standalone comic page, contains panel numbers, changes width, resets the environment, shrinks text, duplicates dialogue, adds fake branding, or creates a visible technical boundary.
 ```
 
-## Recommended Beat Count
+## Naming
 
-Prefer 5–8 visually meaningful beats per generated slice.
+Use:
+`strip-001-...-chatgpt-image-prompt.md`
+`strip-002-...-chatgpt-image-prompt.md`
 
-If a scene needs more than 8 beats, split it into `A/B` slices rather than shrinking panels and lettering.
-
-## Recommended Reveal Pattern
-
-For horror reveal:
-
-`clue/sound → reaction → vertical gap → partial reveal → vertical gap → full reveal → aftershock`
-
-## End Handoff
-
-Every prompt must document the exact ending state so the next slice can continue without guessing.
+The `strip-###` label is production-only and must never appear inside final artwork.

@@ -1,146 +1,120 @@
-# Vertical Scroll Layout Guide
+# Vertical Scroll Layout Guide — One Chapter / One Scroll
 
-## Master Reading Format
+## Absolute Reader Format
 
-Design for a single centered phone-scroll column.
+**Chapter 1 is one continuous vertical canvas.**
 
-Recommended production master:
-- source width: 1080 px
-- final publishing width may be downscaled to platform requirements
-- generate in manageable vertical slices, then stitch after approval
-- keep critical text/faces inside a central safe zone; do not place essential clues against crop-sensitive outer edges
+Technical image strips are allowed only because generation tools and websites have height/file limits. They are not separate pages or story scrolls.
 
-The final chapter is one continuous vertical experience, not a stack of printed comic pages.
+## Fixed Width
 
-## No Panel Numbers
+Working master:
+- width: **1080 px**
+- height: continuous / as long as chapter requires
 
-Final manhwa artwork must contain **no circled panel markers** and no page numbers inside story art.
+Final publishing master:
+- width: **800 px**
+- scale the entire stitched chapter uniformly
+- never resize individual sections independently
 
-Reading order is naturally top-to-bottom.
+If the publishing platform needs multiple files, cut the finished 800 px master into same-width sequential WebP/PNG chunks with no inserted gap.
 
-## Panel Width Vocabulary
+## Technical Strip Rules
 
-### Full width
+When generation cannot produce the entire chapter at once:
+- generate `strip-001`, `strip-002`, etc. at the same 1080 px width
+- strip height may vary according to tool limits
+- begin each new strip with a small **continuity overlap** from the previous approved strip (roughly one simple background/gutter beat)
+- crop the duplicated overlap during assembly
+- place final strip boundaries in blank or low-information gutters
+- never cut through speech balloons, faces, SFX, device text, or active motion
+- strip filenames never appear in reader-facing art
+
+## One-Column Webtoon Grammar
+
+Reading order is always top to bottom.
+
+### Full-width / near-full-width
 Use for:
-- location establishing shots
-- major supernatural reveals
+- location establishing art
 - blackout onset
-- Hyun-woo first physical reveal
-- hostile refrigerator activation
-- power return/disappearance
-- chapter-ending TV message
+- major supernatural screen reveals
+- first physical Hyun-woo reveal
+- power-return empty-space reveal
+- final `NEW TENANT CONFIRMED`
 
-### 70–85% width centered
+### Centered 70–90% width
 Use for:
-- ordinary dialogue
+- most dialogue panels
 - reaction close-ups
-- object inserts that need isolation
+- medium character acting
 
-### Narrow insert
+### Narrow 45–65% insert
 Use sparingly for:
-- loose plug
-- key
-- analog watch
+- unplugged cord
+- brass key
 - handwritten note
-- flashlight switch
-- disconnected speaker cord
-- knife/sheath detail
+- flashlight/radio controls
+- knife/sheath
+- analog/device clue
 
-Do not build a newspaper-like multi-column page grid.
+Do not create a newspaper or printed-comic multi-column page grid.
 
-## Gutter Vocabulary
+## Gutter Rhythm
 
-Vertical blank space is a pacing tool.
+Gutters are part of the chapter canvas.
 
-### Micro gutter — 24–48 px equivalent
-Use inside a continuous quick exchange.
+At 1080 px master width, use approximate vertical spacing:
+- quick dialogue/action: 30–70 px
+- ordinary beat change: 80–160 px
+- hesitation/clue: 180–360 px
+- major suspense/reveal: 400–900 px when earned
 
-### Normal gutter — 60–120 px
-Use between ordinary conversational panels.
+These are rhythm ranges, not mandatory repeated values.
 
-### Suspense gutter — 160–320 px
-Use before a clue, silence, hesitation, or suspicious object insert.
+## Background Through The Scroll
 
-### Reveal gutter — 320–700 px
-Use before major reveals such as:
-- the first male voice from the speaker
-- unplugged TV still active
-- handwritten reply
-- blackout onset
-- slurping before Hyun-woo is seen
-- full physical Hyun-woo reveal
-- `YOON NARI`
-- Hyun-woo simply absent after power returns
-- `NEW TENANT CONFIRMED`
+Normal scenes:
+- white/light neutral reader background
 
-Do not use giant gaps randomly; long gaps must create anticipation or transition.
+Tension:
+- light neutral may gradually darken around isolated panels
 
-## Background Color Between Panels
+Actual blackout:
+- transition the continuous reader background into charcoal/black
+- panels may float out of darkness
 
-Normal scenes: white, very pale neutral, or scene-matched light neutral.
+Power restoration:
+- return toward light background only after the scene itself stabilizes
 
-Tense powered-night scenes: slightly darker neutral may bridge panels.
+## Panel Borders
 
-Actual blackout sequence: page background may transition to charcoal/black so isolated panels emerge from darkness.
-
-Return to white/light-neutral only after the story returns to a stable powered state.
-
-## Panel Edge Treatment
-
-Use a mix of:
+Mix:
 - borderless full-width art
-- clean rectangular panels
-- isolated floating portrait/inset panels
+- thin clean rectangular panels
+- floating inset close-ups
 
-Avoid thick black comic-page borders around every panel.
+Avoid thick identical borders around everything.
 
-Effects may break a panel edge only when motivated by sound/glitch/action. Dialogue balloons should generally remain cleanly readable and not become decorative clutter.
+## Dialogue Density
 
-## Scroll Rhythm
+Never shrink text to save vertical space. If a beat is dialogue-heavy:
+- make the panel taller
+- separate emotional turns into new panels
+- use scroll space
 
-A typical tension sequence can use:
+## Chapter Flow
 
-1. establishing panel
-2. dialogue/medium panel
-3. reaction close-up
-4. clue insert
-5. larger vertical gap
-6. reveal panel
-7. small aftershock/reaction
+Internal planning may divide the story into `Story Run A`, `Story Run B`, etc., but those labels are invisible. The finished reader must feel like one uninterrupted chapter from opening narration through the final TV cliffhanger.
 
-For casual scenes, tighten spacing. For horror, slow it down.
+## Final Stitch QA
 
-## Time / Location Transitions
-
-Use explicit transition captions only where story canon requires elapsed time/location change.
-
-A transition may use:
-- a large calm establishing image
-- extra vertical white/black space above it
-- one clean caption box
-
-Do not use a caption to hide teleportation inside a continuous scene.
-
-## Mobile Lettering Safety
-
-Never shrink text to fit too much dialogue into one panel. Instead:
-- enlarge the panel
-- split a speech into two balloons
-- use a new panel if the emotional beat changes
-
-A balloon should usually contain 1–3 short sentences, not a paragraph.
-
-## Stitching Rules
-
-Each generated slice must end on a composition that can stitch naturally into the next:
-- do not crop a dialogue balloon at the bottom
-- do not end halfway through a character action unless the next slice explicitly continues it
-- leave a small controllable gutter at slice boundaries
-- previous approved slice controls current environment/wardrobe/object state
-- the next slice may change camera angle but cannot reset the room
-
-## Pilot Slice Policy
-
-For the Chapter 1 pilot, generate the first three slices independently and approve each before generating the next.
-
-Attach the immediately previous approved **manhwa** slice for continuity. Do not use an unapproved test slice downstream.
+Before publishing:
+- all sections exactly same width
+- no repeated/cropped panel at stitch point
+- no doubled gutter
+- no color shift at seam
+- no missing dialogue/SFX
+- no reader-visible filename/strip marker
+- no chapter header repeated mid-scroll
+- scroll can be read continuously without noticing where files were generated or cut

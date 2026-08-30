@@ -1,113 +1,107 @@
-# Manhwa Generation Workflow
+# Manhwa Generation Workflow — One Continuous Chapter
 
-## Separation From Comics Production
+## Separation From Comics
 
 `Comics/` and `Manhwa/` are separate presentation pipelines.
 
-Do not overwrite comic-page prompts, approved comic PNGs, or comic audits when testing the manhwa conversion.
+Do not overwrite approved comic prompts/art while testing the manhwa conversion. Story/lore canon may be read from `Comics/`; manhwa layout/pacing comes from this directory.
 
-Story/lore canon may be read from `Comics/`, but manhwa composition/pacing comes from this directory.
+## Final Product
 
-## Slice Workflow
+The final product is **one continuous Chapter 1 vertical scroll**.
 
-1. Read the current manhwa slice prompt.
-2. Attach only the canonical character PNGs required for visible characters.
-3. Attach the immediately previous APPROVED manhwa slice when continuity is direct.
-4. Generate one vertical-scroll slice.
-5. QA the slice before using it downstream.
-6. Reject and regenerate if continuity, script, lettering, SFX, character identity, or visual style is wrong.
-7. Only approved slice N becomes visual continuity reference for slice N+1.
-8. Stitch approved slices only after all slices in the chapter pass QA.
+Technical strips exist only because image-generation tools and websites cannot always handle one enormous canvas.
 
-## Canonical Character Attachments — Chapter 1
+## Generation Loop
 
-Use only visible-character references.
+For each technical strip:
+1. read the chapter continuous-scroll plan
+2. read the current strip prompt
+3. attach only canonical PNGs for characters visible in that strip
+4. attach the immediately previous APPROVED technical strip when continuity is direct
+5. generate at the fixed 1080 px working width
+6. preserve a small top continuity overlap when needed
+7. QA script, identity, environment, lighting, SFX, lettering, and one-scroll rhythm
+8. approve or regenerate
+9. crop duplicated overlap during assembly
+10. append approved strip directly beneath the previous strip with no inserted border/gap beyond the story's intended gutter
+
+## Technical Strips Are Not Story Units
+
+Never describe the final chapter to the reader as 12 scrolls or 20 pages.
+
+`strip-001`, `strip-002`, etc. are internal production assets only.
+
+A strip may contain several panels and may end anywhere that a natural empty gutter allows. If a story beat needs more space, extend the strip or move the technical cut; never compress the art just to hit a predetermined strip count.
+
+## Fixed Geometry
+
+- generation/compositing width: 1080 px
+- final publishing width: 800 px
+- all strips identical width
+- strip heights may vary
+- final chapter is uniformly downscaled after stitching
+
+Never resize individual strips independently.
+
+## Character Attachments — Chapter 1
 
 - Nari: `Character-References/nari-canonical-flat2d.png`
 - Mrs. Na: `Character-References/mrs-na-canonical-flat2d.png`
 - Seungjae: `Character-References/seungjae-canonical-flat2d.png`
-- Hyun-woo: `Character-References/hyunwoo-canonical-flat2d.png` only on slices where he is physically visible
+- Hyun-woo: `Character-References/hyunwoo-canonical-flat2d.png` only when physically visible
 
-When Hyun-woo is voice-only after power returns, do not attach his PNG unless a prompt specifically needs an off-panel identity continuity reminder; default is **do not attach** to reduce accidental physical manifestation.
+When Hyun-woo is voice-only, default to not attaching his PNG to reduce accidental manifestation.
 
-## Previous-Slice Continuity Rule
+## Previous-Strip Continuity
 
-The previous approved manhwa slice controls:
+The previous approved strip controls:
 - current wardrobe
-- current hairstyle state
-- current prop positions
+- hairstyle state
+- prop positions
 - open/closed doors/cabinets
 - appliance locations
-- lighting state
-- character side of doorway/table
+- lighting/power state
+- character position at handoff
 - damage/mess/evidence
 
-It does **not** force:
-- identical camera angle
-- identical panel proportions
-- identical crop
-- identical pose when the script requires movement
+It does not force the same camera angle or panel proportions.
 
 ## Source Comic Usage
 
-The source comic chapter and prompts are story/continuity references, not layout templates.
+Source comic pages are story/object continuity authority, not manhwa layout templates.
 
-Do not recreate the old printed-page grid inside the manhwa slice.
+Do not paste or imitate the old page grid. Recompose each scene for continuous vertical pacing.
 
-If a source comic image is attached for a difficult environment/object handoff, use it only to preserve the apartment/object reality. Recompose it for vertical scroll.
+## Assembly Workflow
 
-## QA Gates
+After all strips pass QA:
+1. stitch at 1080 px width
+2. remove duplicated continuity overlaps
+3. inspect every seam at 100% zoom
+4. verify continuous background/gutter color
+5. verify no dialogue/SFX duplicated or lost
+6. export one long master image if tooling permits
+7. uniformly downscale master to 800 px width
+8. if the reader/platform requires multiple upload images, cut the finished master into same-width sequential WebP/PNG blocks
+9. add **zero extra spacing** between delivery blocks
 
-### Script
-- all dialogue/narration/device text exact
-- no missing lines
-- no invented lines
-- correct source/speaker
+The reader must perceive one continuous chapter.
 
-### Character
-- canonical identity preserved
-- correct visible cast only
-- no accidental physical Hyun-woo during powered states
+## Pilot Test
 
-### Environment
-- Unit 2407 layout remains coherent
-- props do not teleport
-- door/cabinet/screen state follows previous approved slice
+Generate only the top three technical strips first. Stitch them together immediately and evaluate the **assembled continuous section**, not each strip as if it were a separate page.
 
-### Vertical pacing
-- no fixed comic-page grid
-- gutters vary intentionally
-- major reveal has enough scroll space
-- no panel numbers
-
-### Lettering
-- mobile-readable
-- balloon tails correct
-- device text on device
-- SFX source aligned
-
-### Visual style
-- polished 2D manhwa
-- not photoreal/3D/glossy
-- characters not over-rendered into a different series
-
-## Pilot Approval
-
-Do not produce all Chapter 1 manhwa slices before the pilot is approved.
-
-Pilot slices:
-1. move-in / smart-home hook
-2. Mrs. Na's warning
-3. smart speaker answers back
-
-After those three are visually approved, lock:
-- character rendering density
+Lock after pilot approval:
 - line weight
-- shadow softness
-- gutter scale
-- bubble design
-- narration-box design
-- SFX font treatment
+- rendering density
+- shadow treatment
+- fixed width
+- gutter rhythm
+- balloon design
+- narration design
+- SFX treatment
 - device-text treatment
+- strip seam behavior
 
-Then expand the remaining Chapter 1 prompts using the locked pilot as style authority.
+Then continue the same chapter downward.

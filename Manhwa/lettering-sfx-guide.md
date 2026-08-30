@@ -1,157 +1,105 @@
-# Lettering And SFX Guide
+# Lettering and SFX Guide — Continuous Manhwa
 
-## General Rule
+## Mobile-First Lettering
 
-Text must feel like part of a professional vertical-scroll manhwa, not like labels placed on top of finished art.
+All text must be comfortably readable after the stitched 1080 px master is uniformly reduced to 800 px publishing width.
 
-All reader-facing script is immutable once approved for a slice.
+Do not solve density by shrinking text. Give dialogue more vertical space instead.
 
-## Dialogue Balloons
+## Speech Balloons
 
-Use:
+Default:
 - white fill
 - clean dark outline
-- rounded organic balloon shape
-- short clear tail to the speaking character
-- comfortable interior padding
-- readable uppercase English consistent with the existing series script
+- simple rounded/organic balloon shape
+- clear tail to correct speaker
+- uppercase English consistent with existing comic canon
+- generous inner padding
+- no decorative balloon treatment unless emotion requires it
 
-Do not:
-- use decorative fantasy balloons for ordinary conversation
-- crowd faces with balloons
-- place tails ambiguously between two characters
-- shrink text until it is difficult to read on a phone
+Use larger/bolder text only for actual shouting or shock.
 
-## Off-Panel / Speaker Voice
-
-Hyun-woo's voice through the unplugged speaker must be visually distinguishable from ordinary in-frame speech without implying a physical body.
-
-Use a clean voice balloon/callout whose tail or directional cue clearly points toward the actual speaker/cabinet when visible.
-
-Do not create a glowing magical speaker or floating male portrait.
+Hyun-woo voice-only speech must clearly originate from the actual speaker/cabinet direction when hardware is in frame. Never create an implied physical body while unit power rules say he is absent.
 
 ## Narration
 
-Narration uses compact rectangular boxes with high contrast.
+Use simple rectangular or lightly rounded caption boxes.
 
-Suggested treatment:
-- dark charcoal box + white text in night/tense scenes
-- pale neutral box + dark text in normal scenes
+- high contrast
+- no speech tail
+- visually distinct from dialogue
+- one short thought/transition per box when possible
+- do not repeat time/location information unnecessarily
 
-Time/location captions should be visually larger than ordinary narration.
-
-Do not make narration look like a speech balloon.
+Narration should sit naturally in the scroll, not look like a page header.
 
 ## Device Text
 
-Device text must sit on the actual device display.
+Device text stays physically on its device display.
 
 ### Helpful / Hyun-woo
-
 - clean cyan-white
-- stable baseline
-- crisp sans-serif or monospace-like screen lettering
-- no black crawling pixels
-
-Examples from story canon:
-- `YOUR PATCH NOTES ARE TOO LONG.`
-- `DON'T LOOK AT THE FRIDGE.`
-- `HE SHOULD GO.`
+- stable edges
+- restrained glow only inside/near the display
 
 ### Hostile
-
-- stark broken white
-- doubled/misaligned fragments
-- crawling black pixels
-- slight tearing/corruption around letters
-
-Examples from story canon:
-- `TENANT PROFILE: PENDING`
-- `YOON NARI`
-- `IDENTITY LOCKING`
-- `NEW TENANT CONFIRMED`
-
-Never swap the two signatures.
-
-## Handwriting / Paper
-
-Handwritten notes and Nari's physical bug-report notebook must visibly be ink on paper, not digital typography pasted onto a page.
-
-Readable handwritten text may be cleaner than real handwriting but should retain a human written feel.
+- stark white broken/doubled text
+- crawling black pixel corruption
+- fragmented/missing strokes allowed
+- never use the helpful cyan signature
 
 ## SFX Hierarchy
 
-### Level 1 — quiet physical sound
-Small, near source, minimal outline.
+SFX are part of the art composition, not footnotes.
 
-Examples:
-- `BEEP`
-- `CLICK`
-- `TIK`
-- `CRINKLE`
-- `CLINK`
-- `TUG`
+### Quiet / local
+Examples: `TIK`, `CLICK`, `CRINKLE`, `CREAK`, `CLINK`, `TUG`
+- small to medium
+- positioned beside exact physical source
+- little or no perspective distortion
 
-### Level 2 — noticeable environmental/action sound
-Medium-sized, integrated into panel composition.
+### Medium impact / electrical / movement
+Examples: `FZZT`, `KZZT`, `SLURP`, `SKRRK`, `SHK`, `BEEP`
+- medium graphic treatment
+- may angle/stretch with action
+- can overlap the panel edge if readability stays clear
 
-Examples:
-- `FZZT`
-- `KZZT`
-- `SLURP`
-- `SKRRK`
-- `SCRATCH`
-- `MFF-CHIME`
+### Major impact
+Examples: `CLANG`, `KIIIIII`, `VZZT`
+- large composition element
+- may cross empty gutter/panel edge
+- never cover face, crucial hand action, device text, or dialogue
 
-### Level 3 — major impact / shock
-Large, expressive lettering allowed to overlap empty background space or cross a panel edge slightly.
+## Sound Source Rule
 
-Examples:
-- `CLANG`
-- `KIIIIII`
-- `VZZT`
+Every SFX must visually belong to the correct source.
 
-## SFX Placement
+- `CLICK` at lock/switch/latch
+- `SLURP` from dining-area source before/around Hyun-woo reveal
+- `KZZT` from hostile device corruption
+- `CLANG` exactly where knife hits floor
+- `TIK` from relevant device/panel source
 
-Every SFX must have an unambiguous physical/electrical source.
+Do not invent filler footsteps/door sounds merely because a panel is quiet.
 
-- `CLICK` near switch/latch
-- `FZZT` near flickering/glitching electrical source
-- `SLURP` near Hyun-woo/noodle pot before reveal
-- `SKRRK` along chair movement
-- `CLANG` at knife-floor impact
-- `MFF-CHIME` visually muffled near closed lower cabinet
+## Typography Behavior
 
-Do not add random footstep, door, cloth, or ambience SFX merely to make a panel look busy.
+Speech/narration should remain clean and neutral. SFX may be more expressive:
+- slight tilt
+- stretch/compression
+- outline/inline
+- perspective matching motion
 
-## Sound Before Image
+Avoid excessive 3D extrusion, neon glow, chrome effects, or decorative typography that competes with the scene.
 
-Vertical scroll allows a sound to appear before its source. Use this deliberately for horror.
+## One-Scroll Placement
 
-Best Chapter 1 uses:
-- `SLURP` appears, then vertical gap, then dining-area reveal
-- muffled cabinet chime appears before Nari opens the cabinet
-- refrigerator clicking/typing can begin before hostile text is fully readable
+Lettering must never acknowledge technical strip boundaries.
 
-## Bubble / SFX Priority
+At stitch points:
+- no balloon may be cut
+- no caption may sit half in one strip and half in another
+- no SFX may be duplicated
+- no repeated line at overlap crop
 
-Priority order when composing:
-1. face/eyes/hands and key story clue
-2. dialogue balloon
-3. required device text
-4. required SFX
-5. decorative background
-
-Never cover a clue to preserve decorative art.
-
-## Automatic Rejection
-
-Reject lettering if:
-- script is paraphrased
-- text source is wrong
-- hostile/helpful device styles are swapped
-- text is too small for mobile
-- bubble tail points to wrong speaker
-- SFX is detached from its source
-- extra filler dialogue or fake UI appears
-- panel numbers appear in final manhwa art
+The final reader should not know where generation chunks were joined.
