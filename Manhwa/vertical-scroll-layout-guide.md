@@ -2,45 +2,35 @@
 
 ## One Chapter, One Scroll
 
-The finished Manhwa Chapter 1 is one centered continuous vertical reader. Technical files are invisible production chunks only.
+The finished manhwa chapter is one centered continuous vertical reader. Technical strips are invisible production chunks only.
 
 ## Width Lock
 
-Use one fixed generation width for every technical strip.
-
-Preferred workflow:
-- generate every strip at the same maximum available portrait width
-- do not independently resize individual strips before stitching
-- stitch all approved strips first
-- uniformly resize the completed master to the final publishing width (target 800 px unless the destination platform requires another width)
+Use one fixed generation width for every technical strip. Do not independently resize strips before stitching. Stitch all approved strips first, then uniformly resize the completed master to the publishing width.
 
 Never mix strip widths.
 
-## 70 Read Beats
+## Read Beats Are Not Panels
 
-`V01`–`V70` are internal planning IDs only. They are not panel numbers and must never be drawn.
+`V01`–`V70` are internal planning IDs only. They must never be drawn.
 
-A read beat can be:
-- a framed panel
-- borderless art
-- a montage cluster
-- a reaction close-up
-- a device insert
-- a sound-first moment
-- empty suspense space
-- a transition composition
-
-Do not force each beat into a separate bordered panel.
+A read beat may be a framed panel, borderless illustration, montage cluster, reaction close-up, object/device insert, sound-first moment, narration transition, or intentional negative-space pause. Do not force each beat into a separate bordered box.
 
 ## Pilot Strip Count
 
-Exactly 15 planned technical strips for this test: `strip-001` through `strip-015`.
+Exactly 15 planned technical strips for the current test: `strip-001` through `strip-015`.
 
-A strip generally contains 3–6 read beats. Suspense-heavy strips intentionally contain fewer beats.
+Strip boundaries exist only because generation canvases have finite height. They are not story/page boundaries.
+
+## Source-Content Preservation
+
+The source comic controls all approved story content. Manhwa adaptation may change panel count, crop, camera angle, panel width, gutter size, and pacing, but it may not silently drop dialogue, narration, SFX, device text, actions, or required continuity.
+
+When a strip is assigned the complete content of a source comic page, include that complete source-page story before handing off unless the manifest explicitly assigns part of that page to the next strip.
 
 ## Gutter Vocabulary
 
-Use relative rather than mechanical pixel spacing:
+Use relative rather than mechanical spacing:
 - micro: rapid action/reply
 - normal: ordinary beat change
 - suspense: meaningful silence/clue
@@ -48,32 +38,53 @@ Use relative rather than mechanical pixel spacing:
 
 Long gaps must have narrative purpose.
 
+## NO DEAD WHITESPACE / DEAD TAIL RULE — ABSOLUTE
+
+Blank reader space is allowed only when it is actively doing storytelling work.
+
+Valid uses:
+- narration or time-transition breathing room
+- hesitation or silence
+- suspense before a reveal
+- aftermath after an important line/SFX
+- a deliberately continuing background/atmosphere field
+- a controlled stitch zone where the next strip immediately continues the same pacing
+
+Invalid use:
+- a huge empty white area because the generated content ended early
+- generic blank padding at the bottom of a technical strip
+- blank space that contains no pause, narration, reveal setup, aftermath, or continuation purpose
+- double-padding where Strip N ends with a large blank gutter and Strip N+1 starts with another large blank gutter
+
+If the planned story content ends too early on the canvas, do one of these instead of leaving a dead tail:
+1. let the current environment/background continue downward naturally,
+2. enlarge an important reaction/establishing composition,
+3. use a justified narration/pause beat,
+4. move the next assigned beat into the same strip if the manifest permits it,
+5. end with only a small controlled seam buffer.
+
+For ordinary strips, the final meaningful art/text/atmosphere should reach close enough to the bottom that the image feels intentionally composed, not abandoned.
+
+A huge dead bottom area is an AUTOMATIC REJECT.
+
 ## Reader Background
 
 Early chapter: white/light-neutral.
-
 Tense powered scenes: slightly darker neutral where useful.
+At the 12:43 A.M. outage: transition into deep charcoal/black and end the chapter in darkness.
 
-At the final 12:43 A.M. outage: transition into deep charcoal/black and end the chapter in darkness.
+Reader-background color may continue across technical image boundaries without a visible line.
 
 ## No Traditional Page Artifacts
 
-Do not draw:
-- circled panel numbers
-- page numbers
-- technical strip IDs
-- crop/seam guides
-- repeated chapter titles at strip boundaries
-- headers/footers between technical images
+Do not draw circled panel numbers, page numbers, technical strip IDs, crop/seam guides, repeated chapter titles, or headers/footers between technical images.
 
 ## Composition Across Strip Boundaries
 
-A technical boundary may occur:
-1. in a blank gutter (preferred when natural), or
-2. through a continuing artwork/background/effect when the Asura-like continuous-reader behavior benefits from it.
+A technical boundary may occur in a controlled gutter or through continuing artwork/background/effect. If art crosses the boundary, follow `seam-continuity-protocol.md` exactly.
 
-If art crosses the boundary, follow `seam-continuity-protocol.md` exactly.
+A gutter seam does NOT mean “leave the rest of the strip blank.” It means the final intentional beat transitions into a small/appropriate reader-space area that the next strip continues.
 
 ## Text Safety
 
-Do not cut a speech balloon, narration box, essential device message, or important SFX across a technical seam. Keep all reader text fully inside one strip even if the surrounding artwork continues.
+Never cut a speech balloon, narration box, handwritten message, essential device text, or important SFX across a technical seam. All reader-facing text must be complete within one strip even if surrounding artwork continues.
