@@ -19,8 +19,8 @@ Strip IDs are production-only. The final reader sees one continuous chapter.
 | 013 | V60–V64 | P8 | devices fail / tablet warning / elevator split | G |
 | 014 | V65–V67 | P9 | 12:43 outage / citywide darkness | E |
 | 015 | V68–V70 | P9 | no-screen choice / failed tools / dark suspense handoff | E/G |
-| 016 | V71–V75 | P10 | 12:56 / first SLURP / knife draw / hallway approach | A/E |
-| 017 | V76–V80 | P10–P11 | hidden eater reveal / guarded first exchange | A/G |
+| 016 | V71–V75 | P10 | 12:56 / first SLURP / knife draw / hallway approach / Nari shock + Hyun-woo teaser glimpse | A/E |
+| 017 | V76–V80 | P10–P11 | fuller hidden eater reveal / guarded first exchange | A/G |
 | 018 | V81–V84 | P11 | screens admission / mask / `HYUN-WOO` reveal | G |
 | 019 | V85–V89 | P12 | entry interrogation / one cautious step / pantry | A/G |
 | 020 | V90–V93 | P12–P13 | Mrs. Na admission / hostile start / chair rise | A |
@@ -48,7 +48,7 @@ No strip receives a giant empty bottom tail merely to reserve a seam. If content
 ## Critical Continuation Seams
 
 - 014 → 015 → 016: one continuous outage/darkness field; Strip 015 is no longer a chapter ending.
-- 016 → 017: hallway/candle approach flows directly into the hidden dining-table eater reveal.
+- **016 → 017:** Strip 016 now ends with Nari stopped/shocked at the kitchen-dining entrance plus a PARTIAL canonical Hyun-woo glimpse seated at the correct dining chair. Strip 017 must continue that exact seated figure, same chair/table/candle geometry, same Nari threshold position, same cautious distance, and same blackout lighting into the fuller hidden-eater reveal. Strip 016 must not pre-empt Strip 017's captions/dialogue/formal reveal.
 - 017 → 018: same cautious distance and dining-table geometry through Hyun-woo's formal reveal.
 - 019 → 020 → 021: Nari's closer position, Hyun-woo chair state, refrigerator/pantry/table geometry remain continuous.
 - 020 → 021: Hyun-woo's chair-push/rise continues into his walk around the table; never teleport him.
@@ -59,15 +59,36 @@ No strip receives a giant empty bottom tail merely to reserve a seam. If content
 - 028 → 029: knife route continues floor → desk sheath before Nari handles food.
 - 031 → 032: same unplugged TV activation continues into the final hostile message; no blank break.
 
+## Strip 016 Teaser Rule
+
+Strip 016's final Hyun-woo appearance is a continuity teaser, NOT the formal reveal.
+
+Allowed in Strip 016 final sub-composition:
+- broad seated body silhouette
+- long low-tied hair silhouette
+- correct dining-table/chair position
+- partial arm/chopstick/pot relationship if useful
+
+Must remain obscured until Strip 017/018:
+- full readable face
+- clear eyes
+- full technical mask construction
+- tattoo details
+- identity/name
+
+Nari must visibly stop/react before the glimpse; she must not advance beyond the kitchen/dining entrance.
+
 ## Attachment Map
 
 - 001: Nari
 - 002–004: Nari + Mrs. Na
 - 005–011: Nari
 - 012–013: Nari + Seungjae
-- 014–016: Nari
-- 017–025: Nari + Hyun-woo
+- 014–015: Nari
+- **016–025: Nari + Hyun-woo**
 - 026–032: Nari only
+
+Hyun-woo canonical PNG is required in Strip 016 only to keep the teaser silhouette/body/seat consistent with Strip 017. It does not authorize a full reveal.
 
 Hyun-woo is voice-only in Strips 028–030 and must not be physically drawn.
 
