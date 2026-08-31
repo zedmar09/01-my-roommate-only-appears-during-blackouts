@@ -92,11 +92,11 @@ These IDs are production notes only. They must never appear in artwork.
 
 ## Source P10 — V71–V78
 - V71 — `12:56 A.M. — THIRTEEN MINUTES INTO THE BLACKOUT`; same desk/equipment states.
-- V72 — first sound-first `SLURP`; Nari turns toward kitchen.
+- V72 — first sound-first `SLURP`; eater remains offscreen; Nari turns toward kitchen.
 - V73 — practical knife drawn safely; `SHNK`; sheath remains desk.
 - V74 — Nari leaves desk with knife low.
-- V75 — wall-following hallway approach; `THE SOUND WAS COMING FROM THE KITCHEN.`; candlelight ahead.
-- V76 — dining-table hidden-eater reveal; `NARI HADN'T LIT THAT CANDLE.` / `SHE HADN'T COOKED THE NOODLES.` + `SLURP`.
+- **V75 — wall-following hallway approach; `THE SOUND WAS COMING FROM THE KITCHEN.`; candlelight ahead. Within the SAME V75, finish with a silent two-part handoff: Nari reaches/nears the kitchen-dining entrance and visibly STOPS in shock, then the reader gets a PARTIAL canonical Hyun-woo glimpse seated at the correct dining chair. Only broad seated silhouette + long low-tied hair/body scale may read; full face/eyes/mask/tattoos/name remain obscured. No new text/SFX.**
+- V76 — Strip 017 continues the EXACT teaser geometry into the fuller dining-table hidden-eater reveal; `NARI HADN'T LIT THAT CANDLE.` / `SHE HADN'T COOKED THE NOODLES.` + `SLURP`.
 - V77 — Nari: `DON'T MOVE. I HAVE A KNIFE.`
 - V78 — concealed Hyun-woo: `I CAN SEE THAT.`
 
