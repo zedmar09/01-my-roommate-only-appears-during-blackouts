@@ -43,7 +43,8 @@ Automatic reject for ambiguous source ownership, duplicated props/devices/bags, 
 - canonical PNG is absolute face/body identity authority
 - previous approved strip controls environment/wardrobe/pose continuity, not identity
 - attach only characters physically visible in the strip
-- Hyun-woo physical sequence: Strips 017–025 only
+- **Strip 016 requires Hyun-woo canonical PNG for the FINAL teaser silhouette/body/seat continuity only; full readable reveal is still forbidden there**
+- Hyun-woo fuller physical sequence: Strips 017–025
 - Strips 028–030 Hyun-woo voice-only: do not attach his PNG
 
 ## Continuous Layout Gate
@@ -100,9 +101,13 @@ Device text remains on its device; voice-through-speaker remains audio dialogue,
 - Strip 014 legal time cut: no Seungjae in Unit 2407; Nari home blackout outfit locked
 - no phone-screen activation during outage
 - desk tray remains right of keyboard until knife draw
-- first `SLURP` offscreen precedes eater reveal
+- first `SLURP` in Strip 016 is OFFSCREEN and precedes any visible Hyun-woo
 - practical knife draw visibly leaves empty sheath at desk
-- Hyun-woo canonical body/hair/mask/tattoo continuity
+- **Strip 016 final V75 handoff must show Nari visibly STOP/SHOCK at the kitchen-dining entrance before a PARTIAL canonical Hyun-woo teaser glimpse**
+- Strip 016 teaser glimpse: seated at correct dining chair, broad build/long low-tied hair silhouette only; full face/eyes/mask/tattoos/name remain obscured
+- Nari does not advance beyond the entrance during the Strip 016 teaser
+- Strip 017 continues the exact same seated figure, chair, candle/table geometry, Nari threshold position, cautious distance, and blackout lighting; no visual reset
+- Hyun-woo canonical body/hair/mask/tattoo continuity for fuller reveal sequence
 - dining-table geography preserved; never seat him at sink/counter/island
 - Nari remains at entrance until exactly one cautious step in Strip 019
 - new closer position carries into Strips 020–023
@@ -115,6 +120,13 @@ Device text remains on its device; voice-through-speaker remains audio dialogue,
 - city power may return while Unit 2407 remains dark
 - Hyun-woo stays physical until Unit 2407 itself powers on
 - no visible disappearance process
+
+Automatic reject for Strip 016 if:
+- no Nari shock/stop beat appears before glimpse
+- Hyun-woo is absent from final teaser entirely
+- Hyun-woo is fully revealed early
+- wrong seat/location/build/hair silhouette is used
+- Strip 016 pre-empts Strip 017 dialogue/captions/formal reveal
 
 ## Powered Aftermath Gate — Strips 026–032
 
