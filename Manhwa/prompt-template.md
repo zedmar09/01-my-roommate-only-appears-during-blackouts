@@ -1,18 +1,15 @@
 # Technical Strip Prompt Template
 
-Use this structure for every `Production-Strips/strip-###-chatgpt-image-prompt.md`.
+Use this structure for every active Manhwa production strip.
 
 ```text
 Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP belonging to the same continuous chapter scroll.
 
-TECHNICAL ID
-strip-### — production-only. Never print this ID in the artwork.
-
 CONTINUOUS-CHAPTER LOCK
-This is not a page, episode, or reader-visible part. Its top must continue the approved previous strip and its bottom must hand off naturally to the next strip.
+This is not a page, episode, or reader-visible part.
 
-SOURCE AUTHORITY
-Use the assigned source Comic page(s) and exact locked reader-facing text.
+PRODUCTION AUTHORITY
+Use the current chapter beat plan/manifest and this strip's exact locked reader-facing script. Legacy source-archive files are historical reference only and are never direct image-generation prompts.
 
 INTERNAL READ BEATS
 V##–V## are planning IDs only. Never render them.
@@ -21,37 +18,35 @@ CHARACTER REFERENCES
 Attach only canonical PNGs for characters physically visible in this strip.
 
 ENVIRONMENT REFERENCES
-List the smallest relevant approved environment canonical(s) for this location/angle. Environment canonicals are architecture/geography authorities, not moodboards. Do not rotate, mirror, resize, relocate, add, or remove fixed room/furniture/appliance relationships unless the story explicitly changes something.
+Attach the smallest relevant approved environment canonical set. Environment canonicals control architecture, geography, fixed furniture/appliances, and physically valid camera axes.
 
 CORE OBJECT REFERENCES
-List approved recurring-object canonical(s) only when physically visible or state/design continuity is story-critical. Preserve object body/design exactly; use only state/effect variants authorized by its object sheet and current strip script.
+Attach relevant recurring-object canonicals when physically visible or state/design continuity is story-critical.
 
 REFERENCE PRIORITY
-Story/script > character identity > environment geometry > object identity/state vocabulary > previous strip temporary state.
-If a previous strip drifted from an approved environment/object canonical, do not copy the drift; reject/correct it.
+Story/current strip > character identity > environment geometry > object identity/state vocabulary > previous strip temporary state.
 
 PREVIOUS STRIP
-For strip-002 onward attach approved strip-(N-1) as mandatory temporary pose/wardrobe/prop-state/seam continuity.
+For strip-002 onward attach approved strip-(N-1) for temporary pose/wardrobe/prop/power/seam continuity.
 
 SEAM IN
-State seam type: G / A / E.
-Describe exactly what continues from the previous strip and which canonical environment anchors must align.
+State G/A/E seam type and exact continuing anchors.
 
 VERTICAL COMPOSITION
-Use variable-width/tall manhwa compositions, not a printed-page grid. Camera changes must remain physically possible inside the canonical environment.
+Use continuous Manhwa composition, not a printed-page grid.
 
 NO DEAD BOTTOM — ABSOLUTE
-Do not leave a giant unused white/neutral/black tail at the bottom. If the scripted content occupies less than the canvas, expand the EXISTING composition, canonical environment, reaction, atmosphere, or suspense interval. Existing narration/SFX may be designed into the spacing where scripted. Never invent filler text or sound merely to fill space. Use only a compact seam buffer when needed.
+Do not leave a giant unused tail. Expand existing art/environment/reaction/atmosphere/reveal timing or use a compact seam buffer. Never invent filler reader-facing text or sound.
 
 SCRIPT LOCK
-List every exact reader-facing line/SFX/device/note text used in this strip.
+List every exact reader-facing line/SFX/device/note text.
 
 SEAM OUT
-State seam type for the next join and what must remain continuable. Avoid double blank gaps across adjacent strips.
+Define what continues into the next technical strip.
 
 STYLE
-Follow `Manhwa/style-guide.md`, `vertical-scroll-layout-guide.md`, `seam-continuity-protocol.md`, `lettering-sfx-guide.md`, and the approved environment/object canonicals.
+Follow the Manhwa style/layout/seam/lettering rules plus approved character/environment/object canonicals.
 
 AVOID
-No production IDs, page numbers, circled panel numbers, extra text, brand clutter, identity drift, environment drift, recurring-object redesign, visible seam, wrong power state, wrong supernatural signature, purposeless bottom emptiness, or glossy/photoreal/3D treatment.
+No production IDs, page numbers, circled panel numbers, extra text, identity/environment/object drift, wrong power state, wrong supernatural signature, visible seam, purposeless empty canvas, or glossy/photoreal/3D rendering.
 ```
