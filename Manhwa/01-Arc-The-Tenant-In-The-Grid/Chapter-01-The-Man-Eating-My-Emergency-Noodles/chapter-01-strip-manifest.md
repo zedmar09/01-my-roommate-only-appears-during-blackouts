@@ -37,59 +37,103 @@ Strip IDs are production-only. The final reader sees one continuous chapter.
 | 031 | V143–V145 | P18 | bug report / hypothesis / unplugged TV activation | A/E |
 | 032 | V146 | P18 | dominant `NEW TENANT CONFIRMED` final reveal | END |
 
-## Opening Conversion Rule
+## Reference Authority
 
-Preserve full approved source story while recomposing old page panels into fluid top-to-bottom manhwa pacing. Source page boundaries do not need to coincide with technical strip boundaries.
+For every strip use: script > character canonical > environment canonical > core-object canonical > previous approved strip temporary state.
 
-## No-Dead-Space Rule
+Environment/object canonical PNGs become mandatory only after they are generated and approved. Until then, never substitute a rejected or improvised reference. Existing approved strips are not automatically invalidated by creation of the pack.
 
-No strip receives a giant empty bottom tail merely to reserve a seam. If content ends early, enlarge/recompose existing story art, reaction, environment, darkness/rain/effect field, or use only a compact seam buffer. Never invent filler text/SFX.
+## Canonical Reference Shorthand
 
-## Critical Continuation Seams
+Unit 2407 environment:
+- `U-FP` = `unit-2407-floor-plan-canonical.png`
+- `U-ATLAS` = `unit-2407-room-angle-atlas-canonical.png`
+- `U-ENTRY` = `unit-2407-entry-living-wide-canonical.png`
+- `U-L2K` = `unit-2407-living-to-kitchen-wide-canonical.png`
+- `U-K2L` = `unit-2407-kitchen-to-living-wide-canonical.png`
+- `U-HALL` = `unit-2407-hallway-canonical.png`
+- `U-DESK` = `unit-2407-desk-zone-detail-canonical.png`
+- `U-FRIDGE` = `unit-2407-fridge-cabinet-zone-detail-canonical.png`
+- `U-LIGHT` = `unit-2407-lighting-states-canonical.png`
 
-- 014 → 015 → 016: one continuous outage/darkness field; Strip 015 is no longer a chapter ending.
-- **016 → 017:** Strip 016 now ends with Nari stopped/shocked at the kitchen-dining entrance plus a PARTIAL canonical Hyun-woo glimpse seated at the correct dining chair. Strip 017 must continue that exact seated figure, same chair/table/candle geometry, same Nari threshold position, same cautious distance, and same blackout lighting into the fuller hidden-eater reveal. Strip 016 must not pre-empt Strip 017's captions/dialogue/formal reveal.
-- 017 → 018: same cautious distance and dining-table geometry through Hyun-woo's formal reveal.
-- 019 → 020 → 021: Nari's closer position, Hyun-woo chair state, refrigerator/pantry/table geometry remain continuous.
-- 020 → 021: Hyun-woo's chair-push/rise continues into his walk around the table; never teleport him.
-- 021 → 022 → 023: hostile refrigerator/candle sequence remains one continuous action chain.
-- 024 → 025: same dark conversation; outside city returns before Unit 2407.
-- 025 → 026: Unit 2407 is now normally powered; do not carry blackout rendering forward.
-- 027 → 028: same cabinet/chime source; Strip 028 opens that exact cabinet.
-- 028 → 029: knife route continues floor → desk sheath before Nari handles food.
-- 031 → 032: same unplugged TV activation continues into the final hostile message; no blank break.
+Building shared areas:
+- `B-ENTRY` = `rainy-building-entrance-canonical.png`
+- `B-LOBBY` = `building-lobby-elevator-canonical.png`
 
-## Strip 016 Teaser Rule
+Core objects:
+- `O-SPK` = `smart-speaker-canonical-states.png`
+- `O-TV` = `tv-canonical-states.png`
+- `O-FRIDGE` = `refrigerator-canonical-states.png`
 
-Strip 016's final Hyun-woo appearance is a continuity teaser, NOT the formal reveal.
+All Unit references live in `../../../Environment-References/Chapter-01-Unit-2407/`.
+Building references live in `../../../Environment-References/Chapter-01-Building-Shared-Areas/`.
+Object references live in `../../../Object-References/Chapter-01-Core-Objects/`.
 
-Allowed in Strip 016 final sub-composition:
-- broad seated body silhouette
-- long low-tied hair silhouette
-- correct dining-table/chair position
-- partial arm/chopstick/pot relationship if useful
+## Strip-by-Strip Environment / Object Attachment Map
 
-Must remain obscured until Strip 017/018:
-- full readable face
-- clear eyes
-- full technical mask construction
-- tattoo details
-- identity/name
+| Strip | Environment canonical(s) | Core object canonical(s) |
+|---:|---|---|
+| 001 | U-FP, U-ENTRY, U-L2K | O-SPK |
+| 002 | U-FP, U-ENTRY, U-L2K, U-HALL | — |
+| 003 | U-FP, U-L2K, U-HALL | — |
+| 004 | U-FP, U-ENTRY, U-L2K, U-HALL | — |
+| 005 | U-FP, U-L2K, U-K2L | O-SPK |
+| 006 | U-FP, U-L2K, U-K2L | O-SPK, O-TV |
+| 007 | U-FP, U-L2K, U-K2L, U-FRIDGE | O-TV, O-FRIDGE |
+| 008 | U-FP, U-FRIDGE, U-L2K | O-SPK |
+| 009 | U-FP, U-FRIDGE, U-DESK | — |
+| 010 | U-FP, U-L2K, U-DESK, U-HALL | — |
+| 011 | U-FP, U-FRIDGE, U-DESK | — |
+| 012 | B-ENTRY, B-LOBBY | — |
+| 013 | B-LOBBY | — |
+| 014 | U-FP, U-DESK, U-HALL, U-LIGHT | — |
+| 015 | U-FP, U-DESK, U-LIGHT | — |
+| 016 | U-FP, U-DESK, U-HALL, U-L2K, U-LIGHT | — |
+| 017 | U-FP, U-L2K, U-K2L, U-FRIDGE, U-LIGHT | — |
+| 018 | U-FP, U-L2K, U-K2L, U-FRIDGE, U-LIGHT | — |
+| 019 | U-FP, U-L2K, U-K2L, U-FRIDGE, U-LIGHT | — |
+| 020 | U-FP, U-L2K, U-K2L, U-FRIDGE, U-LIGHT | O-FRIDGE |
+| 021 | U-FP, U-L2K, U-K2L, U-FRIDGE, U-LIGHT | O-FRIDGE |
+| 022 | U-FP, U-L2K, U-K2L, U-FRIDGE, U-LIGHT | O-FRIDGE |
+| 023 | U-FP, U-L2K, U-K2L, U-FRIDGE, U-LIGHT | O-FRIDGE |
+| 024 | U-FP, U-L2K, U-K2L, U-FRIDGE, U-LIGHT | O-FRIDGE |
+| 025 | U-FP, U-L2K, U-K2L, U-FRIDGE, U-LIGHT | O-FRIDGE |
+| 026 | U-FP, U-DESK, U-ENTRY, U-LIGHT | — |
+| 027 | U-FP, U-ENTRY, U-FRIDGE, U-LIGHT | — |
+| 028 | U-FP, U-FRIDGE, U-DESK, U-K2L, U-LIGHT | O-SPK |
+| 029 | U-FP, U-FRIDGE, U-DESK, U-L2K, U-LIGHT | O-SPK |
+| 030 | U-FP, U-DESK, U-L2K, U-LIGHT | O-SPK |
+| 031 | U-FP, U-L2K, U-K2L, U-DESK, U-LIGHT | O-TV |
+| 032 | U-FP, U-L2K, U-K2L, U-LIGHT | O-TV |
 
-Nari must visibly stop/react before the glimpse; she must not advance beyond the kitchen/dining entrance.
+Use U-ATLAS additionally whenever a requested camera angle is not directly represented by the listed primary views.
 
-## Attachment Map
+## Character Attachment Map
 
 - 001: Nari
 - 002–004: Nari + Mrs. Na
 - 005–011: Nari
 - 012–013: Nari + Seungjae
 - 014–015: Nari
-- **016–025: Nari + Hyun-woo**
+- 016–025: Nari + Hyun-woo; Strip 016 only uses Hyun-woo for teaser silhouette/body/seat continuity
 - 026–032: Nari only
-
-Hyun-woo canonical PNG is required in Strip 016 only to keep the teaser silhouette/body/seat consistent with Strip 017. It does not authorize a full reveal.
 
 Hyun-woo is voice-only in Strips 028–030 and must not be physically drawn.
 
-For every strip after 001 attach the immediately previous APPROVED manhwa strip.
+## Critical Continuation Seams
+
+- 014 → 015 → 016: continuous outage/darkness field
+- 016 → 017: Strip 016 ends with Nari stopped/shocked plus partial canonical Hyun-woo glimpse at the correct dining chair; Strip 017 continues the exact geometry
+- 017 → 018: same cautious distance and dining-table geometry through formal reveal
+- 019 → 020 → 021: Nari closer position, chair state, refrigerator/pantry/table geometry continuous
+- 020 → 021: chair-push/rise continues into visible walk; no teleport
+- 021 → 022 → 023: hostile fridge/candle sequence continuous
+- 024 → 025: outside city returns before Unit 2407
+- 025 → 026: powered baseline begins; no blackout carryover
+- 027 → 028: same cabinet/chime source
+- 028 → 029: knife route floor → desk sheath
+- 031 → 032: same unplugged TV activation; no blank break
+
+## No-Dead-Space Rule
+
+No strip receives a giant empty bottom tail merely to reserve a seam. If content ends early, enlarge/recompose existing story art, reaction, canonical environment, darkness/rain/effect field, or use only a compact seam buffer. Never invent filler text/SFX.

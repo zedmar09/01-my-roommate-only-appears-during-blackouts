@@ -1,6 +1,6 @@
 # Chapter 1 Manhwa Generation Checklist
 
-Status: **FULL CHAPTER SPEC LOCKED — 32 STRIPS — 014–032 PRECISION AUDITED**
+Status: **FULL CHAPTER SPEC LOCKED — 32 STRIPS — 014–032 PRECISION AUDITED — CANONICAL ENVIRONMENT/OBJECT SYSTEM ADDED**
 
 ## Scope
 
@@ -13,145 +13,138 @@ Status: **FULL CHAPTER SPEC LOCKED — 32 STRIPS — 014–032 PRECISION AUDITED
 
 ## Script Gate
 
-For every strip:
-- exact source wording only
-- exact speaker/source ownership
-- exact SFX/device/note text
-- no invented filler dialogue/narration/SFX
-- no production labels in artwork
+For every strip: exact source wording, exact speaker/source ownership, exact SFX/device/note text, no invented filler dialogue/narration/SFX, and no production labels in artwork.
 
 ## Precision Production Gate — Absolute
 
 Strip 013 is the quality baseline for production-detail specificity. Strips 014–032 have been audited to the same standard.
 
-Before approving ANY strip, verify:
-- every character begins where the previous approved strip physically left them, unless a scripted legal time/location cut occurs
-- every movement is visible or explicitly bridged; no teleporting between desk, kitchen, entry, lobby, table, cabinet, or TV
-- every carried object has one continuous route; nothing appears/disappears from hands without a shown placement/pickup
-- every recurring prop keeps one identity/count/state/location until scripted movement changes it
-- speech-balloon tails point only to exact scripted speaker
-- narration/thought/device text are never converted into another text type
-- SFX stays source-aligned to exact object/event
-- device text stays inside the correct device screen/interface
-- close-ups never imply a false story-world distance change
-- environment axis, furniture placement, appliance bodies, lighting state, wardrobe, and scale stay stable
+Verify every character begins where the previous approved strip left them unless a legal time/location cut occurs; every movement is visible/bridged; every carried object has a route; recurring props keep one identity/count/state/location; speech tails point to exact speaker; text types are not converted; SFX stays source-aligned; device text stays inside correct device; close-ups do not imply false distance changes; environment axis, furniture, appliance body, lighting, wardrobe, and scale stay stable.
 
-Automatic reject for ambiguous source ownership, duplicated props/devices/bags, unexplained object relocation, invisible route changes, or compressed action order.
+Automatic reject for ambiguous ownership, duplicated props/devices/bags, unexplained relocation, invisible route changes, or compressed action order.
+
+## Canonical Reference Gate — Absolute
+
+Reference priority:
+1. source/current strip script
+2. character canonical
+3. environment canonical
+4. core-object canonical
+5. previous approved strip temporary state
+
+For every strip:
+- attach the relevant approved environment reference(s) listed in the strip manifest
+- attach only relevant core-object canonical(s) when visible/state-critical
+- never use a rejected environment/object reference
+- never mirror/redesign Unit 2407 against its approved floor plan/angle atlas
+- never propagate an old strip's geometry/object-design drift against the canonical pack
+
+Environment packs:
+- `../../../Environment-References/Chapter-01-Unit-2407/`
+- `../../../Environment-References/Chapter-01-Building-Shared-Areas/`
+
+Object pack:
+- `../../../Object-References/Chapter-01-Core-Objects/`
 
 ## Identity Gate
 
 - canonical PNG is absolute face/body identity authority
-- previous approved strip controls environment/wardrobe/pose continuity, not identity
-- attach only characters physically visible in the strip
-- **Strip 016 requires Hyun-woo canonical PNG for the FINAL teaser silhouette/body/seat continuity only; full readable reveal is still forbidden there**
+- Strip 016 requires Hyun-woo canonical PNG for FINAL teaser silhouette/body/seat continuity only; full readable reveal is forbidden there
 - Hyun-woo fuller physical sequence: Strips 017–025
 - Strips 028–030 Hyun-woo voice-only: do not attach his PNG
 
-## Continuous Layout Gate
+## Environment Geometry Gate
 
 Reject if:
-- looks like a printed manga page/grid
-- contains circled/page/strip/beat numbers
-- all compositions have mechanically equal height
-- important reveal has no scroll breathing room
-- huge bottom area is purposeless blank canvas
-- strip feels cut off/unfinished
-- bottom gap plus next top gap creates a double break
+- Unit 2407 room/furniture/appliance relationships disagree with approved floor plan/angle atlas
+- entry/living/dining/kitchen/hallway routes change without script
+- desk, fridge/cabinet zone, hallway lamp, TV zone, doors, windows, bedrooms or bathroom shift between angles
+- building lobby entrance/elevator axis flips
+- camera angle is physically impossible from the canonical plan
 
-## No-Dead-Space Gate — Absolute
+## Core Object Gate
 
-Inspect the lower 20–25% of every strip.
+Speaker:
+- same small screenless matte-charcoal corded cylinder
+- no words printed on body
+- clean helpful/borrowed-current signal only
 
-Large space is allowed only when it visibly functions as:
-- existing narration/time transition
-- meaningful silence/hesitation
-- reveal delay
-- scripted SFX beat
-- reaction hold
-- atmosphere/environment continuation
-- controlled seam
+TV:
+- same matte-black body/cord/stand
+- helpful text = clean cyan-white
+- hostile state = broad full-screen broadcast/signal takeover with restrained sync tear/scanline + broken white/black pixels
 
-Never invent reader-facing text/SFX just to fill space. Prefer expanding existing art/composition/environment/action/reaction.
+Refrigerator:
+- same matte cool-gray body with narrow upper-right display
+- hostile state stays contained to narrow embedded display with segmented diagnostic/locking progression and seam-crawl black pixels
+
+Reject if TV and refrigerator hostile manifestation languages are swapped or if object bodies redesign between strips.
+
+## Continuous Layout / No-Dead-Space Gate
+
+Reject printed-page grid artifacts, production numbering, mechanically equal compositions, important reveals without scroll breathing room, huge purposeless bottom canvas, unfinished-feeling strips, or double bottom/top gaps.
+
+Inspect lower 20–25% of every strip. Large space is allowed only for existing narration/time transition, meaningful silence, reveal delay, scripted SFX, reaction hold, canonical environment/atmosphere continuation, or controlled seam. Never invent text/SFX merely to fill space.
 
 ## Seam Gate
 
-- identical width for all strips
-- follow manifest seam type
+- identical width
 - previous approved strip mandatory for 002–032
-- no text split across seam
-- no obvious horizontal join
-- no duplicated/missing background
-- no character/object scale jump
-- no changed apartment/lobby axis
-- no unplanned power/lighting jump
+- relevant environment/object canonical(s) also attached
+- no text split
+- no horizontal join
+- no duplicated/missing canonical background
+- no scale jump
+- no apartment/lobby axis change
+- no unplanned lighting/power jump
 
 ## Apartment / Prop Gate
 
-Preserve source continuity for binder, brass key, speaker/storage-stockpot/towels/cord, noodle cooking pot/trivet/cloth, TV plug/body, refrigerator display/body, handwritten note/pen, practical knife/sheath, guarded fruit knife, pantry/six noodles, desk emergency tray, candle/holder, pushed chair, A5 notebook, hallway lamp, phone/tablet, and south-wall panel.
+Preserve binder, brass key, speaker/storage-stockpot/towels/cord, noodle cooking pot/trivet/cloth, TV plug/body, refrigerator body/display, handwritten note/pen, practical knife/sheath, guarded fruit knife, pantry/six noodles, desk emergency tray, candle/holder, pushed chair, A5 notebook, hallway lamp, phone/tablet, and south-wall panel.
 
 ## Device Signature Gate
 
-Helpful/Hyun-woo: clean stable cyan-white accent.
-Hostile: broken stark-white + black pixel corruption.
-Never swap.
-Device text remains on its device; voice-through-speaker remains audio dialogue, not screen text.
+Helpful/Hyun-woo = clean stable cyan-white accent. Hostile = broken stark-white + black pixel corruption. Device text remains on its device; voice-through-speaker remains audio dialogue, not screen text. TV vs refrigerator hostile manifestation remains object-specific.
 
 ## Outage / Hyun-woo Gate — Strips 014–025
 
-- Strip 014 legal time cut: no Seungjae in Unit 2407; Nari home blackout outfit locked
+- Strip 014 legal time cut; Nari home blackout outfit locked
 - no phone-screen activation during outage
-- desk tray remains right of keyboard until knife draw
-- first `SLURP` in Strip 016 is OFFSCREEN and precedes any visible Hyun-woo
-- practical knife draw visibly leaves empty sheath at desk
-- **Strip 016 final V75 handoff must show Nari visibly STOP/SHOCK at the kitchen-dining entrance before a PARTIAL canonical Hyun-woo teaser glimpse**
-- Strip 016 teaser glimpse: seated at correct dining chair, broad build/long low-tied hair silhouette only; full face/eyes/mask/tattoos/name remain obscured
-- Nari does not advance beyond the entrance during the Strip 016 teaser
-- Strip 017 continues the exact same seated figure, chair, candle/table geometry, Nari threshold position, cautious distance, and blackout lighting; no visual reset
-- Hyun-woo canonical body/hair/mask/tattoo continuity for fuller reveal sequence
-- dining-table geography preserved; never seat him at sink/counter/island
+- first `SLURP` in Strip 016 offscreen
+- practical knife draw leaves sheath at desk
+- Strip 016 final handoff: Nari STOP/SHOCK at kitchen-dining entrance before PARTIAL canonical Hyun-woo teaser; correct chair/build/hair silhouette; no full face/mask/tattoos/name
+- Strip 017 continues exact seated figure, chair/table/candle geometry and Nari threshold position
+- dining-table geography preserved; never seat Hyun-woo at sink/counter/island
 - Nari remains at entrance until exactly one cautious step in Strip 019
-- new closer position carries into Strips 020–023
 - chair push/rise/crossing shown without teleporting
-- Hyun-woo blocks between Nari and refrigerator without touching her
-- `YOON NARI` then `IDENTITY LOCKING` hostile progression
-- candle stays in same holder/table position
-- candle extinguish → shriek → knife slips → knife hits floor → wrist catch, in that exact order
-- knife landing spot remains fixed through Strip 028 pickup
+- `YOON NARI` then `IDENTITY LOCKING`
+- candle remains in same holder/table position
+- candle extinguish → shriek → knife slips → knife hits floor → wrist catch
+- knife landing spot fixed through Strip 028 pickup
 - city power may return while Unit 2407 remains dark
-- Hyun-woo stays physical until Unit 2407 itself powers on
+- Hyun-woo remains physical until Unit 2407 itself powers on
 - no visible disappearance process
-
-Automatic reject for Strip 016 if:
-- no Nari shock/stop beat appears before glimpse
-- Hyun-woo is absent from final teaser entirely
-- Hyun-woo is fully revealed early
-- wrong seat/location/build/hair silhouette is used
-- Strip 016 pre-empts Strip 017 dialogue/captions/formal reveal
 
 ## Powered Aftermath Gate — Strips 026–032
 
-- normal neutral powered baseline throughout
-- no accidental second outage
+- normal neutral powered baseline
 - no physical/reflected/silhouetted Hyun-woo
-- Strip 026 phone continuity: kitchen/dining → desk phone pickup → entry; phone must not teleport
-- door/latch → smart-lock history → camera archive → security call evidence chain preserved
-- same phone continues into Strip 027 voicemail, then is placed on kitchen counter in Strip 028 before cabinet opening
-- cabinet chimes come only from same closed lower cabinet
-- same storage stockpot/towels/unplugged speaker; never merge with noodle cooking pot
-- practical knife floor → Nari hand → desk sheath route shown; she returns to food empty-handed
-- food inspected before one cautious bite; use clean available chopsticks
+- Strip 026: kitchen/dining → desk phone pickup → entry
+- door/latch → smart-lock history → camera archive → security call
+- same phone continues into Strip 027, then placed on counter in Strip 028
+- cabinet chimes only from same lower cabinet
+- same storage stockpot/towels/unplugged speaker
+- practical knife floor → hand → desk sheath; Nari returns to food empty-handed
+- food inspected before one cautious bite
 - paper-only / south-wall warning preserved
-- missing-section question receives no answer
-- physical A5 notebook travels desk → dining table; no teleport/digital substitution
-- observation vs hypothesis wording remains distinct
+- physical A5 notebook travels desk → dining table
+- observation vs hypothesis wording distinct
 - TV remains visibly unplugged at final activation
-- Nari stays at dining table during TV activation/final reveal
+- Nari stays at dining table during final TV sequence
 
 ## Final Gate
 
-Strip 032 ends on hostile `NEW TENANT CONFIRMED` plus one `FZZT` light flicker while Unit 2407 stays powered.
-No extra chapter-end copy.
-No giant blank tail after final reveal.
+Strip 032 ends on hostile `NEW TENANT CONFIRMED` plus one `FZZT` apartment-light flicker while Unit 2407 stays powered. No extra chapter-end copy and no giant blank tail.
 
 ## Promotion Gate
 
