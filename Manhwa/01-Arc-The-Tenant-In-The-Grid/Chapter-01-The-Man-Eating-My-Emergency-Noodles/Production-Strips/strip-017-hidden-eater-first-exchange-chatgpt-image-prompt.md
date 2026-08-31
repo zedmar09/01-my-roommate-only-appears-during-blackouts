@@ -1,47 +1,171 @@
 # Strip 017 — Hidden Eater / First Exchange
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME Chapter 1 scroll.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Nari's SAME kitchen/dining approach from APPROVED Strip 016.
+
+THIS IS NOT A PAGE. Do not draw page numbers, circled panel numbers, strip IDs, beat IDs, headers, footers, or reader-visible technical labels.
 
 TECHNICAL SCOPE
-V76–V80. Source Comic Page 10 ending + Page 11 opening.
-Never print technical IDs.
+Internal beats V76–V80. Source authority: Comic Chapter 1 Page 10 ending + Page 11 opening.
 
-ATTACH
-- Nari canonical PNG
-- Hyun-woo canonical PNG
-- APPROVED Strip 016
+ATTACH — REQUIRED
+- `Character-References/nari-canonical-flat2d.png`
+- `Character-References/hyunwoo-canonical-flat2d.png`
+- APPROVED Strip 016 as mandatory darkness / hallway / Nari position continuity reference
 
-Hyun-woo's canonical PNG controls body, broad build, long low-tied black hair, clothing silhouette, seated proportions, and eventual identity. In V76–V78 conceal formal face/mask/tattoo details through angle/shadow rather than drawing a generic man.
+==================================================
+HYUN-WOO HIDDEN-IDENTITY LOCK — ABSOLUTE
+==================================================
 
-SEAM IN — A/E
-Continue Nari's same hallway/kitchen approach from Strip 016. She reaches the kitchen/dining entrance; no teleport.
+The seated eater is already the SAME canonical Hyun-woo.
+Use Hyun-woo canonical PNG for:
+- broad adult build
+- long black hair tied low
+- height/proportions while seated
+- clothing silhouette
+- arm/leg proportions
 
-V76 — Dominant dining-table reveal. Hyun-woo is seated in the dining chair closest to kitchen/refrigerator side, eating from the noodle pot on trivet. Folded cloth at hot handle; short pillar candle in ceramic holder beside pot; pantry slightly ajar with five unopened packets. Sink/cooktop remain separate background fixtures.
-CAPTION: `NARI HADN'T LIT THAT CANDLE.`
-CAPTION: `SHE HADN'T COOKED THE NOODLES.`
-SFX source-aligned to eater: `SLURP`
+For V76–V80, do NOT invent a generic stranger.
+Formal face/mask/tattoo details are intentionally concealed until Strip 018 through angle, deep shadow, foreground framing, and distance.
+Do NOT change his hair length/body to hide him.
+Do NOT show a short-haired man.
 
-V77 — Nari stops at the entrance and does not advance. Knife remains low/controlled.
-NARI: `DON'T MOVE. I HAVE A KNIFE.`
+==================================================
+EXACT DINING / KITCHEN GEOGRAPHY — ABSOLUTE
+==================================================
 
-V78 — Hidden Hyun-woo remains seated at the SAME cautious distance.
-HYUN-WOO: `I CAN SEE THAT.`
+Nari reaches the kitchen/dining entrance and STOPS there.
+She does not advance in this strip.
 
-V79 — Guarded conversation without either person moving closer.
-NARI: `WHO ARE YOU?`
-HYUN-WOO: `PUT THE KNIFE DOWN.`
-NARI: `ANSWER ME FIRST.`
+Hyun-woo is seated in the dining chair CLOSEST TO THE KITCHEN/REFRIGERATOR SIDE of the DINING TABLE.
+He is angled partly toward Nari's entrance direction.
+He is NOT:
+- at the sink
+- beside a washbasin
+- at the kitchen counter
+- at the cooktop
+- inside pantry area
+- on a stool
+- at an invented kitchen island
 
-V80 — Same positions; identity still not fully revealed.
-HYUN-WOO: `YOU'VE BEEN TALKING TO ME FOR DAYS.`
+The dining table is separate from kitchen counter/sink/cooktop.
 
+Locked table props:
+- noodle cooking pot on a trivet directly in front of Hyun-woo
+- folded cloth securely at/around hot pot handle
+- short pillar candle in ceramic holder on SAME dining table beside pot
+- Hyun-woo's chopsticks in use at first reveal
+
+Locked background:
+- sink/cooktop several feet behind/to side as kitchen fixtures
+- cooktop off
+- refrigerator fixed
+- pantry slightly ajar
+- exactly FIVE unopened other-flavor noodle packets remain after spicy-seafood packet was used
+
+==================================================
+NARI POSITION / KNIFE LOCK — ABSOLUTE
+==================================================
+
+Nari remains at the kitchen/dining entrance for V76–V80.
+She takes ZERO steps closer.
+She holds the SAME practical knife low and controlled.
+No contact occurs.
+The dining table/open floor between them must visibly preserve cautious physical distance.
+Camera close-ups may crop space, but must not imply their bodies moved closer.
+
+==================================================
+DIALOGUE / SFX ATTRIBUTION LOCK — ABSOLUTE
+==================================================
+
+- `NARI HADN'T LIT THAT CANDLE.` = narration caption
+- `SHE HADN'T COOKED THE NOODLES.` = narration caption
+- `SLURP` = Hyun-woo eating at dining table
+- `DON'T MOVE. I HAVE A KNIFE.` = Nari spoken aloud
+- `I CAN SEE THAT.` = Hyun-woo spoken aloud
+- `WHO ARE YOU?` = Nari
+- `PUT THE KNIFE DOWN.` = Hyun-woo
+- `ANSWER ME FIRST.` = Nari
+- `YOU'VE BEEN TALKING TO ME FOR DAYS.` = Hyun-woo
+
+Every speech-bubble tail points ONLY to correct speaker.
+Narration receives no speech tail.
+`SLURP` stays physically near Hyun-woo/pot, never sink or refrigerator.
+
+==================================================
+VERTICAL STORY FLOW
+==================================================
+
+V76 — DOMINANT HIDDEN-EATER REVEAL
+From Nari's entrance perspective, reveal the dining table and canonical-but-concealed Hyun-woo seated in locked chair, actively eating.
+NARRATION:
+`NARI HADN'T LIT THAT CANDLE.`
+NARRATION:
+`SHE HADN'T COOKED THE NOODLES.`
+SFX:
+`SLURP`
+
+V77 — NARI STOPS
+Show Nari firmly stopping at entrance, knife low.
+NARI:
+`DON'T MOVE. I HAVE A KNIFE.`
+
+V78 — FIRST RESPONSE
+Hyun-woo remains seated, same distance, calm.
+HYUN-WOO:
+`I CAN SEE THAT.`
+
+V79 — GUARDED INTERROGATION
+No one changes position.
+NARI:
+`WHO ARE YOU?`
+HYUN-WOO:
+`PUT THE KNIFE DOWN.`
+NARI:
+`ANSWER ME FIRST.`
+
+V80 — CONNECTION TO PRIOR CONTACT
+Hyun-woo remains seated/concealed.
+HYUN-WOO:
+`YOU'VE BEEN TALKING TO ME FOR DAYS.`
+
+==================================================
+LIGHTING LOCK
+==================================================
+
+Unit 2407 ordinary power remains absent.
+Use readable charcoal/blue-gray blackout shapes.
+The candle is a SMALL local matte amber source on the dining table only.
+No room-filling cinematic glow, reflections, bloom, or rim light.
+
+==================================================
 NO DEAD BOTTOM — ABSOLUTE
-Use the final lower area for the same tense table/entrance geometry and guarded eye-line. Do not end with a huge empty darkness field. No invented filler text.
+==================================================
+
+Use lower canvas for the guarded table/entrance geometry, Nari's eye-line, Hyun-woo seated silhouette, and stable pot/candle anchors.
+Do not leave giant empty darkness after V80.
+Do not invent filler narration/SFX.
 
 SEAM OUT — A/G
-Keep the same cautious distance, same chair, pot, candle, pantry, refrigerator, and Nari entrance position for Strip 018.
+Strip 018 continues the SAME cautious distance, same chair, table, pot, candle, pantry, refrigerator, Nari entrance position, and blackout lighting.
 
-AVOID
-No sink/counter seating, no generic short-haired man, no intimate distance, no raised knife near Hyun-woo, no changed pot/candle/chair, no glossy candle glow, no dead bottom canvas.
+AUTOMATIC REJECT IF
+- Hyun-woo seated at sink/counter/island
+- generic/short-haired hidden man
+- Nari steps closer
+- Hyun-woo stands
+- knife is raised near his body
+- table/pot/candle move
+- pantry noodle count changes
+- `SLURP` appears at wrong source
+- dialogue assigned to wrong speaker
+- formal Hyun-woo reveal happens too early
+- glossy/cinematic candlelight appears
+- giant purposeless bottom space appears
 ```
+
+## Production Thread Attachments
+1. `Character-References/nari-canonical-flat2d.png`
+2. `Character-References/hyunwoo-canonical-flat2d.png`
+3. APPROVED Strip 016
+4. this current Strip 017 prompt

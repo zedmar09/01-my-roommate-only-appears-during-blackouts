@@ -1,41 +1,133 @@
 # Strip 015 — No Screens / Dark Suspense Handoff
 
-> Legacy filename retains `dark-ending`, but this strip is NO LONGER the chapter ending. It hands directly to Strip 016.
+> Legacy filename retains `dark-ending`, but this strip is NOT a chapter ending. It continues directly into Strip 016.
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME Manhwa Chapter 1.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME blackout from APPROVED Strip 014.
+
+THIS IS NOT A PAGE. Do not draw page numbers, circled panel numbers, strip IDs, beat IDs, headers, footers, or chapter-ending cards.
 
 TECHNICAL SCOPE
-V68–V70. Source Comic P9.
-Never print beat/strip IDs.
+Internal beats V68–V70 only. Source authority: Comic Chapter 1 Page 9 ending.
+Never render V/strip IDs.
 
-ATTACH
-- Nari canonical PNG
-- APPROVED Strip 014
+ATTACH — REQUIRED
+- `Character-References/nari-canonical-flat2d.png`
+- APPROVED Strip 014 as mandatory desk / outage / lighting continuity reference
 
-SEAM IN — EFFECT/ATMOSPHERE E
-Continue the same deep charcoal/black reader field and powerless Unit 2407 darkness from Strip 014. No visible join and no restored interior light.
+Do NOT attach Hyun-woo.
 
-V68 — Back at the SAME desk/orientation. Nari looks toward her phone but does not touch/wake it; screen stays completely black. Emergency tray remains fixed.
-CAPTION: HER PHONE WAS AT 81% TEN MINUTES AGO.
-CAPTION: SHE LEFT THE SCREEN DARK.
-NARI INTERNAL THOUGHT: MRS. NA SAID NO SCREENS.
+==================================================
+SEAM IN / EXACT START STATE — ABSOLUTE
+==================================================
 
-V69 — Same desk. Nari tests only flashlight twice and radio. Flashlight never illuminates. Radio gives one brief static burst and dies. Practical knife remains fully SHEATHED and untouched.
-SFX near flashlight: CLICK  CLICK
-SFX near radio: KSSHT
-NARI, quiet: NOTHING.
+Continue the SAME outage from Strip 014 with no reset.
+- Unit 2407 ordinary power remains completely absent.
+- Nari is back at the SAME work desk / same physical orientation established before the cutaway exterior.
+- hallway mains lamp remains OFF because of the outage.
+- phone is at the desk, charged, but its screen is completely BLACK.
+- emergency tray remains immediately right of keyboard.
+- flashlight, portable radio, and fully SHEATHED practical knife remain in their established positions.
+- practical knife remains untouched throughout Strip 015.
+- front door remains closed and safety latch engaged.
 
-V70 — Purposeful dark listening hold. Nari remains in powerless Unit 2407, processing the failed tools and listening to the apartment. Use readable charcoal room geometry / Nari reaction / dark atmosphere. NO NEW TEXT and NO `SLURP` yet.
+Nari keeps the same blackout-night outfit from Strip 014.
 
+==================================================
+NO-SCREEN RULE — ABSOLUTE
+==================================================
+
+Nari remembers Mrs. Na's instruction and deliberately does NOT activate the phone.
+She must NOT:
+- touch/wake/unlock the phone screen
+- use flashlight mode from a phone
+- turn on tablet/monitor/TV/refrigerator display
+- treat a screen as replacement light
+
+The phone may be looked at only as a dark object.
+
+==================================================
+VERTICAL STORY FLOW
+==================================================
+
+V68 — DARK PHONE / DELIBERATE CHOICE
+Same desk. Nari looks toward the dark phone but does not touch it.
+NARRATION CAPTION:
+`HER PHONE WAS AT 81% TEN MINUTES AGO.`
+NARRATION CAPTION:
+`SHE LEFT THE SCREEN DARK.`
+NARI INTERNAL THOUGHT ONLY:
+`MRS. NA SAID NO SCREENS.`
+
+CRITICAL LETTERING:
+- both first lines are narration captions, no speech tails
+- `MRS. NA SAID NO SCREENS.` is INTERNAL THOUGHT, not spoken dialogue
+- do not assign any of these lines to a device
+
+V69 — SAFE ANALOG/BATTERY TESTS
+Nari tests ONLY the battery flashlight and portable radio.
+- flashlight button pressed twice
+- flashlight NEVER illuminates
+- radio gives one brief static burst and dies
+- practical knife remains fully sheathed in tray and untouched
+
+SFX source = flashlight button:
+`CLICK  CLICK`
+SFX source = radio:
+`KSSHT`
+NARI, spoken quietly to herself:
+`NOTHING.`
+
+V70 — PURPOSEFUL LISTENING HOLD
+Nari remains near the SAME desk in powerless Unit 2407, listening into the apartment after the failed tools.
+No new text.
+No `SLURP` yet.
+Use readable charcoal/blue-gray room geometry, Nari's controlled listening posture, and hallway direction so the reader can feel where the next sound will come from.
+
+==================================================
 NO DEAD BOTTOM — ABSOLUTE
-Do NOT leave a giant empty dark or white tail. V70 is a meaningful suspense composition, not unused canvas. Use the lower strip for Nari's listening posture, room depth, hallway direction, and continuous blackout atmosphere. Keep only a compact technical seam buffer.
-Do not invent filler narration/SFX.
+==================================================
 
-SEAM OUT — E/G CONTINUATION TO STRIP 016
-The same blackout continues. Strip 016 advances to `12:56 A.M. — THIRTEEN MINUTES INTO THE BLACKOUT` and then introduces the first `SLURP`.
-Do not make this boundary feel like an episode/chapter break.
+V70 is a story beat, not an excuse for a huge blank dark tail.
+Use the lower canvas for:
+- Nari's listening posture
+- desk / emergency-tray continuity
+- dark room depth
+- hallway direction leading toward kitchen/dining
+- continuous blackout atmosphere
 
-STORY CLARITY
-Reader knows the outage is citywide, Nari obeyed the no-screen warning, her fallback tools failed, and she is listening in the dark. The next strip continues the SAME Chapter 1.
+Only a compact technical seam buffer is allowed.
+Do NOT invent filler narration or SFX.
+
+SEAM OUT — E/G CONTINUATION
+Same outage continues into Strip 016.
+Strip 016 advances to `12:56 A.M. — THIRTEEN MINUTES INTO THE BLACKOUT` and then introduces the first `SLURP`.
+Do not make 015→016 feel like an episode break.
+
+TEXT LOCK — EXACT
+`HER PHONE WAS AT 81% TEN MINUTES AGO.`
+`SHE LEFT THE SCREEN DARK.`
+`MRS. NA SAID NO SCREENS.`
+`CLICK  CLICK`
+`KSSHT`
+`NOTHING.`
+
+AUTOMATIC REJECT IF
+- phone screen lights
+- Nari touches/wakes phone
+- flashlight actually illuminates
+- radio stays working
+- practical knife is moved or unsheathed
+- emergency tray geometry changes
+- `MRS. NA SAID NO SCREENS.` is rendered as spoken dialogue
+- `SLURP` appears early
+- physical Hyun-woo appears
+- apartment power returns
+- giant purposeless dark/white bottom space appears
+- filler dialogue/narration/SFX is invented
 ```
+
+## Production Thread Attachments
+1. `Character-References/nari-canonical-flat2d.png`
+2. APPROVED Strip 014
+3. this current Strip 015 prompt

@@ -1,44 +1,166 @@
 # Strip 029 — Sheathe Knife / Food / Paper Warning
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Nari's SAME movement from Strip 028.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Nari's SAME physical movement from APPROVED Strip 028.
+
+THIS IS NOT A PAGE. No reader-visible production numbering or labels.
 
 TECHNICAL SCOPE
-V133–V137. Source Comic Page 17 second half.
+Internal beats V133–V137. Source authority: Comic Chapter 1 Page 17 second half.
 
-ATTACH
-Nari canonical + APPROVED Strip 028.
-Do NOT attach Hyun-woo; voice-only through speaker.
+ATTACH — REQUIRED
+- `Character-References/nari-canonical-flat2d.png`
+- APPROVED Strip 028
 
-SEAM IN — A
-Nari has just picked up the practical knife from its established floor spot. Speaker cabinet remains open in powered kitchen.
+Do NOT attach Hyun-woo canonical PNG. He remains VOICE-ONLY through the same unplugged speaker.
 
-V133 — Connecting route kitchen/dining → SAME work desk, knife carried safely by handle. No teleport.
+==================================================
+EXACT START STATE — ABSOLUTE
+==================================================
 
-V134 — Nari slides exact knife into existing empty sheath in desk tray beside failed flashlight/radio and leaves it there.
-SFX: `SHK`
-She returns toward dining table EMPTY-HANDED.
+Nari has just picked up SAME practical knife from its fixed floor spot.
+She holds only that knife by handle.
 
-V135 — At same dining table, Nari inspects opened spicy-seafood packet, seasoning wrapper, noodle pot/broth; smells broth. Pot on trivet; folded cloth at handle. No eating yet.
+Powered apartment state remains normal neutral.
+Open lower kitchen cabinet remains OPEN.
+Inside cabinet:
+- SAME storage stockpot
+- SAME two dish towels
+- SAME unplugged screenless speaker
+- SAME propped lid
 
-V136 — Nari sits in available dining chair and takes ONE cautious bite with a clean available pair of chopsticks.
+SAME phone remains on nearby kitchen counter where Nari placed it in Strip 028.
 
-V137 — After swallowing, she looks toward same open cabinet.
-NARI: `TELL ME WHAT I NEED TO KNOW.`
-HYUN-WOO, voice through speaker: `WRITE THINGS DOWN. PAPER ONLY.`
-HYUN-WOO: `AND STAY AWAY FROM THE SOUTH-WALL PANEL.`
-NARI: `THE PANEL IN THE BINDER?`
-HYUN-WOO: `YES.`
+Other fixed props:
+- binder kitchen counter
+- brass key entry tray
+- pushed-back Hyun-woo dining chair
+- noodle cooking pot/trivet/folded cloth dining table
+- extinguished candle/holder
+- pantry ajar / five unopened packets
+- A5 grocery notebook still at work desk
 
-CONTINUITY
-Hyun-woo's pushed-back chair remains pushed back. Candle stays extinguished. Pantry five packets. Binder remains kitchen counter; brass key entry tray; A5 notebook still desk.
+==================================================
+KNIFE ROUTE — ABSOLUTE
+==================================================
 
+V133–V134 must show continuous physical route:
+1. Nari leaves knife floor spot carrying knife safely by handle.
+2. Walks kitchen/dining → SAME work desk through established route.
+3. Empty protective sheath is STILL in desk tray beside failed flashlight/radio.
+4. Nari slides SAME practical knife into THAT exact sheath.
+5. SFX `SHK` source = blade entering sheath.
+6. She leaves sheathed knife in tray.
+7. She turns and physically returns toward dining table EMPTY-HANDED.
+
+Do NOT teleport knife to sheath.
+Do NOT carry knife to food/table.
+Do NOT substitute guarded fruit knife.
+
+==================================================
+FOOD / UTENSIL CONTINUITY — ABSOLUTE
+==================================================
+
+The dining-table noodle cooking pot is DIFFERENT from speaker-storage stockpot.
+
+V135 before eating:
+Nari visually checks:
+- opened spicy-seafood packet
+- seasoning wrapper
+- same noodle pot
+- broth
+- existing chopsticks associated with Hyun-woo's meal
+Then she smells broth.
+She does NOT eat yet.
+
+V136:
+Nari sits in the AVAILABLE dining chair, not Hyun-woo's pushed-back chair unless source geometry makes that clearly the free seat.
+She uses a CLEAN AVAILABLE PAIR of chopsticks, not Hyun-woo's previously used pair.
+She takes exactly ONE cautious bite.
+No extra bowl/food/packet appears.
+
+==================================================
+DIALOGUE / VOICE OWNERSHIP — ABSOLUTE
+==================================================
+
+V137 after swallowing, Nari remains seated and looks/speaks toward SAME open lower cabinet.
+
+NARI:
+`TELL ME WHAT I NEED TO KNOW.`
+
+HYUN-WOO voice through unplugged speaker:
+`WRITE THINGS DOWN. PAPER ONLY.`
+
+HYUN-WOO voice:
+`AND STAY AWAY FROM THE SOUTH-WALL PANEL.`
+
+NARI:
+`THE PANEL IN THE BINDER?`
+
+HYUN-WOO voice:
+`YES.`
+
+Hyun-woo lines are voice-through-speaker speech, NOT device text on speaker body.
+Speaker has no screen.
+No physical/reflected/silhouetted Hyun-woo.
+
+==================================================
+VERTICAL STORY FLOW
+==================================================
+
+V133 — KNIFE CARRY TO DESK
+Show connecting apartment route.
+
+V134 — SHEATHE / LEAVE IT
+SFX:
+`SHK`
+Then Nari returns empty-handed.
+
+V135 — FOOD INSPECTION
+No dialogue.
+
+V136 — ONE CAUTIOUS BITE
+No dialogue/narration.
+
+V137 — PRACTICAL WARNING EXCHANGE
+Exact dialogue above.
+
+==================================================
+POWER / LIGHTING LOCK
+==================================================
+
+All present-time views normally powered/lit.
+Speaker weak indicator does not illuminate room.
+No second outage/flicker/hostile activity.
+
+==================================================
 NO DEAD BOTTOM — ABSOLUTE
-Use V137's cross-room eye-line from Nari at table to open speaker cabinet as a strong lower composition. No giant blank tail and no filler dialogue.
+==================================================
+
+Use lower canvas for cross-room eye-line from Nari at table to SAME open speaker cabinet, with stable Unit 2407 geography.
+No giant white/neutral tail after final `YES.`
+No filler text/SFX.
 
 SEAM OUT — G
-Strip 030 continues at same dining-table seat with Nari asking about missing Section 17.
+Strip 030 continues with Nari in SAME dining seat and open cabinet unchanged.
 
-AVOID
-No knife at table, no casual uninspected eating, no physical Hyun-woo, no moved binder/notebook, no dark powered scene, no dead whitespace.
+AUTOMATIC REJECT IF
+- knife teleports or reaches food/table
+- knife remains unsheathed after V134
+- Nari returns holding knife
+- storage pot/noodle pot merge
+- extra noodle packets/food appear
+- Nari eats before inspection
+- Nari uses clearly Hyun-woo's used chopsticks
+- physical Hyun-woo appears
+- speaker becomes plugged/screens display words
+- binder/key/phone/notebook move unexpectedly
+- powered scene becomes dark
+- dialogue attribution wrong
+- giant purposeless bottom space appears
 ```
+
+## Production Thread Attachments
+1. Nari canonical
+2. APPROVED Strip 028
+3. this Strip 029 prompt
