@@ -61,7 +61,7 @@ Full long-range spoilers remain in `series-plan.md`.
 
 ## Current Project Structure
 
-- `Manhwa/` — sole active vertical-manhwa production pipeline
+- `Manhwa/` — sole active vertical-manwha production pipeline
 - `Manhwa/01-Arc-The-Tenant-In-The-Grid/` — active Arc 1 production
 - `Manhwa/Environment-References/` — canonical environment packs
 - `Manhwa/Object-References/` — canonical recurring-object packs
