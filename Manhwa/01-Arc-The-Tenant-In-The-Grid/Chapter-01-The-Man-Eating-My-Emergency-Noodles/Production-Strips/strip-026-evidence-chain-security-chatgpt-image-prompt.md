@@ -12,6 +12,7 @@ ATTACH — REQUIRED
 - `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-canonical.png`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-canonical.png`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-states-canonical.png`
+- `Manhwa/Object-References/brass-backup-key-canonical.png`
 - APPROVED Strip 025
 - this Strip 026 prompt
 
@@ -28,9 +29,15 @@ Small black gutter between each evidence-chain slice. If smart-lock and phone/ca
 NO CLEANUP / PHONE ROUTE — ABSOLUTE
 ==================================================
 
-Powered apartment; nothing from encounter cleaned up: knife fixed floor spot, pushed chair, pot/trivet/cloth, extinguished candle, pantry five packets, closed hidden-speaker cabinet, unplugged inactive TV, binder counter, brass key tray.
+Powered apartment; nothing from encounter cleaned up: knife fixed floor spot, pushed chair, pot/trivet/cloth, extinguished candle, pantry five packets, closed hidden-speaker cabinet, unplugged inactive TV, electrical-operation guide on kitchen counter, SAME canonical brass backup key in entry tray.
 
 The SAME phone was left at work desk through blackout. V120 must show kitchen/dining → desk phone pickup → entry → latch test. Phone never teleports. No second phone/tablet.
+
+KEY CONTINUITY:
+- key stays in entry tray throughout this strip
+- Nari does not pick it up
+- same one brass mechanical key; no duplicate, smart fob, or keycard
+- if tray is visible during entry evidence, key silhouette/material must match canonical
 
 ==================================================
 VERTICAL STORY FLOW
@@ -89,6 +96,7 @@ Strip 027 continues SAME phone in Nari's hand into voicemail.
 
 AUTOMATIC REJECT IF
 - phone teleports/duplicates
+- brass backup key moves/duplicates/redesigns
 - encounter props cleaned up
 - current apartment dark
 - archive shows person
@@ -102,5 +110,6 @@ AUTOMATIC REJECT IF
 3. Unit 2407 desk-zone detail
 4. Unit 2407 entry/living wide
 5. Unit 2407 lighting-states canonical
-6. APPROVED Strip 025
-7. this Strip 026 prompt
+6. brass backup key canonical
+7. APPROVED Strip 025
+8. this Strip 026 prompt
