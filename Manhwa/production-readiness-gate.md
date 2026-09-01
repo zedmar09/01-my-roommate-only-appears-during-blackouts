@@ -2,7 +2,7 @@
 
 The Manhwa pipeline is the permanent production format.
 
-A chapter is **PRODUCTION COMPLETE** only when every mandatory gate below passes in current post-correction state. Earlier PASS labels do not substitute for fresh final audit.
+A chapter is **PRODUCTION COMPLETE** only when every mandatory gate passes in the current post-correction state. Earlier PASS labels never substitute for a fresh final audit.
 
 ## Mandatory Gates
 
@@ -15,39 +15,47 @@ A chapter is **PRODUCTION COMPLETE** only when every mandatory gate below passes
 7. required recurring object WebPs exist
 8. attached WebPs treated as permanent authority, not inspiration
 9. previous strip used only for temporary state/seam; never overrides permanent canon
-10. every strip has deterministic START → ALLOWED CHANGES → END state
-11. meaningful result follows real-world cause → visible action → result
-12. critical actions visibly prove mechanism/contact point
-13. hand occupancy/body support is physically possible; no extra-hand prop handling
-14. story-critical object provenance is continuous; no object appears at new location without visible/legal route
-15. adjacent vertical slices preserve micro-continuity
-16. conserved local **prop topology** preserves relative physical sides/order across reverse shots
-17. wall unplugging removes plug BODY from WALL socket; appliance-side cord remains attached
-18. wall outlets are canonical/frozen local environment landmarks and do not move/reorient across later strips
-19. character↔environment interaction physically believable
-20. narration design+placement follows scenario, not one repeated box/top-left tag
-21. NO reader-visible production metadata (`V-*`, P/strip/beat/panel/scene/shot/QA/layout labels)
-22. every technical strip generated/approved sequentially
-23. strict flat 2D human-drawn style passes actual pixel inspection
-24. power/light/candle/rain/device states physically coherent
-25. helpful/hostile effect signatures correct
-26. black read-slice + diagonal-divider grammar correct
-27. no purposeless dead bottom/double-gap seams
-28. mobile lettering readable and does not cover continuity-critical evidence
-29. stitched chapter has no seams, duplicate transitions, topology resets, geometry jumps, power/light jumps
-30. final ending matches locked script exactly
-31. fresh final clean-room audit finds zero unresolved mandatory findings
+10. any derived micro-detail is minimal, canon-compatible, temporary chapter continuity only, never permanent canon
+11. every strip has deterministic START → ALLOWED CHANGES → END state
+12. meaningful result follows real-world cause → visible action → result
+13. critical actions visibly prove mechanism/contact point
+14. hand occupancy/body support is physically possible; no extra-hand prop handling
+15. continuity-critical anatomical hand identity is conserved across reverse shots until visible transfer/release
+16. story-critical object provenance is continuous; no object appears at new location without visible/legal route
+17. adjacent vertical slices preserve micro-continuity
+18. conserved local prop topology preserves relative physical sides/order across reverse shots
+19. distinct evidence locations remain distinct until visible movement changes them
+20. wall unplugging removes plug BODY from WALL socket; appliance-side cord remains attached
+21. any locally derived outlet detail remains subordinate to canonical room geometry and cannot move/redefine architecture
+22. character↔environment interaction physically believable
+23. narration design+placement follows scenario, not one repeated box/top-left tag
+24. NO reader-visible production metadata (`V-*`, P/strip/beat/panel/scene/shot/QA/layout labels)
+25. every technical strip generated/approved sequentially
+26. strict flat 2D human-drawn style passes actual pixel inspection
+27. power/light/candle/rain/device states physically coherent and contained
+28. helpful/hostile effect signatures correct
+29. black read-slice + diagonal-divider grammar correct
+30. no purposeless dead bottom/double-gap seams
+31. mobile lettering readable and does not cover continuity-critical evidence
+32. stitched chapter has no seams, duplicate transitions, topology resets, geometry jumps, power/light jumps
+33. final ending matches locked script exactly
+34. fresh final clean-room audit finds zero unresolved mandatory findings
 
 ## Attached-Reference Failure — BLOCKING
 
-Reject if generated art modifies permanent attached reference-controlled feature rather than scripted temporary state.
+Reject if generated art modifies a permanent attached reference-controlled feature rather than scripted temporary state.
 Examples: mirrored apartment, recast character, redesigned TV/speaker/fridge, altered key/manual/mask, moved fixture/socket.
 Recompose/regenerate; never accept canon drift for visual convenience.
 
-## Previous-Strip Authority Failure — BLOCKING
+## Previous-Strip / Derived-Detail Authority Failure — BLOCKING
 
-Previous strip may control temporary pose, hand occupancy, food amount, pushed chair, open cabinet, current power/light, knife floor spot, seam composition.
-It may not redefine permanent face/hair/proportions, architecture, fixed furniture/appliance, wall outlet landmark, recurring object construction.
+Previous strip controls temporary pose, hand occupancy, food amount, pushed chair, open cabinet, current power/light, temporary prop locations, seam composition.
+
+A derived micro-detail may cover only the smallest practical detail omitted from canon, such as exact outlet faceplate or ordinary utensil storage, and only within existing canonical geometry.
+
+Neither may redefine permanent face/hair/proportions, architecture, furniture/appliance, recurring object construction, wall geometry, or canonical environment relationships.
+
+If canonical evidence conflicts, canonical wins and affected art must be corrected deliberately.
 
 ## Action-Proof Failure — BLOCKING
 
@@ -64,50 +72,54 @@ Reject examples:
 - tablet visible through closed opaque bag
 - phone/notebook appears in hand without pickup
 - packet changes floor→table without visible pickup
-- chopsticks appear without physical source
+- door becomes closed only after a time cut with no closing action
 
 If framing cannot prove mechanism, change camera.
 
-## Hand-Occupancy Failure — BLOCKING
+## Hand Identity / Occupancy Failure — BLOCKING
 
-Reject if characters require impossible extra hands or props float unsupported.
+Reject if characters require impossible extra hands, props float unsupported, or a continuity-critical item silently changes anatomical hand because the camera reverses.
+
 Examples:
 - handbag + binder + key ring + detached key all gripped impossibly
 - phone + umbrella + earbuds + watch simultaneously handheld
-- open binder + phone + page turning with impossible fingers/hands
-- bag/tablet support impossible
+- open binder + phone + page turning with impossible fingers
+- moving box floating while lock/door is operated
+- `KNIFE HAND` switching physical side without a visible transfer
 
-Use body/shoulder/forearm support, visible setting-down, pocketing, sequential checking, or hand transfer as physically required.
+Chapter 1: the hand used for the Strip 016 knife draw remains the same physical hand through Strip 023 release; the wrist caught/released in Strips 023–024 belongs to that same arm.
 
 ## Prop Provenance Failure — BLOCKING
 
 A recurring/story-critical object must have a continuous source and route.
 Reject if:
-- empty packet appears in later strip without earlier establishment
+- empty packet appears without earlier establishment
 - packet suddenly moves floor→table
-- clean chopsticks appear from nowhere
+- clean chopsticks appear from nowhere/new invented furniture
 - phone disappears at seam or reappears elsewhere
 - lid/towels change location without handling
-- pen vanishes when character turns
+- pen vanishes when attention shifts to TV
 - key/knife/notebook jumps locations
+- phone appears in hand after a time cut without an established source point when the strip requires its handling
 
-Legal time/location cuts may change ordinary temporary clutter only when story does not require persistent state.
+## Prop Topology / Distinct Evidence Failure — BLOCKING
 
-## Prop Topology Failure — BLOCKING
-
-Reverse shots cannot swap physical story-world sides/order of conserved local arrangements.
+Reverse shots cannot swap physical story-world sides/order of conserved arrangements.
 Reject if:
 - candle changes physical side of pot
 - folded cloth moves to other pot handle
-- used chopsticks move to another rest point without action
-- packet/wrapper/table positions swap
-- pushed chair shifts to another side
-- knife impact point moves
-- storage-pot lid/towel/speaker arrangement changes while supposedly untouched
+- used/clean chopsticks swap rest points
+- packet/wrapper table positions swap
+- pushed chair shifts side/angle without action
+- storage-pot lid/towel/speaker arrangement changes while untouched
+- separate knife and outer-packet floor spots overlap/merge/move without action
 
-Screen-left/right may reverse; story-world topology may not.
+Chapter 1 after Strip 023:
+- practical knife = one distinct `CLANG` floor spot
+- empty spicy-seafood outer packet = separate nudged floor spot
+These remain separate until their later pickups.
 
-## Wall-Socket / Fixed-Outlet Failure — BLOCKING
+## Wall-Socket / Derived-Outlet Failure — BLOCKING
 
 When unplugged:
 - plug BODY removed from WALL socket
@@ -116,20 +128,29 @@ When unplugged:
 - socket empty
 - no cable pulling/appliance-side disconnect
 
-Outlet itself is environment landmark. Reject if later strip changes:
-- physical wall
-- height
-- faceplate/socket orientation
-- furniture/appliance relationship
-- cord-route family
-without canonical supersession/visible renovation (none in Chapter 1).
+If canonical WebP visibly establishes outlet, use it exactly.
+If exact faceplate is not visible, derive only the smallest canon-compatible temporary Chapter 1 outlet detail inside existing room geometry. It never becomes permanent canon.
 
-For Chapter 1, Strip006 TV outlet/state persists through Strip007 and final 031–032. Strip031 must visibly prove active TV remains wall-unplugged.
+Reject if a later strip:
+- moves outlet to another wall/height/orientation
+- distorts/moves canonical wall/furniture to expose outlet
+- treats generated outlet placement as authority over canonical WebPs
+- silently re-plugs appliance
+
+For Chapter 1, Strip 031 must visually prove active TV remains wall-unplugged while respecting canonical room geometry.
+
+## Lighting-Containment Failure — BLOCKING
+
+Supernatural accents remain contained to their scripted source.
+Reject if:
+- tiny fridge pixels light the room after candle-out
+- Strip 022 blue candle core becomes a blue room wash, large aura, bloom, rim light, spotlight, or second functional light source
+- blackout readability is achieved with invented powered/cinematic light
 
 ## Micro-Continuity Failure — BLOCKING
 
 Camera cut cannot erase/reset story state. Reject adjacent slices when object/body/food/hand state changes without visible/legal cause.
-Examples: noodle vanishes, chopsticks/pot disappear, seated→standing jump, chair resets, knife floor spot moves, cabinet opens early, wrist switches, tools return ambiguously.
+Examples: noodle vanishes, chopsticks/pot disappear, seated→standing jump, chair resets, knife/packet spots move, cabinet opens early, wrist switches, tools return ambiguously.
 
 ## Narration / Technical-Label Failure — BLOCKING
 
@@ -152,10 +173,10 @@ If rendered strip images do not exist, actual pixel-level style, identity fideli
 
 ## Completion Language
 
-Use `PRODUCTION COMPLETE` only after all mandatory rendered/stitch/final audit gates pass.
+Use `PRODUCTION COMPLETE` only after all mandatory rendered/stitch/final-audit gates pass.
 
 Accurate intermediate statuses include:
-- `THIRD FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST STRIP GENERATION`
+- `FOURTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST STRIP GENERATION`
 - `VISUAL QA FAILED — REPAIR / REGENERATE BEFORE NEXT STRIP`
 - `VISUAL QA IN PROGRESS — NOT PRODUCTION COMPLETE`
 - `BLOCKED — REQUIRED CANONICAL VISUAL AUTHORITY MISSING`
