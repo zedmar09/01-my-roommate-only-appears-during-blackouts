@@ -2,7 +2,7 @@
 
 This folder contains **32 technical image-generation prompts** for one continuous Manhwa Chapter 1. Historical P001–P018 labels are story-mapping shorthand only.
 
-Current status: **PREPRODUCTION REFERENCE GATE IN MIGRATION / AUDIT — approved Chapter 1 character, environment, and object WebP authorities are present; every strip prompt must use their exact current filenames before sequential rendering begins.**
+Current status: **PREPRODUCTION REFERENCE GATE PASS — all 32 strip prompts have been migrated to exact approved character/environment/object WebP paths and are ready for sequential Strip 001 production. Rendered strip production is not yet complete.**
 
 Generate strictly in order: `001 → 002 → 003 → ... → 032`.
 
@@ -20,14 +20,14 @@ A strip may make these stricter but never looser.
 
 ## Every Strip Prompt Is Self-Contained For Visual Attachments — Absolute
 
-Every `strip-###-...md` must explicitly list inside the file itself:
+Every `strip-###-...md` explicitly lists inside the file itself:
 1. current strip prompt
 2. required visible-character canonical WebP(s)
 3. every required reusable environment WebP
 4. every required reusable object WebP
 5. immediately previous APPROVED rendered strip for 002–032
 
-Do not rely on the manifest alone when working in the production chat. The manifest is the audit map; the current strip file must repeat the exact visual attachments needed for that generation.
+Do not rely on the manifest alone when working in the production chat. The manifest is the audit map; the current strip file repeats the exact visual attachments needed for that generation.
 
 Use exact repository paths and exact filenames. Do not write only `Nari canonical`, `Unit 2407 floor plan`, or an obsolete `.png` path when the actual attachment is a `.webp` file.
 
