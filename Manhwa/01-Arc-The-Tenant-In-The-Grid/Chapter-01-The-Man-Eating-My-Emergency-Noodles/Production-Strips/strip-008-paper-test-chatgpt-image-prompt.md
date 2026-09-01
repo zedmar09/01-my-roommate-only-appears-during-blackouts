@@ -16,10 +16,11 @@ ATTACH — REQUIRED
 - this Strip 008 prompt
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached WebPs are binding. Preserve exact Nari identity, kitchen/cabinet geometry, speaker body/cord/plug, stockpot/cabinet relation, sofa location, and apartment axis.
+Attached canonical WebPs are permanent authority. APPROVED Strip 007 controls temporary key/speaker/TV/fridge state only; correct permanent drift to canon rather than propagating it.
+Preserve exact Nari identity, kitchen/cabinet geometry, speaker body/cord/plug, stockpot/cabinet relation, sofa location, and apartment axis.
 Never render V36–V40, P5, Strip 008, beat/panel/scene labels, or any production metadata anywhere, especially top-left.
 
 ==================================================
@@ -32,13 +33,15 @@ START:
 - binder = kitchen counter
 - smart speaker = canonical kitchen counter, still UNPLUGGED FROM ITS WALL SOCKET; speaker-side cord remains attached; loose wall plug remains on cord
 - lower speaker-storage cabinet = closed
-- storage stockpot + lid + exactly TWO dish towels are in canonical cabinet zone
+- storage stockpot + SAME lid + exactly TWO dish towels are in canonical cabinet zone
 - guarded fruit knife not yet hidden under sofa
 - note/pen not yet established
 
 ALLOWED CHANGES:
 - Nari walks entry → kitchen
-- reaches same speaker, opens same cabinet, places same unplugged speaker with its attached cord/loose plug into same storage stockpot under exactly two towels, replaces lid, closes cabinet
+- reaches same speaker, opens same cabinet, removes/positions same storage stockpot as needed without relocating the cabinet itself
+- creates the EXACT speaker-storage stack below
+- replaces SAME lid on same stockpot, then closes cabinet
 - creates one paper note + one pen setup
 - guards and hides one fruit knife under one sofa cushion
 - legal time cut to 1:17 A.M.; hallway lamp flickers once; pen moves on same paper
@@ -46,38 +49,56 @@ ALLOWED CHANGES:
 END:
 - key = entry tray
 - binder = kitchen counter
-- speaker = still unplugged, inside same storage stockpot under exactly two towels; cabinet CLOSED; its cord/plug remain part of same object and do not vanish
+- speaker = still unplugged inside same storage stockpot in the EXACT two-towel/cord stack below; SAME lid fully seated on pot; cabinet CLOSED
 - guarded fruit knife = under same sofa cushion
 - note + same pen = established kitchen/toaster area
 
 ==================================================
-SPEAKER / STOCKPOT MICRO-CONTINUITY — ABSOLUTE
+EXACT SPEAKER / STOCKPOT / TOWEL / CORD STACK — ABSOLUTE
 ==================================================
 
-Do not teleport speaker into cabinet. Show Nari physically reaching counter speaker first, then opening correct lower cabinet, then moving same speaker into same storage stockpot.
+This internal storage topology is now frozen for every later reveal of the same pot:
 
-The unplugged state from Strip 007 persists during storage:
-- speaker-side cord remains attached
-- loose wall-end plug remains connected to the cord
-- the plug/cord may be coiled/laid naturally inside the pot only if physically plausible
-- do not show speaker plugged in inside cabinet
-- do not delete the cord because it is inconvenient
+BOTTOM → TOP:
+1. SAME storage stockpot body
+2. TOWEL 1 = one dish towel laid as a bottom liner inside the pot
+3. SAME canonical speaker body resting on that liner
+4. SAME speaker-side cord remains attached to speaker
+5. SAME cord is neatly coiled beside/around the speaker without knotting or detaching
+6. SAME loose wall-end plug remains attached to that cord and rests visibly/physically inside the pot with the speaker; it is not plugged into anything
+7. TOWEL 2 = second dish towel laid over the speaker/cord/plug as a top cover
+8. SAME stockpot lid seated normally on top
 
-Storage setup is exact:
-- ONE storage stockpot
-- SAME lid
-- EXACTLY TWO dish towels
-- ONE speaker
-No duplicate pot, extra towels, second speaker, or fusion with later noodle cooking pot.
+Exactly TWO towels total. No third towel, no missing towel.
+Do not place the plug through the lid, outside the cabinet, or into another socket.
+Do not crush the speaker/cord unrealistically to make the lid fit; use a stockpot scale consistent with the approved cabinet/detail reference and speaker object scale.
 
-Cabinet action must be physically ordered: approach → open door on canonical hinge → place speaker/towels/lid → close same door.
+This exact stack is the authority that Strip 028 must reveal in reverse when the lid/towel cover is opened.
+
+==================================================
+SPEAKER / STOCKPOT ACTION-PROOF — ABSOLUTE
+==================================================
+
+Do not teleport speaker into cabinet.
+V36 must visibly prove:
+1. Nari walks entry → kitchen
+2. hand reaches SAME unplugged speaker on counter
+3. speaker leaves counter; old speaker position becomes empty
+4. Nari opens SAME lower cabinet by real handle/hinge action
+5. SAME stockpot/towels/lid are physically handled
+6. exact bottom-liner → speaker/cord/plug → top-towel → lid stack is completed
+7. SAME cabinet door closes after pot is closed
+
+If one wide shot cannot prove the storage mechanism, use immediate detail slices. Do not rely on `CLUNK` alone.
 
 ==================================================
 NOTE / PEN / FRUIT-KNIFE MICRO-CONTINUITY — ABSOLUTE
 ==================================================
 
-V37: one physical paper + one pen. Paper orientation/surface and pen identity become locked for Strip 009. Do not duplicate paper or pen between camera slices.
+V37: one physical paper + one pen. Paper orientation/surface and pen identity become locked for Strip 009. Nari's writing hand physically contacts the same pen/paper while she writes the question. Do not duplicate paper or pen between camera slices.
+
 V38: guard is visibly fitted to ONE small fruit knife before the knife is hidden. Same guarded knife moves hand → sofa → beneath ONE cushion. The later blackout knife does not exist yet.
+
 V39→V40: same paper and same pen remain in exact location; only pen moves. No invisible hand/body is allowed.
 
 ==================================================
@@ -102,14 +123,8 @@ At Strip 008 start:
 - canonical smart speaker is still UNPLUGGED on canonical kitchen counter
 - lower speaker-storage cabinet is closed
 
-V36 must show real movement:
-1. Nari turns from entry and physically walks back to kitchen.
-2. Reaches SAME unplugged speaker.
-3. Opens SAME lower cabinet near refrigerator.
-4. Uses SAME household storage stockpot, lid, and exactly two dish towels.
-5. Places SAME unplugged screenless speaker with its same cord/loose plug into stockpot under towels.
-6. Sets lid and closes cabinet.
-SFX at storage action:
+V36 must complete the exact action-proof and storage stack above.
+SFX at final storage/lid/cabinet-settle action:
 `CLUNK`
 
 Do not merge storage stockpot with later noodle cooking pot.
@@ -119,7 +134,7 @@ TWO-KNIFE IDENTITY LOCK — ABSOLUTE
 ==================================================
 
 The guarded fruit knife introduced here is NOT the later practical blackout knife.
-V38 uses a small household fruit knife with fitted guard. Nari secures the guard and hides that guarded fruit knife beneath the established sofa cushion.
+V38 uses a small household fruit knife with fitted guard. Nari secures the guard and physically moves to sofa, lifts/opens the chosen cushion enough to place the SAME guarded fruit knife beneath it, then lets the SAME cushion return to resting position.
 SFX:
 `SNICK`
 The practical sheathed blackout knife does not exist in Unit 2407 yet; she buys it in Strip 011.
@@ -143,7 +158,7 @@ No digital font.
 SMALL BLACK GUTTER.
 
 V38 — GUARDED FRUIT KNIFE
-Show guard being fitted, then Nari physically moves to sofa and slides guarded fruit knife beneath ONE sofa cushion.
+Show guard being fitted, then Nari physically moves to sofa and slides SAME guarded fruit knife beneath ONE sofa cushion through a visible cushion-lift/placement action.
 SFX:
 `SNICK`
 No second fruit knife.
@@ -172,7 +187,7 @@ END STATE
 
 - brass key = entry tray
 - binder = kitchen counter
-- speaker = hidden unplugged inside storage stockpot / lower cabinet CLOSED
+- speaker = hidden unplugged in exact two-towel/cord/plug stockpot stack; lid seated; lower cabinet CLOSED
 - guarded fruit knife = beneath sofa cushion
 - note + pen = same kitchen/toaster area
 
@@ -180,18 +195,23 @@ NO DEAD BOTTOM — ABSOLUTE
 End on pen/paper/night atmosphere with compact black story gutter only. No giant blank tail.
 
 SEAM OUT — G / TIME CUT
-Strip 009 begins next morning with SAME paper/pen design.
+Strip 009 begins next morning with SAME paper/pen design and the same hidden-speaker stack still sealed in the closed cabinet.
 
 AUTOMATIC REJECT IF
 - any V/P/strip/beat/panel/scene production label appears
 - attached references are redesigned/mirrored
-- speaker teleports to cabinet
+- permanent drift from previous strip is propagated over canon
+- speaker teleports to cabinet or old counter position remains occupied after pickup
 - speaker is plugged in or its cord/plug disappears while stored
-- cabinet/stockpot/lid/two-towel arrangement changes
+- exact bottom towel → speaker/cord/plug → top towel → lid topology changes
+- towel count is not exactly two
+- plug exits pot/lid or becomes connected to power
+- cabinet/stockpot/lid arrangement changes
 - storage pot merges with noodle pot
 - fruit knife is confused with practical blackout knife
+- cushion/knife placement occurs without physical lift/insert mechanism
 - note/pen duplicate or reset location/orientation
-- visible hand/body writes the reply
+- visible hand/body writes the supernatural reply
 - `1:17 A.M.` is styled like a production label instead of reader-facing time narration
 - black separators missing/oversized
 - giant dead bottom appears
