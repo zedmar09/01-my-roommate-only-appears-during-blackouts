@@ -41,7 +41,23 @@ Between slice X and X+1, preserve every state not visibly changed:
 
 Occlusion is not disappearance. A close-up does not delete background evidence. A reverse angle does not authorize a prop/room reset.
 
-If an object changes state between slices, the reader must be able to infer a real physical action that caused the change. For important changes, show the action explicitly.
+If an object changes state between slices, the reader must be able to infer a real physical action that caused the change. For continuity-critical changes, show the action explicitly.
+
+## Mandatory Mechanism Visibility — Absolute
+
+A vertical layout may not hide the decisive physical mechanism merely to create a prettier reaction shot.
+
+When a state change is continuity-critical, the action slice must show the contact point/source clearly enough to prove the event. Examples:
+- wall plug and wall socket during unplugging
+- fingers/key and old/new surface during key transfer
+- blade/sheath mouth during sheathing
+- fingers/falling knife/impact point during drop
+- seated body/chair during rise or push-back
+- hand/cabinet handle and hinge during opening
+- character reach/breath and same candle during extinguishing
+- fingers/bag opening and tablet physically inside during private viewing
+
+The mechanism may be split into two immediately adjacent detail slices if necessary, but it may not be skipped, hidden behind a black gutter, or replaced by an SFX/reaction/later result.
 
 ## Character ↔ Environment Interaction — Absolute
 
@@ -55,7 +71,7 @@ Each vertical slice must remain physically believable:
 - object/character scale consistent with references
 - reverse angle derivable from floor plan, not mirrored
 
-For unplugging actions, the wall-mounted socket/outlet must stay where environment/object canon establishes it. `Unplugged` does not mean a cable disconnected from appliance body.
+For unplugging actions, the wall-mounted socket/outlet must stay where environment/object canon establishes it. `Unplugged` does not mean a cable disconnected from appliance body. Fingers must act on the plug body; do not depict yanking the cable itself.
 
 ## Black Read-Slice Grammar — Absolute
 
@@ -88,6 +104,7 @@ A technical strip boundary is not automatically a story slice. If an A/E seam in
 Narration visual treatment may vary by scenario as defined in `lettering-sfx-guide.md`, but placement must follow vertical composition:
 - do not force narration into the same top-left box in every slice
 - do not use top-left position in a way that resembles a V/scene label
+- do not repeatedly use a small top-left tag treatment for time/location captions across the chapter
 - place narration where it supports reading order and does not cover continuity-critical evidence
 - time/location captions, ordinary observation, investigation, ominous realization, and suspense may use different functional treatments within one coherent typography family
 - never invent narration to fill empty vertical space
@@ -123,4 +140,4 @@ Do not render:
 ## Text Safety
 
 Never split speech balloon, narration box, handwritten message, essential device message, or critical SFX across technical seam or diagonal divider.
-Never let text cover a wall plug/socket, hand action, food path, impact point, or other evidence needed to understand physical continuity.
+Never let text cover a wall plug/socket, hand action, key transfer, chair contact point, food path, impact point, or other evidence needed to understand physical continuity.
