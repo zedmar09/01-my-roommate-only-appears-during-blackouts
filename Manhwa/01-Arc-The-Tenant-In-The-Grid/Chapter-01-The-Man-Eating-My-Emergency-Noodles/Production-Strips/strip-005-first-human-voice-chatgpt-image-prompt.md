@@ -7,11 +7,11 @@ PRODUCTION SCOPE
 V21–V25. Historical P3 mapping only.
 
 ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-canonical.png`
-- `Manhwa/Object-References/smart-speaker-canonical-states.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
+- `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
 - APPROVED Strip 004
 - this Strip 005 prompt
 
@@ -112,10 +112,10 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Unit 2407 floor plan
-3. Unit 2407 living→kitchen wide
-4. Unit 2407 kitchen→living wide
-5. smart-speaker canonical states
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+3. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+4. `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
+5. `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
 6. APPROVED Strip 004
 7. this Strip 005 prompt
