@@ -19,10 +19,11 @@ ATTACH — REQUIRED
 Do NOT attach Hyun-woo.
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-All attached WebPs are binding. Preserve exact Nari identity, TV body/stand/bezel/cord, speaker body/cord, room axis, wall locations, outlet zones, furniture, and appliance placement. Do not redesign a cord or relocate a wall socket to simplify the unplug shot.
+Attached canonical WebPs are permanent authority. APPROVED Strip 005 controls temporary chopstick/Nari pose state only; correct any permanent Nari/room/object drift to attached canon instead of propagating it.
+Preserve exact Nari identity, TV body/stand/bezel/cord, speaker body/cord, room axis, wall locations, outlet zones, furniture, and appliance placement. Do not redesign a cord or relocate a wall socket to simplify the unplug shot.
 Never render V26–V30, P3/P4, Strip 006, beat/panel/scene labels, or any production metadata anywhere, especially top-left.
 
 ==================================================
@@ -31,7 +32,7 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START V26:
 - same powered kitchen state from Strip 005
-- same dropped chopsticks pair remains at exact kitchen-floor spot
+- same dropped clean-dry chopsticks pair remains at exact kitchen-floor spot
 - canonical smart speaker remains on canonical kitchen counter, still connected to wall power before Nari acts
 - Nari is near kitchen/open-plan area after hearing the unknown voice
 
@@ -51,7 +52,7 @@ START AFTER `TWO NIGHTS LATER` CUT:
 ALLOWED TV CHANGES:
 - TV activates while still plugged
 - Nari physically walks open-plan → TV/outlet zone
-- Nari crouches/reaches to the wall-mounted socket, grips the TV's wall plug, pulls that plug OUT OF THE WALL SOCKET once
+- Nari crouches/reaches to the wall-mounted socket, grips the TV's wall plug BODY, pulls that plug OUT OF THE WALL SOCKET once
 - TV-side cord remains attached to TV body
 - loose wall-end plug remains connected to the same cord and visibly separated from the now-empty wall socket
 - TV remains impossibly ON afterward
@@ -66,17 +67,39 @@ END V30:
 - speaker remains unplugged on kitchen counter
 
 ==================================================
+FIXED LOCAL WALL-OUTLET LANDMARKS — ABSOLUTE
+==================================================
+
+The speaker outlet and TV outlet are LOCAL ENVIRONMENT LANDMARKS, not movable accessories.
+
+For each outlet:
+- use the exact wall/location/height/orientation/faceplate relationship visible in the approved environment/object references when those references establish it
+- if the precise outlet faceplate/location is not clearly visible in the attached canonical images, the FIRST approved depiction in THIS Strip 006 becomes the frozen Chapter 1 local landmark
+- once approved here, later strips must reuse the SAME wall, SAME height, SAME orientation/faceplate layout, SAME nearby furniture/appliance relationship, and SAME appliance-to-outlet cord route family
+- reverse shots may change screen-left/screen-right appearance but must not move the outlet to a different story-world wall or height
+
+SPEAKER OUTLET:
+- belongs to the canonical kitchen-counter speaker zone
+- must not migrate to cabinet interior, refrigerator side, floor, or a different counter wall
+
+TV OUTLET:
+- belongs to the canonical TV/living wall zone
+- must not migrate to the TV stand, floor, furniture surface, another wall, or behind a different appliance
+
+Do not invent a new convenient socket in Strip 007, 026, 030, 031, or 032. The outlet established/confirmed here persists.
+
+==================================================
 WALL-SOCKET UNPLUGGING — NON-NEGOTIABLE REAL-WORLD MECHANICS
 ==================================================
 
 **UNPLUGGING MEANS REMOVING THE ELECTRICAL PLUG FROM A WALL-MOUNTED SOCKET/OUTLET. IT DOES NOT MEAN PULLING A DETACHABLE CABLE OUT OF THE APPLIANCE BODY.**
 
 For BOTH speaker V26 and TV V29:
-1. establish the wall-mounted electrical outlet at its real canonical location
+1. establish the fixed wall-mounted electrical outlet at its canonical/frozen local landmark
 2. show the same appliance power cord running from appliance body toward the wall outlet
 3. appliance-side cord connection REMAINS attached and unchanged
 4. Nari's hand reaches the plug AT THE WALL
-5. fingers grip the plug body, not a random mid-cable section
+5. fingers grip the plug BODY, not a random mid-cable section
 6. plug physically leaves the wall socket
 7. `YANK` occurs at wall plug/socket action
 8. after removal, loose plug remains attached to same cord
@@ -87,12 +110,27 @@ NEVER draw:
 - a cable end pulled from the back/side of TV
 - a cable end pulled from the speaker body
 - an empty appliance power port used as proof of unplugging
+- Nari pulling the flexible cable instead of gripping the plug body
 - the wall plug magically disappearing
 - the cable switching sides of the appliance
-- the outlet moving to a cabinet, TV stand, or floor
+- the outlet moving to a cabinet, TV stand, floor, or different wall
 - TV silently plugged back in during V30 or Strip 007
 
-V30 proof composition should make the impossible fact visually undeniable: TV image ON + appliance-side cord attached + same cord ending in a loose plug + empty WALL SOCKET visible in the same composition or immediately adjacent causally continuous detail.
+V30 proof composition must make the impossible fact visually undeniable: TV image ON + appliance-side cord attached + same cord ending in a loose plug + empty WALL SOCKET visible in the same composition or immediately adjacent causally continuous detail.
+
+==================================================
+MANDATORY UNPLUG ACTION-PROOF — ABSOLUTE
+==================================================
+
+For both V26 and V29, do not crop the decisive wall interaction away.
+The reader must see enough of:
+- Nari's fingers/hand
+- plug BODY
+- fixed wall socket
+- plug leaving socket
+- empty socket after removal
+
+An SFX alone is not proof. If one composition cannot show the hand/plug/socket relationship cleanly, use an immediately adjacent detail slice.
 
 ==================================================
 MICRO-CONTINUITY / BODY INTERACTION — ABSOLUTE
@@ -114,7 +152,7 @@ NARRATION DESIGN BY SITUATION — ABSOLUTE
 `TWO NIGHTS LATER` = compact time-transition treatment.
 `TEN MINUTES EARLIER, NARI HAD READ HER PATCH NOTES OUT LOUD.` = concise retrospective/evidence-context caption, visually different from the time caption and from ordinary comedic narration.
 The V29–V30 proof sequence should use no added narration; let the physical wall-socket evidence dominate.
-Never force one repeated narration-box design or turn narration into fake device UI.
+Never force one repeated narration-box design or repetitive top-left tag, and never turn narration into fake device UI.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
@@ -128,11 +166,11 @@ V26 — SAME KITCHEN / SPEAKER UNPLUG
 ==================================================
 
 Begin from Nari frozen after `YOU COULD SAY PLEASE.`
-The SAME chopsticks dropped in Strip 005 remain on their established kitchen-floor spot during V26. Nari does not pick them up before unplugging the speaker; they may be cleaned up only after the explicit time cut.
+The SAME clean dry chopsticks dropped in Strip 005 remain on their established kitchen-floor spot during V26. Nari does not pick them up before unplugging the speaker; they may be cleaned up only after the explicit time cut.
 NARI:
 `WHO SAID THAT?`
 No response.
-Nari physically reaches the SAME canonical speaker power plug AT ITS WALL-MOUNTED SOCKET and unplugs it ONCE FROM THE WALL.
+Nari physically reaches the SAME canonical speaker power plug AT ITS fixed WALL-MOUNTED SOCKET and unplugs it ONCE FROM THE WALL by gripping the plug body.
 SFX at wall plug/socket:
 `YANK`
 Show the disconnected wall-end plug clearly. The speaker-side cord remains attached to the speaker body.
@@ -165,7 +203,7 @@ This is clean stable cyan-white helpful styling, not hostile corruption.
 SMALL BLACK GUTTER.
 
 V29 — PHYSICAL TV WALL-SOCKET UNPLUG ROUTE
-From the exact open-plan position established in V28, show Nari physically crossing the canonical living-room route to the TV/wall-outlet zone. She then crouches, reaches the SAME TV plug inserted in the WALL-MOUNTED SOCKET, grips the plug, and pulls the plug out of the WALL SOCKET once.
+From the exact open-plan position established in V28, show Nari physically crossing the canonical living-room route to the TV/fixed-wall-outlet zone. She then crouches, reaches the SAME TV plug inserted in the SAME WALL-MOUNTED SOCKET, grips the plug BODY, and pulls the plug out of the WALL SOCKET once.
 SFX at wall plug/socket:
 `YANK`
 Show loose plug clearly separated from the now-empty wall outlet. SAME power cord remains attached to the SAME TV body. No second plug/cable. No sink/rinsing/cleanup insert is permitted between V28 and this walk.
@@ -173,7 +211,7 @@ Show loose plug clearly separated from the now-empty wall outlet. SAME power cor
 SMALL BLACK GUTTER.
 
 V30 — UNPLUGGED-FROM-WALL PROOF
-Large proof composition: SAME TV remains ON while its SAME appliance-side cord is still attached to the TV and its SAME loose wall-end plug is visibly disconnected from the SAME empty wall socket.
+Large proof composition: SAME TV remains ON while its SAME appliance-side cord is still attached to the TV and its SAME loose wall-end plug is visibly disconnected from the SAME empty fixed wall socket.
 Nari reacts from the believable nearby crouched/standing position created by V29; no teleport across room between slices.
 No text.
 
@@ -190,17 +228,19 @@ NO DEAD BOTTOM — ABSOLUTE
 Use V30 TV + loose wall-end plug + empty wall socket + Nari + canonical living/dining axis through the lower edge. No giant blank tail.
 
 SEAM OUT — ARTWORK CONTINUATION A
-Strip 007 begins in the SAME active-TV scene. Preserve TV body, appliance-side cord attachment, loose wall-end plug position, empty wall socket, Nari scale/location, room axis, and powered-night lighting. Do not insert a black technical seam between 006 and 007.
+Strip 007 begins in the SAME active-TV scene. Preserve TV body, appliance-side cord attachment, loose wall-end plug position, exact fixed wall socket location/height/orientation, Nari scale/location, room axis, and powered-night lighting. Do not insert a black technical seam between 006 and 007.
 
 AUTOMATIC REJECT IF
 - any V/P/strip/beat/panel/scene production label appears
 - attached references are redesigned or mirrored
+- permanent drift from previous strip is propagated over canon
 - chopsticks vanish before the V26 time cut
 - speaker is hidden before Strip 008
 - speaker is re-plugged after V26
 - speaker cable is pulled out of speaker body instead of wall socket
 - TV cable is pulled out of TV body instead of wall socket
-- wall outlet/socket is missing, relocated, or replaced by an appliance power port
+- flexible cable is pulled instead of gripping plug body
+- wall outlet/socket is missing, relocated, changes height/orientation/faceplate relation, or is replaced by an appliance power port
 - loose plug disappears after unplugging
 - TV plug/cord duplicates or changes side/routing without cause
 - TV becomes silently re-plugged in V30/Strip 007
