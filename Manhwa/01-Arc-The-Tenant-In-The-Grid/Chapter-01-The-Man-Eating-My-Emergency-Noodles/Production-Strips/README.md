@@ -2,7 +2,7 @@
 
 This folder contains **32 technical image-generation prompts** for one continuous Manhwa Chapter 1. Historical P001–P018 labels are story-mapping shorthand only.
 
-Current status: **prompt package audited; visual production is not complete. Required environment/object canonical PNGs must be generated and approved before sequential strip generation begins.**
+Current status: **prompt package audited; visual production is not complete. The Chapter 1 character-card PNGs must be regenerated/approved under the current full character-card standard, and the required environment/object canonical PNGs must be generated/approved before sequential strip generation begins.**
 
 Generate strictly in order: `001 → 002 → 003 → ... → 032`.
 
@@ -29,7 +29,9 @@ Every `strip-###-...md` must explicitly list inside the file itself:
 
 Do not rely on the manifest alone when working in the production chat. The manifest is the audit map; the current strip file must repeat the exact visual attachments needed for that generation.
 
-If a listed canonical PNG has not yet been generated/approved, **STOP**. Do not substitute a random reference, an old rejected image, or the Markdown reference prompt itself. Generate/approve the canonical first.
+If a listed canonical PNG is missing, stale, provisional, or unapproved, **STOP**. Do not substitute a random reference, an old rejected/obsolete image, or the Markdown reference prompt itself. Regenerate/generate and approve the current canonical first.
+
+For Chapter 1 specifically, Nari, Hyun-woo, Mrs. Na, and Seungjae current PNGs predate the September 1, 2026 full character-card standard and are provisional under the repository rule until regenerated/approved from the upgraded prompts. Nari's prior short-hair PNG is explicitly obsolete and must be replaced by the current long dark-plum-haired design using the same canonical filename.
 
 Reuse Unit 2407, Building Shared Areas, smart-speaker, TV, refrigerator, electrical-operation-guide, and brass-key canonicals in later chapters whenever the same place/object returns. Never create chapter-numbered duplicates.
 
