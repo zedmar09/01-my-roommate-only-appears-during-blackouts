@@ -4,7 +4,7 @@ Strip IDs are production-only. The final reader sees one continuous chapter.
 
 ## Audit Status
 
-**Full real-scenario continuity re-audit completed. All 32 production prompts now explicitly contain their own character/environment/object/previous-strip attachment lists and the black read-slice divider rule.**
+**Full real-scenario continuity re-audit completed. All 32 production prompts explicitly contain their own character/environment/object/previous-strip attachment lists and the black read-slice divider rule. Reusable Unit 2407 manual + brass backup key canonicals are now part of the object system.**
 
 | Strip | Read beats | Historical map | Main purpose | Seam OUT |
 |---:|---|---|---|---|
@@ -47,7 +47,7 @@ For every strip: script > character canonical > environment canonical > object c
 
 ## Reuse Rule — Absolute
 
-References belong to physical locations/objects, not chapters. Reuse Unit 2407, Building Shared Areas, smart speaker, TV, and refrigerator canonicals in future chapters whenever they return.
+References belong to physical locations/objects, not chapters. Reuse Unit 2407, Building Shared Areas, smart speaker, TV, refrigerator, electrical-operation guide, and brass backup key canonicals in future chapters whenever they return.
 
 ## Reusable Reference Shorthand
 
@@ -70,21 +70,23 @@ Objects:
 - `O-SPK` = `smart-speaker-canonical-states.png`
 - `O-TV` = `tv-canonical-states.png`
 - `O-FRIDGE` = `refrigerator-canonical-states.png`
+- `O-MANUAL` = `electrical-operation-guide-canonical.png`
+- `O-KEY` = `brass-backup-key-canonical.png`
 
 ## Strip Attachment Audit Map
 
 | Strip | Environment | Object |
 |---:|---|---|
 | 001 | U-FP,U-ENTRY,U-L2K | O-SPK |
-| 002 | U-FP,U-ENTRY,U-L2K,U-HALL | — |
-| 003 | U-FP,U-L2K,U-HALL | — |
-| 004 | U-FP,U-ENTRY,U-L2K,U-HALL | — |
+| 002 | U-FP,U-ENTRY,U-L2K,U-HALL | O-MANUAL,O-KEY |
+| 003 | U-FP,U-L2K,U-HALL | O-MANUAL,O-KEY |
+| 004 | U-FP,U-ENTRY,U-L2K,U-HALL | O-MANUAL,O-KEY |
 | 005 | U-FP,U-L2K,U-K2L | O-SPK |
 | 006 | U-FP,U-L2K,U-K2L | O-SPK,O-TV |
-| 007 | U-FP,U-L2K,U-K2L,U-FRIDGE | O-TV,O-FRIDGE |
+| 007 | U-FP,U-L2K,U-K2L,U-FRIDGE | O-TV,O-FRIDGE,O-KEY |
 | 008 | U-FP,U-FRIDGE,U-L2K | O-SPK |
 | 009 | U-FP,U-FRIDGE,U-DESK | — |
-| 010 | U-FP,U-L2K,U-DESK,U-HALL | — |
+| 010 | U-FP,U-L2K,U-DESK,U-HALL | O-MANUAL |
 | 011 | U-FP,U-FRIDGE,U-DESK | — |
 | 012 | B-ENTRY,B-LOBBY | — |
 | 013 | B-LOBBY | — |
@@ -93,7 +95,7 @@ Objects:
 | 016 | U-FP,U-DESK,U-HALL,U-L2K,U-LIGHT | — |
 | 017–019 | U-FP,U-L2K,U-K2L,U-FRIDGE,U-LIGHT | — |
 | 020–025 | U-FP,U-L2K,U-K2L,U-FRIDGE,U-LIGHT | O-FRIDGE |
-| 026 | U-FP,U-DESK,U-ENTRY,U-LIGHT | — |
+| 026 | U-FP,U-DESK,U-ENTRY,U-LIGHT | O-KEY |
 | 027 | U-FP,U-ENTRY,U-FRIDGE,U-LIGHT | — |
 | 028 | U-FP,U-FRIDGE,U-DESK,U-K2L,U-LIGHT | O-SPK |
 | 029 | U-FP,U-FRIDGE,U-DESK,U-L2K,U-LIGHT | O-SPK |
