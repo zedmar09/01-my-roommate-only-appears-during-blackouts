@@ -22,23 +22,25 @@ Current Chapter 1:
 - 32 technical production strips
 - no reader-visible page/strip numbering
 - full story from move-in through `NEW TENANT CONFIRMED`
-- deterministic script/prompt audit passes, but visual production is not complete until current character-card canonicals, environment/object canonicals, rendered strips, and the stitched chapter are approved
-
-Chapter 2's old script package is preserved only as non-generatable source material under `Manhwa/Source-Archives/` until it is converted into the same vertical format.
+- deterministic script/prompt audit passes
+- approved reusable character/environment/object WebP authorities are present
+- sequential rendered Strip 001–032 artwork and the stitched chapter still must be generated and visually audited before `PRODUCTION COMPLETE`
 
 ## Canonical Production Stack
 
 For a Manhwa strip, authority is:
 1. current user instruction
 2. current strip/chapter script
-3. current approved character canonical PNG(s)
-4. approved environment canonical PNG(s)
-5. approved core-object canonical PNG(s)
+3. current approved character canonical WebP(s)
+4. approved environment canonical WebP(s)
+5. approved core-object canonical WebP(s)
 6. immediately previous approved strip for temporary pose/prop/power/seam continuity
 
 Environment canonicals prevent apartment/lobby geometry drift. Core-object canonicals prevent the smart speaker, TV, refrigerator, electrical-operation guide, and brass backup key from redesigning themselves between strips.
 
-Missing, stale, provisional, or unapproved required canonicals are blocking. Never substitute a Markdown reference prompt or a previous rejected/obsolete image for an approved canonical PNG.
+Production Markdown must reference the exact repository `.webp` filenames. Image-generation prompts may still generate PNG first as a local intermediate; after visual approval, manually convert to WebP and commit/store only the approved WebP authority. A deleted/intermediate PNG is not an active repository reference.
+
+Missing, stale, or unapproved required canonicals are blocking. Never substitute a Markdown reference prompt, a previous rejected image, or an obsolete filename for an approved canonical WebP.
 
 ## Visual Direction — Absolute
 
@@ -54,9 +56,16 @@ Helpful/Hyun-woo communication uses clean stable cyan-white accents. Hostile com
 
 ## Character Canonical Status
 
-`Character-References/` contains reusable canonical prompts and PNG filenames. Under the September 1, 2026 full character-card standard, PNGs created before that standard are legacy/provisional until regenerated and approved from the upgraded prompts.
+`Character-References/` contains reusable canonical prompts plus the approved repository WebP character cards.
 
-For Chapter 1, Nari, Hyun-woo, Mrs. Na, and Seungjae current PNGs predate the full-card standard and must be regenerated/approved before sequential strip production. Nari's prior short-hair PNG is explicitly obsolete; the current design uses long dark-plum hair and must replace the canonical PNG at the same filename.
+Current approved repository authorities include:
+- `Character-References/nari-canonical-flat2d.webp`
+- `Character-References/hyunwoo-canonical-flat2d.webp`
+- `Character-References/mrs-na-canonical-flat2d.webp`
+- `Character-References/seungjae-canonical-flat2d.webp`
+- `Character-References/hyejin-canonical-flat2d.webp`
+
+Nari's retired short-hair design is obsolete. Her current authority uses long dark-plum hair at approximately mid-back length, loose by default.
 
 ## Creator-Only Blackout Continuity
 
@@ -77,13 +86,12 @@ Full long-range spoilers remain in `series-plan.md`.
 
 - `Manhwa/` — sole active vertical-manhwa production pipeline
 - `Manhwa/01-Arc-The-Tenant-In-The-Grid/` — active Arc 1 production
-- `Manhwa/Environment-References/` — reusable canonical environment prompts/bibles and approved PNG packs when generated
-- `Manhwa/Object-References/` — reusable canonical recurring-object prompts/bibles and approved PNG packs when generated
-- `Manhwa/Source-Archives/` — non-generatable legacy story/script source waiting for conversion
-- `Character-References/` — reusable character-card prompts and canonical PNG filenames; current Chapter 1 PNGs require regeneration/approval under the full-card standard
+- `Manhwa/Environment-References/` — reusable canonical environment prompts/bibles and approved WebP authorities
+- `Manhwa/Object-References/` — reusable canonical recurring-object prompts/bibles and approved WebP authorities
+- `Character-References/` — reusable character-card prompts and approved WebP authorities
 - `characters.md` — character and supernatural continuity
 - `series-plan.md` — long-running roadmap and creator-only mystery spine
-- `Covers/` — story/promotional cover material
+- `Covers/` — story/promotional cover prompt material; generated PNG may be a local intermediate, while approved repository storage is WebP
 
 ## Arc 1 Release Plan
 
