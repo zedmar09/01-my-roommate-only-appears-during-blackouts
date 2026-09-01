@@ -69,3 +69,18 @@ End on visibly unplugged TV displaying `NEW TENANT CONFIRMED`; apartment lights 
 FINAL APPROVAL RULE
 Do not declare Chapter 1 production-complete from prompts/reference availability alone. Final approval requires all 32 rendered strips, sequential visual QA, seam/stitch QA, and a fresh clean-room visual audit proving strict flat 2D human-drawn compliance with zero unresolved mandatory defects.
 ```
+
+## Deep-Hardening Binding Note — Absolute
+
+The current Strip 001–032 prompts have been rewritten under the full `manhwa-2d-production-auditor` hardening pass. Their stricter per-strip rules are binding and override any looser generic wording above.
+
+In particular, production must obey all of the following:
+- attached approved WebPs are binding identity / geometry / object authorities, never loose inspiration
+- every strip's `START / ALLOWED CHANGE / END` state ledger is mandatory
+- adjacent vertical slices preserve hands, held objects, food/noodles, chopsticks, props, chair state, power state, and other micro-continuity unless a visible action changes them
+- `unplugged` means the electrical plug is removed from the **wall-mounted socket/outlet** while the appliance-side cord stays attached; the loose plug and empty wall socket remain physically consistent until an explicit re-plug action
+- narration treatment must follow the current scenario/event function rather than reuse one identical box design everywhere
+- `V01`, `V-01`, P numbers, strip/beat/panel/scene/shot labels, and all other production metadata are forbidden in reader-facing art, especially at the top-left of a vertical slice
+- if a desired camera/action conflicts with an attached reference, recompose the camera/action; never modify canon to make generation easier
+
+Previously rejected or unhardened rendered attempts are not approved previous-strip continuity authorities. Retesting begins from Strip 001 under the current hardened prompt package.
