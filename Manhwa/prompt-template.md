@@ -31,6 +31,9 @@ If a listed canonical has not been generated and approved, STOP. Never substitut
 ATTACHED-REFERENCE OBEDIENCE — ABSOLUTE
 Attached approved WebPs are binding identity/geometry/object-design authority, not inspiration. Do not alter face, hair, build, permanent accessories, room axis, fixed architecture/furniture/appliances, object body, cord/plug design, material identity, or recurring prop construction to improve composition. If the shot cannot fit canon, recompose the shot; never redesign the canon.
 
+PREVIOUS-STRIP LIMIT — ABSOLUTE
+The previous approved strip controls temporary story state only. It does not override permanent canonical identity/geometry/object construction. If previous art contains permanent drift, correct the permanent detail to the attached canonical while preserving legitimate temporary state.
+
 REFERENCE PRIORITY
 Current user instruction > story/current strip > approved character identity > approved environment geometry > approved object identity/state vocabulary > previous strip temporary state.
 
@@ -53,11 +56,26 @@ List exact state that must persist into the next strip. A camera change does not
 MICRO-CONTINUITY — ABSOLUTE
 Every object/body state from vertical slice X persists into X+1 unless a visible action changes it. Occlusion is not disappearance.
 Track hands, held objects, food/noodle amount, bowl/pot/chopsticks, chair position, cords/plugs/sockets, key/manual/note/phone/tablet/bag, knife/sheath, candle, cabinet/stockpot/lid/towels, packet counts, pen/notebook, body position, eyeline, and distance.
+A reaction close-up, reverse angle, black gutter, diagonal split, or strip boundary never authorizes a hidden reset.
 
 REAL-SCENARIO CAUSALITY — ABSOLUTE
 For every state change use:
 START STATE → CAUSE → VISIBLE PHYSICAL ACTION → RESULT → PERSISTENT END STATE.
 Do not use camera cuts or SFX to hide missing movement, pickup, placement, step, reach, sitting/standing, opening/closing, plugging/unplugging, drop/fall, or handoff mechanics.
+
+MANDATORY ACTION-PROOF FRAMING — ABSOLUTE
+For every continuity-critical action, identify the exact physical contact point and require it to be visible in the action slice or immediately adjacent causally continuous detail slice.
+Examples:
+- hand + plug body + wall socket during unplug
+- hand + key + old/new surface during key transfer
+- blade + sheath mouth during sheathing
+- fingers + falling knife + impact location during drop
+- body + actual chair during sitting/standing/push-back
+- hand + cabinet handle/hinge during opening
+- character reach/breath + same candle during extinguishing
+- fingers + bag opening + tablet physically inside during private glance
+
+Never crop the decisive mechanism away and then jump to the result. If the mechanism cannot be shown clearly, change the camera angle.
 
 CHARACTER ↔ ENVIRONMENT REALITY — ABSOLUTE
 Verify feet/support, chair-body alignment, reachability, eyeline, door/cabinet hinge motion, walking route, collision clearance, object scale, and physically truthful reverse angles against the attached environment references. Never mirror a room to make a shot easier.
@@ -66,11 +84,13 @@ WALL-SOCKET RULE — WHEN APPLICABLE
 If this strip says an appliance is unplugged, explicitly state whether the wall-end plug is removed. Unless the script explicitly specifies an appliance-side detachable cable, `unplug` means:
 - wall-mounted outlet/socket is the target
 - appliance-side cord remains attached
+- fingers grip the plug BODY at the wall
 - hand removes plug from wall socket
 - loose plug remains on same cord
 - wall socket is visibly empty afterward
 - disconnected wall-end state persists until explicit re-plug action
-Reject appliance-side cable removal masquerading as unplugging.
+- the unplug action must visibly prove hand + plug + wall socket; do not crop the contact point
+Reject appliance-side cable removal or cable-pulling masquerading as unplugging.
 
 STRICT FLAT 2D HUMAN-DRAWN STYLE — ABSOLUTE
 STRICT FLAT 2D HUMAN-DRAWN KOREAN MANHWA/WEBTOON ILLUSTRATION.
@@ -80,9 +100,10 @@ Blackout/candle/rain/device effects remain controlled flat shapes and contained 
 Never copy style drift from the previous strip.
 
 NARRATION DESIGN BY SCENARIO — ABSOLUTE
-Keep narration wording exact, but design its caption treatment according to the beat's function and situation rather than using one identical box style throughout the chapter.
+Keep narration wording exact, but design its caption treatment and placement according to the beat's function and situation rather than using one identical box style or one default location throughout the chapter.
 Examples: neutral time/location = compact editorial; ordinary observation = unobtrusive; warning/procedure = firmer utilitarian; investigation/evidence = report-like; ominous realization = sparse higher-contrast; suspense/listening = minimal footprint.
 Narration must remain within one coherent publication typography family and must never imitate speech balloons, device UI, handwritten notes, or production labels. Never cover faces, hands, food continuity, plug/socket evidence, or key clues.
+Do not default every caption to the top-left. A legitimate story time/location caption may use an upper area when compositionally appropriate, but it must not look like a repetitive small technical tag.
 
 SEAM IN
 State G/A/E seam type and exact continuing anchors.
@@ -114,15 +135,18 @@ AUTOMATIC REJECT IF
 List strip-specific continuity failures plus:
 - wrong/missing/unapproved attachments
 - any attached-reference redesign
+- previous-strip permanent drift propagated over canonical authority
 - identity/environment/object drift
 - teleporting movement or object transfer
 - adjacent-slice object/food/hand state disappearing without cause
 - impossible reach/body support/room route
-- appliance-side cable removed when the story requires unplugging from a wall socket
+- continuity-critical contact point/mechanism cropped or hidden
+- appliance-side cable removed when story requires unplugging from wall socket
+- power cable pulled instead of plug body
 - unplugged appliance silently plugged back in
 - wrong text ownership
 - any V/P/strip/beat/panel/scene/technical label appears in art
-- narration forced into one generic repeated design regardless of scenario
+- narration forced into one generic repeated design or repetitive top-left tag placement
 - unclear/unsupported SFX
 - missing black slice separators
 - merged side-by-side shots without diagonal divider
