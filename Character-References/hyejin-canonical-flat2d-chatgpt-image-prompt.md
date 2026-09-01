@@ -1,58 +1,57 @@
-# Koo Hyejin Canonical Flat-2D Character Reference Prompt
+# Koo Hyejin Canonical Flat-2D Manhwa Character Card Prompt
 
-Generate this reference once before any final Chapter 2 page that visually shows Hyejin. After QA approval, save the approved reference as `hyejin-canonical-flat2d.png`; that PNG becomes the permanent visual identity source for Hyejin in this story.
+Generate this reference as the reusable identity authority for Koo Hyejin across the entire Manhwa.
 
 ```text
-Create ONE canonical character-reference sheet for KOO HYEJIN from "My Roommate Only Appears During Blackouts".
+Create exactly ONE detailed CHARACTER CARD / MODEL SHEET for KOO HYEJIN from "My Roommate Only Appears During Blackouts".
 
-PURPOSE
-This is not a story page, cover, banner, or scene. It is a production character-identity reference used to keep Hyejin visually identical across future comic pages.
+Follow `Character-References/character-card-standard.md`.
 
-STYLE HARD LOCK
-100% flat 2D human-drawn colored modern manga/manhwa. Clean visible ink, matte cel colors, solid color blocking, and at most one restrained hard-edged cel-shadow tone. Neutral reference-sheet exposure.
-
-ABSOLUTELY NO glossy rendering, cinematic lighting, bloom, rim light, lens flare, volumetric light, photorealism, semi-photorealism, 3D/CG, painterly rendering, airbrushing, reflective skin/hair/clothing, glass glare, strong gradients, depth-of-field blur, wet/shiny surfaces, or over-rendering.
+STYLE — ABSOLUTE
+100% flat 2D human-drawn full-color modern manhwa; clean ink, matte cel colors, solid blocking, one restrained hard-edged shadow tone. No glossy/cinematic/photoreal/3D/painterly/airbrushed treatment, glass glare, or over-rendering. Plain uniform light-neutral background. Prefer zero readable text.
 
 IDENTITY LOCK
-Hyejin is a Korean woman, age 31, and the QA lead at Nth Pixel Studio. She should read immediately as a capable adult coworker: blunt, observant, funny, practical, and very good at noticing reproducible patterns. She is comic relief through dry intelligence, never foolish or childish.
-
-Preserve these canonical identifiers:
-- 31-year-old Korean woman
-- blunt shoulder-length copper bob
-- rectangular glasses
+- Korean woman, age 31
+- QA lead at Nth Pixel Studio
+- capable adult coworker: blunt, observant, funny, practical, very good at noticing reproducible patterns
+- blunt shoulder-length copper/auburn bob, SAME length/shape from front/profile/back
+- rectangular dark glasses
 - expressive eyebrows
-- adult face and realistic early-30s proportions
-- oversized medium-wash denim jacket
-- several small generic enamel pins on the jacket; NO readable logos, brands, slogans, or copyrighted symbols
-- practical dark office-casual inner top and trousers
-- handheld-console-shaped phone case with generic controls only; NO brand/logo/text
-- alert QA-lead body language, usually leaning in to inspect something or reacting with dry skepticism
-- visually distinct from Nari: no dark-plum shag, no yellow scrunchie identifier, no matching face shape or hairstyle
+- distinctive adult Korean face, clearly different from Nari
+- slim natural early-30s build
 
-REFERENCE LAYOUT
-Use one clean portrait sheet with a plain neutral flat background. Show:
-1. front/three-quarter bust view as the main identity image
-2. small side-profile head view showing bob length and glasses shape
-3. small full-body standing view showing jacket proportions and adult silhouette
-4. small hand/phone detail showing the generic handheld-console-shaped phone case without readable branding
+PRIMARY OUTFIT — LOCK
+- oversized medium-wash matte denim jacket
+- several small generic enamel pins; NO brands/logos/slogans/copyrighted symbols
+- black/dark neutral inner top
+- dark slacks
+- black loafers
+- office/studio ID lanyard with no readable personal/company data in generated card
+- phone with generic handheld-console-shaped case and nonverbal controls only
 
-No story environment, dialogue, SFX, panel borders, dramatic pose, supernatural effect, text labels inside the artwork, or other characters.
+REQUIRED CARD CONTENT
+A. Full-body turnaround with loafers/feet visible: front, 3/4 left, left profile, back, 3/4 right.
+B. Face/hair/glasses angles: front, 3/4, profile, rear bob silhouette.
+C. Expressions: neutral alert, dry unimpressed, skeptical bug-analysis, mildly amused, teasing smile, surprised, concerned, focused/serious.
+D. Detail area: rectangular glasses, eyebrow/eye close-up, jacket/pin arrangement, ID-lanyard silhouette, handheld-console phone-case front/back/hand pose.
 
-FACIAL CONTINUITY
-Give Hyejin a stable, distinctive adult Korean face suitable for repeated use. Her expression can be mildly skeptical or amused, but do not exaggerate into chibi comedy. Keep the same glasses shape, eyebrow shape, haircut, face proportions, and age in every view.
+DISTINCTION FROM NARI
+Do not give Hyejin Nari's long dark-plum hair, yellow scrunchie, headphones, beauty mark, face shape, or wardrobe. Hyejin's copper bob + rectangular glasses + denim jacket are immediate identifiers.
 
-COLOR LOCK
-- copper hair
-- natural Korean skin tone
-- medium-wash matte denim jacket
-- dark neutral inner top/trousers
-- small varied matte enamel-pin colors without readable symbols
-- neutral dark rectangular glasses
-- restrained office palette
+AUTOMATIC REJECT IF
+- hair becomes long/black/dark-plum or changes bob length between views
+- glasses become round or disappear
+- pins contain readable logos/text
+- phone case contains copyrighted branding/readable text
+- teen/schoolgirl/chibi proportions
+- exaggerated glamour/curves
+- full-body feet cropped
+- glossy/cinematic/photoreal/3D rendering
 
-APPROVAL STANDARD
-This reference becomes canonical only after QA approval. Once approved, future pages must match the same face, copper bob, glasses, age, body proportions, jacket identity, and overall silhouette. Page artwork may change pose or expression but not identity.
-
-AVOID
-Avoid teenage proportions, school uniform, glamorous influencer styling, chaebol-office fashion, Nari-like dark-plum hair, long hair, round glasses, exaggerated curves, chibi face, glossy hair, reflective glasses, branded pins, readable logos, copyrighted game-console branding, cinematic shadows, photorealism, 3D, painterly rendering, extra characters, and any text in the image.
+FINAL GOAL
+A reusable multi-angle flat-2D Manhwa character card preserving Hyejin's copper bob, rectangular glasses, expressive eyebrows, denim-jacket silhouette, dry emotional range, and signature phone/lanyard details.
 ```
+
+Expected approved production files after generation:
+`Character-References/hyejin-canonical-flat2d.png`
+`Character-References/hyejin-canonical-flat2d.webp`

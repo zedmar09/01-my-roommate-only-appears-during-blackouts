@@ -1,6 +1,6 @@
 # Characters
 
-This file is the continuity lock for prose chapters and any future manga/manhwa adaptation notes. Update it whenever a recurring character appears, a blackout rule changes, or a visual design becomes canon.
+This file is the continuity lock for prose chapters and all Manhwa production notes. Update it whenever a recurring character appears, a blackout rule changes, or a visual design becomes canon.
 
 ## Visual Differentiation Standard
 
@@ -17,19 +17,27 @@ Visual world: present-day Seoul, a smart high-rise apartment, game studio workst
 
 ## Modern Manhwa Adaptation Standard
 
-Hard lock: 100% flat 2D human-drawn colored manga/manhwa artwork with matte cel colors and controlled hard-edged shading.
+Hard lock: 100% flat 2D human-drawn colored Manhwa artwork with matte cel colors and controlled hard-edged shading.
 
-For comic adaptation, use colored flat 2D human-drawn modern romance manga/manhwa styling with crisp urban backgrounds, expressive adult faces, clean gutters, matte cel colors, simple controlled shading, readable lettering, and consistent character proportions. Apply the same flat matte 2D treatment to characters, props, appliances, walls, floors, windows, screens, counters, furniture, city views, and backgrounds. Candlelight should read as warm flat amber, device text as limited cool flat cyan-white, blackout rooms as controlled dark color blocks, and electric tattoos as faint pale blue-white accents over matte ink.
+Use crisp urban backgrounds, expressive adult faces, clean black slice/gutter grammar, matte cel colors, simple controlled shading, readable lettering, and consistent character proportions. Apply the same flat matte 2D treatment to characters, props, appliances, walls, floors, windows, screens, counters, furniture, city views, and backgrounds. Candlelight should read as warm flat amber, helpful device text as limited cool flat cyan-white, blackout rooms as controlled dark color blocks, and electric tattoos as faint pale blue-white accents over matte ink.
 
-Across all chapters and arcs, powered scenes use one medium-bright neutral flat-color baseline. Blackout scenes remain readable through deep-charcoal and muted blue-gray solid shapes, never crushed black. Brightness changes only when a scripted power or light source changes. Unit 2407 keeps the same open-plan room geometry and the fixed refrigerator, television, and smart-speaker designs from `Comics/style-guide.md`; a scripted display change alters only screen content, never the appliance body or position.
+Across all chapters and arcs, powered scenes use one medium-bright neutral flat-color baseline. Blackout scenes remain readable through deep-charcoal and muted blue-gray solid shapes, never crushed black. Brightness changes only when a scripted power or light source changes. Unit 2407 uses the approved reusable environment canonicals under `Manhwa/Environment-References/Unit-2407/`; recurring appliances/objects use `Manhwa/Object-References/`. A scripted display change alters screen content/effect state, never the physical appliance identity or position without scripted movement.
 
 Avoid glossy effects, cinematic lighting, bloom, lens flare, photorealism, 3D rendering, painterly concept-art rendering, airbrushed skin, heavy gradient lighting, mirror-like reflections, glass glare, wet-looking floors, glossy counters, glossy refrigerator doors, plastic shine, and over-rendered shiny surfaces.
 
 Chinese urban-fantasy manhua influence may appear in Hyun-woo's circuit-sigil tattoo geometry, the entity's talisman-like current marks, and the elegant flow of electrical patterns across walls. Avoid historical costume fantasy unless it appears as a game screen Nari is designing.
 
-Image prompt files in `Comics/` should follow these notes as continuity locks.
+Character prompts under `Character-References/` and active strip prompts under `Manhwa/` must follow these continuity locks.
 
-Device communication must distinguish Hyun-woo from the hostile system even when both use the same hardware. Hyun-woo's messages use clean, stable cool cyan-white text with minimal static and no crawling black pixels. The hostile system uses stark white monospaced status text, broken or doubled glyph edges, crawling black pixels, and distorted screen silhouettes. Early chapters may show the difference without naming or explaining the entity.
+Device communication must distinguish Hyun-woo from the hostile system even when both use the same hardware. Hyun-woo's messages use clean, stable cool cyan-white text with minimal static and no crawling black pixels. The hostile system uses stark white status text, broken or doubled glyph edges, crawling black pixels, and distorted screen edges. Early chapters may show the difference without naming or explaining the entity.
+
+## Canonical Character Card Standard
+
+Every recurring human character with a canonical prompt must follow `Character-References/character-card-standard.md`.
+
+The canonical reference must show full-body turnaround views, face/hair angles, multiple emotions, and signature detail/prop references. Character cards are reusable across chapters and are never chapter-specific.
+
+Existing older single-view PNGs are provisional until regenerated against the new card prompts. Nari's old short-hair PNG is obsolete because her canonical design has changed to long dark-plum hair.
 
 ## Core Cast
 
@@ -39,11 +47,11 @@ Device communication must distinguish Hyun-woo from the hostile system even when
 - Age: 30.
 - Occupation: Senior combat systems designer at a mobile game studio.
 - Personality: Brilliant, sleep-deprived, practical, sarcastic when afraid, allergic to vague instructions, quietly lonely after years of building digital worlds instead of a stable life. Nari is not fearless; she simply does not have spare energy to panic for long.
-- Visual Design: Korean woman in her early 30s with a short asymmetrical dark-plum shag cut, a small yellow scrunchie usually around her wrist, sharp tired eyes, faint under-eye shadows, and a tiny beauty mark beside the left corner of her mouth. Medium height, slim but sturdy from carrying equipment bags. Wears oversized graphic hoodies, cropped utility jackets, loose black trousers, canvas sneakers, and noise-cancelling headphones around her neck. Keeps a sticker-covered tablet and a pixel-ghost keychain clipped to her bag.
-- Strongest Identifiers: Dark-plum asymmetrical hair, yellow scrunchie, headphones around neck, pixel-ghost keychain, stickered tablet, habit of narrating impossible events like bug reports.
+- Visual Design: Korean woman in her early 30s with **long dark-plum hair worn loose, reaching approximately mid-back**, soft natural layers and feminine face-framing fringe. She has an attractive, more feminine adult heroine look with expressive almond-shaped eyes, faint natural under-eye tiredness, and exactly one tiny beauty mark beside the left corner of her mouth. Medium height, slim healthy practical build. Wears oversized graphic hoodies, cropped utility jackets, loose black trousers, canvas sneakers, and noise-cancelling headphones around her neck. A small yellow scrunchie is usually around one wrist. Keeps a sticker-covered tablet and one practical shoulder bag when needed.
+- Strongest Identifiers: Long dark-plum hair, feminine adult face, single beauty mark beside left mouth corner, yellow scrunchie, headphones around neck, stickered tablet, habit of narrating impossible events like bug reports.
 - Story Function: Becomes the only person who can remember Hyun-woo and the first person stubborn enough to investigate why the apartment's electrical system behaves like a prison.
 - Romance Function: Nari gives Hyun-woo ordinary domestic connection: shared food, jokes, annoyance, trust, and the proof that someone can remember him without official records.
-- Consistency Notes: Do not make Nari look like a schoolgirl, palace heroine, soft thriller girlfriend, or glamorous chaebol woman. She should feel like an adult creative worker who has survived too many deadlines and still cares deeply.
+- Consistency Notes: Do not make Nari short-haired again. Do not make her a schoolgirl, chibi heroine, palace heroine, glamorous chaebol woman, or hyper-sexualized idol. She should read as a feminine, attractive but grounded 30-year-old creative worker who has survived too many deadlines and still cares deeply.
 
 ### Joo Hyun-woo
 
@@ -87,8 +95,8 @@ Device communication must distinguish Hyun-woo from the hostile system even when
 - Age: 31.
 - Occupation: Quality assurance lead at Nari's game studio.
 - Personality: Blunt, funny, loyal, suspicious of cheap rent, excellent at reproducing bugs, terrible at leaving work on time.
-- Visual Design: Korean woman with a blunt shoulder-length copper bob, rectangular glasses, expressive eyebrows, an oversized denim jacket covered in enamel pins, and a phone case shaped like a handheld console.
-- Strongest Identifiers: Copper bob, enamel pins, handheld-console phone case, bug-report voice memos.
+- Visual Design: Korean woman with a blunt shoulder-length copper bob, rectangular glasses, expressive eyebrows, an oversized medium-wash denim jacket with small generic enamel pins, black inner top, dark slacks, black loafers, an ID lanyard, and a phone case shaped like a generic handheld console.
+- Strongest Identifiers: Copper bob, rectangular glasses, enamel pins, handheld-console phone case, bug-report voice memos.
 - Story Function: Gives Nari a grounded ally outside the apartment and helps translate supernatural events into testable patterns.
 - Consistency Notes: Hyejin should be comic relief without becoming foolish. She is the person most likely to say, "Your ghost has reproducible steps."
 
@@ -98,7 +106,7 @@ Device communication must distinguish Hyun-woo from the hostile system even when
 - Age: 33.
 - Occupation: Associate producer.
 - Personality: Charming, ambitious, not as smooth as he thinks, genuinely impressed by Nari's talent, but too used to turning every conversation into networking.
-- Visual Design: Korean man with neatly styled brown hair, fashionable office-casual outfits, a smartwatch, wireless earbuds, and a pristine foldable phone.
+- Visual Design: Korean man with neatly styled medium-brown hair, fashionable office-casual outfits, one smartwatch, one pair wireless earbuds, one pristine foldable phone, and an ordinary umbrella in rainy commute scenes.
 - Strongest Identifiers: Smartwatch, foldable phone, practiced smile, battery anxiety.
 - Story Function: Provides romantic comedy pressure and exposes Hyun-woo's jealousy through drained devices, harmless elevator call-button glitches that never trap anyone, and hostile autocorrect.
 - Consistency Notes: Do not make Seungjae a major villain unless the plot later earns it. He is mostly a social irritant and a useful contrast to Hyun-woo.

@@ -1,53 +1,58 @@
-# Im Seungjae Canonical Flat-2D Character Reference Prompt
+# Im Seungjae Canonical Flat-2D Manhwa Character Card Prompt
 
-Generate this reference once before any final Chapter 1 page that visually shows Seungjae. After QA approval, the approved flat-2D reference becomes the permanent visual identity source for Seungjae.
+Generate this reference as the reusable identity authority for Im Seungjae across the entire Manhwa.
 
 ```text
-Create ONE canonical character-reference sheet for IM SEUNGJAE from "My Roommate Only Appears During Blackouts".
+Create exactly ONE detailed CHARACTER CARD / MODEL SHEET for IM SEUNGJAE from "My Roommate Only Appears During Blackouts".
 
-PURPOSE
-This is not a story page, cover, banner, or scene. It is a production character-identity reference that future comic pages will use to keep Seungjae visually identical.
+Follow `Character-References/character-card-standard.md`.
 
-STYLE HARD LOCK
-100% flat 2D human-drawn colored manga/manhwa. Clean visible ink, matte cel colors, solid color blocking, and at most one controlled hard-edged cel-shadow tone. Neutral reference-sheet exposure.
-
-ABSOLUTELY NO glossy rendering, cinematic lighting, bloom, rim light, lens flare, volumetric light, photorealism, semi-photorealism, 3D/CG, painterly rendering, airbrushing, reflective skin/hair/clothing, glass glare, strong gradients, depth-of-field blur, or over-rendering.
+STYLE — ABSOLUTE
+100% flat 2D human-drawn full-color manhwa; clean ink, matte cel colors, solid blocking, one restrained hard-edged shadow tone. No glossy/cinematic/photoreal/3D/painterly/airbrushed treatment. Plain uniform light-neutral background. Prefer zero readable text.
 
 IDENTITY LOCK
-Seungjae is a Korean man, age 33, an associate producer at Nari's game studio. He is charming, ambitious, socially polished, genuinely impressed by Nari, and slightly too practiced at turning conversation into networking. He is not a villain and must not look threatening.
-
-Preserve these canonical identifiers:
 - Korean man, age 33
-- neatly styled medium-brown hair
-- attractive but ordinary professional adult face, distinct from Hyun-woo
-- practiced friendly smile
-- fashionable modern office-casual clothing
-- smartwatch
-- wireless earbuds
-- pristine foldable phone
+- associate producer at Nari's game studio
+- attractive but ordinary professional adult face, clearly distinct from Hyun-woo
+- neatly styled medium-brown hair, same part/silhouette from all angles
+- practiced friendly smile; socially polished, ambitious, slightly too confident but not sinister
 - lean-to-average adult build, clearly less broad/intimidating than Hyun-woo
-- polished social posture, mildly self-confident rather than sinister
+- modern fashionable but believable office-casual clothing
 
-REFERENCE LAYOUT
-Use one clean portrait sheet with a plain neutral flat background. Show:
-1. front/three-quarter bust view as the main image
-2. small side-profile head view
-3. small full-body standing view showing office-casual silhouette, smartwatch, earbuds, and foldable phone
+PRIMARY OUTFIT
+Lock one repeatable office-casual outfit: clean neutral shirt/knit or overshirt, tailored casual trousers, simple matte shoes. No luxury-chaebol suit identity.
 
-No story environment, dialogue, SFX, panel borders, dramatic pose, supernatural effect, text labels inside the artwork, or other characters.
+DEVICE / PROP COUNT — ABSOLUTE
+Seungjae's recurring personal items are:
+- exactly ONE foldable phone
+- exactly ONE smartwatch worn on wrist
+- exactly ONE pair wireless earbuds
+- exactly ONE ordinary umbrella for rainy commute scenes
+Do not duplicate these objects on the card.
 
-FACIAL CONTINUITY
-Create one distinctive stable adult face suitable for reuse across pages. He should be clearly recognizable but must not resemble Hyun-woo. Avoid generic idol-face sameness.
+REQUIRED CARD CONTENT
+A. Full-body turnaround with feet visible: front, 3/4 left, left profile, back, 3/4 right.
+B. Face/hair angles: front, 3/4, profile, rear hair silhouette.
+C. Expressions: neutral professional, practiced friendly smile, genuine warm smile, confused, surprised, mildly concerned, awkward/flustered, mildly frustrated about dead devices.
+D. Detail area: one phone folded/unfolded identity, smartwatch, earbuds, folded umbrella, hand-holding-phone pose. Keep them clearly the same recurring items.
 
-COLOR LOCK
-- medium-brown hair
-- natural Korean skin tone
-- modern neutral office-casual palette
-- restrained accessories
+PERSONALITY READ
+He is charming and slightly socially practiced, not a villain. Avoid smug antagonist energy.
 
-APPROVAL STANDARD
-This image becomes canonical only after QA approval. Once approved, future pages must match the same face, hair, age, proportions, office-casual identity, smartwatch, and overall silhouette.
+AUTOMATIC REJECT IF
+- teen/schoolboy proportions
+- villain/chaebol/CEO styling
+- face resembles Hyun-woo
+- devices duplicate
+- watch becomes second phone
+- hair changes shape/color between views
+- full-body feet cropped
+- glossy/cinematic/photoreal/3D rendering
 
-AVOID
-Avoid villain styling, smug antagonist face, exaggerated flirt pose, school uniform, teen proportions, corporate-CEO revenge styling, luxury-chaebol imagery, glossy hair, shiny suit, cinematic lighting, photorealism, 3D, painterly rendering, extra characters, and any text in the image.
+FINAL GOAL
+A reusable multi-angle flat-2D Manhwa character card that keeps Seungjae recognizable in office, lobby, rain, comedy, and reaction scenes.
 ```
+
+Expected approved production files after regeneration:
+`Character-References/seungjae-canonical-flat2d.png`
+`Character-References/seungjae-canonical-flat2d.webp`
