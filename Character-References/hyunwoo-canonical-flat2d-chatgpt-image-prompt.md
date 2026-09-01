@@ -62,6 +62,8 @@ FINAL GOAL
 A production-safe multi-angle flat-2D Manhwa card that locks Hyun-woo's masked face identity, long low-tied hair, broad build, tattoo map, outfit, and emotional eye language for any future chapter.
 ```
 
-Expected approved production files after regeneration:
+Generation output may remain PNG first:
 `Character-References/hyunwoo-canonical-flat2d.png`
+
+After visual approval, manually convert that accepted PNG and store/use this repository authority:
 `Character-References/hyunwoo-canonical-flat2d.webp`
