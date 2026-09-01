@@ -1,6 +1,6 @@
 # TV — Canonical Object + State Reference Prompt
 
-Generate one production reference sheet for the SAME Chapter 1 matte-black TV. No characters.
+Generate one production reference sheet for the SAME recurring matte-black TV in Unit 2407. No characters.
 
 BODY TURNAROUND:
 - front, three-quarter, side/back views
@@ -8,7 +8,7 @@ BODY TURNAROUND:
 - show one neutral plugged context and one clearly UNPLUGGED context with loose plug
 - matte nonreflective screen/body; no brands/logos
 
-STATE SEQUENCE — STATIC REFERENCE FRAMES THAT DEFINE ANIMATION/EFFECT LANGUAGE:
+STATE SEQUENCE — STATIC REFERENCE FRAMES THAT DEFINE EFFECT LANGUAGE:
 
 A. OFF / NEUTRAL
 Completely dark matte screen.
@@ -30,7 +30,8 @@ Show a tiny diagram/inset indicating `FZZT` belongs to the apartment-light flick
 IMPORTANT:
 - TV hostile manifestation = broad broadcast/signal takeover
 - do not use the refrigerator's narrow diagnostic-panel style
-- actual strip text always follows the strip script; these words are effect examples only
+- actual strip text always follows the current strip script; these words are effect examples only
+- reuse this exact TV reference in every later chapter where the same Unit 2407 TV returns
 - no reflections, face/silhouette, bloom, cinematic glow, or 3D rendering
 
 Save as `tv-canonical-states.png`.

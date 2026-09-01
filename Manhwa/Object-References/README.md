@@ -1,12 +1,17 @@
 # Manhwa Object References
 
-Recurring plot-critical objects receive canonical identity/state sheets just like characters and environments.
+Recurring plot-critical objects receive reusable canonical identity/state sheets just like characters and environments.
 
-An object canonical is required when an object's body, placement hardware, cord/display geometry, or supernatural state must remain stable across multiple strips.
+## Reuse Rule — Absolute
 
-Chapter 1 core objects:
-- smart speaker
-- TV
-- refrigerator
+Object references are named by the object itself, never by chapter number.
 
-See `chapter-object-reference-policy.md`.
+When the same speaker, TV, refrigerator, key object, weapon, device, or other recurring prop returns in a later chapter, reuse its approved canonical. Create a new object reference only when the story introduces a genuinely different object.
+
+Current reusable objects:
+- `smart-speaker-canonical-reference-prompt.md`
+- `tv-canonical-reference-prompt.md`
+- `refrigerator-canonical-reference-prompt.md`
+- `core-object-bible.md`
+
+See `object-reference-policy.md`.

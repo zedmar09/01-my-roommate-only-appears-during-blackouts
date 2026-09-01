@@ -17,17 +17,17 @@ No traditional pages, page numbers, circled panel numbers, reader-visible strip 
 CANONICAL CONTINUITY STACK
 1. current strip/chapter script
 2. character canonical(s)
-3. environment canonical(s)
-4. core-object canonical(s)
+3. reusable environment canonical(s)
+4. reusable object canonical(s)
 5. previous approved strip temporary state
 
 Environment canonicals control architecture/room relationships/fixed furniture/appliances/camera axes. Object canonicals control recurring body/design and state vocabulary. Previous strips must not propagate drift that contradicts an approved canonical.
 
-CHAPTER 1 ENVIRONMENTS
-Use approved references from `Manhwa/Environment-References/Chapter-01-Unit-2407/` and `Chapter-01-Building-Shared-Areas/`.
+REUSABLE ENVIRONMENTS
+Use approved references from `Manhwa/Environment-References/Unit-2407/` and `Manhwa/Environment-References/Building-Shared-Areas/`. Reuse them in later chapters whenever these same places return.
 
-CHAPTER 1 CORE OBJECTS
-Use approved speaker/TV/refrigerator state sheets from `Manhwa/Object-References/Chapter-01-Core-Objects/`.
+REUSABLE OBJECTS
+Use approved speaker/TV/refrigerator state sheets from `Manhwa/Object-References/`. Reuse the same object canonical in later chapters whenever that physical object returns.
 
 TV hostile state = broad full-screen broadcast/signal takeover.
 Refrigerator hostile state = narrow embedded diagnostic/identity-lock intrusion.

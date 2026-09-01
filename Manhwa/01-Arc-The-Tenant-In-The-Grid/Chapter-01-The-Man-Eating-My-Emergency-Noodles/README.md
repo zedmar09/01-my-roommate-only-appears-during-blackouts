@@ -11,16 +11,20 @@ This is the active production package for Chapter 1.
 - begins with Nari moving into Unit 2407
 - ends with the visibly unplugged TV displaying `NEW TENANT CONFIRMED` while Unit 2407 remains powered
 
-The old page-number mapping P001–P018 is retained only as historical story-mapping shorthand inside the Manhwa documents. There is no active `Comics/` production dependency.
+Historical P001–P018 mapping is retained only as story shorthand. There is no active page-grid production dependency.
 
-## Canonical Reference Packs
+## Reusable Canonical Reference Packs
 
 Environment:
-- `../../../Environment-References/Chapter-01-Unit-2407/`
-- `../../../Environment-References/Chapter-01-Building-Shared-Areas/`
+- `../../Environment-References/Unit-2407/`
+- `../../Environment-References/Building-Shared-Areas/`
 
-Core objects:
-- `../../../Object-References/Chapter-01-Core-Objects/`
+Objects:
+- `../../Object-References/smart-speaker-canonical-reference-prompt.md`
+- `../../Object-References/tv-canonical-reference-prompt.md`
+- `../../Object-References/refrigerator-canonical-reference-prompt.md`
+
+These references are reusable across later chapters whenever the same location/object returns. Do not create chapter-numbered duplicates.
 
 ## Production Authority
 
@@ -29,14 +33,14 @@ For this chapter:
 2. `chapter-01-strip-manifest.md`
 3. current `Production-Strips/strip-###-...md`
 4. character canonicals
-5. approved environment/object canonicals
+5. approved reusable environment/object canonicals
 6. previous approved strip for temporary state/seam continuity
 
 The Chapter 1 Manhwa files are self-contained authority for dialogue, narration, SFX, device text, prop state, event order, movement, power logic, and supernatural rules.
 
 ## Existing Approved Strip Rule
 
-Creating or improving canonical environment/object packs does not automatically invalidate prior approved artwork. If a prior strip conflicts materially with an approved canonical, flag it for deliberate correction rather than propagating the drift.
+Creating or improving reusable canonical environment/object packs does not automatically invalidate prior approved artwork. If a prior strip conflicts materially with an approved canonical, flag it for deliberate correction rather than propagating the drift.
 
 ## No-Dead-Space Rule
 

@@ -1,13 +1,17 @@
 # Manhwa Environment References
 
-Environment canonicals are **layout/continuity authorities**, not moodboards.
+Environment canonicals are reusable **location identities and layout/continuity authorities**, not chapter-specific moodboards.
 
-They exist to stop room-axis flips, changing hallway lengths, relocated furniture, duplicated doors, altered appliance zones, and impossible camera transitions.
+## Reuse Rule — Absolute
 
-Every new manhwa chapter must inventory its environments before production. Every new environment must receive an approved canonical reference entry before it is repeatedly used.
+Name environment packs by the actual place only, never by chapter number.
 
-See `chapter-environment-reference-policy.md`.
+When a later chapter returns to an existing location, reuse the already approved canonical pack. Do not create `Chapter-02-...`, `Chapter-03-...`, or duplicate versions of the same place unless the story physically changes that environment.
 
-Chapter 1 packs:
-- `Chapter-01-Unit-2407/`
-- `Chapter-01-Building-Shared-Areas/`
+Current reusable packs:
+- `Unit-2407/`
+- `Building-Shared-Areas/`
+
+Every genuinely new environment must receive its own location-named canonical pack before repeated production use.
+
+See `environment-reference-policy.md`.

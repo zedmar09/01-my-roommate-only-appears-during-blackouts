@@ -1,4 +1,6 @@
-# Chapter 1 Core Object Bible
+# Core Object Bible
+
+These object identities are reusable across every chapter in which the SAME physical object returns.
 
 ## Smart Speaker
 
@@ -20,7 +22,7 @@ Spoken dialogue remains AUDIO. Never print Hyun-woo's spoken words on the speake
 
 ## TV
 
-Same exact matte-black flat TV throughout:
+Same exact matte-black flat TV throughout Unit 2407:
 - fixed screen proportions/bezel/stand
 - stable power-cord/outlet relationship
 - visibly unplugged when story says unplugged
@@ -30,7 +32,7 @@ States:
 1. neutral OFF
 2. clean helpful/Hyun-woo text — stable cyan-white, minimal/no hostile corruption
 3. hostile activation — `KZZT`, full-screen signal takeover, broad horizontal sync tear/scanline disruption, broken/doubled stark-white text, black-pixel interference at screen edges
-4. final hostile message while Unit 2407 remains powered
+4. hostile message while Unit 2407 remains powered when scripted
 
 Representative style samples only:
 - `YOUR PATCH NOTES ARE TOO LONG.`
@@ -39,7 +41,7 @@ Representative style samples only:
 
 ## Refrigerator
 
-Same exact matte cool-gray refrigerator throughout:
+Same exact matte cool-gray Unit 2407 refrigerator throughout:
 - two upper doors
 - lower freezer drawer
 - recessed handles

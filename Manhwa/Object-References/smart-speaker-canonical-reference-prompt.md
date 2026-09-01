@@ -1,6 +1,6 @@
 # Smart Speaker — Canonical Object Reference Prompt
 
-Generate one production object-reference sheet for the SAME Chapter 1 smart speaker. No characters.
+Generate one production object-reference sheet for the SAME recurring smart speaker used across the series. No characters.
 
 Show consistent front/side/back/top views plus state variants.
 
@@ -20,6 +20,8 @@ E. stored in the canonical stockpot under two dish towels
 F. unplugged borrowed-current voice state — tiny contained indicator only, no room glow
 
 Do not display spoken dialogue as screen text because the speaker is screenless.
+
+This reference is reusable in every later chapter where this same physical speaker returns.
 
 Style: polished matte 2D manhwa prop sheet, no photoreal/3D/gloss.
 

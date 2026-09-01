@@ -1,6 +1,6 @@
 # Refrigerator — Canonical Object + State Reference Prompt
 
-Generate one production reference sheet for the SAME Chapter 1 refrigerator. No characters.
+Generate one production reference sheet for the SAME recurring refrigerator in Unit 2407. No characters.
 
 BODY TURNAROUND:
 - front, three-quarter, side views
@@ -12,7 +12,7 @@ BODY TURNAROUND:
 - no brand/logo
 - nonreflective materials
 
-STATE SEQUENCE — STATIC REFERENCE FRAMES THAT DEFINE ANIMATION/EFFECT LANGUAGE:
+STATE SEQUENCE — STATIC REFERENCE FRAMES THAT DEFINE EFFECT LANGUAGE:
 
 A. NEUTRAL / DEAD DISPLAY
 Narrow display fully dark.
@@ -32,7 +32,8 @@ Representative sample: `IDENTITY LOCKING`, with slightly stronger seam-crawl/emb
 IMPORTANT:
 - refrigerator hostile manifestation = embedded diagnostic/identity-lock intrusion
 - do not use the TV's broad full-screen scanline/broadcast takeover language
-- actual strip text always follows the strip script; samples are effect references only
+- actual strip text always follows the current strip script; samples are effect references only
+- reuse this exact refrigerator reference in every later chapter where the same Unit 2407 refrigerator returns
 - no reflection, face/silhouette, room glow, full-door screen, photoreal/3D/gloss
 
 Save as `refrigerator-canonical-states.png`.

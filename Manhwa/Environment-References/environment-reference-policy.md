@@ -1,13 +1,24 @@
-# Chapter Environment Reference Policy
+# Environment Reference Policy
 
 ## Absolute Rule
 
-Every manhwa chapter must begin with an environment inventory.
+Environment canonicals belong to LOCATIONS, not chapters.
 
-For every environment used in that chapter:
+For every environment used in any Manhwa chapter:
 - reuse an already approved canonical pack if the location already exists
-- create a new canonical pack before production if the location is new
+- create a new location-named canonical pack only when the story introduces a genuinely new environment
+- do not duplicate the same place under chapter-numbered folders
 - do not let individual strips independently redesign the same place
+
+## Naming Rule
+
+Use permanent location names such as:
+- `Unit-2407/`
+- `Building-Shared-Areas/`
+- `Nth-Pixel-Studio/`
+- `Rooftop/`
+
+Never prefix reusable environment references with `Chapter-01`, `Chapter-02`, etc.
 
 ## Minimum Reference Package
 
@@ -26,7 +37,7 @@ Recurring/important environments additionally require:
 
 Environment canonicals control architecture, doors/windows, room relationships, fixed furniture/appliances, paths, proportions, materials/colors, and physically valid camera axes.
 
-Character pose and temporary prop state come from the strip/previous approved image; they do not authorize changing the architecture.
+Character pose and temporary prop state come from the strip/previous approved image; they do not authorize changing architecture.
 
 If a previous strip conflicts with an approved environment canonical, reject/correct the drift rather than carrying it forward.
 
@@ -38,10 +49,10 @@ Use the chapter strip manifest as the attachment map.
 
 ## New Chapter Checklist
 
-Before Strip 001 of a new chapter:
+Before production of a new chapter:
 - list every environment
-- mark each as existing canonical / new canonical needed
-- generate and approve new reference packs
+- mark each as `reuse existing canonical` or `new canonical needed`
+- generate/approve only genuinely new location packs
 - record approved PNG filenames
-- add environment attachments to the chapter manifest
-- only then begin sequential strip generation
+- add environment attachments to that chapter manifest
+- then begin sequential strip generation
