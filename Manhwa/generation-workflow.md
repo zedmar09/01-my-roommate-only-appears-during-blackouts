@@ -37,6 +37,21 @@ Immediately previous APPROVED strip controls temporary story state only: pose, f
 
 It does not outrank permanent canon. If previous rendered strip contains permanent drift in face, hair, proportions, room geometry, wall-socket location, appliance body, furniture placement, or recurring object construction, correct that permanent drift to attached canonical while preserving legitimate temporary state.
 
+## Derived Micro-Detail Rule — Canon-Subordinate Only
+
+A story may require a small practical detail that is not clearly readable in the existing canonical WebPs, such as an exact wall outlet faceplate, an ordinary utensil-storage drawer/caddy, or a minor non-plot household fitting.
+
+When this happens:
+- first exhaust the attached floor plan, room wides/details, object reference, and approved angle atlas before deriving anything
+- derive ONLY the smallest necessary micro-detail inside already-canonical geometry
+- do not add/move a wall, cabinet, counter, appliance, furniture item, doorway, shelf, or other architecture to make room for it
+- place the detail where real-world function and existing geometry allow
+- the derived detail is **temporary chapter continuity**, not new permanent canon and never outranks the approved WebPs
+- once correctly established in an APPROVED strip, preserve that derived detail for later Chapter 1 continuity unless an approved canonical explicitly resolves/supersedes it
+- if later canonical evidence conflicts, canonical wins and the affected strip must be deliberately corrected; never silently propagate the derived detail
+
+Do not let a generated strip create new permanent architecture authority merely because a reference omitted a tiny functional detail.
+
 ## Real-Scenario Cause / Action / Consequence — Absolute
 
 Every meaningful state change must pass:
@@ -124,7 +139,7 @@ For every slice verify:
 Unless script explicitly says a detachable appliance-side cable is removed, **UNPLUG means removing electrical plug from WALL-MOUNTED SOCKET/OUTLET.**
 
 Required:
-- socket physically on wall at canonical/frozen local location
+- socket physically on wall at canonical or canon-subordinate derived Chapter 1 location
 - appliance-side cord remains attached
 - same cord leads to same wall plug
 - fingers grip plug BODY, never pull cable itself
@@ -135,22 +150,20 @@ Required:
 
 Reject cable pulled out of appliance, cable tug instead of plug body, moved socket, disappearing plug, cropped socket interaction, silent re-plug.
 
-## Fixed Local Wall-Outlet Landmark Rule — Absolute
+## Fixed Local Wall-Outlet Continuity — Canon-Subordinate
 
-Wall outlets are environment landmarks, not movable props.
+Wall outlets are environment details and must never behave like movable props.
 
-When approved environment/object references visibly establish outlet location, use it exactly.
+When approved environment/object references visibly establish an outlet location, use that exact canonical location.
 
-If a required outlet is not clearly visible in existing canonical reference, the **first APPROVED production depiction that correctly establishes it** becomes a frozen local environment landmark for that location/object:
-- same story-world wall
-- same height above floor/counter
-- same faceplate orientation/socket arrangement
-- same relation to furniture/appliance
-- same appliance-to-outlet cord-route family
+If a story-required outlet is not clearly visible in the approved WebPs:
+- derive the smallest physically plausible outlet placement from the already-canonical wall/counter/appliance geometry under the Derived Micro-Detail Rule
+- do NOT relocate/add architecture or claim the generated placement is new permanent canon
+- once an APPROVED Strip 006 establishes that canon-compatible Chapter 1 micro-detail, later Chapter 1 strips preserve the same story-world wall, height, faceplate/socket orientation, nearby furniture relationship, and cord-route family for continuity
+- this local continuity detail always remains subordinate to approved environment/object WebPs
+- if approved canonical evidence later resolves a different location, canonical wins and affected strips must be corrected deliberately
 
-Later reverse shots may change screen position but cannot move outlet to another physical wall/height or invent a more convenient socket.
-
-If a later canonical reference formally supersedes that local landmark, reconcile deliberately; never silently drift.
+Later reverse shots may change screen position but cannot move the same outlet to another physical wall/height or invent a more convenient socket.
 
 ## Narration Design By Scenario — Absolute
 
@@ -198,25 +211,26 @@ Never propagate style drift from previous strip.
 5. Attach relevant approved object WebPs.
 6. Strip 002 onward: attach immediately previous APPROVED rendered strip for temporary state/seam only.
 7. Missing/stale/wrong-path/unapproved canonical → STOP; no improvisation.
-8. Before generation check START STATE, ALLOWED CHANGES, END STATE, action-proof, prop topology, outlet landmark requirements.
+8. Before generation check START STATE, ALLOWED CHANGES, END STATE, action-proof, prop topology, derived-micro-detail/outlet requirements.
 9. Generate one tall technical strip with no production IDs.
 10. QA exact script/source ownership, identity, movement, object routes/counts, geometry, power/light, object states, lettering/SFX, seams.
 11. QA every adjacent slice for micro-continuity.
 12. QA prop topology/relative physical sides across reverse shots.
 13. QA every critical action for visible proof framing.
-14. QA unplugging against wall-socket + fixed-outlet rules.
-15. QA permanent canon separately from previous-strip temporary state.
-16. QA character-card consistency.
-17. QA strict flat 2D style in pixels.
-18. QA SFX source→action→sound→timing→placement→state consequence.
-19. QA narration treatment/placement; reject one-template/top-left tag repetition.
-20. QA black read-slice grammar/diagonal dividers.
-21. QA lower canvas dead-space.
-22. Reject/regenerate if any mandatory item fails.
-23. Re-audit corrected strip + adjacent seams.
-24. Only APPROVED Strip N becomes temporary continuity authority for N+1.
-25. After Strip032 passes, stitch, seam QA, uniformly resize.
-26. Run fresh clean-room chapter audit 001→032; never trust earlier PASS labels.
+14. QA unplugging against wall-socket + canon-subordinate local-outlet rules.
+15. QA any derived micro-detail remains minimal and subordinate to permanent canon.
+16. QA permanent canon separately from previous-strip temporary state.
+17. QA character-card consistency.
+18. QA strict flat 2D style in pixels.
+19. QA SFX source→action→sound→timing→placement→state consequence.
+20. QA narration treatment/placement; reject one-template/top-left tag repetition.
+21. QA black read-slice grammar/diagonal dividers.
+22. QA lower canvas dead-space.
+23. Reject/regenerate if any mandatory item fails.
+24. Re-audit corrected strip + adjacent seams.
+25. Only APPROVED Strip N becomes temporary continuity authority for N+1.
+26. After Strip032 passes, stitch, seam QA, uniformly resize.
+27. Run fresh clean-room chapter audit 001→032; never trust earlier PASS labels.
 
 ## Reference Priority
 
@@ -227,7 +241,7 @@ Never propagate style drift from previous strip.
 5. approved object identity/state
 6. previous approved strip temporary state
 
-Previous strip cannot override permanent canon.
+Previous strip or derived micro-detail cannot override permanent canon.
 
 ## Reuse Rule
 
@@ -248,7 +262,7 @@ Reject huge unused tails. Never invent filler text/SFX. Prefer canonical environ
 Reject for:
 - stale/wrong/missing canonical attachment
 - attached-reference redesign/environment mirroring
-- previous-strip permanent drift propagated over canon
+- previous-strip or derived-detail drift propagated over canon
 - identity/environment/object drift
 - wrong/missing text or invented reader-facing text
 - any V/P/strip/beat/panel/scene/production label
@@ -260,7 +274,8 @@ Reject for:
 - continuity-critical mechanism hidden/cropped
 - appliance cable removed instead of wall plug
 - cable pulled instead of plug body
-- outlet landmark moved/reinvented
+- outlet moved/reinvented against canonical geometry
+- generated outlet treated as new permanent canon
 - silent re-plug
 - duplicated objects/bags/devices
 - wrong power state
