@@ -19,10 +19,11 @@ ATTACH — REQUIRED
 Do NOT attach Hyun-woo.
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached WebPs + APPROVED Strip 031 are binding. Preserve exact Nari identity/chair/pose, TV body/stand/cord, wall socket location, loose plug state, notebook/pen/table evidence, pushed chair, open cabinet/speaker, and powered room geometry.
+Attached canonical WebPs are permanent authority. APPROVED Strip 031 controls temporary hostile-TV/Nari/notebook/seam state only; correct any permanent character/TV/room drift to canon rather than propagating it.
+Preserve exact Nari identity/chair/pose, TV body/stand/cord, wall socket location, loose plug state, notebook/pen/table evidence, pushed chair, open cabinet/speaker, and powered room geometry.
 Never render V146, P18, Strip 032, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
@@ -31,6 +32,7 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - SAME TV activation a fraction after Strip 031
+- Strip 031 has already visually proven the wall-disconnected state during activation
 - TV appliance-side cord remains attached to TV body
 - SAME cord ends in SAME loose wall-end plug
 - SAME wall-mounted socket remains EMPTY
@@ -46,6 +48,7 @@ ALLOWED CHANGES:
 - apartment ordinary lights flicker ONCE `FZZT` but do NOT lose supplied power
 - Nari reacts from SAME chair; no walk toward TV
 - no second `KZZT` if activation was already established Strip 031
+- no change to the proven loose-plug/empty-socket state
 - no other text/event/state change
 
 END:
@@ -58,10 +61,10 @@ END:
 - chapter ends immediately
 
 ==================================================
-FINAL WALL-SOCKET PROOF — ABSOLUTE
+FINAL WALL-SOCKET CONTINUITY — ABSOLUTE
 ==================================================
 
-The TV's impossible state must remain physically unambiguous:
+Strip 032 does NOT reinterpret the unplug state. It inherits the explicit Strip 031 proof:
 - wall outlet/socket is on WALL at canonical location
 - same TV cord remains attached to TV body
 - same cord ends in loose electrical plug
@@ -70,7 +73,8 @@ The TV's impossible state must remain physically unambiguous:
 - no hidden second cable/power source appears
 
 Do NOT detach cable from TV body. Do NOT show an empty TV power port as “unplugged.” Do NOT silently re-plug it for the final reveal.
-If framing permits, keep loose plug + empty wall socket readable in the final composition or an immediately adjacent continuity slice without sacrificing the final message.
+
+If the final composition includes the plug/socket zone, it must reproduce the exact Strip 031 loose-plug + empty-wall-socket state. If that zone is off-frame to prioritize the final message, the previously proven state still exists and may not change.
 
 ==================================================
 NARI / NOTEBOOK / PROP MICRO-CONTINUITY — ABSOLUTE
@@ -111,6 +115,8 @@ SEAM IN — ABSOLUTE
 
 No black technical bar at 031→032. Continue same TV body/position, attached cord, loose plug, empty wall socket, hostile field, Nari chair/pose, notebook/pen, props, and powered state.
 
+The first Strip 032 slice must look like a fraction-of-a-second continuation, not a redesigned TV setup.
+
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
@@ -122,7 +128,7 @@ FULL-CANVAS FINAL
 ==================================================
 
 Use canvas meaningfully:
-- upper same-TV hostile continuation with wall-unplug truth preserved
+- upper same-TV hostile continuation with established wall-unplug truth preserved
 - central exact `NEW TENANT CONFIRMED`
 - one `FZZT` light flicker while power stays on
 - lower Nari reaction + same notebook/table + powered Unit 2407 geography
@@ -131,8 +137,10 @@ Only minimal natural final margin.
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
+- permanent drift from previous strip is propagated over canon
 - TV cable is detached from TV body rather than wall socket
 - TV is physically plugged/re-plugged, wall socket occupied, socket relocated, loose plug missing, or cord redesigns
+- Strip 032 contradicts the wall-unplug proof established in Strip 031
 - hidden second power cable/source appears
 - device text becomes speech/narration/floating text or helpful cyan
 - `NEW TENANT CONFIRMED` wording changes or appeared before this strip
