@@ -22,6 +22,57 @@ If any listed canonical WebP is missing, stale, wrong-path, or unapproved, do no
 Use `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-reference.webp` additionally only when the chosen camera angle is not sufficiently covered by the primary views above.
 
 ==================================================
+REFERENCE OBEDIENCE / NO PRODUCTION LABELS — ABSOLUTE
+==================================================
+
+Every attached WebP is BINDING visual authority. Do not redesign Nari, the apartment, the speaker, furniture, appliance placement, materials, proportions, or room axis to make a composition easier. If a planned shot conflicts with the references, recompose the camera while preserving canon.
+
+The written markers `V01`–`V07`, `P1`, `Strip 001`, and all headings in this Markdown are production-only. NEVER render `V01`, `V-01`, `V1`, `P1`, `STRIP`, `BEAT`, `PANEL`, `SCENE`, or any other technical label anywhere in the art, especially not in the top-left corner of a vertical slice. Any such label = automatic rejection.
+
+==================================================
+START STATE / ALLOWED CHANGES / END STATE — ABSOLUTE
+==================================================
+
+START STATE:
+- Nari is outside Unit 2407 in the corridor carrying exactly ONE current moving box in both/secure arms according to natural weight.
+- Unit 2407 canonical geometry is unchanged from the attached floor plan/reference views.
+- smart speaker is already in its canonical kitchen-counter position, plugged into ordinary power, screenless and inactive before V06.
+- exactly TWO burgundy dining chairs exist.
+
+ALLOWED CHANGES ONLY:
+- Nari unlocks/enters through the real front door, crosses the threshold, walks into the open-plan area, and sets the SAME carried box down once.
+- ordinary smart-home elements may activate as scripted.
+- speaker activates at V06 only.
+
+END STATE:
+- Nari is physically inside Unit 2407 after setting down the same box.
+- speaker remains on canonical kitchen counter, still plugged in.
+- apartment geometry/furniture/appliances remain exactly canonical for Strip 002.
+
+Anything not listed above stays unchanged.
+
+==================================================
+MICRO-CONTINUITY / CHARACTER-ENVIRONMENT CONTACT — ABSOLUTE
+==================================================
+
+Track Nari's SAME carried box through corridor → threshold → interior → floor placement. It may be temporarily occluded by framing, but it cannot vanish, duplicate, change size, or already appear on the floor before she puts it down.
+
+Show believable feet/support and door clearance during threshold crossing. Nari cannot clip through the door, wall, entry shelf, furniture, or box. Her eyeline to the speaker in V07 must point toward the speaker's actual canonical kitchen-counter location.
+
+Other moving boxes may exist only as separate boxes already on a cart/inside; never duplicate the exact box in Nari's arms in the same moment.
+
+==================================================
+NARRATION DESIGN BY SITUATION — ABSOLUTE
+==================================================
+
+Do NOT use one identical narration-box design for every narration line in this strip.
+- V01/V02 premise narration: clean compact contemporary editorial caption, dry observational tone.
+- V04 apartment-feature narration: lighter practical observational treatment that lets the room reveal dominate.
+- V05 smart-home montage narration: compact modern/technical rhythm without becoming fake device UI.
+
+Keep all narration within one coherent manhwa typography family, but vary shape/placement/weight according to the beat. Never make narration look like speech balloons, screen UI, handwritten notes, or production labels. Do not place captions over Nari's face/hands, door crossing, box placement, speaker, or key environment anchors.
+
+==================================================
 REAL-SCENARIO START / UNIT 2407 GEOGRAPHY — ABSOLUTE
 ==================================================
 
@@ -164,12 +215,16 @@ SEAM OUT — G
 Strip 002 begins later that evening. A time transition is allowed, but Unit 2407 geometry/object identity must remain canonical.
 
 AUTOMATIC REJECT IF
+- any `V-*`, P-number, strip/panel/scene/beat or production label appears in artwork
 - Unit 2407 axis is mirrored or furniture/appliances relocate
+- attached reference identity/geometry is redesigned
 - more than two dining chairs appear
 - speaker changes design or has a screen
 - `WELCOME HOME...` is printed on speaker body
 - Nari teleports across threshold
-- box duplicates in the same moment
+- box duplicates, vanishes, changes size, or reaches floor before the placement action
+- Nari/box clips through door/wall/furniture
+- narration uses one generic repeated box without regard to beat function
 - distinct slices touch with no small black divider
 - side-by-side separate shots lack the diagonal black separator
 - giant purposeless bottom space appears
