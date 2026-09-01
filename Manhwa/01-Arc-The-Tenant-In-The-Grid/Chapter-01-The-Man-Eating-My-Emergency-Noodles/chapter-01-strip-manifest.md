@@ -4,9 +4,9 @@ Strip IDs are production-only. The reader sees one continuous chapter.
 
 ## Current Audit Status
 
-**SECOND FULL HARDENING CLEAN-ROOM AUDIT — REPAIR PASS ACTIVE — NOT PRODUCTION COMPLETE.**
+**SECOND FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
 
-The complete `strip-001` through `strip-032` package has been re-audited a second time under the current `manhwa-2d-production-auditor` standard. This second pass does not accept the first hardening PASS as proof; it specifically searches for remaining production ambiguity that can still cause physically wrong image generation.
+The complete `strip-001` through `strip-032` package has been re-audited a second time under the current `manhwa-2d-production-auditor` standard. The first hardening PASS was not accepted as proof; the second pass specifically searched for remaining production ambiguity that could still cause physically wrong image generation.
 
 Second-pass hardening additionally enforces:
 - permanent canonical WebPs outrank previous-strip permanent drift
@@ -19,7 +19,7 @@ Second-pass hardening additionally enforces:
 - TV canonical attached to powered evidence continuity where its wall-unplug state is story-critical
 - mandatory same-moment active-TV + loose-plug/empty-wall-socket proof in Strip 031
 
-Previously generated strips remain **rejected as continuity authority**. Only a newly generated strip that passes current visual QA may become the `APPROVED Strip N` attachment for N+1.
+Previously generated strips remain **rejected as continuity authority** for the intended retest. Only a newly generated strip that passes current visual QA may become the `APPROVED Strip N` attachment for N+1.
 
 ## Strip Map
 
@@ -27,8 +27,8 @@ Previously generated strips remain **rejected as continuity authority**. Only a 
 |---:|---|---|---|---|
 | 001 | V01–V07 | P1 | move-in / smart-lock mechanism / speaker welcome | G |
 | 002 | V08–V11 | P2 | Mrs. Na arrival / binder-key setup | G |
-| 003 | V12–V15 | P2 | hallway-light / phone-tablet rule | A/G |
-| 004 | V16–V20 | P2–P3 | outage warning → one-week automation | G |
+| 003 | V12–V15 | P2 | hallway-light / spoken phone-tablet rule, no conceptual device inserts | A/G |
+| 004 | V16–V20 | P2–P3 | outage warning → visible key transfer → one-week automation | G |
 | 005 | V21–V25 | P3 | first natural male voice / chopsticks only, no invented food | G |
 | 006 | V26–V30 | P3–P4 | speaker wall-unplug → TV wall-unplug proof | A |
 | 007 | V31–V35 | P4–P5 | TV warning → hostile fridge → key route | G |
@@ -154,14 +154,14 @@ Objects:
 | 031 | U-FP,U-L2K,U-K2L,U-DESK,U-LIGHT | O-TV |
 | 032 | U-FP,U-L2K,U-K2L,U-LIGHT | O-TV |
 
-`U-ATLAS` is additional only when the intended camera angle is not sufficiently covered by the listed primary references.
+`U-ATLAS` is additional only when intended camera angle is not sufficiently covered by listed primary references.
 
 ## Hardened Cross-Strip State Handoffs
 
 - 001→002: same canonical Unit geometry; first strip physically proves smart-lock/door entry; later-evening cut may change only temporary move-in state
 - 002→003: same women/counter; binder + detached key remain counter
-- 003→004: same counter state until visible departure route
-- 004→005: binder counter; key tray; speaker counter/plugged
+- 003→004: no conceptual phone/tablet props introduced; same counter/binder/key state
+- 004→005: key visibly transferred to tray; binder counter; speaker counter/plugged
 - 005→006: same dropped chopstick pair at fixed kitchen-floor spot through V26; no invented visible food from Strip 005
 - 006→007: TV appliance-side cord attached; same loose wall plug; same empty wall socket; no silent re-plug
 - 007→008: key returned tray; speaker still wall-unplugged on counter
@@ -190,7 +190,7 @@ Objects:
 
 ## NO Production Labels — Absolute
 
-The V/P/strip IDs above are audit metadata only. They must never be rendered in artwork. Any reader-visible `V-*`, P-number, strip/beat/panel/scene label—especially top-left—is an automatic rejection.
+V/P/strip IDs above are audit metadata only. They must never render in artwork. Any reader-visible `V-*`, P-number, strip/beat/panel/scene label—especially top-left—is automatic rejection.
 
 ## Narration Hardening
 
@@ -200,6 +200,12 @@ Narration wording remains exact. Visual treatment and placement vary according t
 
 This manifest validates prompt-level dependencies and handoffs only. It cannot prove visual production complete.
 
-Second-pass prompt gate counts must be recorded only after the clean-room re-read finishes. Rendered visual gates remain pending.
+Current **second-pass prompt / preproduction** gate counts:
+- **BLOCKER 0**
+- **MAJOR 0**
+- **MINOR requiring correction 0**
+- **WARNING requiring explanation 0**
 
-**CURRENT STATUS: SECOND FULL HARDENING AUDIT / REPAIR PASS ACTIVE — PRIOR RENDERS REJECTED — NOT PRODUCTION COMPLETE.**
+Rendered visual gates remain pending.
+
+**FINAL CURRENT STATUS: SECOND FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
