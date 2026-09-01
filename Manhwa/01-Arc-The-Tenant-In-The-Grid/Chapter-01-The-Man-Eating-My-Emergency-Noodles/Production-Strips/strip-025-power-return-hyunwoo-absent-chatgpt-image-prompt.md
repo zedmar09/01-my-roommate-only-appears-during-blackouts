@@ -22,8 +22,8 @@ ATTACH — REQUIRED
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 024 controls temporary post-candle/body/knife state only; correct permanent drift to canon rather than propagating it.
-Preserve exact post-candle positions, knife floor spot, extinguished candle, pushed chair, table/food/chopsticks/pantry/packet topology, fridge body/state, and power-state appearance.
+Attached canonical WebPs are permanent authority. APPROVED Strip 024 controls temporary post-candle/body/knife/packet state only; correct permanent drift to canon rather than propagating it.
+Preserve exact post-candle positions, distinct knife/packet floor spots, extinguished candle, pushed chair, table/food/chopsticks/pantry topology, fridge body/state, and power-state appearance.
 Never render V113–V118, P15, Strip 025, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
@@ -32,17 +32,21 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - Unit 2407 = fully unpowered/dark
-- Nari = SAME table-edge-adjacent post-reach position from Strip 024, BOTH FEET at same established floor marks, both hands free after release
+- Nari = SAME table-edge-adjacent post-reach position from Strip 024, BOTH FEET at same established floor marks, both hands free after release of the former KNIFE-HAND wrist
 - Hyun-woo = SAME close protective position, no contact
-- knife = exact floor spot; sheath = desk
+- practical knife = exact distinct Strip 023 floor impact spot
+- SAME empty spicy-seafood outer packet = separate nudged Strip 019 floor spot
+- knife spot and packet spot do NOT overlap/merge
+- sheath = desk
 - candle = extinguished; pushed chair remains pushed back
 - fridge display = dark
-- table/pot/noodles/used chopsticks/trivet/cloth/seasoning wrapper/pantry/empty outer packet topology unchanged
+- table/pot/noodles/used chopsticks/trivet/cloth/seasoning wrapper/pantry topology unchanged
 
 ALLOWED CHANGES:
 - V113 OUTSIDE city power indicators begin returning while Unit interior stays dark
 - Hyun-woo remains physically present V113–V116
 - dialogue, head turns, facial reactions, small natural upper-body shifts only; NO STEP/FOOT REPOSITION for either character
+- neither floor evidence object moves
 - V117 ONLY: Unit 2407 ordinary supplied power returns as one local state change `VZZT`; normal apartment lights/ordinary devices restore according to canonical powered baseline
 - Nari reflexively raises one/both forearms/hands to shield eyes WHILE HER FEET STAY PLANTED AT SAME MARKS
 - at instant Unit power returns, Hyun-woo is no longer physically present, but NO disappearance animation is shown
@@ -52,7 +56,8 @@ END:
 - Unit 2407 = normal powered baseline
 - Hyun-woo = absent, no physical/reflected/silhouetted trace
 - Nari = EXACT same story-world foot position as V113–V117; arm(s) lowering after shield reaction, no step
-- knife = same floor spot
+- knife = SAME distinct floor spot
+- empty outer packet = SAME separate floor spot
 - chair = pushed back
 - candle = extinguished
 - table/pantry/food/object topology unchanged
@@ -80,13 +85,34 @@ From Strip 024 start through Strip 025 end, Nari does NOT walk.
 
 Freeze her story-world position:
 - same table-edge-adjacent spot established by Strip 023 candle reach
-- same foot relationship to table, knife floor spot, Hyun-woo block area, and refrigerator
+- same foot relationship to table, distinct knife floor spot, separate outer-packet floor spot, Hyun-woo block area, and refrigerator
 - V113 exterior cut does not reposition her when camera returns inside
 - V114–V116 dialogue does not move her feet
-- V117 power flash causes only a shielding arm/upper-body reaction
+- V117 power flash causes only shielding arm/upper-body reaction
 - V118 arm lowers while feet remain planted
 
-Do not use a reverse shot to subtly move her backward toward entrance, sideways around table, or closer to knife/fridge.
+Do not use reverse shot to subtly move her backward, sideways, closer to knife/fridge, or onto packet.
+
+==================================================
+TWO FLOOR-EVIDENCE SPOTS — ABSOLUTE
+==================================================
+
+A. KNIFE
+- exact Strip 023 `CLANG` impact point
+- remains there through V118
+
+B. EMPTY OUTER PACKET
+- exact nudged Strip 019 floor position
+- remains there through V118
+
+They are separate physical locations. Power restoration, reverse shots, Nari's shielding reaction, or Hyun-woo absence cannot:
+- merge them into one cluster
+- move one under/over the other
+- place knife on packet
+- remove either object
+- change their relative relation to table/Nari
+
+This distinction passes directly into Strip 026 route planning.
 
 ==================================================
 NO VISIBLE DISAPPEARANCE — ABSOLUTE
@@ -102,7 +128,8 @@ PROP TOPOLOGY / POWER PERSISTENCE — ABSOLUTE
 
 Power restoration does not clean/reset room.
 Preserve exact relative positions:
-- knife fixed floor spot
+- knife distinct floor spot
+- empty outer packet separate floor spot
 - pushed chair fixed
 - candle extinguished in same holder/table position
 - pot/trivet fixed
@@ -110,7 +137,6 @@ Preserve exact relative positions:
 - used Hyun-woo chopsticks same pot rest point
 - seasoning wrapper same table spot
 - five unopened pantry packets
-- SAME empty spicy-seafood outer packet at its current slightly nudged floor spot from Strip 019
 
 Reverse angles do not swap sides/order.
 
@@ -131,7 +157,7 @@ VERTICAL STORY FLOW
 ==================================================
 
 V113 — OUTSIDE RETURNS FIRST
-Distant Seoul buildings/traffic signals begin returning as small powered points OUTSIDE. Unit 2407 remains fully dark. Hyun-woo remains physical. Nari's unseen interior foot position remains unchanged.
+Distant Seoul buildings/traffic signals begin returning as small powered points OUTSIDE. Unit 2407 remains fully dark. Hyun-woo remains physical. Nari's unseen interior foot position and both floor evidence spots remain unchanged.
 
 SMALL BLACK GUTTER.
 
@@ -160,12 +186,12 @@ COMPACT BLACK POWER-STATE DIVIDER.
 V117 — UNIT POWER SNAP
 SFX at ordinary Unit power restoration:
 `VZZT`
-Normal apartment lights snap on. Nari shields eyes WITHOUT STEPPING. Do NOT depict visible Hyun-woo disappearance process.
+Normal apartment lights snap on. Nari shields eyes WITHOUT STEPPING. Do NOT depict visible Hyun-woo disappearance process. Floor evidence remains unmoved.
 
 SMALL BLACK GUTTER.
 
-V118 — ABSENCE / SAME FEET
-Same exact now-powered geometry. Nari lowers arm(s) while remaining at same foot/body position. Hyun-woo simply absent. Knife/props unchanged; pushed chair remains.
+V118 — ABSENCE / SAME FEET / SAME FLOOR EVIDENCE
+Same exact now-powered geometry. Nari lowers arm(s) while remaining at same foot/body position. Hyun-woo simply absent. Knife/packet/props unchanged; pushed chair remains.
 
 ==================================================
 LIGHTING / NO DEAD BOTTOM
@@ -175,18 +201,19 @@ V113–V116 canonical blackout. V117 contained transition. V118 canonical neutra
 Use absence composition through lower canvas; no giant tail.
 
 SEAM OUT — G
-Strip 026 begins immediately with Nari at THIS SAME exact post-reach/table-edge position before she starts the evidence route. Encounter evidence untouched.
+Strip 026 begins immediately with Nari at THIS SAME exact post-reach/table-edge position before evidence route. SAME knife and outer packet remain two separate floor obstacles/evidence points.
 
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
 - permanent drift from previous strip propagated over canon
-- Nari's feet/position drift across V113–V118 or she steps during power snap
+- Nari feet/position drift or she steps during power snap
+- knife/outer packet move, merge, overlap, disappear, or swap relative position
 - Hyun-woo disappears at city return or remains after Unit return
 - Unit lights/appliances restore before V117
 - visible disappearance effect shown
 - Nari teleports/reorients around table during power snap
-- knife/chair/candle/table/food/pantry topology resets/moves because power returns
+- chair/candle/table/food/pantry topology resets/moves because power returns
 - reverse shots swap prop sides
 - blackout look continues into V118 or cinematic bloom replaces powered baseline
 - invented narration/system labels
