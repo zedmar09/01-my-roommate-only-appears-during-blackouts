@@ -23,8 +23,8 @@ Do NOT attach Hyun-woo; voice-only.
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 029 controls temporary chair/food/cabinet/table state only; correct any permanent room/object/character drift to attached canon rather than propagating it.
-Preserve exact Nari identity, untouched chair position, pushed Hyun-woo chair, desk/tray, notebook/pen identity, open speaker cabinet/stockpot/towels/speaker/lid, phone/binder/key states, food/chopsticks/table evidence, canonical TV body/cord/wall socket, and powered geometry.
+Attached canonical WebPs are permanent authority. APPROVED Strip 029 controls temporary chair/food/cabinet/table state only; correct permanent room/object/character drift to attached canon rather than propagating it.
+Preserve exact Nari identity, untouched chair, pushed Hyun-woo chair, desk/tray, notebook/pen identity, exact open speaker cabinet stack, phone/binder/key states, two-chopstick-pair/packet/table topology, canonical TV body/cord/fixed wall socket, and powered geometry.
 Never render V138–V142, P18, Strip 030, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
@@ -33,28 +33,33 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - Nari = seated in SAME untouched burgundy chair
-- her clean chopsticks + SAME dining noodle pot/broth/packet/wrapper remain table evidence from Strip 029
+- SAME dining pot/broth/noodles on same trivet; folded cloth same hot-handle side
+- SAME seasoning wrapper + SAME empty spicy-seafood outer packet now together on table where Strip 029 visibly placed them
+- PAIR A used Hyun-woo chopsticks = SAME fixed rest point against/in pot
+- PAIR B clean Nari chopsticks = SAME fixed table spot on Nari's side of pot, already released there after bite
 - Hyun-woo chair = pushed back/angled
-- open speaker cabinet unchanged; phone + binder = kitchen counter; key = entry tray
+- lower speaker cabinet = OPEN
+- SAME stockpot in cabinet; SAME lid FLAT on shelf beside pot; TOWEL1 bottom liner; speaker + attached coiled cord/loose plug on liner; TOWEL2 folded back once
+- phone + binder = kitchen counter; key = entry tray
 - sheathed practical knife + failed flashlight/radio = desk tray
 - SAME A5 grocery notebook + ONE pen = work desk
-- SAME canonical TV = inactive and still unplugged FROM WALL; appliance-side cord attached, loose plug outside empty wall socket
+- SAME canonical TV = inactive and still unplugged FROM SAME fixed wall outlet; appliance-side cord attached, loose plug outside empty socket
 
 ALLOWED CHANGES:
 - V138 question toward open cabinet; Hyun-woo gives absolutely NO answer to first question
-- deliberate silence beat, then Nari says `HYUN-WOO?`
+- deliberate silence, then Nari says `HYUN-WOO?`
 - V139 dialogue
-- V140 Nari physically rises from SAME untouched chair and walks table→desk
+- V140 Nari physically rises from SAME untouched chair and walks table→desk, leaving ALL food/packet/wrapper/both chopstick pairs untouched
 - V141 hand contacts/picks up SAME A5 notebook + exactly ONE pen; knife/flashlight/radio stay tray
 - V142 physically walks desk→table and sits back in SAME untouched chair carrying notebook + pen only
 
 END:
 - Nari = same untouched chair with SAME notebook + ONE pen at table
 - Hyun-woo chair remains pushed back
-- food/chopsticks/table evidence remains physically present
-- desk tools/knife remain at desk
-- phone/binder/key/open cabinet/speaker states unchanged
-- TV remains canonical and unplugged FROM WALL/inactive
+- pot/packet/wrapper/PAIR A/PAIR B topology unchanged from start
+- desk tools/knife remain desk
+- phone/binder/key/open cabinet/exact speaker-stack states unchanged
+- TV remains canonical and wall-unplugged/inactive
 
 ==================================================
 SILENCE / SOURCE OWNERSHIP — ABSOLUTE
@@ -62,80 +67,98 @@ SILENCE / SOURCE OWNERSHIP — ABSOLUTE
 
 After:
 `THE MISSING SECTION WAS ABOUT THAT PANEL, WASN'T IT?`
-there is NO Hyun-woo answer, no ellipsis balloon, no device text, no speaker indicator reply, no SFX, and no invented narration.
+there is NO Hyun-woo answer, no ellipsis balloon, no device text, no speaker-indicator reply, no SFX, no invented narration.
 
-The silence is represented by purposeful pacing/composition only. THEN Nari says:
+Silence represented by pacing/composition only. THEN Nari says:
 `HYUN-WOO?`
 
-Do not let a generic caption or `...` accidentally become an answer.
+==================================================
+TABLE PROP TOPOLOGY — ABSOLUTE
+==================================================
+
+Nari's short desk trip does NOT clean table.
+
+Throughout V138–V142 preserve:
+- pot/trivet same location
+- cloth same hot-handle side
+- seasoning wrapper + empty outer packet same table positions
+- PAIR A used chopsticks same pot rest point
+- PAIR B clean chopsticks same Nari-side table spot
+- extinguished candle/holder same location if visible
+- pushed Hyun-woo chair same position
+
+Reverse shots do not swap physical sides/order. Nari does not pick up either chopstick pair during desk trip.
+
+==================================================
+OPEN CABINET / SPEAKER TOPOLOGY — ABSOLUTE
+==================================================
+
+Cabinet remains OPEN exactly as Strip 028/029 left it:
+- stockpot inside cabinet
+- lid flat on shelf beside stockpot
+- TOWEL1 bottom liner
+- speaker + attached coiled cord + loose wall plug resting on liner
+- TOWEL2 folded back once
+
+Do not close cabinet, reseat lid, cover speaker with towel, move plug, or replug speaker during dialogue/desk route.
 
 ==================================================
 CHAIR → DESK → CHAIR BODY ROUTE — ABSOLUTE
 ==================================================
 
-V140–V142 is one real round trip:
+V140–V142:
 1. Nari begins seated in untouched chair
 2. feet/body shift; she stands from actual chair seat
-3. chair remains where it was after she stands
-4. she walks along canonical table→desk route
-5. reaches SAME notebook + pen at desk
-6. hand physically contacts/picks up only those two objects
-7. she does NOT pick up sheathed knife, flashlight, radio, phone, or binder
+3. chair remains where it was
+4. she walks canonical table→desk route
+5. reaches SAME notebook + pen
+6. hand contacts/picks up only those two objects
+7. knife/flashlight/radio stay tray
 8. she walks back desk→table
-9. returns to SAME untouched chair
-10. physically aligns body with that chair and sits
-11. notebook + pen arrive with her and remain at table
+9. returns SAME untouched chair
+10. physically aligns body and sits
+11. notebook + pen arrive with her
 
-No teleporting. Hyun-woo's pushed chair remains pushed and never becomes Nari's chair.
+No teleporting. Hyun-woo's pushed chair never becomes Nari's chair.
 
 ==================================================
 MANDATORY ACTION-PROOF FRAMING — ABSOLUTE
 ==================================================
 
-The round trip cannot be summarized only by before/after shots.
-At minimum, visually prove:
-- Nari rising from the actual untouched chair
+At minimum visually prove:
+- Nari rising from actual untouched chair
 - route direction toward desk using canonical landmarks
-- hand contacting SAME notebook/pen at desk before they appear in hand
+- hand contacting SAME notebook/pen before they appear in hand
 - desk tools remaining behind
 - return route direction
 - body physically sitting into SAME untouched chair
 
-If needed, use compact adjacent movement/detail slices. Do not crop all contact/mechanism points away.
+Do not summarize only before/after.
 
 ==================================================
-NOTEBOOK / PEN / HAND MICRO-CONTINUITY — ABSOLUTE
+TV / FIXED OUTLET PERSISTENCE — ABSOLUTE
 ==================================================
 
-ONE A5 notebook + ONE pen only. Close-ups do not duplicate them. If Nari holds both, hand occupancy must be plausible. They remain together through V141→V142 and become Strip 031 writing tools.
-
-Food/pot/chopsticks from Strip 029 remain on table while Nari walks away and returns; they are not automatically cleared during her short desk trip.
-
-==================================================
-SPEAKER / CABINET / TV PERSISTENCE — ABSOLUTE
-==================================================
-
-Open cabinet remains open. Same stored unplugged speaker remains inside stockpot/two towels with attached cord + loose wall plug. Hyun-woo is audio-only.
-
-TV object canonical is attached because its unplugged wall-end state is now a direct continuity anchor for Strips 031–032:
+TV object canonical is attached because wall-unplugged state is direct continuity anchor for 031–032:
 - same TV body/stand/cord
+- same fixed wall outlet landmark established Strip006: same wall/height/orientation/faceplate relationship
 - TV-side cord remains attached
-- same loose wall plug remains outside same empty wall socket
+- same loose wall plug remains outside same empty socket
 - no silent re-plug
 
-If TV is off-camera, state still persists. If visible, it must match the attached TV canonical plus this wall-unplugged state.
+If off-camera, state persists. If visible, match canonical + established outlet state.
 
 ==================================================
 TEXT / NARRATION DESIGN — ABSOLUTE
 ==================================================
 
-No narration is scripted; do not invent any. Dialogue/voice-only speaker lines remain source-correct. Purposeful silence is layout pacing, not a narration card.
+No narration scripted; do not invent. Dialogue/voice-only speaker source-correct. Purposeful silence is layout pacing, not narration card.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Small black gutter between question/silence/answer/movement slices. The silence after first question may use a slightly longer purposeful black pause, but never a huge empty canvas. Side-by-side route views use diagonal black divider.
+Small black gutter between question/silence/answer/movement slices. Silence may use slightly longer purposeful black pause, never huge empty canvas. Side-by-side route views use diagonal black divider.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -144,7 +167,7 @@ VERTICAL STORY FLOW
 V138
 NARI toward open cabinet:
 `THE MISSING SECTION WAS ABOUT THAT PANEL, WASN'T IT?`
-NO ANSWER. No ellipsis, no SFX, no device response.
+NO ANSWER. No ellipsis/SFX/device response.
 Purposeful silence beat.
 Then NARI:
 `HYUN-WOO?`
@@ -160,17 +183,17 @@ HYUN-WOO voice:
 SMALL BLACK GUTTER.
 
 V140 — TABLE → DESK
-Show Nari physically standing from SAME untouched chair and walking along canonical route to work desk.
+Physically stand from SAME untouched chair and walk canonical route to desk. Leave both chopstick pairs/packet/wrapper/pot untouched.
 
 SMALL BLACK GUTTER.
 
 V141 — NOTEBOOK PICKUP
-At desk, show hand contacting/picking up SAME A5 grocery notebook + ONE pen only. Sheathed knife/flashlight/radio stay tray.
+At desk, hand contacts/picks up SAME A5 notebook + ONE pen only. Sheathed knife/flashlight/radio stay tray.
 
 SMALL BLACK GUTTER.
 
 V142 — DESK → TABLE
-Nari physically returns and sits in SAME untouched dining chair carrying only notebook + pen.
+Nari physically returns and sits in SAME untouched dining chair carrying notebook + pen only.
 
 ==================================================
 POWER / NO DEAD BOTTOM
@@ -180,21 +203,21 @@ Normal powered lighting, no second outage/speaker glow.
 End with Nari back at table ready to write; no giant blank tail.
 
 SEAM OUT — G
-Strip 031 starts with exact same chair/notebook/pen/table/TV state.
+Strip 031 starts exact same chair/notebook/pen/table topology, both chopstick pairs, packet/wrapper, open speaker cabinet state, and TV wall-unplugged state.
 
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
-- permanent drift from previous strip is propagated over canon
+- permanent drift previous strip propagated over canon
 - Hyun-woo answers first question in any form
-- silence gets invented ellipsis/SFX/narration
-- binder/phone/key/food/table props move without action
-- notebook/pen teleport or duplicate
-- notebook pickup/contact mechanism is hidden so tools appear in hand without proof
-- Nari stands/sits without physical chair mechanics or returns to pushed-back chair
-- Nari carries knife/tools back to table
-- open cabinet/speaker state resets
-- TV body/cord redesigns or silently reconnects to wall
+- silence gets ellipsis/SFX/narration
+- table food/packet/wrapper/PAIR A/PAIR B moves/disappears during desk trip
+- used/clean chopstick pairs swap/merge/duplicate
+- notebook/pen teleport/duplicate or pickup contact hidden
+- Nari stands/sits without chair mechanics or returns pushed chair
+- Nari carries knife/tools to table
+- open cabinet/lid/towels/speaker stack resets
+- TV outlet/body/cord redesigns or silently reconnects
 - black separators missing/oversized
 ```
 
