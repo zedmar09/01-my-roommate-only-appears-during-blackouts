@@ -42,7 +42,9 @@ ALLOWED CHANGES:
 - binder remains counter
 - Nari visibly reaches SAME key on counter, grips/picks it up, carries it to entry, and places it into SAME tray once
 - old counter key location becomes empty after pickup
-- Mrs. Na exits once; door closes
+- at doorway Nari physically opens SAME front door if needed for Mrs. Na's exit
+- Mrs. Na crosses the threshold outward ONCE and clears the doorway
+- only after Mrs. Na is fully outside, Nari physically closes the SAME front door on its canonical hinge; no re-entry
 - legal `ONE WEEK LATER` cut permits changed Nari pose/blanket and automation state, but NOT changed apartment geometry or permanent prop identities
 
 END:
@@ -50,7 +52,8 @@ END:
 - key = entry tray
 - old counter key location = empty
 - speaker = canonical kitchen counter, plugged in
-- front door closed, Mrs. Na outside/gone
+- Mrs. Na = outside/gone
+- front door = physically closed after Nari's closing action
 - powered apartment, one-week-later automation baseline
 
 ==================================================
@@ -71,6 +74,22 @@ The key transfer must be visually proven:
 11. no duplicate remains on counter or in hand
 
 Do not crop both pickup and placement contacts away and jump from “key on counter” to “key in tray.” If needed, use immediate detail slices.
+
+==================================================
+DEPARTURE / DOOR-CLOSE ACTION-PROOF — ABSOLUTE
+==================================================
+
+The closed front-door end state must be caused on-page before the time cut:
+1. both women reach the actual entry/front-door zone
+2. SAME door is physically opened enough for Mrs. Na to leave
+3. Mrs. Na crosses OUTWARD through the real opening once
+4. her full body/feet clear the threshold; she is now corridor-side
+5. Nari remains inside
+6. Nari's hand reaches the actual door handle/edge
+7. SAME door swings closed on the canonical hinge
+8. door reaches a visibly closed position before `ONE WEEK LATER`
+
+Do not show Mrs. Na half-inside while door is already closed. Do not jump from open doorway to one-week-later closed door without the closing action. No extra SFX is added; the action may be silent.
 
 ==================================================
 MICRO-CONTINUITY / ROUTE REALISM — ABSOLUTE
@@ -118,7 +137,7 @@ MRS. NA:
 
 SMALL BLACK GUTTER.
 
-V18 — COUNTER → ENTRY / DEPARTURE
+V18 — COUNTER → ENTRY / KEY / DEPARTURE / DOOR CLOSE
 Show both women physically walking from kitchen counter through canonical route toward front door.
 The canonical electrical-operation guide remains on kitchen counter.
 Execute the exact key pickup→carry→tray placement proof above.
@@ -133,13 +152,13 @@ MRS. NA:
 `GOOD NIGHT, MS. YOON.`
 NARI:
 `THAT'S NOT VERY COMFORTING.`
-Mrs. Na exits; Nari remains inside. No re-entry.
+Then execute the exact departure/door-close action proof above: Mrs. Na exits once, clears threshold, Nari closes SAME door, and Nari remains inside. No re-entry.
 
 ==================================================
 TIME CUT — ONE WEEK LATER
 ==================================================
 
-Use a compact purposeful black time-transition separator. Do not imply the same conversation continues.
+Only after the front door is visibly closed, use a compact purposeful black time-transition separator. Do not imply the same conversation continues.
 
 V19 — MORNING AUTOMATION
 NARRATION:
@@ -166,7 +185,7 @@ REAL-SCENARIO PROP STATE AT END
 - brass backup key = entry tray, same canonical key
 - old counter key location = empty
 - speaker = canonical kitchen counter, still ordinary and plugged in
-- front door = closed after Mrs. Na leaves
+- front door = physically closed before time cut
 - no supernatural manifestation yet
 
 NO DEAD BOTTOM — ABSOLUTE
@@ -183,6 +202,7 @@ AUTOMATIC REJECT IF
 - key teleports to tray without pickup/carry/placement
 - duplicate key remains at counter/hand after tray placement
 - Mrs. Na carries binder away
+- Mrs. Na exits through a closed door, remains half-inside at closure, or the door becomes closed only after the time cut with no closing action
 - manual/key appearance drifts from canonical
 - Mrs. Na remains inside after V18
 - apartment geometry changes after time cut
