@@ -7,12 +7,12 @@ PRODUCTION SCOPE
 V46–V50. Historical P6 mapping only.
 
 ATTACH — REQUIRED
-- Nari canonical
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-canonical.png`
-- `Manhwa/Object-References/electrical-operation-guide-canonical.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+- `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
 - APPROVED Strip 009
 - this Strip 010 prompt
 
@@ -43,7 +43,7 @@ No device answer in this beat.
 CANONICAL BINDER / SOUTH-WALL CLUE — ABSOLUTE
 ==================================================
 
-Use the SAME reusable `electrical-operation-guide-canonical.png` introduced by Mrs. Na.
+Use the SAME reusable object authority `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp` introduced by Mrs. Na.
 Do not spawn a second binder or redesign its cover/body.
 
 Canonical binder identity:
@@ -114,11 +114,11 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Unit 2407 floor plan
-3. Unit 2407 living→kitchen wide
-4. Unit 2407 desk-zone detail
-5. Unit 2407 hallway canonical
-6. Unit 2407 electrical-operation-guide canonical
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+3. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+4. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+5. `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+6. `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
 7. APPROVED Strip 009
 8. this Strip 010 prompt
