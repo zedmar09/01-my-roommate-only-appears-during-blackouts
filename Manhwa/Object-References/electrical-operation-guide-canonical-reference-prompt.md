@@ -57,7 +57,7 @@ The handwriting is an older handwritten annotation on paper, not digital UI and 
 Include small reference states for:
 - closed on kitchen counter
 - open for inspection at dining/work area
-- being carried by one person
+- being carried by one person only as a neutral handling/scale example without creating a character identity reference
 - returned closed to kitchen counter
 
 These states demonstrate identity/handling only. Actual strip positioning comes from the strip prompt and environment canonical.
@@ -76,5 +76,8 @@ Reject if:
 - binder becomes a tablet/device
 - proportions/colors/material identity change across states
 
-Save approved result as:
+Save approved local generation result as:
 `electrical-operation-guide-canonical.png`
+
+After visual approval, manually convert and store/use this repository authority:
+`electrical-operation-guide-canonical-reference.webp`
