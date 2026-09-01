@@ -19,10 +19,91 @@ ATTACH — REQUIRED
 - this Strip 007 prompt
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached references and APPROVED Strip 006 are binding. Preserve TV body/stand/bezel/cord, wall outlet zone, refrigerator body/display, key shape, apartment axis, and Nari identity exactly.
+Never render V31–V35, P4/P5, Strip 007, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- SAME TV remains ON from Strip 006
+- TV appliance-side power cord remains attached to TV body
+- SAME wall-end TV plug remains loose/disconnected from SAME wall-mounted socket
+- SAME wall socket remains empty
+- Nari begins physically near the TV/outlet zone where Strip 006 left her
+- brass backup key remains in entry tray
+- speaker remains unplugged from its wall socket on canonical kitchen counter; not hidden
+- refrigerator display dark
+- Unit 2407 ordinary supplied room power remains ON
+
+ALLOWED CHANGES:
+- Nari physically moves TV zone → entry shelf, picks up SAME brass key
+- TV displays clean helpful warning while staying unplugged FROM WALL
+- Nari turns/approaches refrigerator while holding same key
+- refrigerator display briefly shows hostile message then returns dark
+- Nari physically walks refrigerator → entry and returns same key to same tray
+
+END:
+- TV still unplugged from wall: appliance-side cord attached, loose wall plug, empty wall socket
+- key = entry tray
+- speaker = unplugged, counter, not hidden
+- refrigerator display dark
+- binder = kitchen counter
+- powered apartment unchanged
+
+Anything not explicitly changed remains unchanged even when camera angle changes.
+
+==================================================
+TV WALL-SOCKET STATE MUST CARRY FORWARD — ABSOLUTE
+==================================================
+
+Strip 007 MUST NOT redraw the unplug event differently. It inherits the completed Strip 006 physical truth:
+- cord remains attached to TV body
+- cord runs to SAME loose wall-end plug
+- plug is OUT of wall-mounted socket
+- socket is EMPTY
+
+If the TV or plug/socket is visible in V31/V32, show that same state. If it is off-camera later, the state still exists logically.
+Do NOT show the cord removed from the TV body. Do NOT silently reinsert the plug. Do NOT move the wall socket.
+
+==================================================
+KEY / HAND / MOVEMENT MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+Key route:
+entry tray → Nari hand → carried while she reacts/turns/approaches fridge → Nari hand → entry tray.
+
+There is exactly one Unit 2407 brass key. When Nari lifts it, no duplicate remains in tray. While she holds it, keep it in the same hand unless a visible hand transfer occurs. Her hand cannot simultaneously hold another incompatible object.
+
+Nari begins near TV, so V31 must visibly bridge movement to entry shelf. V33→V34 must show a believable turn/approach to refrigerator. V34→V35 must bridge refrigerator→entry route. No teleporting across the apartment.
+
+==================================================
+FRIDGE / TV EFFECT AND OBJECT CONTINUITY — ABSOLUTE
+==================================================
+
+TV body and refrigerator body must match their attached references exactly.
+TV helpful text = clean stable cyan-white on full TV screen.
+Refrigerator hostile text = contained only inside narrow built-in display with broken/doubled stark-white + black-pixel seam crawl.
+The refrigerator door/body does not become a giant screen and does not move location.
+
+V33 message exists briefly. V34 display must be dark; do not leave old text hanging because of a camera change.
+
+==================================================
+NARRATION DESIGN BY SITUATION — ABSOLUTE
+==================================================
+
+Only V34 has narration. `BY THE TIME NARI TURNED TOWARD IT, THE MESSAGE WAS ALREADY GONE.` should use a restrained ominous-observational caption treatment appropriate to a vanished clue—different from the earlier time-transition captions and not a fake system UI/glitch banner.
+Do not add narration elsewhere and do not obscure the fridge display, key, Nari's hands, or movement route.
+
+==================================================
 SEAM IN / EXACT START — ABSOLUTE
 ==================================================
 
-Continue SAME canonical TV body, SAME loose unplugged cord, SAME Unit 2407 axis, SAME Nari scale, SAME powered-night state. Do not insert a black bar at the external 006→007 artwork-continuation seam.
+Continue SAME canonical TV body, SAME appliance-side attached cord, SAME loose unplugged wall-end plug, SAME empty wall socket, SAME Unit 2407 axis, SAME Nari scale, SAME powered-night state. Do not insert a black bar at the external 006→007 artwork-continuation seam.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
@@ -66,7 +147,7 @@ NARI:
 SMALL BLACK GUTTER.
 
 V32 — TV WARNING
-Same visibly unplugged TV.
+Same visibly unplugged-from-wall TV: appliance-side cord attached; loose wall-end plug still outside empty wall socket.
 TV DEVICE TEXT, clean helpful styling:
 `DON'T LOOK AT THE FRIDGE.`
 NARI:
@@ -105,8 +186,8 @@ PROP STATE AT END
 
 - brass backup key = entry tray, canonical identity unchanged
 - electrical-operation guide = kitchen counter
-- speaker = still unplugged on canonical kitchen counter; NOT hidden yet
-- TV = still physically unplugged; do not invent additional text
+- speaker = still unplugged from wall on canonical kitchen counter; NOT hidden yet
+- TV = still unplugged FROM WALL with appliance-side cord attached; do not invent additional text
 - refrigerator display = dark
 
 NO DEAD BOTTOM — ABSOLUTE
@@ -116,12 +197,18 @@ SEAM OUT — G
 Strip 008 begins with Nari turning/walking back toward kitchen to hide the unplugged speaker.
 
 AUTOMATIC REJECT IF
-- key teleports
-- key duplicates or changes shape/material
-- speaker is already hidden
+- any V/P/strip/beat/panel/scene production label appears
+- attached references are redesigned/mirrored
+- TV is redrawn as unplugged from appliance body instead of wall socket
+- TV loose plug/socket state resets or silently reconnects
+- wall socket relocates/disappears when visible
+- key teleports, duplicates, changes shape/material, or remains in tray while held
+- speaker is already hidden or re-plugged
 - TV/refrigerator effect signatures swap
 - refrigerator message persists after V33
 - reflected human appears in appliance
+- Nari teleports between TV, entry, fridge, and entry return
+- narration uses fake UI or generic repeated design that obscures clue/action
 - apartment axis flips
 - black slice separators missing or oversized
 - giant dead bottom appears
