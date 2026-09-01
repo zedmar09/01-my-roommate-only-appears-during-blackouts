@@ -1,271 +1,341 @@
-# Chapter 1 — `manhwa-2d-production-auditor` Fresh Post-Repair Audit
+# Chapter 1 — `manhwa-2d-production-auditor` Full Deep-Hardening Audit
 
-Status: **PREPRODUCTION SCRIPT / CONTINUITY / PROMPT / REFERENCE GATE PASS — READY FOR SEQUENTIAL STRIP 001 PRODUCTION — NOT PRODUCTION COMPLETE**
+Status: **FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
 
-This record is a fresh post-repair audit of the current repository state. It supersedes the earlier pre-generation blocker report that described stale/missing PNG visual authorities.
+This audit supersedes the earlier prompt/reference pass. It was initiated because actual strip-generation attempts exposed visual-production failures that were not sufficiently prevented by the previous prompt wording.
 
-## Current Production-State Truth
+No prior PASS label was accepted as proof. The current package was reworked from Strip 001 through Strip 032 and then re-read at the high-risk causal/seam points.
 
-Chapter 1 now has:
-- the locked 146-beat continuous-scroll plan
-- all 32 technical strip prompts
-- approved current character-card WebPs required by Chapter 1
-- approved Unit 2407 environment WebPs
-- approved building shared-area WebPs
-- approved recurring object WebPs
-- exact current WebP attachment paths inside every `strip-001` through `strip-032` prompt
+## Trigger Findings From Actual Generation Attempts
 
-Chapter 1 does **not** yet have:
-- rendered Strip 001–032 story artwork
-- sequential per-strip pixel-level visual approvals
-- the final stitched Chapter 1 master
-- final seam/dead-space/mobile-lettering clean-room visual approval
+The hardening pass specifically addresses these failures:
 
-Therefore the chapter is ready to begin sequential visual production, but it is not `PRODUCTION COMPLETE`.
+### 1. Incorrect appliance unplugging
+Generation could interpret `unplugged` as disconnecting a cable from the TV/speaker body instead of removing the electrical plug from the wall outlet.
 
-## Repository Image-Format Rule — Verified
+Current absolute rule:
+- plug is removed from a **WALL-MOUNTED socket/outlet**
+- appliance-side cord remains attached to appliance
+- same cord ends in same loose wall plug
+- wall socket remains empty
+- unplugged state persists until explicit re-plug
 
-The production workflow intentionally separates generation format from repository authority:
+For Chapter 1 TV, that state begins Strip 006 and persists through Strip 007 and final Strips 031–032.
 
-1. a character/environment/object prompt may generate PNG first as a local intermediate
-2. the generated PNG is visually inspected/approved
-3. the approved PNG is manually converted to WebP
-4. the committed WebP becomes the reusable repository/production attachment authority
-5. production strips attach the exact committed `.webp` file, never the deleted/intermediate PNG
+### 2. Adjacent vertical-slice object / food disappearance
+Generation could show food/noodles/chopsticks/props in vertical slice X and omit/reset them in X+1 without physical cause.
 
-Keeping PNG as a generation output is therefore valid. The defect fixed in this repair cycle was stale production Markdown that still pointed to old PNG filenames or obsolete basenames.
+Current absolute rule:
+- a camera cut does not erase objects
+- occlusion is not disappearance
+- food/noodle amount changes only through visible/physically unmistakable eating, slurping, lowering, spill, placement, or legal time cut
+- hand/object/table states persist until visible change
 
-## Repair Cycle — Character Authority
+### 3. Skipped simple physical mechanics
+Generation could jump from intention to result without real movement: standing without chair mechanics, reaching distant props, object transfers without pickup/placement, cabinet already open, etc.
 
-Verified current Chapter 1 character authorities:
-- `Character-References/nari-canonical-flat2d.webp`
-- `Character-References/hyunwoo-canonical-flat2d.webp`
-- `Character-References/mrs-na-canonical-flat2d.webp`
-- `Character-References/seungjae-canonical-flat2d.webp`
+Current rule:
+`START STATE → PHYSICAL CAUSE → VISIBLE ACTION → RESULT → PERSISTENT END STATE`.
 
-Current locks:
-- Nari = exactly 30, long dark-plum hair approximately mid-back, loose by default, beauty mark beside left mouth corner, yellow scrunchie on one wrist
-- Hyun-woo = long low-tied black hair, broad build, same matte-black technical mask and circuit-sigil tattoo map
-- Mrs. Na = late 60s, silver twist, jade earrings, mauve coat, analog watch; Unit 2407 key remains a separate object authority
-- Seungjae = exactly 30, same age group as Nari, youthful contemporary coworker presentation
+### 4. Attached references treated too loosely
+Generation could reinterpret reference-controlled identity/geometry/object design for composition convenience.
 
-`characters.md`, the character-card standard, and current character prompts have been synchronized with these locks.
+Current rule:
+approved WebPs are binding authority. If intended shot conflicts with canon, recompose the shot; never modify canon.
 
-**PASS.**
+### 5. Repetitive narration design
+Narration could be forced into one repeated box regardless of event/function.
 
-## Repair Cycle — Environment Authority
+Current rule:
+use one coherent publication family with scenario-driven variants for time/location, observation, procedural warning, investigation/evidence, ominous realization, and suspense/listening.
 
-Verified Chapter 1 primary Unit 2407 authorities:
-- `unit-2407-floor-plan-reference.webp`
-- `unit-2407-entry-living-wide-reference.webp`
-- `unit-2407-living-to-kitchen-wide-reference.webp`
-- `unit-2407-kitchen-to-living-wide-reference.webp`
-- `unit-2407-hallway-reference.webp`
-- `unit-2407-desk-zone-detail-reference.webp`
-- `unit-2407-fridge-cabinet-zone-detail-reference.webp`
-- `unit-2407-lighting-state-sheet-reference.webp`
-- `unit-2407-room-angle-atlas-reference.webp` when an uncovered camera angle requires it
+### 6. Reader-visible production labels
+Generation could render `V-*` / V numbers at the top-left.
 
-Verified building authorities:
-- `rainy-building-entrance-reference.webp`
-- `building-lobby-elevator-reference.webp`
+Current rule:
+any V/P/strip/beat/panel/scene/shot/QA/layout production metadata in reader art—especially top-left—is an automatic rejection.
 
-The wider Unit 2407 pack also contains approved Bedroom A, Bedroom B, and bathroom references. They are not required by the current Chapter 1 strip map unless a later correction introduces those spaces.
+## Repair Scope
 
-`building-shared-areas-bible.webp` is not a required Chapter 1 strip attachment and does not override the two building visual authorities above.
+The following production authorities were hardened:
+- `Production-Strips/README.md`
+- `../../generation-workflow.md`
+- `../../prompt-template.md`
+- `../../production-readiness-gate.md`
+- `../../lettering-sfx-guide.md`
+- `../../vertical-scroll-layout-guide.md`
+- `../../seam-continuity-protocol.md`
+- `../../Object-References/core-object-bible.md`
+- `../../Object-References/tv-canonical-reference-prompt.md`
+- `../../Object-References/smart-speaker-canonical-reference-prompt.md`
+- `chapter-01-master-scroll-prompt.md` deep-hardening binding note
+- `chapter-01-generation-checklist.md`
+- `chapter-01-strip-manifest.md`
+- every individual `Production-Strips/strip-001` through `strip-032` prompt
 
-**PASS.**
+## Individual Strip Rewrite Result
 
-## Repair Cycle — Object Authority
+Every Strip 001–032 now includes or explicitly enforces:
+- exact current WebP attachments
+- attached-reference obedience
+- no reader-visible production IDs
+- START / ALLOWED CHANGE / END state ledger
+- strip-specific micro-continuity
+- physical character↔environment interaction rules
+- scenario-appropriate narration/text-type handling
+- expanded automatic rejection conditions
 
-Verified recurring Chapter 1 object authorities:
-- `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
-- `Manhwa/Object-References/tv-canonical-reference.webp`
-- `Manhwa/Object-References/refrigerator-canonical-reference.webp`
-- `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
-- `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
+Story wording, speaker/source ownership, and Chapter 1 event order remain unchanged by the hardening pass.
 
-Object-specific manifestation remains locked:
-- speaker helpful communication = screenless audio device, restrained clean cyan-white hardware accent only
-- TV hostile state = broad full-screen signal/broadcast takeover
-- refrigerator hostile state = narrow embedded diagnostic/identity-lock intrusion
-- electrical guide = same physical binder, exact title, Section 16 → Section 18, no normal Section 17, physical handwritten south-wall warning
-- brass backup key = one stable mechanical brass key, no fob/card/duplicate
+## Clean-Room High-Risk Re-Audit
 
-The brass-key generation prompt was also repaired into a true object-only sheet; named characters are no longer required on the key canonical.
+### Strips 001–004 — Entry / Mrs. Na / Key Route
 
-**PASS.**
+Verified hardened:
+- same move-in box crosses threshold before being placed
+- Mrs. Na enters once and physically walks to counter
+- one binder + one Unit 2407 key
+- key visibly detaches from ordinary ring before counter placement
+- binder stays counter
+- key counter → Nari hand → entry tray
+- time-cut narration is visually distinguished from ordinary observation
+- no production labels allowed
 
-## Exact Strip Attachment Audit — Strip 001 → 032
+**PASS at hardened prompt level.**
 
-Every current strip prompt was rechecked after migration.
+### Strips 005–007 — Chopsticks / Speaker / TV Wall-Unplug / Fridge / Key
 
-Each strip now explicitly contains:
-- exact visible-character WebP path(s)
-- exact relevant environment WebP path(s)
-- exact relevant object WebP path(s) where story-critical
-- immediately previous APPROVED rendered strip for 002–032
-- the current strip prompt
+Verified hardened:
+- same chopstick pair established before fall
+- same pair remains floor through Strip 006 V26 until explicit later time cut
+- if any snack/food/noodles is shown, it cannot vanish between adjacent slices without physical change
+- speaker unplug action targets wall-mounted socket; speaker-side cord remains attached
+- TV starts away from Nari, requiring physical walk to outlet
+- TV unplug action explicitly targets wall-mounted socket
+- V30 physical proof requires TV active + TV-side cord attached + loose wall-end plug + empty wall socket
+- Strip 007 inherits exact wall-unplug state with no silent re-plug
+- key physically tray → hand → tray
+- TV helpful and refrigerator hostile effect languages remain distinct
 
-No current strip attachment block relies on an obsolete `*-canonical.png`, `*-states.png`, or vague label such as only `Nari canonical`.
+**PASS at hardened prompt level.**
 
-Optional room-angle-atlas references in the applicable prompts also use the exact current WebP path.
+### Strips 008–010 — Speaker Storage / Note / Digital Failure / Binder
 
-**PASS.**
+Verified hardened:
+- speaker counter → cabinet/stockpot by visible route
+- same attached speaker cord + loose wall plug remain physically accounted for in storage
+- one stockpot / one lid / exactly two towels
+- note/pen remain same physical objects
+- phone capture can fail without erasing real note
+- same binder physically counter → pickup → open inspection → page state → close → counter
+- Section 16 → Section 18 jump remains physical; no normal Section 17
+- handwriting/device/phone/speech text systems remain distinct
 
-## Fresh Physical Timeline Re-Audit — Strip 001 → 032
+**PASS at hardened prompt level.**
 
-### Strips 001–004 — Move-In / Mrs. Na
-- Nari crosses the front door before the open-plan reveal.
-- Mrs. Na begins outside, enters once, then physically walks entry → kitchen counter.
-- Same manual and same brass key arrive together.
-- Binder stays counter; key moves counter → Nari hand → entry tray.
-- Mrs. Na exits once.
+### Strip 011 — Blackout Inventory
 
-**PASS.**
+Verified hardened:
+- exactly two shopping bags on return
+- exactly six emergency noodle packets
+- practical blackout knife distinct from guarded fruit knife
+- emergency tray remains right of keyboard
 
-### Strips 005–010 — First Voice / TV / Fridge / Paper Evidence
-- one chopsticks pair is established before its fall and persists through Strip 006 V26
-- speaker is unplugged once and remains counter until Strip 008 storage
-- Nari visibly crosses to the TV/outlet before unplugging it
-- helpful TV state and hostile refrigerator diagnostic state remain distinct
-- brass key follows tray → Nari hand → tray
-- speaker storage route to the correct lower cabinet is explicit
-- guarded fruit knife remains distinct from later practical blackout knife
-- same physical paper remains while digital capture fails
-- same electrical guide is inspected and returned; south-wall panel itself stays closed
+**PASS at hardened prompt level.**
 
-**PASS.**
+### Strips 012–013 — Seungjae / Bag / Lobby
 
-### Strip 011 — Blackout Preparation
-- practical blackout knife purchased sheathed and remains distinct from guarded fruit knife
-- exactly six emergency noodle packets established
-- emergency tray remains immediately right of keyboard
-- hallway lamp on
+Verified hardened:
+- Seungjae exactly 30 / same age group as Nari
+- one phone / one watch / one pair earbuds / one umbrella
+- Nari one shoulder bag
+- tablet remains inside bag; no X-ray through closed bag; no tablet in hand
+- entrance behind / elevator ahead after entry
+- Seungjae turns toward exit only at V64
 
-**PASS.**
+**PASS at hardened prompt level.**
 
-### Strips 012–013 — Seungjae / Lobby
-- Nari has exactly one shoulder bag; tablet remains inside
-- Seungjae is exactly 30, same age group as Nari
-- Seungjae has one phone/watch/earbuds/umbrella
-- entrance remains behind after entry; elevator remains deeper inside
-- phone fails first, watch/earbuds afterward
-- Seungjae does not clearly read tablet
-- he turns back only when elevator arrives
+### Strips 014–016 — Outage / Tools / Knife / Approach
 
-**PASS.**
-
-### Strips 014–016 — Outage / Approach
-- legal time cut to Unit 2407
-- Nari long dark-plum hair loose; scrunchie remains wrist
-- hallway lamp visibly on before power loss
-- phone screen remains dark during outage
-- flashlight/radio fail
+Verified hardened:
+- powered baseline visibly established before outage
+- hallway lamp ON before actual supply loss
+- Nari loose long dark-plum hair / wrist scrunchie preserved
+- phone remains dark
+- flashlight/radio hand tests physically accounted for
+- knife remains sheathed until Strip 016
 - knife draw leaves empty sheath at desk
-- desk → hallway → dining/kitchen route visible
-- first `SLURP` offscreen
-- Strip 016 ends on controlled Hyun-woo teaser in correct chair
+- desk → hallway → kitchen route physically bridged
+- Hyun-woo teaser only, seated in correct chair
 
-**PASS.**
+**PASS at hardened prompt level.**
 
-### Strips 017–020 — Hidden Eater / Reveal / Hostile Start
-- Hyun-woo remains in chair closest to kitchen/refrigerator
-- five unopened packets remain after spicy-seafood packet use
-- same mask stays attached while temporarily clearing his mouth for eating
-- exposed lower-face identity remains concealed
-- Strip 018 stops eating, rests chopsticks, visibly reseats same mask, then `TCHK`
-- Nari remains entrance until exactly one step in Strip 019
-- closer position persists into Strip 020
-- chair push/rise occurs only after hostile activity begins
+### Strips 017–018 — Eating / Noodles / Chopsticks / Mask
 
-**PASS.**
+Verified hardened:
+- same pot/noodle/chopstick/trivet/cloth/candle/pantry evidence persists across dialogue close-ups
+- a visible noodle strand cannot simply disappear; bite/slurp/lowering must resolve it
+- same attached technical mask clears mouth only enough to eat
+- Strip 018 exact causal sequence:
+  1. stop eating
+  2. resolve any visible noodles
+  3. same chopsticks leave mouth area
+  4. chopsticks rest at/in same pot
+  5. free hand reaches same mask
+  6. same mask visibly reseats
+  7. only then `TCHK`
+- no position reset
 
-### Strips 021–025 — Crossing / Candle / Knife / Power Return
-- Hyun-woo visibly walks around the table to blocking position; no teleport
-- fridge shows `YOON NARI`, then adds `IDENTITY LOCKING`
-- same candle stays fixed on same table
-- Nari makes one short half-step/lean to realistic blowing distance
-- exact action chain remains: reach → `PFF` → `KIIIIII` → knife slip/fall → `CLANG` → only afterward wrist catch
-- post-reach geometry persists through Strip 024
-- city power returns before Unit 2407
-- Hyun-woo remains physical until Unit itself powers on
-- no visible disappearance effect
+**PASS at hardened prompt level.**
 
-**PASS.**
+### Strips 019–022 — One Step / Chair / Crossing / Fridge / Candle
 
-### Strips 026–030 — Evidence / Speaker / Knife / Food / Notebook
-- encounter evidence remains after power return
-- same phone route remains desk → pickup → entry/security/voicemail → kitchen counter
-- brass key remains entry tray
-- cabinet chimes source stays correct closed lower cabinet until Strip 028 approach/opening
-- storage stockpot/lid/two towels/unplugged speaker remain the same objects
-- Hyun-woo is voice-only while powered
-- practical knife fixed floor spot → pickup → desk sheath before food
-- Nari uses untouched chair, not Hyun-woo's pushed-back chair
-- A5 notebook + pen physically move desk → dining table
+Verified hardened:
+- exactly one cautious step in Strip 019 via weight shift → foot → packet `CRINKLE`
+- new closer Nari position persists
+- Strip 020 exact seated → chair push → `SKRRK` → stand mechanics
+- pushed chair remains pushed
+- Strip 021 physically bridges chair → around table → blocking position
+- `YOON NARI` remains while `IDENTITY LOCKING` is added beneath it
+- candle/holder stay fixed; no early reach
 
-**PASS.**
+**PASS at hardened prompt level.**
 
-### Strips 031–032 — Final TV
-- notebook remains physical paper
-- TV remains visibly unplugged
-- Nari remains seated at dining table
-- TV uses broad hostile signal takeover, not refrigerator diagnostic styling
-- `NEW TENANT CONFIRMED` appears only in Strip 032
-- one `FZZT` apartment-light flicker while Unit stays powered
-- no physical/reflected/silhouetted Hyun-woo
-- no second blackout
+### Strip 023 — Candle / Knife / Wrist Sequence
 
-**PASS.**
+Verified the prompt now separates every physical state:
+- V103: short realistic half-step/lean → `PFF`; candle out; knife still in hand
+- V104: fridge `KIIIIII`; knife only starts loosening; no wrist contact
+- V105: knife fully leaves fingers; hand empty
+- V106: knife reaches one fixed floor spot → `CLANG`
+- V107: only after impact, Hyun-woo catches one wrist
+- candle does not move or relight
+- knife floor spot becomes persistent authority
 
-## Dialogue / Text Ownership Re-Audit
+**PASS at hardened prompt level.**
 
-Human speech, narration, internal thought, screenless-speaker audio, device text, handwriting, binder text, and notebook text remain correctly separated.
+### Strips 024–025 — Release / Power Return
 
-No story/dialogue rewrite was required during the WebP migration.
+Verified hardened:
+- Strip 024 begins with same wrist still held
+- visible wrist release occurs before refrigerator quiet-click sequence
+- knife stays exact floor spot
+- city power recovery occurs before Unit recovery
+- Hyun-woo remains physical until Unit 2407 supplied power returns
+- no visible fade/dissolve/portal/glitch disappearance
+- power return does not clean/reset props
 
-**PASS at prompt level.**
+**PASS at hardened prompt level.**
 
-## SFX Physical-Logic Re-Audit
+### Strips 026–028 — Evidence / Phone / Cabinet / Speaker / Knife
 
-The active prompt package still satisfies:
+Verified hardened:
+- same phone physically desk → pickup → entry → archive/security → voicemail → counter
+- two chimes originate from same still-closed cabinet
+- Strip 028 exact approach → phone placement → kneel → cabinet open sequence
+- same stockpot/lid/exactly two towels/unplugged speaker
+- speaker-side cord remains attached; same loose wall plug remains stored/accounted for
+- borrowed supernatural voice does not physically reconnect speaker
+- knife remains exact old floor spot until visible handle pickup
 
-`PHYSICAL SOURCE → ACTION → SCRIPTED SOUND → EXACT TIMING → VISUAL PLACEMENT → STATE CHANGE → NEXT-BEAT CONSEQUENCE`
+**PASS at hardened prompt level.**
 
-High-risk chains such as TV unplug, chopsticks fall, mask reseat, chair rise, candle/knife sequence, cabinet/lid, knife sheath, and final TV/light effects remain intact.
+### Strips 029–030 — Knife Sheath / Food / Chair / Notebook
 
-**PASS at prompt level.** Actual lettering placement awaits rendered-strip inspection.
+Verified hardened:
+- same knife physically goes to same desk sheath before food
+- Nari returns dining area empty-handed
+- food is inspected before eating
+- Nari sits in OTHER untouched chair through real chair/body mechanics
+- clean Nari chopsticks remain distinct from Hyun-woo used pair
+- one complete cautious noodle-bite path; food strand cannot vanish mid-action
+- pot/food/chopsticks persist into dialogue
+- first missing-section question receives no invented answer / ellipsis / SFX / narration
+- notebook + one pen physically desk → same chair/table
 
-## Strict Style Re-Audit
+**PASS at hardened prompt level.**
 
-Global and Chapter 1 authority remains:
+### Strips 031–032 — Notebook / Final TV Wall-Unplug State
 
-**STRICT FLAT 2D HUMAN-DRAWN KOREAN MANHWA/WEBTOON ILLUSTRATION**
+Verified hardened:
+- one physical notebook + one pen persist
+- exact notebook handwriting preserved
+- Nari remains same untouched chair
+- TV remains physically unplugged FROM WALL since Strip 006
+- TV-side cord remains attached
+- same cord ends in loose plug
+- wall-mounted socket remains empty
+- hostile activation occurs despite physical wall disconnection
+- `NEW TENANT CONFIRMED` only Strip 032
+- one `FZZT` while Unit remains powered
+- no Hyun-woo / second blackout / extra ending copy
 
-Reject photoreal/semi-photoreal, 3D/CGI, glossy/plastic/wet, painterly, airbrushed, beauty-ad shine, cinematic grading, DOF blur, bloom, lens flare, excessive rim light, mirror-like reflections, and over-rendered AI-polished output.
+**PASS at hardened prompt level.**
 
-**PASS at authority/prompt level.** Pixel-level compliance awaits rendered strips.
+## Narration Re-Audit
 
-## Seam / Dead-Space / Mobile-Lettering Gate
+The hardened package no longer treats narration as one fixed visual box.
 
-Planned A/G/E seam types, black read-slice grammar, diagonal side-by-side dividers, movement handoffs, and no-dead-space rules remain coherent.
+Narration design is now explicitly scenario-driven while retaining one coherent publication family:
+- neutral time/location
+- ordinary/dry observation
+- procedural warning
+- investigation/evidence
+- ominous realization
+- suspense/listening/reveal restraint
 
-**PASS at prompt level.** Actual seam/dead-space/mobile-lettering approval awaits sequential rendered artwork and final stitch.
+Production is also explicitly forbidden from inventing narration to fill dead space or explain a physical transition that should be drawn.
 
-## Current Gate Counts — Post-Repair Repository State
+**PASS at hardened instruction level. Actual typography remains to be visually inspected in new renders.**
 
-### Pre-Strip / Reference / Prompt Gates
+## Production-Metadata Re-Audit
+
+Every hardened strip and supporting guide now treats V/P/strip/beat/panel/scene/shot IDs as production-only.
+
+Any top-left `V-*` or other technical label in actual art is an automatic rejection.
+
+**PASS at hardened instruction level. Actual rendered images remain to be checked.**
+
+## Attached Reference Re-Audit
+
+All current strip attachment lists continue to use exact current WebP authorities. The hardening pass now says references are binding permanent visual authority rather than loose inspiration.
+
+**PASS at prompt/reference-authority level.**
+
+## Rendered Visual Status
+
+The previous generated attempts are rejected for this retest and are not current continuity authority.
+
+New Strip 001–032 artwork has not yet been generated/approved under the fully hardened package.
+
+Therefore these gates remain **PENDING / UNEXECUTED**, not PASS:
+- actual character identity fidelity
+- actual environment/reference fidelity
+- actual wall-socket rendering correctness
+- actual adjacent-slice food/object micro-continuity
+- actual narration typography quality/variation
+- actual no-production-label compliance
+- actual lettering/SFX placement
+- actual seam/dead-space/mobile readability
+- final stitched chapter audit
+
+## Post-Hardening Gate Counts — Prompt / Preproduction Level Only
+
 - **BLOCKER: 0**
-- **MAJOR: 0**
+- **MAJOR: 0 unresolved deterministic prompt/canon issues**
 - **MINOR requiring correction: 0**
 - **WARNING requiring explanation: 0**
 
-### Rendered Visual Gates
-Not failed; **not yet executed** because Strip 001–032 artwork and the stitched chapter are not yet present.
+These counts apply only to the current hardened textual/reference authority package. They do not certify any rendered strip.
 
-## Verdict
+## Final Current Verdict
 
-**PREPRODUCTION STATUS: REFERENCE GATE PASS — READY FOR SEQUENTIAL STRIP 001 PRODUCTION**
+**FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
 
-**FINAL STATUS: NOT PRODUCTION COMPLETE — RENDERED STRIP PRODUCTION, PER-STRIP VISUAL QA, STITCHING, AND FINAL CLEAN-ROOM VISUAL AUDIT STILL REQUIRED**
+Next production action:
+1. generate a NEW Strip 001 using its exact hardened prompt and exact WebP attachments
+2. deep-audit the actual pixels against all current gates
+3. reject/fix/regenerate until Strip 001 passes
+4. only then use it as APPROVED previous-strip authority for Strip 002
+5. repeat sequentially through Strip 032
+6. stitch and run a fresh final clean-room visual audit
