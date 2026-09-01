@@ -140,6 +140,8 @@ FINAL GOAL
 A detailed reusable flat-2D human-drawn Manhwa character card that makes long-haired, feminine adult Yoon Nari reproducible from any camera angle and emotional state.
 ```
 
-Expected approved production files after regeneration:
+Generation output may remain PNG first:
 `Character-References/nari-canonical-flat2d.png`
+
+After visual approval, manually convert that accepted PNG and store/use this repository authority:
 `Character-References/nari-canonical-flat2d.webp`
