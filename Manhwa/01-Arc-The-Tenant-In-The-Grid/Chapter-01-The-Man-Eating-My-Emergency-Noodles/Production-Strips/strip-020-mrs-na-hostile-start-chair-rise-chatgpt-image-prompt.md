@@ -19,19 +19,71 @@ ATTACH — REQUIRED
 - this Strip 020 prompt
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached WebPs + APPROVED Strip 019 are binding. Preserve exact character identities, Nari's one-step-closer mark, Hyun-woo chair, table/pot/chopsticks/candle/pantry, fridge body/display, and blackout geometry.
+Never render V90–V93, P12/P13, Strip 020, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- Nari = NEW closer stopped position established V88/V89; knife low same hand
+- Hyun-woo = seated in SAME chair closest kitchen/refrigerator
+- SAME chair is in normal occupied position before V93
+- pot/noodles/chopsticks/trivet/cloth/candle remain table anchors; chopsticks rest at/in pot
+- pantry = five unopened packets; one empty spicy-seafood packet remains on floor where Strip 019 nudged it
+- refrigerator display dark; Unit power absent
+
+ALLOWED CHANGES:
+- V90/V91 dialogue only; no body relocation
+- V92 candle flame bends in SAME holder; refrigerator narrow display begins contained hostile pixels/`KZZT`; no readable words
+- Hyun-woo notices first but REMAINS SEATED through V92
+- V93 exact chair mechanics: seated body loads feet → chair pushes backward → chair legs scrape `SKRRK` → Hyun-woo rises beside SAME chair
+- he does NOT walk around table yet
+
+END:
+- Nari = same closer position, unmoved
+- Hyun-woo = standing immediately beside SAME pushed-back/angled chair
+- chair remains pushed back/angled; does not snap under table
+- table food/candle/pantry/packet states unchanged
+- refrigerator hostile activation begun, no readable text yet
+
+==================================================
+CHAIR / BODY MECHANICS — NON-NEGOTIABLE
+==================================================
+
+Hyun-woo cannot teleport from seated to standing. V93 must visibly preserve contact/sequence:
+1. seated hips/body aligned with actual chair seat
+2. feet establish support on floor
+3. chair moves backward because his body/legs create clearance
+4. SAME chair visibly scrapes backward; `SKRRK` anchored at chair/floor
+5. Hyun-woo rises vertically beside chair
+6. chair remains at new pushed-back angle after he stands
+
+Do not show him already standing before chair moves. Do not move him to refrigerator/blocking position; that movement belongs to Strip 021.
+
+==================================================
+PROP / FOOD / HAND MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+Nari's knife stays low in same hand. Her feet do not move.
+Pot/noodles/chopsticks/trivet/cloth/candle remain on table across all dialogue/action cuts. The empty packet on floor and five pantry packets remain evidence; camera changes do not erase them.
+Candle holder does NOT slide when flame bends. Fridge body/door does not move when pixels begin.
+
+==================================================
+TEXT / NARRATION DESIGN — ABSOLUTE
+==================================================
+
+No narration is scripted; do not invent any. Dialogue remains speech. `KZZT` belongs to refrigerator activation; `SKRRK` belongs only to chair/floor scrape. Do not use generic ominous caption boxes or production labels to explain the threat.
+
+==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
 Small black gutter between every distinct conversation/hostile/action slice. Side-by-side fridge-detail and character-reaction views use diagonal black divider. External 020→021 A seam must remain visually continuable; no black technical bar at the file join.
-
-==================================================
-EXACT START / MOVEMENT
-==================================================
-
-Nari stays at NEW closer position for entire strip; practical knife low.
-Hyun-woo remains seated through V92. V93 only: push SAME chair backward → `SKRRK` → rise beside it. Do not walk around table yet.
-Chair remains pushed back/angled afterward.
-All table/candle/pantry/refrigerator props fixed.
 
 ==================================================
 DIALOGUE / HOSTILE START
@@ -67,10 +119,7 @@ Use refrigerator canonical embedded-diagnostic effect, never TV full-screen take
 SMALL BLACK GUTTER.
 
 V93 — CHAIR PUSH / RISE
-Show seated start → same chair pushed backward → scrape → Hyun-woo rises beside it.
-SFX:
-`SKRRK`
-No movement around table yet.
+Execute seated → push SAME chair backward → `SKRRK` → rise beside it. No movement around table yet.
 
 ==================================================
 POWER / NO DEAD BOTTOM
@@ -80,14 +129,18 @@ Unit power still absent. Refrigerator hostile activity is supernatural, not powe
 Use complete chair-rise action through lower canvas; no giant blank tail.
 
 SEAM OUT — A
-Strip 021 continues from Hyun-woo standing beside pushed-back chair and physically walking around table.
+Strip 021 continues from Hyun-woo standing immediately beside pushed-back chair and physically walking around table.
 
 AUTOMATIC REJECT IF
-- Nari moves
-- Hyun-woo stands early/teleports to fridge
+- any production label appears
+- references/room geometry drift
+- Nari moves/resets to older entrance mark
+- Hyun-woo stands before V93 or teleports to fridge/blocking position
+- chair does not visibly move before standing, duplicates, or resets after scrape
+- table food/chopsticks/candle/packet/pantry continuity disappears
 - readable fridge text appears early
-- refrigerator uses TV effect language
-- chair resets
+- refrigerator uses TV effect language or body transforms
+- invented narration appears
 - black separators missing/oversized
 ```
 
