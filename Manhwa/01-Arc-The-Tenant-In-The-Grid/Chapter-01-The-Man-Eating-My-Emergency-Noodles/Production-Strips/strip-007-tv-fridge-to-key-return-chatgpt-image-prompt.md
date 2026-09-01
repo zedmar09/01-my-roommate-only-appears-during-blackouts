@@ -36,14 +36,15 @@ START:
 - TV appliance-side power cord remains attached to TV body
 - SAME wall-end TV plug remains loose/disconnected from SAME Chapter 1 wall-mounted socket detail established/confirmed in Strip 006
 - SAME wall socket remains empty at SAME story-world wall/height/orientation relation, subject always to attached canonical geometry
-- Nari begins physically near TV/outlet zone where Strip 006 left her
+- Nari begins in the EXACT crouched pose/location at TV/outlet zone where Strip 006 V30 left her
 - brass backup key remains in entry tray
 - SAME canonical speaker remains unplugged from its kitchen wall socket on canonical kitchen counter; not hidden; its body/cord must match attached speaker WebP if visible
 - refrigerator display dark
 - Unit 2407 ordinary supplied room power ON
 
 ALLOWED CHANGES:
-- Nari physically moves TV zone → entry shelf, physically picks up SAME brass key
+- before walking anywhere, Nari physically rises from the SAME crouch: feet remain planted → knees/hips extend → torso comes upright → she reaches stable standing balance at the TV/outlet zone
+- only after the rise is complete does Nari physically walk TV zone → entry shelf and pick up SAME brass key
 - TV displays clean helpful warning while staying unplugged FROM WALL
 - Nari turns/approaches refrigerator while holding same key
 - refrigerator display briefly shows hostile message then returns dark
@@ -58,6 +59,25 @@ END:
 - powered apartment unchanged
 
 Anything not explicitly changed remains unchanged even when camera angle changes.
+
+==================================================
+CROUCH → STAND → WALK BODY CHAIN — NON-NEGOTIABLE
+==================================================
+
+Strip 007 may not pretend the crouch from Strip 006 never happened.
+
+V31 must begin with the inherited crouched state and visibly prove:
+1. SAME feet remain at the TV/outlet area
+2. Nari shifts weight for balance
+3. knees/hips extend from crouch
+4. torso rises
+5. she reaches an upright standing state
+6. only then does she turn/orient toward the entry route
+7. only then does the first walking step occur
+
+If needed, use one compact UNLABELED rise sub-slice before the walking/key-pickup slice. Never render a production label for that sub-slice.
+
+Do not cut directly from crouched Strip 006 to Nari already walking near entry.
 
 ==================================================
 TV WALL-OUTLET CONTINUITY — CANON-SUBORDINATE
@@ -89,6 +109,8 @@ Strip 007 inherits completed Strip 006 physical truth:
 If TV or plug/socket is visible in V31/V32, show that exact state. If off-camera later, state still exists logically.
 Do NOT show cord removed from TV body. Do NOT silently reinsert plug. Do NOT move wall socket against canonical geometry.
 
+If a plug/socket close-up is used, it is a SAME-OBJECT detail of this TV state and must not create a second plug/socket or an incompatible still-plugged duplicate in the wide view.
+
 ==================================================
 KEY / HAND / MOVEMENT ACTION-PROOF — ABSOLUTE
 ==================================================
@@ -99,7 +121,7 @@ entry tray → Nari hand → carried while she reacts/turns/approaches fridge �
 There is exactly one Unit 2407 brass key.
 
 V31 pickup must show:
-1. Nari physically reaches entry shelf
+1. after the crouch→stand action, Nari physically reaches entry shelf
 2. hand/fingers contact SAME key in tray
 3. key leaves tray; tray becomes empty
 4. SAME key remains in same hand unless visible hand transfer occurs
@@ -113,7 +135,7 @@ V35 return must show:
 
 Do not crop both contact mechanisms away. Do not leave duplicate in tray while held.
 
-Nari begins near TV, so V31 must visibly bridge movement to entry shelf. V33→V34 must show believable turn/approach to refrigerator. V34→V35 must bridge refrigerator→entry route. No teleporting across apartment.
+V31 must visibly bridge TV/outlet→standing→entry movement. V33→V34 must show believable turn/approach to refrigerator. V34→V35 must bridge refrigerator→entry route. No teleporting across apartment.
 
 ==================================================
 SPEAKER PRESENCE / IDENTITY — ABSOLUTE
@@ -141,6 +163,20 @@ Refrigerator door/body does not become giant screen and does not move location.
 V33 message exists briefly. V34 display must be dark; do not leave old text hanging because of camera change.
 
 ==================================================
+TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
+==================================================
+
+Balloon bodies/tails, device text, narration, and SFX must not cover:
+- crouch→stand body mechanics
+- key pickup/return fingers
+- tray becoming empty/full
+- TV loose plug/empty socket if shown
+- fridge display message/disappearance
+- route-defining environment anchors
+
+If lettering conflicts, reflow lettering rather than hiding or moving the physical action.
+
+==================================================
 NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
@@ -151,7 +187,7 @@ Do not add narration elsewhere and do not obscure fridge display, key, Nari's ha
 SEAM IN / EXACT START — ABSOLUTE
 ==================================================
 
-Continue SAME canonical TV body, SAME appliance-side attached cord, SAME loose unplugged wall-end plug, SAME canon-compatible empty wall socket detail, SAME Unit 2407 axis, SAME Nari scale, SAME powered-night state. Do not insert black bar at external 006→007 artwork-continuation seam.
+Continue SAME canonical TV body, SAME appliance-side attached cord, SAME loose unplugged wall-end plug, SAME canon-compatible empty wall socket detail, SAME Unit 2407 axis, SAME Nari CROUCHED pose/scale/location, SAME powered-night state. Do not insert black bar at external 006→007 artwork-continuation seam.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
@@ -163,8 +199,8 @@ Inside Strip 007, every distinct vertical beat gets SMALL BLACK GUTTER. When two
 VERTICAL STORY FLOW
 ==================================================
 
-V31 — MOVE TO ENTRY / KEY PICKUP / QUESTION
-Nari physically walks from living-TV zone to canonical entry shelf, visibly picks up SAME canonical brass key from SAME tray, then faces TV across apartment.
+V31 — RISE → MOVE TO ENTRY → KEY PICKUP / QUESTION
+Begin in SAME crouched position from Strip 006. Visibly rise to standing first. Then physically walk to canonical entry shelf and pick up SAME brass key from SAME tray. Only after that, face TV across apartment.
 NARI:
 `OKAY. WHO ARE YOU?`
 
@@ -223,17 +259,19 @@ AUTOMATIC REJECT IF
 - any V/P/strip/beat/panel/scene production label appears
 - attached references are redesigned/mirrored
 - permanent drift from previous strip or generated outlet detail is propagated over canon
+- Strip 007 begins with Nari standing/walking instead of inherited crouch, or crouch→stand action is skipped
 - TV outlet detail changes wall/height/orientation/furniture relation without canonical cause
 - generated outlet micro-detail is treated as authority over attached WebPs
 - TV redrawn as unplugged from appliance body instead of wall socket
 - TV loose plug/socket state resets or silently reconnects
+- plug/socket detail creates duplicate/incompatible physical state
 - key pickup/return contact hidden, key teleports/duplicates/changes identity/remains in tray while held
-- speaker canonical missing from visible rendering, changes design, is hidden early, or is re-plugged
+- speaker canonical missing from visible rendering, changes design, hidden early, or re-plugged
 - TV/refrigerator effect signatures swap
 - refrigerator message persists after V33
 - reflected human appears in appliance
 - Nari teleports between TV, entry, fridge, entry return
-- narration uses fake UI/generic repeated top-left design obscuring clue/action
+- narration/balloon/SFX obscures action evidence
 - apartment axis flips
 - black slice separators missing/oversized
 - giant dead bottom appears
