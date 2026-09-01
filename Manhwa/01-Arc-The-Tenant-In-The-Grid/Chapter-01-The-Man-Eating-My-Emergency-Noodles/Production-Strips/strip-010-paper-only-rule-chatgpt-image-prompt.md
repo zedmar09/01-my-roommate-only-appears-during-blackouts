@@ -17,6 +17,69 @@ ATTACH — REQUIRED
 - this Strip 010 prompt
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached WebPs are binding. Preserve exact Nari identity, tablet, binder body/cover/pages, desk/counter/hallway geometry, and south-wall relationship.
+Never render V46–V50, P6, Strip 010, beat/panel/scene labels, or any production metadata anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- same stickered tablet from Strip 009 after freeze/restart
+- physical note remains in kitchen/toaster area; speaker hidden unplugged in closed cabinet; fruit knife under sofa; key entry tray
+- canonical binder = kitchen counter, CLOSED before Nari retrieves it
+- actual south-wall panel remains closed/untouched
+
+ALLOWED CHANGES:
+- tablet displays clean helpful warning only
+- Nari physically moves to kitchen counter, picks up SAME binder, carries it to readable dining/work position, opens it
+- same binder pages reveal Section 16 → direct physical jump to Section 18 and south-wall diagram handwriting
+- Nari uses same phone for text exchange
+- Nari physically closes SAME binder, carries it back to same kitchen counter, places it there
+
+END:
+- binder = closed on kitchen counter
+- key = entry tray
+- speaker = hidden unplugged, cabinet closed
+- fruit knife = under sofa cushion
+- actual south-wall panel = closed/untouched
+- same tablet/phone remain Nari's only devices
+
+==================================================
+BINDER / HAND / PAGE MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+Binder route must be visible/logically continuous:
+kitchen counter CLOSED → Nari hand → carried → inspection surface OPEN → page turn/section inspection → south-wall diagram page → close binder → Nari hand → kitchen counter CLOSED.
+
+Do not teleport binder between counter and table. Do not show two binders. If Nari holds binder, that same hand cannot simultaneously hold phone unless she visibly sets binder down or changes hand in a physically plausible way.
+
+Page identity is permanent:
+- cover title exact
+- Section 16 physically present
+- next relevant sequence jumps directly to Section 18
+- no normal visible Section 17 page/tab
+- handwritten warning is ink/pen on physical paper, not digital UI
+
+Actual south-wall panel must remain closed; diagram inspection is not permission to open the wall panel.
+
+==================================================
+TEXT / NARRATION DESIGN BY SITUATION — ABSOLUTE
+==================================================
+
+Do not invent narration in this strip. Visual text categories must remain distinct:
+- tablet helpful warning = clean device text on tablet only
+- binder printed sections = physical printed page text
+- south-wall warning = old physical handwriting
+- phone exchange = phone text UI
+- Nari spoken line = speech balloon
+
+Never convert any of these into a generic narration box. Do not use the same visual treatment for tablet UI, handwriting, binder print, phone text, and speech.
+
+==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
@@ -102,13 +165,18 @@ SEAM OUT — G / TIME CUT
 Strip 011 begins later that day outside at supply mart.
 
 AUTOMATIC REJECT IF
+- any V/P/strip/beat/panel/scene production label appears
+- attached reference or binder geometry redesigns
 - helpful tablet warning uses hostile styling
 - second binder/phone/tablet appears
 - binder body/title/section structure differs from canonical
 - Section 17 appears as a normal visible section
+- physical handwriting becomes digital/narration text
 - actual south-wall panel opens
-- binder teleports to/from table/counter
+- binder teleports to/from table/counter or changes open/closed state without action
+- Nari impossibly holds binder/phone without plausible hand/surface state
 - physical Mrs. Na appears
+- text categories are collapsed into one generic narration style
 - black dividers missing/oversized
 - giant dead bottom appears
 ```
