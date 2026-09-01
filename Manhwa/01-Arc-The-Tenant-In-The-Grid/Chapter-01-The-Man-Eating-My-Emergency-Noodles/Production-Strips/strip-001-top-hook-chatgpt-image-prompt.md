@@ -34,7 +34,7 @@ START STATE / ALLOWED CHANGES / END STATE — ABSOLUTE
 ==================================================
 
 START STATE:
-- Nari is outside Unit 2407 in the corridor carrying exactly ONE current moving box in a physically secure hold
+- Nari is outside Unit 2407 in the corridor carrying exactly ONE current moving box in a physically secure torso/forearm hold
 - front door is CLOSED/LATCHED
 - smart lock is at its canonical door location
 - Unit 2407 canonical geometry is unchanged from the attached floor plan/reference views
@@ -42,10 +42,10 @@ START STATE:
 - exactly TWO burgundy dining chairs exist
 
 ALLOWED CHANGES ONLY:
-- Nari physically operates the actual smart lock while still outside
+- Nari physically operates the actual smart lock while still outside and while SAME box remains supported against her torso/hip by one forearm/body
 - smart lock acknowledges with `BEEP`
 - latch/lock releases
-- Nari physically opens the SAME front door
+- Nari physically opens the SAME front door using the free hand while the SAME box stays continuously supported by torso/hip + supporting forearm
 - Nari crosses the threshold carrying the SAME moving box
 - she walks into the open-plan area and sets the SAME carried box down once
 - ordinary smart-home elements may activate as scripted
@@ -60,29 +60,31 @@ END STATE:
 Anything not listed above stays unchanged.
 
 ==================================================
-SMART-LOCK / DOOR ACTION-PROOF — NON-NEGOTIABLE
+SMART-LOCK / DOOR / BOX SUPPORT ACTION-PROOF — NON-NEGOTIABLE
 ==================================================
 
-V02→V03 must show a real entry mechanism:
-1. Nari remains outside with SAME box supported securely
-2. one hand/finger can physically reach the actual smart-lock control while the box remains plausibly supported by her other arm/body or briefly braced securely
-3. hand/finger contacts/operates the smart lock
-4. `BEEP` occurs at the smart lock
-5. lock/latch releases
-6. Nari's hand reaches real door handle/edge as needed
-7. SAME door physically swings open on its canonical hinge
-8. only after an opening exists does Nari cross the threshold
-9. `CLICK` belongs to the actual lock/door mechanism during this entry sequence
+V02→V03 must show one physically continuous entry mechanism:
+1. Nari remains outside with SAME box
+2. SAME box stays above the corridor floor, supported against Nari's torso/hip by one forearm/body; it is NOT placed on floor, entry shelf, wall ledge, or doorway
+3. the other/free hand/finger reaches the actual smart-lock control
+4. hand/finger contacts/operates the smart lock
+5. `BEEP` occurs at the smart lock
+6. lock/latch releases
+7. SAME free hand reaches the real door handle/edge as needed
+8. SAME door physically swings open on its canonical hinge
+9. throughout lock→door opening the SAME box remains continuously supported by torso/hip + supporting forearm; it does not float or change hands invisibly
+10. only after an opening exists does Nari cross the threshold
+11. `CLICK` belongs to the actual lock/door mechanism during this entry sequence
 
 Do not show a closed door in one slice and Nari magically inside in the next. Do not crop away every contact point and rely only on `BEEP`/`CLICK`.
 
-If holding the box makes one-handed lock operation impossible in a chosen pose, recompose her box support/stance; do not give her an extra hand and do not teleport the box.
+The box may touch the story-world floor for the FIRST TIME only at the scripted V04 interior placement. If the chosen pose cannot support one-hand lock/door operation while holding the box, recompose her stance/box size; do not invent a temporary surface, extra hand, or offscreen box reset.
 
 ==================================================
 MICRO-CONTINUITY / CHARACTER-ENVIRONMENT CONTACT — ABSOLUTE
 ==================================================
 
-Track Nari's SAME carried box through corridor → smart-lock operation → door opening → threshold → interior → floor placement. It may be temporarily occluded by framing, but it cannot vanish, duplicate, change size, or already appear on the floor before she puts it down.
+Track Nari's SAME carried box through corridor → smart-lock operation → door opening → threshold → interior → floor placement. It may be temporarily occluded by framing, but it cannot vanish, duplicate, change size, touch the corridor floor/shelf, or already appear on the interior floor before she puts it down in V04.
 
 Show believable feet/support and door clearance during threshold crossing. Nari cannot clip through the door, wall, entry shelf, furniture, or box. Her eyeline to the speaker in V07 must point toward the speaker's actual canonical kitchen-counter location.
 
@@ -157,7 +159,7 @@ NARRATION:
 SMALL BLACK GUTTER.
 
 V02 — CORRIDOR / SMART LOCK
-Nari outside Unit 2407 with SAME carried box. Show a physically plausible hand/finger operating the actual smart lock while the box remains securely supported.
+Nari outside Unit 2407 with SAME carried box continuously supported against torso/hip by one forearm. Show her other/free hand/finger operating the actual smart lock. The box does not touch floor/shelf/wall.
 NARRATION:
 `IN SEOUL, CHEAP RENT ALWAYS HIDES A CATCH.`
 SFX at smart lock:
@@ -166,14 +168,14 @@ SFX at smart lock:
 SMALL BLACK GUTTER.
 
 V03 — DOOR OPEN / THRESHOLD CROSSING
-Show lock release → SAME front door physically opening → Nari crossing through the real opening with SAME box. No teleport directly to living room.
+Show lock release → SAME front door physically opening with the free hand → Nari crossing through the real opening while SAME box stays continuously torso/forearm-supported. No teleport directly to living room.
 SFX at lock/door mechanism:
 `CLICK`
 
 SMALL BLACK GUTTER.
 
-V04 — BOX DOWN / APARTMENT REVEAL
-Nari reaches the open-plan area and sets the SAME box down before the large apartment reveal.
+V04 — FIRST BOX FLOOR CONTACT / APARTMENT REVEAL
+Nari reaches the open-plan area and sets the SAME box down. This is the FIRST permitted floor contact for that box in the strip.
 SFX at box/floor:
 `THUD`
 NARRATION:
@@ -248,8 +250,9 @@ AUTOMATIC REJECT IF
 - `WELCOME HOME...` is printed on speaker body
 - smart-lock contact/release/door-opening mechanism is skipped or completely cropped away
 - Nari teleports across threshold or passes through a closed door
-- box duplicates, vanishes, changes size, or reaches floor before the placement action
-- Nari gains impossible extra hands while operating lock/holding box
+- box duplicates, vanishes, changes size, touches corridor floor/shelf/wall, or reaches interior floor before V04 placement
+- box floats without torso/forearm support during lock/door action
+- Nari gains impossible extra hands or invisibly swaps box/free-hand roles
 - Nari/box clips through door/wall/furniture
 - narration uses one generic repeated box or repetitive top-left tag without regard to beat function
 - distinct slices touch with no small black divider
