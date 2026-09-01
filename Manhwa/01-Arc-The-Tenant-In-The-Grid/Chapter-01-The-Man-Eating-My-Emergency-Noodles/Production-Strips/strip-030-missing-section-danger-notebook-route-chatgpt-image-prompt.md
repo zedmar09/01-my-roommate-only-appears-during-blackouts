@@ -7,12 +7,12 @@ PRODUCTION SCOPE
 V138–V142. Historical P18 mapping only.
 
 ATTACH — REQUIRED
-- Nari canonical
-- Unit 2407 floor plan
-- Unit 2407 desk-zone detail
-- Unit 2407 living→kitchen wide
-- Unit 2407 lighting-states canonical
-- smart-speaker canonical states
+- `Character-References/nari-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
+- `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
 - APPROVED Strip 029
 - this Strip 030 prompt
 
@@ -87,11 +87,11 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Unit 2407 floor plan
-3. Unit 2407 desk-zone detail
-4. Unit 2407 living→kitchen wide
-5. Unit 2407 lighting-states canonical
-6. smart-speaker canonical states
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+3. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+4. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+5. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
+6. `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
 7. APPROVED Strip 029
 8. this Strip 030 prompt
