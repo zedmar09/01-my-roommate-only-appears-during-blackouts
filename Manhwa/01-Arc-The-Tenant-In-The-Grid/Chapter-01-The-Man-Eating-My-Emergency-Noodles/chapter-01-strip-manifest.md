@@ -39,9 +39,15 @@ Strip IDs are production-only. The final reader sees one continuous chapter.
 
 ## Reference Authority
 
-For every strip use: script > character canonical > environment canonical > core-object canonical > previous approved strip temporary state.
+For every strip use: script > character canonical > environment canonical > object canonical > previous approved strip temporary state.
 
 Environment/object canonical PNGs become mandatory only after they are generated and approved. Until then, never substitute a rejected or improvised reference. Existing approved strips are not automatically invalidated by creation of the pack.
+
+## Reuse Rule — Absolute
+
+The references below belong to the LOCATION or OBJECT, not to Chapter 1.
+
+When Unit 2407, the building shared areas, the same smart speaker, the same TV, or the same refrigerator return in Chapter 2 or any later chapter, reuse these exact approved canonicals. Do not create chapter-numbered duplicate references.
 
 ## Canonical Reference Shorthand
 
@@ -60,18 +66,19 @@ Building shared areas:
 - `B-ENTRY` = `rainy-building-entrance-canonical.png`
 - `B-LOBBY` = `building-lobby-elevator-canonical.png`
 
-Core objects:
+Reusable objects:
 - `O-SPK` = `smart-speaker-canonical-states.png`
 - `O-TV` = `tv-canonical-states.png`
 - `O-FRIDGE` = `refrigerator-canonical-states.png`
 
-All Unit references live in `../../../Environment-References/Chapter-01-Unit-2407/`.
-Building references live in `../../../Environment-References/Chapter-01-Building-Shared-Areas/`.
-Object references live in `../../../Object-References/Chapter-01-Core-Objects/`.
+When working from `Production-Strips/`:
+- Unit references live in `../../../Environment-References/Unit-2407/`
+- building references live in `../../../Environment-References/Building-Shared-Areas/`
+- object references live in `../../../Object-References/`
 
 ## Strip-by-Strip Environment / Object Attachment Map
 
-| Strip | Environment canonical(s) | Core object canonical(s) |
+| Strip | Environment canonical(s) | Object canonical(s) |
 |---:|---|---|
 | 001 | U-FP, U-ENTRY, U-L2K | O-SPK |
 | 002 | U-FP, U-ENTRY, U-L2K, U-HALL | — |
