@@ -4,7 +4,7 @@ Strip IDs are production-only. The final reader sees one continuous chapter.
 
 ## Audit Status
 
-**Fresh `manhwa-2d-production-auditor` re-audit confirms the 32-strip story/script/dialogue/SFX/movement/object/power/seam design remains coherent. Approved Chapter 1 character, environment, and object WebP authorities are present. The active pre-strip blocker is exact Markdown reference migration: every strip must point to the real current `.webp` path/basename instead of obsolete PNG or shorthand-only names. Rendered Strip 001–032 artwork remains ungenerated, so final visual/stitch gates are still pending.**
+**Fresh `manhwa-2d-production-auditor` post-repair re-audit: PASS at the pre-strip reference/prompt level. All 32 strip prompts now point to the exact approved character/environment/object WebP authorities required by their story beats. Story/script/dialogue/SFX source logic, real-life movement, object routes, planned spatial continuity, power logic, and strip-to-strip state handoffs remain coherent. Rendered Strip 001–032 artwork is still pending, so actual visual identity/style/lettering/dead-space/seam/stitch gates have not yet been executed.**
 
 ## Strip Map
 
@@ -92,7 +92,7 @@ Objects:
 
 ## Required-Asset Gate — Absolute
 
-The shorthand above maps to **current approved WebP authorities**. Individual strip prompts must still repeat the exact full WebP paths rather than relying on shorthand alone.
+The shorthand above maps to **current approved WebP authorities**. Individual strip prompts repeat the exact full WebP paths rather than relying on shorthand alone.
 
 If any required WebP is missing, stale, wrong-path, or later rejected, stop before strip generation. Do not substitute its Markdown prompt or improvise a replacement.
 
@@ -128,14 +128,6 @@ If any required WebP is missing, stale, wrong-path, or later rejected, stop befo
 
 Every individual strip file repeats its exact visual attachment list. `U-ATLAS` is additionally required only when an intended camera angle is not sufficiently covered by the listed primary environment views.
 
-## Black Read-Slice Rule
-
-Every distinct vertical slice: small black gutter.
-Two distinct shots sharing a row: diagonal/slanted black divider.
-Time/location cut: stronger but compact black separator.
-A/E technical file seam with continuing art/effect: NO visible black technical bar.
-Never use black spacing as purposeless filler.
-
 ## Critical Continuity Seams
 
 - 012→013 same lobby route; no external black seam
@@ -152,16 +144,12 @@ Never use black spacing as purposeless filler.
 - 028→029 knife route to desk sheath
 - 031→032 same unplugged TV activation
 
-## Strict Flat 2D Human-Drawn Rule — Absolute
+## Strict Flat 2D / No-Dead-Space Rule
 
-All rendered strip pixels must comply with `Manhwa/style-guide.md`. Flat human-drawn appearance outranks prior-strip style drift. Prompt wording alone does not pass this visual gate.
-
-## No-Dead-Space Rule
-
-Small black gutters are deliberate slice grammar. Huge unused black/white/neutral areas are failures. Never invent filler text/SFX.
+All rendered strip pixels must comply with `Manhwa/style-guide.md`. Flat human-drawn appearance outranks prior-strip style drift. Small black gutters are deliberate slice grammar; huge unused black/white/neutral areas are failures. Never invent filler text/SFX.
 
 ## Completion Rule
 
-This manifest validates planned coverage and dependencies. It cannot by itself prove visual production complete. Final approval requires every current strip prompt to resolve to the exact approved WebPs, rendered Strip 001–032 artwork, sequential visual QA, stitch/seam QA, and a fresh clean-room final audit.
+**Pre-strip reference gate: PASS.** Chapter 1 may proceed with sequential Strip 001 production.
 
-Current pre-strip blocker: **exact WebP path migration in active Markdown**. After that passes, Chapter 1 is ready for sequential Strip 001 generation, but not `PRODUCTION COMPLETE`.
+This manifest cannot prove visual production complete. Final approval still requires rendered Strip 001–032 artwork, sequential visual QA/re-audit, stitch/seam QA, and a fresh clean-room final audit.
