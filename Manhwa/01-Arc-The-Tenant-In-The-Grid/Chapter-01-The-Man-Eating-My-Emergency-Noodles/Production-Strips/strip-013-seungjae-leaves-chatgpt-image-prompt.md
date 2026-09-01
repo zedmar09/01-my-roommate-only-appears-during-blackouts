@@ -30,17 +30,19 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 START:
 - same inward lobby movement from Strip 012
 - glass entrance behind; elevator ahead
-- Seungjae SAME phone = dead and POCKETED/STOWED on his person
+- Seungjae SAME phone = dead and in SAME established clothing pocket from Strip 012
 - Seungjae holds SAME folded umbrella in ONE hand
-- his other hand is FREE
-- smartwatch remains worn on same wrist; earbuds remain same pair and are not handheld at first instant
+- other hand is FREE
+- smartwatch remains worn on same wrist
+- SAME wireless earbud pair is physically worn: ONE earbud in each ear at first instant; no case is introduced
 - Nari carries exactly ONE shoulder bag; same tablet fully inside, inactive at start
 - neither has turned toward exit
 
 ALLOWED CHANGES:
-- V60 Seungjae uses FREE hand sequentially to check smartwatch ON wrist, then checks SAME earbuds; phone stays pocketed and umbrella remains in other hand
+- V60 Seungjae uses FREE hand to check smartwatch ON wrist
+- after watch check, same free hand removes ONE specific earbud from ONE established ear, checks that SAME earbud, then reinserts SAME earbud into SAME ear
+- other earbud stays in opposite ear throughout; no second pair/case
 - watch/earbuds fail here
-- after device check, earbuds remain SAME pair secured/worn/held in a physically plausible single state; no duplication
 - both reach same elevator bank
 - tablet wakes while physically remaining inside Nari's same bag
 - Nari parts/angles actual bag opening for private glance; tablet never leaves bag
@@ -51,27 +53,32 @@ ALLOWED CHANGES:
 END:
 - Nari = entering elevator alone, same bag carried, tablet still inside
 - Seungjae = still inside lobby, now turned toward entrance, not outside
-- phone = same dead phone still pocketed
+- phone = same dead phone still in SAME established pocket
 - watch = failed, same wrist
-- earbuds = failed, same pair, physically accounted for
+- earbuds = failed, SAME pair worn again one in each ear
 - umbrella = same folded umbrella in same carrying hand
+- other hand = free
 - lobby geometry unchanged
 
 ==================================================
 SEUNGJAE SEQUENTIAL HAND / DEVICE CHAIN — ABSOLUTE
 ==================================================
 
-No extra hands and no simultaneous multi-device display.
+No extra hands, no invented earbud case, no simultaneous multi-device display.
 
 V60 exact logic:
 1. one hand keeps SAME folded umbrella
-2. SAME dead phone stays pocketed; it does NOT reappear in hand
-3. other/free hand reaches smartwatch that remains worn on wrist
-4. he taps/checks SAME smartwatch; failure becomes readable
-5. free hand leaves watch
-6. only then the same free hand checks ONE of the SAME pair of earbuds / earbud case according to canonical prop design
-7. SAME pair remains one pair; no second pair appears
-8. umbrella hand never also holds earbuds/watch/phone
+2. SAME dead phone stays in SAME established pocket; it does NOT reappear in hand
+3. SAME two earbuds begin worn, one in each ear
+4. other/free hand reaches smartwatch that remains worn on wrist
+5. he taps/checks SAME smartwatch; failure becomes readable
+6. free hand leaves watch
+7. only then free hand reaches ONE specific earbud in ONE ear
+8. fingers remove that SAME earbud; opposite earbud remains in opposite ear
+9. he checks the removed earbud; no case/second pair appears
+10. free hand returns SAME earbud to SAME ear and releases it
+11. both earbuds are worn again; free hand becomes free
+12. umbrella hand never also holds earbud/watch/phone
 
 Do not show phone + umbrella + earbuds + watch all as separate handheld props simultaneously.
 
@@ -79,7 +86,7 @@ Do not show phone + umbrella + earbuds + watch all as separate handheld props si
 BAG / TABLET / HAND MICRO-CONTINUITY — ABSOLUTE
 ==================================================
 
-The bag is a physical continuity anchor:
+The bag is physical continuity anchor:
 - same strap/shoulder/side
 - same bag stays carried, never floor/duplicate
 - tablet remains physically nested inside bag
@@ -96,14 +103,13 @@ LOBBY BODY / ORIENTATION MICRO-CONTINUITY — ABSOLUTE
 
 Both continue toward elevator until V64. Seungjae cannot face exit in earlier slices. Nari cannot stand inside elevator before it arrives/opens.
 Feet/stance must match lobby floor/elevator threshold.
-
 Reverse camera shots may flip screen direction but physical axis remains entrance behind / elevator ahead until V64.
 
 ==================================================
 TEXT / NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-No narration is scripted; do not invent any.
+No narration scripted; do not invent any.
 - human lines = speech balloons
 - `HE SHOULD GO.` / `ONLY FOR A MINUTE.` = tablet screen only, clean helpful cyan-white
 - `BIP` = watch/earbud-device SFX at physical source
@@ -118,8 +124,9 @@ Continue directly from Strip 012 with NO location reset:
 - SAME inward walking direction
 - entrance BEHIND
 - elevator AHEAD/deeper inside
-- phone already dead/pocketed
+- phone already dead in SAME pocket
 - one folded umbrella in hand
+- earbuds worn one per ear
 - other hand free
 - Nari one bag/tablet inside
 - neither turned toward exit
@@ -135,8 +142,8 @@ Use SMALL BLACK GUTTER between every distinct vertical beat. If two different vi
 VERTICAL STORY FLOW
 ==================================================
 
-V60 — WATCH THEN EARBUDS FAIL
-Using only his free hand, Seungjae first checks smartwatch ON wrist, then separately checks SAME earbuds. Phone remains pocketed; umbrella remains in other hand.
+V60 — WATCH THEN ONE-EARBUD CHECK
+Using only free hand, Seungjae first checks smartwatch ON wrist, then removes/checks/reinserts ONE specific earbud while opposite earbud remains worn. Phone remains in SAME pocket; umbrella remains in other hand.
 SFX:
 `BIP`
 SEUNGJAE:
@@ -145,6 +152,7 @@ SEUNGJAE:
 SMALL BLACK GUTTER.
 
 V61 — CONFUSION
+Both earbuds are worn again; free hand is free.
 SEUNGJAE:
 `WHY IS EVERYTHING DYING AT ONCE?`
 
@@ -158,7 +166,7 @@ TABLET SCREEN:
 SMALL BLACK GUTTER.
 
 V63 — PRIVATE EXCHANGE
-Nari angles SAME bag toward herself; tablet remains fully inside. Seungjae stays occupied with failed devices without gaining extra hands.
+Nari angles SAME bag toward herself; tablet remains fully inside. Seungjae remains nearby with dead phone pocketed, folded umbrella in hand, failed earbuds worn.
 NARI:
 `YOU DID THAT?`
 TABLET SCREEN:
@@ -196,8 +204,12 @@ AUTOMATIC REJECT IF
 - tablet text becomes speech/narration/hologram
 - Seungjae reads tablet clearly
 - Seungjae reads older than 30/Nari
-- dead phone returns to hand without visible pickup from pocket
-- phone/watch/earbuds/umbrella require extra hands or duplicate
+- dead phone returns to hand without visible pickup from same pocket
+- phone changes pocket or duplicates
+- earbud case appears despite not being established
+- both earbuds leave ears simultaneously or second pair appears
+- checked earbud returns to wrong ear or vanishes
+- phone/watch/earbuds/umbrella require extra hands
 - watch moves to different wrist without action
 - umbrella changes hands without visible transfer
 - dialogue ownership swaps
