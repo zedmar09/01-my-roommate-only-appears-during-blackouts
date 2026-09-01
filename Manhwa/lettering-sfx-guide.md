@@ -6,6 +6,28 @@ Use clean mobile-readable speech balloons with enough padding. Keep tails unambi
 
 Preserve approved source wording, speaker/source, order, punctuation, capitalization, and text type.
 
+### Balloon / Tail Evidence Safety — Absolute
+
+Speech balloons, tails, thought shapes, device text, narration, and SFX are reader-facing overlays but they may never hide the physical evidence required to understand continuity.
+
+Do not cover or visually sever:
+- hand→object contact
+- plug body / wall socket / loose plug proof
+- key pickup or placement
+- knife/sheath contact, fall path, or impact point
+- chair/body contact during sit/stand
+- cabinet handle/hinge action
+- candle reach/blow/flame state
+- food/noodle/chopstick path
+- packet pickup/foot contact
+- phone/notebook pickup or placement
+- important device display text
+- required environment landmarks or walking-route anchors
+
+Balloon tails must terminate clearly at the actual speaker and must not cross another character in a way that makes ownership ambiguous.
+
+If lettering conflicts with action proof, recompose/reflow lettering or art. Never hide the mechanism and never move the physical action to satisfy the text layout.
+
 ## Narration / Time Captions — Scenario-Driven, Not One Template
 
 Narration wording is locked, but the **visual treatment must respond to the actual scenario, event function, pacing, and emotional pressure**. Do not reuse one identical narration box shape/style for every narration line in the chapter.
@@ -47,6 +69,27 @@ Never put device messages in ordinary speech balloons, narration boxes, hologram
 Physical notes/manual annotations/notebooks use lettering physically on the paper object. Repeated appearances of the same note/notebook must retain wrapping, handwriting scale, placement, paper design, and prior written content.
 
 A camera close-up does not create a new paper or reset handwriting.
+
+## Same-Object Close-Up / Insert Rule — Absolute
+
+A close-up, inset, magnified detail, phone-screen insert, manual-page detail, plug/socket detail, or object reaction insert does **not** create a second physical copy of the object.
+
+When a wide and a close-up show the same continuity-critical object:
+- explicitly treat both views as the SAME physical object
+- preserve the same moment/state unless the divider represents a scripted time/action advance
+- do not leave the object simultaneously in two incompatible physical states in the surrounding world
+- if the close-up is a same-moment magnification, frame it clearly as a representational detail of that same object rather than a second object lying elsewhere
+- if the close-up is a later action slice, the world state must advance exactly once and the earlier state must no longer remain physically true
+
+Examples:
+- key close-up in hand does not mean another key remains in tray
+- plug/socket detail does not create a second plug or second outlet
+- knife fall detail does not leave another knife in Nari's hand
+- phone-screen insert is the screen of the same phone Nari holds/placed
+- binder-page close-up is the same open binder on the same inspection surface
+- notebook handwriting insert is the same notebook on the table
+
+If a composition would visually read as duplicate physical objects, recompose it.
 
 ## SFX Physical-Logic Gate — Absolute
 
