@@ -4,7 +4,9 @@ Strip IDs are production-only. The final reader sees one continuous chapter.
 
 ## Audit Status
 
-**Full real-scenario continuity re-audit completed. All 32 production prompts explicitly contain their own character/environment/object/previous-strip attachment lists and the black read-slice divider rule. Reusable Unit 2407 manual + brass backup key canonicals are now part of the object system.**
+**Fresh `manhwa-2d-production-auditor` prompt-level re-audit completed across all 32 strips. Story/script/dialogue/SFX source logic, real-life movement, object routes, planned spatial continuity, power logic, and strip-to-strip state handoffs pass at the prompt level after the global strict-style/readiness repairs. Visual production is NOT complete: the required reusable environment/object canonical PNGs and rendered Strip 001–032 artwork are not currently present, so actual visual identity/geometry/style/lettering/dead-space/seam gates remain blocked.**
+
+The old blanket `FINAL PASS / PRODUCTION READY` claim is superseded. See `chapter-01-generation-checklist.md` and `chapter-01-real-scenario-continuity-audit.md` for the current gate result.
 
 | Strip | Read beats | Historical map | Main purpose | Seam OUT |
 |---:|---|---|---|---|
@@ -43,7 +45,9 @@ Strip IDs are production-only. The final reader sees one continuous chapter.
 
 ## Reference Authority
 
-For every strip: script > character canonical > environment canonical > object canonical > previous approved strip temporary state.
+For every strip: current user instruction > script/current strip > approved character canonical > approved environment canonical > approved object canonical > previous approved strip temporary state.
+
+The binding global visual/lettering/seam rules under `Manhwa/` always apply. A strip may be stricter but may never loosen them.
 
 ## Reuse Rule — Absolute
 
@@ -72,6 +76,10 @@ Objects:
 - `O-FRIDGE` = `refrigerator-canonical-states.png`
 - `O-MANUAL` = `electrical-operation-guide-canonical.png`
 - `O-KEY` = `brass-backup-key-canonical.png`
+
+## Required-Asset Gate — BLOCKING
+
+The shorthand above names **required approved PNG authorities**, not merely intended future files. If a listed PNG required by the current strip is absent/stale/unapproved, stop before strip generation. Do not substitute its Markdown reference prompt and do not improvise a replacement.
 
 ## Strip Attachment Audit Map
 
@@ -103,7 +111,7 @@ Objects:
 | 031 | U-FP,U-L2K,U-K2L,U-DESK,U-LIGHT | O-TV |
 | 032 | U-FP,U-L2K,U-K2L,U-LIGHT | O-TV |
 
-Every individual strip file repeats its exact attachment list. U-ATLAS is additionally required when an intended camera angle is not sufficiently covered by the listed primary environment views.
+Every individual strip file repeats its exact visual attachment list. U-ATLAS is additionally required when an intended camera angle is not sufficiently covered by the listed primary environment views.
 
 ## Black Read-Slice Rule
 
@@ -122,12 +130,21 @@ Never use black spacing as purposeless filler.
 - 019→020→021 Nari closer position + chair state + fridge geometry
 - 020→021 chair rise→walk, no teleport
 - 021→022→023 hostile fridge/candle/action chain
+- 023→024 preserve post-candle-reach geometry and wrist/knife state
 - 024→025 city returns before Unit 2407
 - 025→026 powered baseline begins
 - 027→028 cabinet source/approach
 - 028→029 knife route to desk sheath
 - 031→032 same unplugged TV activation
 
+## Strict Flat 2D Human-Drawn Rule — Absolute
+
+All rendered strip pixels must comply with `Manhwa/style-guide.md`. Flat human-drawn appearance outranks prior-strip style drift. Prompt wording alone does not pass this visual gate.
+
 ## No-Dead-Space Rule
 
 Small black gutters are deliberate slice grammar. Huge unused black/white/neutral areas are failures. Never invent filler text/SFX.
+
+## Completion Rule
+
+This manifest can validate planned strip coverage and dependencies. It cannot by itself prove visual production complete. Final approval requires actual approved canonical PNGs, rendered Strip 001–032 artwork, stitch/seam QA, and a fresh clean-room visual audit.
