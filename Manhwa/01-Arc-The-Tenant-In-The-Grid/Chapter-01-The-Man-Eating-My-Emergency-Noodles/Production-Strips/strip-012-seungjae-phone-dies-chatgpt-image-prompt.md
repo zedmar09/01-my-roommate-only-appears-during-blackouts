@@ -15,6 +15,63 @@ ATTACH — REQUIRED
 - this Strip 012 prompt
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached character/building WebPs are binding. Preserve exact Nari/Seungjae identities, their age presentation, entrance canopy/glass-door/lobby/elevator geometry, material palette, and direction of travel.
+Never render V55–V59, P8, Strip 012, beat/panel/scene labels, or any production metadata anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- legal two-days-later / after-work cut to rainy building entrance
+- Nari carries exactly ONE shoulder bag; SAME stickered tablet is fully inside and inactive
+- Seungjae has exactly ONE umbrella, ONE phone, ONE smartwatch worn on wrist, ONE pair earbuds
+- both face toward same glass entrance under canopy
+
+ALLOWED CHANGES:
+- warm coworker conversation
+- both walk toward/cross SAME glass doors once
+- Seungjae folds SAME umbrella only after crossing indoors
+- both continue deeper toward elevator bank
+- Seungjae checks SAME phone and it dies at V59
+- watch/earbuds remain untested/unchanged until Strip 013
+
+END:
+- entrance/glass doors = behind them
+- elevator = ahead/deeper inside
+- Seungjae phone = dead; watch/earbuds still present
+- umbrella = same folded umbrella
+- Nari = same one bag; tablet still inside/asleep
+- both still walking inward; Seungjae has NOT turned toward exit
+
+==================================================
+BAG / TABLET / DEVICE / UMBRELLA MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+Nari's one bag stays attached/carried through every slice. Do not duplicate it on shoulder and background/floor. Tablet does not appear loose, in hand, or glowing through an opaque closed surface.
+
+Seungjae item count stays exact in every camera angle. If phone moves pocket/hand, show or imply a physically plausible pickup; do not spawn a second phone for close-ups. Smartwatch remains on same wrist. Earbuds remain the same pair. Umbrella stays one physical object from open/held outside → folded after entry.
+
+==================================================
+BUILDING MOVEMENT / BODY REALITY — ABSOLUTE
+==================================================
+
+Route is one real sequence:
+canopy exterior → approach glass doors → cross threshold → doors/exterior behind → lobby deeper → elevator ahead.
+
+Feet/body must align to walking direction. Do not reverse entrance/elevator axis because of camera reversal. A reverse shot may flip screen direction but cannot change physical geography.
+
+==================================================
+NARRATION DESIGN BY SITUATION — ABSOLUTE
+==================================================
+
+`TWO DAYS LATER — AFTER WORK` is a warm ordinary-life time/location caption. Use a compact contemporary transition design softer/more social than blackout/investigation captions. Do not make it ominous or glitchy before device failure.
+V56–V59 need no invented narration; let dialogue/action carry the tonal shift.
+
+==================================================
 NARI SINGLE-BAG / TABLET START LOCK — ABSOLUTE
 ==================================================
 
@@ -102,12 +159,17 @@ SEAM OUT — ART CONTINUATION A
 Strip 013 starts from SAME inward movement/wardrobe/item states. Do not insert a black bar at this technical seam.
 
 AUTOMATIC REJECT IF
-- Nari has more than one bag
-- tablet is outside bag or already displays message
-- Seungjae reads substantially older than Nari or older than 30
-- Seungjae has duplicated electronics
+- any V/P/strip/beat/panel/scene production label appears
+- attached character/building references are redesigned
+- Nari has more than one bag or tablet appears outside bag
+- tablet already displays message
+- Seungjae reads older than Nari/older than 30
+- Seungjae devices or umbrella duplicate/disappear between slices
+- umbrella is folded before crossing indoors or changes object identity
+- phone dies before V59 or watch/earbuds fail early
 - he turns toward exit early
 - lobby entrance/elevator axis flips
+- time caption is styled like technical metadata or hostile UI
 - side-by-side separate shots lack slanted black divider
 - giant dead bottom appears
 ```
