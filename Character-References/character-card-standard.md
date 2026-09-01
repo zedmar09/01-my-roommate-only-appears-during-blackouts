@@ -4,9 +4,20 @@ This is the reusable visual-reference standard for every recurring human charact
 
 ## Purpose
 
-A canonical character reference is no longer a single portrait. It must be a **multi-view character card / model sheet** detailed enough to preserve identity across different camera angles, emotions, poses, and full-body compositions throughout the Manhwa.
+A canonical character reference is a **multi-view character card / model sheet** detailed enough to preserve identity across different camera angles, emotions, poses, and full-body compositions throughout the Manhwa.
 
-Once a card is generated and approved, reuse that SAME canonical PNG across every later chapter in which the same character appears. Do not make chapter-specific character references.
+Once a card is generated, visually approved, manually converted, and committed, reuse that SAME canonical WebP across every later chapter in which the same character appears. Do not make chapter-specific character references.
+
+## Generation / Repository Format Rule
+
+The image-generation prompt may request PNG as the first local output because that is the normal generation workflow. PNG is an intermediate generation/QA artifact.
+
+After approval:
+- manually convert the approved PNG to WebP
+- commit/store only the canonical `.webp` file in GitHub
+- production Markdown and strip attachment lists must reference the exact stored `.webp` filename
+
+A deleted/intermediate PNG must never be treated as the repository's active production authority.
 
 ## Absolute Visual Style
 
@@ -46,7 +57,7 @@ Show larger head-and-shoulder references:
 Include at least 6–8 expressions appropriate to the character. Expressions may change, but face shape, eye shape, nose, lips, age, beauty marks, hairstyle, glasses/mask, and other identity features must not.
 
 ### 4. Signature Prop / Detail Area
-Include only story-relevant recurring details such as glasses, mask, tattoos, phone, tablet, bag, watch, key ring, or other signature objects. Do not duplicate props or invent brands/logos.
+Include only story-relevant recurring details such as glasses, mask, tattoos, phone, tablet, bag, watch, or other signature objects. Plot-critical reusable objects that have their own canonical under `Manhwa/Object-References/` should remain separate unless a character prompt explicitly needs a scale/detail coordination inset.
 
 ### 5. Primary Outfit Authority
 The card must show the full primary outfit clearly enough to reproduce garment lengths, layering, footwear, accessories, and silhouette. Later story outfits may change when scripted, but body/face/hair identity remains canonical.
@@ -75,9 +86,9 @@ The current strip controls temporary pose, expression, action, wardrobe changes,
 
 ## Regeneration Rule
 
-Any character PNG generated under the older single-view standard is provisional after this policy change. Regenerate it using the updated character-card prompt and replace the PNG **in place using the same canonical filename** after approval.
+If a character design changes or an older card no longer satisfies this standard, regenerate it from the current prompt, visually approve it, manually convert the accepted PNG to WebP, and replace the repository WebP authority deliberately.
 
-Nari's previous short-hair PNG is specifically outdated by the new long-hair design and must be regenerated before it is treated as current visual authority.
+Nari's previous short-hair design is specifically obsolete. Her active card uses the current long dark-plum-haired design.
 
 ## Acceptance Gate
 
