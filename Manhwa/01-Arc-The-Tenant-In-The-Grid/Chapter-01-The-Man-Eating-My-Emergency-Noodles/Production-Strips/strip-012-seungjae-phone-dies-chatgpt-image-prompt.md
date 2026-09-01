@@ -28,59 +28,61 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - legal two-days-later / after-work cut to rainy building entrance
-- Nari carries exactly ONE shoulder bag; SAME stickered tablet is fully inside and inactive
-- Seungjae has exactly ONE umbrella, ONE foldable phone, ONE smartwatch worn on wrist, ONE pair earbuds
-- Seungjae visibly holds SAME phone in ONE hand from V55 onward
-- Seungjae visibly holds SAME umbrella in his OTHER hand outside
+- Nari carries exactly ONE shoulder bag; SAME stickered tablet fully inside and inactive
+- Seungjae has exactly ONE ordinary umbrella, ONE foldable phone, ONE smartwatch worn on wrist, ONE pair earbuds
+- SAME phone is physically stowed in ONE established clothing pocket at V55; it is NOT handheld yet
+- SAME umbrella is the only handheld object Seungjae must manage outside
 - both face toward SAME glass entrance under canopy
 
 ALLOWED CHANGES:
 - warm coworker conversation
 - both walk toward/cross SAME glass doors once
-- only after crossing indoors, Seungjae folds SAME umbrella while keeping same phone physically accounted for
+- only after crossing indoors, Seungjae closes/folds SAME umbrella using physically plausible one- or two-hand mechanics while SAME phone remains safely in established pocket
 - both continue deeper toward elevator bank
-- V59 SAME phone in his hand dies
-- after checking dead phone and saying line, Seungjae visibly pockets/stows SAME dead phone before Strip 012 ends
-- folded umbrella remains in his other hand
+- V59 Seungjae uses free hand to reach SAME established phone pocket, retrieve SAME phone, check it, and phone dies
+- after saying line, he visibly returns SAME dead phone to SAME pocket before strip ends
+- folded umbrella remains one physical object in hand afterward
 - watch/earbuds remain untested/unchanged until Strip 013
 
 END:
 - entrance/glass doors = behind them
 - elevator = ahead/deeper inside
-- Seungjae phone = dead and visibly pocketed/stowed on his person
+- Seungjae phone = dead and returned to SAME established pocket
 - smartwatch = same wrist; earbuds = same pair; both not yet checked
 - umbrella = same folded umbrella in one hand
-- Seungjae's other hand = free after phone pocketing for Strip 013 device checks
+- other hand = free after re-pocketing phone for Strip 013 checks
 - Nari = same one bag; tablet still inside/asleep
 - both still walking inward; Seungjae has NOT turned toward exit
 
 ==================================================
-SEUNGJAE HAND / DEVICE / UMBRELLA CHAIN — ABSOLUTE
+SEUNGJAE PHONE / UMBRELLA PROVENANCE — ABSOLUTE
 ==================================================
 
-Do not let Seungjae gain extra hands.
+Do not let Seungjae gain extra hands or spawn phone only at failure moment.
 
-Outside V55–V57:
-- one hand = SAME foldable phone
-- other hand = SAME umbrella
+V55–V58:
+- SAME phone remains in the SAME established clothing pocket
 - smartwatch remains worn, not handheld
-- earbuds remain one pair and are not separately held/checked yet
+- earbuds remain same pair, not checked yet
+- umbrella is the only object that needs hand management outside/at entry
 
-V58 after crossing indoors:
-- he may fold/close SAME umbrella using a physically plausible brief two-hand action ONLY if SAME phone is visibly secured/braced/pocketed momentarily and then returns to hand before V59; OR keep umbrella folding simple enough to preserve phone in one hand
-- no duplicate phone/umbrella
+After crossing indoors:
+- he may use both hands briefly to close/fold SAME umbrella because phone remains pocketed
+- after folding, umbrella settles into one hand; other hand becomes free
 
-V59:
-1. SAME phone is in hand
-2. screen/device dies
-3. Seungjae checks it
-4. speaks `WAIT. MY PHONE JUST DIED.`
-5. he physically places SAME dead phone into a pocket/secure clothing position
-6. hand releases phone
-7. folded umbrella stays in the other hand
-8. phone remains pocketed through 012→013 seam
+V59 exact phone chain:
+1. free hand reaches SAME established pocket
+2. fingers contact/grip SAME foldable phone
+3. phone leaves pocket; pocket is now empty
+4. SAME phone is checked in hand
+5. phone dies
+6. Seungjae says `WAIT. MY PHONE JUST DIED.`
+7. hand returns SAME dead phone to SAME pocket
+8. phone enters pocket
+9. fingers release
+10. phone remains pocketed through 012→013 seam
 
-The phone must not magically disappear from hand at seam and must not reappear in Strip 013 without pickup.
+No second phone. No mysterious handoff between pockets. Do not make umbrella disappear while phone is checked.
 
 ==================================================
 NARI BAG / TABLET MICRO-CONTINUITY — ABSOLUTE
@@ -96,13 +98,13 @@ BUILDING MOVEMENT / BODY REALITY — ABSOLUTE
 Route is one real sequence:
 canopy exterior → approach glass doors → cross threshold → doors/exterior behind → lobby deeper → elevator ahead.
 
-Feet/body must align to walking direction. Do not reverse entrance/elevator axis because of camera reversal. A reverse shot may flip screen direction but cannot change physical geography.
+Feet/body must align walking direction. Do not reverse entrance/elevator axis because of camera reversal. Reverse shot may flip screen direction but cannot change physical geography.
 
 ==================================================
 NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-`TWO DAYS LATER — AFTER WORK` is a warm ordinary-life time/location caption. Use a compact contemporary transition design softer/more social than blackout/investigation captions. Do not make it ominous/glitchy and do not default it to repetitive top-left technical-tag treatment.
+`TWO DAYS LATER — AFTER WORK` is warm ordinary-life time/location caption. Use compact contemporary transition design softer/more social than blackout/investigation captions. Do not make it ominous/glitchy and do not default to repetitive top-left technical-tag treatment.
 V56–V59 need no invented narration; let dialogue/action carry tonal shift.
 
 ==================================================
@@ -121,7 +123,7 @@ No second phone/watch/earbuds/tablet/power bank.
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Use SMALL BLACK GUTTERS between distinct vertical beats. If two different camera views share one row, separate with DIAGONAL / SLANTED BLACK DIVIDER. Keep dividers compact. Do not add a black bar at external 012→013 artwork continuation seam; lobby must stitch continuously.
+Use SMALL BLACK GUTTERS between distinct vertical beats. If two different camera views share one row, separate with DIAGONAL / SLANTED BLACK DIVIDER. Keep dividers compact. Do not add black bar at external 012→013 artwork continuation seam; lobby must stitch continuously.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -130,7 +132,7 @@ VERTICAL STORY FLOW
 V55 — RAINY CANOPY
 NARRATION:
 `TWO DAYS LATER — AFTER WORK`
-Both oriented toward glass entrance. Nari has ONE shoulder bag. Seungjae holds SAME phone in one hand and SAME umbrella in other.
+Both oriented toward glass entrance. Nari has ONE shoulder bag. Seungjae holds SAME umbrella; SAME foldable phone remains in established pocket.
 
 SMALL BLACK GUTTER.
 
@@ -147,27 +149,27 @@ NARI:
 
 SMALL BLACK GUTTER.
 
-V58 — ENTER BUILDING ONCE
-They physically cross inward through SAME glass doors. Rain/exterior behind. Seungjae folds SAME umbrella only after entry; phone stays physically accounted for.
+V58 — ENTER BUILDING ONCE / FOLD UMBRELLA
+They physically cross inward through SAME glass doors. Rain/exterior behind. After crossing, Seungjae closes/folds SAME umbrella with phone still safely pocketed.
 SFX at door closing behind:
 `THUNK`
 
 SMALL BLACK GUTTER.
 
-V59 — PHONE DIES / POCKET HANDOFF
-Same direction toward elevator. Seungjae checks SAME phone already in his hand; it dies.
+V59 — PHONE POCKET→HAND→DEAD→POCKET
+Same direction toward elevator. Seungjae visibly retrieves SAME phone from established pocket, checks it, and it dies.
 SEUNGJAE:
 `WAIT. MY PHONE JUST DIED.`
-After the check, visibly pocket/stow SAME dead phone and free that hand before seam. Watch/earbuds remain untested. Nari tablet remains asleep inside one bag.
+Then visibly return SAME dead phone to SAME pocket. Watch/earbuds remain untested. Nari tablet remains asleep inside one bag.
 
 ==================================================
 NO DEAD BOTTOM — ABSOLUTE
 ==================================================
 
-End while both still walking deeper into canonical lobby. Entrance behind, elevator ahead. Preserve end hand state: folded umbrella in one hand, dead phone pocketed, other hand free. No giant blank tail.
+End while both still walking deeper into canonical lobby. Entrance behind, elevator ahead. Preserve end hand state: folded umbrella in one hand, dead phone in established pocket, other hand free. No giant blank tail.
 
 SEAM OUT — ART CONTINUATION A
-Strip 013 starts from SAME inward movement/wardrobe/item states: phone pocketed/dead, umbrella held/folded, free hand available, watch/earbuds unchanged. No black technical bar.
+Strip 013 starts from SAME inward movement/wardrobe/item states: phone pocketed/dead in same pocket, umbrella held/folded, free hand available, watch/earbuds unchanged. No black technical bar.
 
 AUTOMATIC REJECT IF
 - any production label appears
@@ -175,11 +177,13 @@ AUTOMATIC REJECT IF
 - Nari has more than one bag or tablet appears outside bag
 - tablet already displays message
 - Seungjae reads older than 30/Nari
-- phone appears from nowhere only at V59
+- phone appears from nowhere only at V59 instead of established pocket
+- phone changes pocket or duplicates
 - phone/umbrella/watch/earbuds require impossible extra hands
-- dead phone is not physically pocketed/stowed before seam
+- dead phone is not physically returned to same pocket before seam
 - Seungjae devices/umbrella duplicate/disappear
 - umbrella folded before crossing indoors
+- phone is handheld during umbrella-folding despite prompt requiring it remain pocketed
 - watch/earbuds fail early
 - he turns toward exit early
 - lobby entrance/elevator axis flips
