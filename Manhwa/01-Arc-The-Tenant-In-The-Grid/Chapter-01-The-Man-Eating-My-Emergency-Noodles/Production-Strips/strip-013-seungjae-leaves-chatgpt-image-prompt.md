@@ -9,9 +9,9 @@ PRODUCTION SCOPE
 V60–V64. Historical P8 mapping only; active authority is the Chapter 1 Manhwa plan + this prompt.
 
 ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.png`
-- `Character-References/seungjae-canonical-flat2d.png`
-- `Manhwa/Environment-References/Building-Shared-Areas/building-lobby-elevator-canonical.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Character-References/seungjae-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Building-Shared-Areas/building-lobby-elevator-reference.webp`
 - APPROVED Strip 012
 - this Strip 013 prompt
 
@@ -51,9 +51,10 @@ Seungjae must not clearly read the tablet.
 Use clean stable cyan-white helpful styling only.
 
 ==================================================
-SEUNGJAE DEVICE COUNT — ABSOLUTE
+SEUNGJAE DEVICE / AGE LOCK — ABSOLUTE
 ==================================================
 
+Seungjae is exactly 30, the same age as Nari, and must remain a same-generation adult coworker visually.
 Exactly:
 - ONE dead phone
 - ONE smartwatch on wrist
@@ -138,6 +139,7 @@ AUTOMATIC REJECT IF
 - tablet is shown through an impossible closed/opaque bag without the established opening
 - tablet text becomes speech bubble
 - Seungjae reads tablet clearly
+- Seungjae reads substantially older than Nari or older than 30
 - duplicated devices appear
 - dialogue ownership swaps
 - Seungjae leaves before V64
@@ -147,9 +149,9 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Seungjae canonical
-3. building-lobby-elevator canonical
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Character-References/seungjae-canonical-flat2d.webp`
+3. `Manhwa/Environment-References/Building-Shared-Areas/building-lobby-elevator-reference.webp`
 4. APPROVED Strip 012
 5. this Strip 013 prompt
 
