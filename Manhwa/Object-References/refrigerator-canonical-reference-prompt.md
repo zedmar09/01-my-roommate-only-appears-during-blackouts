@@ -36,4 +36,7 @@ IMPORTANT:
 - reuse this exact refrigerator reference in every later chapter where the same Unit 2407 refrigerator returns
 - no reflection, face/silhouette, room glow, full-door screen, photoreal/3D/gloss
 
-Save as `refrigerator-canonical-states.png`.
+Save local generation result as `refrigerator-canonical-states.png`.
+
+After visual approval, manually convert and store/use this repository authority:
+`refrigerator-canonical-reference.webp`
