@@ -24,16 +24,17 @@ Use `unit-2407-room-angle-atlas-reference.webp` additionally only if entry→kit
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 027 controls temporary phone/orientation/closed-cabinet state and canon-compatible speaker-outlet micro-detail only; correct permanent drift to canon rather than propagating it.
-Preserve exact Nari identity, entry→kitchen route, lower cabinet/hinge, stockpot/lid/two-towel topology, speaker body/cord/plug, separate knife/outer-packet floor spots, desk/sheath location, and powered geometry.
-Never render V128–V132, P17, Strip 028, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+Attached canonical WebPs are permanent authority. APPROVED Strip 027 controls temporary PHONE HAND/orientation/closed-cabinet/worn state and canon-compatible speaker-outlet micro-detail only; correct permanent drift to canon rather than propagating it.
+Preserve exact Nari identity, SAME PHONE HAND at strip start, SAME SCRUNCHIE WRIST, SAME headphones around neck, entry→kitchen route, lower cabinet/hinge, stockpot/lid/two-towel topology, speaker body/cord/plug, separate knife/outer-packet floor spots, desk/sheath location, and powered geometry.
+Never render V128–V132, P17, Strip 028, PHONE HAND, SCRUNCHIE WRIST, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
 START:
-- Nari = entry-side after second chime, SAME phone in hand
+- Nari = entry-side after second chime, SAME phone in SAME PHONE HAND
+- SCRUNCHIE WRIST unchanged; SAME headphones around neck
 - lower speaker-storage cabinet = CLOSED
 - inside SAME pot is EXACT Strip 008 storage topology:
   1. TOWEL 1 bottom liner
@@ -47,7 +48,9 @@ START:
 - normal Unit power ON; Hyun-woo nonphysical/voice-only
 
 ALLOWED CHANGES:
-- V128 Nari walks entry → kitchen cabinet, places SAME phone on nearby kitchen counter, kneels, opens ONLY same lower cabinet `CREAK`
+- V128 Nari walks entry → kitchen cabinet while phone remains SAME PHONE HAND
+- PHONE HAND physically lowers SAME phone to nearby kitchen counter → phone contacts counter → fingers release → phone remains there; PHONE HAND identity ends after release
+- only after phone release does Nari kneel and open ONLY same lower cabinet `CREAK`
 - V129 reopens SAME stockpot in exact reverse storage order:
   - lift SAME lid `CLINK`
   - set SAME lid FLAT on cabinet shelf immediately beside stockpot
@@ -55,13 +58,16 @@ ALLOWED CHANGES:
   - reveal SAME speaker body + attached cord + coiled cord/loose plug resting on TOWEL 1 liner
 - speaker emits voice/indicator while remaining unplugged and inside stockpot
 - V130/V131 dialogue only; no speaker removal/replug
-- V132 Nari rises, physically walks to exact knife floor spot using a route that avoids the separate outer-packet floor spot, grips SAME knife by handle and picks it up
-- outer packet remains on its own floor spot for Strip 029
-- cabinet remains OPEN; lid/towels/speaker stay in deterministic revealed state
+- V132 Nari rises, physically walks to exact knife floor spot using route that avoids separate outer-packet floor spot, grips SAME knife by handle and picks it up
+- outer packet remains its own floor spot for Strip 029
+- cabinet remains OPEN; lid/towels/speaker stay deterministic revealed state
+- SCRUNCHIE WRIST/headphones remain unchanged
 - do NOT sheath knife yet
 
 END:
-- phone = kitchen counter
+- phone = kitchen counter, released and no longer in hand
+- PHONE HAND production identity = retired after placement
+- SCRUNCHIE WRIST unchanged; SAME headphones around neck
 - lower cabinet = OPEN
 - SAME stockpot remains inside cabinet
 - SAME lid = lying FLAT on cabinet shelf immediately beside stockpot
@@ -71,18 +77,31 @@ END:
 - TOWEL 2 = folded back once along pot rim/inside edge, not covering speaker
 - knife = in Nari hand by handle
 - old knife floor spot = empty after pickup
-- SAME empty outer packet = still at its separate floor spot, unmoved
+- SAME empty outer packet = still at separate floor spot, unmoved
 - sheath = desk tray
 - Unit powered; Hyun-woo voice-only
+
+==================================================
+PHONE HAND → COUNTER RELEASE — NON-NEGOTIABLE
+==================================================
+
+V128 exact phone chain:
+1. Nari arrives cabinet zone with SAME phone in SAME PHONE HAND
+2. PHONE HAND lowers SAME phone toward canonical/nearby kitchen counter surface
+3. phone physically contacts counter
+4. fingers open/release
+5. SAME phone remains flat/stable on counter
+6. PHONE HAND becomes free and its temporary identity ends
+7. only then does Nari kneel/reach cabinet handle
+
+Do not show phone still in hand while same hand opens cabinet/lifts lid. Do not silently transfer phone to other hand. Do not let a phone close-up create second device.
 
 ==================================================
 EXACT STRIP 008 STORAGE TOPOLOGY REVERSE — ABSOLUTE
 ==================================================
 
-Strip 028 must reveal SAME stored object arrangement created in Strip 008. Do not invent different packing order.
-
-Closed state inherited:
-BOTTOM → TOP:
+Strip 028 must reveal SAME stored arrangement created Strip 008.
+Closed state:
 TOWEL 1 liner → speaker + attached coiled cord + loose wall plug → TOWEL 2 cover → lid.
 
 Open/reveal sequence:
@@ -97,29 +116,28 @@ Open/reveal sequence:
 9. same cord remains coiled/contained with SAME loose plug inside pot
 10. plug is not inserted anywhere
 
-Do not show speaker magically visible through TOWEL 2 before towel moves. Do not make both towels disappear. Do not keep lid in Nari's hand through later dialogue/knife route.
+Do not show speaker magically visible through TOWEL 2 before towel moves. Do not make both towels disappear. Do not keep lid in Nari hand through later dialogue/knife route.
 
 ==================================================
-PHONE / CABINET HAND-OCCUPANCY — ABSOLUTE
+SAME-OBJECT INSERT / NO DUPLICATION — ABSOLUTE
 ==================================================
 
-V128 order:
-entry-side → walk → reach cabinet zone → SET PHONE ON COUNTER → phone hand free → kneel → hand contacts cabinet handle → door opens on real hinge → `CREAK`.
-
-Phone must be released on counter before lid/towel handling. Once placed, phone remains there through Strip 029 unless explicitly moved.
+Any phone, cabinet, lid, towel, speaker/plug, or knife detail is a close-up of SAME physical object/state.
+Do not show closed cabinet in a same-moment wide while an inset already exposes speaker unless reading order clearly advances open sequence.
+Do not duplicate lid, towels, speaker, plug, phone, or knife because of detail slices.
 
 ==================================================
 SPEAKER CORD / WALL-PLUG PERSISTENCE — ABSOLUTE
 ==================================================
 
-The speaker is SAME object unplugged from the kitchen wall in Strip 006 and hidden Strip 008.
+Speaker is SAME object unplugged from kitchen wall in Strip 006 and hidden Strip 008.
 - speaker-side cord REMAINS attached
-- same cord ends in SAME loose wall plug
-- plug is loose/not in any socket
+- same cord ends SAME loose wall plug
+- plug loose/not in socket
 - cord/plug remain stored inside same stockpot
 - no empty speaker-side port
 - no plug into cabinet/fridge/counter
-- any precise kitchen outlet micro-detail carried from Strip 006 remains canon-subordinate to attached environment/object WebPs and cannot override them
+- any precise kitchen outlet micro-detail from Strip 006 remains canon-subordinate and cannot override WebPs
 
 `I'M BORROWING JUST ENOUGH POWER TO TALK.` = supernatural behavior, NOT physical reconnection.
 
@@ -127,40 +145,61 @@ The speaker is SAME object unplugged from the kitchen wall in Strip 006 and hidd
 KNIFE / OUTER-PACKET FLOOR-ROUTE CAUSALITY — ABSOLUTE
 ==================================================
 
-Two separate floor evidence spots exist before V132:
+Two separate floor spots exist before V132:
 - KNIFE spot = exact Strip 023 impact point
 - OUTER PACKET spot = separate nudged packet location
 
 V132 must show:
 1. Nari leaves cabinet area and stands
 2. feet orient toward SAME knife spot
-3. she takes a physically clear route that does NOT step on, kick, cover, drag, or move the outer packet
+3. physically clear route does NOT step on/kick/cover/drag/move outer packet
 4. she reaches SAME knife spot
 5. fingers contact SAME knife handle
 6. hand grips/lifts SAME knife
 7. old knife spot becomes empty
-8. outer packet remains at its separate original spot
+8. outer packet remains separate original spot
 
 Do not relocate knife beside cabinet/desk. No second knife. Sheath remains desk.
+
+==================================================
+NARI WORN-STATE CONTINUITY — ABSOLUTE
+==================================================
+
+SCRUNCHIE WRIST remains same physical wrist and SAME headphones remain around neck throughout cabinet/knife route. No silent wrist swap/headphone removal/duplication.
+
+==================================================
+TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
+==================================================
+
+Dialogue/audio/SFX must not cover:
+- phone contact/release on counter
+- cabinet-handle/door action
+- lid placement/release
+- TOWEL2 fold/reveal
+- attached speaker cord/loose plug
+- knife handle pickup and old spot becoming empty
+- packet-safe route
+
+`CREAK` anchors cabinet hinge; `CLINK` anchors lid action without hiding contact.
 
 ==================================================
 TEXT / NARRATION DESIGN — ABSOLUTE
 ==================================================
 
-No narration scripted. Hyun-woo words are AUDIO from screenless speaker, never body text/floating captions. `CREAK` = cabinet hinge; `CLINK` = lid action. Helpful voice clean, not hostile.
+No narration scripted. Hyun-woo words are AUDIO from screenless speaker, never body text/floating captions. Helpful voice clean, not hostile.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Small black gutter between approach/cabinet/lid/towel/speaker/dialogue/knife-route slices. Side-by-side cabinet detail/reaction views require diagonal black divider. External seams preserve state; no page bar.
+Small black gutter between approach/phone placement/cabinet/lid/towel/speaker/dialogue/knife-route slices. Side-by-side cabinet detail/reaction views require diagonal black divider. External seams preserve state; no page bar.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
-V128 — APPROACH / PHONE PLACEMENT / CABINET OPEN
-Show actual entry→kitchen route. Set SAME phone on counter, kneel, contact/open SAME lower cabinet.
+V128 — APPROACH / PHONE HAND RELEASE / CABINET OPEN
+Show actual entry→kitchen route. PHONE HAND places/releases SAME phone on counter first. Then Nari kneels, contacts/opens SAME lower cabinet.
 SFX:
 `CREAK`
 
@@ -205,26 +244,27 @@ Normal powered lighting. Borrowed current does not make Hyun-woo physical/flicke
 Use knife route/desk direction through lower canvas.
 
 SEAM OUT — A
-Strip 029 continues SAME knife in hand → desk sheath before food. Phone counter; cabinet OPEN; lid flat beside pot; TOWEL2 folded back; speaker/cord/plug visible; SAME outer packet remains at separate floor spot awaiting visible pickup.
+Strip 029 continues SAME knife in hand → desk sheath before food. Phone counter; cabinet OPEN; lid flat beside pot; TOWEL2 folded back; speaker/cord/plug visible; SAME outer packet remains separate floor spot awaiting visible pickup. SCRUNCHIE WRIST/headphones persist.
 
 AUTOMATIC REJECT IF
-- any production label appears
+- any production/PHONE HAND/SCRUNCHIE WRIST label appears
 - attached refs/geometry drift
 - permanent drift/derived outlet detail propagated over canon
-- Nari/phone/cabinet/knife teleport
-- phone stays in hand after placement/duplicates
-- cabinet opens before reach/kneel/handle contact
-- lid floats/disappears/stays in Nari hand after being set flat beside pot
-- TOWEL2 remains covering speaker while speaker is visible
-- towel count/order changes from Strip008
+- phone teleports/duplicates/silently changes hand or remains in hand after release
+- cabinet opens before phone release/kneel/handle contact
+- same-object insert duplicates cabinet/lid/towels/speaker/plug/phone/knife
+- lid floats/disappears/stays in hand after set-down
+- TOWEL2 remains covering speaker while speaker visible
+- towel count/order changes
 - speaker cord/loose plug disappears/detaches/replugs
 - storage pot merges with noodle pot
-- speaker leaves stockpot
 - physical Hyun-woo appears
-- knife wrong floor spot/duplicates/reaches hand without pickup
-- knife pickup route steps on/moves outer packet
+- knife wrong spot/duplicates/reaches hand without pickup
+- knife route steps on/moves outer packet
 - outer packet disappears/moves before Strip029 pickup
 - old knife floor spot remains occupied after pickup
+- SCRUNCHIE WRIST/headphones change
+- text hides phone/cabinet/speaker/knife evidence
 - sheath moves or knife sheathed early
 - invented narration/device text
 - black separators missing/oversized
