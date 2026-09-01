@@ -19,6 +19,57 @@ ATTACH — REQUIRED
 - this Strip 004 prompt
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached WebPs are binding. Preserve exact character identities, apartment geometry, hallway lamp, entry tray, binder body/title, brass-key design, speaker position, and furniture/appliance placement.
+Never render V16–V20, P2/P3, Strip 004, beat/panel/scene labels, or any production metadata anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- exact Strip 003 counter positions
+- binder + brass key still on kitchen counter
+- hallway lamp normally powered
+- Mrs. Na still inside; front door closed
+
+ALLOWED CHANGES:
+- dialogue/hesitation/watch glance
+- both women visibly walk counter → entry
+- binder remains counter
+- Nari visibly picks up SAME key from counter, carries it to entry, places it into SAME tray once
+- Mrs. Na exits once; door closes
+- legal `ONE WEEK LATER` cut permits changed Nari pose/blanket and automation state, but NOT changed apartment geometry or permanent prop identities
+
+END:
+- binder = kitchen counter
+- key = entry tray
+- speaker = canonical kitchen counter, plugged in
+- front door closed, Mrs. Na outside/gone
+- powered apartment, one-week-later automation baseline
+
+==================================================
+MICRO-CONTINUITY / ROUTE REALISM — ABSOLUTE
+==================================================
+
+Key must follow counter → Nari hand → entry tray. Do not show key simultaneously on counter and in hand/tray after pickup. Nari must be close enough to reach it before leaving the counter.
+Both women must physically traverse the canonical counter→entry path without crossing through furniture/walls. Mrs. Na cannot exit before reaching the front door.
+Binder never follows them; if occluded it remains on counter.
+After time cut, permanent architecture/furniture/appliance bodies remain exactly the same; only temporary clutter/pose/automation may change believably.
+
+==================================================
+NARRATION DESIGN BY SITUATION — ABSOLUTE
+==================================================
+
+Do not use one narration design for all text:
+- `ONE WEEK LATER` = clear compact time-transition caption, visually distinct from ordinary observation.
+- curtain/thermostat narration = lighter everyday observational captions with dry-comedy rhythm.
+- V16–V18 are spoken tension; do not invent narration boxes there.
+Keep all treatments within one coherent publication typography family and never mimic device UI or technical labels.
+
+==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
@@ -109,12 +160,15 @@ SEAM OUT — G
 Strip 005 continues the one-week automation montage, then later that night.
 
 AUTOMATIC REJECT IF
-- key teleports to tray without visible route
+- any V/P/strip/beat/panel/scene production label appears
+- attached references are redesigned/mirrored
+- key teleports to tray without pickup/carry/placement
 - duplicate key remains at counter after Nari moves it
 - Mrs. Na carries binder away
 - manual/key appearance drifts from canonical
 - Mrs. Na remains inside after V18
 - apartment geometry changes after time cut
+- one generic narration box is forced onto time-transition and observational captions
 - supernatural screen effect appears early
 - black beat separators are missing / oversized
 - giant dead bottom appears
