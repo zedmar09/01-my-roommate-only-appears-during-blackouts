@@ -150,6 +150,8 @@ FINAL GOAL
 A reusable multi-angle flat-2D human-drawn Manhwa character card that makes Im Seungjae consistently recognizable as an attractive, contemporary Korean man exactly age 30 — visibly the same age group as Yoon Nari — across office, lobby, rain, comedy, and reaction scenes.
 ```
 
-Expected approved production files after regeneration:
+Generation output may remain PNG first:
 `Character-References/seungjae-canonical-flat2d.png`
+
+After visual approval, manually convert that accepted PNG and store/use this repository authority:
 `Character-References/seungjae-canonical-flat2d.webp`
