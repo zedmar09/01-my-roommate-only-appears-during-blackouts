@@ -12,6 +12,7 @@ ATTACH — REQUIRED
 - `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-canonical.png`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-canonical.png`
+- `Manhwa/Object-References/electrical-operation-guide-canonical.png`
 - APPROVED Strip 009
 - this Strip 010 prompt
 
@@ -39,8 +40,19 @@ V47 NARI:
 No device answer in this beat.
 
 ==================================================
-BINDER PHYSICAL ROUTE / SOUTH-WALL CLUE
+CANONICAL BINDER / SOUTH-WALL CLUE — ABSOLUTE
 ==================================================
+
+Use the SAME reusable `electrical-operation-guide-canonical.png` introduced by Mrs. Na.
+Do not spawn a second binder or redesign its cover/body.
+
+Canonical binder identity:
+- exact cover/title remains `UNIT 2407 / ELECTRICAL OPERATION GUIDE`
+- same matte binder body/proportions
+- physical paper/manual, never tablet/digital UI
+- story-critical interior sequence jumps from `SECTION 16` directly to `SECTION 18`
+- no normal visible `SECTION 17` page/tab
+- same south-wall diagram page with older handwritten annotation
 
 V48 — Nari physically gets/opens the SAME electrical binder from its kitchen-counter location at the dining/work area where she can inspect it. Do not spawn a second binder.
 Visible section jump:
@@ -70,13 +82,13 @@ MRS. NA TEXT:
 MRS. NA TEXT:
 `WE'LL TALK IN PERSON.`
 
-After the exchange, show Nari physically closing/carrying SAME binder back to SAME kitchen counter and leaving it there. Phone remains Nari's normal phone.
+After the exchange, show Nari physically closing/carrying SAME canonical binder back to SAME kitchen counter and leaving it there. Phone remains Nari's normal phone.
 
 ==================================================
 PROP / STORY STATE AT END
 ==================================================
 
-- binder = kitchen counter
+- electrical-operation guide = kitchen counter, canonical identity unchanged
 - brass key = entry tray
 - speaker = hidden unplugged inside closed lower cabinet
 - guarded fruit knife = under sofa cushion
@@ -92,6 +104,8 @@ Strip 011 begins later that day outside at supply mart.
 AUTOMATIC REJECT IF
 - helpful tablet warning uses hostile styling
 - second binder/phone/tablet appears
+- binder body/title/section structure differs from canonical
+- Section 17 appears as a normal visible section
 - actual south-wall panel opens
 - binder teleports to/from table/counter
 - physical Mrs. Na appears
@@ -105,5 +119,6 @@ AUTOMATIC REJECT IF
 3. Unit 2407 living→kitchen wide
 4. Unit 2407 desk-zone detail
 5. Unit 2407 hallway canonical
-6. APPROVED Strip 009
-7. this Strip 010 prompt
+6. Unit 2407 electrical-operation-guide canonical
+7. APPROVED Strip 009
+8. this Strip 010 prompt
