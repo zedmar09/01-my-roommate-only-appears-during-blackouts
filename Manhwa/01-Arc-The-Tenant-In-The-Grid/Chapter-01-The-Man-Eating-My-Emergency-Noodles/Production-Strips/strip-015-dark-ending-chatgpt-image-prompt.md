@@ -17,6 +17,60 @@ ATTACH — REQUIRED
 Do NOT attach Hyun-woo.
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached WebPs + Strip 014 are binding. Preserve Nari's long loose dark-plum hair, wrist scrunchie, home outfit, desk orientation, tray placement, hallway direction, and blackout lighting geometry.
+Never render V68–V70, P9, Strip 015, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- same Unit 2407 outage; ordinary supplied power OFF
+- Nari at SAME desk orientation from Strip 014
+- phone = desk, screen completely dark/untouched
+- emergency tray immediately right of keyboard
+- flashlight + radio + practical knife fully sheathed in same tray positions
+- hallway direction canonical; hallway lamp off because power is absent
+- no candle, no Hyun-woo, no `SLURP`
+
+ALLOWED CHANGES:
+- Nari looks at phone but does not touch/wake it
+- Nari physically takes/tests flashlight twice; it never produces light
+- Nari physically tests radio once; one static burst then device dies
+- Nari remains near desk and listens into apartment
+- practical knife remains sheathed/untouched
+
+END:
+- phone still dark at desk
+- flashlight + radio failed and remain near/in tray according to visible handling
+- practical knife still sheathed in tray
+- Nari remains near same desk, listening toward canonical hallway/kitchen direction
+- blackout continues into Strip 016
+
+==================================================
+HAND / TOOL / DARKNESS MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+Show actual hand actions for flashlight/radio tests. If Nari lifts a tool, track hand→tool→test→placement/held end state; do not show tool simultaneously in tray and hand. The practical knife cannot move when she reaches for flashlight/radio.
+
+No invented illumination may help readability: phone screen, flashlight beam, radio glow, monitor, hallway lamp, or unexplained rim light remain OFF. Use attached blackout reference for readable flat shape separation.
+
+V70 keeps Nari in/near same desk zone; do not teleport her to hallway before Strip 016.
+
+==================================================
+NARRATION / THOUGHT DESIGN BY SITUATION — ABSOLUTE
+==================================================
+
+V68 contains two narration lines plus one internal thought. They MUST read as different text types:
+- factual battery-memory narration = restrained observational caption
+- `SHE LEFT THE SCREEN DARK.` = firmer decision/consequence caption
+- `MRS. NA SAID NO SCREENS.` = internal-thought treatment, never spoken balloon
+Do not reuse one identical narration/thought design. V69/V70 need no invented narration; suspense should come from action/silence/spacing.
+
+==================================================
 EXACT START STATE
 ==================================================
 
@@ -71,12 +125,16 @@ SEAM OUT — E/G
 Strip 016 same outage, later 12:56 A.M. No episode break.
 
 AUTOMATIC REJECT IF
-- phone screen lights
-- knife moves
-- flashlight works/radio keeps working
+- any V/P/strip/beat/panel/scene production label appears
+- attached reference/hair/desk/blackout geometry drifts
+- phone screen lights or Nari touches/wakes it
+- flashlight produces a beam or radio keeps working
+- flashlight/radio duplicate or teleport between hand/tray
+- knife moves or sheath state changes
 - thought becomes spoken dialogue
 - `SLURP` appears early
 - Hyun-woo appears
+- one generic text box is used for narration and thought
 - internal black separators become giant dead bands
 ```
 
