@@ -31,7 +31,7 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 START:
 - SAME stickered tablet = at canonical desk, frozen/restarting from Strip 009
 - SAME physical note + SAME pen = kitchen/toaster area
-- SAME phone = lying flat beside the note where Strip 009 placed it
+- SAME phone = lying flat beside note where Strip 009 placed it
 - speaker hidden unplugged in exact two-towel/cord/plug stockpot stack, lid seated, cabinet CLOSED
 - fruit knife guarded under sofa
 - brass key = entry tray
@@ -44,16 +44,16 @@ ALLOWED CHANGES:
 - after V47, Nari leaves tablet at desk and physically walks desk → note area
 - Nari picks up SAME phone from beside note; note + pen remain there
 - she then walks note area → kitchen counter
-- Nari carries SAME phone in one hand and picks up SAME closed binder with the other; both remain physically distinct
-- she carries both to a readable dining/work inspection surface and sets them down
-- same binder opens and physically proves `SECTION 16` → page turn → next section header `SECTION 18`; no normal visible Section 17
-- same binder reveals south-wall diagram + old handwriting
-- V50 Nari uses SAME phone from the inspection surface for text exchange while binder rests on surface
+- Nari carries SAME phone in one hand and picks up SAME closed binder with other; both remain physically distinct
+- she carries both to readable dining/work inspection surface and sets them down
+- SAME binder opens and physically proves `SECTION 16` → page turn → next section header `SECTION 18`; no normal visible Section 17
+- SAME binder reveals south-wall diagram + old handwriting
+- V50 Nari uses SAME phone from inspection surface for text exchange while binder rests on surface
 - after text exchange, she places phone back on that inspection surface, closes SAME binder, carries binder back to same kitchen counter, and leaves it there
 
 END:
 - binder = closed on kitchen counter
-- phone = resting on the dining/work inspection surface; no teleport
+- phone = resting on dining/work inspection surface; no teleport
 - note + pen = unchanged at kitchen/toaster area
 - tablet = desk, same device
 - key = entry tray
@@ -84,6 +84,25 @@ Exact route:
 Do not show Nari simultaneously holding open binder + phone + turning pages with impossible extra fingers/hands.
 
 ==================================================
+V48 MULTI-SLICE PHYSICAL ROUTE — MANDATORY
+==================================================
+
+V48 is ONE story beat but MUST use multiple immediately consecutive UNLABELED visual sub-slices so no physical action disappears.
+Do NOT render `V48-A`, `V48-B`, numbers, or step labels.
+
+Required unlabeled sub-slice sequence:
+A. desk→note-area movement; SAME tablet clearly remains behind at desk
+B. hand contacts and lifts SAME phone from beside note; note + pen stay on surface
+C. Nari reaches kitchen counter carrying phone; free hand contacts/lifts SAME CLOSED binder; old binder counter position becomes empty
+D. carry phone + closed binder to inspection surface; visibly set binder down first, then place/keep phone beside it so hands are free for pages
+E. open SAME binder on surface; show readable `SECTION 16`
+F. fingers contact actual page edge/tab and physically advance page
+G. next relevant visible header is `SECTION 18`; no normal visible Section 17
+H. only after this proof, Nari says `SECTION SEVENTEEN IS MISSING.`
+
+Use micro black gutters between distinct sub-slices as needed. These are reader-facing action compositions, not technical labels.
+
+==================================================
 BINDER PAGE-TURN / MISSING-SECTION ACTION-PROOF — ABSOLUTE
 ==================================================
 
@@ -98,7 +117,7 @@ Required proof chain:
 6. there is NO normal visible `SECTION 17` page/tab between them
 7. only after this physical page-turn proof does Nari say `SECTION SEVENTEEN IS MISSING.`
 
-Do not show `SECTION 16` and `SECTION 18` as unrelated floating cards or simultaneous fake UI panels. They are successive physical pages/sections of the same binder.
+Do not show `SECTION 16` and `SECTION 18` as unrelated floating cards or simultaneous fake UI panels. They are successive physical pages/sections of same binder.
 
 ==================================================
 BINDER / HAND / PAGE MICRO-CONTINUITY — ABSOLUTE
@@ -114,26 +133,26 @@ Page identity is permanent:
 - no normal visible Section 17 page/tab
 - handwritten warning is ink/pen on physical paper, not digital UI
 
-Actual south-wall panel must remain closed; diagram inspection is not permission to open the wall panel.
+Actual south-wall panel must remain closed; diagram inspection is not permission to open wall panel.
 
 ==================================================
 TEXT / NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-Do not invent narration in this strip. Visual text categories must remain distinct:
+Do not invent narration in this strip. Visual text categories remain distinct:
 - tablet helpful warning = clean device text on tablet only
 - binder printed sections = physical printed page text
 - south-wall warning = old physical handwriting
 - phone exchange = phone text UI
 - Nari spoken line = speech balloon
 
-Never convert any of these into a generic narration box. Do not use the same visual treatment for tablet UI, handwriting, binder print, phone text, and speech.
+Never convert any into generic narration box. Do not use same visual treatment for tablet UI, handwriting, binder print, phone text, speech.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Use a SMALL BLACK GUTTER between each distinct vertical beat. Use a DIAGONAL BLACK DIVIDER for separate inserts/shots sharing one row. Do not use large white spacing. The final binder-return route can flow vertically but still uses micro black separators between distinct camera slices.
+Use SMALL BLACK GUTTER between each distinct vertical beat and between distinct V48/V50 action sub-slices. Use DIAGONAL BLACK DIVIDER for separate inserts/shots sharing one row. Do not use large white spacing. No sub-slice receives a reader-visible technical label.
 
 ==================================================
 EXACT START / DEVICE SIGNATURE
@@ -157,36 +176,36 @@ Tablet remains desk afterward.
 CANONICAL BINDER / SOUTH-WALL CLUE — ABSOLUTE
 ==================================================
 
-Use the SAME reusable object authority `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp` introduced by Mrs. Na.
-Do not spawn a second binder or redesign its cover/body.
+Use SAME reusable object authority `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp` introduced by Mrs. Na.
+Do not spawn second binder or redesign cover/body.
 
 Canonical binder identity:
 - exact cover/title remains `UNIT 2407 / ELECTRICAL OPERATION GUIDE`
 - same matte binder body/proportions
 - physical paper/manual, never tablet/digital UI
-- story-critical interior sequence physically advances from `SECTION 16` directly to `SECTION 18`
+- story-critical interior physically advances from `SECTION 16` directly to `SECTION 18`
 - no normal visible `SECTION 17` page/tab
 - same south-wall diagram page with older handwritten annotation
 
-V48 — PHONE RETRIEVAL / BINDER PICKUP / PHYSICAL SECTION PROOF
-Show Nari desk → note-area route, pick up SAME phone from beside note, then move to kitchen counter and pick up SAME binder. Carry both to dining/work inspection surface, set them down, open binder, and execute exact Section 16 → page turn → Section 18 proof.
+V48 — PHYSICAL PHONE + BINDER + SECTION PROOF
+Execute mandatory unlabeled V48 multi-slice sequence above.
 Visible text:
 `SECTION 16`
 `SECTION 18`
-NARI:
+NARI, only after page proof:
 `SECTION SEVENTEEN IS MISSING.`
 
 SMALL BLACK GUTTER.
 
-V49 — SAME binder / south-wall diagram close-up
+V49 — SAME BINDER / SOUTH-WALL DIAGRAM
 Old physical handwriting:
 `KEEP ONE MAINS-POWERED LIGHT ON AFTER MIDNIGHT.`
-Do not open, remove, or inspect the actual south-wall panel.
+Do not open, remove, or inspect actual south-wall panel.
 If diagram and Nari reaction share row, use diagonal black divider.
 
 SMALL BLACK GUTTER.
 
-V50 — PHONE TEXT EXCHANGE + BINDER RETURN
+V50 — PHONE TEXT EXCHANGE + MULTI-SLICE BINDER RETURN
 Binder rests on inspection surface while Nari uses SAME phone beside it.
 NARI TEXT:
 `THE TV STAYED ON AFTER I UNPLUGGED IT. WHAT IS IN UNIT 2407?`
@@ -197,11 +216,13 @@ MRS. NA TEXT:
 MRS. NA TEXT:
 `WE'LL TALK IN PERSON.`
 
-After exchange:
-- Nari places SAME phone back on inspection surface
-- closes SAME binder
-- physically carries SAME binder back to SAME kitchen counter
-- sets/releases binder there
+After exchange, use unlabeled proof sub-slices:
+1. phone lowers to inspection surface, contacts, fingers release
+2. Nari closes SAME binder on surface
+3. hand grips/lifts closed binder; phone remains behind
+4. Nari walks inspection surface → kitchen counter carrying binder only
+5. binder physically contacts counter and is released
+
 Phone stays on inspection surface through strip end.
 
 ==================================================
@@ -224,21 +245,23 @@ SEAM OUT — G / TIME CUT
 Strip 011 begins later that day outside at supply mart. Legal time cut may change phone location later, but no hidden movement occurs inside Strip 010.
 
 AUTOMATIC REJECT IF
-- any V/P/strip/beat/panel/scene production label appears
+- any V/P/strip/beat/panel/scene/sub-step production label appears
 - attached reference or binder geometry redesigns
-- permanent drift from previous strip is propagated over canon
+- permanent drift from previous strip propagated over canon
 - helpful tablet warning uses hostile styling
 - second binder/phone/tablet appears
+- V48 collapses into result-only shot that skips phone pickup/binder pickup/set-down/page-contact/page-turn proof
 - phone teleports from note area into V50
 - note/pen move to desk without action
 - Nari impossibly holds binder/phone/pages with extra hands
-- Section 16→18 is shown only as unrelated floating labels instead of a physical page-turn sequence
-- Section 17 appears as a normal visible section
+- Section 16→18 shown only as unrelated floating labels instead of physical page-turn sequence
+- Section 17 appears as normal visible section
 - physical handwriting becomes digital/narration text
 - actual south-wall panel opens
 - binder teleports to/from table/counter or changes open/closed state without action
+- V50 binder return skips phone placement/close/pickup/counter placement mechanics
 - physical Mrs. Na appears
-- text categories are collapsed into one generic narration style
+- text categories collapsed into one generic narration style
 - black dividers missing/oversized
 - giant dead bottom appears
 ```
