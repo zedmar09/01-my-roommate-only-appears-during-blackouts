@@ -10,16 +10,16 @@ Internal beats V01–V07. These IDs are production-only and must never appear in
 Historical P1 mapping is reference shorthand only; the active authority is the Chapter 1 Manhwa beat plan + this strip prompt.
 
 ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
-- `Manhwa/Object-References/smart-speaker-canonical-states.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+- `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
 - this current Strip 001 prompt
 
 No previous strip exists.
-If any listed canonical PNG has not yet been generated and approved, do not substitute an improvised reference; approve the canonical first.
-Use `unit-2407-room-angle-atlas-canonical.png` additionally only when the chosen camera angle is not sufficiently covered by the primary views above.
+If any listed canonical WebP is missing, stale, wrong-path, or unapproved, do not substitute an improvised reference; approve/correct the canonical first.
+Use `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-reference.webp` additionally only when the chosen camera angle is not sufficiently covered by the primary views above.
 
 ==================================================
 REAL-SCENARIO START / UNIT 2407 GEOGRAPHY — ABSOLUTE
@@ -177,9 +177,9 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.png`
-2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-canonical.png`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
-5. `Manhwa/Object-References/smart-speaker-canonical-states.png`
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+3. `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
+4. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+5. `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
 6. this Strip 001 prompt
