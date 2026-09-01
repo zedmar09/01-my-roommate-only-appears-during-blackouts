@@ -23,9 +23,9 @@ Do NOT attach Hyun-woo canonical; voice-only through speaker.
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 028 controls temporary knife/open-cabinet/phone/speaker state only; correct permanent drift to canon instead of propagating it.
-Preserve exact Nari identity, desk/tray/sheath, dining chair positions, pushed Hyun-woo chair, food evidence topology, open cabinet/stockpot/towels/speaker/lid, phone counter, and powered geometry.
-Never render V133–V137, P17, Strip 029, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+Attached canonical WebPs are permanent authority. APPROVED Strip 028 controls temporary knife/open-cabinet/phone/speaker/worn state only; correct permanent drift to canon instead of propagating it.
+Preserve exact Nari identity, SAME SCRUNCHIE WRIST, SAME headphones around neck, desk/tray/sheath, dining chair positions, pushed Hyun-woo chair, food evidence topology, open cabinet/stockpot/towels/speaker/lid, phone counter, and powered geometry.
+Never render V133–V137, P17, Strip 029, SCRUNCHIE WRIST, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
@@ -33,8 +33,9 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - Nari holds SAME practical knife by handle from Strip 028
+- SCRUNCHIE WRIST unchanged; SAME headphones around neck
 - empty matching sheath = desk tray beside failed flashlight/radio
-- phone = kitchen counter
+- phone = kitchen counter, released there
 - lower speaker cabinet = OPEN
 - SAME stockpot remains in cabinet
 - SAME lid = FLAT on cabinet shelf immediately beside stockpot
@@ -56,10 +57,12 @@ ALLOWED CHANGES:
 - V136 uses clean pair for exactly ONE complete cautious bite
 - after swallowing, Nari physically places SAME clean pair together at ONE fixed table spot on HER side of pot and releases them
 - V137 dialogue while seated, looking toward open speaker cabinet
+- SCRUNCHIE WRIST/headphones remain unchanged throughout
 
 END:
 - sheathed practical knife = desk tray
 - Nari = seated in untouched chair
+- SCRUNCHIE WRIST unchanged; SAME headphones around neck
 - Hyun-woo chair = still pushed back
 - SAME empty spicy-seafood outer packet = now on table beside SAME seasoning wrapper; relocation visibly performed here
 - SAME used Hyun-woo chopsticks = fixed rest point at/in pot
@@ -109,18 +112,17 @@ PAIR A — HYUN-WOO USED PAIR:
 
 PAIR B — NARI CLEAN PAIR:
 - exactly ONE clean pair
-- source must be an ordinary utensil-storage point that respects attached kitchen references
-- FIRST preference: use an already-visible canonical drawer/caddy/storage location from attached environment WebPs
-- if no utensil-storage detail is visible, derive the smallest necessary temporary Chapter 1 storage point within EXISTING canonical kitchen cabinetry only
-- do NOT add a new cabinet, cart, shelf, island, appliance, wall, or furniture item
-- do NOT use or alter the special lower speaker-storage cabinet near refrigerator
-- do NOT treat this utensil-storage micro-detail as new permanent canon; it remains subordinate to attached environment WebPs
-- before sitting/eating, Nari physically opens/reaches that storage point as needed, picks up SAME clean Pair B, closes/leaves it in a plausible state, and carries Pair B to table
+- source must be ordinary utensil-storage point respecting attached kitchen references
+- FIRST preference: already-visible canonical drawer/caddy/storage location
+- if none visible, derive smallest necessary temporary Chapter 1 storage point within EXISTING canonical kitchen cabinetry only
+- do NOT add new cabinet/cart/shelf/island/appliance/wall/furniture
+- do NOT use/alter special lower speaker-storage cabinet
+- do NOT treat utensil-storage micro-detail as permanent canon; it remains subordinate to WebPs
+- before sitting/eating, Nari physically opens/reaches storage point as needed, picks up SAME Pair B, closes/leaves storage in a plausible state, carries Pair B to table
 - Pair B never replaces/duplicates Pair A
 
-At least one proof composition must show Pair A still at pot while Pair B is in Nari's hand or at her side, making two-pair distinction readable.
-
-After V136 swallowing, Nari places Pair B together at ONE fixed table spot on her side of pot and releases them. Pair B remains there through Strips 030–032 unless visibly moved; no later script moves it.
+At least one proof composition must show Pair A still at pot while Pair B is in Nari's hand or at her side.
+After V136 swallowing, Nari places Pair B together at ONE fixed table spot on her side of pot and releases them. Pair B remains there through Strips 030–032 unless visibly moved; none is scripted.
 
 ==================================================
 FOOD / NOODLE BITE MICRO-CONTINUITY — ABSOLUTE
@@ -146,12 +148,27 @@ V136 exact bite chain using Pair B:
 Do not make pot/noodles/packet/wrapper/either chopstick pair disappear during V137 dialogue.
 
 ==================================================
+SAME-OBJECT CLOSE-UP / NO DUPLICATION — ABSOLUTE
+==================================================
+
+Any knife/sheath, packet/wrapper, Pair A/Pair B, noodle-bite, or open-cabinet detail is a magnified/action view of the SAME physical objects.
+Do not show packet simultaneously on old floor spot and table in a same-moment composition; relocation must advance once through pickup/carry/placement.
+Do not create a third chopstick pair because both Pair A and Pair B appear in wide/detail views.
+Do not show knife already sheathed in an inset while same-moment wide still shows it unsheathed unless reading order explicitly advances through insertion.
+
+==================================================
 CHAIR / SITTING BODY MECHANICS — ABSOLUTE
 ==================================================
 
 Nari must sit in OTHER untouched burgundy chair.
 Show approach → body turn/alignment → knees/hips lower to actual seat → feet supported. No standing→seated teleport.
 Hyun-woo's pushed-back chair remains pushed/angled and never used by Nari.
+
+==================================================
+NARI WORN-STATE CONTINUITY — ABSOLUTE
+==================================================
+
+SCRUNCHIE WRIST remains same physical wrist and SAME headphones remain around neck throughout knife/packet/food/chair actions. No silent wrist swap, headphone removal, move to ears, or duplication.
 
 ==================================================
 SPEAKER / CABINET / PHONE PERSISTENCE — ABSOLUTE
@@ -164,6 +181,18 @@ Open cabinet remains OPEN.
 - TOWEL2 folded back
 Phone remains kitchen counter. No one moves it.
 Hyun-woo voice-only; no body/silhouette/reflection.
+
+==================================================
+TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
+==================================================
+
+Dialogue/audio/SFX must not cover:
+- blade/sheath insertion
+- floor-packet pickup and old spot becoming empty
+- Pair A vs Pair B distinction
+- visible noodle bite path
+- actual chair-body sitting mechanics
+- open speaker cabinet source when Hyun-woo speaks
 
 ==================================================
 TEXT / NARRATION DESIGN — ABSOLUTE
@@ -195,7 +224,7 @@ Leave sheathed knife there. Nari returns dining area empty-handed.
 SMALL BLACK GUTTER.
 
 V135 — FLOOR PACKET PICKUP → FOOD INSPECTION
-Visibly pick up SAME empty spicy-seafood outer packet from exact floor spot. Inspect it with SAME seasoning wrapper, SAME noodle pot/broth and smell broth. NO eating. Place outer packet on table beside seasoning wrapper.
+Visibly pick up SAME empty spicy-seafood outer packet from exact floor spot. Old floor spot becomes empty. Inspect it with SAME seasoning wrapper, SAME noodle pot/broth and smell broth. NO eating. Place outer packet on table beside seasoning wrapper.
 
 SMALL BLACK GUTTER.
 
@@ -234,31 +263,31 @@ FIXED PROP STATE
 - Pair A = used chopsticks at pot rest point
 - Pair B = clean chopsticks at fixed Nari-side table spot
 - cabinet open; exact revealed speaker stack persists
+- SCRUNCHIE WRIST/headphones unchanged
 
 NO DEAD BOTTOM — ABSOLUTE
 Use Nari→open-cabinet eyeline through lower canvas. No giant blank tail.
 
 SEAM OUT — G
-Strip 030 starts SAME untouched chair; packet/wrapper/pot/two-pair chopstick topology and open cabinet state persist.
+Strip 030 starts SAME untouched chair; packet/wrapper/pot/two-pair chopstick topology, open cabinet state, SCRUNCHIE WRIST/headphones persist.
 
 AUTOMATIC REJECT IF
-- any production label appears
+- any production/SCRUNCHIE WRIST label appears
 - attached refs/geometry drift
 - permanent drift or derived utensil detail propagated over canon
 - knife teleports/reaches dining table/is still in hand after sheath
-- outer packet appears on table before visible floor pickup or duplicate outer packet appears
-- old floor packet remains after pickup
-- clean Pair B appears from nowhere without utensil-storage pickup
-- new cabinet/shelf/furniture invented to source Pair B
-- special speaker-storage cabinet is repurposed as utensil storage
-- Pair A/Pair B confused, merged, swapped, duplicated
-- Pair B not placed at fixed table spot after bite
+- packet appears table before visible floor pickup, old floor spot remains occupied, or duplicate packet appears
+- clean Pair B appears from nowhere/new furniture invented/speaker cabinet repurposed
+- Pair A/Pair B confused/merged/swapped/duplicated or third pair appears via close-up
+- Pair B not placed fixed table spot after bite
 - Nari uses pushed chair or sits without body mechanics
-- food eaten before inspection
-- noodle portion vanishes without completed bite/lowering
+- food eaten before inspection / noodle portion vanishes
+- same-object detail shows incompatible packet/knife/chopstick states
 - pot/broth/packet/wrapper/chopsticks disappear/reset during dialogue
 - cabinet/lid/towels/speaker/phone state resets or speaker plugged
+- SCRUNCHIE WRIST/headphones change
 - physical Hyun-woo appears
+- text hides action/food evidence
 - invented narration/action labels
 - black separators missing/oversized
 ```
