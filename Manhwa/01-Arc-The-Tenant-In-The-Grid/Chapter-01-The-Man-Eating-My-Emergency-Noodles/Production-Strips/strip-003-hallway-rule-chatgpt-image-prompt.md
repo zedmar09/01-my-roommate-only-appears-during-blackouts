@@ -18,47 +18,53 @@ ATTACH — REQUIRED
 - this Strip 003 prompt
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached references are binding. Keep Nari/Mrs. Na identities, counter placement, hallway direction, lamp position, binder body, and key identity unchanged. Do not move the hallway lamp or mirror the room to make the insert easier.
-Never render V/P/strip/beat/panel/scene labels. `V12`–`V15`, `P2`, and `Strip 003` are production-only and must not appear anywhere, especially not top-left.
+Attached canonical WebPs are permanent authority. APPROVED Strip 002 controls temporary counter/body/prop state only; correct any permanent drift to attached canon rather than propagating it.
+Keep Nari/Mrs. Na identities, counter placement, hallway direction, lamp position, binder body, and key identity unchanged. Do not move the hallway lamp or mirror the room to make the insert easier.
+Never render V12–V15, P2, Strip 003, beat/panel/scene labels, or any production label anywhere, especially top-left.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
 START:
-- Nari and Mrs. Na are at the SAME kitchen-counter positions inherited from Strip 002.
-- SAME binder lies flat on counter.
-- SAME Unit 2407 brass key lies separately beside binder, already detached from Mrs. Na's ring.
-- hallway mains lamp exists at exact canonical wall/ceiling position and is normally powered.
-- no device is malfunctioning; no supernatural effect is active.
+- Nari and Mrs. Na are at the SAME kitchen-counter positions inherited from Strip 002
+- SAME binder lies flat on counter
+- SAME Unit 2407 brass key lies separately beside binder, already detached from Mrs. Na's ring
+- hallway mains lamp exists at exact canonical wall/ceiling position and is normally powered
+- no phone/tablet is required to be visible
+- no device is malfunctioning; no supernatural effect is active
 
 ALLOWED CHANGES:
-- expressions, head turns, eyelines, and natural pointing/indicating gestures only.
-- camera may cut to canonical hallway-lamp insert and optional phone/tablet examples while keeping both women physically at counter.
-- no one picks up, moves, duplicates, or removes binder/key.
+- expressions, head turns, eyelines, and natural pointing/indicating gestures only
+- camera may cut to canonical hallway-lamp insert while keeping both women physically at counter
+- no one picks up, moves, duplicates, or removes binder/key
+- do NOT invent a phone/tablet demonstration prop, floating icon, hologram, UI card, or conceptual device insert merely because dialogue mentions a phone/tablet
 
 END:
-- both women remain at same counter positions.
-- binder + key remain exact same counter locations.
-- hallway lamp remains on and unchanged.
-- question chain continues directly into Strip 004.
+- both women remain at same counter positions
+- binder + key remain exact same counter locations
+- hallway lamp remains on and unchanged
+- no new device prop has been introduced
+- question chain continues directly into Strip 004
 
 ==================================================
 MICRO-CONTINUITY / INTERACTION REALITY — ABSOLUTE
 ==================================================
 
 If Mrs. Na indicates the hallway lamp, her body/eyeline/gesture must point toward the lamp's real canonical direction. Do not place the lamp in a convenient invented wall position.
-Phone/tablet inserts are conceptual examples only; they do not teleport into hands unless an existing device is physically present and handled. Prefer simple non-story-active inserts rather than inventing device handling.
+
+The phone/tablet wording is spoken explanation only. **Safest default: show no phone/tablet visual at all in this strip.** Do not create floating comparison panels, generic device icons, or an unexplained phone/tablet in either woman's hand.
+
 Binder and key remain visible/logically present even when camera changes. Occlusion is not relocation.
 
 ==================================================
 NARRATION / TEXT DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-This strip is primarily spoken warning dialogue, so narration should not be invented. The visual hierarchy should shift from ordinary counter conversation to firmer rule/warning tension through composition, expression, and balloon placement—not through a generic repeated narration box or fake warning UI.
+This strip is spoken warning dialogue, so narration should not be invented. The visual hierarchy should shift from ordinary counter conversation to firmer rule/warning tension through composition, expression, and balloon placement—not through a generic repeated narration box, fake warning UI, or illustrative device overlay.
 Speech balloons remain human dialogue. Do not turn Mrs. Na's warning into a system banner/caption.
 
 ==================================================
@@ -94,7 +100,7 @@ DIALOGUE OWNERSHIP — ABSOLUTE
 - `JUST KEEP IT ON.` = Mrs. Na
 
 Every bubble tail must point only to the correct person.
-Phone/tablet in V14 are examples only; do not imply either is currently malfunctioning.
+The words `PHONE OR TABLET` are part of Mrs. Na's spoken dialogue only; no actual device needs to be shown.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -116,13 +122,13 @@ MRS. NA:
 
 SMALL BLACK GUTTER.
 
-V14 — MAINS VS PHONE/TABLET
-Mrs. Na indicates the actual hallway mains light; optional phone/tablet inserts stay secondary.
+V14 — MAINS RULE
+Mrs. Na indicates the actual hallway mains light from the real counter position.
 MRS. NA:
 `THE LIGHT HAS TO COME FROM THE APARTMENT ITSELF.`
 MRS. NA:
 `DON'T TRY TO REPLACE IT WITH A PHONE OR TABLET.`
-If hallway-lamp and phone/tablet inserts share one row, separate with diagonal black divider.
+No phone/tablet insert is required or preferred.
 
 SMALL BLACK GUTTER.
 
@@ -147,12 +153,13 @@ Strip 004 starts with Nari's whole-building-outage question from these exact pos
 AUTOMATIC REJECT IF
 - any V/P/strip/beat/panel/scene or production label appears
 - attached reference identity/geometry/object design changes
+- permanent drift from previous strip is propagated over canonical refs
 - binder/key relocate or duplicate
 - binder body/title differs from canonical
 - key shape/material differs from canonical
 - hallway lamp changes place/design
 - pointing/eyeline indicates a noncanonical lamp location
-- phone/tablet becomes a supernatural event or appears through unexplained handling
+- any floating/conceptual phone/tablet illustration, fake UI, hologram, or unexplained device handling is invented
 - dialogue tails swap
 - room axis flips
 - fake warning UI/narration replaces spoken warning dialogue
