@@ -4,9 +4,9 @@ Strip IDs are production-only. The final reader sees one continuous chapter.
 
 ## Audit Status
 
-**Fresh `manhwa-2d-production-auditor` prompt-level re-audit completed across all 32 strips. Story/script/dialogue/SFX source logic, real-life movement, object routes, planned spatial continuity, power logic, and strip-to-strip state handoffs pass at the prompt level after the global strict-style/readiness repairs. Visual production is NOT complete: the Chapter 1 character PNGs are stale/provisional under the September 1 full character-card standard, required reusable environment/object canonical PNGs are missing, and rendered Strip 001–032 artwork is absent. Actual visual identity/geometry/style/lettering/dead-space/seam gates therefore remain blocked.**
+**Fresh `manhwa-2d-production-auditor` re-audit confirms the 32-strip story/script/dialogue/SFX/movement/object/power/seam design remains coherent. Approved Chapter 1 character, environment, and object WebP authorities are present. The active pre-strip blocker is exact Markdown reference migration: every strip must point to the real current `.webp` path/basename instead of obsolete PNG or shorthand-only names. Rendered Strip 001–032 artwork remains ungenerated, so final visual/stitch gates are still pending.**
 
-The old blanket `FINAL PASS / PRODUCTION READY` claim is superseded. See `chapter-01-generation-checklist.md` and `chapter-01-real-scenario-continuity-audit.md` for the current gate result.
+## Strip Map
 
 | Strip | Read beats | Historical map | Main purpose | Seam OUT |
 |---:|---|---|---|---|
@@ -45,83 +45,88 @@ The old blanket `FINAL PASS / PRODUCTION READY` claim is superseded. See `chapte
 
 ## Reference Authority
 
-For every strip: current user instruction > script/current strip > approved current character canonical > approved environment canonical > approved object canonical > previous approved strip temporary state.
+For every strip: current user instruction > script/current strip > approved current character WebP > approved environment WebP > approved object WebP > previous approved rendered strip temporary state.
 
 The binding global visual/lettering/seam rules under `Manhwa/` always apply. A strip may be stricter but may never loosen them.
 
-## Character Canonical Gate — BLOCKING
+## Repository Image Format Rule
 
-Required Chapter 1 character-card filenames:
-- `Character-References/nari-canonical-flat2d.png`
-- `Character-References/hyunwoo-canonical-flat2d.png`
-- `Character-References/mrs-na-canonical-flat2d.png`
-- `Character-References/seungjae-canonical-flat2d.png`
+Reference prompts may generate PNG first locally. After approval, manually convert to WebP. Production Markdown uses the committed WebP only.
 
-All four current PNG histories predate the September 1, 2026 full character-card standard and are therefore legacy/provisional under `Character-References/README.md` until regenerated/approved from the upgraded prompts. Nari's prior short-hair PNG is explicitly obsolete and must be regenerated as the current long dark-plum-haired design. Do not begin Strip 001 with stale/provisional character authority.
+## Chapter 1 Character WebPs
+
+- `C-NARI` = `Character-References/nari-canonical-flat2d.webp`
+- `C-HYUNWOO` = `Character-References/hyunwoo-canonical-flat2d.webp`
+- `C-MRSNA` = `Character-References/mrs-na-canonical-flat2d.webp`
+- `C-SEUNGJAE` = `Character-References/seungjae-canonical-flat2d.webp`
+
+Nari's current authority is the long dark-plum-haired adult design. Seungjae is exactly 30, same age as Nari.
 
 ## Reuse Rule — Absolute
 
-References belong to physical locations/objects, not chapters. Reuse Unit 2407, Building Shared Areas, smart speaker, TV, refrigerator, electrical-operation guide, and brass backup key canonicals in future chapters whenever they return.
+References belong to physical people/locations/objects, not chapters. Reuse Unit 2407, Building Shared Areas, smart speaker, TV, refrigerator, electrical-operation guide, and brass backup key WebPs in future chapters whenever they return.
 
-## Reusable Reference Shorthand
+## Reusable Reference Shorthand — Exact Current Files
 
 Unit 2407:
-- `U-FP` = `unit-2407-floor-plan-canonical.png`
-- `U-ATLAS` = `unit-2407-room-angle-atlas-canonical.png`
-- `U-ENTRY` = `unit-2407-entry-living-wide-canonical.png`
-- `U-L2K` = `unit-2407-living-to-kitchen-wide-canonical.png`
-- `U-K2L` = `unit-2407-kitchen-to-living-wide-canonical.png`
-- `U-HALL` = `unit-2407-hallway-canonical.png`
-- `U-DESK` = `unit-2407-desk-zone-detail-canonical.png`
-- `U-FRIDGE` = `unit-2407-fridge-cabinet-zone-detail-canonical.png`
-- `U-LIGHT` = `unit-2407-lighting-states-canonical.png`
+- `U-FP` = `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `U-ATLAS` = `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-reference.webp`
+- `U-ENTRY` = `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
+- `U-L2K` = `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+- `U-K2L` = `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
+- `U-HALL` = `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+- `U-DESK` = `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+- `U-FRIDGE` = `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
+- `U-LIGHT` = `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 
 Building:
-- `B-ENTRY` = `rainy-building-entrance-canonical.png`
-- `B-LOBBY` = `building-lobby-elevator-canonical.png`
+- `B-ENTRY` = `Manhwa/Environment-References/Building-Shared-Areas/rainy-building-entrance-reference.webp`
+- `B-LOBBY` = `Manhwa/Environment-References/Building-Shared-Areas/building-lobby-elevator-reference.webp`
 
 Objects:
-- `O-SPK` = `smart-speaker-canonical-states.png`
-- `O-TV` = `tv-canonical-states.png`
-- `O-FRIDGE` = `refrigerator-canonical-states.png`
-- `O-MANUAL` = `electrical-operation-guide-canonical.png`
-- `O-KEY` = `brass-backup-key-canonical.png`
+- `O-SPK` = `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
+- `O-TV` = `Manhwa/Object-References/tv-canonical-reference.webp`
+- `O-FRIDGE` = `Manhwa/Object-References/refrigerator-canonical-reference.webp`
+- `O-MANUAL` = `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
+- `O-KEY` = `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
 
-## Required-Asset Gate — BLOCKING
+## Required-Asset Gate — Absolute
 
-The shorthand above names **required approved PNG authorities**, not merely intended future files. If any character/environment/object PNG required by the current strip is absent, stale, or unapproved, stop before strip generation. Do not substitute its Markdown reference prompt and do not improvise a replacement.
+The shorthand above maps to **current approved WebP authorities**. Individual strip prompts must still repeat the exact full WebP paths rather than relying on shorthand alone.
+
+If any required WebP is missing, stale, wrong-path, or later rejected, stop before strip generation. Do not substitute its Markdown prompt or improvise a replacement.
 
 ## Strip Attachment Audit Map
 
-| Strip | Environment | Object |
-|---:|---|---|
-| 001 | U-FP,U-ENTRY,U-L2K | O-SPK |
-| 002 | U-FP,U-ENTRY,U-L2K,U-HALL | O-MANUAL,O-KEY |
-| 003 | U-FP,U-L2K,U-HALL | O-MANUAL,O-KEY |
-| 004 | U-FP,U-ENTRY,U-L2K,U-HALL | O-MANUAL,O-KEY |
-| 005 | U-FP,U-L2K,U-K2L | O-SPK |
-| 006 | U-FP,U-L2K,U-K2L | O-SPK,O-TV |
-| 007 | U-FP,U-L2K,U-K2L,U-FRIDGE | O-TV,O-FRIDGE,O-KEY |
-| 008 | U-FP,U-FRIDGE,U-L2K | O-SPK |
-| 009 | U-FP,U-FRIDGE,U-DESK | — |
-| 010 | U-FP,U-L2K,U-DESK,U-HALL | O-MANUAL |
-| 011 | U-FP,U-FRIDGE,U-DESK | — |
-| 012 | B-ENTRY,B-LOBBY | — |
-| 013 | B-LOBBY | — |
-| 014 | U-FP,U-DESK,U-HALL,U-LIGHT | — |
-| 015 | U-FP,U-DESK,U-LIGHT | — |
-| 016 | U-FP,U-DESK,U-HALL,U-L2K,U-LIGHT | — |
-| 017–019 | U-FP,U-L2K,U-K2L,U-FRIDGE,U-LIGHT | — |
-| 020–025 | U-FP,U-L2K,U-K2L,U-FRIDGE,U-LIGHT | O-FRIDGE |
-| 026 | U-FP,U-DESK,U-ENTRY,U-LIGHT | O-KEY |
-| 027 | U-FP,U-ENTRY,U-FRIDGE,U-LIGHT | — |
-| 028 | U-FP,U-FRIDGE,U-DESK,U-K2L,U-LIGHT | O-SPK |
-| 029 | U-FP,U-FRIDGE,U-DESK,U-L2K,U-LIGHT | O-SPK |
-| 030 | U-FP,U-DESK,U-L2K,U-LIGHT | O-SPK |
-| 031 | U-FP,U-L2K,U-K2L,U-DESK,U-LIGHT | O-TV |
-| 032 | U-FP,U-L2K,U-K2L,U-LIGHT | O-TV |
+| Strip | Character | Environment | Object |
+|---:|---|---|---|
+| 001 | C-NARI | U-FP,U-ENTRY,U-L2K | O-SPK |
+| 002 | C-NARI,C-MRSNA | U-FP,U-ENTRY,U-L2K,U-HALL | O-MANUAL,O-KEY |
+| 003 | C-NARI,C-MRSNA | U-FP,U-L2K,U-HALL | O-MANUAL,O-KEY |
+| 004 | C-NARI,C-MRSNA | U-FP,U-ENTRY,U-L2K,U-HALL | O-MANUAL,O-KEY |
+| 005 | C-NARI | U-FP,U-L2K,U-K2L | O-SPK |
+| 006 | C-NARI | U-FP,U-L2K,U-K2L | O-SPK,O-TV |
+| 007 | C-NARI | U-FP,U-L2K,U-K2L,U-FRIDGE | O-TV,O-FRIDGE,O-KEY |
+| 008 | C-NARI | U-FP,U-FRIDGE,U-L2K | O-SPK |
+| 009 | C-NARI | U-FP,U-FRIDGE,U-DESK | — |
+| 010 | C-NARI | U-FP,U-L2K,U-DESK,U-HALL | O-MANUAL |
+| 011 | C-NARI | U-FP,U-FRIDGE,U-DESK | — |
+| 012 | C-NARI,C-SEUNGJAE | B-ENTRY,B-LOBBY | — |
+| 013 | C-NARI,C-SEUNGJAE | B-LOBBY | — |
+| 014 | C-NARI | U-FP,U-DESK,U-HALL,U-LIGHT | — |
+| 015 | C-NARI | U-FP,U-DESK,U-LIGHT | — |
+| 016 | C-NARI,C-HYUNWOO | U-FP,U-DESK,U-HALL,U-L2K,U-LIGHT | — |
+| 017–019 | C-NARI,C-HYUNWOO | U-FP,U-L2K,U-K2L,U-FRIDGE,U-LIGHT | — |
+| 020–025 | C-NARI,C-HYUNWOO | U-FP,U-L2K,U-K2L,U-FRIDGE,U-LIGHT | O-FRIDGE |
+| 026 | C-NARI | U-FP,U-DESK,U-ENTRY,U-LIGHT | O-KEY |
+| 027 | C-NARI | U-FP,U-ENTRY,U-FRIDGE,U-LIGHT | — |
+| 028 | C-NARI | U-FP,U-FRIDGE,U-DESK,U-K2L,U-LIGHT | O-SPK |
+| 029 | C-NARI | U-FP,U-FRIDGE,U-DESK,U-L2K,U-LIGHT | O-SPK |
+| 030 | C-NARI | U-FP,U-DESK,U-L2K,U-LIGHT | O-SPK |
+| 031 | C-NARI | U-FP,U-L2K,U-K2L,U-DESK,U-LIGHT | O-TV |
+| 032 | C-NARI | U-FP,U-L2K,U-K2L,U-LIGHT | O-TV |
 
-Every individual strip file repeats its exact visual attachment list. U-ATLAS is additionally required when an intended camera angle is not sufficiently covered by the listed primary environment views.
+Every individual strip file repeats its exact visual attachment list. `U-ATLAS` is additionally required only when an intended camera angle is not sufficiently covered by the listed primary environment views.
 
 ## Black Read-Slice Rule
 
@@ -157,6 +162,6 @@ Small black gutters are deliberate slice grammar. Huge unused black/white/neutra
 
 ## Completion Rule
 
-This manifest can validate planned strip coverage and dependencies. It cannot by itself prove visual production complete. Final approval requires regenerated/approved current character-card PNGs, approved environment/object canonical PNGs, rendered Strip 001–032 artwork, stitch/seam QA, and a fresh clean-room visual audit.
+This manifest validates planned coverage and dependencies. It cannot by itself prove visual production complete. Final approval requires every current strip prompt to resolve to the exact approved WebPs, rendered Strip 001–032 artwork, sequential visual QA, stitch/seam QA, and a fresh clean-room final audit.
 
-Current blockers: **3 categories — stale/provisional Chapter 1 character cards; missing environment/object canonical PNGs; missing rendered/stitched Chapter 1 artwork.**
+Current pre-strip blocker: **exact WebP path migration in active Markdown**. After that passes, Chapter 1 is ready for sequential Strip 001 generation, but not `PRODUCTION COMPLETE`.
