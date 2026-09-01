@@ -7,17 +7,17 @@ PRODUCTION SCOPE
 V119–V123. Historical P16 mapping only.
 
 ATTACH — REQUIRED
-- Nari canonical
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-states-canonical.png`
-- `Manhwa/Object-References/brass-backup-key-canonical.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
+- `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
 - APPROVED Strip 025
 - this Strip 026 prompt
 
 Do NOT attach Hyun-woo.
-Use room-angle atlas additionally if kitchen→desk→entry route requires an unlisted camera angle.
+Use `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-reference.webp` additionally if the kitchen→desk→entry route requires an unlisted camera angle.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
@@ -105,11 +105,11 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Unit 2407 floor plan
-3. Unit 2407 desk-zone detail
-4. Unit 2407 entry/living wide
-5. Unit 2407 lighting-states canonical
-6. brass backup key canonical
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+3. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+4. `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
+5. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
+6. `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
 7. APPROVED Strip 025
 8. this Strip 026 prompt
