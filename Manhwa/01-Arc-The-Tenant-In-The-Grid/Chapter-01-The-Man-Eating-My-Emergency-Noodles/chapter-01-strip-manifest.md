@@ -4,60 +4,62 @@ Strip IDs are production-only. Reader sees one continuous chapter.
 
 ## Current Audit Status
 
-**THIRD FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+**FOURTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
 
-The complete `strip-001` through `strip-032` package has now been clean-room audited a THIRD time under `manhwa-2d-production-auditor`. Neither the first nor second hardening PASS was accepted as proof.
+The complete `strip-001` through `strip-032` package has now been clean-room audited a FOURTH time under `manhwa-2d-production-auditor`. Prior PASS labels were not accepted as proof.
 
-Third pass searched for failure modes that can survive strong causality wording:
-- impossible hand occupancy
-- props appearing with no real-world source/reason
-- packet/wrapper provenance gaps
-- phone/device handoff teleporting
-- prop topology swapping across reverse shots
-- wall-outlet location drift despite correct unplug mechanics
-- stored-object packing/reopen mismatch
-- exact body/foot position drift across power changes
-- cleanup/state reset during close-ups/final reveal
-- pen/chopstick/table micro-state disappearing during attention shifts
+Fourth pass specifically searched for residual failures that could survive three earlier hardening cycles:
+- unsupported/floating held objects
+- silent door-state resets
+- attachments missing for recurring visible-capable objects
+- devices appearing from nowhere after time cuts
+- overloaded beats that encourage skipped mechanics
+- over-constrained hand use that itself creates unrealistic interaction
+- mirrored anatomical hand swaps across reverse shots
+- distinct floor evidence locations merging
+- derived outlet/storage details becoming accidental permanent architecture canon
+- supernatural accent lights becoming cinematic room lights
+- routes disturbing floor evidence
+- final TV unplug proof distorting room geometry
 
-Previously generated attempts remain rejected as continuity authority for retest.
+Previously generated attempts remain rejected as continuity authority for the retest.
 
 ## Strip Map
 
 | Strip | Read beats | Main purpose | Seam OUT |
 |---:|---|---|---|
-| 001 | V01–V07 | move-in / smart-lock mechanism / speaker welcome | G |
+| 001 | V01–V07 | supported move-in box / smart-lock+door mechanism / speaker welcome | G |
 | 002 | V08–V11 | Mrs. Na arrival / physically valid binder-key handling | G |
 | 003 | V12–V15 | hallway-light spoken rule / no conceptual device inserts | A/G |
-| 004 | V16–V20 | outage warning → visible key transfer → one-week automation | G |
+| 004 | V16–V20 | outage warning → proven key transfer → Mrs. Na exit+door close → one-week cut | G |
 | 005 | V21–V25 | first natural voice / clean-dry chopstick tidying context / no food | G |
-| 006 | V26–V30 | speaker wall-unplug → frozen outlet landmarks → TV wall-unplug proof | A |
-| 007 | V31–V35 | fixed TV outlet carry / fridge warning / key route | G |
+| 006 | V26–V30 | speaker wall-unplug → TV wall-unplug proof / canon-subordinate outlet detail | A |
+| 007 | V31–V35 | TV unplug carry / speaker authority / fridge warning / key route | G |
 | 008 | V36–V40 | exact speaker storage stack / paper test / pen movement | G |
-| 009 | V41–V45 | reply / same-scene photo omission / phone placement / tablet route | A/E |
-| 010 | V46–V50 | phone retrieval / physical Section16→page turn→18 / binder return | G |
+| 009 | V41–V45 | morning phone source → same-scene photo omission → phone return → tablet route | A/E |
+| 010 | V46–V50 | unlabeled action-proof sub-slices / physical Section16→18 / binder return | G |
 | 011 | V51–V54 | blackout kit / real entry return / exact six-packet inventory | G |
-| 012 | V55–V59 | Seungjae invitation / phone already in hand → dies → pocket | A |
-| 013 | V60–V64 | sequential watch/earbud checks / tablet warning / elevator split | G |
-| 014 | V65–V67 | 12:43 outage / citywide confirmation | E |
+| 012 | V55–V59 | Seungjae invitation / phone pocket→check→dead→same pocket | A |
+| 013 | V60–V64 | watch check → one-earbud check/reinsert / tablet warning / elevator split | G |
+| 014 | V65–V67 | powered baseline → one outage → citywide confirmation | E |
 | 015 | V68–V70 | no-screen choice / failed tools returned exactly / listen | E/G |
-| 016 | V71–V75 | first SLURP / knife draw / route / teaser | A/E |
+| 016 | V71–V75 | first SLURP / KNIFE HAND established / route / teaser | A/E |
 | 017 | V76–V80 | hidden eater / six-packet provenance / dining topology | A/G |
 | 018 | V81–V84 | used chopstick rest → mask reseat → name reveal | G |
 | 019 | V85–V89 | exactly one step onto already-established empty packet | A/G |
 | 020 | V90–V93 | Mrs. Na admission / hostile start / chair rise | A |
-| 021 | V94–V97 | one-side physical protective crossing / `YOON NARI` | E |
-| 022 | V98–V102 | candle order / additive `IDENTITY LOCKING` | A/E |
-| 023 | V103–V107 | reach → candle out → knife fall → same former-knife-hand wrist catch | G |
-| 024 | V108–V112 | same-wrist release / separate hostile actor | G/E |
-| 025 | V113–V118 | city return → Unit return / Nari feet frozen / Hyun-woo absent | G |
-| 026 | V119–V123 | exact power-return start position → phone route / security | G |
-| 027 | V124–V127 | voicemail / two same-cabinet chimes | A/G |
-| 028 | V128–V132 | exact reverse stockpot stack reveal / knife pickup | A |
-| 029 | V133–V137 | sheath / floor-packet pickup / clean chopstick source / one bite | G |
-| 030 | V138–V142 | silence / notebook route / exact table+cabinet topology carry | G |
-| 031 | V143–V145 | bug report / pen release / mandatory active-TV wall-unplug proof | A/E |
-| 032 | V146 | final message / exact table+cabinet+outlet state preserved | END |
+| 021 | V94–V97 | one-side protective crossing / `YOON NARI` | E |
+| 022 | V98–V102 | additive `IDENTITY LOCKING` / tiny contained blue candle core | A/E |
+| 023 | V103–V107 | packet-safe reach → candle out → knife to separate floor spot → same wrist catch | G |
+| 024 | V108–V112 | same former-KNIFE-HAND wrist release / separate hostile actor | G/E |
+| 025 | V113–V118 | city return → Unit return / feet frozen / two floor evidence spots preserved | G |
+| 026 | V119–V123 | exact power-return start → route avoiding both floor evidence spots → security | G |
+| 027 | V124–V127 | voicemail / TV authority retained / two same-cabinet chimes | A/G |
+| 028 | V128–V132 | exact reverse stockpot reveal / route avoids packet / knife pickup | A |
+| 029 | V133–V137 | sheath / packet pickup / canon-subordinate clean-chopstick source / one bite | G |
+| 030 | V138–V142 | silence / notebook route / exact table+cabinet+TV continuity | G |
+| 031 | V143–V145 | pen release / mandatory wall-unplug proof within canonical geometry | A/E |
+| 032 | V146 | final message / exact table+cabinet+canon-subordinate outlet state | END |
 
 ## Authority Order
 
@@ -67,37 +69,32 @@ Previously generated attempts remain rejected as continuity authority for retest
 4. approved environment WebP geometry
 5. approved object WebP identity/state
 6. newly APPROVED previous rendered strip for temporary state only
+7. canon-compatible derived micro-detail for current chapter continuity only
 
-Previous strip never overrides permanent canon.
+Previous strip and derived micro-details never override permanent canon.
 
-## Third-Pass Global Hardening
+## Fourth-Pass Global Hardening
 
 ### Mandatory Action Proof
-Critical state changes require visible physical mechanism/contact, not SFX/result alone.
+Continuity-critical changes show the mechanism/contact point, not only an SFX and result.
 
-### Fixed Local Outlet Landmarks
-Once speaker/TV wall outlet is canonically visible or correctly established in first APPROVED production depiction, freeze:
-- story-world wall
-- height
-- faceplate/socket orientation
-- relation to furniture/appliance
-- cord-route family
+### Canon-Subordinate Derived Micro-Details
+If a tiny practical detail is required but not visible in canon—such as exact outlet faceplate or ordinary utensil storage—derive only the smallest detail inside existing canonical geometry. It remains temporary chapter continuity, never new permanent canon. Canon always wins.
 
-Reverse shots cannot invent/move socket.
+### Temporary Hand Identity
+A continuity-critical object held across reverse shots may establish a production-only anatomical hand identity. Chapter 1: Strip 016 establishes `KNIFE HAND`; the knife stays in that same physical hand until Strip 023 release, and Strip 023–024 contact/release uses that same arm/wrist. Never render the label.
 
 ### Prop Topology Conservation
-Preserve not only object existence but physical relative positions. Reverse shots may flip screen-left/right but cannot swap story-world sides/order.
+Preserve existence AND physical relative location. Reverse shots may flip screen-left/right but cannot swap story-world sides/order.
 
-Chapter 1 high-risk topology:
-- pot on same trivet
-- cloth at same hot-handle side
-- candle same table location
-- used chopsticks same pot rest point
-- seasoning wrapper / empty packet location
-- clean Nari chopsticks fixed Nari-side table spot after Strip029
-- pushed chair angle/location
-- knife impact point
-- speaker stockpot lid/towel/cord stack
+### Distinct Floor Evidence
+After Strip 023:
+- empty spicy-seafood outer packet = its own nudged floor spot
+- practical knife = separate `CLANG` floor spot
+They never overlap/merge. Nari routes in Strips 026/028 avoid both/packet as applicable.
+
+### Narration Placement
+Narration remains one coherent publication family but changes treatment and placement by scenario. Do not default to repetitive top-left tag boxes.
 
 ## Reusable Reference Shorthand
 
@@ -133,7 +130,7 @@ Objects:
 | 004 | U-FP,U-ENTRY,U-L2K,U-HALL | O-MANUAL,O-KEY |
 | 005 | U-FP,U-L2K,U-K2L | O-SPK |
 | 006 | U-FP,U-L2K,U-K2L | O-SPK,O-TV |
-| 007 | U-FP,U-L2K,U-K2L,U-FRIDGE | O-TV,O-FRIDGE,O-KEY |
+| 007 | U-FP,U-L2K,U-K2L,U-FRIDGE | O-SPK,O-TV,O-FRIDGE,O-KEY |
 | 008 | U-FP,U-FRIDGE,U-L2K | O-SPK |
 | 009 | U-FP,U-FRIDGE,U-DESK | — |
 | 010 | U-FP,U-L2K,U-DESK,U-HALL | O-MANUAL |
@@ -146,61 +143,56 @@ Objects:
 | 017–019 | U-FP,U-L2K,U-K2L,U-FRIDGE,U-LIGHT | — |
 | 020–025 | U-FP,U-L2K,U-K2L,U-FRIDGE,U-LIGHT | O-FRIDGE |
 | 026 | U-FP,U-DESK,U-ENTRY,U-LIGHT | O-KEY,O-TV |
-| 027 | U-FP,U-ENTRY,U-FRIDGE,U-LIGHT | — |
+| 027 | U-FP,U-ENTRY,U-FRIDGE,U-LIGHT | O-TV |
 | 028 | U-FP,U-FRIDGE,U-DESK,U-K2L,U-LIGHT | O-SPK |
 | 029 | U-FP,U-FRIDGE,U-DESK,U-L2K,U-LIGHT | O-SPK |
 | 030 | U-FP,U-DESK,U-L2K,U-LIGHT | O-SPK,O-TV |
 | 031 | U-FP,U-L2K,U-K2L,U-DESK,U-LIGHT | O-TV |
 | 032 | U-FP,U-L2K,U-K2L,U-LIGHT | O-TV |
 
-`U-ATLAS` additional only when primary views insufficient.
+`U-ATLAS` is additional only when primary views are insufficient.
 
-## Third-Pass Cross-Strip State Handoffs
+## Fourth-Pass Cross-Strip State Handoffs
 
-- 001→002: canonical Unit; real lock/door entry proven
-- 002→003: handbag independently supported; binder counter; detached key counter; physically valid hands
-- 003→004: no conceptual device props; counter state intact
-- 004→005: key tray; binder counter; speaker plugged
-- 005→006: one clean-dry chopstick pair fixed floor spot; no food; vacuum gag uses non-plot cable only
-- 006→007: fixed TV outlet landmark + TV-side cord attached + loose plug + empty socket
-- 007→008: key tray; speaker wall-unplugged counter
-- 008→009: exact stored stack = TOWEL1 liner → speaker/attached coiled cord+plug → TOWEL2 cover → lid; cabinet closed; note/pen fixed
-- 009→010: note+pen+phone together at note area; tablet frozen/restarting at desk
+- 001→002: box continuously body/forearm-supported through lock/door; first floor contact only V04
+- 002→003: physically valid Mrs. Na hand occupancy; binder/key counter
+- 003→004: counter state intact; no conceptual device props
+- 004→005: key tray; binder counter; Mrs. Na outside; door physically closed before time cut
+- 005→006: clean-dry chopsticks fixed floor; no food
+- 006→007: TV wall-unplugged; outlet detail canon-subordinate; speaker still unplugged counter
+- 007→008: key tray; same canonical speaker still counter/unplugged
+- 008→009: exact closed stockpot stack; note/pen fixed
+- 009→010: phone+note+pen at note area; tablet desk
 - 010→011: binder closed counter; phone inspection surface; legal later cut
-- 011→012: six noodle packets locked; entry return has U-ENTRY reference and physical lock/door route
-- 012→013: dead phone visibly pocketed; folded umbrella one hand; other hand free; one bag/tablet
-- 014→015→016: uninterrupted blackout; exact tools/knife states
-- 016→017: same entrance/table/candle/pot geometry
-- 017→018: five unopened packets + same empty spicy outer packet fixed floor + seasoning wrapper table; chopsticks still Hyun-woo hand lowered near pot
-- 018→019: used chopsticks now fixed pot rest point; same empty packet remains floor
-- 019→020: same packet slightly nudged; Nari one-step-closer
-- 020→021: pushed chair; Hyun-woo begins beside it
-- 021→022: same one-side route result/blocking position; table topology preserved
-- 022→023: same candle/holder; no early reach
-- 023→024: same former-knife-hand wrist held; knife fixed floor spot
-- 024→025: same wrist released; no room movement
-- 025→026: Nari exact feet/table-edge position frozen into V119; then visible route to desk
-- 026→027: same phone hand/entry state
-- 027→028: closed cabinet source; phone hand
-- 028→029: cabinet open; lid flat beside pot; TOWEL2 folded back; speaker/cord/plug on TOWEL1; knife in hand
-- 029→030: empty outer packet visibly moved floor→table beside seasoning wrapper; Pair A used chopsticks pot rest; Pair B clean chopsticks fixed Nari-side table spot; sheathed knife desk
-- 030→031: same two-pair/table topology + open cabinet stack + notebook/pen
-- 031→032: pen released horizontally on notebook before TV turn; mandatory active-TV wall-unplug proof persists; table/cabinet topology unchanged
-
-## Narration / Production Labels
-
-Narration wording exact; design+placement scenario-driven. Reject repetitive identical box or small top-left tag pattern.
-
-V/P/strip/beat/panel/scene/shot IDs are audit metadata only and never render. Any reader-visible production label = reject.
+- 011→012: six noodle packets; real entry route; two bags handled
+- 012→013: dead phone same pocket; folded umbrella one hand; other hand free; earbuds worn one per ear
+- 013→014: legal later-night cut; no lobby state leaks into Unit
+- 014→015→016: uninterrupted blackout; tools returned exact; knife sheathed until draw
+- 016→017: same physical KNIFE HAND; entrance/table/candle/pot teaser geometry
+- 017→018: five unopened packets + outer packet floor + seasoning wrapper table; used chopsticks still Hyun-woo hand near pot
+- 018→019: used chopsticks fixed pot rest point; same KNIFE HAND; same packet floor
+- 019→020: packet nudged; Nari one-step closer
+- 020→021: pushed chair; Nari KNIFE HAND unchanged
+- 021→022: same blocking position/topology; tiny blue candle core does not alter room lighting
+- 022→023: same candle; KNIFE HAND unchanged; no early reach
+- 023→024: former-KNIFE-HAND wrist held; knife and packet are separate floor spots
+- 024→025: same wrist released; both floor evidence spots remain separate
+- 025→026: Nari feet frozen; two floor evidence spots persist
+- 026→027: phone in hand at entry; evidence unchanged; TV canonical/unplug state preserved
+- 027→028: cabinet closed; phone in hand; TV/evidence unchanged
+- 028→029: phone counter; cabinet open; speaker stack revealed; knife in hand; packet still separate floor spot
+- 029→030: packet moved floor→table; Pair A pot; Pair B Nari-side table; sheathed knife desk
+- 030→031: exact table/cabinet topology + notebook/pen + canon-subordinate TV outlet continuity
+- 031→032: pen released on notebook; active-TV wall-unplug proof already shown; final state unchanged except message/flicker
 
 ## Current Prompt-Level Gate Counts
 
-After third clean-room repairs:
+After fourth clean-room repairs:
 - **BLOCKER 0**
 - **MAJOR 0 unresolved deterministic prompt/canon issues**
 - **MINOR requiring correction 0**
 - **WARNING requiring explanation 0**
 
-Rendered gates remain pending/unexecuted.
+These counts apply only to current textual/reference authority. Rendered visual gates remain pending/unexecuted.
 
-**FINAL CURRENT STATUS: THIRD FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+**FINAL CURRENT STATUS: FOURTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
