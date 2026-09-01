@@ -1,209 +1,187 @@
 # Chapter 1 Production Strips
 
-This folder contains **32 technical image-generation prompts** for one continuous Manhwa Chapter 1. Historical P001–P018 and V01–V146 labels are production-only mapping shorthand.
+This folder contains **32 technical image-generation prompts** for one continuous Manhwa Chapter 1. Historical P001–P018 and V01–V146 labels are production-only shorthand.
 
-Current status: **SECOND FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+Current status: **THIRD FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
 
-A second clean-room hardening audit has now completed across Strip 001→032. The first hardening PASS was not reused as proof; additional production ambiguity was found and repaired.
+A third clean-room hardening audit has completed across Strip 001→032. Neither prior hardening PASS was reused as proof.
 
 ## Prior Render Rejection — Absolute
 
-Previously generated / pre-hardening strip attempts are **NOT APPROVED continuity authority** for this retest.
+Previously generated / pre-third-pass strip attempts are **NOT APPROVED continuity authority** for the intended retest unless freshly audited against current third-pass gates and actually passed.
 
-Do not attach an older rejected render as `APPROVED Strip N` merely because it already exists. The production test restarts from:
-
+Retest sequence:
 `Strip 001 → audit / fix / re-audit → approve → Strip 002 → ... → Strip 032`
 
-Only a newly generated strip that passes the current second-pass visual QA may become temporary continuity authority for the next strip.
+Only newly passing strip may become temporary continuity authority for next strip.
 
-## Binding Global Rules — Absolute
+## Binding Global Rules
 
-Every strip inherits:
-- `../../../style-guide.md`
-- `../../../lettering-sfx-guide.md`
-- `../../../seam-continuity-protocol.md`
-- `../../../vertical-scroll-layout-guide.md`
-- `../../../generation-workflow.md`
-- `../../../production-readiness-gate.md`
+Every strip inherits style, lettering/SFX, seam, layout, workflow, readiness rules. Current strip may be stricter, never looser.
 
-The current strip prompt may be stricter but may never loosen them.
+## Attached References Are Permanent Authority
 
-## Attached References Are Binding — Absolute
+Approved WebPs are identity/geometry/object authority, not inspiration.
 
-Every attached approved WebP is **identity / geometry / object-design authority**, not inspiration or a moodboard.
+Previous approved strip controls temporary pose/action/held-object/power/seam state only. It cannot override permanent canonical face/hair/anatomy, architecture, wall outlet, furniture/appliance, or recurring object construction.
 
-Production must not redesign or relocate a reference-controlled character, room, wall socket, furniture item, appliance, cord, plug, key, binder, mask, chair, pot, knife, sheath, bag, phone, or other recurring object to make a composition easier.
+If prior rendered strip contains permanent drift, correct it to canonical attachment rather than propagate.
 
-If an intended camera/action conflicts with canon, **recompose the camera/action**. Never modify canon to make generation easier.
+## Real-Scenario State Rule
 
-### Previous Strip Is Temporary-State Authority Only
-
-The previous approved strip controls temporary pose/action/held-object/power/seam state only. It does not override permanent canonical face, hair, anatomy, architecture, wall-socket location, furniture/appliance body, or recurring-object construction.
-
-If a prior rendered strip contains permanent drift, correct that permanent detail back to the attached canonical. Do not propagate a known mistake merely because it is present in the previous image.
-
-## Real-Scenario State Rule — Absolute
-
-Every meaningful change must follow:
-
+Every meaningful change:
 `START STATE → PHYSICAL CAUSE → VISIBLE ACTION → RESULT → PERSISTENT END STATE`
 
-Each hardened strip includes or explicitly enforces a START / ALLOWED CHANGES / END state ledger.
+Camera cut, close-up, reverse shot, black gutter, or file boundary is not a reset.
 
-A camera cut, close-up, black gutter, reverse angle, or file boundary does not reset the story world.
+## Mandatory Action-Proof Framing
 
-## Mandatory Action-Proof Framing — Absolute
+Continuity-critical actions must visibly prove mechanism/contact point. SFX/reaction/narration/result cannot substitute.
 
-For continuity-critical actions, the camera must show the **mechanism**, not just the before/after states.
+Examples: lock/door, key pickup/placement, plug/socket, blade/sheath, knife release/fall/impact, chair sit/stand, cabinet handle, candle reach/blow, bag opening/tablet, packet pickup, phone/notebook pickup.
 
-Critical examples:
-- plug removal: hand grips plug BODY at wall → plug exits wall socket → loose plug + empty socket
-- key transfer: hand contacts same key → old location becomes empty → same key reaches new location
-- sheathing: blade aligns with sheath mouth → inserts → sheathed object remains
-- knife drop: fingers release → visible fall → one impact point
-- chair stand/rise: body is actually seated → chair clearance/push → body rises beside same chair
-- cabinet opening: hand reaches actual handle → hinge/door moves → interior becomes visible
-- candle blow: character physically reaches blowing distance → breath/action → same flame goes out
-- bag/tablet: opening is physically parted → same tablet is visible inside; never X-ray through closed bag
+If camera cannot show mechanism, change camera.
 
-**The decisive contact point may not be cropped offscreen.** An SFX, reaction shot, narration line, or later result is not proof of the missing mechanism.
+## Hand-Occupancy / Prop Support — Absolute
 
-If the chosen camera cannot show the mechanism, change the camera.
+Every object must fit actual hands/body support.
 
-## Micro-Continuity — Absolute
+Reject impossible states such as:
+- handbag + binder + key ring + detached key requiring extra hands
+- phone + umbrella + earbuds + watch simultaneously handheld
+- open binder + phone + page turn with impossible fingers
+- unsupported floating bag/device/prop
 
-Between adjacent vertical slices and strips, preserve every state not visibly changed:
-- hands and held items
-- character feet / body support / facing / distance / seated-standing state
-- food / noodle amount and physical path
-- bowls / pots / chopsticks / packets / wrappers
-- cords / plugs / WALL sockets
-- key / manual / note / phone / tablet / bag
-- knife / sheath / fixed impact locations
-- candle / holder / flame / wick state
-- chair position / occupancy
-- cabinet / stockpot / lid / EXACTLY two towels / speaker
-- notebook / pen / prior handwriting
-- device display and power state
+Use shoulder/forearm support, setting down, pocketing, sequential checks, or visible hand transfer.
 
-Occlusion is not disappearance. A dialogue close-up does not delete props.
+## Prop Provenance — Absolute
 
-If food/noodles are visible in one slice, they may change only through a visible or physically unmistakable bite, slurp, lowering, spill, placement, or legal time cut. They may not simply vanish in the next slice.
+Story-critical objects need continuous source/route.
 
-### Camera-Cut Conservation
+Examples now hardened:
+- Strip005 chopsticks have real clean-dry tidying context
+- Strip009 phone is placed beside note before tablet route
+- Strip010 retrieves same phone before binder/text route
+- Strip017 establishes used empty outer noodle packet before Strip019 step
+- Strip029 visibly moves same packet floor→table
+- Strip029 clean chopsticks visibly come from utensil storage
+- Strip031 pen visibly releases onto notebook before TV turn
 
-Close-ups, reverse shots, reaction inserts, diagonal splits, black gutters, and strip seams do not authorize quantity changes, hand swaps, connection-state resets, object relocation, or silent cleanup.
+No object may appear at a new important location without visible/legal route.
 
-## Wall-Socket / Unplugging Rule — Absolute
+## Prop Topology / Relative Placement — Absolute
 
-Unless the script explicitly says otherwise, `UNPLUGGED` means:
-- the electrical **plug is removed from the WALL-MOUNTED socket/outlet**
-- the appliance-side cord remains attached to the appliance body
-- the same cord still ends in the loose electrical plug
-- fingers grip the plug BODY, not the cable
-- the wall socket is empty
-- that disconnected wall-end state persists until an explicit re-plug action
-- the unplug action visibly proves hand + plug + wall socket
+Preserve physical relative positions, not just object existence.
 
-It does **NOT** mean pulling a cable out of the TV / speaker / appliance body, pulling on the cable itself, or cropping away the wall-socket interaction.
+Reverse shots may flip screen-left/right but cannot swap story-world sides/order.
 
-Chapter 1 critical continuity:
-- Strip 006: speaker unplugged FROM WALL
-- Strip 006: TV unplugged FROM WALL
-- Strip 007: same TV loose plug + empty wall socket persist
-- Strips 031–032: that same TV is still unplugged FROM WALL while it activates
-- stored speaker keeps its attached cord + loose wall plug physically accounted for inside the stockpot / towels state
+Chapter 1 high-risk topology:
+- pot on same trivet
+- cloth at same hot-handle side
+- candle same table location
+- seasoning wrapper / empty outer packet fixed positions
+- Pair A used chopsticks fixed pot rest point
+- Pair B clean Nari chopsticks fixed Nari-side table spot after Strip029
+- pushed chair angle/location
+- knife impact point
+- speaker stockpot/lid/towel/cord arrangement
 
-Any appliance-side disconnect, cable-pull, hidden contact point, or silent re-plug = **AUTOMATIC REJECT**.
+## Fixed Local Wall-Outlet Landmark — Absolute
 
-## Character ↔ Environment Reality — Absolute
+Outlet is environment landmark, not movable prop.
 
-Audit every small interaction:
-- feet/body must have real support
-- sitting must align with the actual chair
-- hands must be able to reach the actual target
-- eyelines must point to the target's canonical location
-- doors/cabinets respect their hinges and nearby walls
-- walking routes must fit the canonical floor plan
-- bodies cannot pass through tables, chairs, counters, appliances, or walls
-- reverse angles must remain physically truthful, never mirrored for convenience
+If canonical ref visibly establishes it, use exact. If not, first correctly APPROVED production depiction freezes local landmark:
+- same story-world wall
+- same height
+- same faceplate/socket orientation
+- same relation to furniture/appliance
+- same cord-route family
 
-## Narration Design By Scenario — Absolute
+Strip006 freezes/continues Chapter1 speaker/TV outlet logic. Later reverse shots cannot invent convenient socket.
 
-Narration wording remains exact, but its visual design **and placement** must follow the current event and situation. Do **not** force one identical narration-box design or one default caption location across the whole chapter.
+## Wall-Socket / Unplugging Rule
 
-Use one coherent publication family with functional variants such as:
-- time / location transition → compact editorial caption
-- ordinary observation / dry comedy → restrained unobtrusive caption
-- rule / procedural warning → firmer utilitarian treatment
-- investigation / evidence context → compact report-like treatment
-- ominous realization → sparse higher-contrast treatment
-- suspense / listening / reveal delay → minimal footprint
+Unless script explicitly says otherwise:
+- plug BODY removed from WALL-MOUNTED socket
+- appliance-side cord remains attached
+- same cord ends loose plug
+- socket empty
+- state persists until explicit replug
+- action visually proves hand + plug + socket
 
-Do not default every caption to the top-left. A legitimate reader-facing time/location caption may use an upper area when appropriate, but it must not resemble a repetitive small production tag.
+Never appliance-side disconnect, cable-pull, hidden socket action, moved outlet, missing plug, silent replug.
 
-Narration must never imitate speech bubbles, device UI, physical handwriting, or production labels, and must not cover continuity-critical hands, food paths, wall plugs/sockets, clues, or environment anchors.
+## Exact Speaker Storage Topology
 
-## NO Reader-Visible Production Metadata — Automatic Reject
+Strip008 closed stack:
+`TOWEL1 liner → speaker + attached coiled cord + loose plug → TOWEL2 cover → lid`
 
-Never render, especially at the top-left of a vertical slice:
-- `V01`, `V-01`, `V##`
-- `P1`, `P001`, `P##`
-- `Strip 001`, `strip-001`
-- `BEAT`, `PANEL`, `SCENE`, `SHOT`
-- reference / draft / layout / QA labels
-- circled production numbers, crop marks, technical headers/footers
+Strip028 reopens exact reverse:
+`lid lifted/set flat beside pot → TOWEL2 folded back → speaker/cord/plug visible on TOWEL1`
 
-V/P/strip identifiers written inside Markdown are instructions for production only. They must never appear in reader-facing art.
+Cabinet remains open with that exact state through final strips unless explicitly changed (none in Chapter1).
 
-## Second-Pass Strip-Specific Corrections
+## Exact Six-Packet / Food Evidence Topology
 
-Additional repairs were made to:
-- Strip 001 — smart-lock contact / door-opening proof
-- Strip 003 — removed conceptual phone/tablet inserts
-- Strip 004 — visible key pickup / tray placement proof
-- Strip 005 — removed unscripted visible food; chopsticks only
-- Strip 015 — flashlight/radio exact tray-return sequence
-- Strip 016 — deterministic tool handoff + visible knife/sheath separation
-- Strip 023 — free-hand/knife-hand biomechanics + former-knife-hand wrist lock
-- Strip 024 — same-wrist release proof
-- Strip 026 — TV canonical added for wall-unplug evidence
-- Strip 030 — TV canonical added before final activation; notebook pickup/return proof
-- Strip 031 — active TV + loose plug + empty wall socket proof made mandatory
-- Strip 032 — final reveal locked to Strip 031's already-proven wall-unplug state
+Strip011: exactly six unopened emergency noodle packets.
 
-All other strips were re-read under the second-pass gates and required no additional deterministic story/prompt correction.
+Strip017 onward:
+- five unopened pantry packets
+- one used/empty spicy-seafood OUTER packet initially fixed on floor
+- separate small seasoning wrapper fixed near pot
 
-## Every Strip Is Self-Contained For Attachments — Absolute
+Strip019 nudges same floor packet.
+Strip029 visibly picks up same outer packet and places it on table beside seasoning wrapper.
+No duplicate/seventh packet.
 
-Every current `strip-001` through `strip-032` explicitly lists its exact required visual WebPs plus the immediately previous newly APPROVED strip for 002–032.
+## Two Chopstick Pairs From Strip029
 
-Use exact repository filenames. Do not substitute obsolete PNG names, vague shorthand, a Markdown reference prompt, or a rejected old render.
+PAIR A = Hyun-woo used pair, fixed pot rest point established Strip018.
 
-## Reference-Image Generation Format
+PAIR B = Nari clean pair, visibly retrieved from kitchen utensil storage in Strip029, used for one bite, then placed at fixed Nari-side table spot.
 
-Character / environment / object image prompts may continue to generate PNG first as a **local intermediate**. After visual approval, manually convert the accepted PNG to WebP. The committed WebP is the production attachment authority.
+Both remain distinct through Strips030–032.
 
-## Strict Flat 2D Human-Drawn Style — Absolute
+## Narration Design By Scenario
 
-All generated pixels must satisfy `../../../style-guide.md`: strict flat 2D human-drawn Korean manhwa/webtoon illustration, clean intentional line art, flat colors, restrained hard-edged cel shading only, matte materials, stable anatomy/proportions, natural hands, and mobile readability.
+Narration wording exact; design+placement follow event/function. Do not force one identical box or repetitive top-left tag across chapter.
 
-Reject photoreal/semi-photoreal, 3D/CGI, glossy, cinematic, painterly, airbrushed, bloom-heavy, mirror-like, depth-of-field, or AI-polished over-rendering.
+Narration never mimics device UI/handwriting/production labels and never covers continuity-critical evidence.
 
-## Black Read-Slice / No-Dead-Space Rules
+## NO Reader-Visible Production Metadata
 
-Use small black gutters between distinct vertical reading slices and diagonal/slanted black dividers between separate shots sharing one row.
+Never render especially top-left:
+- V IDs
+- P IDs
+- strip/beat/panel/scene/shot IDs
+- reference/draft/layout/QA labels
+- technical headers/crop marks
 
-A gutter is reading grammar, not permission to reset state or fill canvas. Do not create huge black/white dead bands. A technical A/E seam remains invisible when art/effect continues.
+Any such metadata = reject.
+
+## Exact Attachments
+
+Every `strip-001`→`strip-032` lists exact current WebPs + newly APPROVED prior strip for 002 onward.
+Do not substitute old PNG names, vague shorthand, Markdown reference prompts, or rejected renders.
+
+## Reference Image Format
+
+Reference prompts may generate PNG first locally. After approval user manually converts accepted PNG to WebP. Committed WebP is production attachment authority.
+
+## Strict Flat 2D Human-Drawn Style
+
+Strict flat 2D human-drawn Korean manhwa/webtoon; flat colors, restrained hard-edged cel shading, matte materials, stable anatomy, natural hands, mobile readability.
+
+Reject photoreal/3D/glossy/cinematic/painterly/airbrushed/bloom/DOF/mirror-like/over-rendered output.
 
 ## Current Production Order
 
-1. Generate **new Strip 001** using its exact second-pass hardened prompt + exact approved WebPs.
-2. Deep-audit the actual rendered pixels against the current second-pass gates.
-3. Fix/regenerate until Strip 001 passes.
-4. Only then treat that Strip 001 as APPROVED and attach it to Strip 002.
-5. Repeat sequentially through Strip 032.
+1. Generate **new Strip 001** with exact third-pass prompt + exact approved WebPs.
+2. Deep-audit actual pixels against third-pass gates.
+3. Fix/regenerate until Strip001 passes.
+4. Only then use as APPROVED continuity attachment for Strip002.
+5. Repeat through Strip032.
 6. Stitch all approved strips.
-7. Run a fresh final clean-room visual audit.
+7. Run fresh final clean-room visual audit.
 
-`PRODUCTION COMPLETE` is forbidden until that final rendered/stitch audit reaches zero unresolved mandatory findings.
+`PRODUCTION COMPLETE` forbidden until final rendered/stitch audit reaches zero unresolved mandatory findings.
