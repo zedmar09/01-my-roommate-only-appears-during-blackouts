@@ -9,150 +9,171 @@ CONTINUOUS-CHAPTER LOCK
 This is not a page, episode, or reader-visible part.
 
 PRODUCTION AUTHORITY
-Use the current chapter beat plan/manifest and this strip's exact locked reader-facing script. Legacy source-archive files are historical reference only.
-The binding global production rules in `Manhwa/style-guide.md`, `Manhwa/lettering-sfx-guide.md`, `Manhwa/seam-continuity-protocol.md`, `Manhwa/vertical-scroll-layout-guide.md`, and `Manhwa/generation-workflow.md` always apply even if not repeated below. This strip may make them stricter but may never loosen them.
+Use current chapter beat plan/manifest + this strip's exact locked reader-facing script. Legacy source archives are historical only.
+Binding global rules in style/SFX/seam/layout/workflow always apply. Current strip may be stricter but never looser.
 
 INTERNAL READ BEATS — PRODUCTION ONLY
-V##–V## are planning IDs only. Never render them.
-Never render `V##`, `V-##`, P-numbers, strip numbers, beat labels, scene labels, panel labels, or other technical metadata anywhere in the art, especially not at the top-left of a vertical slice.
+V##–V## planning IDs only. Never render them.
+Never render V/P/strip/beat/scene/panel/shot/technical metadata anywhere, especially top-left.
 
 ATTACH — REQUIRED
-List EVERY exact visual reference required for this strip INSIDE this prompt:
+List EVERY exact required visual reference:
 - character canonical path(s)
 - environment canonical path(s)
 - object canonical path(s)
-- previous approved strip for strip-002 onward
+- previous approved strip for 002 onward
 - current prompt
-Do not force the production thread to infer visual attachments from another document.
+Do not infer attachments from another file.
 
 REFERENCE AVAILABILITY — BLOCKING
-If a listed canonical has not been generated and approved, STOP. Never substitute an improvised/rejected reference and never treat a reference-prompt Markdown file as an approved canonical image.
+Missing/stale/wrong-path/unapproved canonical → STOP. Never substitute improvised/rejected reference or Markdown prompt as visual canonical.
 
 ATTACHED-REFERENCE OBEDIENCE — ABSOLUTE
-Attached approved WebPs are binding identity/geometry/object-design authority, not inspiration. Do not alter face, hair, build, permanent accessories, room axis, fixed architecture/furniture/appliances, object body, cord/plug design, material identity, or recurring prop construction to improve composition. If the shot cannot fit canon, recompose the shot; never redesign the canon.
+Approved WebPs are binding identity/geometry/object authority, not inspiration. Do not alter face/hair/build/accessories, room axis, fixed architecture/furniture/appliances, object body, cord/plug design, materials, or recurring construction for composition convenience. Recompose shot; never redesign canon.
 
 PREVIOUS-STRIP LIMIT — ABSOLUTE
-The previous approved strip controls temporary story state only. It does not override permanent canonical identity/geometry/object construction. If previous art contains permanent drift, correct the permanent detail to the attached canonical while preserving legitimate temporary state.
+Previous approved strip controls temporary story state only. It does not override permanent canonical identity/geometry/object construction. Correct permanent previous-strip drift to attached canon while preserving legitimate temporary state.
 
 REFERENCE PRIORITY
-Current user instruction > story/current strip > approved character identity > approved environment geometry > approved object identity/state vocabulary > previous strip temporary state.
+Current user instruction > story/current strip > approved character > approved environment > approved object > previous strip temporary state.
 
 START STATE — ABSOLUTE
 List exact starting:
-- character position/facing/pose/hand occupancy
+- character position/facing/pose/feet/hand occupancy
 - relevant object locations/states/counts
-- food/noodle/chopstick state if present
-- cord/plug/wall-socket state if present
-- doors/cabinets/chairs open/closed/pushed state
-- power/lighting state
+- food/noodle/chopstick state
+- cords/plugs/wall sockets
+- door/cabinet/chair state
+- power/lighting/device display state
 - previous-strip seam state
 
 ALLOWED CHANGES — ABSOLUTE
-List only the physical changes that may occur in this strip. Anything not listed remains unchanged.
+List only physical changes allowed in this strip. Anything not listed remains unchanged.
 
 END STATE — ABSOLUTE
-List exact state that must persist into the next strip. A camera change does not reset state.
+List exact state that persists into next strip. Camera change does not reset state.
 
 MICRO-CONTINUITY — ABSOLUTE
-Every object/body state from vertical slice X persists into X+1 unless a visible action changes it. Occlusion is not disappearance.
-Track hands, held objects, food/noodle amount, bowl/pot/chopsticks, chair position, cords/plugs/sockets, key/manual/note/phone/tablet/bag, knife/sheath, candle, cabinet/stockpot/lid/towels, packet counts, pen/notebook, body position, eyeline, and distance.
-A reaction close-up, reverse angle, black gutter, diagonal split, or strip boundary never authorizes a hidden reset.
+Every object/body state from slice X persists into X+1 unless visible action changes it. Occlusion is not disappearance.
+Track hands, held objects, food/noodle amount, pot/bowl/chopsticks, chair, cords/plugs/sockets, key/manual/note/phone/tablet/bag, knife/sheath, candle, cabinet/stockpot/lid/towels, packet/wrapper, pen/notebook, body position, eyeline, distance.
+A reaction close-up, reverse angle, gutter, diagonal split, or strip boundary never authorizes hidden reset.
+
+PROP TOPOLOGY / RELATIVE PLACEMENT — WHEN APPLICABLE
+For continuity-critical local arrangements, explicitly list relative positions that must not swap:
+- pot/trivet location
+- cloth/handle side
+- candle relative to pot/chair
+- used/clean chopstick rest points
+- packet/wrapper floor/table positions
+- pushed chair angle/location
+- knife impact point
+- lid/towel/speaker positions
+
+A reverse shot may change screen-left/screen-right but may NOT swap physical story-world sides/order. If an object is moved, require visible movement before topology changes.
 
 REAL-SCENARIO CAUSALITY — ABSOLUTE
-For every state change use:
-START STATE → CAUSE → VISIBLE PHYSICAL ACTION → RESULT → PERSISTENT END STATE.
-Do not use camera cuts or SFX to hide missing movement, pickup, placement, step, reach, sitting/standing, opening/closing, plugging/unplugging, drop/fall, or handoff mechanics.
+For every state change:
+`START STATE → CAUSE → VISIBLE PHYSICAL ACTION → RESULT → PERSISTENT END STATE`.
+Do not use camera cuts/SFX to hide movement, pickup, placement, step, reach, sit/stand, open/close, plug/unplug, drop/fall, handoff.
 
 MANDATORY ACTION-PROOF FRAMING — ABSOLUTE
-For every continuity-critical action, identify the exact physical contact point and require it to be visible in the action slice or immediately adjacent causally continuous detail slice.
+For every continuity-critical action identify exact contact point and require it visible in action slice or immediately adjacent causal detail.
 Examples:
-- hand + plug body + wall socket during unplug
-- hand + key + old/new surface during key transfer
-- blade + sheath mouth during sheathing
-- fingers + falling knife + impact location during drop
-- body + actual chair during sitting/standing/push-back
-- hand + cabinet handle/hinge during opening
-- character reach/breath + same candle during extinguishing
-- fingers + bag opening + tablet physically inside during private glance
+- hand + plug body + wall socket
+- hand + key + old/new surface
+- blade + sheath mouth
+- fingers + falling knife + impact location
+- body + actual chair
+- hand + cabinet handle/hinge
+- reach/breath + candle
+- fingers + bag opening + tablet inside
+- foot + packet before `CRINKLE`
 
-Never crop the decisive mechanism away and then jump to the result. If the mechanism cannot be shown clearly, change the camera angle.
+Never crop decisive mechanism and jump to result. If mechanism cannot be shown clearly, change camera angle.
 
 CHARACTER ↔ ENVIRONMENT REALITY — ABSOLUTE
-Verify feet/support, chair-body alignment, reachability, eyeline, door/cabinet hinge motion, walking route, collision clearance, object scale, and physically truthful reverse angles against the attached environment references. Never mirror a room to make a shot easier.
+Verify feet/support, chair alignment, reachability, eyeline, hinge motion, walking route, collision clearance, scale, and truthful reverse angles against attached environment. Never mirror room for convenience.
 
 WALL-SOCKET RULE — WHEN APPLICABLE
-If this strip says an appliance is unplugged, explicitly state whether the wall-end plug is removed. Unless the script explicitly specifies an appliance-side detachable cable, `unplug` means:
-- wall-mounted outlet/socket is the target
+Unless script explicitly specifies appliance-side detachable cable, `unplug` means:
+- wall-mounted outlet is target
 - appliance-side cord remains attached
-- fingers grip the plug BODY at the wall
+- fingers grip plug BODY at wall
 - hand removes plug from wall socket
 - loose plug remains on same cord
-- wall socket is visibly empty afterward
-- disconnected wall-end state persists until explicit re-plug action
-- the unplug action must visibly prove hand + plug + wall socket; do not crop the contact point
-Reject appliance-side cable removal or cable-pulling masquerading as unplugging.
+- socket visibly empty afterward
+- disconnected state persists until explicit re-plug
+- unplug action visibly proves hand + plug + wall socket
+Reject appliance-side disconnect or cable-pulling masquerading as unplugging.
+
+FIXED LOCAL OUTLET LANDMARK — WHEN APPLICABLE
+If attached canonical visibly establishes outlet, use exact location.
+If it does not, the first APPROVED correct outlet depiction becomes frozen local landmark:
+- same story-world wall
+- same height
+- same faceplate orientation/socket arrangement
+- same relation to furniture/appliance
+- same cord-route family
+Reverse shots cannot move outlet to another wall/height or invent a convenient socket.
 
 STRICT FLAT 2D HUMAN-DRAWN STYLE — ABSOLUTE
-STRICT FLAT 2D HUMAN-DRAWN KOREAN MANHWA/WEBTOON ILLUSTRATION.
-Clean intentional line art; flat colors; restrained simple hard-edged cel shading only; matte skin, hair, fabric, walls, floors, furniture, screens, appliances, and props; stable canonical anatomy/proportions; natural hands; mobile-readable silhouettes and composition.
-DO NOT render photorealistic, semi-photorealistic, 3D/CGI/game-render, painterly, airbrushed, glossy/plastic/wet, beauty-ad shine, mirror-like, excessively specular, cinematic, depth-of-field blurred, bloom-heavy, rim-lit, lens-flared, heavily graded, hyper-textured, or AI-polished over-rendered art.
-Blackout/candle/rain/device effects remain controlled flat shapes and contained accents, never room-flooding cinematic glow.
-Never copy style drift from the previous strip.
+Strict flat 2D human-drawn Korean manhwa/webtoon. Clean intentional line art, flat colors, restrained hard-edged cel shading only, matte materials, stable canonical anatomy/proportions, natural hands, mobile readability.
+NO photoreal/semi-photoreal, 3D/CGI/game render, painterly, airbrushed, glossy/plastic/wet, beauty-ad shine, mirror-like specular, cinematic grading, DOF blur, bloom, rim light, lens flare, hyper-texture, AI-polished over-rendering.
+Blackout/candle/rain/device effects stay controlled flat shapes/contained accents.
+Never copy style drift from previous strip.
 
 NARRATION DESIGN BY SCENARIO — ABSOLUTE
-Keep narration wording exact, but design its caption treatment and placement according to the beat's function and situation rather than using one identical box style or one default location throughout the chapter.
-Examples: neutral time/location = compact editorial; ordinary observation = unobtrusive; warning/procedure = firmer utilitarian; investigation/evidence = report-like; ominous realization = sparse higher-contrast; suspense/listening = minimal footprint.
-Narration must remain within one coherent publication typography family and must never imitate speech balloons, device UI, handwritten notes, or production labels. Never cover faces, hands, food continuity, plug/socket evidence, or key clues.
-Do not default every caption to the top-left. A legitimate story time/location caption may use an upper area when compositionally appropriate, but it must not look like a repetitive small technical tag.
+Keep wording exact; design caption treatment and placement according to beat function, not one repeated box/location.
+Examples: time/location compact editorial; ordinary observation unobtrusive; warning utilitarian; investigation report-like; ominous realization sparse; suspense minimal footprint.
+One coherent publication family. Never mimic speech/device UI/handwriting/production labels. Never cover continuity-critical evidence.
+Do not default captions to top-left; legitimate story time captions may use upper area when compositionally appropriate but must not look like repetitive technical tags.
 
 SEAM IN
-State G/A/E seam type and exact continuing anchors.
+State G/A/E seam and exact continuing anchors.
 
 BLACK READ-SLICE DIVIDER — ABSOLUTE
-Every DISTINCT vertical slice gets a SMALL BLACK GUTTER before the next distinct slice.
-If two independent camera slices share one horizontal row, separate them with a DIAGONAL/SLANTED BLACK DIVIDER. No face, text, balloon, prop, or background crosses the slash.
-The black divider is compact visual grammar, never huge dead space.
-Do not insert a black bar at an A/E technical file boundary when artwork/effect must stitch continuously.
+Every DISTINCT vertical slice gets SMALL BLACK GUTTER.
+Two independent camera slices sharing one row get DIAGONAL/SLANTED BLACK DIVIDER. Nothing important crosses slash.
+No giant filler band. No black bar at A/E technical boundary when artwork/effect continues.
 
 VERTICAL COMPOSITION
-Use continuous Manhwa composition, not a printed-page grid. Every camera change must remain physically possible in the canonical environment.
+Continuous manhwa composition, not printed-page grid. Every camera change physically possible in canonical environment.
 
 SCRIPT / SOURCE OWNERSHIP LOCK
-List exact reader-facing lines/SFX/device/note text and who/what owns each one. Device text stays on its device; thoughts/narration do not become speech.
+List exact reader-facing lines/SFX/device/note text and source. Device text stays device; thoughts/narration do not become speech.
 
 SFX PHYSICAL CHAIN — ABSOLUTE
-For every scripted sound verify:
-SOURCE → PHYSICAL ACTION → EXACT SOUND → EXACT TIMING → VISUAL PLACEMENT → STATE CHANGE → NEXT-BEAT CONSEQUENCE.
-Do not invent filler footsteps, ambience, impacts, or device sounds.
+SOURCE → ACTION → EXACT SOUND → TIMING → PLACEMENT → STATE CHANGE → NEXT-BEAT CONSEQUENCE.
+No filler sounds.
 
 NO DEAD BOTTOM — ABSOLUTE
-Do not leave a giant unused black/white/neutral tail. Expand existing art/environment/reaction/atmosphere/action/reveal timing or use a compact seam buffer. Never invent filler text/SFX.
+No giant unused tail. Expand existing art/environment/reaction/atmosphere/action/reveal timing or compact seam buffer. Never invent filler text/SFX.
 
 SEAM OUT
-Define what continues into the next technical strip.
+Define what continues into next strip.
 
 AUTOMATIC REJECT IF
-List strip-specific continuity failures plus:
-- wrong/missing/unapproved attachments
-- any attached-reference redesign
-- previous-strip permanent drift propagated over canonical authority
+- wrong/missing/unapproved attachment
+- attached-reference redesign
+- previous-strip permanent drift propagated over canon
 - identity/environment/object drift
-- teleporting movement or object transfer
-- adjacent-slice object/food/hand state disappearing without cause
-- impossible reach/body support/room route
-- continuity-critical contact point/mechanism cropped or hidden
-- appliance-side cable removed when story requires unplugging from wall socket
-- power cable pulled instead of plug body
-- unplugged appliance silently plugged back in
+- teleporting movement/object transfer
+- adjacent-slice state disappears without cause
+- prop topology swaps physical sides because camera reverses
+- impossible reach/support/route
+- critical contact mechanism cropped/hidden
+- appliance-side cable removed instead of wall plug
+- cable pulled instead of plug body
+- outlet landmark moved/reinvented
+- unplugged appliance silently replugged
 - wrong text ownership
-- any V/P/strip/beat/panel/scene/technical label appears in art
-- narration forced into one generic repeated design or repetitive top-left tag placement
-- unclear/unsupported SFX
-- missing black slice separators
-- merged side-by-side shots without diagonal divider
+- any V/P/strip/beat/panel/scene/technical label appears
+- narration generic/repetitive top-left tag
+- unsupported SFX
+- missing black divider/diagonal divider
 - giant dead canvas
 - visible technical seam
-- any violation of strict flat 2D human-drawn style
+- strict flat 2D style violation
 ```
 
-After any correction, re-audit the corrected strip and both adjacent seams before approval. After the final strip, run a fresh clean-room visual audit of the stitched chapter rather than inheriting previous PASS labels.
+After any correction, re-audit corrected strip and both adjacent seams. After final strip, run fresh clean-room visual audit of stitched chapter instead of inheriting previous PASS labels.
