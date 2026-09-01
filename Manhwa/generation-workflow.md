@@ -103,6 +103,18 @@ Occlusion is not disappearance. New camera angle does not authorize reset.
 
 Close-up, reverse shot, reaction insert, black gutter, diagonal split, or strip boundary cannot silently change quantity, hand ownership, orientation, connection state, or location. Off-frame objects still exist at last valid state and must re-enter in that same state unless a visible/legal change occurred.
 
+### Temporary Hand Identity Conservation — When Applicable
+
+If a continuity-critical object remains in one physical hand across multiple slices or strips, the first clear action establishes a production-only hand identity for that anatomical hand/arm.
+
+Example: when Nari draws the blackout knife in Strip 016, that anatomical hand becomes `KNIFE HAND` until the knife is released.
+
+Rules:
+- reverse camera shots may flip screen-left/screen-right, but may NOT swap the object into the other physical hand
+- a silent hand transfer is forbidden; any transfer must be scripted and visibly shown
+- after release, later contact that refers to that arm/wrist must use the same anatomical side
+- production-only hand identity labels are NEVER reader-facing text
+
 ## Prop Topology / Relative-Placement Conservation — Absolute
 
 Continuity is not only “does the object still exist?” It also includes **where that object is relative to every nearby anchor**.
@@ -211,26 +223,27 @@ Never propagate style drift from previous strip.
 5. Attach relevant approved object WebPs.
 6. Strip 002 onward: attach immediately previous APPROVED rendered strip for temporary state/seam only.
 7. Missing/stale/wrong-path/unapproved canonical → STOP; no improvisation.
-8. Before generation check START STATE, ALLOWED CHANGES, END STATE, action-proof, prop topology, derived-micro-detail/outlet requirements.
+8. Before generation check START STATE, ALLOWED CHANGES, END STATE, action-proof, temporary-hand identity, prop topology, derived-micro-detail/outlet requirements.
 9. Generate one tall technical strip with no production IDs.
 10. QA exact script/source ownership, identity, movement, object routes/counts, geometry, power/light, object states, lettering/SFX, seams.
 11. QA every adjacent slice for micro-continuity.
-12. QA prop topology/relative physical sides across reverse shots.
-13. QA every critical action for visible proof framing.
-14. QA unplugging against wall-socket + canon-subordinate local-outlet rules.
-15. QA any derived micro-detail remains minimal and subordinate to permanent canon.
-16. QA permanent canon separately from previous-strip temporary state.
-17. QA character-card consistency.
-18. QA strict flat 2D style in pixels.
-19. QA SFX source→action→sound→timing→placement→state consequence.
-20. QA narration treatment/placement; reject one-template/top-left tag repetition.
-21. QA black read-slice grammar/diagonal dividers.
-22. QA lower canvas dead-space.
-23. Reject/regenerate if any mandatory item fails.
-24. Re-audit corrected strip + adjacent seams.
-25. Only APPROVED Strip N becomes temporary continuity authority for N+1.
-26. After Strip032 passes, stitch, seam QA, uniformly resize.
-27. Run fresh clean-room chapter audit 001→032; never trust earlier PASS labels.
+12. QA temporary hand identity across reverse shots/seams when applicable.
+13. QA prop topology/relative physical sides across reverse shots.
+14. QA every critical action for visible proof framing.
+15. QA unplugging against wall-socket + canon-subordinate local-outlet rules.
+16. QA any derived micro-detail remains minimal and subordinate to permanent canon.
+17. QA permanent canon separately from previous-strip temporary state.
+18. QA character-card consistency.
+19. QA strict flat 2D style in pixels.
+20. QA SFX source→action→sound→timing→placement→state consequence.
+21. QA narration treatment/placement; reject one-template/top-left tag repetition.
+22. QA black read-slice grammar/diagonal dividers.
+23. QA lower canvas dead-space.
+24. Reject/regenerate if any mandatory item fails.
+25. Re-audit corrected strip + adjacent seams.
+26. Only APPROVED Strip N becomes temporary continuity authority for N+1.
+27. After Strip032 passes, stitch, seam QA, uniformly resize.
+28. Run fresh clean-room chapter audit 001→032; never trust earlier PASS labels.
 
 ## Reference Priority
 
@@ -270,6 +283,7 @@ Reject for:
 - one fixed narration design/repetitive top-left caption placement
 - teleporting movement/props
 - adjacent-slice object/food/hand disappearance without cause
+- continuity-critical hand silently swaps across reverse camera/strip
 - prop topology swapping physical sides across reverse shots
 - continuity-critical mechanism hidden/cropped
 - appliance cable removed instead of wall plug
