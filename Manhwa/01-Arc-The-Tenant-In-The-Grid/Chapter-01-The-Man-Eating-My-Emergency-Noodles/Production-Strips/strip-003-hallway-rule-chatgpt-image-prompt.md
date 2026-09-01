@@ -18,6 +18,50 @@ ATTACH — REQUIRED
 - this Strip 003 prompt
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached references are binding. Keep Nari/Mrs. Na identities, counter placement, hallway direction, lamp position, binder body, and key identity unchanged. Do not move the hallway lamp or mirror the room to make the insert easier.
+Never render V/P/strip/beat/panel/scene labels. `V12`–`V15`, `P2`, and `Strip 003` are production-only and must not appear anywhere, especially not top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- Nari and Mrs. Na are at the SAME kitchen-counter positions inherited from Strip 002.
+- SAME binder lies flat on counter.
+- SAME Unit 2407 brass key lies separately beside binder, already detached from Mrs. Na's ring.
+- hallway mains lamp exists at exact canonical wall/ceiling position and is normally powered.
+- no device is malfunctioning; no supernatural effect is active.
+
+ALLOWED CHANGES:
+- expressions, head turns, eyelines, and natural pointing/indicating gestures only.
+- camera may cut to canonical hallway-lamp insert and optional phone/tablet examples while keeping both women physically at counter.
+- no one picks up, moves, duplicates, or removes binder/key.
+
+END:
+- both women remain at same counter positions.
+- binder + key remain exact same counter locations.
+- hallway lamp remains on and unchanged.
+- question chain continues directly into Strip 004.
+
+==================================================
+MICRO-CONTINUITY / INTERACTION REALITY — ABSOLUTE
+==================================================
+
+If Mrs. Na indicates the hallway lamp, her body/eyeline/gesture must point toward the lamp's real canonical direction. Do not place the lamp in a convenient invented wall position.
+Phone/tablet inserts are conceptual examples only; they do not teleport into hands unless an existing device is physically present and handled. Prefer simple non-story-active inserts rather than inventing device handling.
+Binder and key remain visible/logically present even when camera changes. Occlusion is not relocation.
+
+==================================================
+NARRATION / TEXT DESIGN BY SITUATION — ABSOLUTE
+==================================================
+
+This strip is primarily spoken warning dialogue, so narration should not be invented. The visual hierarchy should shift from ordinary counter conversation to firmer rule/warning tension through composition, expression, and balloon placement—not through a generic repeated narration box or fake warning UI.
+Speech balloons remain human dialogue. Do not turn Mrs. Na's warning into a system banner/caption.
+
+==================================================
 EXACT START / NO RESET — ABSOLUTE
 ==================================================
 
@@ -101,14 +145,17 @@ SEAM OUT — A/G
 Strip 004 starts with Nari's whole-building-outage question from these exact positions.
 
 AUTOMATIC REJECT IF
-- binder/key relocate
+- any V/P/strip/beat/panel/scene or production label appears
+- attached reference identity/geometry/object design changes
+- binder/key relocate or duplicate
 - binder body/title differs from canonical
 - key shape/material differs from canonical
-- duplicate binder/key appears
 - hallway lamp changes place/design
-- phone/tablet becomes a supernatural event
+- pointing/eyeline indicates a noncanonical lamp location
+- phone/tablet becomes a supernatural event or appears through unexplained handling
 - dialogue tails swap
 - room axis flips
+- fake warning UI/narration replaces spoken warning dialogue
 - distinct slices have no small black divider
 - giant blank bottom appears
 ```
