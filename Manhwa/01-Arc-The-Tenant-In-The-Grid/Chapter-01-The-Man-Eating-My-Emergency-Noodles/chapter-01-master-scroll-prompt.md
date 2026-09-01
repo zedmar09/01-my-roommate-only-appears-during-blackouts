@@ -20,18 +20,23 @@ No traditional pages, page numbers, circled panel numbers, reader-visible strip 
 CANONICAL CONTINUITY STACK
 1. current user instruction
 2. current chapter story/strip script
-3. current approved character canonical(s)
-4. approved reusable environment canonical(s)
-5. approved reusable object canonical(s)
-6. previous approved strip temporary state
+3. current approved character canonical WebP(s)
+4. approved reusable environment WebP(s)
+5. approved reusable object WebP(s)
+6. previous approved rendered strip temporary state
 
 REUSABLE REFERENCES
-Environment: `Manhwa/Environment-References/Unit-2407/`, `Building-Shared-Areas/`.
-Objects: `Manhwa/Object-References/` smart speaker / TV / refrigerator / electrical-operation guide / brass backup key.
+Environment: `Manhwa/Environment-References/Unit-2407/`, `Manhwa/Environment-References/Building-Shared-Areas/`.
+Objects: current approved WebPs under `Manhwa/Object-References/` for smart speaker / TV / refrigerator / electrical-operation guide / brass backup key.
 Reuse these in later chapters whenever the same physical place/object returns.
 
+REFERENCE IMAGE FORMAT
+Reference prompts may generate PNG first locally. After visual approval, manually convert to WebP. The exact committed WebP is the production attachment authority.
+
 REFERENCE AVAILABILITY — BLOCKING
-If any required canonical PNG listed by a strip is missing, stale, or unapproved, STOP before strip generation. Do not improvise a substitute and do not promote draft/reference-prompt text into visual approval.
+If any required canonical WebP listed by a strip is missing, stale, wrong-path, or unapproved, STOP before strip generation. Do not improvise a substitute and do not promote draft/reference-prompt text into visual approval.
+
+Every strip attachment block must use the exact current repository `.webp` filename, not an obsolete PNG or vague shorthand.
 
 BLACK READ-SLICE GRAMMAR — ABSOLUTE
 Every DISTINCT vertical reading slice/composition uses a small black gutter before the next distinct slice.
@@ -62,5 +67,5 @@ CHAPTER END
 End on visibly unplugged TV displaying `NEW TENANT CONFIRMED`; apartment lights flicker once `FZZT` but remain powered. End immediately on Nari reaction + hostile message.
 
 FINAL APPROVAL RULE
-Do not declare Chapter 1 production-complete from prompts alone. Final approval requires the required approved canonical PNGs, all 32 rendered strips, sequential visual QA, seam/stitch QA, and a fresh clean-room visual audit proving strict flat 2D human-drawn compliance.
+Do not declare Chapter 1 production-complete from prompts/reference availability alone. Final approval requires all 32 rendered strips, sequential visual QA, seam/stitch QA, and a fresh clean-room visual audit proving strict flat 2D human-drawn compliance with zero unresolved mandatory defects.
 ```
