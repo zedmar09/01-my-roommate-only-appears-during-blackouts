@@ -23,8 +23,8 @@ Do NOT attach Hyun-woo.
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 030 controls temporary chair/notebook/table/open-cabinet state only; correct permanent character/TV/room drift to canon rather than propagating it.
-Preserve exact Nari identity, untouched-chair position, notebook/pen, full table topology, pushed Hyun-woo chair, exact open speaker cabinet stack, phone/binder/key/desk states, TV body/stand/cord, fixed WALL SOCKET landmark, and powered room geometry.
+Attached canonical WebPs are permanent authority. APPROVED Strip 030 controls temporary chair/notebook/table/open-cabinet state and canon-compatible outlet micro-detail only; correct permanent character/TV/room drift to canon rather than propagating it.
+Preserve exact Nari identity, untouched-chair position, notebook/pen, full table topology, pushed Hyun-woo chair, exact open speaker cabinet stack, phone/binder/key/desk states, TV body/stand/cord, canon-subordinate Chapter 1 WALL SOCKET continuity, and powered room geometry.
 Never render V143–V145, P18, Strip 031, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
@@ -40,8 +40,9 @@ START:
 - Hyun-woo chair = pushed back/angled
 - exact open speaker cabinet stack unchanged: lid flat beside pot, TOWEL1 liner, speaker+attached coiled cord/loose plug, TOWEL2 folded back
 - phone/binder counter, key tray, sheathed knife/tools desk unchanged
-- SAME TV = canonical position, inactive, still unplugged FROM SAME fixed wall-mounted socket since Strip 006
-- TV appliance-side cord attached; same cord ends loose wall plug; same fixed socket empty
+- SAME TV = canonical position, inactive, still unplugged FROM SAME canon-compatible Chapter 1 wall-outlet micro-detail established/confirmed in Strip 006
+- TV appliance-side cord attached; same cord ends loose wall plug; same socket empty
+- outlet micro-detail remains subordinate to attached environment/object WebPs
 - Unit ordinary power remains ON
 
 ALLOWED CHANGES:
@@ -59,7 +60,7 @@ END:
 - notebook = same open table position with exact writing visible
 - SAME pen = released horizontally across lower/open notebook page/margin in exact final writing-rest position
 - PAIR A / PAIR B / packet/wrapper/pot topology unchanged
-- TV = hostile activation begun, still physically unplugged FROM WALL with attached TV-side cord, loose plug, empty fixed wall socket
+- TV = hostile activation begun, still physically unplugged FROM WALL with attached TV-side cord, loose plug, empty canon-compatible Chapter 1 wall socket detail
 - Unit remains powered
 - all other props unchanged
 
@@ -111,24 +112,26 @@ Open cabinet remains exact revealed state:
 No cleanup/reset because final TV activates.
 
 ==================================================
-TV FIXED WALL-OUTLET STATE — ABSOLUTE / NO REINTERPRETATION
+TV WALL-OUTLET CONTINUITY — CANON-SUBORDINATE / NO REINTERPRETATION
 ==================================================
 
-Preserve exact Strip 006 fixed outlet landmark:
-- SAME story-world wall
-- SAME height/orientation/faceplate relation
+Preserve the same Chapter 1 outlet detail carried from Strip 006 only insofar as it remains compatible with attached canonical geometry:
+- same story-world wall within canonical TV zone
+- same height/orientation/faceplate relation established for Chapter 1 continuity
 - TV-side cord STILL attached
 - same cord continues to SAME loose plug
 - plug NOT inserted
-- SAME socket EMPTY
+- socket EMPTY
 
-Reverse shots may flip screen-left/right but cannot move socket to different physical wall/height or reroute cable through furniture.
+Reverse shots may flip screen-left/right but cannot move outlet to different physical wall/height or reroute cable through furniture.
+
+This outlet micro-detail is NOT new permanent canon. If an attached canonical WebP clearly contradicts it, canonical wins and the shot must be corrected/recomposed.
 
 Do NOT:
 - pull cable out of TV body
 - show empty TV power port as proof
 - plug into stand/furniture
-- move socket
+- move socket against canonical geometry
 - omit/replace cord
 - silently replug
 - add hidden second cable/source
@@ -140,10 +143,12 @@ MANDATORY V145 WALL-UNPLUG PROOF FRAMING — ABSOLUTE
 V145 must VISUALLY prove wall-disconnected state during activation, not leave it entirely offscreen.
 
 Use either:
-A. one composition where active TV + TV-side attached cord + loose wall-end plug + empty fixed wall socket all readable; OR
+A. one composition where active TV + TV-side attached cord + loose wall-end plug + empty wall socket all readable; OR
 B. two immediately adjacent causally continuous slices: active-TV/Nari + plug/socket detail.
 
 If B, detail clearly belongs to SAME TV/SAME moment. It must show cord attached at TV side, same cord reaching loose plug, plug outside socket, socket empty, no second cable.
+
+The proof composition must respect attached canonical room geometry first. Do not distort/move wall/furniture to force the plug into frame; recompose camera instead.
 
 ==================================================
 CHAIR / BODY MICRO-CONTINUITY — ABSOLUTE
@@ -187,7 +192,7 @@ Do NOT reveal `NEW TENANT CONFIRMED` yet.
 No reflection/face/silhouette. Unit remains powered.
 
 MANDATORY SAME-MOMENT PROOF:
-show active SAME TV plus causally adjacent detail proving TV-side cord attached + SAME loose wall plug OUTSIDE SAME EMPTY fixed wall socket. No second power cable.
+show active SAME TV plus causally adjacent detail proving TV-side cord attached + SAME loose wall plug OUTSIDE SAME EMPTY wall socket, all within canonical room geometry. No second power cable.
 
 ==================================================
 NO DEAD BOTTOM / SEAM
@@ -199,14 +204,16 @@ Strip 032 continues same TV body/cord/plug/socket/hostile field, Nari chair/pose
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
-- permanent drift previous strip propagated over canon
+- permanent drift/derived outlet detail propagated over canon
 - notebook digital/duplicates/disappears/handwriting changes
 - pen disappears/remains in incompatible hand or TV turn occurs before pen release
 - table/cabinet topology resets/swaps
 - TV plugged/moved/redesigned/cable detached from TV body
-- wall socket moves wall/height/orientation or becomes occupied
+- outlet micro-detail treated as authority over attached canon
+- wall socket moves against canonical geometry or becomes occupied
 - loose plug disappears/reconnects
 - V145 omits mandatory active-TV + loose-plug/empty-socket proof
+- proof framing distorts wall/furniture to expose outlet instead of recomposing camera
 - hidden second cable/source
 - Nari leaves chair/teleports
 - refrigerator-style effect used on TV
