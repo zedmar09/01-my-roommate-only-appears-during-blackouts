@@ -18,14 +18,14 @@ ATTACH — REQUIRED
 - this Strip 026 prompt
 
 Do NOT attach Hyun-woo.
-Use `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-reference.webp` additionally if the kitchen→desk→entry route requires an unlisted camera angle.
+Use `unit-2407-room-angle-atlas-reference.webp` additionally only if needed for the table-edge→desk→entry route.
 
 ==================================================
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 025 controls temporary post-blackout evidence/power state only; correct any permanent face/room/object drift to attached canon instead of propagating it.
-Preserve exact powered Unit geometry, Nari identity, desk/entry route, key/tray, latch/smart-lock location, TV body/cord/wall-socket identity, and all encounter evidence.
+Attached canonical WebPs are permanent authority. APPROVED Strip 025 controls temporary post-blackout evidence/power/Nari-position state only; correct permanent drift to canon rather than propagating it.
+Preserve exact powered Unit geometry, Nari identity, desk/entry route, key/tray, latch/smart-lock, TV body/cord/fixed-wall-socket identity, and all encounter evidence.
 Never render V119–V123, P16, Strip 026, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
@@ -33,96 +33,121 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
 START:
-- Unit 2407 = canonical neutral powered baseline immediately after Strip 025
+- Unit = canonical neutral powered baseline immediately after Strip 025
 - Hyun-woo absent
-- encounter evidence UNTOUCHED: practical knife exact floor spot, pushed-back chair, pot/noodles/chopsticks/trivet/cloth, extinguished candle/holder, five unopened pantry packets + empty used packet, closed hidden-speaker cabinet, SAME TV still unplugged FROM WALL, binder kitchen counter, brass key entry tray
-- TV-side cord remains attached to canonical TV body; same cord ends in loose wall-end plug; same wall socket remains empty
-- Nari's SAME phone = work desk where it remained through blackout
+- Nari = EXACT SAME table-edge-adjacent post-reach position/foot marks where Strip 025 V118 left her; arms lowered/free after shield reaction
+- encounter evidence UNTOUCHED: practical knife exact floor spot, pushed-back chair, pot/noodles/used chopsticks/trivet/cloth, seasoning wrapper, extinguished candle/holder, five unopened pantry packets, SAME nudged empty spicy-seafood outer packet on floor, closed hidden-speaker cabinet, SAME TV still unplugged FROM WALL, binder kitchen counter, brass key entry tray
+- TV-side cord attached; same cord ends loose wall plug; same fixed wall socket empty
+- SAME phone = work desk where it remained through blackout
 
 ALLOWED CHANGES:
-- V119 Nari calls for Hyun-woo without moving evidence
-- V120 Nari physically walks current dining/kitchen area → desk, picks up SAME phone, then desk → entry, tests same latch/door
-- V121 uses same smart-lock display at entry
+- V119 Nari calls for Hyun-woo from exact starting position; NO step before/while calling
+- V120 only after V119: Nari begins physical route table-edge position → desk, picks up SAME phone, then desk → entry, tests same latch/door
+- V121 uses same smart-lock display
 - V122 uses SAME phone for camera archive
-- V123 same phone remains in Nari's hand for security call
-- key remains tray; no cleanup or other prop movement
+- V123 SAME phone remains in hand for security call
+- key remains tray; no cleanup/other prop movement
 
 END:
-- Nari = at/near entry/security-call position
-- SAME phone = in her hand, active call state
+- Nari = at/near entry/security-call position reached by visible route
+- SAME phone = in hand, active call state
 - key = entry tray untouched
-- TV = same canonical body still unplugged from wall if visible; loose plug/empty socket state unchanged
-- all encounter evidence remains where inherited
+- TV same canonical body still wall-unplugged; fixed outlet state unchanged
+- all encounter evidence remains inherited
 - Unit remains normally powered
+
+==================================================
+V119→V120 EXACT POSITION / ROUTE — ABSOLUTE
+==================================================
+
+Do not use the seam to relocate Nari.
+
+V119 begins at exact Strip 025 V118 foot/body location.
+Only AFTER `HYUN-WOO?` does she move.
+
+Route proof:
+1. Nari starts table-edge-adjacent
+2. feet turn/orient toward canonical desk route
+3. she physically walks around existing table/furniture clearance to desk
+4. no collision with knife floor spot/pushed chair/table
+5. hand contacts SAME phone at desk
+6. phone leaves desk
+7. she then walks desk → entry via canonical route
+
+Do not begin Strip 026 with Nari already at desk or entry.
 
 ==================================================
 PHONE ROUTE / HAND MICRO-CONTINUITY — NON-NEGOTIABLE
 ==================================================
 
-Phone must follow one physical route:
-desk resting position → Nari reaches desk → hand picks up SAME phone → carries it to entry → uses smart-lock/camera evidence while holding it as appropriate → security call.
+Phone route:
+desk resting → hand contact/pickup → carried to entry → smart-lock/camera evidence → security call.
 
-Do not show phone in Nari's hand before desk pickup. Do not show a second phone for archive/call close-ups. If she uses the smart lock with one hand while holding phone in the other, anatomy/hand occupancy must be plausible.
+Do not show phone in hand before desk pickup. No second phone for archive/call close-ups.
+If she uses smart lock with one hand while holding phone in other, anatomy/hand occupancy plausible.
 
-V120 latch test uses the actual door/latch hardware. `TUG` belongs to physical latch/door test, not phone or smart lock.
+V120 latch test uses actual door/latch hardware. `TUG` belongs to physical latch/door test.
 
 ==================================================
 MANDATORY ACTION-PROOF FRAMING — ABSOLUTE
 ==================================================
 
-V120 must visually prove both critical actions rather than jump to results:
-- desk pickup: Nari's hand contacts SAME phone at desk before it appears in her carried hand
-- latch test: hand contacts real latch/door hardware before `TUG` and locked result
-
-Do not crop both contact points away and rely on dialogue/SFX to imply them.
+V120 visually proves:
+- desk phone pickup contact
+- latch/door hardware contact before `TUG`
+Do not crop both mechanisms and rely on result/SFX.
 
 ==================================================
-EVIDENCE PERSISTENCE — ABSOLUTE
+EVIDENCE / PROP TOPOLOGY PERSISTENCE — ABSOLUTE
 ==================================================
 
-Power return does not clean the apartment. Across every camera cut:
-- knife remains exact floor spot
-- Hyun-woo's chair remains pushed back
-- candle remains extinguished
-- dining food/pot/chopsticks remain
-- pantry count/evidence remains
-- hidden-speaker cabinet stays closed
-- binder stays counter
-- key stays tray
-- TV remains unplugged FROM WALL: canonical TV-side cord attached, loose wall-end plug outside empty wall socket
+Power return does not clean apartment. Across every camera cut:
+- knife exact floor spot
+- pushed chair exact position
+- candle extinguished same holder/table
+- pot/trivet fixed
+- folded cloth same hot-handle side
+- used Hyun-woo chopsticks same fixed pot rest point
+- seasoning wrapper same table spot
+- five unopened pantry packets
+- SAME nudged empty spicy-seafood outer packet same floor spot
+- hidden-speaker cabinet closed
+- binder counter
+- key tray
+- TV wall-unplugged with fixed outlet landmark from Strip 006
 
-The TV object canonical is attached specifically so any visible TV/cord state cannot redesign during this evidence strip.
-If the TV is entirely off-camera, its state still persists. If it appears, it must match the attached TV canonical plus the established loose-plug/empty-wall-socket story state.
+Reverse views do not swap physical sides/order. If evidence off-camera, state persists.
 
 ==================================================
 DEVICE / TEXT / NARRATION DESIGN — ABSOLUTE
 ==================================================
 
-No narration is scripted; do not invent any.
-- smart-lock history = text on smart-lock display only
-- camera archive = content on SAME phone only
+No narration scripted; do not invent.
+- smart-lock history = smart-lock display only
+- camera archive = SAME phone only
 - security voice = phone audio/dialogue only
 - Nari lines = speech
-Do not turn archive timestamps into top-left strip labels or floating captions. `12:43 A.M. — RECORDING LOST` exists only inside camera/archive device content.
+Archive timestamps stay inside phone content, never top-left floating labels.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Small black gutter between each evidence-chain slice. If smart-lock and phone/camera inserts share one row, separate with diagonal black divider. These gutters organize evidence without becoming page breaks.
+Small black gutter between evidence slices. Smart-lock vs phone/camera inserts sharing row use diagonal black divider. Gutters organize evidence, not page breaks.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
-V119 — EMPTY SPACE
+V119 — EMPTY SPACE / SAME START POSITION
 NARI:
 `HYUN-WOO?`
+No movement yet.
 
 SMALL BLACK GUTTER.
 
-V120 — ROUTE / PHONE PICKUP / LATCH
-Show dining/kitchen → desk route, hand contacting/picking up SAME phone, then desk → entry route, then hand contacting/testing still-engaged latch/locked door.
+V120 — TABLE-EDGE → DESK → PHONE PICKUP → ENTRY / LATCH
+Show exact route and contact actions above.
 SFX at latch/door:
 `TUG`
 
@@ -160,24 +185,25 @@ No physical security guard shown.
 POWER / NO DEAD BOTTOM
 ==================================================
 
-All current-time views use canonical neutral powered lighting. Archive darkness stays inside phone content only.
+Current-time views canonical neutral powered lighting. Archive darkness inside phone content only.
 Use security-call composition through lower canvas; no giant tail.
 
 SEAM OUT — G
-Strip 027 continues SAME phone in Nari's hand from same entry-area state into voicemail.
+Strip 027 continues SAME phone in Nari's hand from same entry-area state.
 
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
-- permanent drift from previous strip is propagated over canon
-- phone teleports/duplicates or changes device identity
-- Nari skips desk pickup route or pickup contact point is hidden
-- latch test mechanism is hidden/cropped
+- permanent drift from previous strip propagated over canon
+- Nari starts at desk/entry instead of exact Strip 025 foot position
+- Nari skips table-edge→desk route
+- phone teleports/duplicates
+- desk pickup/latch contact hidden
 - brass key moves/duplicates/redesigns
-- encounter evidence is cleaned/moved/reset
-- TV body/cord redesigns or TV silently reconnects to wall
-- current apartment is rendered as blackout
-- archive shows a person/reflection or archive timestamps float outside phone
+- evidence cleaned/moved/reset or topology swaps in reverse shot
+- TV outlet/cord redesigns or silently reconnects
+- current apartment rendered as blackout
+- archive shows person/reflection or timestamps float outside phone
 - device text categories merge into narration
 - black dividers missing/oversized
 ```
