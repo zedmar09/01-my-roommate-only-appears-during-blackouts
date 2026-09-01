@@ -1,6 +1,6 @@
 # Chapter 1 Manhwa Generation Checklist
 
-Status: **FULL STORY RE-AUDITED — 32 STRIPS — ALL STRIP ATTACHMENTS EXPLICIT — BLACK SLICE GRAMMAR LOCKED**
+Status: **FULL STORY RE-AUDITED — 32 STRIPS — ALL STRIP ATTACHMENTS EXPLICIT — BLACK SLICE GRAMMAR LOCKED — MANUAL/KEY CANONICALS ADDED**
 
 ## Scope
 
@@ -38,7 +38,9 @@ Verify every carried object has a visible/explicit route; nothing appears/disapp
 Verify recurring prop count/state/location is stable.
 
 Specific Chapter 1 locks:
-- Mrs. Na: binder/key physically counter→entry route; binder remains kitchen counter, brass key ends entry tray
+- Mrs. Na: SAME canonical electrical-operation guide + SAME canonical brass backup key arrive together; guide remains kitchen counter, key physically counter→Nari hand→entry tray
+- electrical-operation guide: exact canonical cover/title `UNIT 2407 / ELECTRICAL OPERATION GUIDE`; same binder body; Section 16 physically jumps to Section 18; no normal visible Section 17; south-wall diagram handwriting stays physical paper
+- brass backup key: exactly one canonical mechanical brass key; same bow/head + blade/notch identity; never becomes keycard/fob and never duplicates
 - speaker: kitchen counter plugged → unplugged → remains counter → hidden in storage stockpot/lower cabinet → later voice-only while still unplugged
 - guarded fruit knife and practical sheathed blackout knife are TWO distinct objects
 - six noodles before Hyun-woo eats; five unopened after spicy-seafood packet used
@@ -58,7 +60,32 @@ Priority:
 4. reusable object canonical
 5. previous approved strip temporary state
 
+Reusable object canonicals now include:
+- smart speaker
+- TV
+- refrigerator
+- Unit 2407 electrical-operation guide/manual
+- Unit 2407 brass backup key
+
 Reject room-axis flips, impossible camera angles, moved fixed architecture/furniture/appliances, object redesign, or propagation of prior drift against a canonical.
+
+## Manual / Key Canonical Gate
+
+Manual:
+- same one binder across all appearances
+- exact cover/title remains `UNIT 2407 / ELECTRICAL OPERATION GUIDE`
+- never turns into a tablet/booklet/new binder
+- `SECTION 16` → `SECTION 18` jump remains physically readable when inspected
+- do not invent a normal `SECTION 17`
+- handwritten `KEEP ONE MAINS-POWERED LIGHT ON AFTER MIDNIGHT.` remains old physical handwriting on the south-wall diagram page
+
+Key:
+- same one brass mechanical backup key
+- same canonical shape/notch identity
+- initially on Mrs. Na's key ring, detached to counter, then moved by Nari to entry tray
+- when reused in Strip 007, same tray→Nari hand→tray route
+- remains in tray during powered evidence sequence unless script explicitly moves it
+- no duplicate key, keycard, smart fob, antique/fantasy key, or silver/chrome redesign
 
 ## Black Read-Slice Gate — Absolute
 
@@ -105,6 +132,7 @@ Inspect lower 20–25% of every strip. Large space is allowed only for existing 
 - paper-only / south-wall warning preserved
 - A5 notebook physical route preserved
 - TV visibly unplugged at final activation
+- canonical brass backup key remains in entry tray unless script explicitly moves it
 
 ## Final Gate
 
