@@ -31,7 +31,11 @@ Production must preserve the attached character identity, environment geometry, 
 
 If an intended composition conflicts with an approved reference, recompose the shot/action. **Never modify canon to make generation easier.**
 
-Previous-strip artwork controls temporary state only. It cannot override a permanent character/environment/object canonical.
+### Permanent Canon vs Previous Strip — Absolute
+
+The immediately previous approved strip controls **temporary story state only**: pose, facing, held items, open/closed state, temporary prop placement, current power/light state, damage, food amount, and seam continuity.
+
+It does **not** outrank permanent canon. If a previous rendered strip contains a permanent drift in face, hair, body proportions, room geometry, wall-socket location, appliance body, furniture placement, or recurring object construction, correct that permanent drift back to the attached canonical while preserving only the legitimate temporary state. Never propagate a known mistake merely because it appeared in Strip N.
 
 ## Real-Scenario Cause / Action / Consequence — Absolute
 
@@ -43,19 +47,23 @@ Audit small actions too: reach, grip, hand occupancy, step count, sit/stand mech
 
 A camera cut cannot be used to hide a teleport or reset.
 
-## Wall-Socket / Appliance-Cord Rule — Absolute
+## Mandatory Action-Proof Framing — Absolute
 
-Unless a script explicitly says a detachable appliance-side cable is removed, **UNPLUG means removing the electrical plug from the WALL-MOUNTED SOCKET / OUTLET.**
+When an action establishes a continuity-critical fact, the artwork must **visually prove the mechanism**, not merely show the before-state and later result.
 
-Required:
-- socket is physically on the wall at the canonical location
-- appliance-side cord remains attached to the appliance
-- same cord leads to same wall plug
-- hand acts at the wall plug/socket for the unplugging beat
-- after unplugging, loose plug remains attached to cord and wall socket is empty
-- subsequent views preserve the same disconnected wall-end state until an explicit re-plug action
+For critical interactions, frame the physical contact point/source and the result in the same slice or in immediately adjacent causally continuous detail slices. Required examples include:
+- hand gripping plug body at the WALL socket → plug leaves socket → loose plug + empty socket
+- hand picking up / placing brass key → old location becomes empty → new location contains same key
+- knife entering sheath → blade visibly aligns/inserts → sheathed knife remains
+- knife leaving fingers → visible fall path → one impact spot
+- seated body + actual chair → push/clearance → stand beside same moved chair
+- hand on cabinet handle / door hinge action → cabinet opens
+- breath/reach relative to same candle → flame extinguishes
+- bag opening physically parted → tablet seen inside without X-ray visibility
 
-Reject if the cable is pulled out of the TV/speaker/appliance body instead of the wall socket, if the wall socket moves, if the plug disappears, or if the appliance silently becomes plugged again.
+Do not crop the decisive contact point offscreen. Do not use an SFX, reaction shot, narration, or later state as a substitute for showing the required mechanism.
+
+If the contact point cannot be shown clearly at the chosen angle, **change the camera angle, not the action or canon**.
 
 ## Micro-Continuity / Persistence Ledger — Absolute
 
@@ -76,6 +84,10 @@ Track at minimum:
 
 Occlusion is not disappearance. A new camera angle does not authorize a reset.
 
+### Camera-Cut Conservation Rule — Absolute
+
+A close-up, reverse shot, reaction insert, black gutter, diagonal split, or technical strip boundary cannot silently change quantity, hand ownership, orientation, connection state, or location. If the next slice omits an object because it is off-frame, the object still exists at the last valid state. When it re-enters frame, it must return in that same state unless a visible/legal change occurred.
+
 ## Character ↔ Environment Physical Interaction — Absolute
 
 For every slice verify:
@@ -89,9 +101,25 @@ For every slice verify:
 - object and character scale match the attached environment
 - reverse angles are derived from canon, not mirrored for convenience
 
+## Wall-Socket / Appliance-Cord Rule — Absolute
+
+Unless a script explicitly says a detachable appliance-side cable is removed, **UNPLUG means removing the electrical plug from the WALL-MOUNTED SOCKET / OUTLET.**
+
+Required:
+- socket is physically on the wall at the canonical location
+- appliance-side cord remains attached to the appliance
+- same cord leads to same wall plug
+- hand acts at the wall plug/socket for the unplugging beat
+- fingers grip the plug BODY, never pull the cable itself
+- after unplugging, loose plug remains attached to cord and wall socket is empty
+- subsequent views preserve the same disconnected wall-end state until an explicit re-plug action
+- the critical unplug action must show plug + hand + wall socket clearly enough to prove which end was disconnected
+
+Reject if the cable is pulled out of the TV/speaker/appliance body instead of the wall socket, if the cord itself is yanked instead of the plug body, if the wall socket moves, if the plug disappears, if the decisive socket interaction is cropped away, or if the appliance silently becomes plugged again.
+
 ## Narration Design By Scenario — Absolute
 
-Narration wording remains exact, but narration **visual treatment must respond to the specific purpose, event, pacing, and emotional pressure of the beat**. Do not reuse one identical caption design for the whole chapter.
+Narration wording remains exact, but narration **visual treatment and placement must respond to the specific purpose, event, pacing, and emotional pressure of the beat**. Do not reuse one identical caption design or one default caption position for the whole chapter.
 
 Use a coherent family with context-sensitive variants, for example:
 - neutral time/location setup → clean compact editorial caption
@@ -100,6 +128,8 @@ Use a coherent family with context-sensitive variants, for example:
 - investigative/evidence narration → compact report-like treatment
 - ominous realization → sparse higher-contrast treatment
 - suspense/listening/reveal delay → minimal footprint so silence/art dominates
+
+Placement must follow composition. **Do not default every caption to the top-left.** A reader-facing time/location caption may appear near an upper edge when compositionally appropriate, but it must not resemble a production tag and must not reuse a repetitive small top-left label treatment across strips.
 
 Narration must never imitate speech balloons, screen UI, handwritten notes, or production labels. It must not cover faces, hands, wall plugs/sockets, food continuity, clues, or canonical environment anchors.
 
@@ -141,39 +171,41 @@ Do not propagate style drift from the previous strip. Permanent style authority 
 3. Attach required **current approved character-card canonical WebP(s)** for physically visible characters.
 4. Attach the smallest relevant approved reusable environment WebP set listed in the current strip.
 5. Attach relevant approved reusable object WebP(s) listed in the current strip.
-6. For Strip 002 onward, attach the immediately previous APPROVED rendered strip.
+6. For Strip 002 onward, attach the immediately previous APPROVED rendered strip for temporary state/seam continuity only.
 7. If a required canonical WebP is missing, stale, wrong-path, or unapproved, **STOP** and create/regenerate/approve it; never improvise a substitute and never mark the strip production-ready.
-8. Before generation, write/check the strip's START STATE, ALLOWED CHANGES, and END STATE ledger.
+8. Before generation, write/check the strip's START STATE, ALLOWED CHANGES, END STATE, and continuity-critical action-proof requirements.
 9. Generate one tall vertical technical strip without any reader-visible production IDs.
 10. QA exact script/source ownership, character identity, movement, object routes/counts, environment geometry, power state, lighting, object states, lettering/SFX, and seam behavior.
 11. QA every adjacent slice for micro-continuity: hands, food, held props, cords/plugs/sockets, body position, chair state, open/closed state, and object persistence.
-12. QA any unplugging beat against the wall-socket rule.
-13. QA character-card consistency from the current camera angle: face, hair length/silhouette, build, accessories, outfit identity, and expression must remain the same person.
-14. QA strict flat 2D human-drawn style in the actual image against `Manhwa/style-guide.md`.
-15. QA SFX as a physical chain: source → action → sound → timing → placement → state change/consequence.
-16. QA narration treatment for the actual scenario; reject one-template narration styling that ignores beat function.
-17. QA the **black read-slice grammar**: small black gutter between distinct vertical slices; diagonal/slanted black divider between separate side-by-side views; no giant black bands.
-18. QA lower 20–25% for dead/unused canvas.
-19. Reject/regenerate before proceeding if any mandatory item fails.
-20. Re-audit the corrected strip after every correction, then cross-audit adjacent strips for regressions.
-21. Only an APPROVED Strip N becomes temporary continuity authority for Strip N+1.
-22. After the last strip passes, stitch in order, crop intentional overlaps, run seam QA, then uniformly resize for publishing.
-23. Run one fresh clean-room chapter audit from Strip 001 through Strip 032 after all corrections. Do not trust earlier PASS labels.
+12. QA every continuity-critical action for visible proof framing; reject hidden/cropped mechanisms.
+13. QA any unplugging beat against the wall-socket rule.
+14. QA permanent canon against attached WebPs separately from previous-strip temporary state.
+15. QA character-card consistency from the current camera angle: face, hair length/silhouette, build, accessories, outfit identity, and expression must remain the same person.
+16. QA strict flat 2D human-drawn style in the actual image against `Manhwa/style-guide.md`.
+17. QA SFX as a physical chain: source → action → sound → timing → placement → state change/consequence.
+18. QA narration treatment and placement for the actual scenario; reject one-template narration styling or repetitive top-left tag placement.
+19. QA the **black read-slice grammar**: small black gutter between distinct vertical slices; diagonal/slanted black divider between separate side-by-side views; no giant black bands.
+20. QA lower 20–25% for dead/unused canvas.
+21. Reject/regenerate before proceeding if any mandatory item fails.
+22. Re-audit the corrected strip after every correction, then cross-audit adjacent strips for regressions.
+23. Only an APPROVED Strip N becomes temporary continuity authority for Strip N+1.
+24. After the last strip passes, stitch in order, crop intentional overlaps, run seam QA, then uniformly resize for publishing.
+25. Run one fresh clean-room chapter audit from Strip 001 through Strip 032 after all corrections. Do not trust earlier PASS labels.
 
 ## Reference Priority
 
 1. current user instruction
 2. current chapter/current strip story script
-3. current approved character-card WebP
-4. approved environment WebP geometry
-5. approved object WebP identity/state vocabulary
+3. current approved character card
+4. approved environment geometry
+5. approved object identity/state vocabulary
 6. previous approved strip temporary state
 
-If an approved previous strip conflicts with a character/environment/object canonical, do not propagate the drift. The canonical controls permanent identity/geometry; the previous strip controls only temporary story state.
+If an approved previous strip conflicts with an approved character/environment/object canonical, do not propagate the drift. The canonical controls permanent identity/geometry; the previous strip controls only temporary story state.
 
 ## Reuse Rule
 
-Characters, Unit 2407, residential building shared areas, and recurring story objects are reusable canonicals. Future chapters returning to the same person/place/object must reuse their approved repository WebPs instead of creating chapter-specific duplicates.
+Characters, Unit 2407, residential building shared areas, and recurring story objects are reusable canonicals. Future chapters returning to the same person/place/object must reuse them instead of creating chapter-specific duplicates.
 
 ## Black Slice vs Technical Seam
 
@@ -191,16 +223,19 @@ Reject for:
 - stale/wrong/missing character-card WebP reference
 - missing/unapproved/wrong-path required environment or object WebP
 - attached-reference redesign or environment mirroring
+- previous-strip permanent drift propagated against canonical WebPs
 - face/hair/body identity drift across angles
 - wrong/missing reference attachments
 - wrong/missing text or invented reader-facing text
 - any `V-*`, strip, beat, panel, scene, or production label rendered in artwork
 - wrong source ownership
-- one fixed narration-box design forced onto unrelated scenario types
+- one fixed narration-box design or one repetitive top-left caption placement forced onto unrelated scenario types
 - environment/object redesign
 - teleporting movement/props
 - object/food/hand state disappearing between adjacent slices without cause
+- continuity-critical action hidden or cropped so the physical mechanism is not proven
 - unplugging a cord from an appliance body instead of its wall-mounted socket
+- pulling the power cable instead of gripping/removing the plug body
 - silent re-plugging after a confirmed unplug
 - duplicated objects/bags/devices
 - wrong power state
