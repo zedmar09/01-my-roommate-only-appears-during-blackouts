@@ -32,7 +32,7 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - Hyun-woo = SAME blocking position between Nari and refrigerator
-- Nari = SAME closer position behind him; knife low same hand; no step
+- Nari = SAME closer position behind him; knife low in SAME KNIFE HAND established Strip 016; no step
 - fridge narrow display already reads `YOON NARI`
 - SAME pot/trivet/cloth/candle/pantry/packet/wrapper/chopstick topology persists:
   - pot same trivet/location
@@ -47,15 +47,15 @@ START:
 ALLOWED CHANGES:
 - dialogue only; no character movement
 - V99 fridge ADDS `IDENTITY LOCKING` beneath existing `YOON NARI`; first line does not disappear
-- V102 SAME candle flame develops blue center only; holder/candle do not move
+- V102 SAME candle flame develops only a TINY BLUE CORE at its center; outer flame remains same small candle flame; holder/candle do not move
 - no reach/blow/knife drop/wrist catch yet
 - no prop topology movement
 
 END:
 - same character positions
 - fridge displays BOTH lines
-- same candle/holder same table spot with blue-centered flame
-- knife still Nari hand low
+- same candle/holder same table spot with tiny contained blue-centered flame
+- knife still low in SAME KNIFE HAND
 - all dining topology unchanged
 
 ==================================================
@@ -69,10 +69,24 @@ line2 below `IDENTITY LOCKING`
 Both stay inside SAME narrow built-in display. No text on fridge doors, speech balloons, narration, hologram, room overlay. Embedded diagnostic language only, never TV broadcast takeover.
 
 ==================================================
-CANDLE / BODY MICRO-CONTINUITY — ABSOLUTE
+CANDLE / BLUE-CORE LIGHTING — ABSOLUTE
 ==================================================
 
-Short pillar candle + ceramic holder are ONE fixed pair. Flame may bend/change blue center; candle/holder cannot slide/jump closer/change height/duplicate.
+Short pillar candle + ceramic holder are ONE fixed pair. Candle/holder cannot slide/jump closer/change height/duplicate.
+
+At V102:
+- flame remains physically small and candle-sized
+- add only a tiny blue core within the existing flame
+- outer flame remains restrained warm candle color
+- no large blue flame
+- no blue aura/halo
+- no blue light cast across room/walls/floor
+- no blue rim light on Nari or Hyun-woo
+- no bloom, lens flare, volumetric glow, cinematic color wash, or supernatural spotlight
+- room remains the SAME blackout + small-candle lighting state
+
+The tiny blue core is a contained story signal, not a new room light source.
+
 Nari does NOT move toward candle here. Hyun-woo does NOT move. Real half-step/lean belongs Strip023 only.
 
 ==================================================
@@ -134,8 +148,8 @@ HYUN-WOO:
 
 SMALL BLACK GUTTER.
 
-V102 — BLUE CENTER
-Same flame develops blue center while candle/holder stay fixed.
+V102 — TINY BLUE CORE ONLY
+Same flame develops a tiny blue center while candle/holder stay fixed and room lighting does not change beyond that contained flame detail.
 HYUN-WOO:
 `NOW.`
 No reach/blow/knife drop/wrist catch yet.
@@ -144,15 +158,17 @@ No reach/blow/knife drop/wrist catch yet.
 NO DEAD BOTTOM / SEAM
 ==================================================
 
-Use blue-centered candle + blocking geometry lower payoff. No giant tail.
+Use small blue-core candle + blocking geometry lower payoff. No giant tail.
 Strip023 starts exact positions/topology and extinguishes THIS SAME candle after visible realistic reach.
 
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
 - permanent drift previous strip propagated over canon
+- KNIFE HAND silently switches physical side
 - characters move or Nari reaches candle early
 - candle/holder moves/duplicates
+- blue core becomes large blue flame, aura, room wash, rim light, bloom, cinematic glow, or functional second light source
 - `YOON NARI` disappears when `IDENTITY LOCKING` appears
 - device text becomes speech/narration/floating overlay
 - TV hostile language used on fridge
