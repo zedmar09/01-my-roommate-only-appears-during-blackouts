@@ -15,6 +15,66 @@ ATTACH — REQUIRED
 - this Strip 011 prompt
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached references are binding. Preserve Nari identity, Unit 2407 pantry/desk geometry, emergency-tray location, hallway-lamp position, and every recurring prop location inherited from Strip 010.
+Never render V51–V54, P7, Strip 011, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- binder = kitchen counter
+- brass key = entry tray
+- speaker = hidden unplugged in closed lower cabinet
+- guarded fruit knife = under sofa cushion
+- hallway lamp normally powered
+- practical blackout knife does not yet exist in Unit 2407
+
+ALLOWED CHANGES:
+- legal `LATER THAT DAY` location cut to store
+- Nari acquires exactly the listed blackout-kit categories including ONE different practical knife already sheathed
+- Nari returns with exactly TWO shopping bags and crosses same apartment threshold
+- stores supplies in canonical pantry/desk zones
+- establishes exactly SIX emergency noodle packets total in pantry
+- puts flashlight, radio, and SAME sheathed practical knife into emergency tray right of keyboard
+
+END:
+- exactly six noodle packets = pantry
+- sheathed practical blackout knife = emergency tray, handle toward chair
+- flashlight + radio = same tray
+- guarded fruit knife = still under sofa cushion
+- binder/key/speaker states unchanged
+- hallway lamp ON; apartment powered
+
+==================================================
+INVENTORY / BAG / KNIFE MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+Store montage cannot invent duplicate purchased items. The practical blackout knife is one object from store → shopping bag → apartment → desk tray. It never becomes the guarded fruit knife.
+
+Exactly TWO shopping bags accompany Nari through return threshold. Do not show two bags outside and three inside, or bags vanishing before she stores contents.
+
+Noodle inventory is a strict persistent count established here:
+- exactly SIX unopened emergency noodle packets total at V54
+- one spicy-seafood + five other flavors
+- no packet is eaten/opened in this strip
+- this six-count becomes authority until the later Hyun-woo food event consumes the scripted one packet
+
+Emergency tray is physically immediately RIGHT of keyboard. Do not move tray because of camera angle. Flashlight/radio/knife positions must remain plausible and non-overlapping.
+
+==================================================
+NARRATION DESIGN BY SITUATION — ABSOLUTE
+==================================================
+
+`LATER THAT DAY` = compact time/location transition.
+`SHE STARTED WITH A BLACKOUT KIT.` = practical setup caption, slightly utilitarian.
+Pantry and desk narration = concise preparation/montage captions, visually related but not identical to time caption.
+Do not force one repeated box. Keep text subordinate to inventory clarity and never cover item counts, sheathed knife, tray, pantry packets, or hallway lamp.
+
+==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
@@ -109,10 +169,15 @@ SEAM OUT — G / TIME CUT
 Strip 012 begins two days later after work at building entrance.
 
 AUTOMATIC REJECT IF
+- any V/P/strip/beat/panel/scene production label appears
+- attached reference geometry/identity is altered
 - practical knife/fruit knife merge
-- noodle count is not exactly six
+- practical knife teleports from store to tray or changes sheath design
+- noodle count is not exactly six or packet state changes without cause
 - emergency tray moves from right of keyboard
-- Nari has more/fewer than two shopping bags on return
+- Nari has more/fewer than two shopping bags during return sequence
+- shopping bags/items vanish/duplicate before storage
+- narration obscures inventory or uses one generic box for all contexts
 - apartment geography drifts
 - black separators missing/oversized
 - giant dead bottom appears
