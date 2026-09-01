@@ -19,11 +19,12 @@ ATTACH — REQUIRED
 - this Strip 022 prompt
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached WebPs + APPROVED Strip 021 are binding. Preserve exact blocking positions, refrigerator body/display, pushed chair, table/pot/chopsticks/candle/pantry/packet evidence, Nari knife state, and blackout geometry.
-Never render V98–V102, P14, Strip 022, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+Attached canonical WebPs are permanent authority. APPROVED Strip021 controls temporary block/fridge/table state only; correct permanent drift to canon rather than propagating it.
+Preserve exact blocking positions, fridge body/display, pushed chair, full dining topology, Nari knife state, blackout geometry.
+Never render V98–V102, P14, Strip022, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
@@ -32,54 +33,75 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 START:
 - Hyun-woo = SAME blocking position between Nari and refrigerator
 - Nari = SAME closer position behind him; knife low same hand; no step
-- refrigerator narrow display already reads `YOON NARI`
-- SAME candle/holder remains fixed on SAME dining table
-- pushed chair/table/food/chopsticks/pantry/empty packet unchanged
+- fridge narrow display already reads `YOON NARI`
+- SAME pot/trivet/cloth/candle/pantry/packet/wrapper/chopstick topology persists:
+  - pot same trivet/location
+  - cloth same hot-handle side
+  - Pair A used chopsticks same fixed pot rest point
+  - candle/holder same fixed table location
+  - seasoning wrapper same table spot
+  - five unopened pantry packets
+  - SAME empty spicy-seafood outer packet same slightly nudged floor spot
 - Unit supplied power absent
 
 ALLOWED CHANGES:
 - dialogue only; no character movement
-- V99 refrigerator adds `IDENTITY LOCKING` BENEATH existing `YOON NARI`; first line does not disappear
+- V99 fridge ADDS `IDENTITY LOCKING` beneath existing `YOON NARI`; first line does not disappear
 - V102 SAME candle flame develops blue center only; holder/candle do not move
-- no candle blow, knife drop, wrist catch, or character reach yet
+- no reach/blow/knife drop/wrist catch yet
+- no prop topology movement
 
 END:
 - same character positions
-- fridge displays BOTH `YOON NARI` + `IDENTITY LOCKING`
-- same candle/holder in same table spot with blue-centered flame
-- knife still in Nari hand low
-- all table/chair/pantry/packet evidence unchanged
+- fridge displays BOTH lines
+- same candle/holder same table spot with blue-centered flame
+- knife still Nari hand low
+- all dining topology unchanged
 
 ==================================================
 DEVICE TEXT PERSISTENCE — ABSOLUTE
 ==================================================
 
-V99 is an ADDITIVE state change, not replacement:
-line 1 remains `YOON NARI`
-line 2 appears beneath: `IDENTITY LOCKING`
+V99 is additive:
+line1 `YOON NARI`
+line2 below `IDENTITY LOCKING`
 
-Both remain inside SAME narrow built-in display. Do not move text to refrigerator doors, speech bubbles, narration, hologram, or full-room overlay. Refrigerator hostile effect remains contained embedded-diagnostic language, not TV-style broadcast takeover.
+Both stay inside SAME narrow built-in display. No text on fridge doors, speech balloons, narration, hologram, room overlay. Embedded diagnostic language only, never TV broadcast takeover.
 
 ==================================================
 CANDLE / BODY MICRO-CONTINUITY — ABSOLUTE
 ==================================================
 
-The short pillar candle and ceramic holder are ONE fixed physical pair. Flame may bend/change color center, but candle/holder cannot slide, jump closer to Nari, change height, or duplicate.
-Nari does NOT move toward the candle in this strip. Hyun-woo does NOT move from blocking mark. The realistic half-step/lean belongs to Strip 023 only.
+Short pillar candle + ceramic holder are ONE fixed pair. Flame may bend/change blue center; candle/holder cannot slide/jump closer/change height/duplicate.
+Nari does NOT move toward candle here. Hyun-woo does NOT move. Real half-step/lean belongs Strip023 only.
 
-Pot/noodles/chopsticks/trivet/cloth, pushed chair, pantry five packets, empty packet on floor persist through close-ups.
+==================================================
+FULL DINING PROP TOPOLOGY — ABSOLUTE
+==================================================
+
+Across every close-up/reverse shot preserve physical story-world relationships:
+- pot/trivet same place
+- cloth same hot-handle side
+- Pair A used chopsticks same pot rest point
+- candle/holder same place
+- seasoning wrapper same table spot
+- pushed chair same displaced location
+- five pantry packets
+- same nudged empty outer packet same floor spot
+
+Screen-left/right may flip; story-world sides/order may not.
 
 ==================================================
 NARRATION / TEXT DESIGN — ABSOLUTE
 ==================================================
 
-No narration is scripted; do not invent any. Human lines remain speech. Fridge lines remain device text. `NOW.` is Hyun-woo speech, not a dramatic title card. Do not add production labels or generic ominous captions.
+No narration scripted; do not invent. Human lines speech. Fridge lines device text. `NOW.` Hyun-woo speech, not title card.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Small black gutter between each distinct dialogue/device/candle slice. Side-by-side human reaction + fridge/candle detail requires diagonal black divider. External 021→022→023 effect/action continuity must not be broken by a visible technical bar.
+Small black gutter between dialogue/device/candle slices. Side-by-side reaction + fridge/candle detail requires diagonal divider. External 021→022→023 continuity no visible technical bar.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -93,7 +115,7 @@ NARI:
 
 SMALL BLACK GUTTER.
 
-V99 — FRIDGE ADDS SECOND LINE
+V99
 REFRIGERATOR DEVICE TEXT:
 `YOON NARI`
 `IDENTITY LOCKING`
@@ -122,20 +144,21 @@ No reach/blow/knife drop/wrist catch yet.
 NO DEAD BOTTOM / SEAM
 ==================================================
 
-Use blue-centered candle + blocking geometry as lower payoff. No giant tail.
-Strip 023 starts from these exact positions and extinguishes THIS SAME candle after a visible realistic reach.
+Use blue-centered candle + blocking geometry lower payoff. No giant tail.
+Strip023 starts exact positions/topology and extinguishes THIS SAME candle after visible realistic reach.
 
 AUTOMATIC REJECT IF
 - any production label appears
-- attached references/geometry drift
+- attached refs/geometry drift
+- permanent drift previous strip propagated over canon
 - characters move or Nari reaches candle early
-- candle/holder moves/duplicates/changes object identity
+- candle/holder moves/duplicates
 - `YOON NARI` disappears when `IDENTITY LOCKING` appears
 - device text becomes speech/narration/floating overlay
 - TV hostile language used on fridge
 - knife/wrist event occurs early
-- table/food/chair/pantry evidence disappears between close-ups
-- invented narration appears
+- seasoning wrapper/used chopsticks/empty outer packet/table topology disappears/swaps
+- invented narration
 - black separators missing/oversized
 ```
 
@@ -148,5 +171,5 @@ AUTOMATIC REJECT IF
 6. `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
 7. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 8. `Manhwa/Object-References/refrigerator-canonical-reference.webp`
-9. APPROVED Strip 021
-10. this Strip 022 prompt
+9. APPROVED Strip021
+10. this Strip022 prompt
