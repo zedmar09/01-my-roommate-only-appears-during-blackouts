@@ -19,10 +19,11 @@ ATTACH — REQUIRED
 - this Strip 024 prompt
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached WebPs + APPROVED Strip 023 are binding. Preserve exact post-candle body geometry, wrist contact, knife floor spot, extinguished candle, pushed chair, table/food/chopsticks/pantry/packet evidence, fridge body/display, and blackout state.
+Attached canonical WebPs are permanent authority. APPROVED Strip 023 controls temporary post-candle/contact/knife state only; correct any permanent drift to canon instead of propagating it.
+Preserve exact post-candle body geometry, SAME former-knife-hand wrist contact, knife floor spot, extinguished candle, pushed chair, table/food/chopsticks/pantry/packet evidence, fridge body/display, and blackout state.
 Never render V108–V112, P15, Strip 024, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
@@ -31,22 +32,26 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - Nari = SAME table-edge-adjacent post-reach position
-- Hyun-woo = SAME close protective position and STILL holding the same Nari wrist from V107
+- Hyun-woo = SAME close protective position and STILL holding the wrist of Nari's SAME former knife arm from V107
+- Nari's former knife hand is empty
 - SAME knife = exact `CLANG` floor spot, blade no longer in Nari hand
+- Nari's other hand may remain near the opposite ear according to the end of Strip 023, but no hand/arm may reset without visible motion
 - candle = extinguished in SAME holder/table position
 - fridge display still in prior hostile state at strip start
 - chair/table/pot/noodles/chopsticks/trivet/cloth/pantry/packet evidence unchanged
 - Unit supplied power absent
 
 ALLOWED CHANGES:
-- V108 Hyun-woo visibly releases the held wrist FIRST
+- V108 Hyun-woo visibly releases the held former-knife-hand wrist FIRST
 - after release, refrigerator produces exactly three quiet `TIK. TIK. TIK.` clicks
 - display becomes dark/silent after clicks
 - V109–V112 dialogue with natural head/weight/eyeline changes only
+- Nari's arms may settle naturally only through visible/continuous body motion; no instant arm reset
 - no character crosses room; no knife pickup; no candle relight; no power return
 
 END:
 - Nari + Hyun-woo remain in same post-reach proximity but no longer touching
+- both of Nari's hands/wrists are free; former knife hand remains empty
 - knife = exact same floor spot
 - fridge display = dark/silent
 - candle = extinguished
@@ -57,9 +62,23 @@ END:
 WRIST RELEASE / CONTACT MICRO-CONTINUITY — ABSOLUTE
 ==================================================
 
-The wrist is HELD at the first visible instant of Strip 024. Do not begin with hands already separated.
-V108 must show a real release: Hyun-woo's fingers/hand disengage from the same wrist → hands separate → only then refrigerator clicks occur.
-No glowing touch, no hand teleport, no switch to the other wrist without action.
+The SAME former-knife-hand wrist is HELD at the first visible instant of Strip 024. Do not begin with hands already separated and do not switch wrists.
+
+V108 must show a real release:
+1. Hyun-woo's fingers/hand are visibly around the SAME former-knife-hand wrist
+2. grip loosens
+3. fingers disengage
+4. hands separate
+5. that wrist is visibly free
+6. ONLY THEN refrigerator clicks occur
+
+No glowing touch, no hand teleport, no switch to the other wrist.
+
+==================================================
+MANDATORY RELEASE-PROOF FRAMING — ABSOLUTE
+==================================================
+
+The release mechanism must be visible enough to prove the contact ended before the fridge clicks. Do not crop the hands away and jump from “held” to “not held.” If needed, use an immediate hand/wrist detail slice before the refrigerator detail.
 
 ==================================================
 KNIFE / PROP / POWER PERSISTENCE — ABSOLUTE
@@ -86,7 +105,7 @@ VERTICAL STORY FLOW
 ==================================================
 
 V108 — RELEASE / FRIDGE QUIETS
-Begin with SAME wrist still held. Hyun-woo visibly releases it. Only after hands separate:
+Begin with SAME former-knife-hand wrist still held. Show the exact release mechanism above. Only after hands separate:
 SFX at refrigerator:
 `TIK. TIK. TIK.`
 Display becomes silent/dark. No screen text for remainder.
@@ -125,7 +144,7 @@ HYUN-WOO:
 HYUN-WOO:
 `BUT IT'S TRYING TO LEARN WHO YOU ARE.`
 
-No room crossing; natural head/weight shifts only.
+No room crossing; natural head/weight/arm settling only through continuous plausible motion.
 
 ==================================================
 POWER / NO DEAD BOTTOM
@@ -140,9 +159,12 @@ Strip 025 continues SAME positions/knife/candle/chair/table states while city po
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
-- wrist already released at strip start or release is skipped
+- permanent drift from previous strip is propagated over canonical refs
+- wrist already released at strip start, wrong wrist is held/released, or release is skipped
+- wrist release mechanism is hidden/cropped
 - knife moves/disappears/duplicates
 - Nari/Hyun-woo reset to pre-candle positions or cross room
+- Nari's arms/hands snap to unrelated pose without visible settling motion
 - fridge text remains after V108 or clicks happen before release
 - candle relights or props reset/disappear
 - apartment/city power returns early
