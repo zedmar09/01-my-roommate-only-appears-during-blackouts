@@ -15,11 +15,13 @@ A chapter/strip may make these rules stricter but may never loosen them.
 
 ## Character Card Authority — Absolute
 
-Recurring human characters use reusable canonical character-card PNGs generated from `Character-References/` under `Character-References/character-card-standard.md`.
+Recurring human characters use reusable approved canonical character-card WebPs stored under `Character-References/` and generated from prompts that follow `Character-References/character-card-standard.md`.
 
 The approved card controls face, age presentation, body proportions, hair geometry/color, permanent marks, permanent accessories, and primary silhouette from all camera angles and expressions.
 
-If a character's current PNG predates the card standard, treat it as provisional and regenerate/approve it before using it as final identity authority. Nari's previous short-hair PNG is obsolete after the long-hair redesign and must be replaced by an approved long-hair canonical before new strips rely on her final identity authority.
+Image generation may produce PNG first as a local intermediate. After approval, manually convert to WebP, commit/store the approved WebP, and use that exact `.webp` path in production Markdown. A deleted/intermediate PNG is not production authority.
+
+Nari's retired short-hair design is obsolete. Her current approved identity uses long dark-plum hair at approximately mid-back length, loose by default, with the yellow scrunchie on one wrist.
 
 ## Strict Flat 2D Human-Drawn Gate — Absolute
 
@@ -42,12 +44,12 @@ Do not propagate style drift from the previous strip. Permanent style authority 
 ## Sequential Production
 
 1. Read the current chapter beat plan, manifest, current strip prompt, and the binding global production rules above.
-2. Confirm the current strip file itself explicitly lists all required character/environment/object/previous-strip attachments.
-3. Attach required **current approved character-card canonical PNG(s)** for physically visible characters.
-4. Attach the smallest relevant approved reusable environment canonical set listed in the current strip.
-5. Attach relevant approved reusable object canonical(s) listed in the current strip.
-6. For Strip 002 onward, attach the immediately previous APPROVED strip.
-7. If a required canonical is missing, stale, or unapproved, **STOP** and create/regenerate/approve it; never improvise a substitute and never mark the strip production-ready.
+2. Confirm the current strip file itself explicitly lists all required character/environment/object/previous-strip attachments by **exact current repository path and filename**.
+3. Attach required **current approved character-card canonical WebP(s)** for physically visible characters.
+4. Attach the smallest relevant approved reusable environment WebP set listed in the current strip.
+5. Attach relevant approved reusable object WebP(s) listed in the current strip.
+6. For Strip 002 onward, attach the immediately previous APPROVED rendered strip.
+7. If a required canonical WebP is missing, stale, wrong-path, or unapproved, **STOP** and create/regenerate/approve it; never improvise a substitute and never mark the strip production-ready.
 8. Generate one tall vertical technical strip.
 9. QA exact script/source ownership, character identity, movement, object routes/counts, environment geometry, power state, lighting, object states, lettering/SFX, and seam behavior.
 10. QA character-card consistency from the current camera angle: face, hair length/silhouette, build, accessories, outfit identity, and expression must remain the same person.
@@ -65,16 +67,16 @@ Do not propagate style drift from the previous strip. Permanent style authority 
 
 1. current user instruction
 2. current chapter/current strip story script
-3. current approved character card
-4. approved environment geometry
-5. approved object identity/state vocabulary
+3. current approved character-card WebP
+4. approved environment WebP geometry
+5. approved object WebP identity/state vocabulary
 6. previous approved strip temporary state
 
-If an approved previous strip conflicts with a newly approved character/environment/object canonical, do not propagate the drift. The canonical controls permanent identity/geometry; the previous strip controls only temporary story state.
+If an approved previous strip conflicts with a character/environment/object canonical, do not propagate the drift. The canonical controls permanent identity/geometry; the previous strip controls only temporary story state.
 
 ## Reuse Rule
 
-Characters, Unit 2407, residential building shared areas, and recurring story objects are reusable canonicals. Future chapters returning to the same person/place/object must reuse them instead of creating chapter-specific duplicates.
+Characters, Unit 2407, residential building shared areas, and recurring story objects are reusable canonicals. Future chapters returning to the same person/place/object must reuse their approved repository WebPs instead of creating chapter-specific duplicates.
 
 ## Black Slice vs Technical Seam
 
@@ -89,8 +91,8 @@ Reject huge unused white/neutral/black tails. Never invent filler text/SFX. Pref
 ## Automatic Reject Rules
 
 Reject for:
-- stale/wrong/missing character-card references
-- missing/unapproved required environment or object canonical PNGs
+- stale/wrong/missing character-card WebP reference
+- missing/unapproved/wrong-path required environment or object WebP
 - face/hair/body identity drift across angles
 - wrong/missing reference attachments
 - wrong/missing text or invented reader-facing text
