@@ -13,6 +13,7 @@ ATTACH — REQUIRED
 - `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 - `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
+- `Manhwa/Object-References/tv-canonical-reference.webp`
 - APPROVED Strip 025
 - this Strip 026 prompt
 
@@ -20,10 +21,11 @@ Do NOT attach Hyun-woo.
 Use `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-reference.webp` additionally if the kitchen→desk→entry route requires an unlisted camera angle.
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached WebPs + APPROVED Strip 025 are binding. Preserve exact powered Unit geometry, Nari identity, desk/entry route, key/tray, latch/smart-lock location, and all encounter evidence.
+Attached canonical WebPs are permanent authority. APPROVED Strip 025 controls temporary post-blackout evidence/power state only; correct any permanent face/room/object drift to attached canon instead of propagating it.
+Preserve exact powered Unit geometry, Nari identity, desk/entry route, key/tray, latch/smart-lock location, TV body/cord/wall-socket identity, and all encounter evidence.
 Never render V119–V123, P16, Strip 026, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
@@ -33,7 +35,8 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 START:
 - Unit 2407 = canonical neutral powered baseline immediately after Strip 025
 - Hyun-woo absent
-- encounter evidence UNTOUCHED: practical knife exact floor spot, pushed-back chair, pot/noodles/chopsticks/trivet/cloth, extinguished candle/holder, five unopened pantry packets + empty used packet, closed hidden-speaker cabinet, TV still unplugged from its wall socket, binder kitchen counter, brass key entry tray
+- encounter evidence UNTOUCHED: practical knife exact floor spot, pushed-back chair, pot/noodles/chopsticks/trivet/cloth, extinguished candle/holder, five unopened pantry packets + empty used packet, closed hidden-speaker cabinet, SAME TV still unplugged FROM WALL, binder kitchen counter, brass key entry tray
+- TV-side cord remains attached to canonical TV body; same cord ends in loose wall-end plug; same wall socket remains empty
 - Nari's SAME phone = work desk where it remained through blackout
 
 ALLOWED CHANGES:
@@ -48,6 +51,7 @@ END:
 - Nari = at/near entry/security-call position
 - SAME phone = in her hand, active call state
 - key = entry tray untouched
+- TV = same canonical body still unplugged from wall if visible; loose plug/empty socket state unchanged
 - all encounter evidence remains where inherited
 - Unit remains normally powered
 
@@ -63,6 +67,16 @@ Do not show phone in Nari's hand before desk pickup. Do not show a second phone 
 V120 latch test uses the actual door/latch hardware. `TUG` belongs to physical latch/door test, not phone or smart lock.
 
 ==================================================
+MANDATORY ACTION-PROOF FRAMING — ABSOLUTE
+==================================================
+
+V120 must visually prove both critical actions rather than jump to results:
+- desk pickup: Nari's hand contacts SAME phone at desk before it appears in her carried hand
+- latch test: hand contacts real latch/door hardware before `TUG` and locked result
+
+Do not crop both contact points away and rely on dialogue/SFX to imply them.
+
+==================================================
 EVIDENCE PERSISTENCE — ABSOLUTE
 ==================================================
 
@@ -75,9 +89,10 @@ Power return does not clean the apartment. Across every camera cut:
 - hidden-speaker cabinet stays closed
 - binder stays counter
 - key stays tray
-- TV remains unplugged FROM WALL: appliance-side cord attached, loose wall-end plug outside empty wall socket
+- TV remains unplugged FROM WALL: canonical TV-side cord attached, loose wall-end plug outside empty wall socket
 
-If an evidence object is off-camera, it remains logically unchanged.
+The TV object canonical is attached specifically so any visible TV/cord state cannot redesign during this evidence strip.
+If the TV is entirely off-camera, its state still persists. If it appears, it must match the attached TV canonical plus the established loose-plug/empty-wall-socket story state.
 
 ==================================================
 DEVICE / TEXT / NARRATION DESIGN — ABSOLUTE
@@ -107,7 +122,7 @@ NARI:
 SMALL BLACK GUTTER.
 
 V120 — ROUTE / PHONE PICKUP / LATCH
-Show dining/kitchen → desk phone pickup → entry route, then test still-engaged latch/locked door.
+Show dining/kitchen → desk route, hand contacting/picking up SAME phone, then desk → entry route, then hand contacting/testing still-engaged latch/locked door.
 SFX at latch/door:
 `TUG`
 
@@ -154,11 +169,13 @@ Strip 027 continues SAME phone in Nari's hand from same entry-area state into vo
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
+- permanent drift from previous strip is propagated over canon
 - phone teleports/duplicates or changes device identity
-- Nari skips desk pickup route
+- Nari skips desk pickup route or pickup contact point is hidden
+- latch test mechanism is hidden/cropped
 - brass key moves/duplicates/redesigns
 - encounter evidence is cleaned/moved/reset
-- TV silently reconnects to wall
+- TV body/cord redesigns or TV silently reconnects to wall
 - current apartment is rendered as blackout
 - archive shows a person/reflection or archive timestamps float outside phone
 - device text categories merge into narration
@@ -172,5 +189,6 @@ AUTOMATIC REJECT IF
 4. `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
 5. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 6. `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
-7. APPROVED Strip 025
-8. this Strip 026 prompt
+7. `Manhwa/Object-References/tv-canonical-reference.webp`
+8. APPROVED Strip 025
+9. this Strip 026 prompt
