@@ -2,7 +2,7 @@
 
 This folder contains **32 technical image-generation prompts** for one continuous Manhwa Chapter 1. Historical P001–P018 labels are story-mapping shorthand only.
 
-Current status: **prompt package audited; visual production is not complete. The Chapter 1 character-card PNGs must be regenerated/approved under the current full character-card standard, and the required environment/object canonical PNGs must be generated/approved before sequential strip generation begins.**
+Current status: **PREPRODUCTION REFERENCE GATE IN MIGRATION / AUDIT — approved Chapter 1 character, environment, and object WebP authorities are present; every strip prompt must use their exact current filenames before sequential rendering begins.**
 
 Generate strictly in order: `001 → 002 → 003 → ... → 032`.
 
@@ -22,18 +22,33 @@ A strip may make these stricter but never looser.
 
 Every `strip-###-...md` must explicitly list inside the file itself:
 1. current strip prompt
-2. required visible-character canonical PNG(s)
-3. every required reusable environment canonical PNG
-4. every required reusable object canonical PNG
-5. immediately previous APPROVED strip for 002–032
+2. required visible-character canonical WebP(s)
+3. every required reusable environment WebP
+4. every required reusable object WebP
+5. immediately previous APPROVED rendered strip for 002–032
 
 Do not rely on the manifest alone when working in the production chat. The manifest is the audit map; the current strip file must repeat the exact visual attachments needed for that generation.
 
-If a listed canonical PNG is missing, stale, provisional, or unapproved, **STOP**. Do not substitute a random reference, an old rejected/obsolete image, or the Markdown reference prompt itself. Regenerate/generate and approve the current canonical first.
+Use exact repository paths and exact filenames. Do not write only `Nari canonical`, `Unit 2407 floor plan`, or an obsolete `.png` path when the actual attachment is a `.webp` file.
 
-For Chapter 1 specifically, Nari, Hyun-woo, Mrs. Na, and Seungjae current PNGs predate the September 1, 2026 full character-card standard and are provisional under the repository rule until regenerated/approved from the upgraded prompts. Nari's prior short-hair PNG is explicitly obsolete and must be replaced by the current long dark-plum-haired design using the same canonical filename.
+If a listed canonical WebP is missing, stale, wrong-path, or unapproved, **STOP**. Do not substitute a random reference, an old rejected/obsolete image, or the Markdown reference prompt itself.
 
-Reuse Unit 2407, Building Shared Areas, smart-speaker, TV, refrigerator, electrical-operation-guide, and brass-key canonicals in later chapters whenever the same place/object returns. Never create chapter-numbered duplicates.
+## Approved Chapter 1 Character WebPs
+
+- `Character-References/nari-canonical-flat2d.webp`
+- `Character-References/hyunwoo-canonical-flat2d.webp`
+- `Character-References/mrs-na-canonical-flat2d.webp`
+- `Character-References/seungjae-canonical-flat2d.webp`
+
+Nari's current approved authority uses long dark-plum hair at approximately mid-back length. Her retired short-hair design must never be propagated.
+
+## Reference-Image Generation Format
+
+Reference prompt Markdown may continue to generate PNG first as a local intermediate. After visual approval, the accepted PNG is manually converted to WebP and the WebP becomes the GitHub/strip-attachment authority.
+
+Do not change production-strip attachments back to the intermediate PNG name.
+
+Reuse Unit 2407, Building Shared Areas, smart-speaker, TV, refrigerator, electrical-operation-guide, and brass-key WebPs in later chapters whenever the same place/object returns. Never create chapter-numbered duplicates.
 
 ## Strict Flat 2D Human-Drawn Style — Absolute
 
@@ -66,7 +81,7 @@ Technical file seams are different. For A/E continuation seams, do **not** add a
 
 ## Production Rules
 
-- approve each required canonical before it is used
+- use only approved exact-path WebP canonicals
 - approve each strip before generating the next
 - re-audit every corrected strip and adjacent seams before approval
 - use one fixed width throughout
