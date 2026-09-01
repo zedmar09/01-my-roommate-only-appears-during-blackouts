@@ -1,44 +1,114 @@
 # Strip 005 — First Human Voice
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME chapter.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Chapter 1.
 
-TECHNICAL SCOPE
-V21–V25. Source Comic P3.
+PRODUCTION SCOPE
+V21–V25. Historical P3 mapping only.
 
-ATTACH
-Nari canonical + APPROVED Strip 004.
-Do NOT attach Hyun-woo canonical; he is voice-only and unidentified.
+ATTACH — REQUIRED
+- `Character-References/nari-canonical-flat2d.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-canonical.png`
+- `Manhwa/Object-References/smart-speaker-canonical-states.png`
+- APPROVED Strip 004
+- this Strip 005 prompt
 
-V21 — Continue one-week automation montage. Robot vacuum drags cable.
-SFX: VRR
-NARI: HEY! DROP THAT!
+Do NOT attach Hyun-woo canonical. The natural male voice is not visually identified here.
 
-Time shift vertically into the night without a page break.
+==================================================
+BLACK READ-SLICE DIVIDER — ABSOLUTE
+==================================================
 
-V22 — Kitchen, speaker still plugged in.
-LARGE CAPTION: LATER THAT NIGHT
-NARI: TURN ON THE KITCHEN LIGHT.
+Use a SMALL BLACK GUTTER between every distinct vertical slice. Use a DIAGONAL BLACK DIVIDER for separate side-by-side shots. The jump from daytime automation to `LATER THAT NIGHT` uses a compact stronger black transition, not a page break and not a giant gap.
 
-V23 — Same speaker, normal synthetic assistant voice.
-SPEAKER: SORRY. I DIDN'T CATCH THAT.
-NARI: THE LIGHT. TURN IT ON.
+==================================================
+EXACT PROP / SPEAKER STATE
+==================================================
 
-V24 — One restrained light flicker; chopsticks hit floor.
-SFX: FZZT
-SFX: CLATTER
+At start, the canonical speaker is still on the kitchen counter, plugged in, screenless, ordinary-looking.
+The brass key remains in entry tray; binder remains kitchen counter unless naturally visible in background.
+No one has hidden the speaker yet.
 
-After V24 create materially larger empty vertical suspense space than ordinary dialogue gaps.
+==================================================
+VERTICAL STORY FLOW
+==================================================
 
-V25 — Same physical speaker produces a clearly different low natural adult male voice. No body, face, silhouette, or name.
-UNKNOWN MALE VOICE THROUGH SPEAKER: YOU COULD SAY PLEASE.
+V21 — ROBOT VACUUM
+Continue one-week automation montage. The robot vacuum catches/drags ONE loose cable.
+SFX:
+`VRR`
+NARI:
+`HEY! DROP THAT!`
+No duplicated cable/device.
 
-SEAM OUT — GUTTER/SILENCE
-End on Nari's frozen reaction space without answering the mystery. Strip 006 immediately continues her response.
+COMPACT BLACK TIME TRANSITION.
 
-VOICE DESIGN
-Synthetic assistant and unknown natural male voice must be visually distinct while both source from the same speaker. Do not use hostile black-pixel styling for the male voice.
+V22 — LATER THAT NIGHT / KITCHEN
+NARRATION:
+`LATER THAT NIGHT`
+Nari is physically in kitchen/open-plan area near canonical speaker.
+NARI:
+`TURN ON THE KITCHEN LIGHT.`
 
-AVOID
-No physical Hyun-woo, no hostile screen, no extra joke, no visible production numbering.
+SMALL BLACK GUTTER.
+
+V23 — SYNTHETIC ASSISTANT FAILURE
+Same speaker, ordinary assistant audio.
+SPEAKER, synthetic audio:
+`SORRY. I DIDN'T CATCH THAT.`
+NARI:
+`THE LIGHT. TURN IT ON.`
+
+SMALL BLACK GUTTER.
+
+V24 — FLICKER / CHOPSTICKS DROP
+One restrained apartment-light flicker.
+SFX at electrical light:
+`FZZT`
+A pair of chopsticks Nari is holding/using falls to the floor from her hand.
+SFX at floor:
+`CLATTER`
+Do not duplicate chopsticks; show a believable drop route.
+
+Use a longer BLACK suspense gap than ordinary gutters, but it must still be a deliberate pause, not unused canvas.
+
+V25 — FIRST NATURAL MALE VOICE
+Same canonical screenless speaker. No body, silhouette, face, reflection, or name.
+UNKNOWN NATURAL MALE VOICE through speaker:
+`YOU COULD SAY PLEASE.`
+Nari freezes and looks toward the SAME speaker.
+
+==================================================
+VOICE / LETTERING DISTINCTION
+==================================================
+
+Synthetic assistant audio and unknown natural male voice must be visually distinct in balloon/audio treatment while both clearly source from the same speaker hardware.
+The natural male voice uses restrained clean helpful styling, NEVER hostile black-pixel corruption.
+No words are printed on the speaker body.
+
+NO DEAD BOTTOM — ABSOLUTE
+End on Nari's frozen reaction + same speaker + canonical kitchen geometry. No giant blank tail.
+
+SEAM OUT — G
+Strip 006 immediately continues Nari's reaction and speaker unplug before the later TV scene.
+
+AUTOMATIC REJECT IF
+- Hyun-woo body/silhouette appears
+- speaker redesigns/gets a screen
+- voice text printed on body
+- chopsticks duplicate/teleport
+- hostile styling used for natural male voice
+- black slice separators missing
+- giant dead bottom appears
 ```
+
+## Production Thread Attachments
+1. Nari canonical
+2. Unit 2407 floor plan
+3. Unit 2407 living→kitchen wide
+4. Unit 2407 kitchen→living wide
+5. smart-speaker canonical states
+6. APPROVED Strip 004
+7. this Strip 005 prompt

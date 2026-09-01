@@ -1,138 +1,107 @@
 # Strip 023 — Candle Out / Knife Drop / First Touch
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME action chain from APPROVED Strip 022.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing SAME action chain from APPROVED Strip 022.
 
-THIS IS NOT A PAGE. No reader-visible production numbering or labels.
-
-TECHNICAL SCOPE
-Internal beats V103–V107. Source authority: Comic Chapter 1 Page 14 second half.
+PRODUCTION SCOPE
+V103–V107. Historical P14 mapping only.
 
 ATTACH — REQUIRED
-- Nari canonical PNG
-- Hyun-woo canonical PNG
+- Nari canonical
+- Hyun-woo canonical
+- Unit 2407 floor plan
+- Unit 2407 living→kitchen wide
+- Unit 2407 kitchen→living wide
+- Unit 2407 fridge/cabinet detail
+- Unit 2407 lighting-states canonical
+- refrigerator canonical states
 - APPROVED Strip 022
+- this Strip 023 prompt
 
 ==================================================
-EXACT START STATE — ABSOLUTE
+BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-- Hyun-woo remains between Nari and refrigerator
-- Nari remains behind him at same position
-- Nari still holds SAME practical knife low
-- SAME candle in SAME holder has blue-centered flame
-- refrigerator remains hostile from prior strip
-- pushed-back chair/table/pot/pantry/etc remain fixed
-
-Neither character teleports or changes sides.
+This action order depends on separation. Put a SMALL BLACK GUTTER between V103, V104, V105, V106, and V107 so the reader cannot mistake them as simultaneous. If a fall trajectory and floor impact share one row, use diagonal black divider. Keep gutters narrow; no giant black void.
 
 ==================================================
-ACTION ORDER — ABSOLUTE / NON-NEGOTIABLE
+NON-NEGOTIABLE ACTION ORDER
 ==================================================
 
-These are FIVE separate readable consequences. Never merge/reorder:
+1. V103 candle out.
+2. V104 fridge shriek; Nari hands toward ears; knife only begins slipping.
+3. V105 knife fully leaves fingers / travels downward; NO wrist catch.
+4. V106 knife hits ONE fixed floor spot `CLANG`; NO wrist catch before impact.
+5. V107 ONLY AFTER knife is on floor, Hyun-woo catches ONE wrist.
 
-1. V103 — Nari blows out candle.
-2. V104 — refrigerator shrieks; Nari brings hands toward ears; knife only STARTS slipping.
-3. V105 — knife fully leaves Nari's fingers and visibly travels downward; NO wrist catch yet.
-4. V106 — knife hits fixed floor spot with `CLANG`; NO wrist catch before impact.
-5. V107 — ONLY AFTER knife is visibly on floor, Hyun-woo catches one of Nari's wrists.
-
-Do not combine V105/V106/V107 into one pose.
+Never merge/reorder.
 
 ==================================================
-CANDLE EXTINGUISHING GEOGRAPHY — ABSOLUTE
+VERTICAL STORY FLOW
 ==================================================
 
-Nari must extinguish the SAME candle without teleporting beside refrigerator/table.
-Use camera angle / Nari leaning/turning from her established side so action remains believable while story-world position stays continuous.
-Candle/holder do NOT move.
-
-V103 SFX at flame:
+V103 — SAME CANDLE
+Nari extinguishes candle without teleporting to table.
+SFX:
 `PFF`
-After flame dies, only small smoke trail from wick.
+Candle/holder stay fixed; wick smoke only afterward.
 
-==================================================
-SHRIEK / KNIFE LOCK — ABSOLUTE
-==================================================
+SMALL BLACK GUTTER.
 
-V104 SFX source = hostile refrigerator display:
+V104 — SHRIEK
+SFX at refrigerator:
 `KIIIIII`
+Nari brings hands toward ears; practical knife starts loosening.
 
-Nari instinctively brings hands toward ears.
-Knife begins to loosen but remains in transition.
+SMALL BLACK GUTTER.
 
-V105:
-Show SAME practical knife leaving her hand; clear downward trajectory.
-No duplicate knife.
-No sheath (sheath remains desk).
+V105 — KNIFE FALL
+SAME practical knife visibly leaves Nari's fingers. Sheath remains desk from Strip 016. No duplicate knife. No wrist catch.
 
-V106:
-Knife lands at ONE fixed floor spot near Nari's established position.
-SFX floor-aligned:
+SMALL BLACK GUTTER.
+
+V106 — FLOOR IMPACT
+SFX at ONE fixed floor spot:
 `CLANG`
-That exact landing spot becomes continuity authority for Strips 024–028 until knife is picked up later.
+That exact spot remains continuity authority through Strip 028.
 
-==================================================
-FIRST TOUCH LOCK — ABSOLUTE
-==================================================
+SMALL BLACK GUTTER.
 
-V107 is first direct physical contact between Nari and Hyun-woo.
-Only after knife impact:
-- Hyun-woo reaches from his established protective position
-- catches ONE of Nari's wrists
-- contact controlled/protective, not violent
-- no glowing hand/touch effect
-
-NARI INTERNAL THOUGHT ONLY:
+V107 — FIRST TOUCH
+Only now Hyun-woo catches one of Nari's wrists from protective position. Controlled/protective, no glow.
+NARI INTERNAL THOUGHT:
 `WARM.`
-HYUN-WOO spoken quietly/firmly:
+HYUN-WOO:
 `STAY IN THE DARK UNTIL THE POWER'S BACK.`
-
-`WARM.` is internal thought, NOT spoken bubble.
-
-==================================================
-LIGHTING LOCK
-==================================================
-
-After candle out, Unit 2407 has NO story-world interior light.
-Render readably with charcoal/muted blue-gray flat shape separation and linework only.
-Do NOT add flashlight, phone glow, rim light, cinematic illumination, or new light source.
+`WARM.` is thought, not spoken.
 
 ==================================================
-NO DEAD BOTTOM — ABSOLUTE
+LIGHTING / NO DEAD BOTTOM
 ==================================================
 
-Use V107 first-touch composition plus visible knife on its fixed floor spot and surrounding dark geometry as lower visual beat.
-No giant black/white tail.
-No filler text/SFX.
+After candle out, no story-world interior light. Use readable flat charcoal/blue-gray separation, no phone/flashlight/rim light.
+Use first-touch + knife on floor through lower canvas; no giant tail.
 
 SEAM OUT — G
-Strip 024 begins seconds later with Hyun-woo STILL holding the same wrist, then visibly releasing it.
-Knife remains on exact floor spot.
-
-TEXT LOCK — EXACT
-`PFF`
-`KIIIIII`
-`CLANG`
-`WARM.`
-`STAY IN THE DARK UNTIL THE POWER'S BACK.`
+Strip 024 begins seconds later with same wrist still held, then release. Knife remains exact floor spot.
 
 AUTOMATIC REJECT IF
-- wrist catch occurs before `CLANG`
-- knife and wrist catch happen simultaneously
-- duplicate knife appears
-- knife landing spot changes
-- Nari teleports to candle/refrigerator
-- candle/holder moves
-- `WARM.` spoken aloud
+- action order merges
+- wrist catch before impact
+- knife duplicates/landing spot changes
 - touch glows
-- invented interior light appears after candle out
-- giant purposeless bottom space appears
+- invented light appears
+- black action gutters missing/oversized
 ```
 
 ## Production Thread Attachments
 1. Nari canonical
 2. Hyun-woo canonical
-3. APPROVED Strip 022
-4. this Strip 023 prompt
+3. Unit 2407 floor plan
+4. Unit 2407 living→kitchen wide
+5. Unit 2407 kitchen→living wide
+6. Unit 2407 fridge/cabinet detail
+7. Unit 2407 lighting-states canonical
+8. refrigerator canonical states
+9. APPROVED Strip 022
+10. this Strip 023 prompt

@@ -1,100 +1,90 @@
 # Strip 027 — Mrs. Na Voicemail / Cabinet Chimes
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME normally powered entry-area sequence from APPROVED Strip 026.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing SAME powered entry-area sequence from APPROVED Strip 026.
 
-THIS IS NOT A PAGE. No reader-visible production IDs or page numbering.
-
-TECHNICAL SCOPE
-Internal beats V124–V127. Source authority: Comic Chapter 1 Page 16 ending.
+PRODUCTION SCOPE
+V124–V127. Historical P16 mapping only.
 
 ATTACH — REQUIRED
-- Nari canonical PNG
+- Nari canonical
+- Unit 2407 floor plan
+- Unit 2407 entry/living wide
+- `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-canonical.png`
+- Unit 2407 lighting-states canonical
 - APPROVED Strip 026
+- this Strip 027 prompt
 
 Do NOT attach Hyun-woo.
 
 ==================================================
-EXACT START / PHONE LOCK — ABSOLUTE
+BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Nari remains at/near SAME powered front-door entry area immediately after building-security call.
-She is still holding the SAME phone physically picked up from desk in Strip 026.
-No second phone/tablet.
-
-Lower kitchen cabinet containing hidden speaker-stockpot is still CLOSED.
-Speaker is not visible.
-All encounter props remain untouched.
+Small black gutter between voicemail/message/chime/reaction slices. Side-by-side entry-vs-kitchen source views require diagonal black divider. External 027→028 A/G seam should preserve actual route; do not use an oversized black page break.
 
 ==================================================
-DIALOGUE / SFX OWNERSHIP — ABSOLUTE
+START / PHONE / CABINET STATE
 ==================================================
 
-V124 PHONE SYSTEM automated audio:
+Nari remains at/near powered entry with SAME phone from security call. Lower kitchen cabinet containing hidden speaker stockpot remains CLOSED; speaker invisible. No cleanup.
+
+==================================================
+VERTICAL STORY FLOW
+==================================================
+
+V124 — VOICEMAIL SYSTEM
+PHONE SYSTEM AUDIO:
 `PLEASE LEAVE A MESSAGE AFTER THE TONE.`
-Phone SFX:
+SFX:
 `BEEP`
 
-V125 NARI into phone for Mrs. Na:
+SMALL BLACK GUTTER.
+
+V125 — NARI MESSAGE
+NARI:
 `MRS. NA, CALL ME BACK.`
+NARI:
 `I NEED TO KNOW WHAT'S GOING ON IN THIS APARTMENT.`
 
-V126 first cabinet-source SFX:
-`MFF-CHIME`
+SMALL BLACK GUTTER.
 
-V127 second SAME cabinet-source SFX:
+V126 — FIRST CABINET CHIME
+After message ends, sound from SAME closed lower kitchen cabinet only:
 `MFF-CHIME`
-NARI spoken quietly toward cabinet direction:
+Nari freezes/turns toward kitchen; does not teleport.
+
+SMALL BLACK GUTTER.
+
+V127 — SECOND SAME-SOURCE CHIME
+`MFF-CHIME`
+NARI, toward cabinet direction:
 `...NO.`
-
-Both `MFF-CHIME` sounds originate from SAME closed lower kitchen cabinet.
-Do NOT place them at refrigerator, TV, phone, smart lock, elevator, or ceiling.
+Nari may orient toward kitchen but does NOT kneel/open cabinet yet. Phone stays in hand.
 
 ==================================================
-MOVEMENT / GEOGRAPHY LOCK — ABSOLUTE
+POWER / NO DEAD BOTTOM
 ==================================================
 
-V124–V125: Nari remains in entry area while leaving voicemail.
-
-V126: AFTER message ends, first chime comes from kitchen. Nari freezes and turns her head/body toward kitchen direction. She does not teleport to cabinet.
-
-V127: second chime confirms source. Nari may rotate/focus toward kitchen but must NOT yet kneel/open cabinet or expose speaker. Keep enough entry→kitchen depth readable so Strip 028 can show actual approach.
-
-Phone remains in her hand through strip end.
-
-==================================================
-POWER / LIGHTING LOCK
-==================================================
-
-Unit 2407 remains normally powered and medium-bright neutral.
-Do not darken room for suspense.
-Speaker/cabinet chime does not cause flicker/outage/glow.
-
-==================================================
-NO DEAD BOTTOM — ABSOLUTE
-==================================================
-
-End on meaningful Nari-facing-kitchen / closed-cabinet sightline composition.
-Do not place `...NO.` then leave huge empty white/neutral tail.
-Use powered apartment depth and closed cabinet as visual tension.
-No filler text/SFX.
+Normal powered lighting; no darkening/flicker/glow.
+Use entry→kitchen depth + closed cabinet tension through lower canvas.
 
 SEAM OUT — A/G
-Strip 028 shows Nari physically traveling from this position toward THIS exact cabinet, setting same phone on nearby counter, kneeling, then opening it.
+Strip 028 shows actual physical approach, phone placement, kneel, cabinet opening.
 
 AUTOMATIC REJECT IF
-- phone disappears/duplicates
-- cabinet opens early
-- speaker becomes visible early
-- chime sourced from wrong appliance
-- Hyun-woo body/reflection appears
-- Nari teleports to cabinet
-- apartment is darkened
-- extra dialogue/SFX appears
-- giant purposeless bottom space appears
+- phone vanishes/duplicates
+- cabinet opens/speaker appears early
+- chime sourced from fridge/TV/phone
+- Nari teleports
+- black separators missing/oversized
 ```
 
 ## Production Thread Attachments
 1. Nari canonical
-2. APPROVED Strip 026
-3. this Strip 027 prompt
+2. Unit 2407 floor plan
+3. Unit 2407 entry/living wide
+4. Unit 2407 fridge/cabinet detail
+5. Unit 2407 lighting-states canonical
+6. APPROVED Strip 026
+7. this Strip 027 prompt

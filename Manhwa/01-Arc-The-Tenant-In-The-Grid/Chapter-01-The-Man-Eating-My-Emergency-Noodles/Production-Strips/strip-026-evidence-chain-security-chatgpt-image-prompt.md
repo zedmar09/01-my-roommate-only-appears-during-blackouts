@@ -1,118 +1,36 @@
 # Strip 026 — Evidence Chain / Security
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing immediately after APPROVED Strip 025 in the SAME normally powered Unit 2407.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing immediately after APPROVED Strip 025 in SAME normally powered Unit 2407.
 
-THIS IS NOT A PAGE. No reader-visible production numbering or labels.
-
-TECHNICAL SCOPE
-Internal beats V119–V123. Source authority: Comic Chapter 1 Page 16 first evidence chain.
+PRODUCTION SCOPE
+V119–V123. Historical P16 mapping only.
 
 ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.png`
+- Nari canonical
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-states-canonical.png`
 - APPROVED Strip 025
+- this Strip 026 prompt
 
-Do NOT attach Hyun-woo. He is physically absent after Unit 2407 power return.
-
-==================================================
-EXACT START STATE / NO CLEANUP — ABSOLUTE
-==================================================
-
-Unit 2407 is normally powered and lit.
-Nari begins in kitchen/dining area looking at empty space where Hyun-woo stood.
-
-Nothing from blackout encounter has been cleaned up:
-- practical knife STILL on exact floor spot from Strip 023
-- pushed-back chair still angled
-- noodle pot/trivet/folded cloth unchanged
-- candle stays extinguished in holder
-- pantry stays ajar / five unopened packets
-- refrigerator/sink/cooktop unchanged
-- lower kitchen cabinet containing hidden speaker-stockpot remains CLOSED
-- TV remains unplugged/inactive
-- binder remains kitchen counter
-- brass key remains entry tray
+Do NOT attach Hyun-woo.
+Use room-angle atlas additionally if kitchen→desk→entry route requires an unlisted camera angle.
 
 ==================================================
-PHONE CONTINUITY FIX — ABSOLUTE
+BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-The SAME phone was left at Nari's work desk throughout blackout.
-It must NOT teleport into her hand at entry.
-
-During V120 movement from kitchen/dining toward front door:
-1. Nari physically leaves kitchen/dining.
-2. Her route passes/reaches established desk area.
-3. She deliberately picks up the SAME phone from desk.
-4. She continues physically to front-door entry with phone in hand.
-5. Only then does she test safety latch/door.
-
-This is a silent continuity action; do NOT add narration/dialogue for pickup.
-After power restoration, screen use is allowed.
+Small black gutter between each evidence-chain slice. If smart-lock and phone/camera inserts share one row, separate with diagonal black divider. These black gutters must organize evidence clearly without becoming large page breaks.
 
 ==================================================
-ENTRY / DEVICE GEOGRAPHY — ABSOLUTE
+NO CLEANUP / PHONE ROUTE — ABSOLUTE
 ==================================================
 
-V120–V123 remain around SAME front-door/entry zone after physical route.
-Manual safety latch is still visibly engaged.
-Door remains locked.
+Powered apartment; nothing from encounter cleaned up: knife fixed floor spot, pushed chair, pot/trivet/cloth, extinguished candle, pantry five packets, closed hidden-speaker cabinet, unplugged inactive TV, binder counter, brass key tray.
 
-V121 smart-lock history appears on established lock/interface at entry.
-V122 camera archive is reviewed on Nari's SAME phone while she remains in entry area; surrounding apartment stays normally lit.
-V123 security call uses that SAME phone.
-
-No second phone.
-No tablet.
-
-==================================================
-DEVICE TEXT / DIALOGUE OWNERSHIP — ABSOLUTE
-==================================================
-
-V119 Nari spoken:
-`HYUN-WOO?`
-
-V120 SFX physical latch/door test:
-`TUG`
-
-V121 SMART LOCK DEVICE TEXT:
-`ENTRY HISTORY`
-`YOON NARI — LAST ENTRY`
-NARI:
-`THE DOOR NEVER OPENED.`
-
-V122 CAMERA ARCHIVE DEVICE TEXT:
-`12:43 A.M. — RECORDING LOST`
-`VIDEO RESUMED AFTER OUTAGE`
-NARI:
-`AND THE CAMERA MISSED THE WHOLE THING.`
-
-V123 NARI into phone:
-`THIS IS UNIT 2407. DID ANYONE COME UP TO THE TWENTY-FOURTH FLOOR DURING THE OUTAGE?`
-SECURITY over phone:
-`NO, MA'AM. THE ELEVATORS WERE DOWN THE ENTIRE TIME.`
-SECURITY over phone:
-`WE DIDN'T GET ANY REPORTS FROM YOUR FLOOR EITHER.`
-
-Device text stays inside correct interface/screen.
-Security audio is phone dialogue, no physical guard shown.
-
-==================================================
-CAMERA ARCHIVE LOCK — ABSOLUTE
-==================================================
-
-Archive may show:
-- normal footage before outage
-- corrupt/missing interval beginning exactly 12:43 A.M.
-- resumed EMPTY corridor after outage
-
-Do NOT show:
-- Hyun-woo
-- silhouette/person/reflection
-- unknown intruder
-- hidden figure in lost/resumed footage
-
-Any earlier-outage darkness stays contained INSIDE archive display and does not restyle current room.
+The SAME phone was left at work desk through blackout. V120 must show kitchen/dining → desk phone pickup → entry → latch test. Phone never teleports. No second phone/tablet.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -122,52 +40,67 @@ V119 — EMPTY SPACE
 NARI:
 `HYUN-WOO?`
 
-V120 — PHYSICAL ROUTE + PHONE PICKUP + LATCH TEST
-Show kitchen/dining → desk pickup → entry continuity; finish on latch test.
+SMALL BLACK GUTTER.
+
+V120 — ROUTE / PHONE PICKUP / LATCH
+Show real physical route and pickup; finish testing still-engaged latch/locked door.
 SFX:
 `TUG`
 
-V121 — SMART LOCK HISTORY
-Exact device text + Nari line.
+SMALL BLACK GUTTER.
 
-V122 — CAMERA LOST INTERVAL
-Exact device text + Nari line.
+V121 — SMART LOCK
+DEVICE TEXT:
+`ENTRY HISTORY`
+`YOON NARI — LAST ENTRY`
+NARI:
+`THE DOOR NEVER OPENED.`
+
+SMALL BLACK GUTTER.
+
+V122 — CAMERA ARCHIVE ON SAME PHONE
+DEVICE TEXT:
+`12:43 A.M. — RECORDING LOST`
+`VIDEO RESUMED AFTER OUTAGE`
+NARI:
+`AND THE CAMERA MISSED THE WHOLE THING.`
+Archive may show before-outage footage, missing interval, resumed EMPTY corridor. Never show intruder/Hyun-woo/silhouette/reflection.
+
+SMALL BLACK GUTTER.
 
 V123 — SECURITY CALL
-Exact three dialogue lines.
+NARI:
+`THIS IS UNIT 2407. DID ANYONE COME UP TO THE TWENTY-FOURTH FLOOR DURING THE OUTAGE?`
+SECURITY over phone:
+`NO, MA'AM. THE ELEVATORS WERE DOWN THE ENTIRE TIME.`
+SECURITY:
+`WE DIDN'T GET ANY REPORTS FROM YOUR FLOOR EITHER.`
+No physical security guard shown.
 
 ==================================================
-POWER / LIGHTING LOCK
+POWER / NO DEAD BOTTOM
 ==================================================
 
-EVERY current-time composition uses normal medium-bright neutral powered lighting.
-No blackout palette, candlelight, emergency-light look, screen-as-room-light, or second outage.
-
-==================================================
-NO DEAD BOTTOM — ABSOLUTE
-==================================================
-
-Use V123 call composition plus powered entry/kitchen depth and Nari's evidence-processing posture to occupy lower canvas.
-No giant empty transition tail.
-No filler text/SFX.
+All current-time views medium-bright neutral powered. Archive darkness stays inside phone content only.
+Use security-call composition through lower canvas; no giant tail.
 
 SEAM OUT — G
-Strip 027 continues with SAME phone still in Nari's hand into Mrs. Na voicemail.
+Strip 027 continues SAME phone in Nari's hand into voicemail.
 
 AUTOMATIC REJECT IF
-- phone teleports from desk to entry
-- second phone appears
-- knife/encounter props get cleaned up
-- cabinet opens early
-- physical/reflected Hyun-woo appears
-- intruder appears in archive
-- current apartment looks dark/unpowered
-- device text floats outside screen/interface
-- dialogue ownership wrong
-- giant purposeless bottom space appears
+- phone teleports/duplicates
+- encounter props cleaned up
+- current apartment dark
+- archive shows person
+- device text floats outside device
+- black dividers missing/oversized
 ```
 
 ## Production Thread Attachments
 1. Nari canonical
-2. APPROVED Strip 025
-3. this Strip 026 prompt
+2. Unit 2407 floor plan
+3. Unit 2407 desk-zone detail
+4. Unit 2407 entry/living wide
+5. Unit 2407 lighting-states canonical
+6. APPROVED Strip 025
+7. this Strip 026 prompt

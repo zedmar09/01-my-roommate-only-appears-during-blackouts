@@ -1,44 +1,112 @@
 # Strip 003 — The Hallway Rule
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME chapter.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME counter conversation from APPROVED Strip 002.
 
-THIS IS NOT A PAGE. Never print strip IDs, beat IDs, page numbers, or circled panel numbers.
+PRODUCTION SCOPE
+V12–V15. Historical P2 mapping only.
 
-TECHNICAL SCOPE
-V12–V15. Never print V/strip IDs.
-Source: Comic Page 2.
+ATTACH — REQUIRED
+- `Character-References/nari-canonical-flat2d.png`
+- `Character-References/mrs-na-canonical-flat2d.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-canonical.png`
+- APPROVED Strip 002
+- this Strip 003 prompt
 
-ATTACH
-Nari canonical + Mrs. Na canonical + APPROVED Strip 002.
+==================================================
+EXACT START / NO RESET — ABSOLUTE
+==================================================
 
-SEAM IN — SAME COUNTER CONVERSATION
-Continue directly from Strip 002's V11. Binder and brass key are already on the kitchen counter. Mrs. Na and Nari remain in the same positions/wardrobe/lighting family. Do not replay the manual exchange.
+Binder and brass backup key remain exactly where Strip 002 placed them on the kitchen counter.
+Nari and Mrs. Na remain at that counter. Neither changes room.
+Hallway mains lamp must be physically located according to canonical hallway reference; it is an ordinary apartment light, not supernatural.
 
-V12 — Nari asks the practical question; Mrs. Na becomes serious.
-NARI: ANYTHING I ACTUALLY NEED TO KNOW?
-MRS. NA: YES. ONE THING.
+==================================================
+BLACK READ-SLICE DIVIDER — ABSOLUTE
+==================================================
 
-V13 — Give the hallway lamp its own readable visual emphasis without making it supernatural.
-MRS. NA: AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.
+Use a SMALL BLACK GUTTER between each distinct vertical beat. For two separate close-ups/views sharing one horizontal row, use a SLANTED BLACK SLASH/WEDGE between them. Do not merge backgrounds, balloons, or props across the slash. Black dividers stay compact and never become large dead areas.
 
-V14 — Mrs. Na points to the actual mains-powered hallway light. Phone/tablet are secondary examples only.
-MRS. NA: THE LIGHT HAS TO COME FROM THE APARTMENT ITSELF.
-MRS. NA: DON'T TRY TO REPLACE IT WITH A PHONE OR TABLET.
+==================================================
+DIALOGUE OWNERSHIP — ABSOLUTE
+==================================================
 
-V15 — Nari asks; Mrs. Na avoids explaining.
-NARI: WHY? WHAT HAPPENS IF IT GOES OUT?
-MRS. NA: JUST KEEP IT ON.
+- `ANYTHING I ACTUALLY NEED TO KNOW?` = Nari
+- `YES. ONE THING.` = Mrs. Na
+- `AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.` = Mrs. Na
+- `THE LIGHT HAS TO COME FROM THE APARTMENT ITSELF.` = Mrs. Na
+- `DON'T TRY TO REPLACE IT WITH A PHONE OR TABLET.` = Mrs. Na
+- `WHY? WHAT HAPPENS IF IT GOES OUT?` = Nari
+- `JUST KEEP IT ON.` = Mrs. Na
 
-NO DEAD BOTTOM WHITESPACE
-Do not leave a large blank white tail after the final line. End in the same kitchen/hallway-light composition with Nari's concern still active and only a controlled seam/pause appropriate for her next question.
+Every bubble tail must point only to the correct person.
+Phone/tablet in V14 are examples only; do not imply either is currently malfunctioning.
 
-SEAM OUT — A/G CONTINUATION
-Do NOT resolve the conversation. Strip 004 begins with Nari asking what happens if the whole building loses power. Keep positions, lamp, binder/key, wardrobe, and lighting continuable.
+==================================================
+VERTICAL STORY FLOW
+==================================================
 
-TEXT SAFETY
-All dialogue fully inside this strip; no bubble cut by the technical edge.
+V12 — PRACTICAL QUESTION
+NARI:
+`ANYTHING I ACTUALLY NEED TO KNOW?`
+MRS. NA:
+`YES. ONE THING.`
+Mrs. Na's expression shifts serious.
 
-AVOID
-No reason for the rule, no supernatural imagery, no page-grid layout, no extra text, no crossed speaker tails, no huge blank bottom padding.
+SMALL BLACK GUTTER.
+
+V13 — HALLWAY LIGHT RULE
+Give the canonical hallway lamp a readable insert/angle while keeping both women spatially anchored at the kitchen counter.
+MRS. NA:
+`AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.`
+
+SMALL BLACK GUTTER.
+
+V14 — MAINS VS PHONE/TABLET
+Mrs. Na indicates the actual hallway mains light; optional phone/tablet inserts stay secondary.
+MRS. NA:
+`THE LIGHT HAS TO COME FROM THE APARTMENT ITSELF.`
+MRS. NA:
+`DON'T TRY TO REPLACE IT WITH A PHONE OR TABLET.`
+If hallway-lamp and phone/tablet inserts share one row, separate with diagonal black divider.
+
+SMALL BLACK GUTTER.
+
+V15 — NARI PUSHES FOR REASON
+NARI:
+`WHY? WHAT HAPPENS IF IT GOES OUT?`
+MRS. NA:
+`JUST KEEP IT ON.`
+
+==================================================
+REAL-SCENARIO CONTINUITY
+==================================================
+
+Mrs. Na does not walk away yet. Nari does not touch binder/key. Lamp stays normally powered. No screen activates. No supernatural effect.
+
+NO DEAD BOTTOM — ABSOLUTE
+End on unresolved tension at the same counter with a compact black beat separator only. Strip 004 continues the question chain.
+
+SEAM OUT — A/G
+Strip 004 starts with Nari's whole-building-outage question from these exact positions.
+
+AUTOMATIC REJECT IF
+- binder/key relocate
+- hallway lamp changes place/design
+- phone/tablet becomes a supernatural event
+- dialogue tails swap
+- room axis flips
+- distinct slices have no small black divider
+- giant blank bottom appears
 ```
+
+## Production Thread Attachments
+1. Nari canonical
+2. Mrs. Na canonical
+3. Unit 2407 floor plan
+4. Unit 2407 living→kitchen wide
+5. Unit 2407 hallway canonical
+6. APPROVED Strip 002
+7. this Strip 003 prompt

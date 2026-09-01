@@ -6,10 +6,10 @@ This document is the presentation authority for the full Chapter 1 Manhwa produc
 Create Chapter 1 of "My Roommate Only Appears During Blackouts" as ONE CONTINUOUS full-color vertical Korean-webtoon/manhwa chapter.
 
 PRODUCTION SOURCE
-Use the locked Chapter 1 Manhwa beat plan, strip manifest, and current strip prompts. Historical P001–P018 labels are mapping shorthand only; there is no active traditional manga/page-grid production source.
+Use the locked Chapter 1 Manhwa beat plan, strip manifest, current strip prompts, and approved reusable canonicals. Historical P001–P018 labels are mapping shorthand only.
 
 INTERNAL PLAN
-Exactly 146 internal read beats V01–V146 and 32 technical strips strip-001–strip-032. Never render those IDs.
+146 internal read beats V01–V146 and 32 technical strips strip-001–strip-032. Never render those IDs.
 
 FINAL READER EXPERIENCE
 No traditional pages, page numbers, circled panel numbers, reader-visible strip divisions, or repeated headers/footers.
@@ -21,30 +21,29 @@ CANONICAL CONTINUITY STACK
 4. reusable object canonical(s)
 5. previous approved strip temporary state
 
-Environment canonicals control architecture/room relationships/fixed furniture/appliances/camera axes. Object canonicals control recurring body/design and state vocabulary. Previous strips must not propagate drift that contradicts an approved canonical.
+REUSABLE REFERENCES
+Environment: `Manhwa/Environment-References/Unit-2407/`, `Building-Shared-Areas/`.
+Objects: `Manhwa/Object-References/` smart speaker / TV / refrigerator.
+Reuse these in later chapters whenever the same physical place/object returns.
 
-REUSABLE ENVIRONMENTS
-Use approved references from `Manhwa/Environment-References/Unit-2407/` and `Manhwa/Environment-References/Building-Shared-Areas/`. Reuse them in later chapters whenever these same places return.
-
-REUSABLE OBJECTS
-Use approved speaker/TV/refrigerator state sheets from `Manhwa/Object-References/`. Reuse the same object canonical in later chapters whenever that physical object returns.
-
-TV hostile state = broad full-screen broadcast/signal takeover.
-Refrigerator hostile state = narrow embedded diagnostic/identity-lock intrusion.
-Never swap them.
-
-CHARACTER VISIBILITY
-Strip 016 may attach Hyun-woo only for teaser silhouette/body/seat continuity. Strips 017–025 show him physically during Unit 2407 power loss. After power return he is absent/voice-only.
+BLACK READ-SLICE GRAMMAR — ABSOLUTE
+Every DISTINCT vertical reading slice/composition uses a small black gutter before the next distinct slice.
+When two distinct camera slices share one horizontal row, separate them with a diagonal/slanted black divider. No face/text/balloon/prop/background crosses that divider.
+Black gutters are compact reading grammar, not giant dead bands.
+Do not insert a visible black bar at an A/E technical file seam when artwork/effect must stitch continuously.
 
 STYLE
-Polished original full-color 2D Korean webtoon/manhwa rendering with clean lines, matte controlled cel/soft-cel shading, adult proportions, expressive faces/hands, detailed readable environments, and varied vertical composition. Reject photorealism, 3D/CG, glossy rendering, mirror-like surfaces, or bloom-heavy cinematic treatment.
+Polished original full-color 2D Korean webtoon/manhwa rendering: clean lines, matte controlled cel/soft-cel shading, adult proportions, expressive faces/hands, detailed readable canonical environments, varied vertical composition. Reject photoreal/3D/glossy/cinematic over-rendering.
+
+REAL-SCENARIO CONTINUITY
+All movement, carried-object routes, prop counts, room axes, device states, power states, and dialogue/SFX ownership must remain physically coherent across all 32 strips. Follow `chapter-01-real-scenario-continuity-audit.md` and generation checklist.
 
 NO DEAD BOTTOM — ABSOLUTE
-Negative space must communicate something: existing narration/time transition, meaningful silence, suspense/reveal delay, scripted sound-first beat, reaction hold, canonical environment/atmosphere, or seam transition. Never leave a giant unused bottom tail and never invent filler reader-facing text/SFX.
+Negative space must communicate something. Never leave a giant unused bottom tail and never invent filler text/SFX. Use existing action/reaction, canonical environment, atmosphere, reveal timing, or compact seam buffer.
 
 POWER ARC
-Strips 014–025 contain the real Unit 2407 outage. Hyun-woo remains physical until Unit 2407 itself powers on. Strips 026–032 are normally powered.
+Strips 014–025 contain real Unit 2407 outage. Hyun-woo remains physical until Unit 2407 itself powers on. Strips 026–032 are normally powered.
 
 CHAPTER END
-End on the visibly unplugged TV displaying `NEW TENANT CONFIRMED` in the hostile TV state. Apartment lights flicker once with `FZZT` but remain powered. End immediately on Nari's reaction and the hostile message.
+End on visibly unplugged TV displaying `NEW TENANT CONFIRMED`; apartment lights flicker once `FZZT` but remain powered. End immediately on Nari reaction + hostile message.
 ```

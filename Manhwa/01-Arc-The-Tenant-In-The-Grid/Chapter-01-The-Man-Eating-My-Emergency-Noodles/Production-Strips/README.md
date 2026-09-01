@@ -4,28 +4,46 @@ This folder contains **32 technical image-generation prompts** for one continuou
 
 Generate strictly in order: `001 → 002 → 003 → ... → 032`.
 
-## Production Attachment Stack
+## Every Strip Prompt Is Self-Contained — Absolute
 
-For every strip, follow `../chapter-01-strip-manifest.md` and attach:
+Every `strip-###-...md` must explicitly list inside the file itself:
 1. current strip prompt
 2. required visible-character canonical PNG(s)
-3. relevant approved reusable environment canonical PNG(s)
-4. relevant approved reusable object canonical PNG(s)
-5. immediately previous approved strip for 002–032
+3. every required reusable environment canonical PNG
+4. every required reusable object canonical PNG
+5. immediately previous APPROVED strip for 002–032
 
-Reuse the existing `Unit-2407`, `Building-Shared-Areas`, smart-speaker, TV, and refrigerator canonicals in future chapters when those same places/objects return. Never create chapter-numbered duplicates of reusable references.
+Do not rely on the manifest alone when working in the production chat. The manifest is the audit map; the current strip file must repeat the exact attachments needed for that generation.
 
-Environment/object canonicals become mandatory after generated and approved. Do not attach rejected reference images or unrelated canonical sheets.
+If a listed canonical PNG has not yet been generated/approved, do not substitute a random reference. Generate/approve the canonical first.
 
-## Rules
+Reuse `Unit-2407`, `Building-Shared-Areas`, smart-speaker, TV, and refrigerator canonicals in later chapters whenever the same place/object returns. Never create chapter-numbered duplicates.
+
+## Black Read-Slice Grammar — Absolute
+
+Every distinct vertical reading slice/composition inside a technical strip receives a **small black gutter** before the next distinct slice.
+
+Rules:
+- gutter is narrow and deliberate, never a huge dead black band
+- use black, not random white spacing, as the normal visual slice separator
+- meaningful longer pauses may be slightly larger but still purposeful
+- time/location cuts may use a somewhat stronger compact black divider
+- if TWO different camera slices share one horizontal row, separate them with a **diagonal/slanted black divider** (a black slash/wedge)
+- faces, text, balloons, props, and backgrounds must not cross the diagonal divider
+- side-by-side slices must read as separate shots, never one merged impossible environment
+
+Technical file seams are different. For A/E continuation seams, do **not** add a visible black bar merely because one generated file ends; the final stitched chapter must remain seamless.
+
+## Production Rules
 
 - approve each strip before generating the next
 - use one fixed width throughout
-- preserve seam type in the manifest
-- preserve canonical room geometry and recurring object design/state
-- never render strip IDs, V-beat IDs, page numbers, or circled numbers
-- never leave a huge purposeless bottom blank tail
-- never invent filler text/SFX to occupy extra canvas
+- preserve seam type in `../chapter-01-strip-manifest.md`
+- preserve canonical room geometry and recurring object identity/state
+- preserve exact movement/object routes and dialogue ownership
+- never render production IDs/page numbers/circled panel numbers
+- never leave huge purposeless bottom blank space
+- never invent filler narration/dialogue/SFX
 - stitch all approved strips into one continuous chapter after 032
 
-If a strip needs extra vertical room, use existing story composition, canonical environment, reaction, atmosphere, narration, or scripted SFX intentionally. The technical canvas must not feel empty or broken.
+See `../chapter-01-real-scenario-continuity-audit.md` for the complete renewed continuity audit.

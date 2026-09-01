@@ -2,69 +2,63 @@
 
 ## One Chapter, One Scroll
 
-Finished Manhwa Chapter 1 is one centered continuous vertical reader. The 32 technical files are invisible production chunks only.
+The finished chapter is one centered continuous vertical reader. Technical strips are invisible production chunks only.
 
 ## Width Lock
 
-Use one fixed generation width for every technical strip. Do not independently resize strips before stitching. Stitch all approved strips first, then uniformly resize the completed master to final publishing width. Never mix strip widths.
+Use one fixed generation width for every technical strip. Do not independently resize strips before stitching. Stitch all approved strips first, then uniformly resize the completed master. Never mix strip widths.
 
 ## Canonical Environment Anchor
 
-Vertical composition can change camera height, lens feel, crop, and framing, but every shot must remain physically possible inside the approved environment canonical.
+Every camera view must remain physically possible inside the approved environment canonical. Preserve left/right room relationships, routes, reverse-angle truth, furniture/appliance locations, door/window positions, and recurring-landmark distances. Never mirror a location merely to make composition easier.
 
-Use the canonical environment pack to maintain:
-- left/right room relationships
-- entry→living→dining→kitchen→hallway routes
-- reverse-angle truth
-- furniture/appliance locations
-- door/window positions
-- distance between recurring landmarks
+## Read Beats Are Not Page Panels
 
-Do not mirror the room simply to make a panel fit. If a dramatic angle is not represented in the pack, derive it logically from the approved floor plan and nearest canonical angle rather than inventing new geography.
+V-beat IDs are planning-only. A beat can be borderless art, framed slice, montage, reaction, insert, sound-first moment, suspense hold, transition, or continuing environment/effect.
 
-## 146 Read Beats
+## Black Read-Slice Grammar — Absolute
 
-`V01`–`V146` are internal planning IDs only. They are not panel numbers and must never be drawn.
+The standard internal visual separator is BLACK.
 
-A read beat can be a framed panel, borderless/full-width art, montage cluster, reaction close-up, device insert, sound-first moment, meaningful suspense space, transition composition, or continuing environment/effect field.
+### Vertical succession
+Every distinct vertical reading slice/composition gets a **small black gutter** before the next distinct slice.
+- normal dialogue/action: small black gutter
+- fast action/reply: micro black gutter
+- suspense/reveal delay: slightly larger purposeful black interval
+- real time/location cut: stronger but still compact black transition
 
-Do not force each beat into a separate bordered panel.
+The black interval must clarify reading order. It must never become a huge empty band used to fill canvas.
 
-## Technical Strip Count
+### Two slices on one horizontal row
+When two different camera views/panels share a horizontal row, separate them with a **diagonal/slanted black divider** — a clean black slash/wedge.
+- do not use a straight borderless merge between different shots
+- no face, balloon, text, prop, hand, or background may cross the diagonal divider
+- each side must remain its own coherent camera slice
+- the diagonal divider may lean left or right according to composition, but its width must stay compact and consistent
 
-Exactly 32 planned technical strips: `strip-001` through `strip-032`.
+### Same-scene continuity
+Even if successive slices show the same room/characters, use the small black separator when the camera/beat changes. This makes the reader understand that it is a new visual slice, not a duplicated/malformed environment.
 
-A strip may contain several quick beats, or very few beats when a major reveal needs a dominant vertical composition. Strip count is a production limitation, not reader pacing.
-
-## Gutter Vocabulary
-
-Use relative spacing: micro for rapid action/reply, normal for ordinary beat changes, suspense for meaningful silence/clue, reveal for major scroll delay. Long spacing must have narrative purpose.
+### Technical seam exception
+A technical strip boundary is not automatically a story slice. If an A/E seam intentionally continues artwork/effect from Strip N into Strip N+1, do not insert a visible black bar at the file boundary. The final stitched art must remain continuous.
 
 ## No Dead Bottom Canvas — Absolute
 
-Do not leave a huge blank tail at the bottom merely because the technical canvas is taller than the scripted content.
+Small black gutters are purposeful visual grammar; huge empty black/white areas are not.
+If extra vertical height remains, use existing canonical environment, movement, reaction, darkness/rain/glitch field, scripted narration/SFX, or a deliberate suspense composition. Never invent filler reader-facing text/sound.
 
-If more vertical height is available, use it for the existing story through larger canonical environmental framing, longer reaction hold, continuing darkness/rain/glitch/room geometry, already scripted narration/SFX treatment, deliberate suspense/reveal interval, or a compact seam buffer.
+Reject any strip whose lower area feels unused, broken, or prematurely ended. Reject double-gap joins where one strip ends with a huge gap and the next begins with another.
 
-Never invent filler narration, dialogue, SFX, labels, or decorative text to occupy space.
+## Reader Background / Power State
 
-A strip fails if its lower area feels like unused canvas, a broken page, or content that stopped too early. It also fails if its bottom contains a huge gap and the next strip starts with another huge gap.
-
-## Reader Background
-
-Early chapter: white/light-neutral reader field where appropriate.
-Powered tense scenes: restrained neutral/darker field when useful.
-Actual outage: deep charcoal/black reader field with readable environment separation.
-After Unit 2407 power returns: return to the normal powered baseline.
+Powered ordinary scenes may use neutral reader field around art, but internal slice boundaries remain small black gutters.
+Actual outage uses deep charcoal/black reader field; still preserve readable separation between distinct slices through spacing/composition.
+After Unit 2407 power returns, return to the normal powered rendering baseline.
 
 ## No Traditional Page Artifacts
 
-Do not draw circled panel numbers, page numbers, technical strip IDs, beat IDs, crop/seam guides, repeated chapter titles, or headers/footers between images.
-
-## Composition Across Strip Boundaries
-
-A technical boundary may occur in a compact purposeful gutter or through continuing artwork/background/effect when continuous-reader behavior benefits from it. If art crosses the boundary, follow `seam-continuity-protocol.md`.
+No page numbers, circled panel numbers, strip IDs, beat IDs, crop guides, repeated chapter titles, or reader-visible technical labels.
 
 ## Text Safety
 
-Never cut a speech balloon, narration box, handwritten message, essential device message, or critical SFX across a technical seam. Keep reader-facing text fully inside one strip even when surrounding artwork continues.
+Never split a speech balloon, narration box, handwritten message, essential device message, or critical SFX across a technical seam or diagonal divider.

@@ -1,127 +1,97 @@
 # Strip 030 — Missing Section / Danger / Notebook Route
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME normally powered dining-table scene from APPROVED Strip 029.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing SAME normally powered dining-table scene from APPROVED Strip 029.
 
-THIS IS NOT A PAGE. No reader-visible production numbering or labels.
-
-TECHNICAL SCOPE
-Internal beats V138–V142. Source authority: Comic Chapter 1 Page 18 first half.
+PRODUCTION SCOPE
+V138–V142. Historical P18 mapping only.
 
 ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.png`
+- Nari canonical
+- Unit 2407 floor plan
+- Unit 2407 desk-zone detail
+- Unit 2407 living→kitchen wide
+- Unit 2407 lighting-states canonical
+- smart-speaker canonical states
 - APPROVED Strip 029
+- this Strip 030 prompt
 
-Do NOT attach Hyun-woo. He remains voice-only through SAME unplugged speaker.
-
-==================================================
-EXACT START / PROP LOCK — ABSOLUTE
-==================================================
-
-Nari begins seated at SAME dining chair after one cautious bite.
-Open lower speaker cabinet remains OPEN exactly as Strip 029.
-Speaker remains unplugged inside storage stockpot with towels/lid state unchanged.
-
-Fixed props:
-- phone stays kitchen counter
-- electrical binder stays kitchen counter and is NOT touched/moved
-- brass backup key stays entry tray
-- sheathed practical knife stays desk tray beside failed flashlight/radio
-- A5 grocery notebook remains at work desk at strip start
-- dining noodle pot/trivet/cloth stay table
-- candle stays extinguished
-- pushed-back Hyun-woo chair stays pushed back
-- pantry remains ajar / five packets
-- TV remains visibly unplugged/inactive
+Do NOT attach Hyun-woo; voice-only.
 
 ==================================================
-SILENCE / DIALOGUE OWNERSHIP — ABSOLUTE
+BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-V138:
-NARI toward open cabinet/speaker:
+Small black gutter between question/silence/answer/movement slices. The silence after first question may use a slightly longer black pause, but it must still be purposeful and not huge empty canvas. Side-by-side route views use diagonal black divider.
+
+==================================================
+START / FIXED PROP LOCK
+==================================================
+
+Nari remains in SAME untouched dining chair. Hyun-woo's pushed-back chair stays pushed back.
+Open speaker cabinet unchanged; phone/binder kitchen counter; brass key entry tray; sheathed knife/failed flashlight/radio desk; A5 notebook at desk; TV unplugged/inactive.
+
+==================================================
+VERTICAL STORY FLOW
+==================================================
+
+V138
+NARI toward open cabinet:
 `THE MISSING SECTION WAS ABOUT THAT PANEL, WASN'T IT?`
-
-Hyun-woo gives NO ANSWER.
-Do not create ellipsis/device response/SFX from speaker.
-Use a meaningful visual silence through Nari waiting/listening.
+Hyun-woo gives NO ANSWER. No ellipsis, no SFX, no device response.
+Purposeful BLACK silence beat.
 Then NARI:
 `HYUN-WOO?`
 
-V139:
+SMALL BLACK GUTTER.
+
+V139
 NARI:
 `ARE YOU DANGEROUS?`
-HYUN-WOO voice through speaker:
+HYUN-WOO voice:
 `I CAN'T PROMISE I'M NOT.`
 
-No physical Hyun-woo.
-Hyun-woo answer is speech-through-speaker, not device text/hologram.
+SMALL BLACK GUTTER.
+
+V140 — TABLE → DESK
+Nari stands from SAME untouched chair and physically walks to canonical work desk.
+
+SMALL BLACK GUTTER.
+
+V141 — NOTEBOOK PICKUP
+At desk, Nari picks up SAME A5 grocery notebook + ONE pen only. Sheathed knife/flashlight/radio stay tray.
+
+SMALL BLACK GUTTER.
+
+V142 — DESK → TABLE
+Nari physically returns to SAME untouched dining chair carrying only notebook + pen.
+No teleport.
 
 ==================================================
-NOTEBOOK PHYSICAL ROUTE — ABSOLUTE
+POWER / NO DEAD BOTTOM
 ==================================================
 
-V140–V142 must visibly show continuous movement:
-
-V140:
-- Nari stands from SAME occupied dining chair
-- leaves table
-- physically walks through normally lit apartment toward established work desk
-- open speaker cabinet remains behind
-
-V141:
-At SAME desk:
-- Nari picks up SAME A5 grocery notebook
-- picks up ONE pen
-- does NOT pick up sheathed knife/flashlight/radio
-- those remain in tray
-
-V142:
-- Nari physically walks desk → SAME dining table
-- carries ONLY notebook + pen
-- returns to SAME chair
-- no teleport
-
-==================================================
-POWER / LIGHTING LOCK
-==================================================
-
-Normal medium-bright neutral powered lighting throughout.
-No screen glow, blackout palette, second outage, candlelight, or speaker glow as room source.
-
-==================================================
-NO DEAD BOTTOM — ABSOLUTE
-==================================================
-
-Silence after missing-section question must be intentional through Nari waiting/reaction, not huge unused canvas.
-Use V140–V142 route and apartment geography to fill vertical flow.
-End with Nari physically back at table holding notebook + pen, ready to write.
-No giant blank tail.
-No filler narration/SFX.
+Normal powered lighting, no second outage/speaker glow.
+End with Nari back at table ready to write; no giant blank tail.
 
 SEAM OUT — G
-Strip 031 begins with Nari seated at SAME chair, SAME notebook/pen, and writing.
-
-TEXT LOCK — EXACT
-`THE MISSING SECTION WAS ABOUT THAT PANEL, WASN'T IT?`
-`HYUN-WOO?`
-`ARE YOU DANGEROUS?`
-`I CAN'T PROMISE I'M NOT.`
+Strip 031 starts same chair/notebook/pen.
 
 AUTOMATIC REJECT IF
 - Hyun-woo answers first question
-- binder moves/opens
-- notebook teleports to table
-- Nari skips visible table→desk→table route
-- Nari carries knife/flashlight/radio back
-- physical/reflected Hyun-woo appears
-- phone/key/cabinet states change
-- powered apartment rendered dark
-- filler SFX/text inserted into silence
-- giant purposeless bottom space appears
+- binder moves
+- notebook teleports
+- Nari uses pushed-back chair
+- she carries knife/tools back
+- black separators missing/oversized
 ```
 
 ## Production Thread Attachments
 1. Nari canonical
-2. APPROVED Strip 029
-3. this Strip 030 prompt
+2. Unit 2407 floor plan
+3. Unit 2407 desk-zone detail
+4. Unit 2407 living→kitchen wide
+5. Unit 2407 lighting-states canonical
+6. smart-speaker canonical states
+7. APPROVED Strip 029
+8. this Strip 030 prompt

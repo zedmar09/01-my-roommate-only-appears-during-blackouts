@@ -1,141 +1,100 @@
-# Strip 019 — Entry Interrogation / Pantry
+# Strip 019 — Entry Interrogation / One Step / Pantry
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME blackout dining-table interrogation from APPROVED Strip 018.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing SAME blackout interrogation from APPROVED Strip 018.
 
-THIS IS NOT A PAGE. Do not draw page numbers, circled panel numbers, strip IDs, beat IDs, headers, footers, or reader-visible technical labels.
-
-TECHNICAL SCOPE
-Internal beats V85–V89. Source authority: Comic Chapter 1 Page 12 first half.
+PRODUCTION SCOPE
+V85–V89. Historical P12 mapping only.
 
 ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.png`
-- `Character-References/hyunwoo-canonical-flat2d.png`
-- APPROVED Strip 018 as mandatory exact-position / scale / blackout continuity reference
+- Nari canonical
+- Hyun-woo canonical
+- Unit 2407 floor plan
+- Unit 2407 living→kitchen wide
+- Unit 2407 kitchen→living wide
+- Unit 2407 fridge/cabinet detail
+- Unit 2407 lighting-states canonical
+- APPROVED Strip 018
+- this Strip 019 prompt
 
 ==================================================
-STARTING DISTANCE / POSITION LOCK — ABSOLUTE
+BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Begin immediately after Hyun-woo gives his name.
-
-V85–V87:
-- Nari remains at the SAME guarded kitchen/dining entrance position inherited from Strip 018
-- Hyun-woo remains seated in SAME dining chair closest to kitchen/refrigerator side
-- neither character moves closer
-- Nari's practical knife remains low and controlled
-- dining table/open floor between them remains visibly readable as distance
-
-V88 is the ONLY distance-closing movement in this strip.
-Nari takes exactly ONE cautious physical step toward the dining table.
-Hyun-woo does not move.
-
-V89 and strip ending preserve Nari's NEW, CLOSER stopped position.
-Do NOT reset her backward to entrance.
+Small black gutter between every distinct interrogation/action slice. Side-by-side reaction/prop views use diagonal black divider. No oversized black band.
 
 ==================================================
-ENVIRONMENT / PROP LOCK — ABSOLUTE
+DISTANCE / ONE-STEP LOCK
 ==================================================
 
-Preserve SAME Unit 2407 open-plan geometry:
-- dining table center
-- kitchen counter/sink/cooktop separate behind/to side
-- refrigerator/pantry on kitchen side
+V85–V87: Nari remains at exact entrance position; Hyun-woo remains seated. No distance change.
+V88 is the ONLY distance-closing action: Nari takes exactly ONE cautious physical step toward table; her bare foot nudges the ONE empty spicy-seafood packet.
+V89 preserves the NEW closer stopped position. Do not reset her backward.
 
-Hyun-woo chair / table / noodle pot / trivet / folded cloth / candle + ceramic holder do NOT move.
-Pantry remains slightly ajar with exactly FIVE unopened other-flavor noodle packets.
-
-The EMPTY used spicy-seafood noodle packet lies naturally on floor along Nari's single-step route.
-It is one ordinary packet, not enlarged, duplicated, or placed in pantry as unopened stock.
-
-==================================================
-DIALOGUE / SFX OWNERSHIP — ABSOLUTE
-==================================================
-
-- `THAT'S YOUR NAME. HOW DID YOU GET IN HERE?` = Nari
-- `I DIDN'T COME THROUGH THE DOOR.` = Hyun-woo
-- `THEN HOW ARE YOU HERE?` = Nari
-- `I WAS HERE BEFORE YOU MOVED IN.` = Hyun-woo
-- `THAT'S IMPOSSIBLE. I RENT THIS PLACE ALONE.` = Nari
-- `CRINKLE` = Nari's bare foot nudging empty spicy-seafood packet
-- `AND YOU'VE BEEN USING MY PANTRY.` = Nari
-- `I WAS HUNGRY.` = Hyun-woo
-
-Every speech-balloon tail points only to exact speaker.
-`CRINKLE` stays floor/packet-aligned, never speaker/table.
+Pantry remains slightly ajar with exactly five unopened other-flavor packets. Pot/trivet/cloth/candle/chair fixed. Knife low.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
-V85 — NAME → ENTRY QUESTION
-Same starting distance.
+V85
 NARI:
 `THAT'S YOUR NAME. HOW DID YOU GET IN HERE?`
 
-V86 — DOOR DENIAL
-No movement.
+SMALL BLACK GUTTER.
+
+V86
 HYUN-WOO:
 `I DIDN'T COME THROUGH THE DOOR.`
 NARI:
 `THEN HOW ARE YOU HERE?`
 
-V87 — ALREADY HERE
-No movement.
+SMALL BLACK GUTTER.
+
+V87
 HYUN-WOO:
 `I WAS HERE BEFORE YOU MOVED IN.`
 NARI:
 `THAT'S IMPOSSIBLE. I RENT THIS PLACE ALONE.`
 
-V88 — EXACTLY ONE STEP
-Show the movement clearly: Nari shifts weight, moves one bare foot forward, and that foot nudges the empty spicy-seafood packet.
-SFX:
-`CRINKLE`
-Hyun-woo remains seated and does not react by closing distance.
+SMALL BLACK GUTTER.
 
-V89 — PANTRY ACCUSATION
-Nari remains at the NEW closer stopped position after the step.
+V88 — ONE STEP
+Show weight shift → one foot forward → packet nudged.
+SFX at packet:
+`CRINKLE`
+Hyun-woo does not move.
+
+SMALL BLACK GUTTER.
+
+V89
 NARI:
 `AND YOU'VE BEEN USING MY PANTRY.`
 HYUN-WOO:
 `I WAS HUNGRY.`
 
 ==================================================
-LIGHTING / CHARACTER LOCK
+NO DEAD BOTTOM / SEAM
 ==================================================
 
-Unit 2407 remains without ordinary supplied power.
-Candle remains small matte amber local source; no cinematic glow.
-Nari/Hyun-woo canonical faces, hair, clothing, mask/tattoos remain stable.
-No physical contact.
-
-==================================================
-NO DEAD BOTTOM — ABSOLUTE
-==================================================
-
-End with Nari's new closer geometry, the packet at her foot, Hyun-woo still seated, and pantry/table evidence clearly readable.
-Do not leave a giant empty black/white tail after dialogue.
-Do not invent filler text/SFX.
-
-SEAM OUT — A/G
-Strip 020 starts from EXACT new closer Nari position, SAME seated Hyun-woo, SAME prop geometry.
+End on new closer geometry + packet + pantry/table evidence. Strip 020 starts from this exact state.
 
 AUTOMATIC REJECT IF
-- Nari moves before V88
-- Nari takes more than one step
-- Nari resets backward after V88
+- Nari moves before V88 or takes >1 step
 - Hyun-woo moves/stands
-- characters touch or appear intimate
-- packet is missing/duplicated/oversized
-- pantry has wrong unopened noodle count
-- table/pot/candle/chair move
-- knife is raised aggressively
-- dialogue/SFX assigned incorrectly
-- giant purposeless bottom space appears
+- packet duplicates
+- pantry count changes
+- black dividers missing/oversized
+- giant dead bottom appears
 ```
 
 ## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.png`
-2. `Character-References/hyunwoo-canonical-flat2d.png`
-3. APPROVED Strip 018
-4. this current Strip 019 prompt
+1. Nari canonical
+2. Hyun-woo canonical
+3. Unit 2407 floor plan
+4. Unit 2407 living→kitchen wide
+5. Unit 2407 kitchen→living wide
+6. Unit 2407 fridge/cabinet detail
+7. Unit 2407 lighting-states canonical
+8. APPROVED Strip 018
+9. this Strip 019 prompt

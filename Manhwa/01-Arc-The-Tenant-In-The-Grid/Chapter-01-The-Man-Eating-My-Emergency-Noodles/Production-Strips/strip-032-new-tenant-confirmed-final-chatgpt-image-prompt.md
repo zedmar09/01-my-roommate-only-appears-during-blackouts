@@ -1,129 +1,87 @@
 # Strip 032 — NEW TENANT CONFIRMED — Final Reveal
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP completing the SAME continuous Manhwa Chapter 1 from APPROVED Strip 031.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP completing SAME continuous Chapter 1 from APPROVED Strip 031.
 
-THIS IS NOT A PAGE. No reader-visible production numbering, headers, footers, credits, or next-chapter cards.
-
-TECHNICAL SCOPE
-Internal beat V146 only. Source authority: Comic Chapter 1 Page 18 final event.
-This is one dominant vertical final reveal sequence, NOT a small panel floating above unused canvas.
+PRODUCTION SCOPE
+V146 only. Historical P18 mapping only. This is a dominant final reveal, not a small panel above unused canvas.
 
 ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.png`
+- Nari canonical
+- Unit 2407 floor plan
+- Unit 2407 living→kitchen wide
+- Unit 2407 kitchen→living wide
+- Unit 2407 lighting-states canonical
+- TV canonical states
 - APPROVED Strip 031
+- this Strip 032 prompt
 
 Do NOT attach Hyun-woo.
 
 ==================================================
-SEAM IN / EXACT CONTINUATION — ABSOLUTE
+SEAM IN — ABSOLUTE
 ==================================================
 
-Continue SAME TV activation a fraction later.
-Do NOT reset camera/room.
-
-Locked continuity:
-- SAME matte TV LEFT living-room position
-- TV still visibly physically UNPLUGGED
-- SAME hostile pixel field from Strip 031
-- Nari still seated at SAME dining-table chair
-- SAME A5 notebook + pen physically at table
-- open speaker cabinet remains open
-- all other props unchanged
-- Unit 2407 remains normally powered
-
-No physical/reflected/silhouetted Hyun-woo.
+No black technical bar at 031→032. Continue same TV activation fraction later:
+- SAME TV body/position
+- still visibly unplugged
+- same hostile pixel field
+- Nari still seated in SAME untouched dining chair
+- same notebook/pen table
+- all props unchanged
+- Unit 2407 normally powered
 
 ==================================================
-HOSTILE FINAL MESSAGE — ABSOLUTE
+BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-TV displays ONLY:
+This strip may use several descending sub-slices of one final composition. Put SMALL BLACK GUTTERS only where a distinct camera slice/reaction beat changes. If TV close-up and Nari reaction share one row, use diagonal black divider. Do not chop the final reveal into a grid and do not create a giant black tail.
+
+==================================================
+FINAL MESSAGE / POWER RULE
+==================================================
+
+TV DEVICE TEXT ONLY:
 `NEW TENANT CONFIRMED`
+Hostile TV language: full-screen broadcast takeover, stark broken white, doubled edges, restrained black-pixel interference. Not speech/narration/hologram/helpful cyan.
 
-This is hostile DEVICE TEXT on TV screen.
-It is NOT:
-- speech bubble
-- narration caption
-- floating hologram
-- clean cyan helpful text
-
-Visual signature:
-- stark broken white letters
-- slightly doubled glyph edges
-- restrained crawling black pixels
-- contained on matte nonreflective screen
-
-No face/silhouette/reflection/camera feed/third figure.
-
-==================================================
-LIGHT FLICKER / POWER RULE — ABSOLUTE
-==================================================
-
-During final reveal, apartment lights flicker ONCE.
-SFX source = apartment electrical light flicker:
+Apartment lights flicker ONCE while staying powered.
+SFX at apartment light:
 `FZZT`
-
-This is NOT a blackout.
-Unit 2407 stays powered before, during, and after flicker.
-Do NOT darken final scene into blackout.
-Do NOT make Hyun-woo physical.
-
-If `KZZT` TV activation was already fully rendered in Strip 031, DO NOT repeat `KZZT` here.
+This is NOT a blackout. Hyun-woo does not appear.
+Do not repeat `KZZT` if fully rendered in Strip 031.
 
 ==================================================
-NARI POSITION / REACTION LOCK — ABSOLUTE
+NARI / FULL-CANVAS FINAL
 ==================================================
 
-Nari remains at SAME dining-table position.
-She turns/reacts toward TV from there.
-She does NOT stand beside TV or cross room.
-Notebook/pen remain on table and readable as physical objects.
-Her reaction is controlled alarm/recognition, not broad comedy.
+Nari remains at table, reacts toward TV from there. She does not cross room.
+Use full canvas meaningfully:
+- upper same-TV continuation
+- central `NEW TENANT CONFIRMED`
+- one `FZZT` light flicker
+- lower Nari reaction + notebook/table + powered Unit 2407 geography
+Only minimal natural final margin.
 
-==================================================
-FULL-CANVAS FINAL COMPOSITION
-==================================================
-
-Use the technical canvas meaningfully as one descending final composition:
-- upper continuation: SAME unplugged TV / hostile corruption from Strip 031
-- central payoff: `NEW TENANT CONFIRMED`
-- electrical `FZZT` integrated with the one brief light flicker
-- lower composition: Nari reaction from SAME table, notebook/pen, surrounding powered Unit 2407 geography
-
-Do not create separate page ending card.
-
-==================================================
-NO DEAD BOTTOM — ABSOLUTE
-==================================================
-
-This is especially strict for Strip 032.
-Do NOT put final message near top/middle and leave giant white/black/neutral tail.
-Use lower canvas for Nari reaction, table/notebook, TV sightline, hostile effect field, and powered apartment environment.
-Only minimal natural final margin is allowed.
-Do NOT invent epilogue text, narration, extra SFX, `TO BE CONTINUED`, credits, or promotional copy.
-
-END CHAPTER IMMEDIATELY on hostile message + Nari reaction.
-
-TEXT LOCK — EXACT
-`NEW TENANT CONFIRMED`
-`FZZT`
+No epilogue text, narration, extra SFX, `TO BE CONTINUED`, credits, or next-chapter card.
 
 AUTOMATIC REJECT IF
-- TV is plugged in
-- TV moves/redesigns
-- final text is a speech bubble/caption
-- hostile text uses clean cyan
-- reflected person/Hyun-woo appears
-- Nari teleports beside TV
+- TV plugged/moved/redesigned
+- text becomes speech/caption
+- clean cyan used
+- reflected person appears
+- Nari teleports
 - apartment loses power
-- Hyun-woo becomes physical
-- `KZZT` unnecessarily duplicates Strip 031
+- black slice divider becomes giant dead band
 - extra chapter-ending copy appears
-- giant purposeless bottom space appears
 ```
 
 ## Production Thread Attachments
 1. Nari canonical
-2. APPROVED Strip 031
-3. this Strip 032 prompt
+2. Unit 2407 floor plan
+3. Unit 2407 living→kitchen wide
+4. Unit 2407 kitchen→living wide
+5. Unit 2407 lighting-states canonical
+6. TV canonical states
+7. APPROVED Strip 031
+8. this Strip 032 prompt

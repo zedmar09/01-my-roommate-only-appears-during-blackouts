@@ -1,50 +1,129 @@
 # Strip 002 — Later That Evening / Mrs. Na Arrives
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME Manhwa Chapter 1 scroll.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME Chapter 1 scroll from APPROVED Strip 001.
 
-THIS IS NOT A PAGE. Never print strip IDs, beat IDs, page numbers, or circled panel numbers.
+THIS IS NOT A PAGE. Never render production numbering or technical labels.
 
-TECHNICAL SCOPE
-V08–V11. Never print beat/strip IDs.
-Source: beginning of Comic Page 2.
+PRODUCTION SCOPE
+V08–V11. Historical P2 mapping only; active authority is the Chapter 1 Manhwa plan + this prompt.
 
-ATTACH
-- Nari canonical PNG
-- Mrs. Na canonical PNG
-- APPROVED Strip 001 as mandatory visual/style continuity reference
+ATTACH — REQUIRED
+- `Character-References/nari-canonical-flat2d.png`
+- `Character-References/mrs-na-canonical-flat2d.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-canonical.png`
+- APPROVED Strip 001
+- this Strip 002 prompt
 
-SEAM IN — CONTROLLED GUTTER / TIME TRANSITION
-Strip 001 already completed all of Comic Page 1 and ended after Nari said `GREAT. IT TALKS.`
-Continue from that established Unit 2407 visual reality, then transition naturally to later that evening.
-Do NOT repeat the speaker welcome/reaction.
-Do NOT add a giant blank top area. The `LATER THAT EVENING...` caption and changed body language/moving-box state provide the time passage.
+If an environment canonical is not approved yet, do not replace it with a random apartment image.
 
-V08 — Inside Unit 2407 later that evening among moving boxes; closed entrance door seen from the apartment interior. Mrs. Na is outside and rings the doorbell.
-LARGE CAPTION: LATER THAT EVENING...
-SFX from outside: DING-DONG
+==================================================
+EXACT TIME / PROP STATE — ABSOLUTE
+==================================================
 
-V09 — Nari opens from inside, revealing Mrs. Na in corridor with handbag, binder, and key ring.
-MRS. NA: I BROUGHT THE APARTMENT GUIDE.
+This is later the SAME day. Nari is still moving in; boxes remain believable and not magically cleaned up.
+The canonical speaker remains in its established kitchen-counter location and does not become a story focus here.
 
-V10 — Nari steps aside; Mrs. Na physically crosses the threshold and they move naturally toward the kitchen. No text.
+Mrs. Na begins OUTSIDE the closed front door with:
+- one handbag
+- the electrical-operation binder
+- one key ring containing the brass backup key
+No duplicated binder/key/handbag.
 
-V11 — At the kitchen counter, Mrs. Na lays down the binder and detaches the brass backup key.
-SFX: THUMP
-SFX: CLINK
-BINDER PRINTED TEXT: UNIT 2407 / ELECTRICAL OPERATION GUIDE
-NARI: THIS PLACE NEEDS A MANUAL?
-MRS. NA: IT DOES.
+==================================================
+BLACK READ-SLICE DIVIDER — ABSOLUTE
+==================================================
 
-NO DEAD BOTTOM WHITESPACE
-Do not finish V11 and leave a large unused white tail. Let the kitchen-counter composition, characters, binder/key, and light-neutral reader atmosphere occupy the lower portion naturally. Use only a small controlled seam buffer.
+Place a SMALL BLACK GUTTER between every distinct vertical story slice. It must be narrow and intentional, never a huge dead gap.
+When two separate shots share one row, use a DIAGONAL / SLANTED BLACK DIVIDER so they read as two different camera slices. Nothing important may cross the slash.
+Do not add a black bar at an invisible technical A/E seam intended for continuous artwork.
 
-SEAM OUT — GUTTER / SAME CONVERSATION
-Strip 003 begins immediately at the same counter with Nari asking what she actually needs to know. Preserve positions, binder/key state, hallway-light geography, wardrobe, and lighting.
+==================================================
+MOVEMENT / GEOGRAPHY LOCK
+==================================================
 
-TEXT LOCK
-Use only the exact text/SFX listed above.
+V08: Nari is inside; Mrs. Na rings from corridor.
+V09: Nari physically opens the same front door.
+V10: Nari steps aside and Mrs. Na crosses the threshold ONCE, then both walk through canonical entry→open-plan route toward kitchen.
+V11: they arrive at the SAME kitchen counter before binder/key placement.
 
-AVOID
-No repeated `WELCOME HOME`, no page header, no huge blank top/bottom padding, no supernatural effect, no physical Hyun-woo, no doorway geography reversal, no extra greeting dialogue.
+No teleport from doorway to counter.
+No second entrance crossing.
+
+==================================================
+VERTICAL STORY FLOW
+==================================================
+
+V08 — TIME + DOORBELL
+NARRATION:
+`LATER THAT EVENING...`
+SFX outside closed door:
+`DING-DONG`
+
+SMALL BLACK GUTTER.
+
+V09 — DOOR OPEN
+Mrs. Na stands in corridor with handbag, binder, key ring.
+MRS. NA:
+`I BROUGHT THE APARTMENT GUIDE.`
+
+SMALL BLACK GUTTER.
+
+V10 — THRESHOLD / WALK
+Nari steps aside; Mrs. Na enters. Show physical entry→kitchen route. No dialogue.
+If doorway and walking continuation share a row, use a diagonal black divider.
+
+SMALL BLACK GUTTER.
+
+V11 — BINDER / KEY AT COUNTER
+Mrs. Na sets the SAME binder flat on the counter.
+SFX at binder:
+`THUMP`
+She detaches the brass backup key from her key ring and places it separately on the counter beside the binder.
+SFX at brass key:
+`CLINK`
+Printed binder title:
+`UNIT 2407 / ELECTRICAL OPERATION GUIDE`
+NARI:
+`THIS PLACE NEEDS A MANUAL?`
+MRS. NA:
+`IT DOES.`
+
+==================================================
+DIALOGUE / PROP OWNERSHIP LOCK
+==================================================
+
+Binder and brass key are distinct objects. Mrs. Na does not hand Nari a second key. Binder remains on counter after placement.
+Speech tails must point to exact speakers.
+
+==================================================
+NO DEAD BOTTOM — ABSOLUTE
+==================================================
+
+End on the same kitchen-counter conversation with binder/key readable and canonical hallway/open-plan depth behind them. No giant white tail.
+
+SEAM OUT — G / SAME CONVERSATION
+Strip 003 begins immediately at the same counter. Preserve body positions, binder/key positions, wardrobe, lighting, hallway lamp geography, and apartment axis.
+
+AUTOMATIC REJECT IF
+- Mrs. Na teleports to kitchen
+- duplicated binder/key/handbag appears
+- brass key is already in entry tray in this strip
+- canonical Unit 2407 is mirrored
+- wrong dialogue ownership
+- separate slices have no black gutter / side-by-side shots lack slanted black divider
+- giant purposeless bottom space appears
 ```
+
+## Production Thread Attachments
+1. Nari canonical
+2. Mrs. Na canonical
+3. Unit 2407 floor plan
+4. Unit 2407 entry/living wide
+5. Unit 2407 living→kitchen wide
+6. Unit 2407 hallway canonical
+7. APPROVED Strip 001
+8. this Strip 002 prompt

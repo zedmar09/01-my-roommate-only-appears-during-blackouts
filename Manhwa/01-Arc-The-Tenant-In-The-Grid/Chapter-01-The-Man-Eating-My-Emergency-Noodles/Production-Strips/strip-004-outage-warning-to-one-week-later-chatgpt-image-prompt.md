@@ -1,46 +1,121 @@
 # Strip 004 — Screen Warning / One Week Later
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME chapter.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Chapter 1.
 
-TECHNICAL SCOPE
-V16–V20. Source Comic P2→P3.
+PRODUCTION SCOPE
+V16–V20. Historical P2→P3 mapping only.
 
-ATTACH
-Nari canonical + Mrs. Na canonical + APPROVED Strip 003.
+ATTACH — REQUIRED
+- Nari canonical
+- Mrs. Na canonical
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-canonical.png`
+- APPROVED Strip 003
+- this Strip 004 prompt
 
-SEAM IN — A/G
-Start in the exact same kitchen conversation and visual axis from Strip 003. Do not re-establish the scene as a new page.
+==================================================
+BLACK READ-SLICE DIVIDER — ABSOLUTE
+==================================================
 
-V16 — Nari asks the whole-building case.
-NARI: WHAT IF THE WHOLE BUILDING LOSES POWER?
+Every distinct vertical story slice gets a SMALL BLACK GUTTER. Side-by-side separate camera slices get a DIAGONAL / SLANTED BLACK DIVIDER. Black separators must clarify beat changes without becoming large dead spaces.
+The later time jump to `ONE WEEK LATER` may use a slightly stronger black transition band, but still compact and purposeful.
 
-Use meaningful vertical hesitation. Mrs. Na may glance/check analog watch as in source.
+==================================================
+V16–V18 SAME CONVERSATION / PHYSICAL ROUTE
+==================================================
 
-V17 — Land the warning after the pause.
-MRS. NA: THEN DON'T TURN ON A SCREEN.
-MRS. NA: WAIT FOR THE POWER TO COME BACK, THEN CALL ME.
+Start from exact Strip 003 counter positions. Binder + brass key remain on counter.
 
-V18 — Doorway departure, physical route readable. Brass key later returns to entry tray; binder remains counter.
-NARI: YOU'RE NOT GOING TO TELL ME WHY.
-MRS. NA: NOT TONIGHT.
-MRS. NA: GOOD NIGHT, MS. YOON.
-NARI: THAT'S NOT VERY COMFORTING.
-SFX when key is placed in tray: CLINK
+V16
+NARI:
+`WHAT IF THE WHOLE BUILDING LOSES POWER?`
+Mrs. Na does not answer immediately. She may glance at her analog watch; this is a brief natural hesitation, not supernatural effect.
 
-Use a clear but continuous time-transition gutter.
+SMALL BLACK GUTTER / SUSPENSE.
 
-V19 — Morning one week later; automated curtains.
-LARGE CAPTION: ONE WEEK LATER
-SFX: WHIRR
-CAPTION: THE CURTAINS OPENED THEMSELVES EVERY MORNING.
+V17
+MRS. NA:
+`THEN DON'T TURN ON A SCREEN.`
+MRS. NA:
+`WAIT FOR THE POWER TO COME BACK, THEN CALL ME.`
 
-V20 — Thermostat exactly 19°C, blanket-wrapped Nari glaring.
-CAPTION: THE THERMOSTAT KEPT RESETTING TO 19°C.
+SMALL BLACK GUTTER.
 
-SEAM OUT — GUTTER
-Keep the automation montage open so Strip 005 can continue with the robot vacuum without a page header.
+V18 — COUNTER → ENTRY / DEPARTURE
+Show both women physically walking from kitchen counter through canonical route toward front door.
+Binder remains on kitchen counter.
+Nari takes the SAME brass backup key from the counter on the way to entry and places it into the established entry tray exactly once.
+SFX at tray:
+`CLINK`
+At doorway:
+NARI:
+`YOU'RE NOT GOING TO TELL ME WHY.`
+MRS. NA:
+`NOT TONIGHT.`
+MRS. NA:
+`GOOD NIGHT, MS. YOON.`
+NARI:
+`THAT'S NOT VERY COMFORTING.`
+Mrs. Na exits; Nari remains inside. No re-entry.
 
-AVOID
-No hostile effect, no Hyun-woo body/voice yet, no extra captions, no traditional page division.
+==================================================
+TIME CUT — ONE WEEK LATER
+==================================================
+
+Use a compact purposeful black time-transition separator. Do not imply the same conversation continues.
+
+V19 — MORNING AUTOMATION
+NARRATION:
+`ONE WEEK LATER`
+SFX at curtains:
+`WHIRR`
+NARRATION:
+`THE CURTAINS OPENED THEMSELVES EVERY MORNING.`
+Unit 2407 canonical geometry unchanged.
+
+SMALL BLACK GUTTER.
+
+V20 — THERMOSTAT
+Thermostat exactly 19°C. Nari is blanket-wrapped and annoyed.
+NARRATION:
+`THE THERMOSTAT KEPT RESETTING TO 19°C.`
+If curtain/thermostat moments share a horizontal row, use diagonal black divider.
+
+==================================================
+REAL-SCENARIO PROP STATE AT END
+==================================================
+
+- binder = kitchen counter
+- brass backup key = entry tray
+- speaker = canonical kitchen counter, still ordinary and plugged in
+- front door = closed after Mrs. Na leaves
+- no supernatural manifestation yet
+
+NO DEAD BOTTOM — ABSOLUTE
+Use the automation composition through the lower canvas; no giant white tail.
+
+SEAM OUT — G
+Strip 005 continues the one-week automation montage, then later that night.
+
+AUTOMATIC REJECT IF
+- key teleports to tray without visible route
+- Mrs. Na carries binder away
+- Mrs. Na remains inside after V18
+- apartment geometry changes after time cut
+- supernatural screen effect appears early
+- black beat separators are missing / oversized
+- giant dead bottom appears
 ```
+
+## Production Thread Attachments
+1. Nari canonical
+2. Mrs. Na canonical
+3. Unit 2407 floor plan
+4. Unit 2407 entry/living wide
+5. Unit 2407 living→kitchen wide
+6. Unit 2407 hallway canonical
+7. APPROVED Strip 003
+8. this Strip 004 prompt

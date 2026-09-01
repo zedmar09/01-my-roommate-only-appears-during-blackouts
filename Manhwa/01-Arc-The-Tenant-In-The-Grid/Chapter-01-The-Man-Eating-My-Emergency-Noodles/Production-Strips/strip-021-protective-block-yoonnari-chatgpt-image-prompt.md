@@ -1,135 +1,98 @@
-# Strip 021 — Protective Block / YOON NARI
+# Strip 021 — Protective Crossing / YOON NARI
 
 ```text
 Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Hyun-woo's SAME physical movement from APPROVED Strip 020.
 
-THIS IS NOT A PAGE. No reader-visible production numbering or labels.
-
-TECHNICAL SCOPE
-Internal beats V94–V97. Source authority: Comic Chapter 1 Page 13 continuation.
+PRODUCTION SCOPE
+V94–V97. Historical P13 mapping only.
 
 ATTACH — REQUIRED
-- Nari canonical PNG
-- Hyun-woo canonical PNG
+- Nari canonical
+- Hyun-woo canonical
+- Unit 2407 floor plan
+- Unit 2407 living→kitchen wide
+- Unit 2407 kitchen→living wide
+- Unit 2407 fridge/cabinet detail
+- Unit 2407 lighting-states canonical
+- `Manhwa/Object-References/refrigerator-canonical-states.png`
 - APPROVED Strip 020
+- this Strip 021 prompt
+
+==================================================
+BLACK READ-SLICE DIVIDER — ABSOLUTE
+==================================================
+
+Use a SMALL BLACK GUTTER between distinct movement/dialogue/hostile slices. If the walking route and fridge close-up share a row, separate with a DIAGONAL BLACK DIVIDER. No black bar at external 020→021 or 021→022 A/E seam when artwork/effect is intended to continue.
 
 ==================================================
 MOVEMENT CONTINUITY — ABSOLUTE
 ==================================================
 
-At strip start:
-- Hyun-woo has JUST risen from SAME pushed-back chair
-- chair remains behind him pushed back/angled
-- he is NOT yet between Nari and refrigerator
-- Nari remains at SAME closer position from Strip 019/020
-- Nari does not move in Strip 021
-
-V94 must visibly continue Hyun-woo's route:
-1. starts beside pushed-back chair
-2. takes readable walking steps around/past dining table
-3. does not pass through table/furniture
-4. stops BETWEEN Nari and refrigerator
-5. creates protective visual barrier WITHOUT touching Nari
-
-The route must be short/plausible from established geometry.
-No teleport cut to final position.
-
-==================================================
-PROP / ENVIRONMENT LOCK — ABSOLUTE
-==================================================
-
-During Hyun-woo's movement ONLY he changes location.
-These remain fixed:
-- pushed-back chair
-- table
-- pot/trivet/folded cloth
-- candle + holder
-- empty spicy packet
-- pantry / five packets
-- refrigerator body/display location
-- sink/cooktop
-
-Refrigerator is matte cool gray with SAME narrow nonreflective display.
-No reflected person, camera image, silhouette, or third figure in display.
-
-==================================================
-DIALOGUE / SFX / DEVICE OWNERSHIP — ABSOLUTE
-==================================================
-
-- `NARI. LOOK AT ME.` = Hyun-woo spoken firmly to Nari
-- `THE FRIDGE IS OFF.` = Nari
-- `THAT DOESN'T STOP IT.` = Hyun-woo
-- `DON'T LOOK AT THE SCREEN.` = Hyun-woo
-- `TIK... TIK...` = hostile dead refrigerator display typing
-- `YOON NARI` = hostile DEVICE TEXT on refrigerator display only
-
-`YOON NARI` is NOT dialogue, caption, floating hologram, or reflection.
-Use broken stark-white letters / doubled edges / crawling black pixels contained at display.
+At strip start Hyun-woo stands immediately beside the SAME pushed-back chair. Nari remains fixed at closer position.
+V94 must visibly show Hyun-woo walking around/past the dining table, respecting canonical geometry, then stopping BETWEEN Nari and refrigerator without touching her.
+Only Hyun-woo changes location. Chair/table/pot/candle/pantry/refrigerator stay fixed.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
-V94 — COMPLETE PROTECTIVE CROSSING
-Use enough vertical art to show the route around/past table and final stop between Nari and fridge.
-No dialogue required during transit.
+V94 — COMPLETE CROSSING
+Show readable path from chair → around table → protective blocking position. No dialogue required.
 
-V95 — PROTECTIVE COMMAND
-From final blocking position:
+SMALL BLACK GUTTER.
+
+V95
 HYUN-WOO:
 `NARI. LOOK AT ME.`
 
-V96 — NARI LOOKS PAST SHOULDER
-Nari stays physically behind him; instinctively looks toward fridge without moving beside it.
+SMALL BLACK GUTTER.
+
+V96 — NARI LOOKS PAST HIM
 NARI:
 `THE FRIDGE IS OFF.`
 HYUN-WOO:
 `THAT DOESN'T STOP IT.`
 HYUN-WOO:
 `DON'T LOOK AT THE SCREEN.`
+Nari stays behind him; no move beside refrigerator.
 
-V97 — HOSTILE NAME REVEAL
-Dominant view of SAME narrow refrigerator display while spatial composition still makes Hyun-woo's barrier readable.
+SMALL BLACK GUTTER.
+
+V97 — HOSTILE NAME
+Same narrow refrigerator display, embedded diagnostic effect.
 SFX:
 `TIK... TIK...`
-FRIDGE DEVICE TEXT:
+REFRIGERATOR DEVICE TEXT:
 `YOON NARI`
+Broken/doubled white + restrained black pixel seam crawl. No reflection/figure.
 
 ==================================================
-POWER / LIGHTING LOCK
+POWER / NO DEAD BOTTOM
 ==================================================
 
-Unit 2407 remains without ordinary power.
-Candle remains small local light.
-Refrigerator display activity does NOT restore power.
-Hyun-woo stays physical.
-No clean cyan hostile styling.
+Unit power absent. Candle small local light. Refrigerator activity does not restore power.
+Use V97 + protective geometry through lower canvas; no giant blank tail.
 
-==================================================
-NO DEAD BOTTOM — ABSOLUTE
-==================================================
-
-V97 must occupy lower strip as a strong hostile-screen + protective-block composition.
-Do not place `YOON NARI` high then leave huge empty dark tail.
-No invented filler text/SFX.
-
-SEAM OUT — EFFECT CONTINUATION E
-Strip 022 begins from SAME blocking positions with refrigerator already showing `YOON NARI`.
+SEAM OUT — E
+Strip 022 starts from same blocking positions, fridge already showing `YOON NARI`.
 
 AUTOMATIC REJECT IF
-- Hyun-woo teleports to blocking position
-- Nari moves beside fridge
-- Hyun-woo touches Nari
-- chair/table/pot/candle move
-- fridge screen reflects a person
-- `YOON NARI` rendered as speech bubble
-- hostile styling is clean cyan
-- dialogue tails misassigned
-- giant purposeless bottom space appears
+- Hyun-woo teleports
+- Nari moves/touches him
+- refrigerator uses TV-style full-screen takeover
+- `YOON NARI` becomes dialogue
+- props move/reset
+- internal black separators missing/oversized
 ```
 
 ## Production Thread Attachments
 1. Nari canonical
 2. Hyun-woo canonical
-3. APPROVED Strip 020
-4. this Strip 021 prompt
+3. Unit 2407 floor plan
+4. Unit 2407 living→kitchen wide
+5. Unit 2407 kitchen→living wide
+6. Unit 2407 fridge/cabinet detail
+7. Unit 2407 lighting-states canonical
+8. refrigerator canonical states
+9. APPROVED Strip 020
+10. this Strip 021 prompt
