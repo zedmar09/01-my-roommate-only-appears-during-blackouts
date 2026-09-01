@@ -13,6 +13,8 @@ ATTACH — REQUIRED
 - `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-canonical.png`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-canonical.png`
+- `Manhwa/Object-References/electrical-operation-guide-canonical.png`
+- `Manhwa/Object-References/brass-backup-key-canonical.png`
 - APPROVED Strip 003
 - this Strip 004 prompt
 
@@ -27,7 +29,7 @@ The later time jump to `ONE WEEK LATER` may use a slightly stronger black transi
 V16–V18 SAME CONVERSATION / PHYSICAL ROUTE
 ==================================================
 
-Start from exact Strip 003 counter positions. Binder + brass key remain on counter.
+Start from exact Strip 003 counter positions. The SAME canonical electrical-operation guide + SAME canonical brass backup key remain on counter.
 
 V16
 NARI:
@@ -46,8 +48,8 @@ SMALL BLACK GUTTER.
 
 V18 — COUNTER → ENTRY / DEPARTURE
 Show both women physically walking from kitchen counter through canonical route toward front door.
-Binder remains on kitchen counter.
-Nari takes the SAME brass backup key from the counter on the way to entry and places it into the established entry tray exactly once.
+The canonical electrical-operation guide remains on kitchen counter.
+Nari takes the SAME canonical brass backup key from the counter on the way to entry and places it into the established entry tray exactly once.
 SFX at tray:
 `CLINK`
 At doorway:
@@ -60,6 +62,12 @@ MRS. NA:
 NARI:
 `THAT'S NOT VERY COMFORTING.`
 Mrs. Na exits; Nari remains inside. No re-entry.
+
+KEY ROUTE — ABSOLUTE:
+- same one brass key from Strip 002/003
+- counter → Nari's hand → entry tray
+- no duplicate key remains on counter
+- no new smart fob/keycard appears
 
 ==================================================
 TIME CUT — ONE WEEK LATER
@@ -88,8 +96,8 @@ If curtain/thermostat moments share a horizontal row, use diagonal black divider
 REAL-SCENARIO PROP STATE AT END
 ==================================================
 
-- binder = kitchen counter
-- brass backup key = entry tray
+- electrical-operation guide = kitchen counter, same canonical body/title
+- brass backup key = entry tray, same canonical key
 - speaker = canonical kitchen counter, still ordinary and plugged in
 - front door = closed after Mrs. Na leaves
 - no supernatural manifestation yet
@@ -102,7 +110,9 @@ Strip 005 continues the one-week automation montage, then later that night.
 
 AUTOMATIC REJECT IF
 - key teleports to tray without visible route
+- duplicate key remains at counter after Nari moves it
 - Mrs. Na carries binder away
+- manual/key appearance drifts from canonical
 - Mrs. Na remains inside after V18
 - apartment geometry changes after time cut
 - supernatural screen effect appears early
@@ -117,5 +127,7 @@ AUTOMATIC REJECT IF
 4. Unit 2407 entry/living wide
 5. Unit 2407 living→kitchen wide
 6. Unit 2407 hallway canonical
-7. APPROVED Strip 003
-8. this Strip 004 prompt
+7. Unit 2407 electrical-operation-guide canonical
+8. Unit 2407 brass-backup-key canonical
+9. APPROVED Strip 003
+10. this Strip 004 prompt
