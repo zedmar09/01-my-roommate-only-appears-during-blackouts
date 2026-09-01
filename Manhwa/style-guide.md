@@ -1,18 +1,45 @@
 # Manhwa Style Guide
 
-## Core Target
+## Core Target — ABSOLUTE
 
-Polished full-color 2D Korean-webtoon/manhwa presentation with original series identity.
+**STRICT FLAT 2D HUMAN-DRAWN KOREAN MANHWA/WEBTOON ILLUSTRATION.**
 
-This pipeline may be richer and more atmospheric than the existing flat comic-page version, but it must remain clearly illustrated and must preserve approved canonical designs.
+Every generated or edited story image must read unmistakably as a flat 2D illustration made with intentional human-drawn linework. This is a hard production gate, not a mood suggestion.
+
+Required:
+- clean intentional line art
+- stable line weight and readable silhouettes
+- flat colors
+- restrained simple hard-edged cel shading only when needed
+- matte skin, hair, fabrics, walls, floors, furniture, appliances, screens, glass, and props
+- believable adult proportions according to canon
+- natural hands and consistent anatomy
+- stable project palette
+- mobile-first readability
+
+Do **not** make the pipeline richer, more cinematic, more painterly, or more realistic than the approved flat 2D canon.
+
+Reject or repair:
+- photorealism or semi-photorealism
+- 3D, CGI, or game-render appearance
+- plastic/glossy/wet-looking skin, hair, clothing, furniture, floors, counters, windows, TV, refrigerator, or appliances
+- beauty-ad shine or excessive specular highlights
+- soft airbrush rendering or heavy gradients that erase flat shape design
+- painterly realism that weakens line definition
+- cinematic color grading
+- cinematic depth-of-field blur
+- bloom, lens flare, excessive rim light, or gratuitous reflections
+- dramatic film lighting not required by the script
+- hyper-detailed pores/skin texture or over-rendered eyes/lips/hair
+- AI-polished glossy finish
 
 ## Characters
 
-Canonical PNGs are absolute identity authority.
+Canonical PNGs are absolute identity authority once approved.
 
-Require adult proportions, clean confident linework, expressive faces/hands, controlled 2–3 value cel/soft-cel shading, matte skin/hair, readable fabric folds, and stable height/build relationships.
+Require adult proportions, clean confident linework, expressive faces/hands, flat matte colors, restrained simple cel shading, readable fabric folds, and stable height/build relationships.
 
-Reject photoreal faces, 3D/CG rendering, plastic/glossy skin/hair, beauty-ad shine, or heavy airbrush painting that loses line definition.
+Reject beautification drift, age drift, glamour-model drift, photoreal faces, 3D/CG rendering, plastic/glossy skin or hair, beauty-ad shine, or airbrushed rendering that loses line definition.
 
 ## Environment Canonical Authority — Absolute
 
@@ -29,7 +56,7 @@ They control:
 
 A strip may simplify background detail for close-ups, but it may not invent a different room layout. If a previous strip drifts from the approved environment canonical, regenerate/correct the drift rather than promoting it.
 
-For every new chapter and new environment, follow `Environment-References/chapter-environment-reference-policy.md`.
+For every new chapter and new environment, follow the repository environment-reference policy.
 
 ## Unit 2407 Known Locks
 
@@ -51,12 +78,14 @@ Establishing panels may be detailed. Dialogue close-ups may simplify backgrounds
 
 Recurring plot-critical objects use canonical object sheets. Preserve body proportions, cords/handles/displays, materials, and state vocabulary.
 
-Chapter 1 core objects:
+Chapter 1 core objects include:
 - smart speaker
 - TV
 - refrigerator
+- Unit 2407 electrical-operation guide
+- Unit 2407 brass backup key
 
-The speaker, TV, and refrigerator must remain recognizable as the same exact objects across all strips.
+The same physical object must remain recognizable across every appearance. Do not promote a generated redesign into canon.
 
 ## Supernatural Device Language
 
@@ -80,23 +109,27 @@ Refrigerator hostility behaves like an **embedded diagnostic/identity-lock intru
 
 Both belong to the same hostile family but must remain visually distinguishable.
 
-## Materials
+## Materials — MATTE ONLY UNLESS CANON REQUIRES OTHERWISE
 
-Prefer matte differentiated materials: painted wall, brushed metal, muted wood, cloth, ordinary glass.
+Prefer flat matte differentiated materials: painted wall, muted wood/laminate, brushed metal, cloth, ordinary glass.
 
-Avoid mirror-like TV/fridge/counters/windows, wet-looking floors, excessive glass glare, bloom, lens flare, gratuitous rim light, or cinematic depth-of-field blur.
+Avoid mirror-like TV/fridge/counters/windows, wet-looking floors, excessive glass glare, specular sparkle, bloom, lens flare, gratuitous rim light, or cinematic depth-of-field blur.
 
 ## Lighting
 
-Powered apartment: neutral-warm practical light with readable walls/furniture.
+Lighting serves story-state readability without cinematic rendering.
 
-Day: diffuse daylight plus practical fill.
+Powered apartment: medium-bright neutral practical flat-color baseline with readable walls/furniture.
 
-Rain/lobby: grounded wet-weather atmosphere without glossy film lighting.
+Day: flat diffuse daylight with restrained practical fill.
 
-Actual blackout: charcoal/blue-gray readable shape separation; candle remains a small local source only.
+Rain/lobby: grounded wet-weather atmosphere through flat value/color changes, not glossy film reflections.
 
-After Unit 2407 power return: restore normal powered baseline; do not continue blackout rendering.
+Actual blackout: readable deep-charcoal and muted blue-gray flat shapes; candle is a small local flat amber source only.
+
+After Unit 2407 power return: restore the same normal powered baseline; do not continue blackout rendering.
+
+Light sources must physically exist. No unexplained lighting jump, room-flooding device glow, or decorative dramatic lighting.
 
 ## Composition
 
@@ -106,4 +139,17 @@ Avoid a printed-page grid and equal-size boxes repeated down the strip.
 
 ## Final Rejection Gate
 
-Reject a technical strip if character identity drifts, canonical environment geometry resets, recurring object design/state drifts, text becomes unreadable at phone width, every beat is boxed identically, gutters are uniform, effects obscure story geography, SFX source is unclear, TV/refrigerator effect languages are swapped, helpful/hostile signatures are swapped, or rendering becomes photoreal/3D/glossy.
+Reject a technical strip if:
+- character identity drifts
+- canonical environment geometry resets
+- recurring object design/state drifts
+- text becomes unreadable at phone width
+- every beat is boxed identically
+- gutters are uniform or become dead filler
+- effects obscure story geography
+- SFX source is unclear
+- TV/refrigerator effect languages are swapped
+- helpful/hostile signatures are swapped
+- any character, object, or environment becomes photoreal, semi-photoreal, 3D, CGI, glossy, cinematic, painterly, airbrushed, heavily graded, or over-rendered
+
+Style wording alone is never sufficient for approval. Every generated/repaired strip and the final stitched chapter must be visually inspected for actual compliance.
