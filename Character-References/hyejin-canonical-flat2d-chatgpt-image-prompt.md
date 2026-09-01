@@ -52,6 +52,8 @@ FINAL GOAL
 A reusable multi-angle flat-2D Manhwa character card preserving Hyejin's copper bob, rectangular glasses, expressive eyebrows, denim-jacket silhouette, dry emotional range, and signature phone/lanyard details.
 ```
 
-Expected approved production files after generation:
+Generation output may remain PNG first:
 `Character-References/hyejin-canonical-flat2d.png`
+
+After visual approval, manually convert that accepted PNG and store/use this repository authority:
 `Character-References/hyejin-canonical-flat2d.webp`
