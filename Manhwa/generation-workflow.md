@@ -16,7 +16,6 @@ A chapter/strip may make these rules stricter but may never loosen them.
 ## Character Card Authority — Absolute
 
 Recurring humans use approved canonical character-card WebPs under `Character-References/` generated from prompts following `character-card-standard.md`.
-
 Approved card controls face, age presentation, body proportions, hair geometry/color, permanent marks/accessories, and primary silhouette from all angles/expressions.
 
 Generation may produce PNG first locally. After visual approval, manually convert to WebP, commit/store the WebP, and use that exact `.webp` production path. Intermediate/deleted PNG is not production authority.
@@ -26,7 +25,6 @@ Nari's retired short-hair design is obsolete. Current identity uses long dark-pl
 ## Attached Visual References Are Binding — Absolute
 
 Approved attached WebPs are permanent visual authority, not inspiration.
-
 Preserve character identity, environment geometry, furniture/appliance placement, object construction, cables/plugs, materials, proportions, recurring prop details, and physically valid reverse-angle relationships.
 
 If intended composition conflicts with approved reference, recompose shot/action. **Never modify canon to make generation easier.**
@@ -34,41 +32,65 @@ If intended composition conflicts with approved reference, recompose shot/action
 ### Permanent Canon vs Previous Strip — Absolute
 
 Immediately previous APPROVED strip controls temporary story state only: pose, facing, held items, open/closed state, temporary prop placement, current power/light state, damage, food amount, seam continuity.
-
 It does not outrank permanent canon. If previous rendered strip contains permanent drift in face, hair, proportions, room geometry, wall-socket location, appliance body, furniture placement, or recurring object construction, correct that permanent drift to attached canonical while preserving legitimate temporary state.
 
 ## Derived Micro-Detail Rule — Canon-Subordinate Only
 
-A story may require a small practical detail that is not clearly readable in the existing canonical WebPs, such as an exact wall outlet faceplate, an ordinary utensil-storage drawer/caddy, or a minor non-plot household fitting.
+A story may require a small practical detail not clearly readable in existing canonical WebPs, such as exact outlet faceplate, ordinary utensil-storage point, or minor non-plot fitting.
 
 When this happens:
-- first exhaust the attached floor plan, room wides/details, object reference, and approved angle atlas before deriving anything
-- derive ONLY the smallest necessary micro-detail inside already-canonical geometry
-- do not add/move a wall, cabinet, counter, appliance, furniture item, doorway, shelf, or other architecture to make room for it
-- place the detail where real-world function and existing geometry allow
-- the derived detail is **temporary chapter continuity**, not new permanent canon and never outranks the approved WebPs
-- once correctly established in an APPROVED strip, preserve that derived detail for later Chapter 1 continuity unless an approved canonical explicitly resolves/supersedes it
-- if later canonical evidence conflicts, canonical wins and the affected strip must be deliberately corrected; never silently propagate the derived detail
+- exhaust attached floor plan, wides/details, object reference, and angle atlas first
+- derive ONLY smallest necessary micro-detail inside already-canonical geometry
+- do not add/move wall, cabinet, counter, appliance, furniture, doorway, shelf, architecture
+- place detail where real-world function/existing geometry allow
+- derived detail is temporary chapter continuity, never permanent canon and never outranks WebPs
+- once correctly established in APPROVED strip, preserve it during that chapter unless canonical explicitly supersedes it
+- later canonical conflict → canonical wins and affected strip is deliberately corrected
 
-Do not let a generated strip create new permanent architecture authority merely because a reference omitted a tiny functional detail.
+Do not let generated art create new permanent architecture authority merely because a reference omitted a small practical detail.
+
+## Legal Time / Location Cut Rule — Absolute
+
+A legal time/location cut may change ordinary noncritical clutter, routine body position, or mundane object placement when the story does not require its prior state.
+
+It does **not** automatically erase story-critical continuity.
+If an object/state is already evidence, plot-critical, or explicitly required after the cut, preserve it or define a new physically plausible post-cut state explicitly.
+
+Examples:
+- a temporary comedy cable may be cleaned up after a multi-day cut
+- dropped chopsticks may be cleaned after an explicit later-time cut if no longer plot evidence
+- a plot note and its exact supernatural handwriting/pen rest state must survive an overnight cut when the next scene investigates it
+- a phone may receive an ordinary post-cut starting location only when no prior story-critical phone state requires preservation; that new location must be explicit and non-duplicative
+
+Never use “time passed” as permission to reset canon, erase evidence needed by the next scene, or create a second copy.
 
 ## Real-Scenario Cause / Action / Consequence — Absolute
 
 Every meaningful state change must pass:
-
 `START STATE → CAUSE → VISIBLE PHYSICAL ACTION → RESULT → END STATE THAT PERSISTS`
 
 Audit small actions too: reach, grip, hand occupancy, step count, sit/stand, hinges, placement, food handling, cord routing, plug removal, knife drop, chopstick state, chair movement, eyeline, body support.
-
 A camera cut cannot hide teleport/reset.
+
+## Deterministic Single-Mechanism Rule — Absolute
+
+When a continuity-critical action needs one physically valid solution, do not leave multiple contradictory alternatives inside the same prompt.
+
+Choose one authoritative mechanism and carry it through every section of that strip.
+Examples:
+- if a character must free one hand for a smart lock, define exactly which bag is placed where and when it is picked back up
+- if a character remains crouched after unplugging, do not later call the same pose “crouched/standing” without a visible rise
+- if a phone is pocketed, define the same pocket for later retrieval rather than allowing arbitrary pockets/hands
+
+Optional alternatives are acceptable only when they are genuinely equivalent and cannot change continuity-critical state. If alternatives would produce different object/hand/body states, choose one.
 
 ## Mandatory Action-Proof Framing — Absolute
 
-When an action establishes a continuity-critical fact, artwork must visually prove the mechanism—not just before-state and result.
+When an action establishes a continuity-critical fact, artwork must visually prove the mechanism—not just before-state/result.
 
-Frame the physical contact point/source and result in same slice or immediately adjacent causally continuous detail slices. Examples:
+Frame contact/source/result in same slice or immediately adjacent causally continuous detail slices. Examples:
 - hand gripping plug BODY at WALL socket → plug leaves socket → loose plug + empty socket
-- hand picking/placing key → old location empty → new location has same key
+- hand picking/placing key → old location empty → new location same key
 - blade entering sheath → visible alignment/insertion → sheathed knife remains
 - knife leaving fingers → fall path → one impact spot
 - seated body + actual chair → push/clearance → stand beside same moved chair
@@ -77,173 +99,236 @@ Frame the physical contact point/source and result in same slice or immediately 
 - fingers part bag opening → tablet physically inside
 - hand/foot contacts packet/prop before SFX/state change
 
-Do not crop decisive contact point offscreen. SFX/reaction/narration/later state cannot substitute for mechanism. If contact cannot be shown clearly, change camera angle—not action/canon.
+Do not crop decisive contact point. SFX/reaction/narration/later state cannot substitute. If contact cannot be shown clearly, change camera angle—not action/canon.
+
+## Same-Object Representation / Insert Rule — Absolute
+
+A close-up, inset, magnified detail, device-screen insert, page detail, plug/socket detail, reaction insert, or side-by-side view does **not** create another physical copy.
+
+When wide + detail show one continuity-critical object/person:
+- both views refer to SAME physical object/person unless script explicitly establishes another
+- same-moment views must show compatible state
+- a later action slice may advance state exactly once
+- do not leave earlier state physically true after the action has completed
+- if composition visually reads as two copies, recompose
+
+Examples:
+- key close-up in hand does not leave second key in tray
+- plug/socket detail does not create second plug/outlet
+- knife fall detail does not leave another knife in hand
+- phone-screen insert is same phone Nari holds/placed
+- binder-page detail is same binder on same surface
+- notebook-writing insert is same notebook in same table zone
+- one character shown from two camera views is still one person, never two bodies in world space
+
+QA same-object representation separately from ordinary object-count continuity.
 
 ## Micro-Continuity / Persistence Ledger — Absolute
 
-Visible story-world state persists through next visual slice and strip unless visible action or legal time/location cut changes it.
-
+Visible story-world state persists through next slice/strip unless visible action or legal cut changes it.
 Track at minimum:
 - hands and held items
+- worn accessories and anatomical side
+- feet/step marks and body support
 - food/noodle amount/location
 - bowl/pot/chopstick/packet/wrapper counts
 - cords/plugs/wall-socket state
 - key/manual/note/pen/notebook
-- phone/tablet/bag
+- phone/tablet/bag/pockets
 - knife/sheath
 - candle/holder/flame/wick
 - chair position/occupancy
 - cabinet/stockpot/lid/towels/speaker
-- feet/facing/distance/room position
+- facing/distance/room position
 - device display/power/light state
 
 Occlusion is not disappearance. New camera angle does not authorize reset.
 
 ### Camera-Cut Conservation Rule — Absolute
 
-Close-up, reverse shot, reaction insert, black gutter, diagonal split, or strip boundary cannot silently change quantity, hand ownership, orientation, connection state, or location. Off-frame objects still exist at last valid state and must re-enter in that same state unless a visible/legal change occurred.
+Close-up, reverse shot, reaction insert, gutter, diagonal split, or strip boundary cannot silently change quantity, anatomical ownership, orientation, connection state, or location. Off-frame objects still exist at last valid state until visible/legal change.
 
-### Temporary Hand Identity Conservation — When Applicable
+## Temporary Anatomical-Side Identity — When Applicable
 
-If a continuity-critical object remains in one physical hand across multiple slices or strips, the first clear action establishes a production-only hand identity for that anatomical hand/arm.
+When a continuity-critical temporary state remains on one physical anatomical side, establish a production-only identity and preserve it across reverse shots/seams until visible transfer or expiry.
 
-Example: when Nari draws the blackout knife in Strip 016, that anatomical hand becomes `KNIFE HAND` until the knife is released.
+May apply to:
+- `KNIFE HAND`
+- `PHONE HAND`
+- `SCRUNCHIE WRIST`
+- `STEP FOOT`
+- `CANDLE FOOT`
+- `BAG SHOULDER`
+- `UMBRELLA HAND`
+- `PHONE POCKET`
+- one specific ear used for an earbud check
 
 Rules:
-- reverse camera shots may flip screen-left/screen-right, but may NOT swap the object into the other physical hand
-- a silent hand transfer is forbidden; any transfer must be scripted and visibly shown
-- after release, later contact that refers to that arm/wrist must use the same anatomical side
-- production-only hand identity labels are NEVER reader-facing text
+- screen-left/right may reverse; anatomical side may not
+- silent hand/foot/wrist/shoulder/pocket transfer is forbidden
+- any transfer must be scripted and visibly shown
+- temporary label expires only when object/state is visibly released/placed or scene no longer requires it
+- production-only labels are NEVER reader-facing text
+
+Do not over-label trivial states; use this only where reverse-shot drift could materially break continuity.
+
+## Worn-Accessory Persistence — Absolute
+
+If a worn accessory is established and no removal/transfer is scripted, it remains on same body location through close-ups/reverse shots.
+Examples: scrunchie wrist, headphones around neck, watch wrist, earbuds, bag shoulder.
+Partial occlusion is allowed; disappearance, side swap, duplication, move to another body location/surface is not.
 
 ## Prop Topology / Relative-Placement Conservation — Absolute
 
-Continuity is not only “does the object still exist?” It also includes **where that object is relative to every nearby anchor**.
-
-Once a strip establishes a continuity-critical local arrangement, preserve that story-world topology until visible movement changes it.
+Continuity includes where an object is relative to nearby anchors.
+Once a continuity-critical arrangement is established, preserve story-world topology until visible movement changes it.
 
 Examples:
-- pot remains on same trivet at same table location
-- folded cloth remains at same hot-handle side
-- candle/holder remains at same side/position relative to pot/chair
-- used chopsticks remain at same pot rest point
-- wrapper/packet remain at their established floor/table spots
-- lid remains on its established shelf side when removed from pot
-- pushed chair remains at same displaced angle
-- knife remains same impact point
+- pot same trivet/table location
+- cloth same hot-handle side
+- candle same side/position relative to pot/chair
+- used/clean chopsticks same rest points
+- wrapper/packet same floor/table spots
+- lid same shelf side when removed
+- pushed chair same displaced angle
+- knife same impact point
+- separate floor evidence stays separate
+- notebook zone stays clear of existing table evidence
 
-A reverse shot may change what is screen-left/screen-right, but must **not swap physical sides in the room/table**. Do not mirror prop topology for composition convenience.
+Reverse shot may change screen-left/right but must not swap physical story-world sides/order.
 
 ## Character ↔ Environment Physical Interaction — Absolute
 
 For every slice verify:
-- feet/body have believable support
-- seated anatomy aligns actual chair geometry
-- reach distance to prop/plug/candle/cabinet is possible
-- eyeline points to real target location
+- feet/body believable support
+- seated anatomy actual chair geometry
+- reach distance possible
+- eyeline real target location
 - door/cabinet swing respects hinges/walls
-- movement route fits canonical floor plan
-- characters do not pass through furniture/walls/appliances
-- object/character scale matches attached environment
+- route fits floor plan
+- bodies do not pass through furniture/walls/appliances/other fixed evidence
+- object/character scale matches references
 - reverse angles derive from canon, never mirror for convenience
+
+Routes must account for temporary floor obstacles/evidence. Do not let characters walk through, kick, or cover evidence unless scripted.
 
 ## Wall-Socket / Appliance-Cord Rule — Absolute
 
-Unless script explicitly says a detachable appliance-side cable is removed, **UNPLUG means removing electrical plug from WALL-MOUNTED SOCKET/OUTLET.**
+Unless script explicitly says detachable appliance-side cable is removed, **UNPLUG means electrical plug removed from WALL-MOUNTED SOCKET/OUTLET.**
 
 Required:
-- socket physically on wall at canonical or canon-subordinate derived Chapter 1 location
+- socket physically on wall at canonical or canon-subordinate derived location
 - appliance-side cord remains attached
-- same cord leads to same wall plug
-- fingers grip plug BODY, never pull cable itself
+- same cord leads same wall plug
+- fingers grip plug BODY, never cable
 - hand acts at wall plug/socket
-- after unplugging, loose plug remains attached to cord and socket empty
+- after unplugging loose plug remains attached and socket empty
 - disconnected wall-end state persists until explicit re-plug
 - critical unplug action visibly proves hand + plug + wall socket
 
-Reject cable pulled out of appliance, cable tug instead of plug body, moved socket, disappearing plug, cropped socket interaction, silent re-plug.
+Reject appliance-side disconnect, cable tug, moved socket, disappearing plug, cropped socket interaction, silent re-plug.
 
 ## Fixed Local Wall-Outlet Continuity — Canon-Subordinate
 
-Wall outlets are environment details and must never behave like movable props.
+Wall outlets are environment details, never movable props.
+When canonical refs visibly establish outlet, use exact canonical location.
+If required outlet not clear:
+- derive smallest plausible placement from canonical wall/counter/appliance geometry under Derived Micro-Detail Rule
+- do NOT relocate/add architecture
+- once APPROVED strip establishes compatible chapter micro-detail, later chapter strips preserve same wall, height, faceplate/socket orientation, nearby furniture relationship, cord-route family
+- local detail remains subordinate to WebPs
+- canonical conflict later → canonical wins and affected strips corrected deliberately
 
-When approved environment/object references visibly establish an outlet location, use that exact canonical location.
+Reverse shots cannot move outlet to another wall/height or invent convenient socket.
 
-If a story-required outlet is not clearly visible in the approved WebPs:
-- derive the smallest physically plausible outlet placement from the already-canonical wall/counter/appliance geometry under the Derived Micro-Detail Rule
-- do NOT relocate/add architecture or claim the generated placement is new permanent canon
-- once an APPROVED Strip 006 establishes that canon-compatible Chapter 1 micro-detail, later Chapter 1 strips preserve the same story-world wall, height, faceplate/socket orientation, nearby furniture relationship, and cord-route family for continuity
-- this local continuity detail always remains subordinate to approved environment/object WebPs
-- if approved canonical evidence later resolves a different location, canonical wins and affected strips must be corrected deliberately
+## Lettering / Balloon / SFX Evidence Safety — Absolute
 
-Later reverse shots may change screen position but cannot move the same outlet to another physical wall/height or invent a more convenient socket.
+Reader-facing text is not allowed to hide the physical proof needed to understand the scene.
+
+Speech balloons/tails, thoughts, narration, device text, handwriting overlays, and SFX must not cover/sever:
+- contact between hand/foot/body and continuity-critical object
+- plug/socket/loose-plug proof
+- key pickup/placement
+- knife/sheath/fall/impact
+- chair sit/stand mechanics
+- cabinet handle/hinge
+- candle reach/flame state
+- food/noodle/chopstick path
+- packet pickup/step contact
+- phone/notebook pickup/placement
+- exact device text or environment anchor needed for route
+
+If text conflicts with proof, reflow text/art composition. Never move/hide physical mechanism to accommodate lettering.
+Balloon tails must clearly identify actual speaker and not cross another speaker confusingly.
 
 ## Narration Design By Scenario — Absolute
 
-Narration wording remains exact, but visual treatment **and placement** respond to purpose/event/pacing/emotional pressure. Do not reuse one identical caption design or default position.
+Narration wording exact; treatment **and placement** respond to purpose/event/pacing/emotional pressure. Do not reuse one identical caption design/default position.
 
-Coherent functional variants:
-- time/location setup → clean compact editorial
+Functional variants:
+- time/location → clean compact editorial
 - ordinary observation → restrained unobtrusive
 - rule/procedure → firmer utilitarian
 - investigation/evidence → compact report-like
 - ominous realization → sparse higher-contrast
-- suspense/listening/reveal delay → minimal footprint
+- suspense/listening/reveal → minimal footprint
 
-Placement follows composition. **Do not default every caption to top-left.** Legitimate time/location caption may use upper area when appropriate but must not resemble repetitive technical tag.
-
-Narration never imitates speech balloons, screen UI, handwriting, production labels; never covers faces, hands, plugs/sockets, food paths, clues, environment anchors.
+Do not default every caption top-left. Legitimate time caption may use upper area when appropriate but must not resemble technical tag.
+Narration never imitates speech balloons, screen UI, handwriting, production labels; never covers continuity evidence.
 
 ## No Reader-Visible Production Labels — Absolute
 
 Never render production metadata anywhere, especially top-left:
-- `V01`, `V-01`, `V##`
-- `P1`, `P001`, `P##`
-- `Strip 001`, `strip-001`
-- `BEAT`, `SCENE`, `PANEL`, `SHOT`, `REFERENCE`, `DRAFT`, `LAYOUT`
-- circled panel numbers, crop marks, QA notes, technical headers/footers
+- V/P IDs
+- strip IDs
+- BEAT/SCENE/PANEL/SHOT/REFERENCE/DRAFT/LAYOUT/QA
+- temporary state names such as KNIFE HAND, STEP FOOT, NOTEBOOK ZONE
+- circled panel numbers, crop marks, technical headers/footers
 
-Any `V-*` or similar technical label in artwork = automatic rejection.
+Any production/state label in artwork = automatic rejection.
 
 ## Strict Flat 2D Human-Drawn Gate — Absolute
 
 Every generated/repaired strip must satisfy `style-guide.md` in actual pixels.
-
-Required: strict flat 2D human-drawn Korean manhwa/webtoon, clean line art, flat colors, restrained hard-edged cel shading only, matte materials, stable canonical anatomy/proportions, natural hands, mobile readability.
+Required: strict flat 2D human-drawn Korean manhwa/webtoon, clean line art, flat colors, restrained hard-edged cel shading, matte materials, stable anatomy/proportions, natural hands, mobile readability.
 
 Reject photoreal/semi-photoreal, 3D/CGI/game render, painterly, airbrushed, glossy/plastic/wet, beauty-ad shine, mirror-like excessive specular, cinematic grading, DOF blur, bloom, rim light, lens flare, over-rendered AI-polished output.
-
 Never propagate style drift from previous strip.
 
 ## Sequential Production
 
 1. Read chapter beat plan, manifest, current strip prompt, binding global rules.
-2. Confirm exact required character/environment/object/previous-strip attachments by current repository path.
+2. Confirm exact required canonical/previous-strip attachments.
 3. Attach approved character WebPs for visible characters.
-4. Attach smallest relevant approved environment set.
-5. Attach relevant approved object WebPs.
-6. Strip 002 onward: attach immediately previous APPROVED rendered strip for temporary state/seam only.
-7. Missing/stale/wrong-path/unapproved canonical → STOP; no improvisation.
-8. Before generation check START STATE, ALLOWED CHANGES, END STATE, action-proof, temporary-hand identity, prop topology, derived-micro-detail/outlet requirements.
-9. Generate one tall technical strip with no production IDs.
+4. Attach smallest relevant environment set.
+5. Attach relevant object WebPs.
+6. Strip 002 onward: previous APPROVED strip = temporary state/seam only.
+7. Missing/stale/wrong/unapproved canonical → STOP.
+8. Check START/ALLOWED/END, legal-cut persistence, deterministic single mechanism, action-proof, same-object representation, anatomical-side identities, worn accessories, prop topology, derived detail/outlet.
+9. Generate one tall strip with no production IDs.
 10. QA exact script/source ownership, identity, movement, object routes/counts, geometry, power/light, object states, lettering/SFX, seams.
-11. QA every adjacent slice for micro-continuity.
-12. QA temporary hand identity across reverse shots/seams when applicable.
-13. QA prop topology/relative physical sides across reverse shots.
-14. QA every critical action for visible proof framing.
-15. QA unplugging against wall-socket + canon-subordinate local-outlet rules.
-16. QA any derived micro-detail remains minimal and subordinate to permanent canon.
-17. QA permanent canon separately from previous-strip temporary state.
-18. QA character-card consistency.
-19. QA strict flat 2D style in pixels.
-20. QA SFX source→action→sound→timing→placement→state consequence.
-21. QA narration treatment/placement; reject one-template/top-left tag repetition.
-22. QA black read-slice grammar/diagonal dividers.
-23. QA lower canvas dead-space.
-24. Reject/regenerate if any mandatory item fails.
-25. Re-audit corrected strip + adjacent seams.
-26. Only APPROVED Strip N becomes temporary continuity authority for N+1.
-27. After Strip032 passes, stitch, seam QA, uniformly resize.
-28. Run fresh clean-room chapter audit 001→032; never trust earlier PASS labels.
+11. QA adjacent slices for micro-continuity.
+12. QA same-object wide/detail representation for duplicate/incompatible states.
+13. QA temporary anatomical-side identities when applicable.
+14. QA worn accessories.
+15. QA prop topology/relative sides across reverse shots.
+16. QA every critical action for visible proof.
+17. QA routes against floor obstacles/evidence.
+18. QA unplugging against wall-socket/canon-subordinate outlet rules.
+19. QA derived micro-detail remains minimal/subordinate.
+20. QA permanent canon separately from previous-strip state.
+21. QA character card consistency.
+22. QA strict flat 2D pixels.
+23. QA SFX physical chain.
+24. QA lettering/balloon evidence safety.
+25. QA narration treatment/placement.
+26. QA black read-slice/diagonal divider grammar.
+27. QA lower-canvas dead space.
+28. Reject/regenerate if any mandatory item fails.
+29. Re-audit correction + adjacent seams.
+30. Only APPROVED Strip N becomes temporary continuity authority for N+1.
+31. After Strip032 passes, stitch/seam QA/uniform resize.
+32. Run fresh clean-room 001→032 audit; never trust earlier PASS labels.
 
 ## Reference Priority
 
@@ -253,12 +338,13 @@ Never propagate style drift from previous strip.
 4. approved environment geometry
 5. approved object identity/state
 6. previous approved strip temporary state
+7. canon-compatible derived micro-detail only
 
-Previous strip or derived micro-detail cannot override permanent canon.
+Previous strip or derived detail cannot override permanent canon.
 
 ## Reuse Rule
 
-Characters, Unit 2407, building shared areas, recurring objects are reusable canonicals. Future chapters reuse approved repository WebPs instead of chapter-specific duplicates.
+Characters, Unit 2407, building shared areas, recurring objects are reusable canonicals. Future chapters reuse approved WebPs instead of chapter-specific duplicates.
 
 ## Black Slice vs Technical Seam
 
@@ -275,27 +361,33 @@ Reject huge unused tails. Never invent filler text/SFX. Prefer canonical environ
 Reject for:
 - stale/wrong/missing canonical attachment
 - attached-reference redesign/environment mirroring
-- previous-strip or derived-detail drift propagated over canon
+- previous-strip/derived-detail drift propagated over canon
 - identity/environment/object drift
-- wrong/missing text or invented reader-facing text
-- any V/P/strip/beat/panel/scene/production label
+- wrong/missing/invented reader text
+- any production/temp-state label appears
 - wrong source ownership
-- one fixed narration design/repetitive top-left caption placement
+- one fixed narration design/repetitive top-left placement
 - teleporting movement/props
-- adjacent-slice object/food/hand disappearance without cause
-- continuity-critical hand silently swaps across reverse camera/strip
-- prop topology swapping physical sides across reverse shots
+- illegal time-cut reset of story-critical evidence
+- contradictory alternative action mechanisms inside same strip
+- adjacent-slice state disappearance
+- same-object close-up/inset creates duplicate/incompatible state
+- hand/foot/wrist/shoulder/pocket silently swaps anatomical side
+- worn accessory disappears/swaps/duplicates
+- prop topology swaps physical sides
+- route crosses/kicks floor evidence without script
 - continuity-critical mechanism hidden/cropped
+- lettering/SFX hides physical proof
 - appliance cable removed instead of wall plug
 - cable pulled instead of plug body
-- outlet moved/reinvented against canonical geometry
-- generated outlet treated as new permanent canon
+- outlet moved/reinvented against canon
+- generated outlet treated permanent canon
 - silent re-plug
 - duplicated objects/bags/devices
 - wrong power state
 - unsupported SFX
-- missing black separators/diagonal divider
-- giant filler gutter/dead canvas
+- missing black/diagonal divider
+- giant dead canvas
 - visible technical seam
 - wrong helpful/hostile signature
 - photoreal/3D/glossy/cinematic/painterly/airbrushed/over-rendered drift
