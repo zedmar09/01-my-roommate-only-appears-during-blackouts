@@ -4,7 +4,7 @@ Strip IDs are production-only. The final reader sees one continuous chapter.
 
 ## Audit Status
 
-**Fresh `manhwa-2d-production-auditor` prompt-level re-audit completed across all 32 strips. Story/script/dialogue/SFX source logic, real-life movement, object routes, planned spatial continuity, power logic, and strip-to-strip state handoffs pass at the prompt level after the global strict-style/readiness repairs. Visual production is NOT complete: the required reusable environment/object canonical PNGs and rendered Strip 001–032 artwork are not currently present, so actual visual identity/geometry/style/lettering/dead-space/seam gates remain blocked.**
+**Fresh `manhwa-2d-production-auditor` prompt-level re-audit completed across all 32 strips. Story/script/dialogue/SFX source logic, real-life movement, object routes, planned spatial continuity, power logic, and strip-to-strip state handoffs pass at the prompt level after the global strict-style/readiness repairs. Visual production is NOT complete: the Chapter 1 character PNGs are stale/provisional under the September 1 full character-card standard, required reusable environment/object canonical PNGs are missing, and rendered Strip 001–032 artwork is absent. Actual visual identity/geometry/style/lettering/dead-space/seam gates therefore remain blocked.**
 
 The old blanket `FINAL PASS / PRODUCTION READY` claim is superseded. See `chapter-01-generation-checklist.md` and `chapter-01-real-scenario-continuity-audit.md` for the current gate result.
 
@@ -45,9 +45,19 @@ The old blanket `FINAL PASS / PRODUCTION READY` claim is superseded. See `chapte
 
 ## Reference Authority
 
-For every strip: current user instruction > script/current strip > approved character canonical > approved environment canonical > approved object canonical > previous approved strip temporary state.
+For every strip: current user instruction > script/current strip > approved current character canonical > approved environment canonical > approved object canonical > previous approved strip temporary state.
 
 The binding global visual/lettering/seam rules under `Manhwa/` always apply. A strip may be stricter but may never loosen them.
+
+## Character Canonical Gate — BLOCKING
+
+Required Chapter 1 character-card filenames:
+- `Character-References/nari-canonical-flat2d.png`
+- `Character-References/hyunwoo-canonical-flat2d.png`
+- `Character-References/mrs-na-canonical-flat2d.png`
+- `Character-References/seungjae-canonical-flat2d.png`
+
+All four current PNG histories predate the September 1, 2026 full character-card standard and are therefore legacy/provisional under `Character-References/README.md` until regenerated/approved from the upgraded prompts. Nari's prior short-hair PNG is explicitly obsolete and must be regenerated as the current long dark-plum-haired design. Do not begin Strip 001 with stale/provisional character authority.
 
 ## Reuse Rule — Absolute
 
@@ -79,7 +89,7 @@ Objects:
 
 ## Required-Asset Gate — BLOCKING
 
-The shorthand above names **required approved PNG authorities**, not merely intended future files. If a listed PNG required by the current strip is absent/stale/unapproved, stop before strip generation. Do not substitute its Markdown reference prompt and do not improvise a replacement.
+The shorthand above names **required approved PNG authorities**, not merely intended future files. If any character/environment/object PNG required by the current strip is absent, stale, or unapproved, stop before strip generation. Do not substitute its Markdown reference prompt and do not improvise a replacement.
 
 ## Strip Attachment Audit Map
 
@@ -147,4 +157,6 @@ Small black gutters are deliberate slice grammar. Huge unused black/white/neutra
 
 ## Completion Rule
 
-This manifest can validate planned strip coverage and dependencies. It cannot by itself prove visual production complete. Final approval requires actual approved canonical PNGs, rendered Strip 001–032 artwork, stitch/seam QA, and a fresh clean-room visual audit.
+This manifest can validate planned strip coverage and dependencies. It cannot by itself prove visual production complete. Final approval requires regenerated/approved current character-card PNGs, approved environment/object canonical PNGs, rendered Strip 001–032 artwork, stitch/seam QA, and a fresh clean-room visual audit.
+
+Current blockers: **3 categories — stale/provisional Chapter 1 character cards; missing environment/object canonical PNGs; missing rendered/stiched Chapter 1 artwork.**
