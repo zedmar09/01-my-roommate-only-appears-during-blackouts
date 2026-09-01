@@ -19,74 +19,89 @@ ATTACH — REQUIRED
 - this Strip 020 prompt
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached WebPs + APPROVED Strip 019 are binding. Preserve exact character identities, Nari's one-step-closer mark, Hyun-woo chair, table/pot/chopsticks/candle/pantry, fridge body/display, and blackout geometry.
-Never render V90–V93, P12/P13, Strip 020, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+Attached canonical WebPs are permanent authority. APPROVED Strip019 controls temporary one-step/packet/table state only; correct permanent drift to canon rather than propagating it.
+Preserve exact character identities, Nari one-step-closer mark, Hyun-woo chair, full dining topology, fridge body/display, blackout geometry.
+Never render V90–V93, P12/P13, Strip020, beat/panel/scene labels, production metadata anywhere, especially top-left.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
 START:
-- Nari = NEW closer stopped position established V88/V89; knife low same hand
+- Nari = NEW closer stopped position from Strip019; knife low same hand
 - Hyun-woo = seated in SAME chair closest kitchen/refrigerator
-- SAME chair is in normal occupied position before V93
-- pot/noodles/chopsticks/trivet/cloth/candle remain table anchors; chopsticks rest at/in pot
-- pantry = five unopened packets; one empty spicy-seafood packet remains on floor where Strip 019 nudged it
+- SAME chair normal occupied position before V93
+- SAME pot on SAME trivet
+- folded cloth at SAME hot-handle side
+- SAME used Hyun-woo chopsticks = fixed rest point against/in pot from Strip018
+- SAME candle/holder fixed table location
+- SAME seasoning wrapper = fixed table spot near pot
+- pantry = exactly five unopened packets
+- SAME empty spicy-seafood OUTER packet = slightly nudged floor spot from Strip019
 - refrigerator display dark; Unit power absent
 
 ALLOWED CHANGES:
-- V90/V91 dialogue only; no body relocation
+- V90/V91 dialogue only; no body/prop relocation
 - V92 candle flame bends in SAME holder; refrigerator narrow display begins contained hostile pixels/`KZZT`; no readable words
-- Hyun-woo notices first but REMAINS SEATED through V92
+- Hyun-woo notices first but remains SEATED through V92
 - V93 exact chair mechanics: seated body loads feet → chair pushes backward → chair legs scrape `SKRRK` → Hyun-woo rises beside SAME chair
-- he does NOT walk around table yet
+- no walk around table yet
 
 END:
-- Nari = same closer position, unmoved
-- Hyun-woo = standing immediately beside SAME pushed-back/angled chair
-- chair remains pushed back/angled; does not snap under table
-- table food/candle/pantry/packet states unchanged
+- Nari same closer position, unmoved
+- Hyun-woo standing immediately beside SAME pushed-back/angled chair
+- chair remains pushed back/angled
+- all pot/trivet/cloth/chopsticks/candle/wrapper/pantry/empty-packet topology unchanged
 - refrigerator hostile activation begun, no readable text yet
 
 ==================================================
 CHAIR / BODY MECHANICS — NON-NEGOTIABLE
 ==================================================
 
-Hyun-woo cannot teleport from seated to standing. V93 must visibly preserve contact/sequence:
-1. seated hips/body aligned with actual chair seat
-2. feet establish support on floor
-3. chair moves backward because his body/legs create clearance
-4. SAME chair visibly scrapes backward; `SKRRK` anchored at chair/floor
-5. Hyun-woo rises vertically beside chair
-6. chair remains at new pushed-back angle after he stands
+V93 must visibly preserve:
+1. seated hips/body aligned actual chair seat
+2. feet support floor
+3. chair moves backward to create clearance
+4. SAME chair visibly scrapes; `SKRRK` anchored chair/floor
+5. Hyun-woo rises beside chair
+6. chair remains new pushed-back angle
 
-Do not show him already standing before chair moves. Do not move him to refrigerator/blocking position; that movement belongs to Strip 021.
+No already-standing start. No teleport to refrigerator/blocking position; movement belongs Strip021.
 
 ==================================================
-PROP / FOOD / HAND MICRO-CONTINUITY — ABSOLUTE
+FULL DINING PROP TOPOLOGY — ABSOLUTE
 ==================================================
 
-Nari's knife stays low in same hand. Her feet do not move.
-Pot/noodles/chopsticks/trivet/cloth/candle remain on table across all dialogue/action cuts. The empty packet on floor and five pantry packets remain evidence; camera changes do not erase them.
-Candle holder does NOT slide when flame bends. Fridge body/door does not move when pixels begin.
+Reverse shots may not swap physical story-world sides/order.
+Preserve through every dialogue/fridge/chair slice:
+- pot/trivet same table location
+- cloth same hot-handle side
+- used Pair A chopsticks same fixed pot rest point
+- candle/holder same table location
+- seasoning wrapper same fixed table spot
+- five unopened pantry packets
+- SAME nudged empty outer packet same floor spot
+
+Candle flame may bend; holder does not slide. Fridge body/door does not move when pixels begin.
+Nari knife remains low/same hand; feet do not move.
 
 ==================================================
 TEXT / NARRATION DESIGN — ABSOLUTE
 ==================================================
 
-No narration is scripted; do not invent any. Dialogue remains speech. `KZZT` belongs to refrigerator activation; `SKRRK` belongs only to chair/floor scrape. Do not use generic ominous caption boxes or production labels to explain the threat.
+No narration scripted. Dialogue speech. `KZZT` refrigerator activation; `SKRRK` chair/floor. No generic ominous captions/production labels.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Small black gutter between every distinct conversation/hostile/action slice. Side-by-side fridge-detail and character-reaction views use diagonal black divider. External 020→021 A seam must remain visually continuable; no black technical bar at the file join.
+Small black gutter between conversation/hostile/action slices. Side-by-side fridge detail/reaction use diagonal divider. External 020→021 A seam visually continuable; no black technical bar.
 
 ==================================================
-DIALOGUE / HOSTILE START
+VERTICAL STORY FLOW
 ==================================================
 
 V90
@@ -110,11 +125,10 @@ HYUN-WOO:
 SMALL BLACK GUTTER.
 
 V92 — BEFORE HYUN-WOO MOVES
-Candle flame bends sharply while holder stays fixed. Black pixels begin collecting ONLY at edge/seams of same narrow refrigerator display. Hyun-woo notices first.
-SFX at refrigerator:
+Candle flame bends sharply while holder stays fixed. Black pixels begin ONLY at same narrow refrigerator display edge/seams. Hyun-woo notices first.
+SFX:
 `KZZT`
 No readable hostile words yet.
-Use refrigerator canonical embedded-diagnostic effect, never TV full-screen takeover.
 
 SMALL BLACK GUTTER.
 
@@ -125,22 +139,23 @@ Execute seated → push SAME chair backward → `SKRRK` → rise beside it. No m
 POWER / NO DEAD BOTTOM
 ==================================================
 
-Unit power still absent. Refrigerator hostile activity is supernatural, not power return.
+Unit power absent. Refrigerator hostile activity supernatural, not power return.
 Use complete chair-rise action through lower canvas; no giant blank tail.
 
 SEAM OUT — A
-Strip 021 continues from Hyun-woo standing immediately beside pushed-back chair and physically walking around table.
+Strip021 continues from Hyun-woo standing immediately beside pushed-back chair and same full dining topology.
 
 AUTOMATIC REJECT IF
 - any production label appears
-- references/room geometry drift
-- Nari moves/resets to older entrance mark
-- Hyun-woo stands before V93 or teleports to fridge/blocking position
-- chair does not visibly move before standing, duplicates, or resets after scrape
-- table food/chopsticks/candle/packet/pantry continuity disappears
+- attached refs/geometry drift
+- permanent drift previous strip propagated over canon
+- Nari moves/resets position
+- Hyun-woo stands before V93 or teleports to blocking position
+- chair does not visibly move first/duplicates/resets
+- seasoning wrapper/used chopsticks/empty outer packet/table topology disappears or swaps in reverse shot
 - readable fridge text appears early
-- refrigerator uses TV effect language or body transforms
-- invented narration appears
+- refrigerator uses TV effect/body transforms
+- invented narration
 - black separators missing/oversized
 ```
 
@@ -153,5 +168,5 @@ AUTOMATIC REJECT IF
 6. `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
 7. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 8. `Manhwa/Object-References/refrigerator-canonical-reference.webp`
-9. APPROVED Strip 019
-10. this Strip 020 prompt
+9. APPROVED Strip019
+10. this Strip020 prompt
