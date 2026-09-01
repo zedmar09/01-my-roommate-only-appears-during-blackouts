@@ -35,7 +35,7 @@ Reject or repair:
 
 ## Characters
 
-Canonical PNGs are absolute identity authority once approved.
+Approved canonical character-card WebPs under `Character-References/` are absolute identity authority. A locally generated PNG may be used during generation/QA, but after approval the exact repository WebP is the production attachment authority.
 
 Require adult proportions, clean confident linework, expressive faces/hands, flat matte colors, restrained simple cel shading, readable fabric folds, and stable height/build relationships.
 
@@ -43,7 +43,7 @@ Reject beautification drift, age drift, glamour-model drift, photoreal faces, 3D
 
 ## Environment Canonical Authority — Absolute
 
-Recurring locations require approved environment canonicals. These references are geometry/layout authorities, not decorative inspiration.
+Recurring locations require approved environment canonicals. The exact committed WebP files are geometry/layout authorities, not decorative inspiration.
 
 They control:
 - room footprint and relationships
@@ -69,14 +69,14 @@ Keep stable:
 - hallway lamp
 - work desk
 - pantry
-- two-bedroom/bathroom arrangement once the approved floor plan is generated
+- two-bedroom/bathroom arrangement from the approved floor-plan authority
 - south-wall relationship where relevant
 
 Establishing panels may be detailed. Dialogue close-ups may simplify backgrounds only after geography is clear.
 
 ## Core Object Canonical Authority — Absolute
 
-Recurring plot-critical objects use canonical object sheets. Preserve body proportions, cords/handles/displays, materials, and state vocabulary.
+Recurring plot-critical objects use approved canonical object WebPs. Preserve body proportions, cords/handles/displays, materials, and state vocabulary.
 
 Chapter 1 core objects include:
 - smart speaker
