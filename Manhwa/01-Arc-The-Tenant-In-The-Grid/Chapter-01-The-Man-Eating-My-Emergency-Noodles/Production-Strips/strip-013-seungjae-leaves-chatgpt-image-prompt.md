@@ -16,6 +16,75 @@ ATTACH — REQUIRED
 - this Strip 013 prompt
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached WebPs and APPROVED Strip 012 are binding. Preserve exact Nari/Seungjae identities, lobby geometry, bag/tablet design, umbrella/device identities, elevator/entrance relationship, and inward route.
+Never render V60–V64, P8, Strip 013, beat/panel/scene labels, or any production metadata anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- same inward lobby movement from Strip 012
+- glass entrance behind; elevator ahead
+- Seungjae phone already dead
+- smartwatch on same wrist; earbuds same pair; same folded umbrella
+- Nari carries exactly ONE shoulder bag; same tablet fully inside, inactive at start
+- neither has turned toward exit
+
+ALLOWED CHANGES:
+- Seungjae checks same smartwatch/earbuds while walking inward; they fail here
+- both reach same elevator bank
+- tablet wakes while physically remaining inside Nari's same bag
+- Nari parts/angles the actual bag opening for a private glance; tablet never leaves bag
+- private dialogue/device-text exchange
+- elevator arrives; Nari begins entering alone
+- only at V64 does Seungjae turn back toward entrance
+
+END:
+- Nari = entering elevator alone, same bag carried, tablet still inside
+- Seungjae = still inside lobby, now turned toward entrance, not outside
+- phone/watch/earbuds failed; same folded umbrella remains
+- lobby geometry unchanged
+
+==================================================
+BAG / TABLET / HAND MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+The bag itself is a physical continuity anchor in every slice.
+- same strap/shoulder/side
+- same bag stays carried, never appears on floor or duplicated
+- tablet remains physically nested inside bag
+- bag opening must actually be open/parted enough to see screen; do not render X-ray visibility through an opaque closed bag
+- Nari may use one hand to part/angle bag while other hand/body supports bag; do not give her impossible extra hands
+- close-ups are the SAME bag/tablet, not a second floating device
+- after close-up, tablet does not disappear; it remains inside the carried bag
+
+Seungjae must not have a clear reading angle to the private tablet text.
+
+==================================================
+DEVICE / BODY / LOBBY MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+One phone, one watch, one pair earbuds, one umbrella only. A device close-up does not create duplicates.
+Watch remains physically on same wrist during failure. Earbud handling must use the same pair. Dead phone state persists.
+
+Both continue toward elevator until V64. Seungjae cannot face exit in earlier slices. Nari cannot stand inside elevator before it arrives/opens.
+Feet/stance must match lobby floor and elevator threshold.
+
+==================================================
+TEXT / NARRATION DESIGN BY SITUATION — ABSOLUTE
+==================================================
+
+No narration is scripted here; do not invent any. Keep visual systems distinct:
+- human spoken lines = speech balloons
+- `HE SHOULD GO.` / `ONLY FOR A MINUTE.` = tablet screen only, clean helpful cyan-white
+- `BIP` = watch/earbud-device SFX at physical source
+Do not turn tablet text into narration, floating hologram, or speech.
+
+==================================================
 SEAM IN / LOBBY AXIS — ABSOLUTE
 ==================================================
 
@@ -134,16 +203,20 @@ SEAM OUT — G / LEGAL TIME CUT
 Strip 014 begins later that night inside Unit 2407. Since this is a true time/location cut, a compact black transition at the end is allowed.
 
 AUTOMATIC REJECT IF
+- any V/P/strip/beat/panel/scene production label appears
+- attached references or lobby geometry are redesigned
 - Nari has more than one bag
-- tablet leaves bag or appears in Nari's hand
-- tablet is shown through an impossible closed/opaque bag without the established opening
-- tablet text becomes speech bubble
+- tablet leaves bag, appears in hand, or is visible through an impossible closed bag
+- bag/tablet disappears between adjacent slices after close-up
+- tablet text becomes speech/narration/hologram
 - Seungjae reads tablet clearly
-- Seungjae reads substantially older than Nari or older than 30
-- duplicated devices appear
+- Seungjae reads older than Nari/older than 30
+- duplicated/missing devices or umbrella appear
+- watch moves to wrong wrist without action
 - dialogue ownership swaps
-- Seungjae leaves before V64
+- Seungjae turns toward exit before V64 or appears outside early
 - lobby axis flips
+- invented narration appears
 - internal black separators missing/oversized
 - giant dead bottom appears
 ```
