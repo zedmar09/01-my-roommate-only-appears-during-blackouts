@@ -19,6 +19,7 @@ Freshly checked:
 - black read-slice and A/E seam instructions
 - strict flat 2D human-drawn production authority
 - character/environment/object reference readiness
+- repository-level Chapter 1 count/style guidance
 - production-readiness/completion claims
 
 Visual pixel inspection is not possible from the current repository package because required current canonical visual authorities and rendered Strip 001–032 artwork are not all available/approved.
@@ -110,11 +111,33 @@ Therefore the current Chapter 1 character PNGs are not valid final character-car
 
 ### Correction
 
-No silent visual canon was fabricated. The readiness/checklist/audit status now treats these character PNGs as **stale/provisional visual authorities that must be regenerated/approved before Strip 001 production**.
+No silent visual canon was fabricated. The readiness/checklist/manifest/Production-Strips status now treats these character PNGs as **stale/provisional visual authorities that must be regenerated/approved before Strip 001 production**.
 
 ### Re-audit
 
-**BLOCKER remains by design** because this connector can safely patch repository text but cannot regenerate, visually approve, and upload replacement binary PNG canonicals into the GitHub repository in this audit pass.
+**BLOCKER remains by design** because this repository audit can patch textual production authority, but the replacement character-card PNGs still have to be generated and visually approved before they can become canonical visual authority.
+
+## Repair Cycle 5 — Stale Repository-Level Chapter Guidance
+
+### Finding
+
+The final clean-room read found two active top-level references that could reintroduce production drift:
+- `../../reference-vibe-profile.md` still described the obsolete 70-beat / 15-strip pilot and used `polished` without an explicit strict-style boundary.
+- repository `README.md` still allowed `soft-cel` shading.
+- `../../ASURA-CONTINUOUS-SCROLL-NOTE.md` still described Chapter 1 as 70 beats / 15 strips.
+
+These conflicted with the active 146-beat / 32-strip chapter and strict flat 2D human-drawn style authority.
+
+### Correction
+
+Updated all three references:
+- `../../reference-vibe-profile.md` now locks Chapter 1 to 146 beats / 32 strips, makes negative space purposeful, and defines `polished` as production discipline rather than glossy/cinematic rendering.
+- repository `README.md` now uses the same strict flat 2D human-drawn/no-soft-cel/no-cinematic rule and records the current visual blockers.
+- `../../ASURA-CONTINUOUS-SCROLL-NOTE.md` now uses the active 146-beat / 32-strip counts and explicitly rejects obsolete 70/15 pilot guidance.
+
+### Re-audit
+
+**PASS.** The active repository-level Chapter 1 guidance now agrees on chapter size, continuous-scroll behavior, strict style, purposeful negative space, and current visual-readiness status.
 
 ## Fresh Physical Timeline Re-Audit — Strip 001 → 032
 
@@ -243,7 +266,7 @@ No story/dialogue rewrite was required after the fresh full read because the cur
 
 ## Strict Style Re-Audit
 
-**PASS at authority/prompt level after correction.** The global and Chapter 1 production rules now require strict flat 2D human-drawn rendering and reject glossy/cinematic/photoreal/3D/painterly/airbrushed drift.
+**PASS at authority/prompt level after correction.** The global, repository-level, and Chapter 1 production rules now require strict flat 2D human-drawn rendering and reject soft-cel/glossy/cinematic/photoreal/3D/painterly/airbrushed drift.
 
 **Pixel-level style gate: BLOCKED** until current approved visual canonicals and rendered images exist.
 
