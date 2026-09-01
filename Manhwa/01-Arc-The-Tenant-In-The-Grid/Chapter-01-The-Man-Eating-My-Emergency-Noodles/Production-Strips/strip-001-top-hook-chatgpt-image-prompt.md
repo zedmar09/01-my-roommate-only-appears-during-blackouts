@@ -25,7 +25,7 @@ Use `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-referenc
 REFERENCE OBEDIENCE / NO PRODUCTION LABELS — ABSOLUTE
 ==================================================
 
-Every attached WebP is BINDING visual authority. Do not redesign Nari, the apartment, the speaker, furniture, appliance placement, materials, proportions, or room axis to make a composition easier. If a planned shot conflicts with the references, recompose the camera while preserving canon.
+Every attached WebP is BINDING visual authority. Do not redesign Nari, the apartment, the speaker, furniture, appliance placement, materials, proportions, smart-lock location, front-door geometry, or room axis to make a composition easier. If a planned shot conflicts with the references, recompose the camera while preserving canon.
 
 The written markers `V01`–`V07`, `P1`, `Strip 001`, and all headings in this Markdown are production-only. NEVER render `V01`, `V-01`, `V1`, `P1`, `STRIP`, `BEAT`, `PANEL`, `SCENE`, or any other technical label anywhere in the art, especially not in the top-left corner of a vertical slice. Any such label = automatic rejection.
 
@@ -34,28 +34,55 @@ START STATE / ALLOWED CHANGES / END STATE — ABSOLUTE
 ==================================================
 
 START STATE:
-- Nari is outside Unit 2407 in the corridor carrying exactly ONE current moving box in both/secure arms according to natural weight.
-- Unit 2407 canonical geometry is unchanged from the attached floor plan/reference views.
-- smart speaker is already in its canonical kitchen-counter position, plugged into ordinary power, screenless and inactive before V06.
-- exactly TWO burgundy dining chairs exist.
+- Nari is outside Unit 2407 in the corridor carrying exactly ONE current moving box in a physically secure hold
+- front door is CLOSED/LATCHED
+- smart lock is at its canonical door location
+- Unit 2407 canonical geometry is unchanged from the attached floor plan/reference views
+- smart speaker is already in its canonical kitchen-counter position, plugged into ordinary power, screenless and inactive before V06
+- exactly TWO burgundy dining chairs exist
 
 ALLOWED CHANGES ONLY:
-- Nari unlocks/enters through the real front door, crosses the threshold, walks into the open-plan area, and sets the SAME carried box down once.
-- ordinary smart-home elements may activate as scripted.
-- speaker activates at V06 only.
+- Nari physically operates the actual smart lock while still outside
+- smart lock acknowledges with `BEEP`
+- latch/lock releases
+- Nari physically opens the SAME front door
+- Nari crosses the threshold carrying the SAME moving box
+- she walks into the open-plan area and sets the SAME carried box down once
+- ordinary smart-home elements may activate as scripted
+- speaker activates at V06 only
 
 END STATE:
-- Nari is physically inside Unit 2407 after setting down the same box.
-- speaker remains on canonical kitchen counter, still plugged in.
-- apartment geometry/furniture/appliances remain exactly canonical for Strip 002.
+- Nari is physically inside Unit 2407 after setting down the same box
+- front door state may remain naturally open/partly open according to the move-in composition, but its location/hinge are unchanged
+- speaker remains on canonical kitchen counter, still plugged in
+- apartment geometry/furniture/appliances remain exactly canonical for Strip 002
 
 Anything not listed above stays unchanged.
+
+==================================================
+SMART-LOCK / DOOR ACTION-PROOF — NON-NEGOTIABLE
+==================================================
+
+V02→V03 must show a real entry mechanism:
+1. Nari remains outside with SAME box supported securely
+2. one hand/finger can physically reach the actual smart-lock control while the box remains plausibly supported by her other arm/body or briefly braced securely
+3. hand/finger contacts/operates the smart lock
+4. `BEEP` occurs at the smart lock
+5. lock/latch releases
+6. Nari's hand reaches real door handle/edge as needed
+7. SAME door physically swings open on its canonical hinge
+8. only after an opening exists does Nari cross the threshold
+9. `CLICK` belongs to the actual lock/door mechanism during this entry sequence
+
+Do not show a closed door in one slice and Nari magically inside in the next. Do not crop away every contact point and rely only on `BEEP`/`CLICK`.
+
+If holding the box makes one-handed lock operation impossible in a chosen pose, recompose her box support/stance; do not give her an extra hand and do not teleport the box.
 
 ==================================================
 MICRO-CONTINUITY / CHARACTER-ENVIRONMENT CONTACT — ABSOLUTE
 ==================================================
 
-Track Nari's SAME carried box through corridor → threshold → interior → floor placement. It may be temporarily occluded by framing, but it cannot vanish, duplicate, change size, or already appear on the floor before she puts it down.
+Track Nari's SAME carried box through corridor → smart-lock operation → door opening → threshold → interior → floor placement. It may be temporarily occluded by framing, but it cannot vanish, duplicate, change size, or already appear on the floor before she puts it down.
 
 Show believable feet/support and door clearance during threshold crossing. Nari cannot clip through the door, wall, entry shelf, furniture, or box. Her eyeline to the speaker in V07 must point toward the speaker's actual canonical kitchen-counter location.
 
@@ -65,12 +92,12 @@ Other moving boxes may exist only as separate boxes already on a cart/inside; ne
 NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-Do NOT use one identical narration-box design for every narration line in this strip.
+Do NOT use one identical narration-box design or one default top-left caption position for every narration line in this strip.
 - V01/V02 premise narration: clean compact contemporary editorial caption, dry observational tone.
 - V04 apartment-feature narration: lighter practical observational treatment that lets the room reveal dominate.
 - V05 smart-home montage narration: compact modern/technical rhythm without becoming fake device UI.
 
-Keep all narration within one coherent manhwa typography family, but vary shape/placement/weight according to the beat. Never make narration look like speech balloons, screen UI, handwritten notes, or production labels. Do not place captions over Nari's face/hands, door crossing, box placement, speaker, or key environment anchors.
+Keep all narration within one coherent manhwa typography family, but vary shape/placement/weight according to the beat. Never make narration look like speech balloons, screen UI, handwritten notes, or production labels. Do not place captions over Nari's face/hands, smart-lock contact, door crossing, box placement, speaker, or key environment anchors.
 
 ==================================================
 REAL-SCENARIO START / UNIT 2407 GEOGRAPHY — ABSOLUTE
@@ -88,8 +115,6 @@ Canonical geography must remain truthful:
 - corner windows / city view
 
 Do not mirror the apartment to make a composition easier.
-
-Nari has one carryable moving box in her arms at the corridor/threshold beat. Other boxes may be on a small moving cart or already inside, but do not duplicate the box she is holding in the same story-world moment.
 
 ==================================================
 SMART SPEAKER IDENTITY — ABSOLUTE
@@ -132,7 +157,7 @@ NARRATION:
 SMALL BLACK GUTTER.
 
 V02 — CORRIDOR / SMART LOCK
-Nari outside Unit 2407 with the SAME carried box. Smart lock is source of sound.
+Nari outside Unit 2407 with SAME carried box. Show a physically plausible hand/finger operating the actual smart lock while the box remains securely supported.
 NARRATION:
 `IN SEOUL, CHEAP RENT ALWAYS HIDES A CATCH.`
 SFX at smart lock:
@@ -140,9 +165,9 @@ SFX at smart lock:
 
 SMALL BLACK GUTTER.
 
-V03 — THRESHOLD CROSSING
-Show Nari physically crossing through the open door with that box; no teleport directly to living room.
-SFX at lock/door:
+V03 — DOOR OPEN / THRESHOLD CROSSING
+Show lock release → SAME front door physically opening → Nari crossing through the real opening with SAME box. No teleport directly to living room.
+SFX at lock/door mechanism:
 `CLICK`
 
 SMALL BLACK GUTTER.
@@ -216,15 +241,17 @@ Strip 002 begins later that evening. A time transition is allowed, but Unit 2407
 
 AUTOMATIC REJECT IF
 - any `V-*`, P-number, strip/panel/scene/beat or production label appears in artwork
-- Unit 2407 axis is mirrored or furniture/appliances relocate
+- Unit 2407 axis is mirrored or furniture/appliances/lock location relocate
 - attached reference identity/geometry is redesigned
 - more than two dining chairs appear
 - speaker changes design or has a screen
 - `WELCOME HOME...` is printed on speaker body
-- Nari teleports across threshold
+- smart-lock contact/release/door-opening mechanism is skipped or completely cropped away
+- Nari teleports across threshold or passes through a closed door
 - box duplicates, vanishes, changes size, or reaches floor before the placement action
+- Nari gains impossible extra hands while operating lock/holding box
 - Nari/box clips through door/wall/furniture
-- narration uses one generic repeated box without regard to beat function
+- narration uses one generic repeated box or repetitive top-left tag without regard to beat function
 - distinct slices touch with no small black divider
 - side-by-side separate shots lack the diagonal black separator
 - giant purposeless bottom space appears
