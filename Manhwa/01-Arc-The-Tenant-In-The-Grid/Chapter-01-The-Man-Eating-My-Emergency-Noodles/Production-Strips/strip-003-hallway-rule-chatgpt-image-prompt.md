@@ -7,13 +7,13 @@ PRODUCTION SCOPE
 V12–V15. Historical P2 mapping only.
 
 ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.png`
-- `Character-References/mrs-na-canonical-flat2d.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-canonical.png`
-- `Manhwa/Object-References/electrical-operation-guide-canonical.png`
-- `Manhwa/Object-References/brass-backup-key-canonical.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Character-References/mrs-na-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+- `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
+- `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
 - APPROVED Strip 002
 - this Strip 003 prompt
 
@@ -114,12 +114,12 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Mrs. Na canonical
-3. Unit 2407 floor plan
-4. Unit 2407 living→kitchen wide
-5. Unit 2407 hallway canonical
-6. Unit 2407 electrical-operation-guide canonical
-7. Unit 2407 brass-backup-key canonical
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Character-References/mrs-na-canonical-flat2d.webp`
+3. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+4. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+5. `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+6. `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
+7. `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
 8. APPROVED Strip 002
 9. this Strip 003 prompt
