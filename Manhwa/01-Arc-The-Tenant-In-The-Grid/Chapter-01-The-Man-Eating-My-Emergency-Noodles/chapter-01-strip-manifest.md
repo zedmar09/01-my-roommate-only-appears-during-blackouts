@@ -4,31 +4,32 @@ Strip IDs are production-only. The reader sees one continuous chapter.
 
 ## Current Audit Status
 
-**FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+**SECOND FULL HARDENING CLEAN-ROOM AUDIT — REPAIR PASS ACTIVE — NOT PRODUCTION COMPLETE.**
 
-The complete `strip-001` through `strip-032` package has been rewritten under the current `manhwa-2d-production-auditor` standard after generation failures exposed insufficient physical/micro-continuity constraints.
+The complete `strip-001` through `strip-032` package has been re-audited a second time under the current `manhwa-2d-production-auditor` standard. This second pass does not accept the first hardening PASS as proof; it specifically searches for remaining production ambiguity that can still cause physically wrong image generation.
 
-The hardened package now explicitly enforces:
-- attached WebPs as binding visual authority, not inspiration
-- START / ALLOWED CHANGES / END state ledgers
-- adjacent-slice object/food/hand persistence
-- real-world movement/reach/sit/stand/hinge/contact mechanics
-- wall-mounted-socket unplugging with appliance-side cord retained
-- scenario-dependent narration treatment
-- absolute rejection of reader-visible `V-*`, P/strip/beat/panel/scene production labels
-- sequential regeneration beginning at Strip 001
+Second-pass hardening additionally enforces:
+- permanent canonical WebPs outrank previous-strip permanent drift
+- continuity-critical actions require visible mechanism/contact proof
+- camera cuts cannot hide state-changing interactions
+- no default/repetitive top-left narration-tag placement
+- no unscripted visible food in Strip 005
+- exact failed-tool return state in Strip 015→016
+- exact former-knife-hand wrist identity in Strip 023→024
+- TV canonical attached to powered evidence continuity where its wall-unplug state is story-critical
+- mandatory same-moment active-TV + loose-plug/empty-wall-socket proof in Strip 031
 
-Previously generated pre-hardening strips are **rejected as continuity authority**. Only a newly generated strip that passes current visual QA may become the `APPROVED Strip N` attachment for N+1.
+Previously generated strips remain **rejected as continuity authority**. Only a newly generated strip that passes current visual QA may become the `APPROVED Strip N` attachment for N+1.
 
 ## Strip Map
 
 | Strip | Read beats | Historical map | Main purpose | Seam OUT |
 |---:|---|---|---|---|
-| 001 | V01–V07 | P1 | move-in / smart-home / speaker welcome | G |
+| 001 | V01–V07 | P1 | move-in / smart-lock mechanism / speaker welcome | G |
 | 002 | V08–V11 | P2 | Mrs. Na arrival / binder-key setup | G |
 | 003 | V12–V15 | P2 | hallway-light / phone-tablet rule | A/G |
 | 004 | V16–V20 | P2–P3 | outage warning → one-week automation | G |
-| 005 | V21–V25 | P3 | first natural male voice / chopsticks continuity | G |
+| 005 | V21–V25 | P3 | first natural male voice / chopsticks only, no invented food | G |
 | 006 | V26–V30 | P3–P4 | speaker wall-unplug → TV wall-unplug proof | A |
 | 007 | V31–V35 | P4–P5 | TV warning → hostile fridge → key route | G |
 | 008 | V36–V40 | P5 | speaker storage / paper test / pen movement | G |
@@ -38,7 +39,7 @@ Previously generated pre-hardening strips are **rejected as continuity authority
 | 012 | V55–V59 | P8 | Seungjae invitation / phone dies | A |
 | 013 | V60–V64 | P8 | devices fail / tablet warning / elevator split | G |
 | 014 | V65–V67 | P9 | 12:43 outage / citywide confirmation | E |
-| 015 | V68–V70 | P9 | no-screen choice / failed tools / listen | E/G |
+| 015 | V68–V70 | P9 | no-screen choice / failed tools returned to tray / listen | E/G |
 | 016 | V71–V75 | P10 | first SLURP / knife draw / approach / teaser | A/E |
 | 017 | V76–V80 | P10–P11 | hidden eater / food-mask continuity | A/G |
 | 018 | V81–V84 | P11 | stop eating / mask reseat / name reveal | G |
@@ -46,16 +47,16 @@ Previously generated pre-hardening strips are **rejected as continuity authority
 | 020 | V90–V93 | P12–P13 | Mrs. Na admission / hostile start / chair rise | A |
 | 021 | V94–V97 | P13 | physical protective crossing / `YOON NARI` | E |
 | 022 | V98–V102 | P14 | candle order / additive `IDENTITY LOCKING` | A/E |
-| 023 | V103–V107 | P14 | reach → candle out → knife fall → wrist catch | G |
-| 024 | V108–V112 | P15 | wrist release / separate hostile actor | G/E |
+| 023 | V103–V107 | P14 | reach → candle out → knife fall → former-knife-hand wrist catch | G |
+| 024 | V108–V112 | P15 | same-wrist release / separate hostile actor | G/E |
 | 025 | V113–V118 | P15 | city return → Unit return → Hyun-woo absent | G |
-| 026 | V119–V123 | P16 | evidence / physical phone route / security | G |
+| 026 | V119–V123 | P16 | evidence / physical phone route / TV unplug evidence / security | G |
 | 027 | V124–V127 | P16 | voicemail / two same-cabinet chimes | A/G |
 | 028 | V128–V132 | P17 | cabinet approach / unplugged speaker / knife pickup | A |
 | 029 | V133–V137 | P17 | sheath knife / inspect food / one complete bite | G |
-| 030 | V138–V142 | P18 | silence / danger / notebook physical route | G |
-| 031 | V143–V145 | P18 | bug report / still-wall-unplugged TV activation | A/E |
-| 032 | V146 | P18 | `NEW TENANT CONFIRMED` while still powered | END |
+| 030 | V138–V142 | P18 | silence / danger / notebook physical route / TV state carry | G |
+| 031 | V143–V145 | P18 | bug report / mandatory live TV + wall-unplug proof | A/E |
+| 032 | V146 | P18 | `NEW TENANT CONFIRMED` while still powered and wall-unplugged | END |
 
 ## Reference Authority
 
@@ -67,7 +68,35 @@ For every strip:
 5. approved object WebP identity/state vocabulary
 6. newly APPROVED previous rendered strip for temporary state only
 
-A previous strip can never override permanent canon.
+A previous strip can never override permanent canon. If prior art contains permanent drift, correct permanent details to the attached canonical while preserving legitimate temporary state only.
+
+## Mandatory Action-Proof Rule
+
+Continuity-critical interactions must visually prove their mechanism/contact point. A reaction, SFX, narration line, black gutter, close-up, or later state cannot substitute for showing the action.
+
+High-risk proof points include:
+- Strip 001 smart-lock contact / latch release / door opening before threshold crossing
+- Strip 002 key detachment and placement
+- Strip 004 key pickup and tray placement
+- Strip 005 chopstick release from hand before floor `CLATTER`
+- Strip 006 speaker/TV plug-body removal from WALL sockets
+- Strip 008 cabinet opening / speaker storage route
+- Strip 009 phone aiming/capture against same physical note
+- Strip 010 binder pickup/open/close/return
+- Strip 013 bag opening with tablet physically inside
+- Strip 015 flashlight/radio pickup → test → exact tray return
+- Strip 016 knife blade/sheath separation
+- Strip 018 chopsticks rest before mask reseat
+- Strip 019 one-step foot/packet contact
+- Strip 020 seated body → chair push → stand
+- Strip 021 actual walk around table
+- Strip 023 grip failure → knife leaves fingers → fall → one impact → former-knife-hand wrist catch
+- Strip 024 same-wrist release before fridge clicks
+- Strip 026 phone pickup and latch contact
+- Strip 028 phone placement / cabinet opening / knife pickup
+- Strip 029 sheathing / chair sitting / complete bite
+- Strip 030 notebook pickup and same-chair return
+- Strip 031 active TV plus causally adjacent loose-plug/empty-wall-socket proof
 
 ## Reusable Reference Shorthand
 
@@ -117,11 +146,11 @@ Objects:
 | 016 | U-FP,U-DESK,U-HALL,U-L2K,U-LIGHT | — |
 | 017–019 | U-FP,U-L2K,U-K2L,U-FRIDGE,U-LIGHT | — |
 | 020–025 | U-FP,U-L2K,U-K2L,U-FRIDGE,U-LIGHT | O-FRIDGE |
-| 026 | U-FP,U-DESK,U-ENTRY,U-LIGHT | O-KEY |
+| 026 | U-FP,U-DESK,U-ENTRY,U-LIGHT | O-KEY,O-TV |
 | 027 | U-FP,U-ENTRY,U-FRIDGE,U-LIGHT | — |
 | 028 | U-FP,U-FRIDGE,U-DESK,U-K2L,U-LIGHT | O-SPK |
 | 029 | U-FP,U-FRIDGE,U-DESK,U-L2K,U-LIGHT | O-SPK |
-| 030 | U-FP,U-DESK,U-L2K,U-LIGHT | O-SPK |
+| 030 | U-FP,U-DESK,U-L2K,U-LIGHT | O-SPK,O-TV |
 | 031 | U-FP,U-L2K,U-K2L,U-DESK,U-LIGHT | O-TV |
 | 032 | U-FP,U-L2K,U-K2L,U-LIGHT | O-TV |
 
@@ -129,34 +158,35 @@ Objects:
 
 ## Hardened Cross-Strip State Handoffs
 
-- 001→002: same Unit geometry; move-in box state may change only through legal later-evening cut
+- 001→002: same canonical Unit geometry; first strip physically proves smart-lock/door entry; later-evening cut may change only temporary move-in state
 - 002→003: same women/counter; binder + detached key remain counter
 - 003→004: same counter state until visible departure route
 - 004→005: binder counter; key tray; speaker counter/plugged
-- 005→006: same dropped chopstick pair at fixed kitchen-floor spot through V26
+- 005→006: same dropped chopstick pair at fixed kitchen-floor spot through V26; no invented visible food from Strip 005
 - 006→007: TV appliance-side cord attached; same loose wall plug; same empty wall socket; no silent re-plug
 - 007→008: key returned tray; speaker still wall-unplugged on counter
 - 008→009: same note/pen; speaker stored unplugged in same stockpot/two towels
 - 009→010: same tablet restart state
 - 010→011: binder returned closed to counter
 - 012→013: same lobby route; one bag/tablet; exact device counts
-- 014→015→016: uninterrupted blackout field; Nari hair/scrunchie/tools persist
-- 016→017: exact entrance/teaser chair/table/candle/pot geometry
+- 014→015: uninterrupted blackout; Nari hair/scrunchie/tool positions persist
+- 015→016: flashlight and radio returned to exact tray positions; practical knife still sheathed in tray; phone dark at desk
+- 016→017: exact entrance/teaser chair/table/candle/pot geometry; empty sheath/failed tools remain desk
 - 017→018: same pot/noodles/chopsticks and temporarily mouth-cleared attached mask
 - 018→019: same seated Hyun-woo / entrance Nari distance
 - 019→020: Nari one-step-closer mark persists
 - 020→021: pushed chair remains; Hyun-woo begins beside it and physically crosses
 - 021→022: same blocking positions; `YOON NARI` persists
 - 022→023: same candle/holder and blocking positions; no early reach
-- 023→024: same wrist held, knife floor spot, extinguished candle, post-reach geometry
-- 024→025: same knife/candle/chair/table evidence; city return before Unit return
-- 025→026: normal powered baseline; Hyun-woo absent; evidence untouched
-- 026→027: same phone in Nari's hand
+- 023→024: SAME former-knife-hand wrist held, knife floor spot, extinguished candle, post-reach geometry
+- 024→025: same former-knife-hand wrist visibly released; knife/candle/chair/table evidence persists; city return before Unit return
+- 025→026: normal powered baseline; Hyun-woo absent; evidence untouched; TV still wall-unplugged
+- 026→027: same phone in Nari's hand; key tray; TV state untouched
 - 027→028: same closed cabinet sound source; Nari starts entry-side with phone
 - 028→029: phone counter; cabinet open; same stored unplugged speaker; same knife in Nari hand
-- 029→030: sheathed knife desk; Nari in untouched chair; food/chopstick/table state persists
-- 030→031: same notebook + pen + untouched chair; TV still wall-unplugged
-- 031→032: same TV hostile activation, cord, loose plug, empty wall socket, Nari chair, notebook/pen, powered state
+- 029→030: sheathed knife desk; Nari in untouched chair; food/chopstick/table state persists; TV still wall-unplugged
+- 030→031: same notebook + pen + untouched chair; exact TV canonical + wall-unplugged state
+- 031→032: same hostile activation; Strip 031 has already visually proven TV-side cord attached + loose plug + empty wall socket; Strip 032 cannot reinterpret that state
 
 ## NO Production Labels — Absolute
 
@@ -164,18 +194,12 @@ The V/P/strip IDs above are audit metadata only. They must never be rendered in 
 
 ## Narration Hardening
 
-Narration wording remains exact. Visual treatment varies according to scenario while remaining one publication family. A time caption, dry observation, investigative evidence caption, ominous realization, and suspense hold must not be forced into one identical generic box treatment.
+Narration wording remains exact. Visual treatment and placement vary according to scenario while remaining one publication family. A time caption, dry observation, investigative evidence caption, ominous realization, and suspense hold must not be forced into one identical generic box treatment or one repetitive top-left tag position.
 
 ## Completion Rule
 
 This manifest validates prompt-level dependencies and handoffs only. It cannot prove visual production complete.
 
-Current prompt-level gate count after the clean-room hardening pass:
-- **BLOCKER 0**
-- **MAJOR 0**
-- **MINOR requiring correction 0**
-- **WARNING requiring explanation 0**
+Second-pass prompt gate counts must be recorded only after the clean-room re-read finishes. Rendered visual gates remain pending.
 
-Rendered visual gates remain pending.
-
-**FINAL CURRENT STATUS: FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+**CURRENT STATUS: SECOND FULL HARDENING AUDIT / REPAIR PASS ACTIVE — PRIOR RENDERS REJECTED — NOT PRODUCTION COMPLETE.**
