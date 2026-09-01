@@ -23,10 +23,11 @@ ATTACH — REQUIRED
 If a canonical WebP is missing, stale, wrong-path, or unapproved, do not replace it with a random apartment/object image.
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL TEXT — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL TEXT — ABSOLUTE
 ==================================================
 
-Attached character/environment/object WebPs are binding visual authority. Do not change faces, age, hair, coat, room axis, counter position, door geometry, binder construction, key shape, or scale to make the shot easier.
+Attached character/environment/object WebPs are permanent visual authority. APPROVED Strip 001 controls temporary move-in state only; correct permanent drift to the attached canon rather than propagating it.
+Do not change faces, age, hair, coat, room axis, counter position, door geometry, binder construction, key shape, or scale to make the shot easier.
 Never render `V08`, `V09`, `V10`, `V11`, `P2`, `Strip 002`, `BEAT`, `PANEL`, `SCENE`, or any production label anywhere, especially top-left.
 
 ==================================================
@@ -36,30 +37,52 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 START:
 - same later-day Unit 2407 geometry established by Strip 001 and attached references
 - Nari is inside; front door closed
-- Mrs. Na is outside corridor with exactly one handbag, one canonical binder, and one ordinary key ring containing exactly one canonical Unit 2407 brass key
+- Mrs. Na is outside corridor
+- Mrs. Na's handbag is independently supported on shoulder/forearm so it does NOT consume a hand needed for binder/key handling
+- Mrs. Na carries ONE canonical binder in one hand
+- Mrs. Na carries ONE ordinary key ring in the other hand; exactly one canonical Unit 2407 brass key is attached to that ring
 - speaker remains canonical kitchen counter, plugged in
 - moving boxes remain believable from move-in
 
 ALLOWED CHANGES:
 - doorbell rings; Nari walks to door and opens it
 - Mrs. Na crosses threshold ONCE; both physically walk entry → open-plan → kitchen counter
-- Mrs. Na places binder flat on counter
-- Mrs. Na visibly detaches the Unit 2407 brass key from her ordinary ring and places that SAME key beside binder
+- Mrs. Na places binder flat on counter FIRST, freeing the binder hand
+- only after binder placement, she uses the now-free hand together with the ring-holding hand to visibly detach the Unit 2407 brass key from the ordinary ring
+- she places that SAME detached key beside binder
 
 END:
 - Nari + Mrs. Na at same kitchen counter
 - binder flat on counter
 - brass backup key detached and on counter beside binder
-- Mrs. Na still has handbag and ordinary ring minus the Unit 2407 key
+- Mrs. Na still has handbag independently supported and ordinary ring minus the Unit 2407 key
+- both of Mrs. Na's hands are physically accounted for; no impossible extra hand
 - speaker remains unchanged; door/room geometry canonical
 
 A camera cut does not reset or duplicate any of these states.
 
 ==================================================
+MRS. NA HAND / PROP OCCUPANCY — NON-NEGOTIABLE
+==================================================
+
+Mrs. Na never has three incompatible handheld objects in two hands.
+
+Required carriage logic:
+1. handbag remains supported by shoulder/forearm/body, not magically floating
+2. binder occupies one hand while walking from door to counter
+3. key ring occupies the other hand
+4. binder is physically set down and released FIRST
+5. freed binder hand may then assist the ring hand in detaching the single brass key
+6. detached key is placed on counter
+7. ordinary ring remains in Mrs. Na's hand or is naturally retained; it does not duplicate/disappear
+
+Do not show binder, key ring, detached key, and handbag all simultaneously gripped by impossible fingers/hands.
+
+==================================================
 HAND / OBJECT / ENVIRONMENT MICRO-CONTINUITY — ABSOLUTE
 ==================================================
 
-Track Mrs. Na's hands and props through corridor → threshold → walk → counter. Binder/key/handbag cannot teleport between hands or duplicate. If framing hides an object, its state remains unchanged.
+Track Mrs. Na's hands and props through corridor → threshold → walk → counter. Binder/key/handbag/ring cannot teleport between hands or duplicate. If framing hides an object, its state remains unchanged.
 
 Door crossing must show believable clearance and feet/support. Neither woman may clip through front door, shelf, boxes, counter, chairs, or walls. Walk route must match floor plan.
 
@@ -69,7 +92,7 @@ For V11, binder placement must physically finish before it is shown resting flat
 NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-`LATER THAT EVENING...` is a true time transition: use a compact time-caption treatment distinct from Strip 001's premise/observation narration while remaining in the same publication typography family. It should read as a transition, not device UI, speech, or a generic repeated narration box.
+`LATER THAT EVENING...` is a true time transition: use a compact time-caption treatment distinct from Strip 001's premise/observation narration while remaining in the same publication typography family. It should read as a transition, not device UI, speech, or a generic repeated narration box. Do not default it to a repetitive top-left technical-tag position.
 
 ==================================================
 EXACT TIME / PROP STATE — ABSOLUTE
@@ -79,10 +102,10 @@ This is later the SAME day. Nari is still moving in; boxes remain believable and
 The canonical speaker remains in its established kitchen-counter location and does not become a story focus here.
 
 Mrs. Na begins OUTSIDE the closed front door with:
-- one handbag
-- the SAME canonical Unit 2407 electrical-operation guide
-- one ordinary key ring containing the SAME canonical brass backup key
-No duplicated binder/key/handbag.
+- one independently supported handbag
+- the SAME canonical Unit 2407 electrical-operation guide in one hand
+- one ordinary key ring in the other hand containing the SAME canonical brass backup key
+No duplicated binder/key/handbag/ring.
 
 MANUAL IDENTITY:
 - exact cover/title: `UNIT 2407 / ELECTRICAL OPERATION GUIDE`
@@ -128,23 +151,23 @@ SFX outside closed door:
 SMALL BLACK GUTTER.
 
 V09 — DOOR OPEN
-Mrs. Na stands in corridor with handbag, canonical binder, and key ring.
+Mrs. Na stands in corridor with handbag independently supported, canonical binder in one hand, and key ring in the other.
 MRS. NA:
 `I BROUGHT THE APARTMENT GUIDE.`
 
 SMALL BLACK GUTTER.
 
 V10 — THRESHOLD / WALK
-Nari steps aside; Mrs. Na enters. Show physical entry→kitchen route. No dialogue.
+Nari steps aside; Mrs. Na enters. Show physical entry→kitchen route. Preserve the same hand/prop occupancy above. No dialogue.
 If doorway and walking continuation share a row, use a diagonal black divider.
 
 SMALL BLACK GUTTER.
 
 V11 — BINDER / KEY AT COUNTER
-Mrs. Na sets the SAME canonical binder flat on the counter.
+Mrs. Na sets the SAME canonical binder flat on the counter and releases it.
 SFX at binder:
 `THUMP`
-She detaches the SAME brass backup key from her key ring and places it separately on the counter beside the binder.
+With that hand now free, she visibly detaches the SAME brass backup key from the ordinary ring held in her other hand, then places the detached key separately on the counter beside the binder.
 SFX at brass key:
 `CLINK`
 Printed binder title:
@@ -173,15 +196,18 @@ Strip 003 begins immediately at the same counter. Preserve body positions, binde
 AUTOMATIC REJECT IF
 - any V/P/strip/beat/panel/scene production label appears
 - attached reference identity/geometry/object design changes
+- permanent drift from previous strip is propagated over canonical refs
 - Mrs. Na teleports to kitchen
-- duplicated binder/key/handbag appears
+- handbag/binder/key ring/key require impossible extra hands or float without support
+- duplicated binder/key/handbag/ring appears
 - key appears both on ring and counter after detachment
-- binder rests on counter before visible placement
+- binder rests on counter before visible placement/release
+- key detachment occurs before binder frees the necessary hand
 - binder cover/title/body drifts from canonical
 - key shape/material drifts from canonical
 - brass key is already in entry tray in this strip
 - canonical Unit 2407 is mirrored
-- narration uses an inappropriate generic repeated box instead of a time-transition treatment
+- narration uses an inappropriate generic repeated box or top-left technical-tag treatment
 - wrong dialogue ownership
 - separate slices have no black gutter / side-by-side shots lack slanted black divider
 - giant purposeless bottom space appears
