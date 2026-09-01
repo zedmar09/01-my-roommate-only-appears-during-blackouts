@@ -37,7 +37,7 @@ Every recurring human character with a canonical prompt must follow `Character-R
 
 The canonical reference must show full-body turnaround views, face/hair angles, multiple emotions, and signature detail/prop references. Character cards are reusable across chapters and are never chapter-specific.
 
-Existing older single-view PNGs are provisional until regenerated against the new card prompts. Nari's old short-hair PNG is obsolete because her canonical design has changed to long dark-plum hair.
+Image generation may produce a PNG first as a local intermediate, but the active repository visual authority is the approved `.webp` stored under `Character-References/`. Production strips must attach the exact WebP file. Nari's retired short-hair design must never be used as authority; her current design uses long dark-plum hair.
 
 ## Core Cast
 
@@ -103,13 +103,13 @@ Existing older single-view PNGs are provisional until regenerated against the ne
 ### Im Seungjae
 
 - Role: Game studio producer who flirts with Nari and becomes a target of Hyun-woo's petty device sabotage.
-- Age: 33.
+- Age: 30 — the same age as Nari.
 - Occupation: Associate producer.
 - Personality: Charming, ambitious, not as smooth as he thinks, genuinely impressed by Nari's talent, but too used to turning every conversation into networking.
-- Visual Design: Korean man with neatly styled medium-brown hair, fashionable office-casual outfits, one smartwatch, one pair wireless earbuds, one pristine foldable phone, and an ordinary umbrella in rainy commute scenes.
+- Visual Design: Korean man with a youthful exactly-30 adult presentation, neatly styled medium-brown hair, fashionable contemporary office-casual outfits, one smartwatch, one pair wireless earbuds, one pristine foldable phone, and an ordinary umbrella in rainy commute scenes. He should read as Nari's same-generation coworker, never an older executive, paternal figure, or middle-aged professional.
 - Strongest Identifiers: Smartwatch, foldable phone, practiced smile, battery anxiety.
 - Story Function: Provides romantic comedy pressure and exposes Hyun-woo's jealousy through drained devices, harmless elevator call-button glitches that never trap anyone, and hostile autocorrect.
-- Consistency Notes: Do not make Seungjae a major villain unless the plot later earns it. He is mostly a social irritant and a useful contrast to Hyun-woo.
+- Consistency Notes: Keep him exactly 30 and visually in Nari's age group. Do not make Seungjae a major villain unless the plot later earns it. He is mostly a social irritant and a useful contrast to Hyun-woo.
 
 ### Yang Chulho
 
