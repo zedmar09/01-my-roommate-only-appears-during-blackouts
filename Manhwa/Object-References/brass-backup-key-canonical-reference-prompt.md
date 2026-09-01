@@ -6,18 +6,18 @@ This is a recurring physical story object and must remain the exact same key acr
 
 ## Reference Synthesis Rule
 
-Use the strongest already-approved manhwa appearances of the key as visual evidence. Preserve the accepted key shape/proportions where readable. Do not create a new decorative key just because the early artwork is small.
+Use the strongest already-approved manhwa appearances of the key as visual evidence. Preserve the accepted key shape/proportions where readable. Do not create a new decorative key just because early artwork may show it small.
 
 ## Identity Lock
 
-Show the SAME single key in several consistent views:
+Show the SAME single key in several consistent object-only views/states:
 - front/flat view
 - reverse/flat view
 - three-quarter close-up
-- attached to Mrs. Na's ordinary key ring before detachment
-- detached alone on the kitchen counter
-- held safely in Nari's hand
-- resting in the established entry tray
+- attached to an ordinary small key ring with several OTHER visibly nonidentical household keys, with no person present
+- detached alone on a neutral counter surface
+- resting in the established Unit 2407 entry tray context
+- scale/silhouette inset using ordinary nearby nonhuman reference objects if needed
 
 Lock:
 - exactly ONE brass-colored physical backup key for Unit 2407
@@ -30,21 +30,19 @@ Lock:
 - no readable branding
 - no apartment-number tag unless already clearly established by approved artwork
 
-Mrs. Na may have OTHER keys on her own key ring, but the Unit 2407 brass backup key itself is one specific key and is detached from that ring in the story.
+The Unit 2407 brass backup key itself is one specific key. Other keys may appear only in the ring-state inset and must be clearly different objects, never duplicates of the canonical backup key.
 
-## Story-State Examples
+## Story-State Coordination
 
-A. ON MRS. NA'S KEY RING
-The canonical brass backup key is visibly one key among an ordinary small ring. Do not duplicate the same brass key twice on the ring.
+The object sheet defines the key's identity, not the characters who handle it.
 
-B. DETACHED ON KITCHEN COUNTER
-The same key sits separately beside the Unit 2407 electrical-operation guide.
+Chapter/strip continuity controls the route:
+- begins on Mrs. Na's ordinary key ring
+- detached to the kitchen counter beside the electrical-operation guide
+- carried by Nari when scripted
+- stored in the established entry tray
 
-C. IN NARI'S HAND
-Same key proportions/blade orientation; no morphing into a keycard or smart fob.
-
-D. ENTRY TRAY
-Same key rests in the established Unit 2407 entry tray. It must remain recognizable as the same object even when small in frame.
+Do NOT depict Mrs. Na, Nari, or any other character on this object sheet. Their approved character WebPs are attached separately in story-strip generation when visible.
 
 ## Rendering
 
@@ -55,10 +53,14 @@ Polished matte 2D manhwa prop reference. Clear silhouette and notch identity. No
 Reject if:
 - two identical Unit 2407 backup keys appear
 - key becomes electronic/card/fob
-- key shape/notch pattern changes between states
+- key shape/notch pattern changes between views/states
 - key receives a large decorative tag not established by story
 - key is chrome/silver instead of brass
 - key becomes oversized or antique/fantasy styled
+- a named/story character appears on the object sheet
 
-Save approved result as:
+Save approved local generation result as:
 `brass-backup-key-canonical.png`
+
+After visual approval, manually convert and store/use this repository authority:
+`brass-backup-key-canonical-reference.webp`
