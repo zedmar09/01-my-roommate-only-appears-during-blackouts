@@ -23,9 +23,9 @@ Do NOT attach Hyun-woo; voice-only.
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 029 controls temporary chair/food/cabinet/table state and canon-compatible TV-outlet micro-detail only; correct permanent room/object/character drift to attached canon rather than propagating it.
-Preserve exact Nari identity, untouched chair, pushed Hyun-woo chair, desk/tray, notebook/pen identity, exact open speaker cabinet stack, phone/binder/key states, two-chopstick-pair/packet/table topology, canonical TV body/cord, canon-subordinate Chapter 1 wall-socket continuity, and powered geometry.
-Never render V138–V142, P18, Strip 030, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+Attached canonical WebPs are permanent authority. APPROVED Strip 029 controls temporary chair/food/cabinet/table/worn state and canon-compatible TV-outlet micro-detail only; correct permanent room/object/character drift to attached canon rather than propagating it.
+Preserve exact Nari identity, SAME SCRUNCHIE WRIST, SAME headphones around neck, untouched chair, pushed Hyun-woo chair, desk/tray, notebook/pen identity, exact open speaker cabinet stack, phone/binder/key states, two-chopstick-pair/packet/table topology, canonical TV body/cord, canon-subordinate Chapter 1 wall-socket continuity, and powered geometry.
+Never render V138–V142, P18, Strip 030, NOTEBOOK ZONE, SCRUNCHIE WRIST, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
@@ -33,8 +33,9 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - Nari = seated in SAME untouched burgundy chair
+- SCRUNCHIE WRIST unchanged; SAME headphones around neck
 - SAME dining pot/broth/noodles on same trivet; folded cloth same hot-handle side
-- SAME seasoning wrapper + SAME empty spicy-seafood outer packet together on table where Strip 029 visibly placed them
+- SAME seasoning wrapper + SAME empty spicy-seafood outer packet together on table where Strip 029 placed them
 - PAIR A used Hyun-woo chopsticks = SAME fixed rest point against/in pot
 - PAIR B clean Nari chopsticks = SAME fixed table spot on Nari's side of pot, already released there after bite
 - Hyun-woo chair = pushed back/angled
@@ -43,7 +44,7 @@ START:
 - phone + binder = kitchen counter; key = entry tray
 - sheathed practical knife + failed flashlight/radio = desk tray
 - SAME A5 grocery notebook + ONE pen = work desk
-- SAME canonical TV = inactive and still unplugged FROM SAME Chapter 1 wall-outlet micro-detail established/confirmed in Strip 006; appliance-side cord attached, loose plug outside empty socket; that outlet detail remains subordinate to attached canonical geometry
+- SAME canonical TV = inactive and still unplugged FROM SAME canon-compatible Chapter 1 wall-outlet micro-detail; appliance-side cord attached, loose plug outside empty socket; outlet detail remains subordinate to attached canonical geometry
 
 ALLOWED CHANGES:
 - V138 question toward open cabinet; Hyun-woo gives absolutely NO answer to first question
@@ -52,14 +53,42 @@ ALLOWED CHANGES:
 - V140 Nari physically rises from SAME untouched chair and walks table→desk, leaving ALL food/packet/wrapper/both chopstick pairs untouched
 - V141 hand contacts/picks up SAME A5 notebook + exactly ONE pen; knife/flashlight/radio stay tray
 - V142 physically walks desk→table and sits back in SAME untouched chair carrying notebook + pen only
+- after sitting, Nari establishes one clear collision-free table placement on her side called production-only `NOTEBOOK ZONE`
+- she physically places SAME CLOSED notebook flat in NOTEBOOK ZONE, releases it, then places/releases SAME pen immediately beside the notebook
+- no writing/opening occurs yet; that begins Strip 031
+- SCRUNCHIE WRIST/headphones remain unchanged
 
 END:
-- Nari = same untouched chair with SAME notebook + ONE pen at table
+- Nari = same untouched chair
+- SCRUNCHIE WRIST unchanged; SAME headphones around neck
+- SAME CLOSED notebook = flat in NOTEBOOK ZONE
+- SAME pen = released immediately beside notebook in NOTEBOOK ZONE, not in hand
 - Hyun-woo chair remains pushed back
-- pot/packet/wrapper/PAIR A/PAIR B topology unchanged from start
+- pot/packet/wrapper/PAIR A/PAIR B topology unchanged
 - desk tools/knife remain desk
 - phone/binder/key/open cabinet/exact speaker-stack states unchanged
 - TV remains canonical and wall-unplugged/inactive with same canon-compatible Chapter 1 outlet micro-detail unless attached canon requires correction
+
+==================================================
+NOTEBOOK ZONE — TEMPORARY TABLE TOPOLOGY LOCK
+==================================================
+
+The dining table is already occupied by story evidence. V142 must establish one physically plausible clear area on Nari's side called `NOTEBOOK ZONE`.
+
+NOTEBOOK ZONE must be:
+- on the actual tabletop within Nari's seated reach
+- clear of pot/trivet
+- clear of folded cloth/hot handle
+- clear of seasoning wrapper + outer packet
+- clear of Pair A used chopsticks
+- clear of Pair B clean chopsticks
+- clear of extinguished candle/holder
+- not hanging over table edge
+- not overlapping Hyun-woo's pushed-chair side
+
+Place SAME closed A5 notebook flat there and SAME pen beside it. These positions become temporary continuity authority for Strips 031–032.
+Do NOT move existing evidence to make room. Choose a genuinely clear canonical tabletop area.
+`NOTEBOOK ZONE` is production terminology only and must never render.
 
 ==================================================
 SILENCE / SOURCE OWNERSHIP — ABSOLUTE
@@ -86,6 +115,7 @@ Throughout V138–V142 preserve:
 - extinguished candle/holder same location if visible
 - pushed Hyun-woo chair same position
 
+At V142, NOTEBOOK ZONE is added only in genuinely clear tabletop space; none of the existing objects move.
 Reverse shots do not swap physical sides/order. Nari does not pick up either chopstick pair during desk trip.
 
 ==================================================
@@ -117,11 +147,13 @@ V140–V142:
 9. returns SAME untouched chair
 10. physically aligns body and sits
 11. notebook + pen arrive with her
+12. notebook is physically set flat/released in NOTEBOOK ZONE
+13. pen is physically set/released beside it
 
 No teleporting. Hyun-woo's pushed chair never becomes Nari's chair.
 
 ==================================================
-MANDATORY ACTION-PROOF FRAMING — ABSOLUTE
+MANDATORY ACTION-PROOF / SAME-OBJECT INSERT — ABSOLUTE
 ==================================================
 
 At minimum visually prove:
@@ -131,24 +163,44 @@ At minimum visually prove:
 - desk tools remaining behind
 - return route direction
 - body physically sitting into SAME untouched chair
+- notebook contact/release in NOTEBOOK ZONE
+- pen contact/release beside notebook
 
-Do not summarize only before/after.
+Any notebook/pen close-up is the SAME physical notebook/pen, not duplicate items.
+Do not show a notebook already on table in one same-moment inset while another identical notebook is still in Nari's hands unless reading order advances through placement.
+
+==================================================
+NARI WORN-STATE CONTINUITY — ABSOLUTE
+==================================================
+
+SCRUNCHIE WRIST remains same physical wrist and SAME headphones remain around neck through stand/walk/sit/notebook placement. No silent transfer/removal/duplication.
 
 ==================================================
 TV / WALL-OUTLET CONTINUITY — CANON-SUBORDINATE
 ==================================================
 
 TV object canonical is attached because its wall-unplugged state is direct continuity anchor for 031–032.
-
 Preserve:
 - same canonical TV body/stand/cord
-- same canon-compatible Chapter 1 wall-outlet micro-detail established/confirmed in Strip 006 when canonical references do not visibly resolve the faceplate itself
+- same canon-compatible Chapter 1 wall-outlet micro-detail established/confirmed Strip 006 when canonical references do not resolve the faceplate itself
 - TV-side cord remains attached
 - same loose wall plug remains outside same empty socket
 - no silent re-plug
 
-The outlet micro-detail is NOT new permanent canon. If any attached environment/object WebP clearly contradicts it, attached canon wins and the shot must be corrected/recomposed.
-If off-camera, state persists. If visible, match canonical geometry first and then the canon-compatible Chapter 1 continuity detail.
+Outlet micro-detail is NOT permanent canon. If attached environment/object WebP contradicts it, canon wins and shot must be corrected/recomposed.
+If off-camera, state persists.
+
+==================================================
+TEXT / BALLOON / EVIDENCE SAFETY — ABSOLUTE
+==================================================
+
+Dialogue balloons and silence pacing must not cover:
+- chair stand/sit mechanics
+- notebook/pen pickup or placement
+- NOTEBOOK ZONE/table evidence separation
+- open cabinet source when Hyun-woo speaks
+
+Do not fill silence with decorative caption/ellipsis that hides physical scene state.
 
 ==================================================
 TEXT / NARRATION DESIGN — ABSOLUTE
@@ -190,37 +242,40 @@ Physically stand from SAME untouched chair and walk canonical route to desk. Lea
 SMALL BLACK GUTTER.
 
 V141 — NOTEBOOK PICKUP
-At desk, hand contacts/picks up SAME A5 notebook + ONE pen only. Sheathed knife/flashlight/radio stay tray.
+At desk, hand contacts/picks up SAME CLOSED A5 notebook + ONE pen only. Sheathed knife/flashlight/radio stay tray.
 
 SMALL BLACK GUTTER.
 
-V142 — DESK → TABLE
+V142 — DESK → TABLE / NOTEBOOK ZONE PLACEMENT
 Nari physically returns and sits in SAME untouched dining chair carrying notebook + pen only.
+Then place/release SAME CLOSED notebook flat in clear NOTEBOOK ZONE and place/release SAME pen beside it. No writing yet.
 
 ==================================================
 POWER / NO DEAD BOTTOM
 ==================================================
 
 Normal powered lighting, no second outage/speaker glow.
-End with Nari back at table ready to write; no giant blank tail.
+End with Nari back at table with clearly established NOTEBOOK ZONE ready for Strip 031; no giant blank tail.
 
 SEAM OUT — G
-Strip 031 starts exact same chair/notebook/pen/table topology, both chopstick pairs, packet/wrapper, open speaker cabinet state, and canonical TV wall-unplugged state with canon-subordinate outlet continuity.
+Strip 031 starts exact same chair, CLOSED notebook + pen in NOTEBOOK ZONE, table topology, both chopstick pairs, packet/wrapper, open speaker cabinet state, SCRUNCHIE WRIST/headphones, and canonical TV wall-unplugged state with canon-subordinate outlet continuity.
 
 AUTOMATIC REJECT IF
-- any production label appears
+- any production/NOTEBOOK ZONE/SCRUNCHIE WRIST label appears
 - attached refs/geometry drift
 - permanent drift/derived outlet detail propagated over canon
 - Hyun-woo answers first question in any form
 - silence gets ellipsis/SFX/narration
-- table food/packet/wrapper/PAIR A/PAIR B moves/disappears during desk trip
-- used/clean chopstick pairs swap/merge/duplicate
-- notebook/pen teleport/duplicate or pickup contact hidden
+- table evidence moves/disappears to create notebook space
+- notebook/pen overlap pot/chopsticks/packet/wrapper/candle or hang off table
+- notebook/pen teleport/duplicate or pickup/placement contact hidden
+- same-object inset creates second notebook/pen
 - Nari stands/sits without chair mechanics or returns pushed chair
 - Nari carries knife/tools to table
 - open cabinet/lid/towels/speaker stack resets
-- TV outlet micro-detail treated as authority over attached canon
-- TV body/cord redesigns or silently reconnects
+- SCRUNCHIE WRIST/headphones change
+- TV outlet micro-detail treated as authority over attached canon or TV silently reconnects
+- text hides route/notebook/table evidence
 - black separators missing/oversized
 ```
 
