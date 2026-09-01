@@ -19,10 +19,11 @@ ATTACH — REQUIRED
 - this Strip 004 prompt
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached WebPs are binding. Preserve exact character identities, apartment geometry, hallway lamp, entry tray, binder body/title, brass-key design, speaker position, and furniture/appliance placement.
+Attached canonical WebPs are permanent authority. APPROVED Strip 003 controls temporary counter/conversation state only; correct any permanent drift to attached canon rather than propagating it.
+Preserve exact character identities, apartment geometry, hallway lamp, entry tray, binder body/title, brass-key design, speaker position, and furniture/appliance placement.
 Never render V16–V20, P2/P3, Strip 004, beat/panel/scene labels, or any production metadata anywhere, especially top-left.
 
 ==================================================
@@ -39,22 +40,42 @@ ALLOWED CHANGES:
 - dialogue/hesitation/watch glance
 - both women visibly walk counter → entry
 - binder remains counter
-- Nari visibly picks up SAME key from counter, carries it to entry, places it into SAME tray once
+- Nari visibly reaches SAME key on counter, grips/picks it up, carries it to entry, and places it into SAME tray once
+- old counter key location becomes empty after pickup
 - Mrs. Na exits once; door closes
 - legal `ONE WEEK LATER` cut permits changed Nari pose/blanket and automation state, but NOT changed apartment geometry or permanent prop identities
 
 END:
 - binder = kitchen counter
 - key = entry tray
+- old counter key location = empty
 - speaker = canonical kitchen counter, plugged in
 - front door closed, Mrs. Na outside/gone
 - powered apartment, one-week-later automation baseline
 
 ==================================================
+KEY TRANSFER ACTION-PROOF — ABSOLUTE
+==================================================
+
+The key transfer must be visually proven:
+1. SAME brass key begins on kitchen counter beside binder
+2. Nari's hand reaches the real counter location
+3. fingers contact/grip SAME key
+4. key visibly leaves counter; counter location is now empty
+5. SAME key remains in her hand during counter→entry route
+6. Nari reaches the actual entry tray
+7. fingers lower SAME key into tray
+8. key contacts/rests in tray
+9. fingers release
+10. `CLINK` occurs at key/tray contact
+11. no duplicate remains on counter or in hand
+
+Do not crop both pickup and placement contacts away and jump from “key on counter” to “key in tray.” If needed, use immediate detail slices.
+
+==================================================
 MICRO-CONTINUITY / ROUTE REALISM — ABSOLUTE
 ==================================================
 
-Key must follow counter → Nari hand → entry tray. Do not show key simultaneously on counter and in hand/tray after pickup. Nari must be close enough to reach it before leaving the counter.
 Both women must physically traverse the canonical counter→entry path without crossing through furniture/walls. Mrs. Na cannot exit before reaching the front door.
 Binder never follows them; if occluded it remains on counter.
 After time cut, permanent architecture/furniture/appliance bodies remain exactly the same; only temporary clutter/pose/automation may change believably.
@@ -63,8 +84,8 @@ After time cut, permanent architecture/furniture/appliance bodies remain exactly
 NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-Do not use one narration design for all text:
-- `ONE WEEK LATER` = clear compact time-transition caption, visually distinct from ordinary observation.
+Do not use one narration design or one default top-left placement for all text:
+- `ONE WEEK LATER` = clear compact time-transition caption, visually distinct from ordinary observation and not styled as a production tag.
 - curtain/thermostat narration = lighter everyday observational captions with dry-comedy rhythm.
 - V16–V18 are spoken tension; do not invent narration boxes there.
 Keep all treatments within one coherent publication typography family and never mimic device UI or technical labels.
@@ -100,8 +121,8 @@ SMALL BLACK GUTTER.
 V18 — COUNTER → ENTRY / DEPARTURE
 Show both women physically walking from kitchen counter through canonical route toward front door.
 The canonical electrical-operation guide remains on kitchen counter.
-Nari takes the SAME canonical brass backup key from the counter on the way to entry and places it into the established entry tray exactly once.
-SFX at tray:
+Execute the exact key pickup→carry→tray placement proof above.
+SFX at tray contact:
 `CLINK`
 At doorway:
 NARI:
@@ -113,12 +134,6 @@ MRS. NA:
 NARI:
 `THAT'S NOT VERY COMFORTING.`
 Mrs. Na exits; Nari remains inside. No re-entry.
-
-KEY ROUTE — ABSOLUTE:
-- same one brass key from Strip 002/003
-- counter → Nari's hand → entry tray
-- no duplicate key remains on counter
-- no new smart fob/keycard appears
 
 ==================================================
 TIME CUT — ONE WEEK LATER
@@ -149,6 +164,7 @@ REAL-SCENARIO PROP STATE AT END
 
 - electrical-operation guide = kitchen counter, same canonical body/title
 - brass backup key = entry tray, same canonical key
+- old counter key location = empty
 - speaker = canonical kitchen counter, still ordinary and plugged in
 - front door = closed after Mrs. Na leaves
 - no supernatural manifestation yet
@@ -162,13 +178,15 @@ Strip 005 continues the one-week automation montage, then later that night.
 AUTOMATIC REJECT IF
 - any V/P/strip/beat/panel/scene production label appears
 - attached references are redesigned/mirrored
+- permanent drift from previous strip is propagated over canonical refs
+- key pickup or tray-placement contact is hidden/cropped so transfer is unproven
 - key teleports to tray without pickup/carry/placement
-- duplicate key remains at counter after Nari moves it
+- duplicate key remains at counter/hand after tray placement
 - Mrs. Na carries binder away
 - manual/key appearance drifts from canonical
 - Mrs. Na remains inside after V18
 - apartment geometry changes after time cut
-- one generic narration box is forced onto time-transition and observational captions
+- one generic narration box or repetitive top-left tag is forced onto time-transition and observational captions
 - supernatural screen effect appears early
 - black beat separators are missing / oversized
 - giant dead bottom appears
