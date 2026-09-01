@@ -14,6 +14,7 @@ ATTACH — REQUIRED
 - `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-canonical.png`
 - `Manhwa/Object-References/tv-canonical-states.png`
 - `Manhwa/Object-References/refrigerator-canonical-states.png`
+- `Manhwa/Object-References/brass-backup-key-canonical.png`
 - APPROVED Strip 006
 - this Strip 007 prompt
 
@@ -33,8 +34,15 @@ Inside Strip 007, every distinct vertical beat gets a SMALL BLACK GUTTER. When t
 KEY / MOVEMENT ROUTE — ABSOLUTE
 ==================================================
 
-The brass backup key is still in the established entry tray from Strip 004.
+The SAME canonical brass backup key is still in the established entry tray from Strip 004.
 V31 must show Nari physically moving from the TV/living zone to the entry shelf before taking it. Do not teleport the key into her hand.
+
+The key must remain the exact canonical mechanical brass key:
+- one key only
+- same bow/head and blade/notch silhouette
+- no smart fob/keycard
+- no decorative tag
+- no duplicate left in tray while Nari holds it
 
 After refrigerator inspection, V35 must show the reverse physical route back to the entry tray and the SAME key returning once.
 
@@ -51,7 +59,7 @@ VERTICAL STORY FLOW
 ==================================================
 
 V31 — MOVE TO ENTRY / QUESTION
-Nari physically backs/walks from living-TV zone to canonical entry shelf, takes SAME brass key from tray, then faces the TV across the apartment.
+Nari physically backs/walks from living-TV zone to canonical entry shelf, takes SAME canonical brass key from tray, then faces the TV across the apartment.
 NARI:
 `OKAY. WHO ARE YOU?`
 
@@ -86,7 +94,7 @@ She reaches/checks the SAME refrigerator body. No new text. No reflection/figure
 SMALL BLACK GUTTER.
 
 V35 — FRIDGE → ENTRY / KEY RETURN
-One flowing movement sequence: Nari turns away from refrigerator, walks through canonical open-plan route to entry shelf, then places SAME brass key back in SAME tray.
+One flowing movement sequence: Nari turns away from refrigerator, walks through canonical open-plan route to entry shelf, then places SAME canonical brass key back in SAME tray.
 SFX at tray:
 `CLINK`
 If two route views share one row, separate with diagonal black divider.
@@ -95,8 +103,8 @@ If two route views share one row, separate with diagonal black divider.
 PROP STATE AT END
 ==================================================
 
-- brass key = entry tray
-- binder = kitchen counter
+- brass backup key = entry tray, canonical identity unchanged
+- electrical-operation guide = kitchen counter
 - speaker = still unplugged on canonical kitchen counter; NOT hidden yet
 - TV = still physically unplugged; do not invent additional text
 - refrigerator display = dark
@@ -109,6 +117,7 @@ Strip 008 begins with Nari turning/walking back toward kitchen to hide the unplu
 
 AUTOMATIC REJECT IF
 - key teleports
+- key duplicates or changes shape/material
 - speaker is already hidden
 - TV/refrigerator effect signatures swap
 - refrigerator message persists after V33
@@ -126,5 +135,6 @@ AUTOMATIC REJECT IF
 5. Unit 2407 fridge/cabinet detail
 6. TV canonical states
 7. refrigerator canonical states
-8. APPROVED Strip 006
-9. this Strip 007 prompt
+8. brass backup key canonical
+9. APPROVED Strip 006
+10. this Strip 007 prompt
