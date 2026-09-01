@@ -42,7 +42,7 @@ START:
 - dining noodle pot/broth remains on same trivet; folded cloth same hot-handle side
 - SAME seasoning wrapper remains on table near pot
 - SAME used Hyun-woo chopsticks remain at fixed rest point against/in pot
-- SAME empty spicy-seafood OUTER packet remains on the FLOOR at exact slightly nudged spot established Strip 019; it is NOT yet on table
+- SAME empty spicy-seafood OUTER packet remains on FLOOR at exact slightly nudged spot established Strip 019; it is NOT yet on table
 - Hyun-woo chair = pushed back/angled; OTHER burgundy chair untouched
 - candle extinguished; pantry exactly five unopened packets
 
@@ -51,17 +51,17 @@ ALLOWED CHANGES:
 - V134 inserts SAME knife into SAME sheath `SHK`, leaves sheathed knife in tray, returns dining area EMPTY-HANDED
 - before V135 inspection, Nari physically bends/reaches to SAME floor packet, grips/picks up SAME empty spicy-seafood outer packet, then brings it to table
 - V135 inspects SAME picked-up outer packet + SAME seasoning wrapper + SAME pot/broth, smells broth; then places SAME outer packet on table beside seasoning wrapper; NO eating yet
-- before V136 bite, Nari physically retrieves exactly ONE CLEAN DIFFERENT chopstick pair from ordinary kitchen utensil storage; SAME used Hyun-woo pair remains at fixed pot rest point
+- before V136 bite, Nari physically retrieves exactly ONE CLEAN DIFFERENT chopstick pair from a canonical or canon-subordinate ordinary utensil-storage point within existing kitchen cabinetry; SAME used Hyun-woo pair remains at fixed pot rest point
 - Nari physically sits in OTHER untouched chair with clean pair
 - V136 uses clean pair for exactly ONE complete cautious bite
-- after swallowing, Nari physically places the SAME clean pair together at ONE fixed table spot on HER side of pot and releases them
+- after swallowing, Nari physically places SAME clean pair together at ONE fixed table spot on HER side of pot and releases them
 - V137 dialogue while seated, looking toward open speaker cabinet
 
 END:
 - sheathed practical knife = desk tray
 - Nari = seated in untouched chair
 - Hyun-woo chair = still pushed back
-- SAME empty spicy-seafood outer packet = now on table beside SAME seasoning wrapper; this relocation was visibly performed here
+- SAME empty spicy-seafood outer packet = now on table beside SAME seasoning wrapper; relocation visibly performed here
 - SAME used Hyun-woo chopsticks = fixed rest point at/in pot
 - SAME clean Nari chopsticks = placed together at fixed table spot on Nari's side of pot, separate from used pair
 - pot/broth/noodles remain with only plausible reduction from one visible bite
@@ -94,13 +94,13 @@ Required action before V135:
 7. during/after inspection she places it beside SAME small seasoning wrapper
 8. fingers release; outer packet now remains at that table spot
 
-Do not invent a second outer packet. Do not confuse it with small seasoning wrapper.
+Do not invent second outer packet. Do not confuse it with small seasoning wrapper.
 
 ==================================================
-CLEAN CHOPSTICK SOURCE / TWO-PAIR LOCK — ABSOLUTE
+CLEAN CHOPSTICK SOURCE / DERIVED-MICRO-DETAIL RULE — ABSOLUTE
 ==================================================
 
-There are now TWO physically distinct chopstick pairs:
+There are TWO physically distinct chopstick pairs:
 
 PAIR A — HYUN-WOO USED PAIR:
 - SAME pair from Strips 017–018
@@ -109,11 +109,16 @@ PAIR A — HYUN-WOO USED PAIR:
 
 PAIR B — NARI CLEAN PAIR:
 - exactly ONE clean pair
-- begins in ordinary kitchen utensil storage (drawer/caddy consistent with canonical kitchen; no new prominent labeled prop)
-- before sitting/eating, Nari physically reaches utensil storage, picks up SAME clean pair, and carries it to table
+- source must be an ordinary utensil-storage point that respects attached kitchen references
+- FIRST preference: use an already-visible canonical drawer/caddy/storage location from attached environment WebPs
+- if no utensil-storage detail is visible, derive the smallest necessary temporary Chapter 1 storage point within EXISTING canonical kitchen cabinetry only
+- do NOT add a new cabinet, cart, shelf, island, appliance, wall, or furniture item
+- do NOT use or alter the special lower speaker-storage cabinet near refrigerator
+- do NOT treat this utensil-storage micro-detail as new permanent canon; it remains subordinate to attached environment WebPs
+- before sitting/eating, Nari physically opens/reaches that storage point as needed, picks up SAME clean Pair B, closes/leaves it in a plausible state, and carries Pair B to table
 - Pair B never replaces/duplicates Pair A
 
-At least one proof composition must show Pair A still at pot while Pair B is in Nari's hand or at her side, making the two-pair distinction readable.
+At least one proof composition must show Pair A still at pot while Pair B is in Nari's hand or at her side, making two-pair distinction readable.
 
 After V136 swallowing, Nari places Pair B together at ONE fixed table spot on her side of pot and releases them. Pair B remains there through Strips 030–032 unless visibly moved; no later script moves it.
 
@@ -133,7 +138,7 @@ V136 exact bite chain using Pair B:
 2. grasps small readable noodle/food portion
 3. portion lifts pot → Nari mouth
 4. exactly ONE cautious bite
-5. visible strand/portion actually bitten/swallowed or lowered; it may not vanish between slices
+5. visible strand/portion actually bitten/swallowed or lowered; may not vanish between slices
 6. pot remains with small plausible reduction only
 7. Pair B remains in Nari hand until after swallow
 8. Pair B then physically placed/released together at fixed Nari-side table spot
@@ -195,7 +200,7 @@ Visibly pick up SAME empty spicy-seafood outer packet from exact floor spot. Ins
 SMALL BLACK GUTTER.
 
 V136 — CLEAN PAIR SOURCE / OTHER CHAIR / ONE BITE
-Visibly retrieve exactly ONE clean Pair B from ordinary kitchen utensil storage while Pair A remains at pot. Physically sit in OTHER untouched chair. Execute one complete cautious-bite path using Pair B. After swallow, place Pair B together at fixed Nari-side table spot.
+Visibly retrieve exactly ONE clean Pair B from canonical or canon-subordinate utensil storage within existing kitchen cabinetry while Pair A remains at pot. Physically sit in OTHER untouched chair. Execute one complete cautious-bite path using Pair B. After swallow, place Pair B together at fixed Nari-side table spot.
 
 SMALL BLACK GUTTER.
 
@@ -239,12 +244,14 @@ Strip 030 starts SAME untouched chair; packet/wrapper/pot/two-pair chopstick top
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
-- permanent drift previous strip propagated over canon
+- permanent drift or derived utensil detail propagated over canon
 - knife teleports/reaches dining table/is still in hand after sheath
 - outer packet appears on table before visible floor pickup or duplicate outer packet appears
 - old floor packet remains after pickup
 - clean Pair B appears from nowhere without utensil-storage pickup
-- Pair A/Pair B are confused, merged, swapped, duplicated
+- new cabinet/shelf/furniture invented to source Pair B
+- special speaker-storage cabinet is repurposed as utensil storage
+- Pair A/Pair B confused, merged, swapped, duplicated
 - Pair B not placed at fixed table spot after bite
 - Nari uses pushed chair or sits without body mechanics
 - food eaten before inspection
