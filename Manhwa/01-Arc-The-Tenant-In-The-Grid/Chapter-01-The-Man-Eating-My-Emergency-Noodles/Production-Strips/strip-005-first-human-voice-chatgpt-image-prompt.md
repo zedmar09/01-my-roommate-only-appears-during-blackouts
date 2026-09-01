@@ -18,10 +18,11 @@ ATTACH — REQUIRED
 Do NOT attach Hyun-woo canonical. The natural male voice is not visually identified here.
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached WebPs are binding. Do not redesign Nari, speaker, apartment, kitchen geometry, dining furniture, or appliance placement.
+Attached WebPs are binding permanent authority. APPROVED Strip 004 controls temporary carryover only; if it contains permanent drift, correct that drift to the attached canon instead of propagating it.
+Do not redesign Nari, speaker, apartment, kitchen geometry, dining furniture, or appliance placement.
 Never render V21–V25, P3, Strip 005, beat/panel/scene/shot labels, or any technical label anywhere, especially top-left.
 
 ==================================================
@@ -49,32 +50,48 @@ END:
 - no Hyun-woo visual identity revealed
 
 ==================================================
-FOOD / CHOPSTICK MICRO-CONTINUITY — ABSOLUTE
+NO UNSCRIPTED FOOD / CHOPSTICK MICRO-CONTINUITY — ABSOLUTE
 ==================================================
 
-The chopsticks are a continuity object, not a decorative prop.
-- V22: exactly one pair already in Nari's hand
-- V23: same pair remains in same hand unless a visible hand adjustment occurs
-- V24: fingers open/lose grip → same pair falls → `CLATTER` at one floor spot
+The chopsticks are a continuity object. Visible food is NOT required by the script and must NOT be invented in this strip.
+
+Do NOT show:
+- noodles
+- ramen/noodle bowl
+- noodle strands on chopsticks
+- food packet/wrapper
+- plated snack
+- cup/bowl whose contents create a new continuity state
+
+This prohibition prevents an unscripted food object from appearing in one vertical slice and vanishing in the next.
+
+Chopstick chain:
+- V22: exactly one ordinary pair is already in Nari's hand
+- V23: same pair remains in that same hand unless a visible hand adjustment occurs
+- V24: fingers visibly open/lose grip → same pair falls → `CLATTER` at one floor spot
 - V25: same pair is still physically on that floor spot
 - Strip 006 V26 must inherit that same floor state until the later explicit time cut
 
-If any generic snack, bowl, plate, cup, or food is shown in V22/V23, it immediately becomes a continuity object and must remain logically present with unchanged amount/location through adjacent slices unless Nari visibly eats, drinks, places, spills, or moves it. A camera cut does NOT erase food. Do not show emergency-noodle packets or establish Chapter 1's later six-packet count here.
-
-Do not create the common error: food/noodles visible in one vertical slice and simply gone in the next. If a bite is shown, show the physical bite path; otherwise keep the food state unchanged.
+No second chopstick pair exists in this sequence.
 
 ==================================================
-HAND / BODY / ENVIRONMENT REALITY — ABSOLUTE
+MANDATORY ACTION-PROOF / HAND REALITY — ABSOLUTE
 ==================================================
 
-Track Nari's hands: the hand holding chopsticks cannot simultaneously hold another object. Her reaction to flicker must physically permit the chopsticks to fall from that hand. Feet/body remain supported and positioned within canonical kitchen/open-plan circulation.
-Nari's V25 eyeline must point to the actual attached-reference speaker location, not a relocated speaker.
+The chopstick drop cannot be inferred only from `CLATTER`.
+The V24 action slice must show enough of Nari's hand/fingers + SAME chopstick pair + fall direction to prove that the pair physically left her hand before the floor result.
+
+Track Nari's hand occupancy: the hand holding chopsticks cannot simultaneously hold another object. Her reaction to the flicker must physically permit the chopsticks to leave that hand.
+
+Feet/body remain supported and positioned within canonical kitchen/open-plan circulation. Nari's V25 eyeline must point to the actual attached-reference speaker location, not a relocated speaker.
 
 ==================================================
 NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-`LATER THAT NIGHT` is a real time-cut caption: use a compact time-transition treatment distinct from ordinary Strip 004 automation observation. V21 carries ordinary comedic automation energy; V24→V25 becomes suspense and should rely more on spacing/reaction than decorative narration.
+`LATER THAT NIGHT` is a real time-cut caption: use a compact time-transition treatment distinct from ordinary Strip 004 automation observation. Do not default it to a repetitive small top-left tag; place it according to composition while keeping it clearly reader-facing narration rather than production metadata.
+
+V21 carries ordinary comedic automation energy; V24→V25 becomes suspense and should rely more on spacing/reaction than decorative narration.
 Do not force one generic narration box across these different situations. Do not add narration not present in the script.
 
 ==================================================
@@ -91,10 +108,10 @@ At start, the canonical speaker is still on the kitchen counter, plugged in, scr
 The brass key remains in entry tray; binder remains kitchen counter unless naturally visible in background.
 No one has hidden the speaker yet.
 
-For the later-night kitchen sequence, establish exactly ONE ordinary pair of chopsticks in Nari's hand at V22 before anything drops. They are the SAME pair through V23 and V24.
-- Nari is already holding/using that one pair for a simple late-night kitchen snack; any food stays background-only and is not a new continuity focus
-- do not spawn a second pair on the counter, floor, or in another hand
+For the later-night kitchen sequence, establish exactly ONE ordinary pair of chopsticks in Nari's hand at V22 before anything drops.
+- do not spawn a second pair on counter, floor, or in another hand
 - do not make the chopsticks appear for the first time only at the fall
+- do not introduce visible noodles/food simply to explain why she has chopsticks
 - after V24, the SAME dropped pair remains on the floor through V25 and into Strip 006 V26 until the later time cut
 
 ==================================================
@@ -114,14 +131,14 @@ COMPACT BLACK TIME TRANSITION.
 V22 — LATER THAT NIGHT / KITCHEN
 NARRATION:
 `LATER THAT NIGHT`
-Nari is physically in kitchen/open-plan area near canonical speaker, already holding the SAME single pair of ordinary chopsticks established above.
+Nari is physically in kitchen/open-plan area near canonical speaker, already holding the SAME single pair of ordinary chopsticks established above. No visible food/noodles/bowl/packet.
 NARI:
 `TURN ON THE KITCHEN LIGHT.`
 
 SMALL BLACK GUTTER.
 
 V23 — SYNTHETIC ASSISTANT FAILURE
-Same speaker, ordinary assistant audio. SAME chopsticks still in Nari's hand.
+Same speaker, ordinary assistant audio. SAME chopsticks still in Nari's hand. No visible food/noodles introduced.
 SPEAKER, synthetic audio:
 `SORRY. I DIDN'T CATCH THAT.`
 NARI:
@@ -133,10 +150,10 @@ V24 — FLICKER / CHOPSTICKS DROP
 One restrained apartment-light flicker.
 SFX at electrical light:
 `FZZT`
-The SAME single pair of chopsticks visibly leaves Nari's hand and falls to ONE floor spot.
+Show the SAME single pair physically leaving Nari's fingers and traveling toward ONE floor spot before the result.
 SFX at floor:
 `CLATTER`
-Do not duplicate chopsticks; show a believable hand→fall→floor route.
+Do not duplicate chopsticks.
 
 Use a longer BLACK suspense gap than ordinary gutters, but it must still be a deliberate pause, not unused canvas.
 
@@ -163,15 +180,17 @@ Strip 006 immediately continues Nari's reaction and speaker unplug before the la
 AUTOMATIC REJECT IF
 - any V/P/strip/beat/panel/scene production label appears
 - attached character/environment/speaker references are redesigned
+- permanent drift from previous strip is propagated instead of corrected to canonical WebPs
 - Hyun-woo body/silhouette appears
 - speaker redesigns/gets a screen or moves from canonical counter
 - voice text printed on body
+- any visible noodles/food/bowl/packet is invented in V22–V25
 - chopsticks appear only at the instant of dropping
+- chopstick release/contact mechanism is cropped so the hand→fall is not proven
 - chopsticks duplicate/teleport/disappear before Strip 006 V26
-- food/noodle/snack visible in one adjacent slice vanishes in the next without visible eating/placement/spill/cut
 - hand occupancy becomes impossible
 - hostile styling used for natural male voice
-- narration uses one generic design rather than time-cut/suspense-appropriate treatment
+- narration uses one generic design or repetitive top-left tag rather than scenario-appropriate time/suspense treatment
 - black slice separators missing
 - giant dead bottom appears
 ```
