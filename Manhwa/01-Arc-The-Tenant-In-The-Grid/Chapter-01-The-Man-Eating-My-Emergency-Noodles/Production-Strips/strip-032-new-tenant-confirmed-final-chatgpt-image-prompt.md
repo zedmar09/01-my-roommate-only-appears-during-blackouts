@@ -22,8 +22,8 @@ Do NOT attach Hyun-woo.
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 031 controls temporary hostile-TV/Nari/notebook/table/cabinet/seam state only; correct permanent character/TV/room drift to canon rather than propagating it.
-Preserve exact Nari identity/chair/pose, TV body/stand/cord, fixed wall socket, loose plug state, notebook/pen, full table topology, pushed chair, exact open cabinet/speaker topology, and powered room geometry.
+Attached canonical WebPs are permanent authority. APPROVED Strip 031 controls temporary hostile-TV/Nari/notebook/table/cabinet/seam state and canon-compatible outlet micro-detail only; correct permanent character/TV/room drift to canon rather than propagating it.
+Preserve exact Nari identity/chair/pose, TV body/stand/cord, canon-subordinate Chapter 1 wall-socket continuity, loose plug state, notebook/pen, full table topology, pushed chair, exact open cabinet/speaker topology, and powered room geometry.
 Never render V146, P18, Strip 032, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
@@ -33,7 +33,7 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 START:
 - SAME TV activation a fraction after Strip 031
 - Strip 031 already visually proved wall-disconnected state during activation
-- TV appliance-side cord attached; SAME cord ends SAME loose wall-end plug; SAME fixed wall-mounted socket EMPTY at SAME wall/height/orientation/faceplate relation
+- TV appliance-side cord attached; SAME cord ends SAME loose wall-end plug; SAME canon-compatible Chapter 1 wall socket detail EMPTY and subordinate to attached canonical room geometry
 - TV hostile field already active
 - Unit ordinary supplied power ON
 - Nari seated in SAME untouched dining chair, turned toward TV
@@ -57,7 +57,7 @@ ALLOWED CHANGES:
 - no other text/event/state change
 
 END:
-- TV still physically unplugged FROM WALL with TV-side cord attached, loose plug outside SAME fixed empty socket
+- TV still physically unplugged FROM WALL with TV-side cord attached, loose plug outside SAME canon-compatible Chapter 1 empty socket detail
 - exact `NEW TENANT CONFIRMED` displayed on TV
 - Unit remains powered after one flicker
 - Nari remains same chair/table
@@ -67,27 +67,29 @@ END:
 - chapter ends immediately
 
 ==================================================
-FINAL FIXED WALL-OUTLET CONTINUITY — ABSOLUTE
+FINAL WALL-OUTLET CONTINUITY — CANON-SUBORDINATE
 ==================================================
 
-Strip 032 inherits exact Strip 006/031 outlet landmark:
-- SAME story-world wall
-- SAME height/orientation/faceplate relation
+Strip 032 inherits the same Chapter 1 outlet micro-detail proved in Strip 031 only insofar as it remains compatible with the attached canonical environment/object WebPs:
+- same story-world wall within canonical TV zone
+- same height/orientation/faceplate relation used for Chapter 1 continuity
 - TV cord remains attached to TV body
 - SAME cord ends loose plug
 - plug remains OUT of socket
-- SAME socket remains EMPTY
+- socket remains EMPTY
 - no hidden second cable/power source
 
-Do NOT detach cable from TV body. Do NOT show empty TV power port as “unplugged.” Do NOT silently replug. Reverse framing may change screen position but cannot move the physical outlet.
+The outlet micro-detail is NOT new permanent canon. If attached canonical WebPs clearly contradict it, canonical wins and the affected production must be deliberately corrected/recomposed.
 
-If plug/socket zone appears, reproduce exact Strip031 loose-plug + empty-socket state. If off-frame to prioritize message, previously proven state still exists and cannot change.
+Do NOT detach cable from TV body. Do NOT show empty TV power port as “unplugged.” Do NOT silently replug. Reverse framing may change screen position but cannot move the physical outlet against canonical geometry.
+
+If plug/socket zone appears, reproduce exact Strip031 loose-plug + empty-socket state within canonical room geometry. If off-frame to prioritize final message, the previously proven state still exists and cannot change.
 
 ==================================================
 TABLE / NOTEBOOK / PEN / CHOPSTICK TOPOLOGY — ABSOLUTE
 ==================================================
 
-The final TV reveal does not clean the dining scene.
+Final TV reveal does not clean dining scene.
 Preserve:
 - notebook open at same place
 - pen horizontally across lower/open page/margin; it cannot vanish into Nari's hand
@@ -105,7 +107,7 @@ Reverse/close shots do not swap sides/order.
 OPEN SPEAKER CABINET TOPOLOGY — ABSOLUTE
 ==================================================
 
-The final TV event does not reset the open cabinet:
+Final TV event does not reset open cabinet:
 - lower cabinet remains OPEN
 - same stockpot remains inside
 - lid remains flat on shelf beside stockpot
@@ -168,9 +170,10 @@ Only minimal natural final margin.
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
-- permanent drift previous strip propagated over canon
+- permanent drift/derived outlet detail propagated over canon
 - TV cable detached from TV body rather than wall socket
-- TV physically plugged/replugged, fixed socket occupied/relocated/changed height/orientation, loose plug missing, cord redesigned
+- TV physically plugged/replugged, outlet detail moved against canonical geometry, loose plug missing, cord redesigned
+- outlet micro-detail treated as authority over attached canon
 - Strip032 contradicts Strip031 wall-unplug proof
 - hidden second power cable/source
 - device text becomes speech/narration/floating/helpful cyan
