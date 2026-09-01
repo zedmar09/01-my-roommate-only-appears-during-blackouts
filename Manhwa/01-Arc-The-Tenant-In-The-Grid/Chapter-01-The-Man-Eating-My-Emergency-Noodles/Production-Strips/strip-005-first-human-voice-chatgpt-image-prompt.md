@@ -37,9 +37,9 @@ START:
 - no Hyun-woo body/silhouette/reflection
 
 ALLOWED CHANGES:
-- V21 robot vacuum interacts with exactly one loose noncritical cable; no permanent room/object redesign
+- V21 robot vacuum interacts with exactly ONE temporary non-plot cable that is NOT the speaker cord, TV cord, refrigerator power, lamp wiring, or any recurring canonical object; no permanent room/object redesign
 - legal time cut to later that night
-- exactly ONE pair of chopsticks is established in Nari's hand before the light flicker
+- exactly ONE clean dry pair of ordinary chopsticks is established in Nari's hand because she is physically tidying/putting that pair away in the kitchen; no food is involved
 - light flickers once; SAME chopsticks visibly leave her hand and land at ONE floor location
 - speaker outputs synthetic assistant audio, then later the unknown natural male voice
 
@@ -50,10 +50,31 @@ END:
 - no Hyun-woo visual identity revealed
 
 ==================================================
-NO UNSCRIPTED FOOD / CHOPSTICK MICRO-CONTINUITY — ABSOLUTE
+ROBOT-VACUUM GAG — NO PLOT-CORD CONTAMINATION
 ==================================================
 
-The chopsticks are a continuity object. Visible food is NOT required by the script and must NOT be invented in this strip.
+V21 uses one harmless temporary loose charging/utility cable only for the automation-comedy gag.
+It must NOT be:
+- smart-speaker cord
+- TV power cord
+- refrigerator cord
+- hallway lamp wiring
+- any wall outlet/plug that becomes Chapter 1 evidence
+
+The vacuum may catch/tug that temporary cable while Nari reacts, but no canonical appliance moves, unplugs, changes outlet, or changes cord route.
+The later time cut permits this temporary gag cable to be resolved/put away without needing further story continuity.
+
+==================================================
+NO UNSCRIPTED FOOD / CHOPSTICK REAL-SCENARIO CONTINUITY — ABSOLUTE
+==================================================
+
+The chopsticks are a continuity object and must have a believable real-world reason to be in Nari's hand.
+
+V22 start context:
+- Nari is tidying the kitchen after ordinary use
+- she holds exactly ONE CLEAN, DRY chopstick pair together in one hand and is about to return that same pair to ordinary utensil storage
+- the storage target may remain mostly off-frame; do not invent a prominent new prop or label
+- she is NOT eating and no visible food is required
 
 Do NOT show:
 - noodles
@@ -63,13 +84,11 @@ Do NOT show:
 - plated snack
 - cup/bowl whose contents create a new continuity state
 
-This prohibition prevents an unscripted food object from appearing in one vertical slice and vanishing in the next.
-
 Chopstick chain:
-- V22: exactly one ordinary pair is already in Nari's hand
-- V23: same pair remains in that same hand unless a visible hand adjustment occurs
-- V24: fingers visibly open/lose grip → same pair falls → `CLATTER` at one floor spot
-- V25: same pair is still physically on that floor spot
+- V22: exactly one clean dry pair is already in Nari's hand because she is putting it away
+- V23: assistant interruption stops the put-away action; SAME pair remains in that SAME hand
+- V24: light flicker/startle → fingers visibly open/lose grip → SAME pair falls → `CLATTER` at one floor spot
+- V25: SAME pair is still physically on that floor spot
 - Strip 006 V26 must inherit that same floor state until the later explicit time cut
 
 No second chopstick pair exists in this sequence.
@@ -108,10 +127,11 @@ At start, the canonical speaker is still on the kitchen counter, plugged in, scr
 The brass key remains in entry tray; binder remains kitchen counter unless naturally visible in background.
 No one has hidden the speaker yet.
 
-For the later-night kitchen sequence, establish exactly ONE ordinary pair of chopsticks in Nari's hand at V22 before anything drops.
+For the later-night kitchen sequence, establish exactly ONE clean dry ordinary pair of chopsticks in Nari's hand at V22 before anything drops.
 - do not spawn a second pair on counter, floor, or in another hand
 - do not make the chopsticks appear for the first time only at the fall
 - do not introduce visible noodles/food simply to explain why she has chopsticks
+- do not complete the put-away action before V24; the assistant/light interruption keeps the pair in her hand
 - after V24, the SAME dropped pair remains on the floor through V25 and into Strip 006 V26 until the later time cut
 
 ==================================================
@@ -119,26 +139,26 @@ VERTICAL STORY FLOW
 ==================================================
 
 V21 — ROBOT VACUUM
-Continue one-week automation montage. The robot vacuum catches/drags ONE loose cable.
+Continue one-week automation montage. The robot vacuum catches/drags ONE harmless temporary non-plot charging/utility cable only.
 SFX:
 `VRR`
 NARI:
 `HEY! DROP THAT!`
-No duplicated cable/device.
+No duplicated cable/device and no canonical appliance cord involved.
 
 COMPACT BLACK TIME TRANSITION.
 
 V22 — LATER THAT NIGHT / KITCHEN
 NARRATION:
 `LATER THAT NIGHT`
-Nari is physically in kitchen/open-plan area near canonical speaker, already holding the SAME single pair of ordinary chopsticks established above. No visible food/noodles/bowl/packet.
+Nari is physically in kitchen/open-plan area near canonical speaker, holding the SAME single clean dry chopstick pair while trying to put that pair away. No visible food/noodles/bowl/packet.
 NARI:
 `TURN ON THE KITCHEN LIGHT.`
 
 SMALL BLACK GUTTER.
 
 V23 — SYNTHETIC ASSISTANT FAILURE
-Same speaker, ordinary assistant audio. SAME chopsticks still in Nari's hand. No visible food/noodles introduced.
+Same speaker, ordinary assistant audio. The interruption pauses Nari's put-away action; SAME chopsticks remain in the SAME hand. No visible food/noodles introduced.
 SPEAKER, synthetic audio:
 `SORRY. I DIDN'T CATCH THAT.`
 NARI:
@@ -181,10 +201,12 @@ AUTOMATIC REJECT IF
 - any V/P/strip/beat/panel/scene production label appears
 - attached character/environment/speaker references are redesigned
 - permanent drift from previous strip is propagated instead of corrected to canonical WebPs
+- robot vacuum grabs a canonical speaker/TV/fridge/lamp cord or changes any plot-critical outlet/plug state
 - Hyun-woo body/silhouette appears
 - speaker redesigns/gets a screen or moves from canonical counter
 - voice text printed on body
 - any visible noodles/food/bowl/packet is invented in V22–V25
+- chopsticks have no plausible handling/tidying context
 - chopsticks appear only at the instant of dropping
 - chopstick release/contact mechanism is cropped so the hand→fall is not proven
 - chopsticks duplicate/teleport/disappear before Strip 006 V26
