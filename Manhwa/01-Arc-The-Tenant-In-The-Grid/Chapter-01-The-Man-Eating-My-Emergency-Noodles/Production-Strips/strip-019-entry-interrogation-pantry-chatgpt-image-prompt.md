@@ -7,13 +7,13 @@ PRODUCTION SCOPE
 V85–V89. Historical P12 mapping only.
 
 ATTACH — REQUIRED
-- Nari canonical
-- Hyun-woo canonical
-- Unit 2407 floor plan
-- Unit 2407 living→kitchen wide
-- Unit 2407 kitchen→living wide
-- Unit 2407 fridge/cabinet detail
-- Unit 2407 lighting-states canonical
+- `Character-References/nari-canonical-flat2d.webp`
+- `Character-References/hyunwoo-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 - APPROVED Strip 018
 - this Strip 019 prompt
 
@@ -89,12 +89,12 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Hyun-woo canonical
-3. Unit 2407 floor plan
-4. Unit 2407 living→kitchen wide
-5. Unit 2407 kitchen→living wide
-6. Unit 2407 fridge/cabinet detail
-7. Unit 2407 lighting-states canonical
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Character-References/hyunwoo-canonical-flat2d.webp`
+3. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+4. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+5. `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
+6. `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
+7. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 8. APPROVED Strip 018
 9. this Strip 019 prompt
