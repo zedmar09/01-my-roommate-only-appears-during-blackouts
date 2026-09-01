@@ -1,8 +1,10 @@
 # Chapter 1 Manhwa Generation Checklist
 
-Status: **PREPRODUCTION SCRIPT / CONTINUITY / PROMPT AUDIT PASS — VISUAL PRODUCTION BLOCKED BY STALE/PROVISIONAL CHARACTER CARDS + MISSING REQUIRED ENVIRONMENT/OBJECT CANONICAL PNGS — NOT PRODUCTION COMPLETE**
+Status: **PREPRODUCTION SCRIPT / CONTINUITY / PROMPT AUDIT PASS — APPROVED CHARACTER / ENVIRONMENT / OBJECT WEBP AUTHORITIES PRESENT — REFERENCE-PATH MIGRATION REQUIRED BEFORE STRIP 001 — NOT PRODUCTION COMPLETE**
 
-Fresh `manhwa-2d-production-auditor` pass performed against the current 146-beat plan and all 32 current strip prompts. The deterministic story/script/dialogue/SFX/movement/state routes below are locked. Visual-only gates remain blocked until the current character-card canonicals, required environment/object canonical PNGs, and rendered strip images exist and are approved.
+Fresh `manhwa-2d-production-auditor` verification confirms the deterministic story/script/dialogue/SFX/movement/state routes remain locked across the current 146-beat plan and 32 strip prompts. The reusable visual authorities required by Chapter 1 now exist as approved WebPs. The remaining pre-strip task is to ensure every active Markdown attachment reference resolves to the exact current WebP filename.
+
+Rendered Strip 001–032 artwork and the final stitched chapter still do not exist, so actual strip-level visual/style/lettering/dead-space/seam approval remains pending.
 
 ## Scope
 
@@ -24,56 +26,69 @@ Every strip inherits:
 
 A strip may be stricter but may never loosen these rules.
 
-## Required Visual Authorities — BLOCKING
+## Repository Image Format Rule
 
-Before Strip 001 generation begins, every canonical PNG listed by the active strip package must exist, be current, and be approved.
+Reference-image prompts may continue to generate PNG first as a local intermediate. After visual approval, manually convert that accepted PNG to WebP and store/use the exact WebP in GitHub.
 
-### Current Chapter 1 Character Cards — BLOCKED / REGENERATE
+Production-strip Markdown must attach the committed WebP, not the temporary/deleted PNG.
 
-Required current reusable character-card filenames:
-- `Character-References/nari-canonical-flat2d.png`
-- `Character-References/hyunwoo-canonical-flat2d.png`
-- `Character-References/mrs-na-canonical-flat2d.png`
-- `Character-References/seungjae-canonical-flat2d.png`
+## Required Visual Authorities — PRESENT
 
-The repository's current character-reference rule states that PNGs created before the September 1, 2026 full character-card standard are legacy/provisional until regenerated and approved from the upgraded prompts. All four Chapter 1 PNGs predate that standard. Nari is additionally an explicit design-revision blocker: the prior short-hair PNG is obsolete and must be replaced by the current long dark-plum-haired design. Regenerate/approve into the SAME filenames before Strip 001 production.
+Before Strip 001 generation, the current strip package must resolve all exact required WebP paths below.
 
-### Required Environment Canonicals
+### Current Chapter 1 Character Cards — PRESENT
 
-Required reusable environment canonicals referenced by Chapter 1 include:
-- `unit-2407-floor-plan-canonical.png`
-- `unit-2407-entry-living-wide-canonical.png`
-- `unit-2407-living-to-kitchen-wide-canonical.png`
-- `unit-2407-kitchen-to-living-wide-canonical.png`
-- `unit-2407-hallway-canonical.png`
-- `unit-2407-desk-zone-detail-canonical.png`
-- `unit-2407-fridge-cabinet-zone-detail-canonical.png`
-- `unit-2407-lighting-states-canonical.png`
-- `unit-2407-room-angle-atlas-canonical.png` when required by an uncovered camera angle
-- `rainy-building-entrance-canonical.png`
-- `building-lobby-elevator-canonical.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Character-References/hyunwoo-canonical-flat2d.webp`
+- `Character-References/mrs-na-canonical-flat2d.webp`
+- `Character-References/seungjae-canonical-flat2d.webp`
 
-### Required Object Canonicals
+Nari's active authority uses long dark-plum hair at approximately mid-back length, loose by default. The retired short-hair design is not valid production authority.
 
-Required reusable object canonicals referenced by Chapter 1 include:
-- `smart-speaker-canonical-states.png`
-- `tv-canonical-states.png`
-- `refrigerator-canonical-states.png`
-- `electrical-operation-guide-canonical.png`
-- `brass-backup-key-canonical.png`
+Seungjae is exactly 30, the same age as Nari, and must read as her same-generation peer.
 
-If any required PNG is missing/stale/unapproved: **STOP. Do not improvise a substitute.** A Markdown reference prompt is not an approved PNG.
+### Required Unit 2407 Environment WebPs — PRESENT
+
+Chapter 1 primary/optional reusable environment authorities:
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-reference.webp` when an intended camera angle is not sufficiently covered by the listed primary views
+
+The full Unit 2407 pack also contains approved Bedroom A, Bedroom B, and bathroom WebPs for later scenes/chapters. They are not required by the current Chapter 1 strip attachment map unless a future correction introduces those spaces.
+
+### Required Building Shared-Area WebPs — PRESENT
+
+- `Manhwa/Environment-References/Building-Shared-Areas/rainy-building-entrance-reference.webp`
+- `Manhwa/Environment-References/Building-Shared-Areas/building-lobby-elevator-reference.webp`
+
+`building-shared-areas-bible.webp` is not a required Chapter 1 strip attachment. The two files above are the active visual authorities for Strips 012–013.
+
+### Required Object WebPs — PRESENT
+
+- `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
+- `Manhwa/Object-References/tv-canonical-reference.webp`
+- `Manhwa/Object-References/refrigerator-canonical-reference.webp`
+- `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
+- `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
+
+If an exact required WebP is missing, stale, wrong-path, or later rejected: **STOP. Do not improvise a substitute.** A Markdown reference prompt is not the visual authority.
 
 ## Strip Prompt Completeness Gate — Absolute
 
 Every one of `strip-001` through `strip-032` must explicitly list inside its own Markdown file:
-- visible-character canonical(s)
-- exact reusable environment canonical(s)
-- exact reusable object canonical(s) when needed
-- previous approved strip for 002–032
+- exact visible-character WebP path(s)
+- exact reusable environment WebP path(s)
+- exact reusable object WebP path(s) when needed
+- previous approved rendered strip for 002–032
 - current prompt
 
-Reject a prompt that tells production to infer visual attachments only from the manifest.
+Reject vague labels such as `Nari canonical` or obsolete `.png`/`*-canonical` filenames in an attachment block.
 
 ## Strict Flat 2D Human-Drawn Style Gate — Absolute
 
@@ -137,49 +152,12 @@ Specific Chapter 1 locks:
 Priority:
 1. current user instruction
 2. current strip/chapter story script
-3. current approved character canonical
-4. approved reusable environment canonical
-5. approved reusable object canonical
-6. previous approved strip temporary state
+3. current approved character WebP
+4. approved reusable environment WebP
+5. approved reusable object WebP
+6. previous approved rendered strip temporary state
 
-Reject stale/provisional character cards, room-axis flips, impossible camera angles, moved fixed architecture/furniture/appliances, object redesign, or propagation of previous-strip drift against approved permanent canon.
-
-## Character-State Gate
-
-Nari:
-- current long-hair character-card PNG must be regenerated/approved before production
-- current canonical adult identity and left-mouth beauty mark fixed
-- long dark-plum hair at canonical length; no short/bob redesign
-- Strip 014 onward: hair loose, yellow scrunchie on one wrist
-
-Mrs. Na:
-- regenerated/approved current character-card PNG required before production
-- mature silver twist, jade earrings, mauve coat, gloves, analog watch
-
-Seungjae:
-- regenerated/approved current character-card PNG required before production
-- same office-casual identity; one foldable phone/watch/earbuds/umbrella
-
-Hyun-woo:
-- regenerated/approved current character-card PNG required before production
-- broad build, long low-tied black hair, same technical mask hardware, same tattoo map
-- Strip 017 temporary eating position is a state change of the SAME mask, not redesign/removal
-
-## Manual / Key Canonical Gate
-
-Manual:
-- same one binder across all appearances
-- exact cover/title `UNIT 2407 / ELECTRICAL OPERATION GUIDE`
-- ordinary physical paper/ring/tab construction
-- `SECTION 16` → `SECTION 18` jump readable; no normal Section 17
-- handwritten `KEEP ONE MAINS-POWERED LIGHT ON AFTER MIDNIGHT.` remains old physical handwriting on south-wall diagram page
-
-Key:
-- same one brass mechanical backup key
-- initially on Mrs. Na key ring, detached to counter, then Nari to entry tray
-- Strip 007 tray → Nari hand → tray
-- remains tray during powered evidence sequence unless explicitly moved
-- no duplicate, keycard, smart fob, fantasy key, silver/chrome redesign
+Reject stale/wrong-path references, room-axis flips, impossible camera angles, moved fixed architecture/furniture/appliances, object redesign, or propagation of previous-strip drift against permanent canon.
 
 ## Black Read-Slice Gate — Absolute
 
@@ -236,38 +214,23 @@ Strip 032 ends on hostile `NEW TENANT CONFIRMED` + one `FZZT` light flicker whil
 
 ## Current Fresh-Audit Result
 
-**Text/script/causality:** PASS
+- **Text/script/causality:** PASS
+- **Dialogue/source ownership:** PASS
+- **SFX script/source/action logic:** PASS at prompt level
+- **Real-life movement/body mechanics:** PASS at prompt level
+- **Spatial/object/character state continuity:** PASS at prompt level
+- **Panel/strip planned continuity:** PASS at prompt level
+- **Strict flat 2D instruction authority:** PASS; actual strip pixels await generation
+- **Character/environment/object visual authority presence:** PASS — approved WebPs present
+- **Exact Markdown reference paths:** UNDER REPAIR / must resolve to actual WebPs before Strip 001
+- **Rendered strip visual audit:** BLOCKED — Strip 001–032 artwork not yet present
+- **Seam/stitch/dead-space/mobile-lettering visual audit:** BLOCKED — requires rendered/stitched artwork
 
-**Dialogue/source ownership:** PASS
+### Current Gate Counts Before Reference-Path Repair Completes
 
-**SFX script/source/action logic:** PASS at prompt level; actual lettering placement awaits rendered strips
-
-**Real-life movement/body mechanics:** PASS at prompt level
-
-**Spatial/object/character state continuity:** PASS at prompt level
-
-**Panel/strip planned continuity:** PASS at prompt level
-
-**Strict flat 2D human-drawn instructions:** PASS after global authority repair; actual pixel compliance awaits current approved visual canonicals and rendered strips
-
-**Character canonical visual authority:** BLOCKED — Nari, Hyun-woo, Mrs. Na, and Seungjae PNGs predate the September 1 full character-card standard and are provisional under the repository rule; Nari's prior short-hair PNG is explicitly obsolete
-
-**Environment/object canonical visual authority:** BLOCKED — required approved PNGs are not currently present in the repository package
-
-**Rendered strip visual audit:** BLOCKED — no Strip 001–032 artwork files are currently present
-
-**Seam/stitch/dead-space/mobile-lettering visual audit:** BLOCKED — requires rendered/stitched artwork
-
-### Current Gate Counts
-
-- **BLOCKER: 3 categories**
-  1. stale/provisional Chapter 1 character-card PNG authorities
-  2. missing approved environment/object canonical PNG authorities
-  3. missing rendered Strip 001–032 artwork + stitched chapter
-- **MAJOR: 0 unresolved deterministic script/prompt issues**
-- **MINOR requiring correction: 0**
+- **BLOCKER: 1 category** — stale/ambiguous/obsolete Markdown visual attachment paths must be migrated to exact approved WebPs
+- **MAJOR: 0 unresolved deterministic story/script issues**
+- **MINOR requiring correction: 0 in Chapter 1 story logic**
 - **WARNING requiring explanation: 0**
 
-**FINAL STATUS: NOT PRODUCTION COMPLETE — CURRENT APPROVED VISUAL AUTHORITY / RENDER ASSETS MISSING**
-
-See `chapter-01-real-scenario-continuity-audit.md` for the fresh audit record.
+**FINAL STATUS: NOT PRODUCTION COMPLETE — REFERENCE-PATH MIGRATION IN PROGRESS; RENDERED STRIP PRODUCTION NOT YET COMPLETE**
