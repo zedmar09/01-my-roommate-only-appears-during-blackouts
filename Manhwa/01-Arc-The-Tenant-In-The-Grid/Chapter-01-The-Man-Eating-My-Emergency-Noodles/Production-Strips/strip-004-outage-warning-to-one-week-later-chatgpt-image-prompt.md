@@ -7,14 +7,14 @@ PRODUCTION SCOPE
 V16–V20. Historical P2→P3 mapping only.
 
 ATTACH — REQUIRED
-- Nari canonical
-- Mrs. Na canonical
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-canonical.png`
-- `Manhwa/Object-References/electrical-operation-guide-canonical.png`
-- `Manhwa/Object-References/brass-backup-key-canonical.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Character-References/mrs-na-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+- `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
+- `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
 - APPROVED Strip 003
 - this Strip 004 prompt
 
@@ -121,13 +121,13 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Mrs. Na canonical
-3. Unit 2407 floor plan
-4. Unit 2407 entry/living wide
-5. Unit 2407 living→kitchen wide
-6. Unit 2407 hallway canonical
-7. Unit 2407 electrical-operation-guide canonical
-8. Unit 2407 brass-backup-key canonical
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Character-References/mrs-na-canonical-flat2d.webp`
+3. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+4. `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
+5. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+6. `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+7. `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
+8. `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
 9. APPROVED Strip 003
 10. this Strip 004 prompt
