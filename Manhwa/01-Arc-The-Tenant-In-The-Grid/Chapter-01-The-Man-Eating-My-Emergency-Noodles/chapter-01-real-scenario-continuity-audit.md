@@ -1,457 +1,392 @@
-# Chapter 1 — `manhwa-2d-production-auditor` Third Full Deep-Hardening Audit
+# Chapter 1 — `manhwa-2d-production-auditor` Fourth Full Deep-Hardening Audit
 
-Status: **THIRD FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
+Status: **FOURTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
 
-This record supersedes both prior hardening audits as the current prompt/preproduction authority.
+This record supersedes the first, second, and third hardening audits as the current prompt/preproduction authority.
 
-The second PASS was deliberately **not accepted as proof**. A third clean-room pass re-read Strip 001 through Strip 032 and their cross-strip states with a narrower failure question:
+The third PASS was deliberately **not accepted as proof**. A fourth clean-room pass re-read Strip 001 through Strip 032, the global workflow/template/readiness rules, the strip manifest, attachments, and all high-risk cross-strip handoffs.
 
-> Can the generator still technically follow the written action while creating an impossible hand state, unexplained prop source, swapped physical topology, moved wall outlet, hidden object relocation, or later-state inconsistency?
+The fourth-pass failure question was:
+
+> Can the generator still follow the written prompt literally while producing a physically unsupported object, hidden state reset, awkward hand use, mirrored anatomical hand, conflicting floor evidence, invented architecture micro-detail, or cinematic lighting that violates the real scenario?
 
 Where yes, the prompt/control files were repaired again.
 
-# Third-Pass Audit Focus
+# Fourth-Pass Audit Focus
 
-The third pass checked:
-- hand occupancy across multiple carried props
-- real-world reason/source for every continuity-critical prop
-- phone/pocket/device handoffs across seams
-- packet/wrapper provenance across the six-noodle inventory
-- clean vs used chopstick provenance
-- fixed relative table/floor prop topology across reverse shots
-- speaker storage packing vs later reopening
-- outlet physical location/height/orientation continuity, not only unplug semantics
-- exact feet/body position across power return
-- final notebook/pen/table state during TV activation
-- attachment coverage for any newly used environment angle/state
-- previous-strip permanent drift vs canonical WebPs
-- narration placement and production-label suppression
+The fourth pass checked:
+- physical support of carried objects during lock/door actions
+- open/closed door causality before time cuts
+- canonical attachments for recurring objects that may enter frame
+- physical source of devices after legal time cuts
+- action density inside single beats and risk of hidden skipped mechanics
+- whether earlier hand-hardening itself created unnatural interaction
+- anatomical hand identity across reverse shots
+- collision/overlap between separate floor evidence objects
+- walking routes around those evidence objects
+- canon authority vs generated outlet/utensil-storage micro-details
+- contained supernatural accents vs invented room illumination
+- final TV unplug proof vs canonical wall/furniture geometry
+- narration placement and top-left production-label leakage
 
-# Third-Pass Findings And Repairs
+# Fourth-Pass Findings And Repairs
 
-## Finding 1 — Strip 002 Mrs. Na Hand Occupancy Was Physically Under-Specified
+## 1. Strip 001 — Moving Box Support Could Still Be Physically Fake
 
-### Problem
-Handbag + binder + key ring + detached brass key could force impossible three-/four-object hand use.
+### Finding
+The previous prompt allowed the box to be “briefly braced” during smart-lock/door operation without defining the support surface. A generator could place it on corridor floor/shelf or float it before V04.
 
 ### Repair
-- handbag independently supported on shoulder/forearm/body
-- binder occupies one hand
-- key ring occupies other
-- binder physically placed/released first
-- freed binder hand then assists key detachment
-- detached key placed on counter
-- ordinary ring remains physically accounted for
+- SAME box remains continuously supported against Nari's torso/hip with one forearm/body
+- other/free hand operates smart lock and door
+- box cannot touch corridor floor, shelf, wall ledge, or doorway
+- first permitted floor contact is V04 interior `THUD`
+- if composition cannot support one-hand entry, recompose Nari/box scale; do not invent extra hand/surface
 
 **PASS after repair.**
 
-## Finding 2 — Strip 005 Chopsticks Had No Real-World Reason To Be In Hand
+## 2. Generated Outlet Detail Could Become Accidental Permanent Architecture Canon
 
-### Problem
-Second pass removed food but left arbitrary chopsticks in Nari's hand.
+### Finding
+The third-pass “first approved outlet depiction freezes landmark” wording could give a generated strip authority over environment canon when exact outlet faceplate is not visible in existing WebPs.
 
 ### Repair
-- one CLEAN DRY pair only
-- Nari is tidying/putting that pair away
-- assistant interruption pauses put-away
-- light flicker causes real release/fall
-- no visible food/noodles/bowl/packet
+Added **Derived Micro-Detail — Canon-Subordinate** globally:
+- exhaust canonical views/atlas first
+- derive only smallest functional detail inside existing canonical geometry
+- never add/move wall, cabinet, appliance, furniture, doorway, shelf, island, etc.
+- derived outlet/utensil detail = temporary Chapter 1 continuity only
+- approved canonical WebPs always outrank it
+- if later canonical evidence conflicts, affected strip is corrected; generated detail is not silently propagated
 
-Also locked robot-vacuum gag to harmless temporary non-plot cable; never speaker/TV/fridge/lamp/plot outlet cord.
+Updated TV/speaker outlet wording through the final sequence.
 
 **PASS after repair.**
 
-## Finding 3 — Correct Unplugging Still Allowed Outlet Location Drift
+## 3. Strip 004 — Front Door Closed State Was Not Physically Caused
 
-### Problem
-Even with correct wall-plug removal, later images could invent a different wall socket/height/faceplate/cord route.
+### Finding
+Mrs. Na exited, but the prompt jumped to a closed-door end state before the one-week cut without requiring Nari to close the door.
 
 ### Repair
-Added **FIXED LOCAL WALL-OUTLET LANDMARK** rule:
-- if canonical ref visibly establishes outlet, use exact
-- otherwise first correct APPROVED Strip006 depiction freezes local Chapter1 landmark
-- same physical wall, height, faceplate/socket orientation, furniture relation, cord-route family persist
-- reverse shots cannot relocate outlet
-
-Applied strongly to Strip006→007 and final TV chain.
+- door opens for exit
+- Mrs. Na crosses outward once and fully clears threshold
+- Nari remains inside
+- Nari physically closes SAME door on canonical hinge
+- door reaches closed state BEFORE `ONE WEEK LATER`
+- no extra SFX invented
 
 **PASS after repair.**
 
-## Finding 4 — Strip 008 Speaker Storage Stack Could Redesign On Reopen
+## 4. Strip 007 — Speaker State Was Preserved Without Speaker Canonical Attachment
 
-### Problem
-“two towels / speaker / pot” did not freeze packing order; later reveal could lose cord/plug or show impossible lid/towel state.
+### Finding
+The still-unplugged speaker remains on canonical kitchen counter and may enter open-plan framing, but Strip 007 did not attach its object WebP.
 
 ### Repair
-Exact closed stack:
-1. TOWEL1 bottom liner
-2. same speaker
-3. same attached cord neatly coiled + same loose wall plug inside pot
-4. TOWEL2 top cover
-5. same lid seated
+Added:
+`Manhwa/Object-References/smart-speaker-canonical-reference.webp`
 
-Strip028 must reopen exact reverse:
-- lid lift `CLINK`
-- lid set FLAT on cabinet shelf immediately beside pot
-- TOWEL2 folded back once
-- speaker + attached cord + loose plug visible on TOWEL1
-- TOWEL1 remains liner
+Speaker remains same canonical body/cord/plug, wall-unplugged, counter, not hidden until Strip 008.
 
 **PASS after repair.**
 
-## Finding 5 — Strip 009 Phone→Tablet Transition Could Still Teleport Phone
+## 5. Strip 009 — Morning Phone Could Appear From Nowhere
 
-### Problem
-After second photo test the old prompt could jump to tablet at desk without fixing phone/pen state.
+### Finding
+After legal overnight cut, photo tests used “same phone” but no physical starting location was established.
 
 ### Repair
-- after second `SNAP`, same phone physically placed flat beside real note
-- same pen remains beside note
-- Nari leaves both behind
-- physically walks to desk
-- only then uses tablet
-- Strip010 starts phone+pen+note at note area, tablet desk
+- SAME phone begins lying flat beside note, screen inactive
+- visible hand contact/pickup before first `SNAP`
+- same phone used for both tests
+- after second test, phone visibly placed/released beside note
+- only then Nari walks to tablet at desk
+- Strip 010 inherits phone + note + pen at note area
 
 **PASS after repair.**
 
-## Finding 6 — Digital Photo Failure Could Become Generic Error Screen
+## 6. Strip 010 — Too Many Actions Inside One Beat Encouraged Skipping
 
-### Problem
-A black/error/blurred phone screen would not prove the supernatural omission of the real note.
+### Finding
+V48/V50 contained route, phone, binder, page proof, text exchange, closing, and return mechanics in too little visual structure.
 
 ### Repair
-Captured image must preserve enough SAME surrounding surface/framing context to prove it photographed the same scene while note/writing evidence itself is absent.
+V48/V50 now require multiple immediately consecutive **UNLABELED** visual sub-slices.
+They visibly prove:
+- desk→note route
+- phone pickup
+- counter→binder pickup
+- phone/binder set-down
+- binder opening
+- Section 16
+- fingers contacting page
+- physical page advance
+- Section 18
+- only then missing-section dialogue
+- V50 phone placement/release
+- binder close/pickup/counter return
 
-Generic black/error/blur substitute rejected.
+No `V48-A` or other technical sub-label may render.
 
 **PASS after repair.**
 
-## Finding 7 — Strip 010 Missing Section Was Not Physically Demonstrated Enough
+## 7. Strip 012 — Third-Pass Hand Rules Made Umbrella Use Less Natural
 
-### Problem
-`SECTION 16` and `SECTION 18` could appear as unrelated labels while dialogue says Section17 missing.
+### Finding
+Keeping Seungjae's phone in hand from outside while also handling/folding an umbrella created unnecessary hand pressure.
 
 ### Repair
-Mandatory physical proof:
-1. same binder open
-2. visible `SECTION 16`
-3. fingers contact actual page edge/tab
-4. physical page turn/advance
-5. next relevant header `SECTION 18`
-6. no normal Section17 page/tab
-7. only then Nari states missing section
-
-Also froze phone retrieval from beside note before binder/text route.
+- SAME phone begins in one established clothing pocket
+- umbrella is the only handheld object outside
+- after entering, umbrella may be folded naturally while phone remains pocketed
+- V59 free hand retrieves SAME phone from SAME pocket
+- phone dies
+- SAME dead phone visibly returns to SAME pocket before seam
+- folded umbrella one hand; other hand free
 
 **PASS after repair.**
 
-## Finding 8 — Strip 011 Return-Home Scene Lacked Entry Visual Authority
+## 8. Strip 013 — Earbud Check Could Invent A Case Or Duplicate Pair
 
-### Problem
-V53 returns through Unit2407 front door but old attachment list omitted entry/living canonical.
+### Finding
+“check earbuds / case according to prop design” still allowed an unestablished case or second pair.
 
 ### Repair
-Added `unit-2407-entry-living-wide-reference.webp`.
-Required real lock/door chain:
-smart-lock contact → `BEEP` → latch → door opens → both shopping bags accounted for → threshold crossing → both bags placed inside before unpacking.
-
-`FOOD` narration cannot create seventh noodle packet; exactly six noodle packets remain visually distinct.
+- one earbud begins in each ear
+- free hand checks smartwatch first
+- then removes ONE specific earbud from ONE ear
+- opposite earbud remains worn
+- same removed earbud is checked and reinserted into SAME ear
+- no earbud case or second pair
+- dead phone remains in same pocket; umbrella remains other hand
 
 **PASS after repair.**
 
-## Finding 9 — Strips 012–013 Seungjae Could Gain Extra Hands
+## 9. Strip 016–024 — Same Knife Hand Could Still Mirror-Swap Anatomically
 
-### Problem
-Phone, umbrella, smartwatch, earbuds could become simultaneous handheld objects.
+### Finding
+“same hand” can be locally obeyed while reverse camera swaps the knife to the opposite anatomical hand.
 
 ### Repair
-Strip012:
-- phone one hand from canopy sequence
-- umbrella other hand
-- phone dies in same hand at V59
-- same dead phone visibly pocketed before seam
-- folded umbrella remains in one hand; other hand free
+Strip 016 establishes production-only **NARI'S KNIFE HAND** at V73.
+- same anatomical hand carries knife through Strips 017–023
+- no silent hand transfer
+- reverse screen direction cannot swap physical hand
+- Strip 023 knife release uses that hand
+- wrist caught in Strip 023 and released in Strip 024 is that same arm/wrist
+- `KNIFE HAND` is never reader-facing text
 
-Strip013:
-- dead phone remains pocketed
-- folded umbrella one hand
-- free hand sequentially checks worn smartwatch, then same earbud pair
-- no simultaneous device pile
+Rule promoted to global workflow/template.
 
 **PASS after repair.**
 
-## Finding 10 — Strip 019 Empty Spicy-Seafood Packet Appeared From Nowhere
+## 10. Strip 023 — Candle Step Could Disturb Existing Packet / Knife Could Land On Packet
 
-### Problem
-Strip019 expected Nari to step on an empty packet, but Strips017–018 never established that packet.
+### Finding
+The empty spicy-seafood outer packet already occupied a floor spot, but the candle half-step and knife impact were not explicitly separated from it.
 
 ### Repair
-Strip017 now reconciles six-packet inventory:
-- exactly FIVE unopened packets in pantry
-- ONE used/empty spicy-seafood OUTER packet visibly established at fixed floor spot on Nari's later step path
-- separate small seasoning wrapper fixed on table near pot
-
-Same outer packet persists through Strip018 and is exact packet nudged in Strip019.
+- V103 half-step/lean uses clear floor space and does NOT touch/move/cover packet
+- packet stays its Strip 019 nudged floor location
+- knife `CLANG` uses a physically distinct, non-overlapping floor point
+- knife cannot land on, pin, cover, cut through, or merge with packet
+- knife spot persists through Strip 028
 
 **PASS after repair.**
 
-## Finding 11 — Prop Existence Was Locked But Relative Topology Could Swap
+## 11. Strip 023 — Refrigerator Pixels Could Become A Substitute Room Light
 
-### Problem
-Reverse shots could keep all props yet swap physical sides/order around table.
+### Finding
+After candle-out, a generator could use supernatural fridge pixels as a convenient blue/white room light.
 
 ### Repair
-Added **PROP TOPOLOGY CONSERVATION** globally and locally.
-From Strip017 onward freeze:
-- pot on same trivet/location
-- folded cloth same hot-handle side
-- candle/holder same physical table location
-- seasoning wrapper same table spot
-- used chopsticks same pot rest point after Strip018
-- empty outer packet same floor/table route
-- pushed chair same displaced position
-
-Reverse shot may flip screen direction but cannot swap story-world physical sides.
+- tiny contained display activity may remain at its source
+- it does NOT illuminate Nari, Hyun-woo, floor, walls, furniture
+- no bloom/rim light/room wash/spotlight
+- blackout readability uses flat charcoal/blue-gray separation only
 
 **PASS after repair.**
 
-## Finding 12 — Strip 017→018 Used Chopstick State Was Ambiguous
+## 12. Strips 025 / 026 / 028 — Two Floor Evidence Locations Needed Route-Level Protection
 
-### Problem
-Strip017 could end with chopsticks already resting, weakening Strip018's required “rest chopsticks before mask reseat” action.
+### Finding
+Knife and outer packet were distinct objects but later power/route scenes could merge, step on, or disturb them.
 
 ### Repair
-- Strip017 ends SAME chopsticks still in Hyun-woo hand, lowered near pot
-- Strip018 visibly moves them to ONE fixed pot rest point
-- fingers release
-- only then hand free for mask reseat
+Strip 025:
+- knife and packet stay two explicit non-overlapping floor locations through power return
+
+Strip 026:
+- Nari table-edge→desk→entry route avoids BOTH floor spots
+
+Strip 028:
+- knife pickup route avoids packet spot
+- after pickup knife spot becomes empty; packet remains until Strip 029
 
 **PASS after repair.**
 
-## Finding 13 — Strip 021 Protective Walk Could Switch Sides Mid-Route
+## 13. Strip 027 — TV Evidence Could Enter Frame Without TV Object Authority
 
-### Problem
-Multiple camera slices could show Hyun-woo starting around one side of table and finishing as if he walked around opposite side.
+### Finding
+Entry/open-plan framing may show the still-unplugged TV, but Strip 027 did not attach TV canonical.
 
 ### Repair
-- first V94 movement slice establishes one physically open route side/path
-- every subsequent V94 slice continues same story-world side
-- reverse camera can flip screen direction but not route side
+Added:
+`Manhwa/Object-References/tv-canonical-reference.webp`
+
+Previous Strip 026 controls temporary unplug state only; permanent TV body/cord identity remains canonical.
 
 **PASS after repair.**
 
-## Finding 14 — Strip 025→026 Nari Position Could Drift During Power Return
+## 14. Strip 029 — Clean Chopstick Storage Could Invent New Architecture
 
-### Problem
-`same general location` was too loose; power snap/reverse shots could move Nari.
+### Finding
+“ordinary kitchen utensil storage” could cause the generator to add a drawer/caddy/cabinet as if it were permanent environment structure.
 
 ### Repair
-Strip025 freezes Nari feet at exact table-edge-adjacent marks through V113–V118.
-Power return changes light + shielding arms only; no step.
-Strip026 V119 begins at exact same feet/body position and only afterward starts table-edge→desk route.
+- first use already-visible canonical utensil storage if available
+- otherwise derive smallest temporary storage point inside EXISTING canonical kitchen cabinetry only
+- no new cabinet/cart/shelf/island/appliance/wall/furniture
+- special speaker-storage cabinet cannot be repurposed
+- derived utensil source remains temporary/canon-subordinate
 
 **PASS after repair.**
 
-## Finding 15 — Strip 029 Empty Outer Packet Teleported Floor→Table
+## 15. Strips 030–032 — Final Outlet Wording Could Still Elevate Generated Detail Over Canon
 
-### Problem
-Outer packet was still floor evidence but old Strip029 inspected it at table.
+### Finding
+“fixed outlet landmark” phrasing could be interpreted as generated outlet placement outranking canonical room geometry.
 
 ### Repair
-After knife safely sheathed:
-- Nari returns empty-handed
-- bends/reaches exact packet floor spot
-- picks SAME outer packet
-- old floor spot becomes empty
-- carries packet to table
-- inspects with seasoning wrapper/pot/broth
-- places SAME packet beside wrapper
+- final outlet detail is canon-subordinate Chapter 1 continuity only
+- attached environment/object WebPs always win
+- if conflict exists, recompose/correct
+- mandatory Strip 031 unplug proof may NOT distort/move canonical wall/furniture simply to show socket
+- Strip 032 inherits same proven state without redefining architecture
 
 **PASS after repair.**
 
-## Finding 16 — Strip 029 Clean Chopsticks Had No Physical Source
+## 16. Strip 022 — Tiny Blue Flame Core Could Become Cinematic Blue Lighting
 
-### Problem
-“clean separate chopsticks” could appear from nowhere and be confused with Hyun-woo's used pair.
+### Finding
+“blue-centered flame” could be rendered as a large blue flame/aura/room wash.
 
 ### Repair
-Two-pair authority:
-- PAIR A = Hyun-woo used pair, same fixed pot rest point
-- PAIR B = one clean Nari pair, visibly retrieved from ordinary kitchen utensil storage
-- at least one proof composition distinguishes both pairs
-- Nari uses Pair B for one bite
-- after swallow, Pair B visibly placed/released at fixed Nari-side table spot
-- Pair A remains at pot
+- same small candle-sized flame
+- tiny blue core only
+- restrained warm outer flame remains
+- no blue room wash, aura, halo, rim light, bloom, volumetric glow, spotlight, or second functional light source
 
 **PASS after repair.**
 
-## Finding 17 — Final Table/Cabinet State Could Still Clean Itself
-
-### Repair
-Strips030–032 now preserve:
-- outer packet + seasoning wrapper table
-- Pair A pot rest point
-- Pair B Nari-side table spot
-- pot/trivet/cloth topology
-- open cabinet
-- lid flat beside storage pot
-- TOWEL1 liner
-- speaker + attached coiled cord/loose plug
-- TOWEL2 folded back
-
-No final-event cleanup/reset.
-
-**PASS after repair.**
-
-## Finding 18 — Strip 031 Pen Could Vanish During TV Turn
-
-### Problem
-After writing hypothesis, pen state was ambiguous.
-
-### Repair
-Before TV activation:
-1. writing ends
-2. same pen lowers to open notebook
-3. pen contacts lower/open page or margin
-4. fingers release
-5. pen rests horizontally there
-6. only then Nari turns toward TV
-
-Strip032 inherits exact notebook+pen state.
-
-**PASS after repair.**
-
-# Third Clean-Room Strip 001→032 Re-Audit
+# Fourth Clean-Room Strip 001→032 Re-Audit
 
 ## 001–004
-- smart-lock/door mechanism proven
-- Mrs. Na hand occupancy now physically possible
-- binder/key route real
-- no conceptual phone/tablet inserts
-- key pickup/tray placement proof
-- no production labels
+- box has continuous real support during entry
+- smart-lock/door mechanism visible
+- Mrs. Na hand occupancy remains valid
+- hallway rule uses real lamp only
+- key route proved
+- Mrs. Na exit and door close proved before time cut
 
-**PASS at third-hardened prompt level.**
+**PASS at fourth-hardened prompt level.**
 
-## 005–007
-- chopsticks have clean-dry tidying context; no food
-- robot-vacuum gag cannot contaminate plot cords
-- speaker/TV wall unplug real
-- local wall outlets frozen as landmarks
-- Strip007 inherits same outlet + loose plug/empty socket
-- key route physical
+## 005–010
+- no invented food in Strip 005
+- chopstick fall mechanism proven
+- wall-unplug actions correct
+- derived outlet detail subordinate to canon
+- Strip 007 now carries speaker canonical authority
+- exact speaker storage topology preserved
+- Strip 009 phone source/pickup/return proven
+- photo omission same-scene proof remains
+- Strip 010 physical route/page proof decomposed into unlabeled sub-slices
 
-**PASS at third-hardened prompt level.**
-
-## 008–010
-- exact speaker storage topology frozen
-- photo omission uses same-scene context
-- phone physically placed before tablet route
-- Strip010 retrieves same phone
-- binder Section16→physical page turn→18 proof
-- no normal Section17
-
-**PASS at third-hardened prompt level.**
+**PASS at fourth-hardened prompt level.**
 
 ## 011–013
-- Strip011 now attaches entry reference and proves return crossing
-- exactly six noodle packets; no accidental seventh
-- two shopping bags accounted for
-- Seungjae phone/umbrella/watch/earbud hand chain physically possible
-- phone pocketed before Strip013
-- tablet remains inside one bag
-- lobby axis stable
+- real two-bag entry remains valid
+- six-packet count fixed
+- Seungjae phone begins/ends same pocket
+- umbrella handling is physically natural
+- one specific earbud check/reinsert; no case/duplicate pair
+- Nari one bag/tablet still inside
 
-**PASS at third-hardened prompt level.**
+**PASS at fourth-hardened prompt level.**
 
 ## 014–016
-No new deterministic correction required on third pass after re-read.
-- powered baseline/outage correct
-- failed tools exact returns
-- knife draw/sheath state correct
-- desk→hallway→kitchen route correct
-- teaser timing correct
+- powered baseline/outage remains coherent
+- phone stays dark
+- flashlight/radio exact returns remain
+- KNIFE HAND established at visible draw
+- route/teaser timing unchanged
 
-**PASS at third-hardened prompt level.**
+**PASS at fourth-hardened prompt level.**
 
-## 017–019
-- six-packet provenance now explicit
-- empty outer packet established before step
-- separate seasoning wrapper table
-- dining prop topology fixed
-- Strip017 chopsticks remain in hand; Strip018 performs rest/release before mask
-- Strip019 uses exact established packet
+## 017–024
+- six-packet provenance/topology remains coherent
+- Pair A chopsticks rest action remains in Strip 018
+- one-step packet contact remains physical
+- chair rise and one-side protective route remain causal
+- Strip 022 blue core contained
+- Strip 023 uses packet-safe half-step and distinct knife impact spot
+- same KNIFE HAND / former-hand wrist continuity persists into Strip 024 release
 
-**PASS at third-hardened prompt level.**
+**PASS at fourth-hardened prompt level.**
 
-## 020–024
-No new story-order correction required after topology/route rules applied.
-- chair rise remains causal
-- Strip021 one-side route fixed
-- fridge text/candle state correct
-- knife/drop/wrist chain correct
-- same-wrist release correct
+## 025–028
+- city vs Unit power sequence unchanged
+- Nari feet remain fixed through power return
+- knife + packet floor locations stay separate
+- Strip 026 route avoids both
+- Strip 027 TV authority now attached
+- cabinet chimes stay same closed source
+- Strip 028 route avoids packet and picks exact knife
 
-**PASS at third-hardened prompt level.**
+**PASS at fourth-hardened prompt level.**
 
-## 025–027
-- Nari exact foot position frozen through power return
-- Strip026 starts exact same position then walks to desk
-- evidence topology persists
-- phone/security/voicemail/cabinet-chime chain correct
+## 029–032
+- packet pickup/table placement valid
+- Pair B source remains canon-subordinate and cannot invent architecture
+- exact table/cabinet topology persists
+- notebook/pen sequence remains physical
+- TV outlet micro-detail remains canon-subordinate
+- Strip 031 unplug proof respects canonical geometry
+- Strip 032 final message/power state unchanged
 
-**PASS at third-hardened prompt level.**
+**PASS at fourth-hardened prompt level.**
 
-## 028–030
-- Strip028 reopens exact Strip008 storage stack in reverse
-- lid fixed flat beside pot; top towel folded back
-- speaker/cord/plug remain physically accounted for
-- Strip029 packet floor→table pickup visible
-- clean chopstick source visible; two pairs remain distinct
-- table/cabinet topology persists through notebook route
+# Narration / Production Metadata Fourth Re-Audit
 
-**PASS at third-hardened prompt level.**
+Narration wording remains exact, with scenario-driven treatment AND placement. No repeated generic top-left tag system is allowed.
 
-## 031–032
-- notebook/pen exact writing state
-- pen visibly released before TV turn
-- fixed TV outlet landmark persists
-- mandatory active-TV wall-unplug proof in 031
-- final message only 032
-- table/cabinet/two-pair topology remains
-- no second blackout/Hyun-woo/extra ending copy
+All V/P/strip/beat/panel/scene/shot/hand-identity/sub-step labels remain production-only and automatic reject if rendered.
 
-**PASS at third-hardened prompt level.**
+**PASS at instruction level; actual rendered typography remains pending.**
 
-# Narration / Production Metadata Third Re-Audit
+# Fourth-Pass Prompt Gate Counts
 
-Narration remains exact wording with scenario-driven design **and placement**. No repeated generic top-left tag system.
-
-All V/P/strip/beat/panel/scene/shot labels remain production-only and automatic reject if rendered.
-
-**PASS at instruction level; actual rendered typography still pending.**
-
-# Third-Pass Prompt Gate Counts
-
-After all third-pass repairs and clean-room re-read:
+After all fourth-pass repairs and the full 001→032 clean-room re-read:
 - **BLOCKER: 0**
 - **MAJOR: 0 unresolved deterministic prompt/canon issues**
 - **MINOR requiring correction: 0**
 - **WARNING requiring explanation: 0**
 
-These counts apply ONLY to current textual/reference authority package, not rendered art.
+These counts apply ONLY to the current textual/reference authority package, not rendered artwork.
 
 # Rendered Visual Status
 
-Earlier problematic renders remain rejected for intended retest.
+Earlier problematic renders remain rejected for the intended retest.
 
 Still **PENDING / UNEXECUTED** until new images are inspected:
-- actual reference fidelity
-- actual hand occupancy/contact mechanics
-- actual object provenance/topology
-- actual fixed outlet accuracy
+- actual canonical reference fidelity
+- actual hand support/hand identity/contact mechanics
+- actual derived micro-detail compliance
 - actual wall-socket unplug rendering
+- actual distinct evidence topology
 - actual food/chopstick persistence
+- actual lighting containment
 - actual narration typography/placement
 - actual no-production-label compliance
 - actual flat-2D style
@@ -460,12 +395,12 @@ Still **PENDING / UNEXECUTED** until new images are inspected:
 
 # Final Current Verdict
 
-**THIRD FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
+**FOURTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
 
 Next production action:
-1. generate NEW Strip001 using exact third-pass prompt + exact WebPs
-2. audit actual pixels
+1. generate NEW Strip 001 using exact fourth-pass prompt + exact approved WebPs
+2. audit actual pixels against current gates
 3. reject/fix/regenerate until PASS
-4. only then use it as APPROVED previous-strip authority for Strip002
-5. continue sequentially through Strip032
-6. stitch and run fresh final visual clean-room audit
+4. only then use it as APPROVED previous-strip authority for Strip 002
+5. continue sequentially through Strip 032
+6. stitch and run a fresh final visual clean-room audit
