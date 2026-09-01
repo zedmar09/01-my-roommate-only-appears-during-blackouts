@@ -22,9 +22,9 @@ ATTACH — REQUIRED
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 024 controls temporary post-candle/body/knife/packet state only; correct permanent drift to canon rather than propagating it.
-Preserve exact post-candle positions, distinct knife/packet floor spots, extinguished candle, pushed chair, table/food/chopsticks/pantry topology, fridge body/state, and power-state appearance.
-Never render V113–V118, P15, Strip 025, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+Attached canonical WebPs are permanent authority. APPROVED Strip 024 controls temporary post-candle/body/knife/packet/foot/worn state only; correct permanent drift to canon rather than propagating it.
+Preserve exact post-candle positions, SAME STEP FOOT/CANDLE FOOT marks, SAME SCRUNCHIE WRIST, SAME headphones around neck, distinct knife/packet floor spots, extinguished candle, pushed chair, table/food/chopsticks/pantry topology, fridge body/state, and power-state appearance.
+Never render V113–V118, P15, Strip 025, STEP FOOT, CANDLE FOOT, SCRUNCHIE WRIST, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
@@ -32,10 +32,14 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - Unit 2407 = fully unpowered/dark
-- Nari = SAME table-edge-adjacent post-reach position from Strip 024, BOTH FEET at same established floor marks, both hands free after release of the former KNIFE-HAND wrist
+- Nari = SAME table-edge-adjacent post-reach position from Strip 024
+- STEP FOOT = SAME planted anatomical mark from Strip 023–024
+- CANDLE FOOT = SAME short half-step-forward anatomical mark from Strip 023–024
+- both hands free after release of former KNIFE-HAND wrist
+- SCRUNCHIE WRIST unchanged; SAME headphones remain around neck
 - Hyun-woo = SAME close protective position, no contact
-- practical knife = exact distinct Strip 023 floor impact spot
-- SAME empty spicy-seafood outer packet = separate nudged Strip 019 floor spot
+- practical knife = exact distinct Strip 023 floor impact spot, clear of both feet and packet
+- SAME empty spicy-seafood outer packet = separate nudged Strip 019 floor spot near STEP FOOT
 - knife spot and packet spot do NOT overlap/merge
 - sheath = desk
 - candle = extinguished; pushed chair remains pushed back
@@ -46,16 +50,18 @@ ALLOWED CHANGES:
 - V113 OUTSIDE city power indicators begin returning while Unit interior stays dark
 - Hyun-woo remains physically present V113–V116
 - dialogue, head turns, facial reactions, small natural upper-body shifts only; NO STEP/FOOT REPOSITION for either character
+- Nari STEP FOOT/CANDLE FOOT remain fixed; SCRUNCHIE WRIST/headphones unchanged
 - neither floor evidence object moves
 - V117 ONLY: Unit 2407 ordinary supplied power returns as one local state change `VZZT`; normal apartment lights/ordinary devices restore according to canonical powered baseline
-- Nari reflexively raises one/both forearms/hands to shield eyes WHILE HER FEET STAY PLANTED AT SAME MARKS
+- Nari reflexively raises one/both forearms/hands to shield eyes WHILE BOTH FEET STAY PLANTED AT SAME MARKS
 - at instant Unit power returns, Hyun-woo is no longer physically present, but NO disappearance animation is shown
 - V118 shows SAME powered geometry and SAME Nari foot/body location a beat later; she lowers shielding arm(s) only
 
 END:
 - Unit 2407 = normal powered baseline
 - Hyun-woo = absent, no physical/reflected/silhouetted trace
-- Nari = EXACT same story-world foot position as V113–V117; arm(s) lowering after shield reaction, no step
+- Nari = SAME STEP FOOT/CANDLE FOOT story-world positions; arm(s) lowering after shield reaction, no step
+- SCRUNCHIE WRIST unchanged; SAME headphones around neck
 - knife = SAME distinct floor spot
 - empty outer packet = SAME separate floor spot
 - chair = pushed back
@@ -78,20 +84,23 @@ City recovery is NOT trigger. During V113–V116:
 Only V117 Unit return triggers his absence. Do not collapse city return and Unit return into one beat.
 
 ==================================================
-NARI FOOT / BODY POSITION LOCK — ABSOLUTE
+NARI FOOT / WORN-STATE LOCK — ABSOLUTE
 ==================================================
 
 From Strip 024 start through Strip 025 end, Nari does NOT walk.
 
-Freeze her story-world position:
-- same table-edge-adjacent spot established by Strip 023 candle reach
-- same foot relationship to table, distinct knife floor spot, separate outer-packet floor spot, Hyun-woo block area, and refrigerator
-- V113 exterior cut does not reposition her when camera returns inside
-- V114–V116 dialogue does not move her feet
+Freeze her exact state:
+- STEP FOOT remains the same old planted mark near packet
+- CANDLE FOOT remains the same half-step-forward mark toward table edge
+- same relation to table, distinct knife floor spot, separate outer-packet floor spot, Hyun-woo block area, and refrigerator
+- SCRUNCHIE WRIST remains same physical wrist
+- SAME headphones remain around neck
+- V113 exterior cut does not reposition any of these when camera returns inside
+- V114–V116 dialogue does not move her feet/accessories
 - V117 power flash causes only shielding arm/upper-body reaction
-- V118 arm lowers while feet remain planted
+- V118 arm lowers while feet/accessories remain unchanged
 
-Do not use reverse shot to subtly move her backward, sideways, closer to knife/fridge, or onto packet.
+Reverse shots may flip screen-left/right but may not swap STEP FOOT/CANDLE FOOT or SCRUNCHIE WRIST, and may not remove/move headphones.
 
 ==================================================
 TWO FLOOR-EVIDENCE SPOTS — ABSOLUTE
@@ -99,20 +108,28 @@ TWO FLOOR-EVIDENCE SPOTS — ABSOLUTE
 
 A. KNIFE
 - exact Strip 023 `CLANG` impact point
-- remains there through V118
+- remains clear of STEP FOOT, CANDLE FOOT, and packet through V118
 
 B. EMPTY OUTER PACKET
-- exact nudged Strip 019 floor position
+- exact nudged Strip 019 floor position near STEP FOOT
 - remains there through V118
 
-They are separate physical locations. Power restoration, reverse shots, Nari's shielding reaction, or Hyun-woo absence cannot:
+They are separate physical locations. Power restoration, reverse shots, shielding reaction, or Hyun-woo absence cannot:
 - merge them into one cluster
 - move one under/over the other
-- place knife on packet
+- place knife on packet or under either foot
 - remove either object
 - change their relative relation to table/Nari
 
 This distinction passes directly into Strip 026 route planning.
+
+==================================================
+SAME-OBJECT / SAME-MOMENT INSERT RULE — ABSOLUTE
+==================================================
+
+Any city-power insert, Nari reaction close-up, knife-floor detail, packet detail, or powered-room comparison is a view of the SAME current story state unless reading order explicitly advances time.
+Do not create a second knife/packet/Nari because a detail appears.
+Do not show Hyun-woo absent in one same-moment insert while still physically present in another before V117→V118 transition.
 
 ==================================================
 NO VISIBLE DISAPPEARANCE — ABSOLUTE
@@ -131,7 +148,7 @@ Preserve exact relative positions:
 - knife distinct floor spot
 - empty outer packet separate floor spot
 - pushed chair fixed
-- candle extinguished in same holder/table position
+- candle extinguished same holder/table position
 - pot/trivet fixed
 - cloth same hot-handle side
 - used Hyun-woo chopsticks same pot rest point
@@ -141,10 +158,22 @@ Preserve exact relative positions:
 Reverse angles do not swap sides/order.
 
 ==================================================
+TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
+==================================================
+
+Dialogue balloons/tails and `VZZT` must not cover:
+- Nari STEP FOOT/CANDLE FOOT relation when visible
+- knife/packet separate floor evidence
+- Hyun-woo present-vs-absent comparison
+- shielding-arm action needed to explain pose change
+
+`VZZT` is anchored to ordinary Unit power restoration without obscuring Nari or room-state proof.
+
+==================================================
 NARRATION / TEXT DESIGN — ABSOLUTE
 ==================================================
 
-No narration scripted; do not invent any. Use exterior evidence, dialogue, `VZZT`, lighting change. Do not add `POWER RESTORED`, `CITY POWER`, technical labels/system cards.
+No narration scripted; do not invent. Use exterior evidence, dialogue, `VZZT`, lighting change. Do not add `POWER RESTORED`, `CITY POWER`, technical labels/system cards.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
@@ -157,7 +186,7 @@ VERTICAL STORY FLOW
 ==================================================
 
 V113 — OUTSIDE RETURNS FIRST
-Distant Seoul buildings/traffic signals begin returning as small powered points OUTSIDE. Unit 2407 remains fully dark. Hyun-woo remains physical. Nari's unseen interior foot position and both floor evidence spots remain unchanged.
+Distant Seoul buildings/traffic signals begin returning as small powered points OUTSIDE. Unit 2407 remains fully dark. Hyun-woo remains physical. Nari STEP FOOT/CANDLE FOOT, SCRUNCHIE WRIST/headphones, and both floor evidence spots remain unchanged offscreen.
 
 SMALL BLACK GUTTER.
 
@@ -186,12 +215,12 @@ COMPACT BLACK POWER-STATE DIVIDER.
 V117 — UNIT POWER SNAP
 SFX at ordinary Unit power restoration:
 `VZZT`
-Normal apartment lights snap on. Nari shields eyes WITHOUT STEPPING. Do NOT depict visible Hyun-woo disappearance process. Floor evidence remains unmoved.
+Normal apartment lights snap on. Nari shields eyes WITHOUT STEPPING. Do NOT depict visible Hyun-woo disappearance process. Floor/worn state remains unmoved.
 
 SMALL BLACK GUTTER.
 
 V118 — ABSENCE / SAME FEET / SAME FLOOR EVIDENCE
-Same exact now-powered geometry. Nari lowers arm(s) while remaining at same foot/body position. Hyun-woo simply absent. Knife/packet/props unchanged; pushed chair remains.
+Same exact now-powered geometry. Nari lowers arm(s) while remaining at SAME STEP FOOT/CANDLE FOOT positions. Hyun-woo simply absent. Knife/packet/props unchanged; pushed chair remains. SCRUNCHIE WRIST/headphones unchanged.
 
 ==================================================
 LIGHTING / NO DEAD BOTTOM
@@ -201,14 +230,16 @@ V113–V116 canonical blackout. V117 contained transition. V118 canonical neutra
 Use absence composition through lower canvas; no giant tail.
 
 SEAM OUT — G
-Strip 026 begins immediately with Nari at THIS SAME exact post-reach/table-edge position before evidence route. SAME knife and outer packet remain two separate floor obstacles/evidence points.
+Strip 026 begins immediately with Nari at THIS SAME exact post-reach/table-edge STEP FOOT/CANDLE FOOT position before evidence route. SAME knife and outer packet remain two separate floor obstacles/evidence points; worn state unchanged.
 
 AUTOMATIC REJECT IF
-- any production label appears
+- any production/STEP FOOT/CANDLE FOOT/SCRUNCHIE WRIST label appears
 - attached refs/geometry drift
-- permanent drift from previous strip propagated over canon
-- Nari feet/position drift or she steps during power snap
+- permanent drift previous strip propagated over canon
+- STEP FOOT/CANDLE FOOT positions drift or Nari steps
+- SCRUNCHIE WRIST/headphones change
 - knife/outer packet move, merge, overlap, disappear, or swap relative position
+- same-moment insert creates duplicate/incompatible Hyun-woo or floor evidence state
 - Hyun-woo disappears at city return or remains after Unit return
 - Unit lights/appliances restore before V117
 - visible disappearance effect shown
@@ -216,6 +247,7 @@ AUTOMATIC REJECT IF
 - chair/candle/table/food/pantry topology resets/moves because power returns
 - reverse shots swap prop sides
 - blackout look continues into V118 or cinematic bloom replaces powered baseline
+- text obscures feet/floor/presence evidence
 - invented narration/system labels
 - black separators missing/oversized
 ```
