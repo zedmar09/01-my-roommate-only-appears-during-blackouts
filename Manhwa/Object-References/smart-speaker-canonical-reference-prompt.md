@@ -25,4 +25,7 @@ This reference is reusable in every later chapter where this same physical speak
 
 Style: polished matte 2D manhwa prop sheet, no photoreal/3D/gloss.
 
-Save as `smart-speaker-canonical-states.png`.
+Save local generation result as `smart-speaker-canonical-states.png`.
+
+After visual approval, manually convert and store/use this repository authority:
+`smart-speaker-canonical-reference.webp`
