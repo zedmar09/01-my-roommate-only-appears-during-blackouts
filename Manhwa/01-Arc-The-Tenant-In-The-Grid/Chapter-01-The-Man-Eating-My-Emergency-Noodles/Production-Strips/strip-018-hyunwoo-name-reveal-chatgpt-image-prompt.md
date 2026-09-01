@@ -18,11 +18,12 @@ ATTACH — REQUIRED
 - this Strip 018 prompt
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached WebPs + APPROVED Strip 017 are binding. Preserve exact character identities, chair/table/refrigerator axis, pot/trivet/cloth/candle, chopsticks, pantry state, mask hardware, tattoo map, and blackout lighting.
-Never render V81–V84, P11, Strip 018, beat/panel/scene labels, or any production metadata anywhere, especially top-left.
+Attached canonical WebPs are permanent authority. APPROVED Strip 017 controls temporary table/food/mask/packet state only; correct permanent character/room drift to canon rather than propagating it.
+Preserve exact character identities, chair/table/refrigerator axis, pot/trivet/cloth/candle, packet/wrapper topology, chopsticks, mask hardware, tattoo map, and blackout lighting.
+Never render V81–V84, P11, Strip 018, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
@@ -32,72 +33,84 @@ START:
 - Nari = SAME entrance position from Strip 017, zero steps, drawn practical knife low
 - Hyun-woo = SAME seated chair closest kitchen/refrigerator
 - SAME mask = attached, temporarily lowered/disengaged enough to clear mouth
-- SAME chopstick pair + SAME noodle pot/broth/noodle contents remain physically present
-- trivet/cloth/candle/pantry remain unchanged; pantry still five unopened packets
+- SAME chopstick pair = still in Hyun-woo's hand, lowered near SAME pot from Strip 017
+- SAME noodle pot/broth/noodle contents, trivet, folded cloth at SAME hot-handle side, candle/holder, and seasoning wrapper remain same table topology
+- pantry still exactly FIVE unopened packets
+- SAME empty spicy-seafood outer packet remains at SAME fixed floor position on Nari's later step path
 - Unit power absent
 
 ALLOWED CHANGES:
 - V81 dialogue only; no position change
-- V82 Hyun-woo visibly STOPS eating, moves SAME chopsticks away from mouth and rests them against/in SAME pot, then uses free hand to raise/reseat SAME mask, then secures it with `TCHK`
+- V82 Hyun-woo visibly stops eating; if any food remains between chopsticks/mouth resolve/lower it, then SAME chopsticks move from his hand to ONE fixed rest point against/in SAME pot; only after fingers release chopsticks is that hand free
+- free hand raises/reseats SAME attached mask, then secures it with `TCHK`
 - after mask reseat, no further eating
 - V83/V84 dialogue/reveal only; no seat/distance change
+- all table/floor packet topology remains fixed
 
 END:
 - Nari = same entrance mark, knife low
 - Hyun-woo = same seated chair
-- mask = canonical fully covering nose/mouth/jaw and attached by same hardware
-- chopsticks = same pair resting at/in same pot; not at mouth
-- pot/broth/noodles/trivet/cloth/candle/pantry remain present and stable
+- mask = canonical fully covering nose/mouth/jaw, same hardware
+- SAME used chopsticks = released and resting at ONE fixed rest point against/in SAME pot; not in hand/mouth
+- pot/broth/noodles/trivet/cloth/candle/seasoning-wrapper topology unchanged
+- five unopened pantry packets unchanged
+- empty spicy-seafood outer packet unchanged at fixed floor spot
 - no lower-face identity exposed
 
 ==================================================
-MASK RESEAT CAUSAL CHAIN — NON-NEGOTIABLE
+MASK RESEAT / CHOPSTICK REST CAUSAL CHAIN — NON-NEGOTIABLE
 ==================================================
 
 V82 MUST visibly read in this order:
 1. eating ends
-2. any noodles between chopsticks/mouth are visibly finished/lowered; no strand may magically vanish
-3. SAME chopsticks move away from mouth
-4. SAME chopsticks visibly rest against/in SAME pot first
-5. Hyun-woo now has a free hand
-6. free hand reaches SAME attached mask
-7. mask physically rises from temporary eating position
-8. mask settles into canonical full-cover position
-9. ONLY AFTER full seating: `TCHK`
-10. mask remains fully seated thereafter
+2. any visible noodle between chopsticks/mouth is finished/lowered; no strand magically vanishes
+3. SAME chopsticks move away from mouth while still held
+4. SAME chopsticks physically contact ONE fixed rest point against/in SAME pot
+5. Hyun-woo's fingers release SAME chopsticks
+6. chopsticks remain resting there; hand is now visibly empty/free
+7. free hand reaches SAME attached mask
+8. mask physically rises from temporary eating position
+9. mask settles into canonical full-cover position
+10. ONLY AFTER full seating: `TCHK`
+11. mask remains fully seated thereafter
 
-Do not skip from eating pose directly to sealed mask. Do not let noodles pass through mask. Do not remove mask from straps/hardware.
+Do not skip from eating to sealed mask. Do not let noodles pass through mask. Do not remove mask from straps/hardware. Do not show chopsticks simultaneously in hand and resting at pot after release.
 
 ==================================================
-FOOD / PROP MICRO-CONTINUITY — ABSOLUTE
+DINING / FLOOR PROP TOPOLOGY — ABSOLUTE
 ==================================================
 
-The SAME noodle pot, broth/noodle contents, trivet, cloth, candle/holder, pantry, and chopsticks persist through all dialogue/reveal slices. Camera close-ups do not erase them.
+Reverse shots may change screen direction but NOT physical relationships.
+Preserve:
+- Hyun-woo chair closest kitchen/refrigerator
+- pot on same trivet at same table location
+- cloth at same hot-handle side
+- candle/holder same table position relative to pot
+- seasoning wrapper same table position near pot
+- used chopsticks, after V82, at one fixed pot rest point
+- five unopened packets in pantry
+- empty spicy-seafood outer packet at same fixed floor location on Nari's path
 
-If V81 shows chopsticks/noodles still near mouth from Strip 017, V82 must resolve that visible food state before mask action. The pot cannot become empty/full randomly, and the chopsticks cannot disappear after resting.
+Do not swap sides/order because camera reverses.
 
-Nari's knife remains in same hand and low. She takes zero steps. Hyun-woo does not slide chair, stand, or lean across table.
+==================================================
+NARI / KNIFE / POSITION MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+Nari remains at entrance, zero steps. Knife stays low in same hand. No hand switch, sheath return, vanish, table/floor placement. Hyun-woo does not slide chair, stand, or lean across table.
 
 ==================================================
 NARRATION / REVEAL DESIGN — ABSOLUTE
 ==================================================
 
-No narration is scripted; do not invent any. The V83→V84 reveal delay should be created through composition, small black pacing interval, eye/face framing, and canonical detail—not a generic narration box, production label, cinematic title card, or glowing name graphic.
-`HYUN-WOO.` is spoken dialogue from Hyun-woo only.
+No narration is scripted; do not invent any. V83→V84 reveal delay comes from composition, small black pacing interval, eye/face framing, canonical detail—not generic narration, production label, cinematic title card, or glowing name graphic.
+`HYUN-WOO.` is Hyun-woo spoken dialogue only.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Small black gutter between each distinct reveal slice. If a seated-wide + detail close-up share one row, split with diagonal black divider. Do not let the reveal become a printed-page grid; separators are narrow.
-
-==================================================
-POSITION / REVEAL / MASK LOCK
-==================================================
-
-Nari remains at entrance, zero steps. Hyun-woo remains seated in same chair, no slide/stand/lean across table. Pot/trivet/cloth/candle fixed.
-
-Canonical Hyun-woo: broad build, long black hair tied low, severe eyes, black sleeveless/dark utility clothing, modern matte-black technical lower-face mask, established dense matte-black circuit-sigil tattoo map. No generic cloth mask, exposed lower face after V82, short hair, tattoo redesign, neon veins.
+Small black gutter between each reveal slice. If seated-wide + detail close-up share a row, split with diagonal black divider. Separators narrow, not printed-page grid.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -111,9 +124,8 @@ HYUN-WOO:
 
 SMALL BLACK GUTTER.
 
-V82 — MASK RESEAT / LOCK
-Execute the exact ten-step causal mask/food action above.
-SFX at SAME mask only after it is fully seated:
+V82 — CHOPSTICKS REST / MASK RESEAT
+Execute exact causal chain above: resolve food → chopsticks contact/release at fixed pot rest point → free hand → mask reseat → only then:
 `TCHK`
 
 SMALL BLACK GUTTER.
@@ -125,7 +137,7 @@ NARI:
 SMALL BLACK GUTTER / REVEAL DELAY.
 
 V84 — DOMINANT CANONICAL REVEAL
-From SAME seated position, reveal readable canonical upper face/eyes, fully reseated technical lower-face mask, tattoos, hair, and broad body while table/candle/pot anchors prove no relocation.
+From SAME seated position, reveal readable canonical upper face/eyes, fully reseated technical lower-face mask, tattoos, hair, broad body while table/candle/pot/packet anchors prove no relocation.
 HYUN-WOO:
 `HYUN-WOO.`
 
@@ -137,21 +149,24 @@ Unit power absent, candle small matte source. No glow-heavy reveal.
 V84 uses lower canvas fully; no giant tail beneath name.
 
 SEAM OUT — G
-Strip 019 begins immediate interrogation at same distance, same chair, same mask, same table props, same Nari knife/position.
+Strip 019 begins immediate interrogation at same distance/chair/mask/table topology, SAME used chopsticks at fixed pot rest point, and SAME empty outer packet at fixed floor spot.
 
 AUTOMATIC REJECT IF
-- any V/P/strip/beat/panel/scene production label appears
-- attached references or room geometry are redesigned/mirrored
+- any production label appears
+- attached refs/room geometry redesigned/mirrored
+- permanent drift from previous strip propagated over canon
 - either character changes story-world position
-- noodles/chopsticks/pot disappear between adjacent slices without completed action
-- Hyun-woo eats through fully covering mask
-- mask jumps directly from eating state to sealed state without visible reseat
-- `TCHK` occurs before mask is fully seated
+- empty floor packet/seasoning wrapper/pot/candle/cloth topology changes or swaps because camera reverses
+- noodles/chopsticks disappear without completed action
+- chopsticks are already resting before visible V82 placement/release or remain in hand after release
+- Hyun-woo eats through full mask
+- mask jumps directly to sealed state without visible reseat
+- `TCHK` before mask fully seated
 - exposed lower face clearly revealed
 - mask/tattoo/hair redesigns
-- Nari's knife/hand state changes
+- Nari knife/hand state changes
 - invented narration/title card appears
-- black slice separator missing/oversized
+- black separator missing/oversized
 - giant dead bottom appears
 ```
 
