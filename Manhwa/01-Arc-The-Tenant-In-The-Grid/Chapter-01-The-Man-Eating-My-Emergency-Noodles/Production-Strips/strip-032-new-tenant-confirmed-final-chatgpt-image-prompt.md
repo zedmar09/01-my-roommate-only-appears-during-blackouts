@@ -22,8 +22,8 @@ Do NOT attach Hyun-woo.
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 031 controls temporary hostile-TV/Nari/notebook/seam state only; correct any permanent character/TV/room drift to canon rather than propagating it.
-Preserve exact Nari identity/chair/pose, TV body/stand/cord, wall socket location, loose plug state, notebook/pen/table evidence, pushed chair, open cabinet/speaker, and powered room geometry.
+Attached canonical WebPs are permanent authority. APPROVED Strip 031 controls temporary hostile-TV/Nari/notebook/table/cabinet/seam state only; correct permanent character/TV/room drift to canon rather than propagating it.
+Preserve exact Nari identity/chair/pose, TV body/stand/cord, fixed wall socket, loose plug state, notebook/pen, full table topology, pushed chair, exact open cabinet/speaker topology, and powered room geometry.
 Never render V146, P18, Strip 032, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
@@ -32,56 +32,88 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - SAME TV activation a fraction after Strip 031
-- Strip 031 has already visually proven the wall-disconnected state during activation
-- TV appliance-side cord remains attached to TV body
-- SAME cord ends in SAME loose wall-end plug
-- SAME wall-mounted socket remains EMPTY
-- TV hostile field already active from Strip 031
-- Unit 2407 ordinary supplied power remains ON
-- Nari remains seated in SAME untouched dining chair, turned toward TV
-- SAME notebook + ONE pen remain at table
-- Hyun-woo's chair remains pushed back; food/candle/pantry/open-cabinet/speaker/phone/binder/key/desk states unchanged
+- Strip 031 already visually proved wall-disconnected state during activation
+- TV appliance-side cord attached; SAME cord ends SAME loose wall-end plug; SAME fixed wall-mounted socket EMPTY at SAME wall/height/orientation/faceplate relation
+- TV hostile field already active
+- Unit ordinary supplied power ON
+- Nari seated in SAME untouched dining chair, turned toward TV
+- SAME notebook = same open table position with exact writing
+- SAME pen = released horizontally across lower/open notebook page/margin exactly where Strip 031 placed it
+- SAME pot/trivet/cloth/seasoning-wrapper/empty-outer-packet topology remains
+- PAIR A used Hyun-woo chopsticks = same pot rest point
+- PAIR B clean Nari chopsticks = same Nari-side table spot
+- Hyun-woo chair = pushed back
+- open speaker cabinet exact state: lid flat on shelf beside storage pot; TOWEL1 liner; speaker + attached coiled cord/loose plug; TOWEL2 folded back
+- phone/binder/key/desk states unchanged
 - no Hyun-woo physical/reflected/silhouetted presence
 
 ALLOWED CHANGES:
 - hostile TV field resolves into exact device message `NEW TENANT CONFIRMED`
-- apartment ordinary lights flicker ONCE `FZZT` but do NOT lose supplied power
-- Nari reacts from SAME chair; no walk toward TV
-- no second `KZZT` if activation was already established Strip 031
-- no change to the proven loose-plug/empty-socket state
+- ordinary apartment lights flicker ONCE `FZZT` but do NOT lose supplied power
+- Nari reacts from SAME chair; face/head/upper torso only, no walk
+- pen/notebook/table props/cabinet state do not move
+- no second `KZZT`
+- no change to proven loose-plug/empty-socket state
 - no other text/event/state change
 
 END:
-- TV still physically unplugged FROM WALL, appliance-side cord attached, loose plug outside empty wall socket
+- TV still physically unplugged FROM WALL with TV-side cord attached, loose plug outside SAME fixed empty socket
 - exact `NEW TENANT CONFIRMED` displayed on TV
-- Unit remains powered after one light flicker
-- Nari remains at table with same notebook/pen
+- Unit remains powered after one flicker
+- Nari remains same chair/table
+- notebook remains open; pen remains horizontally resting on notebook/page margin
+- Pair A/Pair B/packet/wrapper/pot/cabinet topology unchanged
 - Hyun-woo absent
-- all continuity evidence unchanged
 - chapter ends immediately
 
 ==================================================
-FINAL WALL-SOCKET CONTINUITY — ABSOLUTE
+FINAL FIXED WALL-OUTLET CONTINUITY — ABSOLUTE
 ==================================================
 
-Strip 032 does NOT reinterpret the unplug state. It inherits the explicit Strip 031 proof:
-- wall outlet/socket is on WALL at canonical location
-- same TV cord remains attached to TV body
-- same cord ends in loose electrical plug
-- plug remains OUT of wall socket
-- socket remains EMPTY
-- no hidden second cable/power source appears
+Strip 032 inherits exact Strip 006/031 outlet landmark:
+- SAME story-world wall
+- SAME height/orientation/faceplate relation
+- TV cord remains attached to TV body
+- SAME cord ends loose plug
+- plug remains OUT of socket
+- SAME socket remains EMPTY
+- no hidden second cable/power source
 
-Do NOT detach cable from TV body. Do NOT show an empty TV power port as “unplugged.” Do NOT silently re-plug it for the final reveal.
+Do NOT detach cable from TV body. Do NOT show empty TV power port as “unplugged.” Do NOT silently replug. Reverse framing may change screen position but cannot move the physical outlet.
 
-If the final composition includes the plug/socket zone, it must reproduce the exact Strip 031 loose-plug + empty-wall-socket state. If that zone is off-frame to prioritize the final message, the previously proven state still exists and may not change.
+If plug/socket zone appears, reproduce exact Strip031 loose-plug + empty-socket state. If off-frame to prioritize message, previously proven state still exists and cannot change.
 
 ==================================================
-NARI / NOTEBOOK / PROP MICRO-CONTINUITY — ABSOLUTE
+TABLE / NOTEBOOK / PEN / CHOPSTICK TOPOLOGY — ABSOLUTE
 ==================================================
 
-Nari stays seated in SAME untouched chair. Reaction may change face/head/upper body only; she does not cross room.
-Notebook and pen cannot vanish during TV close-up. Hyun-woo chair remains pushed. Open speaker cabinet and stored unplugged speaker remain. Food/pot/chopsticks/packet/wrapper/candle evidence remains logically unchanged. Power flicker does not clean/reset props.
+The final TV reveal does not clean the dining scene.
+Preserve:
+- notebook open at same place
+- pen horizontally across lower/open page/margin; it cannot vanish into Nari's hand
+- pot/trivet same place
+- cloth same hot-handle side
+- seasoning wrapper + empty outer packet same table positions
+- Pair A used chopsticks same pot rest point
+- Pair B clean chopsticks same Nari-side table spot
+- extinguished candle/holder same location if visible
+- pushed Hyun-woo chair same location
+
+Reverse/close shots do not swap sides/order.
+
+==================================================
+OPEN SPEAKER CABINET TOPOLOGY — ABSOLUTE
+==================================================
+
+The final TV event does not reset the open cabinet:
+- lower cabinet remains OPEN
+- same stockpot remains inside
+- lid remains flat on shelf beside stockpot
+- TOWEL1 bottom liner
+- speaker + attached coiled cord + loose speaker wall plug remain on liner
+- TOWEL2 remains folded back
+
+No one closes/re-packs/replugs speaker in final strip.
 
 ==================================================
 FINAL MESSAGE / TEXT / NARRATION DESIGN — ABSOLUTE
@@ -90,10 +122,10 @@ FINAL MESSAGE / TEXT / NARRATION DESIGN — ABSOLUTE
 TV DEVICE TEXT ONLY:
 `NEW TENANT CONFIRMED`
 
-It exists only on SAME TV screen using hostile full-screen broadcast/signal takeover: stark broken white, doubled edges, restrained black-pixel interference.
-Not speech, narration, hologram, wall text, or helpful cyan.
+Only on SAME TV screen using hostile full-screen broadcast/signal takeover: stark broken white, doubled edges, restrained black-pixel interference.
+Not speech, narration, hologram, wall text, helpful cyan.
 
-No narration is scripted. Do not add chapter-end narration, `TO BE CONTINUED`, credits, next-chapter copy, title card, or any production label. Let the device message + Nari reaction carry the ending.
+No narration. Do not add `TO BE CONTINUED`, credits, next-chapter copy, title card, production label.
 
 ==================================================
 POWER / LIGHT FLICKER — ABSOLUTE
@@ -103,25 +135,24 @@ Apartment lights flicker ONCE while ordinary Unit power remains supplied.
 SFX at apartment light:
 `FZZT`
 
-This is NOT a blackout:
+This is NOT blackout:
 - normal powered baseline returns immediately after flicker
 - Hyun-woo does not become physical
-- TV remains hostile while physically unplugged from wall
+- TV remains hostile while wall-unplugged
 - no room-wide blackout rendering
 
 ==================================================
 SEAM IN — ABSOLUTE
 ==================================================
 
-No black technical bar at 031→032. Continue same TV body/position, attached cord, loose plug, empty wall socket, hostile field, Nari chair/pose, notebook/pen, props, and powered state.
-
-The first Strip 032 slice must look like a fraction-of-a-second continuation, not a redesigned TV setup.
+No black technical bar at 031→032. First Strip032 slice must be fraction-of-second continuation, not redesigned setup.
+Continue same TV/body/cord/plug/socket/hostile field, Nari chair/pose, notebook/pen, table topology, open cabinet topology, powered state.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-This strip may use several descending sub-slices of one final composition. Put SMALL BLACK GUTTERS only where a distinct camera/reaction beat changes. If TV close-up and Nari reaction share one row, use diagonal black divider. Do not chop final reveal into a grid and do not create giant black tail.
+May use several descending sub-slices of one final composition. SMALL BLACK GUTTERS only when distinct camera/reaction beat changes. If TV close-up + Nari reaction share row, use diagonal black divider. Do not chop final reveal into grid or giant tail.
 
 ==================================================
 FULL-CANVAS FINAL
@@ -131,25 +162,28 @@ Use canvas meaningfully:
 - upper same-TV hostile continuation with established wall-unplug truth preserved
 - central exact `NEW TENANT CONFIRMED`
 - one `FZZT` light flicker while power stays on
-- lower Nari reaction + same notebook/table + powered Unit 2407 geography
+- lower Nari reaction + same notebook/pen/table + powered Unit geography
 Only minimal natural final margin.
 
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
-- permanent drift from previous strip is propagated over canon
-- TV cable is detached from TV body rather than wall socket
-- TV is physically plugged/re-plugged, wall socket occupied, socket relocated, loose plug missing, or cord redesigns
-- Strip 032 contradicts the wall-unplug proof established in Strip 031
-- hidden second power cable/source appears
-- device text becomes speech/narration/floating text or helpful cyan
-- `NEW TENANT CONFIRMED` wording changes or appeared before this strip
-- Nari leaves chair/teleports or notebook/pen/props vanish/reset
+- permanent drift previous strip propagated over canon
+- TV cable detached from TV body rather than wall socket
+- TV physically plugged/replugged, fixed socket occupied/relocated/changed height/orientation, loose plug missing, cord redesigned
+- Strip032 contradicts Strip031 wall-unplug proof
+- hidden second power cable/source
+- device text becomes speech/narration/floating/helpful cyan
+- `NEW TENANT CONFIRMED` wording changes/appeared earlier
+- Nari leaves chair/teleports
+- notebook/pen disappear or pen returns to hand without pickup
+- packet/wrapper/Pair A/Pair B/table topology resets/swaps
+- open cabinet/lid/towels/speaker topology resets
 - reflected/person/silhouette Hyun-woo appears
-- apartment loses power / second blackout occurs
-- `KZZT` redundantly repeats after Strip 031 activation
-- extra chapter-ending copy/narration appears
-- black slice divider becomes giant dead band
+- apartment loses power / second blackout
+- `KZZT` redundantly repeats
+- extra chapter-ending copy/narration
+- black divider becomes giant dead band
 ```
 
 ## Production Thread Attachments
