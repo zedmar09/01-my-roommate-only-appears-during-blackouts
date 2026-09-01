@@ -18,20 +18,69 @@ ATTACH — REQUIRED
 - this Strip 019 prompt
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached WebPs + APPROVED Strip 018 are binding. Preserve exact character identities, dining/refrigerator geometry, chair/table/pot/candle/pantry placement, packet design/count, Nari knife state, and blackout lighting.
+Never render V85–V89, P12, Strip 019, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- Nari = SAME entrance mark from Strip 018, knife low in same hand
+- Hyun-woo = SAME seated chair, canonical mask fully reseated
+- SAME pot/noodles/chopsticks/trivet/cloth/candle remain table anchors; chopsticks remain resting at/in pot from Strip 018
+- pantry slightly ajar with exactly FIVE unopened packets
+- ONE empty spicy-seafood packet lies on floor along Nari's later one-step path
+
+ALLOWED CHANGES:
+- V85–V87 dialogue/reactions only; ZERO steps and no distance change
+- V88 exactly ONE cautious physical step: weight shift → one bare foot forward → SAME foot nudges ONE empty packet → `CRINKLE`
+- no second step, no slide, no camera-cut teleport
+- V89 dialogue from the NEW closer stopped position
+
+END:
+- Nari = exactly one-step closer than Strip 018; this new mark persists into Strip 020
+- empty packet = slightly nudged from its original floor position, same one packet
+- Hyun-woo = still seated same chair
+- all table/pantry/candle/food/chopstick anchors unchanged
+- knife = low in Nari's same hand
+
+==================================================
+ONE-STEP BODY MECHANICS — NON-NEGOTIABLE
+==================================================
+
+V88 must visibly read as one human step, not a teleport:
+1. start from established entrance mark
+2. visible weight shift
+3. one foot advances
+4. advancing bare foot contacts/nudges SAME empty packet
+5. packet deforms/moves slightly enough to source `CRINKLE`
+6. Nari settles at new closer stop
+
+Do not cut directly from old mark to new mark without showing the step. Do not move both feet through multiple strides. Do not move Hyun-woo.
+
+==================================================
+PROP / FOOD / HAND MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+ONE empty spicy-seafood packet only; no duplicate under both feet or beside pantry. Five unopened packets remain in pantry. Empty packet is evidence of the sixth packet already used.
+Pot/noodles/chopsticks/candle remain physically present through interrogation even if off-camera; dialogue cuts do not clear the table.
+Nari's knife remains low and in same hand. She cannot nudge packet with a foot while magically changing knife hand/state.
+
+==================================================
+NARRATION / TEXT DESIGN — ABSOLUTE
+==================================================
+
+No narration is scripted; do not invent any. Use dialogue/reaction and the physical `CRINKLE` step to pace the scene. Never add a generic interrogation caption, name tag, or V-label.
+
+==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
 Small black gutter between every distinct interrogation/action slice. Side-by-side reaction/prop views use diagonal black divider. No oversized black band.
-
-==================================================
-DISTANCE / ONE-STEP LOCK
-==================================================
-
-V85–V87: Nari remains at exact entrance position; Hyun-woo remains seated. No distance change.
-V88 is the ONLY distance-closing action: Nari takes exactly ONE cautious physical step toward table; her bare foot nudges the ONE empty spicy-seafood packet.
-V89 preserves the NEW closer stopped position. Do not reset her backward.
-
-Pantry remains slightly ajar with exactly five unopened other-flavor packets. Pot/trivet/cloth/candle/chair fixed. Knife low.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -60,7 +109,7 @@ NARI:
 SMALL BLACK GUTTER.
 
 V88 — ONE STEP
-Show weight shift → one foot forward → packet nudged.
+Show weight shift → one foot forward → SAME empty packet nudged.
 SFX at packet:
 `CRINKLE`
 Hyun-woo does not move.
@@ -77,13 +126,19 @@ HYUN-WOO:
 NO DEAD BOTTOM / SEAM
 ==================================================
 
-End on new closer geometry + packet + pantry/table evidence. Strip 020 starts from this exact state.
+End on new closer geometry + same nudged packet + pantry/table evidence. Strip 020 starts from this exact state.
 
 AUTOMATIC REJECT IF
-- Nari moves before V88 or takes >1 step
+- any production label appears
+- attached refs/room geometry drift
+- Nari moves before V88, takes more than one step, or jumps positions across a camera cut
+- V89 resets Nari to old entrance mark
 - Hyun-woo moves/stands
-- packet duplicates
+- packet duplicates/disappears or `CRINKLE` has no visible foot contact
 - pantry count changes
+- pot/noodles/chopsticks/candle disappear because of dialogue cuts
+- knife hand/state changes without action
+- invented narration appears
 - black dividers missing/oversized
 - giant dead bottom appears
 ```
