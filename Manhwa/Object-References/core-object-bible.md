@@ -60,6 +60,48 @@ Representative style samples:
 - `YOON NARI`
 - `IDENTITY LOCKING`
 
+## Unit 2407 Electrical Operation Guide
+
+Same physical binder/manual every time it returns:
+- one matte practical residential electrical-operation binder
+- fixed body size/proportions once approved
+- exact cover/title text: `UNIT 2407 / ELECTRICAL OPERATION GUIDE`
+- ordinary paper/ring/tab construction, never a tablet/device
+- no brand/logo/company advertising
+
+Story-critical interior identity:
+- visible `SECTION 16`
+- physical jump directly to `SECTION 18`
+- no normal visible `SECTION 17` page/tab
+- south-wall diagram page carries old physical handwriting:
+  `KEEP ONE MAINS-POWERED LIGHT ON AFTER MIDNIGHT.`
+
+Recurring physical states:
+- closed on kitchen counter
+- open for inspection
+- carried between counter and reading area
+- returned closed to kitchen counter
+
+Never duplicate the binder or convert its handwriting/section pages into floating/digital UI.
+
+## Unit 2407 Brass Backup Key
+
+Same single mechanical key every time it returns:
+- exactly one specific brass backup key for Unit 2407
+- ordinary modern residential key scale
+- stable bow/head shape and blade/notch pattern once approved
+- muted matte/satin brass, not chrome/silver
+- no electronic fob/card
+- no decorative tag unless already explicitly established
+
+Recurring physical states:
+- initially on Mrs. Na's ordinary key ring
+- detached and placed beside the manual on kitchen counter
+- held by Nari
+- returned to the established entry tray
+
+Mrs. Na may carry other different keys, but the Unit 2407 backup key itself must never duplicate or morph.
+
 ## Shared Hostile Family / Different Manifestation
 
 TV and refrigerator share the hostile broken-white + black-pixel family, but must never look identical:
