@@ -236,7 +236,7 @@ Strip 032 ends on hostile `NEW TENANT CONFIRMED` + one `FZZT` light flicker whil
 
 **Rendered strip visual audit:** BLOCKED — no Strip 001–032 artwork files are currently present
 
-**Seam/stitch/dead-space/mobile-lettering visual audit:** BLOCKED — requires rendered/stiched artwork
+**Seam/stitch/dead-space/mobile-lettering visual audit:** BLOCKED — requires rendered/stitched artwork
 
 **FINAL STATUS: NOT PRODUCTION COMPLETE — REQUIRED VISUAL AUTHORITY / RENDER ASSETS MISSING**
 
