@@ -19,21 +19,67 @@ ATTACH — REQUIRED
 - this Strip 022 prompt
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached WebPs + APPROVED Strip 021 are binding. Preserve exact blocking positions, refrigerator body/display, pushed chair, table/pot/chopsticks/candle/pantry/packet evidence, Nari knife state, and blackout geometry.
+Never render V98–V102, P14, Strip 022, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- Hyun-woo = SAME blocking position between Nari and refrigerator
+- Nari = SAME closer position behind him; knife low same hand; no step
+- refrigerator narrow display already reads `YOON NARI`
+- SAME candle/holder remains fixed on SAME dining table
+- pushed chair/table/food/chopsticks/pantry/empty packet unchanged
+- Unit supplied power absent
+
+ALLOWED CHANGES:
+- dialogue only; no character movement
+- V99 refrigerator adds `IDENTITY LOCKING` BENEATH existing `YOON NARI`; first line does not disappear
+- V102 SAME candle flame develops blue center only; holder/candle do not move
+- no candle blow, knife drop, wrist catch, or character reach yet
+
+END:
+- same character positions
+- fridge displays BOTH `YOON NARI` + `IDENTITY LOCKING`
+- same candle/holder in same table spot with blue-centered flame
+- knife still in Nari hand low
+- all table/chair/pantry/packet evidence unchanged
+
+==================================================
+DEVICE TEXT PERSISTENCE — ABSOLUTE
+==================================================
+
+V99 is an ADDITIVE state change, not replacement:
+line 1 remains `YOON NARI`
+line 2 appears beneath: `IDENTITY LOCKING`
+
+Both remain inside SAME narrow built-in display. Do not move text to refrigerator doors, speech bubbles, narration, hologram, or full-room overlay. Refrigerator hostile effect remains contained embedded-diagnostic language, not TV-style broadcast takeover.
+
+==================================================
+CANDLE / BODY MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+The short pillar candle and ceramic holder are ONE fixed physical pair. Flame may bend/change color center, but candle/holder cannot slide, jump closer to Nari, change height, or duplicate.
+Nari does NOT move toward the candle in this strip. Hyun-woo does NOT move from blocking mark. The realistic half-step/lean belongs to Strip 023 only.
+
+Pot/noodles/chopsticks/trivet/cloth, pushed chair, pantry five packets, empty packet on floor persist through close-ups.
+
+==================================================
+NARRATION / TEXT DESIGN — ABSOLUTE
+==================================================
+
+No narration is scripted; do not invent any. Human lines remain speech. Fridge lines remain device text. `NOW.` is Hyun-woo speech, not a dramatic title card. Do not add production labels or generic ominous captions.
+
+==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
 Small black gutter between each distinct dialogue/device/candle slice. Side-by-side human reaction + fridge/candle detail requires diagonal black divider. External 021→022→023 effect/action continuity must not be broken by a visible technical bar.
-
-==================================================
-START / POSITION / DEVICE LOCK
-==================================================
-
-Hyun-woo remains between Nari and refrigerator; Nari remains behind him, knife low. Neither moves.
-Fridge already shows `YOON NARI`.
-V99 adds `IDENTITY LOCKING` BENEATH existing name; do not replace name.
-Both are device text on SAME narrow display using refrigerator embedded diagnostic/locking effect.
-
-Same short pillar candle remains in SAME ceramic holder on SAME dining table. V102 adds unnatural BLUE center only; candle never moves.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -48,6 +94,7 @@ NARI:
 SMALL BLACK GUTTER.
 
 V99 — FRIDGE ADDS SECOND LINE
+REFRIGERATOR DEVICE TEXT:
 `YOON NARI`
 `IDENTITY LOCKING`
 
@@ -66,24 +113,29 @@ HYUN-WOO:
 SMALL BLACK GUTTER.
 
 V102 — BLUE CENTER
-Same flame develops blue center.
+Same flame develops blue center while candle/holder stay fixed.
 HYUN-WOO:
 `NOW.`
-No knife drop/wrist catch yet.
+No reach/blow/knife drop/wrist catch yet.
 
 ==================================================
 NO DEAD BOTTOM / SEAM
 ==================================================
 
 Use blue-centered candle + blocking geometry as lower payoff. No giant tail.
-Strip 023 starts with Nari extinguishing THIS candle from same position.
+Strip 023 starts from these exact positions and extinguishes THIS SAME candle after a visible realistic reach.
 
 AUTOMATIC REJECT IF
-- characters/candle move
-- `YOON NARI` disappears early
-- device text becomes speech bubble
+- any production label appears
+- attached references/geometry drift
+- characters move or Nari reaches candle early
+- candle/holder moves/duplicates/changes object identity
+- `YOON NARI` disappears when `IDENTITY LOCKING` appears
+- device text becomes speech/narration/floating overlay
 - TV hostile language used on fridge
 - knife/wrist event occurs early
+- table/food/chair/pantry evidence disappears between close-ups
+- invented narration appears
 - black separators missing/oversized
 ```
 
