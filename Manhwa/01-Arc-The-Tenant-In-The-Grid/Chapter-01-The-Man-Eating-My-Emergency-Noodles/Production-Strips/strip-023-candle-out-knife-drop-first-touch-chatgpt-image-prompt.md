@@ -22,9 +22,9 @@ ATTACH — REQUIRED
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 022 controls temporary blocking/device/candle state only; correct any permanent drift to canon rather than propagating it.
-Preserve exact blocking geometry, candle/holder/table, refrigerator body/display, Nari knife, pushed chair, table food/chopsticks/pantry/packet evidence, and blackout state.
-Never render V103–V107, P14, Strip 023, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+Attached canonical WebPs are permanent authority. APPROVED Strip022 controls temporary block/fridge/candle/table state only; correct permanent drift to canon rather than propagating it.
+Preserve exact blocking geometry, candle/holder/table, refrigerator body/display, Nari knife, pushed chair, full dining topology, blackout state.
+Never render V103–V107, P14, Strip023, beat/panel/scene labels, production metadata anywhere, especially top-left.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
@@ -32,146 +32,143 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - Hyun-woo = SAME blocking position between Nari and refrigerator
-- Nari = SAME closer mark behind him, practical knife low in SAME established knife hand
-- Nari's OTHER hand is free
+- Nari = SAME closer mark behind him, practical knife low in SAME knife hand
 - fridge display = `YOON NARI` + `IDENTITY LOCKING`
-- SAME blue-centered candle in SAME holder at SAME table spot
-- knife sheath remains at work desk from Strip 016
-- table/pot/noodles/chopsticks/trivet/cloth/pushed chair/pantry/empty packet unchanged
+- SAME blue-centered candle in SAME holder/table spot
+- knife sheath remains work desk
+- SAME dining topology remains:
+  - pot same trivet/location
+  - cloth same hot-handle side
+  - Pair A used chopsticks same pot rest point
+  - seasoning wrapper same table spot
+  - pushed chair same location
+  - five unopened pantry packets
+  - SAME empty spicy-seafood outer packet same nudged floor spot
 
 ALLOWED CHANGES ONLY IN THIS ORDER:
 A. Nari makes ONE short half-step/lean to realistic blowing distance; candle/holder do not move
-B. Nari blows out candle `PFF`; flame extinguishes; wick smoke may appear
-C. refrigerator shrieks `KIIIIII`; Nari's FREE hand goes toward one ear while her KNIFE hand reflexively rises toward the other ear and its grip begins failing
-D. SAME knife fully leaves the knife-hand fingers and falls; that hand is now empty
+B. blows out candle `PFF`; flame extinguishes; wick smoke may appear
+C. fridge shrieks `KIIIIII`; FREE hand rises toward one ear; KNIFE HAND reflexively rises toward other ear and grip begins failing
+D. SAME knife fully leaves knife-hand fingers and falls; former knife hand becomes empty
 E. SAME knife impacts ONE fixed floor spot `CLANG`
-F. ONLY AFTER impact, Hyun-woo catches the wrist of the SAME arm/hand that had been holding the knife
+F. ONLY AFTER impact, Hyun-woo catches wrist of SAME former knife arm
 
 END:
-- Nari = post-reach table-edge-adjacent position
-- Hyun-woo = close protective position holding the SAME former-knife-hand wrist
-- knife = on exact fixed floor impact spot
+- Nari = post-reach table-edge-adjacent position, SAME former-knife-hand wrist held
+- Hyun-woo = close protective position; no teleport
+- knife = exact fixed floor impact spot
 - candle = extinguished, same holder/table; no relight
-- sheath = still at desk
-- fridge hostile state remains source of shriek
-- all other props remain fixed
+- sheath = desk
+- fridge hostile state source of shriek
+- all other prop topology fixed
 
 ==================================================
-FRAME-BY-FRAME HAND / KNIFE / WRIST STATE — NON-NEGOTIABLE
+FRAME-BY-FRAME HAND / KNIFE STATE — NON-NEGOTIABLE
 ==================================================
-
-Do not merge these states.
 
 V103 end:
-- Nari has completed half-step/lean
-- candle is OUT
-- knife is STILL in SAME knife hand
-- free hand and knife hand are both still hers; no wrist contact
+- half-step/lean complete
+- candle OUT
+- knife STILL in knife hand
+- no wrist contact
 
 V104:
-- `KIIIIII` sourced at refrigerator
-- Nari's FREE hand rises toward one ear
-- her KNIFE hand reflexively rises toward the other ear while still holding the knife at first
-- grip in that knife hand visibly begins to fail
+- `KIIIIII` fridge source
+- FREE hand moves toward one ear
+- KNIFE hand rises toward other ear
+- knife grip only STARTS loosening
 - knife has NOT hit floor
-- Hyun-woo is NOT holding either wrist
-- do not draw both hands already empty; do not teleport knife away
+- no wrist contact
 
 V105:
-- SAME knife is fully OUT of the former knife-hand fingers and visibly traveling downward
-- former knife hand is EMPTY
-- free hand may remain near opposite ear
+- knife fully OUT of former knife-hand fingers, traveling downward
+- former knife hand EMPTY
 - no wrist catch
 
 V106:
-- SAME knife reaches SAME floor spot
-- `CLANG` occurs at impact
-- knife remains there after impact
-- former knife hand remains empty
-- no earlier floor location exists
-- no wrist contact yet
+- knife reaches SAME floor spot
+- `CLANG` at impact
+- knife remains there
+- no earlier floor location
 
 V107:
-- knife already lies on floor
-- only now Hyun-woo reaches and catches the wrist of the SAME former knife arm
-- do not switch to the other wrist
+- knife already floor
+- only now Hyun-woo catches wrist of SAME former knife arm
+- do not switch wrist/arm
 - do not move knife during contact
 
-A hand cannot still contain the knife after V105. A knife cannot appear on floor before its fall. A wrist cannot be held before V107.
-
 ==================================================
-MANDATORY ACTION-PROOF FRAMING — ABSOLUTE
+CANDLE / REACH REALITY — ABSOLUTE
 ==================================================
 
-The critical mechanism may not be hidden by reaction close-ups.
-- V104 must show enough hand/knife relationship to prove grip failure begins while knife is still held
-- V105 must show fingers no longer enclosing the knife plus a readable downward fall path
-- V106 must show the same knife reaching one floor location and `CLANG` at that source
-- V107 must show Hyun-woo's hand contacting the former-knife-hand wrist after the knife is already on floor
+Nari must be close enough to blow same candle. Show one small body adjustment: foot/weight shift + forward lean toward nearest table edge.
+Do not move candle toward her. Do not let her cross around Hyun-woo/table or approach fridge. Preserve new table-edge-adjacent position through V107.
 
-If one camera angle cannot prove these states, use immediately adjacent causally continuous detail slices. Do not use SFX alone as proof.
+After `PFF`, flame disappears; plausible wick smoke only. No phone/flashlight/rim/invented light after candle extinction.
 
 ==================================================
-CANDLE / REACH / ENVIRONMENT REALITY — ABSOLUTE
+FULL DINING PROP TOPOLOGY — ABSOLUTE
 ==================================================
 
-Nari must be close enough to physically blow the same candle without supernatural reach. Show one small body adjustment only: foot/weight shift + forward lean toward nearest table edge.
-Do not move candle toward her. Do not let her cross around Hyun-woo/table or approach refrigerator. Preserve this new table-edge-adjacent position after the blow through V107.
+High-action close-ups do not delete or swap:
+- pot/trivet
+- folded cloth hot-handle side
+- Pair A used chopsticks fixed pot rest point
+- seasoning wrapper fixed table spot
+- pushed chair
+- five pantry packets
+- SAME nudged empty outer packet floor spot
+- refrigerator body
+- table/holder
 
-After `PFF`, flame disappears and only plausible wick smoke remains. Do not leave flame visible in later slices. No phone/flashlight/rim light or invented light appears after candle extinction.
-
-==================================================
-OTHER PROP MICRO-CONTINUITY — ABSOLUTE
-==================================================
-
-Pushed chair, pot/noodles/chopsticks/trivet/cloth, pantry five packets, empty floor packet, refrigerator body, table, and holder remain where prior strips established them. Action close-ups do not erase these states.
+Reverse shots may flip screen direction but physical sides/order stay fixed.
 
 ==================================================
 TEXT / NARRATION / THOUGHT DESIGN — ABSOLUTE
 ==================================================
 
-No narration is scripted; do not invent any. `PFF`, `KIIIIII`, and `CLANG` stay at their physical sources/actions. `WARM.` is Nari INTERNAL THOUGHT with thought treatment, never speech/narration/device text. Hyun-woo's line is spoken dialogue.
-Do not add cinematic action labels, sequence numbers, or technical V-labels.
+No narration scripted. `PFF`, `KIIIIII`, `CLANG` at physical sources/actions. `WARM.` = Nari INTERNAL THOUGHT, never speech/narration/device text. Hyun-woo line spoken.
+No cinematic action labels/sequence numbers/V-labels.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-This action order depends on separation. Put a SMALL BLACK GUTTER between V103, V104, V105, V106, and V107 so the reader cannot mistake them as simultaneous. If fall trajectory and floor impact share one row, use diagonal black divider. Keep gutters narrow; no giant black void.
+SMALL BLACK GUTTER between V103/104/105/106/107 so actions cannot read simultaneous. If fall trajectory/impact share row, diagonal divider. Narrow gutters only.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
-V103 — SAME CANDLE / REAL REACH
-Show the short half-step/forward lean first. Then Nari blows out the SAME candle.
+V103 — REAL REACH / CANDLE OUT
+Show short half-step/lean first, then blow same candle.
 SFX:
 `PFF`
-Candle/holder stay fixed; wick smoke only afterward. Knife remains in her same knife hand at this beat's end.
+Knife remains in knife hand at beat end.
 
 SMALL BLACK GUTTER.
 
-V104 — SHRIEK / GRIP FAILURE BEGINS
+V104 — SHRIEK / HANDS TOWARD EARS
 SFX at refrigerator:
 `KIIIIII`
-Free hand goes toward one ear. Knife hand reflexively rises toward the other ear and starts losing grip. Knife is still in that hand at the beginning of this beat and only starts slipping. Hyun-woo does not touch her yet.
+Free hand toward one ear; knife hand toward other; grip begins failing. No touch.
 
 SMALL BLACK GUTTER.
 
 V105 — KNIFE FALL
-SAME practical knife visibly fully leaves the former knife-hand fingers and travels downward. That hand is empty. Sheath remains desk. No wrist catch.
+SAME knife fully leaves former knife-hand fingers; visible downward travel. Hand empty. No wrist catch.
 
 SMALL BLACK GUTTER.
 
 V106 — FLOOR IMPACT
 SFX at ONE fixed floor spot:
 `CLANG`
-Knife now remains at that exact spot through Strip 028. No wrist catch before impact.
+Knife remains exact spot through Strip028. No wrist catch before impact.
 
 SMALL BLACK GUTTER.
 
-V107 — FIRST TOUCH
-Only now Hyun-woo catches the wrist of Nari's SAME former knife arm from existing close protective geometry. Controlled/protective, no glow.
+V107 — FIRST TOUCH / SAME FORMER-KNIFE-HAND WRIST
+Only now Hyun-woo catches wrist of SAME former knife arm.
 NARI INTERNAL THOUGHT:
 `WARM.`
 HYUN-WOO:
@@ -181,27 +178,25 @@ HYUN-WOO:
 LIGHTING / NO DEAD BOTTOM
 ==================================================
 
-After candle out, no story-world interior light. Use readable flat charcoal/blue-gray separation only.
-Use first-touch + knife on floor through lower canvas; no giant tail.
+After candle out, no story-world interior light. Readable flat charcoal/blue-gray separation only.
+Use first-touch + knife floor spot through lower canvas; no giant tail.
 
 SEAM OUT — G
-Strip 024 begins seconds later with SAME former-knife-hand wrist still held, SAME post-reach geometry, SAME knife floor spot, and SAME extinguished candle.
+Strip024 begins seconds later with SAME former-knife-hand wrist still held, SAME post-reach geometry, SAME knife floor spot, SAME extinguished candle, SAME dining topology.
 
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs/geometry drift
-- permanent drift from previous strip is propagated over canonical refs
-- Nari blows out candle from impossible distance or candle moves toward her
-- characters reset to pre-reach geometry
+- permanent drift previous strip propagated over canon
+- candle blown from impossible distance/candle moves
 - action steps merge/reorder
-- free hand / knife hand roles swap without action
-- knife vanishes from hand without visible fall, remains in hand after V105, duplicates, or lands at changing spots
-- knife fall/contact mechanism is cropped so grip-release/fall/impact is unproven
-- Hyun-woo catches the wrong wrist or wrist contact appears before V107/impact
-- candle relights or flame persists after `PFF`
+- free hand/knife hand roles switch unexpectedly
+- knife vanishes/remains in hand after V105/duplicates/lands changing spots
+- wrist catch occurs before V107 or catches opposite wrist
+- candle relights
 - sheath moves from desk
-- table/food/chair/pantry evidence disappears across action cuts
-- touch glows or invented light appears
+- seasoning wrapper/Pair A/empty packet/other topology disappears/swaps in action close-ups
+- touch glows/invented light
 - `WARM.` becomes speech
 - black action gutters missing/oversized
 ```
@@ -215,5 +210,5 @@ AUTOMATIC REJECT IF
 6. `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
 7. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 8. `Manhwa/Object-References/refrigerator-canonical-reference.webp`
-9. APPROVED Strip 022
-10. this Strip 023 prompt
+9. APPROVED Strip022
+10. this Strip023 prompt
