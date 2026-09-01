@@ -7,10 +7,10 @@ PRODUCTION SCOPE
 V68–V70. Historical P9 mapping only. This is NOT a chapter ending.
 
 ATTACH — REQUIRED
-- Nari canonical
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-states-canonical.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 - APPROVED Strip 014
 - this Strip 015 prompt
 
@@ -81,9 +81,9 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Unit 2407 floor plan
-3. Unit 2407 desk-zone detail
-4. Unit 2407 lighting-states canonical
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+3. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+4. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 5. APPROVED Strip 014
 6. this Strip 015 prompt
