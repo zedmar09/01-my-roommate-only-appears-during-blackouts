@@ -1,8 +1,8 @@
 # Chapter 1 Manhwa Generation Checklist
 
-Status: **PREPRODUCTION SCRIPT / CONTINUITY / PROMPT AUDIT PASS — VISUAL PRODUCTION BLOCKED BY MISSING REQUIRED CANONICAL PNGS — NOT PRODUCTION COMPLETE**
+Status: **PREPRODUCTION SCRIPT / CONTINUITY / PROMPT AUDIT PASS — VISUAL PRODUCTION BLOCKED BY STALE/PROVISIONAL CHARACTER CARDS + MISSING REQUIRED ENVIRONMENT/OBJECT CANONICAL PNGS — NOT PRODUCTION COMPLETE**
 
-Fresh `manhwa-2d-production-auditor` pass performed against the current 146-beat plan and all 32 current strip prompts. The deterministic story/script/dialogue/SFX/movement/state routes below are locked. Visual-only gates remain blocked until the required approved canonical PNGs and rendered strip images exist.
+Fresh `manhwa-2d-production-auditor` pass performed against the current 146-beat plan and all 32 current strip prompts. The deterministic story/script/dialogue/SFX/movement/state routes below are locked. Visual-only gates remain blocked until the current character-card canonicals, required environment/object canonical PNGs, and rendered strip images exist and are approved.
 
 ## Scope
 
@@ -26,7 +26,19 @@ A strip may be stricter but may never loosen these rules.
 
 ## Required Visual Authorities — BLOCKING
 
-Before Strip 001 generation begins, every canonical PNG listed by the active strip package must exist and be approved.
+Before Strip 001 generation begins, every canonical PNG listed by the active strip package must exist, be current, and be approved.
+
+### Current Chapter 1 Character Cards — BLOCKED / REGENERATE
+
+Required current reusable character-card filenames:
+- `Character-References/nari-canonical-flat2d.png`
+- `Character-References/hyunwoo-canonical-flat2d.png`
+- `Character-References/mrs-na-canonical-flat2d.png`
+- `Character-References/seungjae-canonical-flat2d.png`
+
+The repository's current character-reference rule states that PNGs created before the September 1, 2026 full character-card standard are legacy/provisional until regenerated and approved from the upgraded prompts. All four Chapter 1 PNGs predate that standard. Nari is additionally an explicit design-revision blocker: the prior short-hair PNG is obsolete and must be replaced by the current long dark-plum-haired design. Regenerate/approve into the SAME filenames before Strip 001 production.
+
+### Required Environment Canonicals
 
 Required reusable environment canonicals referenced by Chapter 1 include:
 - `unit-2407-floor-plan-canonical.png`
@@ -40,6 +52,8 @@ Required reusable environment canonicals referenced by Chapter 1 include:
 - `unit-2407-room-angle-atlas-canonical.png` when required by an uncovered camera angle
 - `rainy-building-entrance-canonical.png`
 - `building-lobby-elevator-canonical.png`
+
+### Required Object Canonicals
 
 Required reusable object canonicals referenced by Chapter 1 include:
 - `smart-speaker-canonical-states.png`
@@ -128,22 +142,26 @@ Priority:
 5. approved reusable object canonical
 6. previous approved strip temporary state
 
-Reject room-axis flips, impossible camera angles, moved fixed architecture/furniture/appliances, object redesign, or propagation of previous-strip drift against approved permanent canon.
+Reject stale/provisional character cards, room-axis flips, impossible camera angles, moved fixed architecture/furniture/appliances, object redesign, or propagation of previous-strip drift against approved permanent canon.
 
 ## Character-State Gate
 
 Nari:
+- current long-hair character-card PNG must be regenerated/approved before production
 - current canonical adult identity and left-mouth beauty mark fixed
 - long dark-plum hair at canonical length; no short/bob redesign
 - Strip 014 onward: hair loose, yellow scrunchie on one wrist
 
 Mrs. Na:
+- regenerated/approved current character-card PNG required before production
 - mature silver twist, jade earrings, mauve coat, gloves, analog watch
 
 Seungjae:
+- regenerated/approved current character-card PNG required before production
 - same office-casual identity; one foldable phone/watch/earbuds/umbrella
 
 Hyun-woo:
+- regenerated/approved current character-card PNG required before production
 - broad build, long low-tied black hair, same technical mask hardware, same tattoo map
 - Strip 017 temporary eating position is a state change of the SAME mask, not redesign/removal
 
@@ -230,7 +248,9 @@ Strip 032 ends on hostile `NEW TENANT CONFIRMED` + one `FZZT` light flicker whil
 
 **Panel/strip planned continuity:** PASS at prompt level
 
-**Strict flat 2D human-drawn instructions:** PASS after global authority repair; actual pixel compliance awaits rendered strips
+**Strict flat 2D human-drawn instructions:** PASS after global authority repair; actual pixel compliance awaits current approved visual canonicals and rendered strips
+
+**Character canonical visual authority:** BLOCKED — Nari, Hyun-woo, Mrs. Na, and Seungjae PNGs predate the September 1 full character-card standard and are provisional under the repository rule; Nari's prior short-hair PNG is explicitly obsolete
 
 **Environment/object canonical visual authority:** BLOCKED — required approved PNGs are not currently present in the repository package
 
@@ -238,6 +258,16 @@ Strip 032 ends on hostile `NEW TENANT CONFIRMED` + one `FZZT` light flicker whil
 
 **Seam/stitch/dead-space/mobile-lettering visual audit:** BLOCKED — requires rendered/stitched artwork
 
-**FINAL STATUS: NOT PRODUCTION COMPLETE — REQUIRED VISUAL AUTHORITY / RENDER ASSETS MISSING**
+### Current Gate Counts
+
+- **BLOCKER: 3 categories**
+  1. stale/provisional Chapter 1 character-card PNG authorities
+  2. missing approved environment/object canonical PNG authorities
+  3. missing rendered Strip 001–032 artwork + stitched chapter
+- **MAJOR: 0 unresolved deterministic script/prompt issues**
+- **MINOR requiring correction: 0**
+- **WARNING requiring explanation: 0**
+
+**FINAL STATUS: NOT PRODUCTION COMPLETE — CURRENT APPROVED VISUAL AUTHORITY / RENDER ASSETS MISSING**
 
 See `chapter-01-real-scenario-continuity-audit.md` for the fresh audit record.
