@@ -19,25 +19,98 @@ ATTACH — REQUIRED
 - this Strip 025 prompt
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached WebPs + APPROVED Strip 024 are binding. Preserve exact post-candle positions, knife floor spot, extinguished candle, pushed chair, table/food/chopsticks/pantry/packet evidence, fridge body/state, and power-state appearance.
+Never render V113–V118, P15, Strip 025, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- Unit 2407 = fully unpowered/dark
+- Nari + Hyun-woo = SAME post-Strip024 positions, no contact
+- knife = exact floor spot; sheath = desk
+- candle = extinguished; pushed chair remains pushed back
+- fridge display = dark
+- table/pot/noodles/chopsticks/trivet/cloth/pantry/packet evidence unchanged
+
+ALLOWED CHANGES:
+- V113 OUTSIDE city power indicators begin returning while Unit interior stays dark
+- Hyun-woo remains physically present V113–V116
+- dialogue only; no room crossing
+- V117 ONLY: Unit 2407 ordinary supplied power returns as one local state change `VZZT`; normal apartment lights/ordinary devices restore according to canonical powered baseline
+- at the instant Unit power returns, Hyun-woo is no longer physically present, but NO disappearance animation is shown
+- V118 shows the same powered room a beat later with Hyun-woo simply absent
+
+END:
+- Unit 2407 = normal powered baseline
+- Hyun-woo = absent, no physical/reflected/silhouetted trace
+- Nari = same general location, arm lowering after shield reaction
+- knife = same floor spot
+- chair = pushed back
+- candle = extinguished
+- table/pantry/food/object evidence unchanged
+
+==================================================
+CITY POWER VS UNIT POWER — NON-NEGOTIABLE CAUSAL SEPARATION
+==================================================
+
+There are TWO distinct power observations:
+1. V113 city/exterior begins recovering
+2. V117 Unit 2407 ordinary supplied power returns
+
+City recovery is NOT the trigger. During V113–V116:
+- Unit interior remains dark/unpowered
+- Hyun-woo remains physical
+- no powered apartment light, TV, fridge normal display, hallway lamp, phone glow, or appliance baseline may appear
+
+Only V117 Unit return triggers his absence. Do not collapse city return and Unit return into one beat.
+
+==================================================
+NO VISIBLE DISAPPEARANCE — ABSOLUTE
+==================================================
+
+Do NOT show:
+- fading body
+- transparency
+- particles
+- electric dissolve
+- portal
+- glitch silhouette
+- light swallowing him
+- afterimage
+- smoke/ash
+
+V117 focuses on ordinary power snapping on and Nari shielding her eyes. V118 uses SAME geometry but Hyun-woo is simply not there. The reader infers the disappearance between beats.
+
+==================================================
+PROP / BODY MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+Power restoration does not clean or reset the room. Knife stays on exact floor spot; pushed chair stays pushed; extinguished candle stays extinguished; pot/noodles/chopsticks/trivet/cloth/pantry/packet evidence remains.
+Nari cannot teleport during power snap. Her shielding arm action must flow V117→V118 as she lowers it.
+
+==================================================
+NARRATION / TEXT DESIGN — ABSOLUTE
+==================================================
+
+No narration is scripted; do not invent any. Use exterior visual evidence, dialogue, `VZZT`, and lighting change to communicate sequence. Do not add `POWER RESTORED`, `CITY POWER`, technical labels, or system cards.
+
+==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Small black gutter between distinct conversation/power-state slices. Use a slightly stronger but still compact black divider before V117 power snap so the change is readable. Side-by-side city-vs-interior comparisons require diagonal black divider. No giant black/white band.
-
-==================================================
-CITY POWER VS UNIT POWER — ABSOLUTE
-==================================================
-
-V113: distant Seoul buildings/traffic signals begin returning as small powered points OUTSIDE. Unit 2407 interior remains fully unpowered/dark. Hyun-woo remains physical.
-V117 ONLY: Unit 2407 ordinary power snaps back. This is disappearance trigger.
-Do not remove Hyun-woo at city return.
+Small black gutter between distinct conversation/power-state slices. Use a slightly stronger but compact divider before V117 power snap. Side-by-side city-vs-interior comparisons require diagonal black divider. No giant black/white band.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
 V113 — OUTSIDE RETURNS FIRST
-No dialogue.
+Distant Seoul buildings/traffic signals begin returning as small powered points OUTSIDE. Unit 2407 remains fully dark. Hyun-woo remains physical. No dialogue.
 
 SMALL BLACK GUTTER.
 
@@ -64,32 +137,35 @@ HYUN-WOO:
 COMPACT BLACK POWER-STATE DIVIDER.
 
 V117 — UNIT POWER SNAP
-SFX:
+SFX at ordinary Unit power restoration:
 `VZZT`
-Normal apartment lights snap on; Nari shields eyes. NO visible fading/dissolution/particles/portal/electric transformation.
+Normal apartment lights snap on; Nari shields eyes. Do NOT depict a visible Hyun-woo disappearance process.
 
 SMALL BLACK GUTTER.
 
 V118 — ABSENCE
-Same exact now-powered geometry. Nari lowers arm. Hyun-woo simply absent. Knife/props remain unchanged; pushed-back chair remains.
+Same exact now-powered geometry. Nari lowers arm. Hyun-woo simply absent. Knife/props unchanged; pushed-back chair remains.
 
 ==================================================
 LIGHTING / NO DEAD BOTTOM
 ==================================================
 
-V113–V116 blackout. V117 contained power snap. V118 normal neutral powered state.
+V113–V116 = canonical blackout. V117 = contained transition. V118 = canonical neutral powered state.
 Use absence composition through lower canvas; no giant tail.
 
 SEAM OUT — G
-Strip 026 begins immediately in SAME powered apartment.
+Strip 026 begins immediately in SAME powered apartment with encounter evidence untouched.
 
 AUTOMATIC REJECT IF
-- Hyun-woo disappears at city return
-- Unit lights return early
-- visible disappearance effect shown
-- Hyun-woo remains after V117
-- blackout look continues into V118
-- props move
+- any production label appears
+- attached references/geometry drift
+- Hyun-woo disappears at city return or remains after Unit return
+- Unit lights/appliances restore before V117
+- visible disappearance/fade/glitch/portal is shown
+- Nari teleports during power snap
+- knife/chair/candle/table/food/pantry evidence resets or moves because power returns
+- blackout look continues into V118 or cinematic bloom replaces normal powered baseline
+- invented narration/system labels appear
 - black separators missing/oversized
 ```
 
