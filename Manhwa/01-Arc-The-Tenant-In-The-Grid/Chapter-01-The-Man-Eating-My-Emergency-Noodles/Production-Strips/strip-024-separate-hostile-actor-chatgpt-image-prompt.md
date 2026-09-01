@@ -28,11 +28,17 @@ Small black gutter between wrist-release/device-click/dialogue slices. Side-by-s
 START STATE / WRIST RELEASE
 ==================================================
 
-At strip start Hyun-woo is STILL holding same wrist. SAME practical knife remains on exact floor spot. All props/positions unchanged.
+Inherit the exact post-V103 geometry from Strip 023; do not reset either character to the older entrance-side marks.
+- Nari remains at the SAME table-edge-adjacent position reached by the short candle half-step/lean
+- Hyun-woo remains in the SAME close protective relationship between Nari and the refrigerator and is STILL holding the same wrist
+- SAME practical knife remains on the exact floor spot established by `CLANG`
+- pushed-back chair, pot/trivet/cloth, extinguished candle/holder, pantry, refrigerator, and all fixed architecture remain unchanged
+
 V108 sequence: visibly release wrist → refrigerator gives three quiet clicks → display becomes silent/dark.
 SFX at fridge:
 `TIK. TIK. TIK.`
 After this, no screen text on fridge for remainder.
+Neither character crosses the room during this release/click sequence.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -70,7 +76,7 @@ HYUN-WOO:
 HYUN-WOO:
 `BUT IT'S TRYING TO LEARN WHO YOU ARE.`
 
-No character crosses room; natural head/weight shifts only.
+No character crosses room; natural head/weight shifts only. Preserve the post-candle-reach geometry through the strip.
 
 ==================================================
 POWER / NO DEAD BOTTOM
@@ -84,6 +90,7 @@ Strip 025 continues same positions while city power begins returning outside fir
 
 AUTOMATIC REJECT IF
 - wrist already released at start
+- Nari/Hyun-woo snap back to their pre-candle positions
 - knife moves
 - fridge text remains after V108
 - apartment/city power returns early

@@ -23,7 +23,14 @@ LEGAL TIME / LOCATION CUT — ABSOLUTE
 
 Strip 014 begins later that night with Nari already at canonical Unit 2407 work desk.
 Do not show commute, arrival, outfit change, or Seungjae.
-Nari now wears locked home/blackout-night state: oversized graphic hoodie, loose black trousers, bare feet, yellow scrunchie, headphones around neck.
+Nari now wears locked home/blackout-night state: oversized graphic hoodie, loose black trousers, bare feet, headphones around neck.
+
+CURRENT NARI CHARACTER-CARD STATE — ABSOLUTE:
+- preserve her canonical LONG DARK-PLUM hair at its approved mid-back length
+- hair is worn LOOSE, matching the current canonical card; do not tie, shorten, bob, or hide its length at this legal time cut
+- yellow scrunchie stays around ONE wrist, not in her hair
+- beauty mark and all other current canonical identity details remain unchanged
+This loose-hair/wrist-scrunchie state continues through the remaining Chapter 1 strips unless an explicit later script changes it; Chapter 1 contains no such later hairstyle change.
 
 ==================================================
 DESK / POWER START STATE — ABSOLUTE
@@ -88,6 +95,7 @@ Strip 015 returns to same desk during SAME outage. No bright line or black-bar s
 AUTOMATIC REJECT IF
 - Seungjae/Hyun-woo appears
 - Nari stays in after-work wardrobe
+- Nari's long dark-plum hair becomes tied/short/bobbed or the scrunchie moves from wrist into her hair
 - hallway lamp off before outage
 - Nari switches it off
 - phone/screen turns on

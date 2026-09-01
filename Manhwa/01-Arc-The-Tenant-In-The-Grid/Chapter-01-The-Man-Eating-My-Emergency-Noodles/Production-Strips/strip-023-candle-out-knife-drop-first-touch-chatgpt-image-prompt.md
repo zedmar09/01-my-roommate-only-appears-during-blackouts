@@ -25,14 +25,29 @@ BLACK READ-SLICE DIVIDER — ABSOLUTE
 This action order depends on separation. Put a SMALL BLACK GUTTER between V103, V104, V105, V106, and V107 so the reader cannot mistake them as simultaneous. If a fall trajectory and floor impact share one row, use diagonal black divider. Keep gutters narrow; no giant black void.
 
 ==================================================
+START GEOMETRY / CANDLE REACH — ABSOLUTE
+==================================================
+
+Begin from Strip 022 exactly:
+- Hyun-woo is still between Nari and the refrigerator in the protective blocking position
+- Nari is behind him at the closer position established in Strip 019, practical knife held low
+- SAME candle/holder remains fixed on the SAME dining table
+
+Nari must NOT extinguish the candle from an impossible distance.
+At the beginning of V103, show one short, readable physical adjustment only: Nari makes a small half-step toward the nearest dining-table edge and leans forward to realistic blowing distance while Hyun-woo makes at most a minimal protective body adjustment and remains between her and the refrigerator.
+Nari does NOT walk around the table, pass Hyun-woo, touch the refrigerator, or move the candle/holder.
+After the candle is out, preserve this new table-edge-adjacent Nari position through V104–V107; do not snap her back to the earlier entrance-side mark.
+
+==================================================
 NON-NEGOTIABLE ACTION ORDER
 ==================================================
 
+0. V103 short half-step/lean to realistic candle distance, then stop.
 1. V103 candle out.
 2. V104 fridge shriek; Nari hands toward ears; knife only begins slipping.
 3. V105 knife fully leaves fingers / travels downward; NO wrist catch.
 4. V106 knife hits ONE fixed floor spot `CLANG`; NO wrist catch before impact.
-5. V107 ONLY AFTER knife is on floor, Hyun-woo catches ONE wrist.
+5. V107 ONLY AFTER knife is on floor, Hyun-woo catches ONE wrist from the existing close protective geometry.
 
 Never merge/reorder.
 
@@ -40,11 +55,12 @@ Never merge/reorder.
 VERTICAL STORY FLOW
 ==================================================
 
-V103 — SAME CANDLE
-Nari extinguishes candle without teleporting to table.
+V103 — SAME CANDLE / REAL REACH
+Show the short half-step/forward lean defined above first. Then Nari blows out the SAME candle.
 SFX:
 `PFF`
 Candle/holder stay fixed; wick smoke only afterward.
+Nari ends V103 at the new table-edge-adjacent position.
 
 SMALL BLACK GUTTER.
 
@@ -52,6 +68,7 @@ V104 — SHRIEK
 SFX at refrigerator:
 `KIIIIII`
 Nari brings hands toward ears; practical knife starts loosening.
+Hyun-woo remains close enough from his protective position for the later wrist catch, but does not touch her yet.
 
 SMALL BLACK GUTTER.
 
@@ -68,7 +85,7 @@ That exact spot remains continuity authority through Strip 028.
 SMALL BLACK GUTTER.
 
 V107 — FIRST TOUCH
-Only now Hyun-woo catches one of Nari's wrists from protective position. Controlled/protective, no glow.
+Only now Hyun-woo catches one of Nari's wrists from the existing close protective geometry. Controlled/protective, no glow. No teleport/reposition between the knife impact and wrist catch.
 NARI INTERNAL THOUGHT:
 `WARM.`
 HYUN-WOO:
@@ -83,12 +100,15 @@ After candle out, no story-world interior light. Use readable flat charcoal/blue
 Use first-touch + knife on floor through lower canvas; no giant tail.
 
 SEAM OUT — G
-Strip 024 begins seconds later with same wrist still held, then release. Knife remains exact floor spot.
+Strip 024 begins seconds later with same wrist still held and the post-V103 table-edge-adjacent geometry, then release. Knife remains exact floor spot.
 
 AUTOMATIC REJECT IF
+- Nari blows out candle from the earlier position without the short visible reach
+- Nari teleports to the table or crosses around Hyun-woo
 - action order merges
 - wrist catch before impact
 - knife duplicates/landing spot changes
+- characters reset to pre-V103 geometry after candle is extinguished
 - touch glows
 - invented light appears
 - black action gutters missing/oversized

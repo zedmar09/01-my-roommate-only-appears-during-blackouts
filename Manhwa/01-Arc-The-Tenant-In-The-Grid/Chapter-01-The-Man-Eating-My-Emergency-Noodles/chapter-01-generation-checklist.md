@@ -1,6 +1,6 @@
 # Chapter 1 Manhwa Generation Checklist
 
-Status: **FULL STORY RE-AUDITED — 32 STRIPS — ALL STRIP ATTACHMENTS EXPLICIT — BLACK SLICE GRAMMAR LOCKED — MANUAL/KEY CANONICALS ADDED**
+Status: **FINAL STORY / REAL-SCENARIO AUDIT COMPLETE — 32 STRIPS — ALL CONTINUITY FIXES LOCKED — READY FOR PRODUCTION**
 
 ## Scope
 
@@ -41,12 +41,17 @@ Specific Chapter 1 locks:
 - Mrs. Na: SAME canonical electrical-operation guide + SAME canonical brass backup key arrive together; guide remains kitchen counter, key physically counter→Nari hand→entry tray
 - electrical-operation guide: exact canonical cover/title `UNIT 2407 / ELECTRICAL OPERATION GUIDE`; same binder body; Section 16 physically jumps to Section 18; no normal visible Section 17; south-wall diagram handwriting stays physical paper
 - brass backup key: exactly one canonical mechanical brass key; same bow/head + blade/notch identity; never becomes keycard/fob and never duplicates
+- Strip 005→006 chopsticks: exactly one pair is established in Nari's hand before the flicker, falls once to one kitchen-floor spot, remains there through Strip 006 V26, and may be absent only after the explicit later time cut
 - speaker: kitchen counter plugged → unplugged → remains counter → hidden in storage stockpot/lower cabinet → later voice-only while still unplugged
+- Strip 006 TV route: Nari is established in the open-plan area, then physically walks to the TV/outlet before unplugging it; do not invent a bathroom/rinsing/cleanup action
 - guarded fruit knife and practical sheathed blackout knife are TWO distinct objects
 - six noodles before Hyun-woo eats; five unopened after spicy-seafood packet used
-- Nari has exactly ONE shoulder bag in Strips 012–013; tablet stays inside it
+- Nari has exactly ONE shoulder bag in Strips 012–013; tablet stays physically inside it; the bag opening may be parted/angled for a private screen glance but the tablet never leaves the bag
 - Seungjae has one phone, one watch, one pair earbuds, one umbrella
+- Strip 014 onward Nari keeps current canonical long dark-plum hair loose at canonical length; yellow scrunchie remains on one wrist, not in her hair
+- Strip 017→018 Hyun-woo eating: SAME technical mask remains attached but temporarily clears his mouth while eating; lower face stays concealed; Strip 018 rests chopsticks first, then visibly reseats/locks SAME mask with `TCHK`; no eating through mask
 - practical knife draw leaves sheath desk; knife floor impact spot remains fixed until Strip 028 pickup
+- Strip 023 candle: Nari must make one short visible half-step/lean to realistic blowing distance before `PFF`; preserve that new table-edge-adjacent geometry through knife impact, wrist catch, and Strip 024
 - phone route after blackout: desk → Nari pickup → entry/security/voicemail → kitchen counter before cabinet opening
 - Nari uses the OTHER untouched dining chair in Strips 029–032; Hyun-woo's pushed-back chair remains pushed back
 - A5 notebook physically desk → dining table; no teleport/digital substitution
@@ -68,6 +73,23 @@ Reusable object canonicals now include:
 - Unit 2407 brass backup key
 
 Reject room-axis flips, impossible camera angles, moved fixed architecture/furniture/appliances, object redesign, or propagation of prior drift against a canonical.
+
+## Character-State Gate
+
+Nari:
+- current canonical adult identity and beauty mark stay fixed
+- long dark-plum hair remains canonical length; no short/bob redesign
+- at the later-night Strip 014 time cut and afterward in Chapter 1, hair is loose and the yellow scrunchie is on one wrist
+
+Mrs. Na:
+- mature silver twist, jade earrings, mauve coat, gloves, analog watch remain canonical
+
+Seungjae:
+- same office-casual identity and one foldable phone/watch/earbuds/umbrella
+
+Hyun-woo:
+- broad build, long low-tied black hair, same technical mask hardware, same tattoo map
+- temporary eating mask position in Strip 017 is a state change of the SAME hardware, not a redesign/removal
 
 ## Manual / Key Canonical Gate
 
@@ -107,14 +129,18 @@ Inspect lower 20–25% of every strip. Large space is allowed only for existing 
 ## Outage / Hyun-woo Gate — Strips 014–025
 
 - no phone-screen activation during outage
+- Nari's long loose-hair/wrist-scrunchie state from Strip 014 persists
 - first `SLURP` offscreen
 - knife draw leaves sheath at desk
 - Strip 016 ends with Nari stop/shock + partial canonical Hyun-woo teaser in correct chair
-- Strip 017 continues exact geometry
+- Strip 017 continues exact geometry; SAME mask temporarily clears mouth for eating while attached; no noodles through mask
+- Strip 018 visibly ends eating before SAME mask is reseated/locked with `TCHK`
 - Nari stays at entrance until exactly one cautious step in Strip 019
 - chair push/rise/crossing visible, no teleport
 - `YOON NARI` then `IDENTITY LOCKING`
+- Strip 023 adds one short physical reach to the fixed candle before `PFF`
 - candle extinguish → shriek → knife slip → floor impact → wrist catch, exact order
+- post-candle-reach geometry carries into Strip 024; do not reset positions
 - city power may return while Unit 2407 remains dark
 - Hyun-woo remains physical until Unit 2407 itself powers on
 - no visible disappearance process

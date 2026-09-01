@@ -41,8 +41,10 @@ NARI SINGLE-BAG + TABLET LOCK — ABSOLUTE
 
 Nari has exactly ONE shoulder bag total.
 The tablet stays INSIDE that bag throughout V60–V64.
+The bag's normal top opening/flap is accessible and already slightly open/parted enough for a believable private glance; Nari may angle the bag and part the opening with one hand, but she NEVER lifts or slides the tablet out.
+The tablet remains physically nested inside the same carried bag even while its screen is visible to Nari/reader.
 No backpack, second bag, loose tablet, floor bag, duplicate bag, or tablet in hand.
-Close-ups are detail views of the SAME carried bag.
+Close-ups are detail views of the SAME carried bag and SAME tablet still inside it.
 Seungjae must not clearly read the tablet.
 
 `HE SHOULD GO.` and `ONLY FOR A MINUTE.` are DEVICE TEXT on the tablet screen only — never speech balloons, narration, holograms, or floating text.
@@ -94,14 +96,14 @@ SEUNGJAE:
 SMALL BLACK GUTTER.
 
 V62 — ELEVATOR BANK / TABLET WAKES
-Both reach SAME elevator bank. Nari keeps tablet INSIDE one bag; it quietly wakes just enough for her/reader.
+Both reach SAME elevator bank. Nari keeps tablet physically nested INSIDE the one carried bag. She angles/parts the already accessible bag opening just enough for the tablet screen to be privately visible to her and the reader without removing it.
 TABLET SCREEN:
 `HE SHOULD GO.`
 
 SMALL BLACK GUTTER.
 
 V63 — PRIVATE EXCHANGE
-Nari angles SAME bag toward herself, tablet still inside. Seungjae stays occupied with failed devices.
+Nari angles SAME bag toward herself and keeps one hand at the bag opening; tablet remains fully inside. Seungjae stays occupied with failed devices.
 NARI:
 `YOU DID THAT?`
 TABLET SCREEN:
@@ -113,7 +115,7 @@ If Nari/tablet close-up and Seungjae device reaction share a row, use diagonal b
 SMALL BLACK GUTTER.
 
 V64 — ELEVATOR ARRIVES / SPLIT
-Nari begins stepping into elevator ALONE, same bag still carried.
+Nari begins stepping into elevator ALONE, same bag still carried and tablet still inside.
 This is FIRST moment Seungjae turns back toward glass entrance. He remains inside lobby; do not show him already outside.
 SEUNGJAE:
 `I'M GOING TO HEAD OUT BEFORE ANYTHING ELSE DIES.`
@@ -132,7 +134,8 @@ Strip 014 begins later that night inside Unit 2407. Since this is a true time/lo
 
 AUTOMATIC REJECT IF
 - Nari has more than one bag
-- tablet leaves bag
+- tablet leaves bag or appears in Nari's hand
+- tablet is shown through an impossible closed/opaque bag without the established opening
 - tablet text becomes speech bubble
 - Seungjae reads tablet clearly
 - duplicated devices appear

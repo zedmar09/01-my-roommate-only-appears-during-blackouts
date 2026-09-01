@@ -24,12 +24,18 @@ BLACK READ-SLICE DIVIDER — ABSOLUTE
 Use a SMALL BLACK GUTTER between every distinct vertical slice. Use a DIAGONAL BLACK DIVIDER for separate side-by-side shots. The jump from daytime automation to `LATER THAT NIGHT` uses a compact stronger black transition, not a page break and not a giant gap.
 
 ==================================================
-EXACT PROP / SPEAKER STATE
+EXACT PROP / SPEAKER / CHOPSTICKS STATE
 ==================================================
 
 At start, the canonical speaker is still on the kitchen counter, plugged in, screenless, ordinary-looking.
 The brass key remains in entry tray; binder remains kitchen counter unless naturally visible in background.
 No one has hidden the speaker yet.
+
+For the later-night kitchen sequence, establish exactly ONE ordinary pair of chopsticks in Nari's hand at V22 before anything drops. They are the SAME pair through V23 and V24.
+- Nari is already holding/using that one pair for a simple late-night kitchen snack; any food stays background-only and is not a new continuity focus.
+- do not spawn a second pair on the counter, floor, or in another hand
+- do not make the chopsticks appear for the first time only at the fall
+- after V24, the SAME dropped pair remains on the floor through V25 and into Strip 006 V26 until the later time cut
 
 ==================================================
 VERTICAL STORY FLOW
@@ -48,14 +54,14 @@ COMPACT BLACK TIME TRANSITION.
 V22 — LATER THAT NIGHT / KITCHEN
 NARRATION:
 `LATER THAT NIGHT`
-Nari is physically in kitchen/open-plan area near canonical speaker.
+Nari is physically in kitchen/open-plan area near canonical speaker, already holding the SAME single pair of ordinary chopsticks established above.
 NARI:
 `TURN ON THE KITCHEN LIGHT.`
 
 SMALL BLACK GUTTER.
 
 V23 — SYNTHETIC ASSISTANT FAILURE
-Same speaker, ordinary assistant audio.
+Same speaker, ordinary assistant audio. SAME chopsticks still in Nari's hand.
 SPEAKER, synthetic audio:
 `SORRY. I DIDN'T CATCH THAT.`
 NARI:
@@ -67,10 +73,10 @@ V24 — FLICKER / CHOPSTICKS DROP
 One restrained apartment-light flicker.
 SFX at electrical light:
 `FZZT`
-A pair of chopsticks Nari is holding/using falls to the floor from her hand.
+The SAME single pair of chopsticks visibly leaves Nari's hand and falls to ONE floor spot.
 SFX at floor:
 `CLATTER`
-Do not duplicate chopsticks; show a believable drop route.
+Do not duplicate chopsticks; show a believable hand→fall→floor route.
 
 Use a longer BLACK suspense gap than ordinary gutters, but it must still be a deliberate pause, not unused canvas.
 
@@ -78,7 +84,7 @@ V25 — FIRST NATURAL MALE VOICE
 Same canonical screenless speaker. No body, silhouette, face, reflection, or name.
 UNKNOWN NATURAL MALE VOICE through speaker:
 `YOU COULD SAY PLEASE.`
-Nari freezes and looks toward the SAME speaker.
+Nari freezes and looks toward the SAME speaker. The dropped chopsticks remain on the floor where V24 left them.
 
 ==================================================
 VOICE / LETTERING DISTINCTION
@@ -92,13 +98,14 @@ NO DEAD BOTTOM — ABSOLUTE
 End on Nari's frozen reaction + same speaker + canonical kitchen geometry. No giant blank tail.
 
 SEAM OUT — G
-Strip 006 immediately continues Nari's reaction and speaker unplug before the later TV scene.
+Strip 006 immediately continues Nari's reaction and speaker unplug before the later TV scene. The SAME dropped chopsticks are still on the kitchen floor at V26; they may be absent only after the explicit later time cut.
 
 AUTOMATIC REJECT IF
 - Hyun-woo body/silhouette appears
 - speaker redesigns/gets a screen
 - voice text printed on body
-- chopsticks duplicate/teleport
+- chopsticks appear only at the instant of dropping
+- chopsticks duplicate/teleport/disappear before Strip 006 V26
 - hostile styling used for natural male voice
 - black slice separators missing
 - giant dead bottom appears

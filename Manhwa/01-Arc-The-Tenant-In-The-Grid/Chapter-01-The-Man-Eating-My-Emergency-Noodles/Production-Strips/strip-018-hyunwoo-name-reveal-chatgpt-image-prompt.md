@@ -24,14 +24,25 @@ BLACK READ-SLICE DIVIDER — ABSOLUTE
 Small black gutter between each distinct reveal slice. If a seated-wide + detail close-up share one row, split with diagonal black divider. Do not let the reveal become a printed-page grid; separators are narrow.
 
 ==================================================
-POSITION / REVEAL LOCK
+POSITION / REVEAL / MASK LOCK
 ==================================================
 
 Nari remains at entrance, zero steps. Hyun-woo remains seated in same chair, no slide/stand/lean across table. Pot/trivet/cloth/candle fixed.
 
-Canonical Hyun-woo: broad build, long black hair tied low, severe eyes, black sleeveless/dark utility clothing, modern matte-black technical lower-face mask, established dense matte-black circuit-sigil tattoo map. No generic cloth mask, exposed lower face, short hair, tattoo redesign, neon veins.
+Canonical Hyun-woo: broad build, long black hair tied low, severe eyes, black sleeveless/dark utility clothing, modern matte-black technical lower-face mask, established dense matte-black circuit-sigil tattoo map. No generic cloth mask, exposed lower face after V82, short hair, tattoo redesign, neon veins.
 
-At V82 chopsticks rest against/in pot before mask adjustment; never show noodles passing through mask.
+SEAM-IN MASK STATE:
+- continue the SAME temporarily lowered/disengaged eating position of the SAME canonical technical mask from Strip 017
+- mask remains attached by the same straps/hardware; it was never removed or replaced
+- keep the exposed lower-face identity visually concealed by framing/hand/pot/shadow until the reseat action below
+
+V82 PHYSICAL MASK ACTION — ABSOLUTE:
+1. Hyun-woo stops eating.
+2. SAME chopsticks leave his mouth area and visibly rest against/in the SAME noodle pot first.
+3. With a free hand, he raises/reseats the SAME technical mask from its temporary eating position.
+4. The mask settles into its canonical fully covering nose/mouth/jaw position.
+5. Only then use the single securing SFX `TCHK`.
+No noodles pass through the mask, and no further eating occurs after the reseat.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -45,7 +56,8 @@ HYUN-WOO:
 
 SMALL BLACK GUTTER.
 
-V82 — MASK ACTION
+V82 — MASK RESEAT / LOCK
+Execute the exact five-step mask action above.
 SFX at SAME mask:
 `TCHK`
 
@@ -58,7 +70,7 @@ NARI:
 SMALL BLACK GUTTER / REVEAL DELAY.
 
 V84 — DOMINANT CANONICAL REVEAL
-From SAME seated position, reveal readable canonical face/eyes/mask/tattoos/body while table/candle/pot anchors prove no relocation.
+From SAME seated position, reveal readable canonical upper face/eyes, fully reseated technical lower-face mask, tattoos, hair, and broad body while table/candle/pot anchors prove no relocation.
 HYUN-WOO:
 `HYUN-WOO.`
 
@@ -74,6 +86,9 @@ Strip 019 begins immediate interrogation at same distance.
 
 AUTOMATIC REJECT IF
 - either character moves
+- Hyun-woo eats through the mask
+- mask teleports directly from eating state to fully sealed without the visible V82 reseat
+- exposed lower face is clearly revealed before the mask is reseated
 - mask/tattoo/hair redesigns
 - black slice separator missing/oversized
 - giant dead bottom appears

@@ -30,6 +30,7 @@ V26 — SAME KITCHEN / SPEAKER UNPLUG
 ==================================================
 
 Begin from Nari frozen after `YOU COULD SAY PLEASE.`
+The SAME chopsticks dropped in Strip 005 remain on their established kitchen-floor spot during V26. Nari does not pick them up before unplugging the speaker; they may be cleaned up only after the explicit time cut.
 NARI:
 `WHO SAID THAT?`
 No response.
@@ -50,12 +51,13 @@ NARRATION:
 `TWO NIGHTS LATER`
 NARRATION:
 `TEN MINUTES EARLIER, NARI HAD READ HER PATCH NOTES OUT LOUD.`
-Apartment normally powered. The previously unplugged speaker may remain unobtrusively on its canonical counter location if visible; do not plug it back in or hide it early.
+Apartment normally powered. Establish Nari in the canonical open-plan living/dining area with a believable line of sight to the TV. Do not invent a bathroom/rinsing/meal-cleanup action in this strip.
+The previously unplugged speaker may remain unobtrusively on its canonical counter location if visible; do not plug it back in or hide it early.
 
 SMALL BLACK GUTTER.
 
 V28 — TV ACTIVATION
-Same canonical matte TV in its established living-room position.
+Same canonical matte TV in its established living-room position. Nari remains in the open-plan position established in V27 and turns/reacts toward the TV; she is not suddenly beside the outlet.
 SFX at TV:
 `CLICK`
 TV, clean helpful device text:
@@ -65,16 +67,16 @@ This is clean stable cyan-white helpful styling, not hostile corruption.
 SMALL BLACK GUTTER.
 
 V29 — PHYSICAL TV UNPLUG ROUTE
-Nari finishes/rinses naturally if shown, then physically moves from her prior position to the TV/outlet zone. She crouches and unplugs the SAME TV once.
+From the exact open-plan position established in V28, show Nari physically crossing the canonical living-room route to the TV/outlet zone. She then crouches and unplugs the SAME TV once.
 SFX at plug:
 `YANK`
-Show loose plug clearly separated from outlet. No second plug/cable.
+Show loose plug clearly separated from outlet. No second plug/cable. No sink/rinsing/cleanup insert is permitted between V28 and this walk.
 
 SMALL BLACK GUTTER.
 
 V30 — UNPLUGGED PROOF
 Large proof composition: SAME TV remains ON while its loose plug is visibly disconnected.
-Nari reacts from a believable nearby position; no teleport across room between slices.
+Nari reacts from the believable nearby crouched/standing position created by V29; no teleport across room between slices.
 No text.
 
 ==================================================
@@ -93,13 +95,15 @@ SEAM OUT — ARTWORK CONTINUATION A
 Strip 007 begins in the SAME active-TV scene. Preserve TV body, plug position, Nari scale/location, room axis, and powered-night lighting. Do not insert a black technical seam between 006 and 007.
 
 AUTOMATIC REJECT IF
+- chopsticks vanish before the V26 time cut
 - speaker is hidden before Strip 008
 - speaker is re-plugged
 - TV plug duplicates
 - TV changes design/location
 - TV helpful text uses hostile styling
 - refrigerator hostile text appears early
-- Nari teleports between kitchen/living zones
+- Nari teleports between open-plan and TV/outlet zones
+- an unscripted bathroom/rinsing/cleanup action is inserted
 - black internal slice separators missing
 - giant dead bottom appears
 ```
