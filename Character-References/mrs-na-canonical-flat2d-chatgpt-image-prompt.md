@@ -30,10 +30,10 @@ C. Expressions: neutral guarded, brisk speaking, stern warning, evasive/avoiding
 D. Detail area: jade earrings, analog watch, gloves, handbag hold, mature hand detail.
 
 STORY PROP COORDINATION
-When the approved reusable object canonical is available, any depicted Unit 2407 manual must match:
-- `Manhwa/Object-References/electrical-operation-guide-canonical.png`
+When the approved reusable object canonical is available, any depicted Unit 2407 manual must match the current repository authority:
+- `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
 
-Do NOT depict the Unit 2407 brass backup key, any key ring, or any other key on this character card. The key is maintained as a separate reusable object reference and must be composited/referenced separately when required by a story panel.
+Do NOT depict the Unit 2407 brass backup key, any key ring, or any other key on this character card. The key is maintained as a separate reusable object reference and must be attached/referenced separately when required by a story strip.
 
 AUTOMATIC REJECT IF
 - she looks young/glamorous/witch-like/aristocratic
@@ -48,6 +48,8 @@ FINAL GOAL
 A reusable multi-angle flat-2D Manhwa character card preserving Mrs. Na's mature face, silver twist, mauve coat, jade earrings, analog watch, guarded emotions, and practical physical presence, with no key included in the character reference.
 ```
 
-Expected approved production files after regeneration:
+Generation output may remain PNG first:
 `Character-References/mrs-na-canonical-flat2d.png`
+
+After visual approval, manually convert that accepted PNG and store/use this repository authority:
 `Character-References/mrs-na-canonical-flat2d.webp`
