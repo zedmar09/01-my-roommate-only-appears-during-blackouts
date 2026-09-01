@@ -13,20 +13,30 @@ This is the active production package for Chapter 1.
 
 Historical P001–P018 mapping is retained only as story shorthand. There is no active page-grid production dependency.
 
-## Reusable Canonical Reference Packs
+## Approved Reusable Visual Authorities
 
-Environment:
+### Character WebPs
+- `Character-References/nari-canonical-flat2d.webp`
+- `Character-References/hyunwoo-canonical-flat2d.webp`
+- `Character-References/mrs-na-canonical-flat2d.webp`
+- `Character-References/seungjae-canonical-flat2d.webp`
+
+### Environment WebP packs
 - `../../Environment-References/Unit-2407/`
 - `../../Environment-References/Building-Shared-Areas/`
 
-Objects:
-- `../../Object-References/smart-speaker-canonical-reference-prompt.md`
-- `../../Object-References/tv-canonical-reference-prompt.md`
-- `../../Object-References/refrigerator-canonical-reference-prompt.md`
-- `../../Object-References/electrical-operation-guide-canonical-reference-prompt.md`
-- `../../Object-References/brass-backup-key-canonical-reference-prompt.md`
+Every strip must attach the exact `.webp` filenames listed in its own prompt; directory names alone are not sufficient in a production thread.
+
+### Object WebPs
+- `../../Object-References/smart-speaker-canonical-reference.webp`
+- `../../Object-References/tv-canonical-reference.webp`
+- `../../Object-References/refrigerator-canonical-reference.webp`
+- `../../Object-References/electrical-operation-guide-canonical-reference.webp`
+- `../../Object-References/brass-backup-key-canonical-reference.webp`
 
 These references are reusable across later chapters whenever the same location/object returns. Do not create chapter-numbered duplicates.
+
+Image/reference prompts may still generate PNG first locally. The repository production authority after approval is the manually converted WebP.
 
 ## Production Authority
 
@@ -35,9 +45,9 @@ Story/current-strip authority for this chapter:
 2. `chapter-01-continuous-scroll-plan.md`
 3. `chapter-01-strip-manifest.md`
 4. current `Production-Strips/strip-###-...md`
-5. current approved character canonicals
-6. approved reusable environment/object canonicals
-7. previous approved strip for temporary state/seam continuity
+5. current approved character WebPs
+6. approved reusable environment/object WebPs
+7. previous approved rendered strip for temporary state/seam continuity
 
 The following global production rules are **always binding on every Chapter 1 strip**, even when an individual strip attachment list does not repeat them:
 - `../../style-guide.md`
@@ -66,9 +76,11 @@ Prompt wording alone does not pass this gate; rendered output must be visually i
 
 ## Required-Asset Blocking Rule
 
-If a strip lists a canonical PNG that is missing, stale, or unapproved, stop before generating the strip. Never improvise a replacement and never treat a reference-prompt Markdown file as an approved visual canonical.
+If a strip lists a canonical WebP that is missing, stale, wrong-path, or unapproved, stop before generating the strip. Never improvise a replacement and never treat a reference-prompt Markdown file as an approved visual canonical.
 
-Likewise, a prompt-only chapter package cannot be called `PRODUCTION COMPLETE`. Actual strip images and a stitched final chapter are required for visual style, character/object/environment consistency, lettering, dead-space, and seam approval.
+The approved Chapter 1 character/environment/object WebPs are currently present. The next remaining production gate is sequential rendered Strip 001–032 generation and visual QA.
+
+A prompt/reference-ready chapter cannot be called `PRODUCTION COMPLETE`. Actual strip images and a stitched final chapter are required for visual style, character/object/environment consistency, lettering, dead-space, and seam approval.
 
 ## Existing Approved Strip Rule
 
