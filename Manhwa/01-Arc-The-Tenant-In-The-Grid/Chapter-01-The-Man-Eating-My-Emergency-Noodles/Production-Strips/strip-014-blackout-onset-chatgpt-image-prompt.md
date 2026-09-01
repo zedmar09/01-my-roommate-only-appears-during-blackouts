@@ -7,11 +7,11 @@ PRODUCTION SCOPE
 V65–V67. Historical P9 mapping only.
 
 ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-states-canonical.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 - APPROVED Strip 013 for Nari rendering identity only; do not continue lobby location
 - this Strip 014 prompt
 
@@ -105,10 +105,10 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Unit 2407 floor plan
-3. Unit 2407 desk-zone detail
-4. Unit 2407 hallway canonical
-5. Unit 2407 lighting-states canonical
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+3. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+4. `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+5. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 6. APPROVED Strip 013
 7. this Strip 014 prompt
