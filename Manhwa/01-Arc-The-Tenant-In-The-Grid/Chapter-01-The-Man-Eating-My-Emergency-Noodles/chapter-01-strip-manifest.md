@@ -159,4 +159,4 @@ Small black gutters are deliberate slice grammar. Huge unused black/white/neutra
 
 This manifest can validate planned strip coverage and dependencies. It cannot by itself prove visual production complete. Final approval requires regenerated/approved current character-card PNGs, approved environment/object canonical PNGs, rendered Strip 001–032 artwork, stitch/seam QA, and a fresh clean-room visual audit.
 
-Current blockers: **3 categories — stale/provisional Chapter 1 character cards; missing environment/object canonical PNGs; missing rendered/stiched Chapter 1 artwork.**
+Current blockers: **3 categories — stale/provisional Chapter 1 character cards; missing environment/object canonical PNGs; missing rendered/stitched Chapter 1 artwork.**
