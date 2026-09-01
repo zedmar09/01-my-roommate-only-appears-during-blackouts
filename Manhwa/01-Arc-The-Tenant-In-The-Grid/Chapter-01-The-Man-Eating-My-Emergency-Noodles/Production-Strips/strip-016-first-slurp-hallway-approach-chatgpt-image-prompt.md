@@ -7,17 +7,17 @@ PRODUCTION SCOPE
 V71–V75. Historical P10 mapping only. Final V75 includes controlled silent teaser handoff to Strip 017.
 
 ATTACH — REQUIRED
-- Nari canonical
-- Hyun-woo canonical — FINAL teaser silhouette/body/seat continuity only
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-states-canonical.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Character-References/hyunwoo-canonical-flat2d.webp` — FINAL teaser silhouette/body/seat continuity only
+- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 - APPROVED Strip 015
 - this Strip 016 prompt
 
-Use `unit-2407-room-angle-atlas-canonical.png` additionally if the desk→hallway→kitchen camera route is not fully covered by listed views.
+Use `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-reference.webp` additionally if the desk→hallway→kitchen camera route is not fully covered by listed views.
 
 ==================================================
 HYUN-WOO TEASER USE — ABSOLUTE
@@ -111,12 +111,12 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Hyun-woo canonical — teaser only
-3. Unit 2407 floor plan
-4. Unit 2407 desk-zone detail
-5. Unit 2407 hallway canonical
-6. Unit 2407 living→kitchen wide
-7. Unit 2407 lighting-states canonical
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Character-References/hyunwoo-canonical-flat2d.webp` — teaser only
+3. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
+4. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
+5. `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
+6. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
+7. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
 8. APPROVED Strip 015
 9. this Strip 016 prompt
