@@ -20,6 +20,17 @@ Use permanent location names such as:
 
 Never prefix reusable environment references with `Chapter-01`, `Chapter-02`, etc.
 
+## Generation / Repository Format Rule
+
+Environment image prompts may request PNG as their first local generation output. Keep that generation convention when useful.
+
+After visual approval:
+1. manually convert the accepted PNG to WebP
+2. commit/store only the approved `.webp` authority in GitHub
+3. production Markdown must use the exact committed `.webp` path and basename
+
+Do not point a strip at a deleted PNG or at the Markdown prompt itself.
+
 ## Minimum Reference Package
 
 Every new environment gets at least:
@@ -35,7 +46,7 @@ Recurring/important environments additionally require:
 
 ## Authority
 
-Environment canonicals control architecture, doors/windows, room relationships, fixed furniture/appliances, paths, proportions, materials/colors, and physically valid camera axes.
+Approved environment WebPs control architecture, doors/windows, room relationships, fixed furniture/appliances, paths, proportions, materials/colors, and physically valid camera axes.
 
 Character pose and temporary prop state come from the strip/previous approved image; they do not authorize changing architecture.
 
@@ -45,7 +56,7 @@ If a previous strip conflicts with an approved environment canonical, reject/cor
 
 Attach only the smallest relevant environment set for the current strip. Too many unrelated environment images can confuse production.
 
-Use the chapter strip manifest as the attachment map.
+Use the chapter strip manifest as the attachment map, and require each current strip prompt to repeat the exact WebP paths it needs.
 
 ## New Chapter Checklist
 
@@ -53,6 +64,7 @@ Before production of a new chapter:
 - list every environment
 - mark each as `reuse existing canonical` or `new canonical needed`
 - generate/approve only genuinely new location packs
-- record approved PNG filenames
-- add environment attachments to that chapter manifest
+- manually convert approved generated PNGs to WebP for repository storage
+- record exact approved WebP filenames
+- add exact environment WebP attachments to that chapter manifest and strip prompts
 - then begin sequential strip generation
