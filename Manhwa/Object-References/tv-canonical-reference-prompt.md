@@ -34,4 +34,7 @@ IMPORTANT:
 - reuse this exact TV reference in every later chapter where the same Unit 2407 TV returns
 - no reflections, face/silhouette, bloom, cinematic glow, or 3D rendering
 
-Save as `tv-canonical-states.png`.
+Save local generation result as `tv-canonical-states.png`.
+
+After visual approval, manually convert and store/use this repository authority:
+`tv-canonical-reference.webp`
