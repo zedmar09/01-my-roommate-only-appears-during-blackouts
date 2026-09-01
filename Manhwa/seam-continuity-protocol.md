@@ -2,143 +2,196 @@
 
 ## Purpose
 
-Technical image boundaries must disappear after stitching. The reader should never be able to identify where `strip-###` ends.
+Technical image boundaries must disappear after stitching. Reader should never identify where `strip-###` ends.
 
 ## Canonical Anchor Rule
 
-Before evaluating a seam, compare both strips against relevant approved character/environment/core-object WebPs.
+Before seam evaluation compare both strips against relevant approved character/environment/core-object WebPs.
 
-A seam is invalid even if Strip N visually matches Strip N+1 when both have drifted away from canonical identity/room/object design. Do not preserve a mistake merely because it is consistent across two generated strips.
+Seam is invalid even if Strip N visually matches N+1 when both drift from canonical identity/room/object design. Do not preserve a mistake because it is consistent.
 
-For apartment seams verify fixed landmarks such as walls, doors, windows, table, fridge, TV zone, cabinet, desk, hallway axis, wall sockets/outlets, and relevant object bodies against canonical reference pack.
+For apartment seams verify walls, doors, windows, table, fridge, TV zone, cabinet, desk, hallway axis, fixed wall outlets, and recurring object bodies.
 
 ## Approved Previous-Strip Rule — Absolute
 
-For every strip after 001, attach the immediately previous **CURRENTLY APPROVED** manhwa strip plus relevant canonical environment/object references.
+For every strip after 001 attach immediately previous **CURRENTLY APPROVED** strip + relevant canonicals.
 
-A rejected, superseded, or pre-hardening render is NOT continuity authority and must not be attached as “approved previous strip.”
+Rejected/superseded/pre-hardening render is NOT continuity authority.
 
-For the current Chapter 1 retest, generation restarts at Strip 001 under the deeply hardened prompts. Only a new Strip N that passes current hardening QA may become temporary continuity authority for Strip N+1.
+For current Chapter1 retest generation restarts Strip001 under third-pass prompts. Only new Strip N passing current QA becomes temporary authority for N+1.
 
 ## Seam Types
 
 ### G — Gutter Seam
-Use only when natural quiet transition exists. Gutter must be compact or meaningfully paced; it is not permission for unused blank tail.
+Natural quiet transition only. Compact/meaningful, never unused tail.
 
 ### A — Artwork-Continuation Seam
-Lower portion of Strip N and upper portion of Strip N+1 depict same continuing environment/composition/action.
+Lower Strip N and upper N+1 depict same continuing environment/composition/action.
 
 ### E — Effect/Atmosphere Seam
-Use for rain, darkness, glitch fragments, city lights, candle smoke, hostile pixels, or other continuing fields.
+Rain, darkness, glitch, city lights, candle smoke, hostile pixels, continuing fields.
 
 ## Start/End State Handoff — Absolute
 
-Before generating Strip N+1, explicitly compare Strip N's approved END STATE to Strip N+1's hardened START STATE.
+Before N+1, compare approved END STATE of N to hardened START STATE of N+1.
 
-Every state not changed by the seam must match exactly:
-- character position/facing/distance/seated-standing state
-- hand occupancy
+Every unchanged state must match:
+- character position/facing/feet/distance/seated-standing
+- hand occupancy/body support
 - wardrobe/hair/accessories
-- food/noodle amount and path
-- pot/bowl/chopsticks/packet/wrapper state
-- key/manual/note/pen/notebook/phone/tablet/bag state
-- knife/sheath/floor-impact state
-- cord/plug/WALL-socket connection state
+- food/noodle amount/path
+- pot/bowl/chopsticks/packet/wrapper
+- key/manual/note/pen/notebook/phone/tablet/bag
+- knife/sheath/floor impact
+- cord/plug/WALL-socket connection
 - chair pushed/occupied state
-- candle/holder/flame state
-- cabinet/stockpot/lid/towels/speaker state
-- device display text/effect state
-- power/lighting state
-- canonical environment geometry
+- candle/holder/flame
+- cabinet/stockpot/lid/towels/speaker
+- device text/effect
+- power/light
+- canonical geometry
 
-A strip boundary is not a time cut unless script explicitly defines one. Technical file boundaries do not reset objects.
+Strip boundary is not time cut unless script explicitly defines one.
 
-## Wall-Socket Seam Rule — Absolute
+## Prop Provenance Seam Rule — Absolute
 
-If Strip N ends with a corded appliance unplugged from a wall socket, Strip N+1 inherits:
-- appliance-side cord still attached to appliance body
-- same cord route family
-- same loose wall-end plug
-- same wall-mounted socket location
-- socket remains empty
+A story-critical object cannot materialize at N+1.
 
-Do not silently convert this into an appliance-side disconnect or re-plug at the next strip.
+At seam ask:
+- where was object at N end?
+- is it at exact same place/hand at N+1 start?
+- if different, is there explicit legal time cut or visible route?
 
-Chapter 1 critical handoffs:
-- Strip 006→007: TV remains unplugged FROM WALL
-- that same TV remains physically unplugged through powered aftermath and final Strip 031→032 activation
-- stored speaker remains unplugged with attached cord/loose plug through storage and borrowed-current scenes
+Reject seam if packet, phone, pen, chopsticks, key, knife, notebook, lid, towel, plug, or other continuity prop changes source/location with no cause.
+
+Chapter1 examples:
+- Strip012 dead phone must be pocketed before Strip013
+- Strip017 empty outer noodle packet must already exist before Strip019 step
+- Strip028 lid/towel/speaker open topology carries to Strip029/030
+- Strip029 empty outer packet only reaches table after visible pickup
+- Strip031 pen must be resting on notebook before Strip032
+
+## Prop Topology Seam Rule — Absolute
+
+Seam preserves relative physical relationships, not just object list.
+
+Across N→N+1 compare:
+- pot same trivet/location
+- cloth same hot-handle side
+- candle same physical table position
+- used/clean chopsticks same rest points
+- packet/wrapper same floor/table positions
+- pushed chair same angle/location
+- knife same impact spot
+- stockpot lid/towels/speaker/cord same arrangement
+
+Reverse shot can flip screen-left/right but cannot swap story-world sides/order.
+
+## Fixed Wall-Outlet Seam Rule — Absolute
+
+If outlet has been canonically/finally established, N+1 inherits:
+- same story-world wall
+- same height
+- same faceplate/socket orientation
+- same nearby furniture/appliance relation
+- same cord-route family
+
+Do not invent new outlet for next shot.
+
+If Strip N ends appliance wall-unplugged, N+1 also inherits:
+- appliance-side cord attached
+- same loose wall plug
+- same fixed wall socket
+- socket empty
+
+No silent appliance-side disconnect or replug.
+
+Chapter1:
+- 006→007 TV remains wall-unplugged at same outlet landmark
+- that TV remains physically wall-unplugged through powered aftermath/final 031→032
+- stored speaker remains unplugged with attached cord/loose plug through storage/borrowed-current scenes
 
 ## Food / Small-Prop Seam Rule — Absolute
 
-Food and small props do not disappear at strip boundaries.
+Food/small props do not disappear at seam.
 
 Examples:
-- visible noodles/chopsticks/pot at Strip 017 end must carry into Strip 018 until visible mask/eating action changes them
-- dropped knife floor position Strip 023 persists through 024–027 until Strip 028 pickup
-- Nari's clean chopsticks/food state from Strip 029 carries into 030/031 if still physically present
-- notebook + pen Strip 030→031→032 remain same objects
+- Strip017 pot/noodles/chopsticks/packet/wrapper carry into 018
+- empty outer packet persists 017→018→019
+- knife floor spot 023 persists through 024–027 until 028 pickup
+- Pair A/Pair B + packet/wrapper/pot topology from 029 carries 030→031→032
+- notebook + pen 030→031→032 remain same objects
 
 Occlusion is not disappearance.
+
+## Hand-Occupancy Seam Rule — Absolute
+
+End hand/body support must be physically compatible with next start.
+
+Reject seam if:
+- object vanishes from hand without placement/pocketing
+- new object appears in hand with no pickup
+- character suddenly holds more objects than hands/support permit
+- bag/umbrella/phone/earbuds/key/binder hand roles silently swap
 
 ## Character ↔ Environment Seam Rule — Absolute
 
 For A/E and continuous G seams preserve:
-- camera axis/perspective when intended to continue
-- character scale and floor support
+- camera axis/perspective when intended
+- character scale/floor support
 - actual chair/body relationship
-- reachability and eyeline
+- reachability/eyeline
 - object scale
 - wall/floor/background alignment
 - door/cabinet hinge state
-- power/lighting baseline
+- power/light baseline
 
-Do not mirror room or move fixed architecture at seam to make next composition easier.
+Do not mirror room/move fixed architecture to help next composition.
 
 ## No-Dead-Space Seam Rule — Absolute
 
-Never create seam by simply leaving huge empty lower area.
+Never create seam by huge empty lower area.
 
-If story beat needs pause, pause must read intentionally through existing narration, scripted SFX, reaction, canonical environmental continuation, atmosphere, or reveal timing.
+If pause needed, it must read through existing narration/SFX/reaction/environment/atmosphere/reveal timing. Otherwise continue artwork closer to edge with small buffer. Never invent text/SFX.
 
-If no such purpose, continue artwork closer to technical edge and use only small buffer. Never solve blank space by inventing narration/dialogue/SFX.
-
-Reject double-gap join where Strip N has excessive empty bottom and Strip N+1 excessive empty top.
+Reject double-gap join.
 
 ## Overlap Strategy
 
-When practical, repeat a small lower-edge continuity zone from Strip N at top of Strip N+1 and crop duplicate during stitching. Recommended concept: roughly 10–20% of transition area, never reader-visible repeated panel.
+When practical, repeat small lower-edge continuity zone from N at top of N+1, crop duplicate during stitch. Roughly 10–20% transition area. Never reader-visible repeated panel.
 
-Do not repeat dialogue/SFX inside overlap. Any repeated objects/body portions must match exactly; overlap is not permission for a second duplicate story-world object.
+No repeated dialogue/SFX. Repeated objects/body portions must match exactly; overlap is not second story-world object.
 
 ## Text Seam Rule — Absolute
 
-Never split across seam: speech balloon, narration box, handwritten message, device text, critical SFX word, or face if mismatch would be obvious.
+Never split speech balloon, narration, handwriting, device text, critical SFX, or obvious face mismatch across seam.
 
-Background, body below face, furniture, rain, dark room, city field, or tall effect may continue when reliable.
+Never introduce V/P/strip/beat/panel/scene production label at new file start.
 
-Never introduce a V/P/strip/beat/panel/scene production label at the start of a new file. Technical seam must remain invisible to reader.
+## Seam QA — Third Hardened Checklist
 
-## Seam QA — Full Hardened Checklist
-
-Before approval compare bottom of Strip N to top of Strip N+1:
+Before approval compare bottom N to top N+1:
 - width identical
-- exact canonical environment landmarks correct
-- character identity/hair/wardrobe/accessories unchanged unless scripted
-- character position/scale/pose handoff physically continuous
-- hand occupancy consistent
-- food/noodle/chopstick/pot state consistent
+- canonical environment landmarks correct
+- fixed outlet landmark unchanged
+- character identity/hair/wardrobe unchanged unless scripted
+- exact position/feet/scale/pose handoff
+- hand occupancy physically compatible
+- prop provenance continuous
+- prop topology/physical sides unchanged
+- food/noodle/chopstick/pot/packet/wrapper consistent
 - recurring object body/state canonical
-- cord/plug/wall-socket state identical unless explicit action changes it
-- key/manual/phone/notebook/knife/candle/chair/cabinet small states persist
-- no accidental horizontal white/black technical line
+- cord/plug/wall-socket identical unless explicit action changes
+- key/manual/phone/notebook/pen/knife/candle/chair/cabinet small states persist
+- storage lid/towel/speaker arrangement persists
+- no accidental technical line
 - no duplicated/missing text
 - no missing floor/wall segment
 - no changed appliance geometry
-- no power/lighting jump unless scripted
+- no power/light jump unless scripted
 - no pose/object teleport
-- no narration-style reset that looks like a technical new-file header
-- no `V-*` or other production metadata
+- no narration-style reset resembling new-file header
+- no `V-*`/production metadata
 - no excessive dead bottom/top gap
 
-If join is obvious at normal phone-scroll speed, violates hardened state handoff, or conflicts with canonical reference, reject/regenerate newer strip.
+If join obvious at phone-scroll speed, violates state/provenance/topology/outlet handoff, or conflicts canonical reference, reject/regenerate newer strip.
