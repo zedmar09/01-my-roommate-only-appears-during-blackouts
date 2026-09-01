@@ -12,6 +12,8 @@ ATTACH — REQUIRED
 - `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-canonical.png`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-canonical.png`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-canonical.png`
+- `Manhwa/Object-References/electrical-operation-guide-canonical.png`
+- `Manhwa/Object-References/brass-backup-key-canonical.png`
 - APPROVED Strip 002
 - this Strip 003 prompt
 
@@ -19,9 +21,15 @@ ATTACH — REQUIRED
 EXACT START / NO RESET — ABSOLUTE
 ==================================================
 
-Binder and brass backup key remain exactly where Strip 002 placed them on the kitchen counter.
+The SAME canonical electrical-operation guide and SAME canonical brass backup key remain exactly where Strip 002 placed them on the kitchen counter.
 Nari and Mrs. Na remain at that counter. Neither changes room.
 Hallway mains lamp must be physically located according to canonical hallway reference; it is an ordinary apartment light, not supernatural.
+
+Manual/key continuity:
+- one binder only; cover/body/title match canonical
+- one Unit 2407 brass backup key only; same key shape/material
+- key remains detached from Mrs. Na's ring and on the counter throughout this strip
+- neither woman picks up or relocates either object
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
@@ -84,7 +92,7 @@ MRS. NA:
 REAL-SCENARIO CONTINUITY
 ==================================================
 
-Mrs. Na does not walk away yet. Nari does not touch binder/key. Lamp stays normally powered. No screen activates. No supernatural effect.
+Mrs. Na does not walk away yet. Nari does not touch the canonical binder/key. Lamp stays normally powered. No screen activates. No supernatural effect.
 
 NO DEAD BOTTOM — ABSOLUTE
 End on unresolved tension at the same counter with a compact black beat separator only. Strip 004 continues the question chain.
@@ -94,6 +102,9 @@ Strip 004 starts with Nari's whole-building-outage question from these exact pos
 
 AUTOMATIC REJECT IF
 - binder/key relocate
+- binder body/title differs from canonical
+- key shape/material differs from canonical
+- duplicate binder/key appears
 - hallway lamp changes place/design
 - phone/tablet becomes a supernatural event
 - dialogue tails swap
@@ -108,5 +119,7 @@ AUTOMATIC REJECT IF
 3. Unit 2407 floor plan
 4. Unit 2407 living→kitchen wide
 5. Unit 2407 hallway canonical
-6. APPROVED Strip 002
-7. this Strip 003 prompt
+6. Unit 2407 electrical-operation-guide canonical
+7. Unit 2407 brass-backup-key canonical
+8. APPROVED Strip 002
+9. this Strip 003 prompt
