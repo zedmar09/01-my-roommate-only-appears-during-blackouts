@@ -7,10 +7,10 @@ PRODUCTION SCOPE
 V55–V59. Historical P8 mapping only.
 
 ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.png`
-- `Character-References/seungjae-canonical-flat2d.png`
-- `Manhwa/Environment-References/Building-Shared-Areas/rainy-building-entrance-canonical.png`
-- `Manhwa/Environment-References/Building-Shared-Areas/building-lobby-elevator-canonical.png`
+- `Character-References/nari-canonical-flat2d.webp`
+- `Character-References/seungjae-canonical-flat2d.webp`
+- `Manhwa/Environment-References/Building-Shared-Areas/rainy-building-entrance-reference.webp`
+- `Manhwa/Environment-References/Building-Shared-Areas/building-lobby-elevator-reference.webp`
 - APPROVED Strip 011 for Nari identity/style continuity
 - this Strip 012 prompt
 
@@ -27,7 +27,8 @@ The tablet does NOT wake/show text in Strip 012; its first message occurs Strip 
 SEUNGJAE PERSONAL ITEMS — ABSOLUTE
 ==================================================
 
-Seungjae has exactly:
+Seungjae is exactly 30, the same age as Nari, and must visually read as her same-generation coworker.
+He has exactly:
 - ONE umbrella
 - ONE phone
 - ONE smartwatch on wrist
@@ -103,6 +104,7 @@ Strip 013 starts from SAME inward movement/wardrobe/item states. Do not insert a
 AUTOMATIC REJECT IF
 - Nari has more than one bag
 - tablet is outside bag or already displays message
+- Seungjae reads substantially older than Nari or older than 30
 - Seungjae has duplicated electronics
 - he turns toward exit early
 - lobby entrance/elevator axis flips
@@ -111,9 +113,9 @@ AUTOMATIC REJECT IF
 ```
 
 ## Production Thread Attachments
-1. Nari canonical
-2. Seungjae canonical
-3. rainy-building-entrance canonical
-4. building-lobby-elevator canonical
+1. `Character-References/nari-canonical-flat2d.webp`
+2. `Character-References/seungjae-canonical-flat2d.webp`
+3. `Manhwa/Environment-References/Building-Shared-Areas/rainy-building-entrance-reference.webp`
+4. `Manhwa/Environment-References/Building-Shared-Areas/building-lobby-elevator-reference.webp`
 5. APPROVED Strip 011
 6. this Strip 012 prompt
