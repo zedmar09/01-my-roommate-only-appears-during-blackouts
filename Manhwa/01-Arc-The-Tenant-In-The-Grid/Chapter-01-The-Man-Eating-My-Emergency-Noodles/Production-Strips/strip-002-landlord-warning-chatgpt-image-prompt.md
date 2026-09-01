@@ -23,6 +23,55 @@ ATTACH — REQUIRED
 If a canonical WebP is missing, stale, wrong-path, or unapproved, do not replace it with a random apartment/object image.
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL TEXT — ABSOLUTE
+==================================================
+
+Attached character/environment/object WebPs are binding visual authority. Do not change faces, age, hair, coat, room axis, counter position, door geometry, binder construction, key shape, or scale to make the shot easier.
+Never render `V08`, `V09`, `V10`, `V11`, `P2`, `Strip 002`, `BEAT`, `PANEL`, `SCENE`, or any production label anywhere, especially top-left.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- same later-day Unit 2407 geometry established by Strip 001 and attached references
+- Nari is inside; front door closed
+- Mrs. Na is outside corridor with exactly one handbag, one canonical binder, and one ordinary key ring containing exactly one canonical Unit 2407 brass key
+- speaker remains canonical kitchen counter, plugged in
+- moving boxes remain believable from move-in
+
+ALLOWED CHANGES:
+- doorbell rings; Nari walks to door and opens it
+- Mrs. Na crosses threshold ONCE; both physically walk entry → open-plan → kitchen counter
+- Mrs. Na places binder flat on counter
+- Mrs. Na visibly detaches the Unit 2407 brass key from her ordinary ring and places that SAME key beside binder
+
+END:
+- Nari + Mrs. Na at same kitchen counter
+- binder flat on counter
+- brass backup key detached and on counter beside binder
+- Mrs. Na still has handbag and ordinary ring minus the Unit 2407 key
+- speaker remains unchanged; door/room geometry canonical
+
+A camera cut does not reset or duplicate any of these states.
+
+==================================================
+HAND / OBJECT / ENVIRONMENT MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+Track Mrs. Na's hands and props through corridor → threshold → walk → counter. Binder/key/handbag cannot teleport between hands or duplicate. If framing hides an object, its state remains unchanged.
+
+Door crossing must show believable clearance and feet/support. Neither woman may clip through front door, shelf, boxes, counter, chairs, or walls. Walk route must match floor plan.
+
+For V11, binder placement must physically finish before it is shown resting flat. Key detachment must show the key leaving the ring before the `CLINK` placement. Do not show the same key simultaneously on ring and counter.
+
+==================================================
+NARRATION DESIGN BY SITUATION — ABSOLUTE
+==================================================
+
+`LATER THAT EVENING...` is a true time transition: use a compact time-caption treatment distinct from Strip 001's premise/observation narration while remaining in the same publication typography family. It should read as a transition, not device UI, speech, or a generic repeated narration box.
+
+==================================================
 EXACT TIME / PROP STATE — ABSOLUTE
 ==================================================
 
@@ -122,12 +171,17 @@ SEAM OUT — G / SAME CONVERSATION
 Strip 003 begins immediately at the same counter. Preserve body positions, binder/key positions, wardrobe, lighting, hallway lamp geography, and apartment axis.
 
 AUTOMATIC REJECT IF
+- any V/P/strip/beat/panel/scene production label appears
+- attached reference identity/geometry/object design changes
 - Mrs. Na teleports to kitchen
 - duplicated binder/key/handbag appears
+- key appears both on ring and counter after detachment
+- binder rests on counter before visible placement
 - binder cover/title/body drifts from canonical
 - key shape/material drifts from canonical
 - brass key is already in entry tray in this strip
 - canonical Unit 2407 is mirrored
+- narration uses an inappropriate generic repeated box instead of a time-transition treatment
 - wrong dialogue ownership
 - separate slices have no black gutter / side-by-side shots lack slanted black divider
 - giant purposeless bottom space appears
