@@ -38,8 +38,12 @@ START:
 ALLOWED CHANGES:
 - legal `LATER THAT DAY` location cut to store
 - Nari acquires exactly listed blackout-kit categories including ONE different practical knife already sheathed
-- Nari returns carrying exactly TWO shopping bags
-- at Unit 2407 she physically operates SAME smart lock, opens SAME front door, crosses threshold with both bags, then places both bags inside before unpacking
+- Nari returns with exactly TWO shopping bags, designated BAG A and BAG B for production continuity only
+- outside Unit 2407: BAG A remains supported by one arm/body; BAG B is visibly set on corridor floor immediately beside Nari
+- with a free hand Nari physically operates SAME smart lock and opens SAME front door
+- only after door is open, Nari visibly picks BAG B back up
+- Nari crosses threshold carrying BAG A + BAG B
+- inside Unit 2407 she visibly sets BOTH bags down before unpacking
 - she stores supplies in canonical pantry/desk zones
 - establishes exactly SIX emergency noodle packets total in pantry
 - puts flashlight, radio, and SAME sheathed practical knife into emergency tray right of keyboard
@@ -57,46 +61,64 @@ END:
 STORE / PURCHASE / SHOPPING-BAG MICRO-CONTINUITY — ABSOLUTE
 ==================================================
 
-Store montage cannot invent duplicate purchased plot items. The practical blackout knife is one object from store → shopping bag → apartment → desk tray. It never becomes the guarded fruit knife.
+Store montage cannot invent duplicate purchased plot items. The practical blackout knife is one object from store → shopping bag → apartment → desk tray. It never becomes guarded fruit knife.
 
-Exactly TWO shopping bags accompany Nari through return threshold.
+Exactly TWO shopping bags exist in the return sequence:
+- BAG A
+- BAG B
+
 Required bag chain:
-1. exactly two filled bags at store exit/return
-2. exactly two bags in Nari's hands during smart-lock/door sequence, with a physically plausible grip/support
-3. after crossing threshold, she visibly sets BOTH bags down inside Unit 2407 before unpacking
-4. contents are removed from those same bags during preparation
-5. no third bag appears; neither bag vanishes while still filled
+1. exactly BAG A + BAG B are filled at store exit/return
+2. outside Unit 2407, BAG A stays physically supported in one arm/hand/body position
+3. Nari visibly lowers BAG B to ONE stable corridor-floor spot immediately beside her and releases it
+4. BAG B remains at that exact floor spot while the now-free hand operates smart lock and opens door
+5. after door is visibly open, Nari visibly reaches BAG B, grips it, lifts it from floor; old corridor-floor spot becomes empty
+6. only then does Nari cross threshold carrying BOTH BAG A + BAG B
+7. inside, she visibly sets BAG A and BAG B down before unpacking
+8. contents are removed from those same two bags during preparation
+9. no third bag appears; neither filled bag vanishes or duplicates
 
-If lock operation requires a free finger/hand, Nari may briefly brace/set one bag securely beside her at the door, operate lock, then pick it back up before crossing. Do not give her an extra hand and do not teleport a bag through the door.
+Do not choose an alternate hidden support method. The above BAG A/B sequence is the single authoritative physical solution for V53.
 
 ==================================================
 V53 SMART-LOCK / FRONT-DOOR ACTION-PROOF — ABSOLUTE
 ==================================================
 
-Use the attached entry/living reference. V53 must visibly prove:
-1. Nari and exactly two bags arrive outside SAME closed Unit 2407 door
-2. one hand/finger physically operates SAME canonical smart lock while both bags remain plausibly supported/accounted for
-3. `BEEP` occurs at actual smart lock
-4. latch releases
-5. SAME door physically opens on canonical hinge
-6. Nari crosses through real opening with BOTH bags accounted for
-7. both bags are physically placed inside before unpacking
+Use attached entry/living reference. V53 must visibly prove in order:
+1. Nari + BAG A + BAG B arrive outside SAME closed Unit 2407 door
+2. BAG A remains supported by Nari
+3. BAG B is visibly set/released on corridor floor beside her
+4. free hand contacts SAME canonical smart lock
+5. `BEEP` occurs at smart lock
+6. latch releases
+7. same free hand operates real door handle/edge
+8. SAME door opens on canonical hinge
+9. Nari visibly picks BAG B back up from SAME floor spot
+10. BAG A + BAG B are both carried through the real open doorway
+11. after crossing, Nari visibly sets BOTH bags down inside before unpacking
 
-Do not jump store → pantry. Do not show Nari inside before the door is open.
+Do not jump store→pantry. Do not show Nari inside before door opens. Do not leave BAG B outside after crossing.
+
+==================================================
+SAME-BAG INSERT / NO DUPLICATION — ABSOLUTE
+==================================================
+
+Any close-up of a bag handle, bag placement, or bag pickup is a detail of the SAME BAG A or BAG B, not an additional shopping bag.
+If wide + detail slices are used, their states must agree: BAG B cannot be simultaneously on corridor floor and already in Nari's hand unless the slices clearly show successive action separated in reading order.
 
 ==================================================
 EXACT NOODLE / FOOD INVENTORY — ABSOLUTE
 ==================================================
 
-Noodle inventory is a strict persistent count:
+Noodle inventory is strict persistent count:
 - exactly SIX unopened emergency noodle packets total at V54
 - exactly ONE spicy-seafood packet + FIVE other-flavor packets
 - no seventh noodle packet
 - no packet eaten/opened in this strip
-- this six-count becomes authority until the later Hyun-woo food event uses exactly one packet
+- this six-count becomes authority until later Hyun-woo food event uses exactly one packet
 
 The narration word `FOOD` does NOT authorize extra noodle packets.
-If any other shelf-stable food is drawn, it must be visually distinct from the six emergency noodle packets and must not resemble/duplicate their packaging. Prefer minimal generic non-noodle pantry goods so the exact six-packet count remains immediately readable.
+If any other shelf-stable food is drawn, it must be visually distinct from the six emergency noodle packets and must not resemble/duplicate their packaging. Prefer minimal generic non-noodle pantry goods so six-packet count remains immediately readable.
 
 ==================================================
 EMERGENCY TRAY / KNIFE MICRO-CONTINUITY — ABSOLUTE
@@ -107,9 +129,16 @@ Emergency tray is physically immediately RIGHT of keyboard. Do not move tray bec
 V54 must visibly place exactly:
 - ONE battery flashlight
 - ONE portable radio
-- SAME practical knife fully inside its protective sheath, handle toward Nari's chair
+- SAME practical knife fully inside protective sheath, handle toward Nari's chair
 
-The practical knife is distinct from the guarded fruit knife under sofa. Do not show both as one object or duplicate either.
+The practical knife is distinct from guarded fruit knife under sofa. Do not show both as one object or duplicate either.
+
+==================================================
+TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
+==================================================
+
+Narration/SFX may not cover BAG B floor placement/pickup, smart-lock contact, open door, threshold crossing, six-packet count, or emergency-tray item identity.
+`BEEP` stays near smart lock without hiding finger/lock contact.
 
 ==================================================
 NARRATION DESIGN BY SITUATION — ABSOLUTE
@@ -124,7 +153,7 @@ Do not force one repeated box or repetitive top-left tag. Keep text subordinate 
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Every distinct vertical slice gets a SMALL BLACK GUTTER. Separate side-by-side acquisition/detail views with a DIAGONAL BLACK DIVIDER. Use a compact black location transition between supply store and return to Unit 2407. No giant dead space.
+Every distinct vertical slice gets SMALL BLACK GUTTER. Separate side-by-side acquisition/detail views with DIAGONAL BLACK DIVIDER. Use compact black location transition between store and Unit 2407. No giant dead space.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -154,11 +183,10 @@ This practical sheathed knife is different from guarded fruit knife hidden under
 
 COMPACT BLACK LOCATION TRANSITION.
 
-V53 — RETURN HOME / REAL ENTRY
-Nari returns with exactly TWO ordinary shopping bags.
-Execute the exact smart-lock → door-open → threshold-cross → both-bags-inside action proof above.
-SFX at smart lock:
-`BEEP`
+V53 — RETURN HOME / EXACT BAG + ENTRY CHAIN
+Nari returns with exactly BAG A + BAG B.
+Execute exact sequence:
+BAG A supported → BAG B set on corridor floor → smart-lock contact `BEEP` → latch release → door physically open → BAG B picked back up → BOTH bags cross threshold → BOTH bags set down inside.
 
 SMALL BLACK GUTTER.
 
@@ -203,17 +231,17 @@ Strip 012 begins two days later after work at building entrance.
 
 AUTOMATIC REJECT IF
 - any V/P/strip/beat/panel/scene production label appears
-- attached reference geometry/identity is altered
-- permanent drift from previous strip is propagated over canon
-- entry/living reference is ignored or smart-lock/door action is skipped
-- Nari crosses a closed door or bags teleport across threshold
+- attached reference geometry/identity altered
+- permanent drift previous strip propagated over canon
+- entry/living reference ignored or smart-lock/door action skipped
+- BAG B does not visibly go floor→pickup before threshold
+- Nari crosses closed door or any bag teleports across threshold
+- BAG A/B duplicate, merge, change identity, or third bag appears
 - practical knife/fruit knife merge
-- practical knife teleports from store to tray or changes sheath design
-- noodle count is not exactly six or another item is drawn as an accidental seventh noodle packet
+- practical knife teleports store→tray or changes sheath design
+- noodle count not exactly six or another item reads as seventh noodle packet
 - emergency tray moves from right of keyboard
-- Nari has more/fewer than two shopping bags during return sequence
-- shopping bags/items vanish/duplicate before storage
-- narration obscures inventory or uses one generic/top-left tag for all contexts
+- narration/SFX obscures bag/lock/inventory action proof
 - apartment geography drifts
 - black separators missing/oversized
 - giant dead bottom appears
