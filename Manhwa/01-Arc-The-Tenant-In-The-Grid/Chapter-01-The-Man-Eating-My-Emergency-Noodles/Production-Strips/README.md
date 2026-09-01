@@ -2,9 +2,9 @@
 
 This folder contains **32 technical image-generation prompts** for one continuous Manhwa Chapter 1. Historical P001–P018 and V01–V146 labels are production-only mapping shorthand.
 
-Current status: **SECOND FULL HARDENING AUDIT IN PROGRESS — PRIOR RENDERS REMAIN REJECTED — NOT PRODUCTION COMPLETE.**
+Current status: **SECOND FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
 
-The first deep-hardening pass materially improved the package, but the second clean-room audit found additional production ambiguity that must be removed before another render is trusted.
+A second clean-room hardening audit has now completed across Strip 001→032. The first hardening PASS was not reused as proof; additional production ambiguity was found and repaired.
 
 ## Prior Render Rejection — Absolute
 
@@ -14,7 +14,7 @@ Do not attach an older rejected render as `APPROVED Strip N` merely because it a
 
 `Strip 001 → audit / fix / re-audit → approve → Strip 002 → ... → Strip 032`
 
-Only a newly generated strip that passes the current hardened visual QA may become temporary continuity authority for the next strip.
+Only a newly generated strip that passes the current second-pass visual QA may become temporary continuity authority for the next strip.
 
 ## Binding Global Rules — Absolute
 
@@ -156,20 +156,29 @@ Never render, especially at the top-left of a vertical slice:
 
 V/P/strip identifiers written inside Markdown are instructions for production only. They must never appear in reader-facing art.
 
+## Second-Pass Strip-Specific Corrections
+
+Additional repairs were made to:
+- Strip 001 — smart-lock contact / door-opening proof
+- Strip 003 — removed conceptual phone/tablet inserts
+- Strip 004 — visible key pickup / tray placement proof
+- Strip 005 — removed unscripted visible food; chopsticks only
+- Strip 015 — flashlight/radio exact tray-return sequence
+- Strip 016 — deterministic tool handoff + visible knife/sheath separation
+- Strip 023 — free-hand/knife-hand biomechanics + former-knife-hand wrist lock
+- Strip 024 — same-wrist release proof
+- Strip 026 — TV canonical added for wall-unplug evidence
+- Strip 030 — TV canonical added before final activation; notebook pickup/return proof
+- Strip 031 — active TV + loose plug + empty wall socket proof made mandatory
+- Strip 032 — final reveal locked to Strip 031's already-proven wall-unplug state
+
+All other strips were re-read under the second-pass gates and required no additional deterministic story/prompt correction.
+
 ## Every Strip Is Self-Contained For Attachments — Absolute
 
 Every current `strip-001` through `strip-032` explicitly lists its exact required visual WebPs plus the immediately previous newly APPROVED strip for 002–032.
 
 Use exact repository filenames. Do not substitute obsolete PNG names, vague shorthand, a Markdown reference prompt, or a rejected old render.
-
-## Current Approved Chapter 1 Character WebPs
-
-- `Character-References/nari-canonical-flat2d.webp`
-- `Character-References/hyunwoo-canonical-flat2d.webp`
-- `Character-References/mrs-na-canonical-flat2d.webp`
-- `Character-References/seungjae-canonical-flat2d.webp`
-
-Nari's current identity uses long dark-plum hair approximately mid-back length, loose by default. Retired short-hair Nari is invalid.
 
 ## Reference-Image Generation Format
 
@@ -189,13 +198,12 @@ A gutter is reading grammar, not permission to reset state or fill canvas. Do no
 
 ## Current Production Order
 
-1. Finish this second clean-room Strip 001→032 hardening audit and repair every finding.
-2. Generate **new Strip 001** using its exact second-pass hardened prompt + exact approved WebPs.
-3. Deep-audit the actual rendered pixels against the current hardening gates.
-4. Fix/regenerate until Strip 001 passes.
-5. Only then treat that Strip 001 as APPROVED and attach it to Strip 002.
-6. Repeat sequentially through Strip 032.
-7. Stitch all approved strips.
-8. Run a fresh final clean-room visual audit.
+1. Generate **new Strip 001** using its exact second-pass hardened prompt + exact approved WebPs.
+2. Deep-audit the actual rendered pixels against the current second-pass gates.
+3. Fix/regenerate until Strip 001 passes.
+4. Only then treat that Strip 001 as APPROVED and attach it to Strip 002.
+5. Repeat sequentially through Strip 032.
+6. Stitch all approved strips.
+7. Run a fresh final clean-room visual audit.
 
 `PRODUCTION COMPLETE` is forbidden until that final rendered/stitch audit reaches zero unresolved mandatory findings.
