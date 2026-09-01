@@ -18,6 +18,63 @@ ATTACH — REQUIRED
 Do NOT attach Seungjae or Hyun-woo.
 
 ==================================================
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+==================================================
+
+Attached references are binding. Preserve Nari's approved face/body/hair, desk geometry, emergency-tray position, hallway/lamp position, apartment axis, and lighting-state logic exactly.
+Never render V65–V67, P9, Strip 014, beat/panel/scene labels, or any production metadata anywhere, especially top-left. `12:43 A.M.` is reader-facing narration only because the script explicitly contains it; it must not look like a production V-label.
+
+==================================================
+START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+==================================================
+
+START:
+- legal later-night cut: Nari already at canonical work desk
+- home state: oversized graphic hoodie, loose black trousers, bare feet, headphones around neck
+- long dark-plum hair LOOSE at approved mid-back length; yellow scrunchie on ONE wrist
+- ordinary Unit 2407 supplied power ON
+- hallway mains lamp visibly ON
+- monitor/room light/purifier/refrigerator powered normally
+- phone = desk, screen dark/not story-active
+- emergency tray immediately right of keyboard contains flashlight + radio + practical knife fully sheathed, handle toward chair
+- front door closed/latch engaged
+
+ALLOWED CHANGES:
+- one unscripted-by-Nari power-loss event cuts ordinary Unit 2407 supplied power
+- monitor/light/hallway lamp/purifier/refrigerator stop together as one causal event
+- Nari turns/reacts; she does NOT touch lamp/switch/phone/tools/knife
+- camera may cut outside to establish citywide outage
+
+END:
+- Unit 2407 ordinary power OFF
+- hallway lamp OFF because supply failed, not because Nari switched it
+- phone remains dark at desk
+- flashlight/radio/sheathed knife remain in tray, untouched
+- Nari hair/scrunchie/home outfit unchanged
+- citywide outage confirmed
+
+==================================================
+POWER-LOSS MICRO-CONTINUITY — ABSOLUTE
+==================================================
+
+V65 must establish powered baseline clearly enough that V66 is a real state change, not just darker art.
+V66 is ONE simultaneous supply-loss event. Do not show hallway lamp already dark in V65, and do not have Nari switch it off.
+The room does not instantly change furniture/prop positions when power cuts. Blackout changes illumination/operating state only.
+Phone must not light up because of the outage. Practical knife cannot move out of sheath/tray.
+
+V67 exterior city darkness is evidence of the same outage, not a second event. Do not imply Unit 2407 alone went dark while city remains powered.
+
+==================================================
+NARRATION DESIGN BY SITUATION — ABSOLUTE
+==================================================
+
+Use scenario-specific caption treatments:
+- `LATER THAT NIGHT — 12:43 A.M.` = compact time/location caption, readable as reader-facing story narration, not technical metadata.
+- `EVERYTHING SHUT OFF AT ONCE.` = sharper event-state narration, visually firmer than time caption.
+- `THEN NARI SAW THE CITY WAS DARK TOO.` = ominous confirmation caption with more breathing room against exterior darkness.
+Do not force one identical narration box on all three. Keep them within one coherent typography family; no glitch/cinematic effects and no top-left V-style label treatment.
+
+==================================================
 LEGAL TIME / LOCATION CUT — ABSOLUTE
 ==================================================
 
@@ -93,14 +150,18 @@ SEAM OUT — E
 Strip 015 returns to same desk during SAME outage. No bright line or black-bar seam separate from the continuous blackout field.
 
 AUTOMATIC REJECT IF
+- any V/P/strip/beat/panel/scene production label appears
+- `12:43 A.M.` is styled like a production marker instead of story narration
+- attached references are redesigned/mirrored
 - Seungjae/Hyun-woo appears
 - Nari stays in after-work wardrobe
-- Nari's long dark-plum hair becomes tied/short/bobbed or the scrunchie moves from wrist into her hair
-- hallway lamp off before outage
-- Nari switches it off
+- Nari's long dark-plum hair becomes tied/short/bobbed or scrunchie moves into hair
+- hallway lamp off before outage or Nari switches it off
 - phone/screen turns on
-- practical knife moves
+- practical knife/flashlight/radio move during power loss
+- blackout changes architecture/furniture positions
 - only apartment dark while city powered
+- narration uses one generic repeated box across time/event/confirmation beats
 - black slice spacing becomes dead void
 ```
 
