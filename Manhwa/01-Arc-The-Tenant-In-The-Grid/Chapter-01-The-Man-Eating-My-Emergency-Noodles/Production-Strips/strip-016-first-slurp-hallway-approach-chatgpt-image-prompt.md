@@ -62,6 +62,42 @@ END:
 - Hyun-woo seated teaser; blackout active
 
 ==================================================
+FINAL GUARDED-PERFORMANCE / POSE PROGRESSION — NON-NEGOTIABLE
+==================================================
+
+Strip 015 ends with Nari listening tensely near the desk. Strip 016 must escalate that SAME adult controlled tension; it may not reset to calm comedy or jump instantly to screaming horror.
+
+V71:
+- quiet controlled listening; shoulders slightly held/alert, feet/body still compatible with desk position
+- no panic running, crying, crouching, flailing or weapon-ready stance before the sound
+
+V72 `SLURP`:
+- first response is a small freeze + head/eyes/upper-torso orientation toward the REAL dining/kitchen source
+- feet do not teleport or rotate into the hallway yet
+- expression = wary disbelief/alertness, not scream face
+
+V73 knife draw:
+- decision becomes practical self-protection
+- body turns/positions only as required to access the tray and draw; do not invent a dramatic combat pose
+- after draw, knife stays LOW, not overhead/thrust forward
+- shoulders/hips remain compatible with a cautious walking posture
+
+V74/V75 route:
+- movement is slow, deliberate, guarded
+- do not alternate knife-low posture with random two-handed combat stance, arms-up fear pose, or hand-on-wall pose unless physically shown
+- head may lead toward sound while torso/hips progressively follow the real route; camera changes do not silently reverse her body facing
+- hair/headphones/hoodie may sway naturally with walking but clothing-layer state remains unchanged
+
+V75A stop:
+- Nari deliberately stops before/immediately at entrance; weight settles at the stopped mark
+- knife remains low SAME KNIFE HAND
+
+V75B teaser:
+- reaction is **stunned, guarded, tense observation** of an actual seated person
+- no scream, tears, collapse, backward leap, romantic blush, heroic combat lunge or full panic
+- this exact wary/defensive performance carries into Strip 017's `DON'T MOVE. I HAVE A KNIFE.`
+
+==================================================
 OFFSCREEN AUDIO SOURCE / REACTION DIRECTION — NON-NEGOTIABLE
 ==================================================
 
@@ -101,19 +137,27 @@ Exact draw:
 8. one EMPTY sheath remains exact tray support zone/orientation
 
 ==================================================
-WORN-ITEM / HAIR ATTACHMENT — ABSOLUTE
+WORN-ITEM / CLOTHING-LAYER / HAIR ATTACHMENT — ABSOLUTE
 ==================================================
 
 SCRUNCHIE remains physically around SAME wrist; hoodie sleeve may partly occlude it but cannot swallow/duplicate it.
 Headphones remain physically around neck/collar/hoodie; band/earcups cannot pass through neck, jaw, hair, hoodie or knife arm.
-Long hair may move naturally with head turn/walk but cannot pass through headphone band, blade or wall.
+The same home-night hoodie/trouser clothing-layer state from Strip 014–015 remains unchanged: no hood-up/down switch, sleeve-roll, zipper/opening change, removed headphones, or invented jacket.
+Long hair may sway naturally with head turn/walk but cannot change length/part/volume family, tie itself, or pass through headphone band, blade or wall.
 
 ==================================================
-DESK → HALLWAY → KITCHEN ROUTE — ABSOLUTE
+DESK → HALLWAY → KITCHEN ROUTE / BODY FACING — ABSOLUTE
 ==================================================
 
 Show real route through canonical landmarks. Nari/body/knife cannot pass through desk, wall, door frame or furniture.
-V75A stop. V75B no closer movement. Eyeline toward real table/chair position.
+Body orientation must evolve with the route:
+- desk/listening orientation
+- head/upper-torso turn to sound
+- deliberate full-body departure from desk
+- hallway travel facing along route
+- controlled stop facing/angled toward dining entrance
+Reverse camera may flip screen direction but not the actual shoulder/hip/foot route orientation.
+V75A stop. V75B no closer movement.
 
 ==================================================
 HYUN-WOO TEASER / FALSE-SILHOUETTE BAN — ABSOLUTE
@@ -197,11 +241,15 @@ Actual seated canonical silhouette in correct chair/table/candle/pot geometry. N
 SEAM
 ==================================================
 
-Strip017 inherits exact Nari distance/KNIFE HAND/worn state, Hyun-woo seat, table/candle/pot geometry and same dialogue/action axis.
+Strip017 inherits exact Nari stopped pose/body-facing/guarded emotional intensity/distance/KNIFE HAND/worn state, Hyun-woo seat, table/candle/pot geometry and same dialogue/action axis.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - attached route/room ref mirrored
+- Nari emotional state resets to calm comedy or jumps to screaming/crying/panic before script cause
+- Nari silently switches between knife-low guarded walk and unrelated combat/fear gestures
+- shoulders/hips/feet reverse story-world route orientation at camera cuts
+- clothing-layer/hood/sleeve/headphone state changes without action
 - `SLURP` appears to originate from wrong wall/room/device or Nari turns away from real source
 - tray item positions reset
 - knife/sheath orientation flips or blade clips through sheath/hand/tray/body/environment
