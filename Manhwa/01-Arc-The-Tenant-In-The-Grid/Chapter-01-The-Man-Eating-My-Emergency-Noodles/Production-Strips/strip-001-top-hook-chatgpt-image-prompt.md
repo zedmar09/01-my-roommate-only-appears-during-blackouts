@@ -25,272 +25,202 @@ Use `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-referenc
 REFERENCE OBEDIENCE / NO PRODUCTION LABELS — ABSOLUTE
 ==================================================
 
-Every attached WebP is BINDING visual authority. Do not redesign Nari, the apartment, the speaker, furniture, appliance placement, materials, proportions, smart-lock location, front-door geometry, or room axis to make a composition easier. If a planned shot conflicts with the references, recompose the camera while preserving canon.
+Every attached WebP is BINDING visual authority. Do not redesign Nari, the apartment, the speaker, furniture, appliance placement, materials, proportions, smart-lock location, front-door geometry, or room axis to make a composition easier. If a planned shot conflicts with references, recompose the camera while preserving canon.
 
-The written markers `V01`–`V07`, `P1`, `Strip 001`, and all headings in this Markdown are production-only. NEVER render `V01`, `V-01`, `V1`, `P1`, `STRIP`, `BEAT`, `PANEL`, `SCENE`, or any other technical label anywhere in the art, especially not in the top-left corner of a vertical slice. Any such label = automatic rejection.
+The written markers `V01`–`V07`, `P1`, `Strip 001`, and all headings are production-only. NEVER render V/P/strip/beat/panel/scene/technical labels anywhere, especially top-left.
+
+==================================================
+NARI FIRST-STRIP IDENTITY / WHOLE-BODY TOPOLOGY — NON-NEGOTIABLE
+==================================================
+
+Because there is NO previous approved strip, Strip 001 must establish Nari directly from `nari-canonical-flat2d.webp` with zero reinterpretation.
+
+Nari must be:
+- Korean woman exactly 30, SAME canonical adult face/build
+- SAME long dark-plum hair, clearly below shoulders to approximately mid-back, same part/fringe/face-framing layers; never short/bob/shoulder-length and never pure black/brown/red/neon-purple
+- exactly ONE tiny black beauty mark beside the anatomical LEFT corner of her mouth whenever the face is visible; reverse camera may move it to opposite SCREEN side but never anatomical right
+- SAME outside/move-in contemporary outfit family from canonical reference; clothing construction/colors do not change between corridor/interior/reaction views
+- signature headphones/scrunchie only when the canonical/current outfit view establishes them; if visible they remain the same physical items/body side throughout the strip
+- flat matte skin/hair/fabric; no glossy beauty close-up
+
+Whole-body topology:
+- exactly two arms/hands, two legs/feet, two ears; no extra/missing/duplicated limb/finger/body part
+- box-support forearm and free smart-lock/door hand are the SAME two physical arms through V02→V04; do not invent a third hand/forearm
+- every hand close-up remains connected to the same forearm/elbow/shoulder/body shown in adjacent view
+- sleeves/clothing wrap the correct arms; no detached hand or sleeve ending in the wrong hand
+- feet/legs remain connected and adult-proportioned during threshold crossing
+
+Speaking/source logic:
+- narration is not mouthed by Nari
+- `WELCOME HOME, YOON NARI.` is speaker audio, not Nari speech
+- only `GREAT. IT TALKS.` belongs to Nari's visible human speech/acting
 
 ==================================================
 START STATE / ALLOWED CHANGES / END STATE — ABSOLUTE
 ==================================================
 
-START STATE:
-- Nari is outside Unit 2407 in the corridor carrying exactly ONE current moving box in a physically secure torso/forearm hold
-- front door is CLOSED/LATCHED
-- smart lock is at its canonical door location
-- Unit 2407 canonical geometry is unchanged from the attached floor plan/reference views
-- smart speaker is already in its canonical kitchen-counter position, plugged into ordinary power, screenless and inactive before V06
-- exactly TWO burgundy dining chairs exist
+START:
+- Nari outside Unit 2407 carrying exactly ONE current moving box in secure torso/forearm hold
+- front door CLOSED/LATCHED
+- smart lock canonical location
+- Unit 2407 canonical geometry unchanged
+- speaker canonical kitchen counter, plugged, inactive before V06
+- exactly TWO burgundy dining chairs
 
 ALLOWED CHANGES ONLY:
-- Nari physically operates the actual smart lock while still outside and while SAME box remains supported against her torso/hip by one forearm/body
-- smart lock acknowledges with `BEEP`
-- latch/lock releases
-- Nari physically opens the SAME front door using the free hand while the SAME box stays continuously supported by torso/hip + supporting forearm
-- Nari crosses the threshold carrying the SAME moving box
-- she walks into the open-plan area and sets the SAME carried box down once
-- ordinary smart-home elements may activate as scripted
-- speaker activates at V06 only
+- Nari operates actual smart lock while SAME box remains supported by torso/hip + one forearm/body
+- `BEEP`; lock/latch releases
+- SAME free hand opens SAME door
+- Nari crosses threshold carrying SAME box
+- walks open-plan and sets SAME box down once
+- ordinary smart-home elements activate as scripted
+- speaker activates V06 only
 
-END STATE:
-- Nari is physically inside Unit 2407 after setting down the same box
-- front door state may remain naturally open/partly open according to the move-in composition, but its location/hinge are unchanged
-- speaker remains on canonical kitchen counter, still plugged in
-- apartment geometry/furniture/appliances remain exactly canonical for Strip 002
-
-Anything not listed above stays unchanged.
+END:
+- Nari inside after same box placement
+- door may remain naturally open/partly open but same construction
+- speaker canonical counter, plugged
+- Nari canonical identity/body topology established for Strip 002
+- apartment canonical
 
 ==================================================
 SMART-LOCK / DOOR / BOX SUPPORT ACTION-PROOF — NON-NEGOTIABLE
 ==================================================
 
-V02→V03 must show one physically continuous entry mechanism:
-1. Nari remains outside with SAME box
-2. SAME box stays above the corridor floor, supported against Nari's torso/hip by one forearm/body; it is NOT placed on floor, entry shelf, wall ledge, or doorway
-3. the other/free hand/finger reaches the actual smart-lock control
-4. hand/finger contacts/operates the smart lock
-5. `BEEP` occurs at the smart lock
-6. lock/latch releases
-7. SAME free hand reaches the real door handle/edge as needed
-8. SAME door physically swings open on its canonical hinge
-9. throughout lock→door opening the SAME box remains continuously supported by torso/hip + supporting forearm; it does not float or change hands invisibly
-10. only after an opening exists does Nari cross the threshold
-11. `CLICK` belongs to the actual lock/door mechanism during this entry sequence
+V02→V03:
+1. SAME Nari outside with SAME box
+2. box remains above corridor floor, supported against torso/hip by one real forearm/body
+3. OTHER real hand/finger reaches smart lock
+4. actual contact/operation
+5. `BEEP`
+6. latch releases
+7. SAME free hand reaches handle/edge
+8. SAME door opens on canonical hinge
+9. box remains supported; no invisible hand swap/third arm
+10. only after real opening does Nari cross threshold
+11. `CLICK` belongs to actual mechanism
 
-Do not show a closed door in one slice and Nari magically inside in the next. Do not crop away every contact point and rely only on `BEEP`/`CLICK`.
-
-The box may touch the story-world floor for the FIRST TIME only at the scripted V04 interior placement. If the chosen pose cannot support one-hand lock/door operation while holding the box, recompose her stance/box size; do not invent a temporary surface, extra hand, or offscreen box reset.
+Box first touches story-world floor only at V04 interior placement.
 
 ==================================================
 PERSPECTIVE / MOBILE PROOF / CROP SAFETY — ABSOLUTE
 ==================================================
 
-Use ordinary human-eye/manhwa perspective derived from the attached environment references.
-- no fisheye/ultra-wide bending of corridor walls, door frame, floor lines, kitchen/living geometry or Nari's anatomy
-- do not enlarge the free hand/smart lock/box through forced perspective so their world-space proportions become inconsistent
-- vertical door/wall edges remain straight unless canonical perspective naturally converges
-
-The following must be clearly readable at normal mobile scale:
-- Nari's free hand actually touching/operating the smart lock
-- the real door opening before threshold crossing
-- Nari + SAME box passing through the opening
-- SAME box contacting the interior floor at V04
-- speaker's actual kitchen-counter location at V06/V07
-
-Keep these proofs fully inside the readable image area with compact safe margins. Do not place the hand/lock, door edge/feet, box-floor contact, or speaker exactly on a crop edge, black gutter, diagonal divider or technical seam. If a wide view makes the smart-lock contact too small, use an immediately adjacent SAME-OBJECT detail rather than enlarging the lock/hand in world space.
+Use ordinary human-eye/manhwa perspective from references; no fisheye/ultra-wide distortion of walls, door, floor, Nari or box.
+Mobile-readable proof: free hand on smart lock, real door opening, SAME Nari+box crossing, box floor contact, speaker location.
+Keep hand/lock, feet/threshold, box contact and speaker safely inside frame/gutters/dividers. Close-up must preserve hand/arm/body ownership.
 
 ==================================================
 MICRO-CONTINUITY / CHARACTER-ENVIRONMENT CONTACT — ABSOLUTE
 ==================================================
 
-Track Nari's SAME carried box through corridor → smart-lock operation → door opening → threshold → interior → floor placement. It may be temporarily occluded by framing, but it cannot vanish, duplicate, change size, touch the corridor floor/shelf, or already appear on the interior floor before she puts it down in V04.
-
-Show believable feet/support and door clearance during threshold crossing. Nari cannot clip through the door, wall, entry shelf, furniture, or box. Her eyeline to the speaker in V07 must point toward the speaker's actual canonical kitchen-counter location.
-
-Other moving boxes may exist only as separate boxes already on a cart/inside; never duplicate the exact box in Nari's arms in the same moment.
+Track SAME Nari body + SAME box corridor→lock→door→threshold→interior→floor placement. Box cannot vanish/duplicate/change size/touch corridor floor.
+Nari cannot clip through door/wall/shelf/furniture/box. Face/hair/beauty mark/outfit/body topology cannot reset at camera cuts.
+V07 eyeline points to actual speaker location.
 
 ==================================================
 NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-Do NOT use one identical narration-box design or one default top-left caption position for every narration line in this strip.
-- V01/V02 premise narration: clean compact contemporary editorial caption, dry observational tone.
-- V04 apartment-feature narration: lighter practical observational treatment that lets the room reveal dominate.
-- V05 smart-home montage narration: compact modern/technical rhythm without becoming fake device UI.
-
-Keep all narration within one coherent manhwa typography family, but vary shape/placement/weight according to the beat. Never make narration look like speech balloons, screen UI, handwritten notes, or production labels. Do not place captions over Nari's face/hands, smart-lock contact, door crossing, box placement, speaker, or key environment anchors.
+- V01/V02 premise narration: compact editorial/dry observational
+- V04 apartment observation: lighter practical
+- V05 smart-home montage: compact modern/technical rhythm without fake UI
+Do not use one repeated top-left tag. Narration never covers Nari identity/action proof and Nari does not mouth narration.
 
 ==================================================
 TOP-TO-BOTTOM ACTION / TEXT ORDER — ABSOLUTE
 ==================================================
 
-Reader order must remain V01→V07 with no balloon/SFX/caption placed so that a later event reads first.
-- V02 `BEEP` appears at the actual smart-lock operation before the V03 `CLICK`
-- V03 `CLICK` cannot visually precede V02 lock contact
-- V04 `THUD` appears only at the box/floor contact, not before the box is visibly lowered
-- V06 `BLIP` + speaker audio read after V05 smart-home montage and before V07 Nari response
-If one composition cannot preserve this sequence cleanly, use more vertical space rather than crossing balloons/SFX over neighboring beats.
+V01→V07 only.
+`BEEP` at lock before `CLICK`; `THUD` only at box/floor; `BLIP` + speaker audio after V05 and before Nari response.
 
 ==================================================
-REAL-SCENARIO START / UNIT 2407 GEOGRAPHY — ABSOLUTE
+UNIT 2407 GEOGRAPHY / SPEAKER IDENTITY — ABSOLUTE
 ==================================================
 
-Nari arrives alone with moving boxes. Unit 2407 is a believable modern Seoul apartment, not a haunted-looking set.
-
-Canonical geography must remain truthful:
-- front door / entry shelf at the established entry zone
-- living / matte TV zone on the canonical side
-- dining table centered in the open-plan relationship, exactly TWO burgundy dining chairs
-- kitchen / refrigerator on the canonical side
-- hallway / bedroom zone behind the open-plan area
-- work desk in its canonical zone
-- corner windows / city view
-
-Do not mirror the apartment to make a composition easier.
-
-==================================================
-SMART SPEAKER IDENTITY — ABSOLUTE
-==================================================
-
-The speaker is the SAME reusable canonical object:
-- small screenless matte-charcoal corded cylinder
-- ordinary household scale
-- plugged into ordinary power in this strip
-- no brand/logo/body text
-- restrained normal assistant indicator only
-
-`WELCOME HOME, YOON NARI.` is SYNTHETIC AUDIO from the speaker, not screen text printed on its body.
-
-==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
-==================================================
-
-Every DISTINCT vertical reading slice/composition inside this technical strip must be separated from the next by a SMALL BLACK GUTTER.
-- keep the black gutter narrow, deliberate, and consistent
-- it is a visual separator, NOT a large dead blank area
-- do not use giant white gutters between slices
-
-If TWO distinct shots share the SAME horizontal row, separate them with a SLANTED / DIAGONAL BLACK DIVIDER — a visible black slash/wedge between the two images.
-- faces, speech balloons, props, and backgrounds must not cross the diagonal divider
-- continuity-critical proof gets safe margin from the divider
-- the reader must instantly understand they are separate camera slices
-- side-by-side slices must never visually merge into one impossible room
-
-A technical strip boundary is different: do not add a black bar at a future A/E seam if artwork is meant to stitch continuously across files.
+Preserve entry, living/TV side, centered dining with exactly TWO burgundy chairs, kitchen/fridge side, hallway behind, work desk, corner windows. Never mirror room.
+Speaker = SAME small screenless matte-charcoal corded cylinder, ordinary scale, plugged. `WELCOME HOME, YOON NARI.` is AUDIO, never body text.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
 V01 — SEOUL / BUILDING HOOK
-Night Seoul residential high-rise, ordinary and desirable.
 NARRATION:
 `UNIT 2407 WAS TOO CHEAP.`
 
 SMALL BLACK GUTTER.
 
 V02 — CORRIDOR / SMART LOCK
-Nari outside Unit 2407 with SAME carried box continuously supported against torso/hip by one forearm. Show her other/free hand/finger operating the actual smart lock. The box does not touch floor/shelf/wall.
+SAME canonical Nari + SAME supported box; free SAME-body hand operates actual smart lock.
 NARRATION:
 `IN SEOUL, CHEAP RENT ALWAYS HIDES A CATCH.`
-SFX at smart lock:
+SFX:
 `BEEP`
 
 SMALL BLACK GUTTER.
 
-V03 — DOOR OPEN / THRESHOLD CROSSING
-Show lock release → SAME front door physically opening with the free hand → Nari crossing through the real opening while SAME box stays continuously torso/forearm-supported. No teleport directly to living room.
-SFX at lock/door mechanism:
+V03 — DOOR OPEN / THRESHOLD
+Lock release → SAME hand opens door → SAME Nari/body + box cross real opening.
+SFX:
 `CLICK`
 
 SMALL BLACK GUTTER.
 
-V04 — FIRST BOX FLOOR CONTACT / APARTMENT REVEAL
-Nari reaches the open-plan area and sets the SAME box down. This is the FIRST permitted floor contact for that box in the strip.
-SFX at box/floor:
+V04 — FIRST BOX FLOOR CONTACT / REVEAL
+SAME box set down for first floor contact.
+SFX:
 `THUD`
 NARRATION:
 `TWO BEDROOMS. CORNER WINDOWS. CITY VIEW.`
 NARRATION:
 `ALL FOR LESS THAN MY OLD PLACE.`
-Use canonical Unit 2407 anchors visibly enough to establish the permanent room axis.
 
 SMALL BLACK GUTTER.
 
 V05 — SMART-HOME SCAN
-Flow through smart lock / lights / climate / ordinary automation, leading visual attention toward the kitchen-counter speaker.
 NARRATION:
 `SMART LOCK. SMART LIGHTS. SMART CLIMATE.`
 NARRATION:
 `SMART EVERYTHING.`
-If two quick device inserts share one row, use the diagonal black divider between them.
 
 SMALL BLACK GUTTER.
 
 V06 — SPEAKER ACTIVATION
-Canonical speaker on canonical kitchen counter, still plugged in.
 SFX:
 `BLIP`
-SPEAKER, ordinary synthetic audio:
+SPEAKER AUDIO:
 `WELCOME HOME, YOON NARI.`
 
 SMALL BLACK GUTTER.
 
 V07 — NARI REACTION
-Nari looks toward the actual speaker with tired dry amusement, not supernatural fear.
+SAME canonical Nari looks toward actual speaker.
 NARI:
 `GREAT. IT TALKS.`
 
 ==================================================
-TEXT / SOURCE OWNERSHIP LOCK
+NO DEAD BOTTOM / SEAM
 ==================================================
 
-Use ONLY:
-`UNIT 2407 WAS TOO CHEAP.`
-`IN SEOUL, CHEAP RENT ALWAYS HIDES A CATCH.`
-`BEEP`
-`CLICK`
-`THUD`
-`TWO BEDROOMS. CORNER WINDOWS. CITY VIEW.`
-`ALL FOR LESS THAN MY OLD PLACE.`
-`SMART LOCK. SMART LIGHTS. SMART CLIMATE.`
-`SMART EVERYTHING.`
-`BLIP`
-`WELCOME HOME, YOON NARI.`
-`GREAT. IT TALKS.`
-
-Narration gets narration treatment. `WELCOME HOME, YOON NARI.` is audio from the screenless speaker. Nari's line belongs only to Nari.
-
-==================================================
-NO DEAD BOTTOM — ABSOLUTE
-==================================================
-
-End after V07 with Nari + speaker + canonical kitchen/living geography carrying naturally toward the bottom. Only a compact black or neutral technical margin is allowed after the last composition.
-Do NOT leave a giant white tail.
-Do NOT invent filler narration/SFX.
-
-SEAM OUT — G
-Strip 002 begins later that evening. A time transition is allowed, but Unit 2407 geometry/object identity must remain canonical.
+End with SAME canonical Nari + speaker + canonical room geography. Compact margin only.
+Strip 002 later evening may change temporary box/pose state but must inherit Nari's permanent face/hair/beauty-mark/body identity from canonical authority.
 
 AUTOMATIC REJECT IF
-- any `V-*`, P-number, strip/panel/scene/beat or production label appears in artwork
-- Unit 2407 axis is mirrored or furniture/appliances/lock location relocate
-- fisheye/ultra-wide/forced perspective bends canonical geometry or distorts Nari/box/lock proportions
-- attached reference identity/geometry is redesigned
-- more than two dining chairs appear
-- speaker changes design or has a screen
-- `WELCOME HOME...` is printed on speaker body
-- smart-lock contact/release/door-opening mechanism is skipped, microscopic, edge-cropped, divider-cut, or completely hidden
-- Nari teleports across threshold or passes through a closed door
-- box duplicates, vanishes, changes size, touches corridor floor/shelf/wall, or reaches interior floor before V04 placement
-- box floats without torso/forearm support during lock/door action
-- Nari gains impossible extra hands or invisibly swaps box/free-hand roles
-- Nari/box clips through door/wall/furniture
-- SFX/narration order makes CLICK/THUD/BLIP read before their physical causes
-- narration uses one generic repeated box or repetitive top-left tag without regard to beat function
-- distinct slices touch with no small black divider
-- side-by-side separate shots lack the diagonal black separator or divider cuts critical proof
-- giant purposeless bottom space appears
-- extra dialogue/SFX appears
+- any production label appears
+- Nari beauty mark missing/duplicated/moved to anatomical right
+- Nari hair length/part/color changes, short-hair design returns, or face/age/build/outfit becomes a different woman
+- extra/missing/duplicated arm/hand/leg/foot/ear/finger/body part appears
+- smart-lock/door close-up hand is detached/generic, belongs to wrong arm, or a third arm/hand appears while box remains supported
+- narration/speaker audio is visibly mouthed by Nari
+- room axis/geometry/speaker redesigned or >2 dining chairs
+- fisheye/forced perspective distorts body/box/door
+- action proof microscopic/cropped/divider-cut
+- Nari teleports/clips through door or box continuity breaks
+- `WELCOME HOME...` printed on speaker
+- SFX/narration order reverses
+- narration becomes repeated technical tag
+- giant dead bottom or extra dialogue/SFX appears
 ```
 
 ## Production Thread Attachments
