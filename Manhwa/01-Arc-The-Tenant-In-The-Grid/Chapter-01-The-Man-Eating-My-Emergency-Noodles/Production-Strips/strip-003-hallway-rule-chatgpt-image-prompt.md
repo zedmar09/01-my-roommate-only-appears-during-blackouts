@@ -1,203 +1,351 @@
-# Strip 003 — The Hallway Rule
+# Strip 003 — The Hallway Rule — FINAL DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME counter conversation from APPROVED Strip 002.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME counter conversation from the APPROVED rendered Strip 002.
+
+THIS IS NOT A PAGE.
+Never render V12/V13/V14/V15, Strip 003, panel/scene/shot/reference labels, filenames, QA notes, atlas letters, or other production metadata.
 
 PRODUCTION SCOPE
-V12–V15. Historical P2 mapping only.
-
-ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.webp`
-- `Character-References/mrs-na-canonical-flat2d.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
-- `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
-- `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
-- APPROVED Strip 002
-- this Strip 003 prompt
+V12–V15 only.
 
 ==================================================
-REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
+ATTACH — REQUIRED — EXACT SET
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 002 controls temporary counter/body/prop state only; correct any permanent drift to attached canon rather than propagating it.
-Keep Nari/Mrs. Na identities, counter placement, hallway direction, lamp position, binder body, and key identity unchanged. Do not move the hallway lamp or mirror the room to make the insert easier.
-Never render V12–V15, P2, Strip 003, beat/panel/scene labels, or any production label anywhere, especially top-left.
+1. `nari-canonical-flat2d.webp`
+2. `mrs-na-canonical-flat2d.webp`
+3. `unit-2407-floor-plan-reference.webp`
+4. `unit-2407-living-to-kitchen-wide-reference.webp`
+5. `unit-2407-hallway-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `electrical-operation-guide-canonical-reference.webp`
+8. `brass-backup-key-canonical-reference.webp`
+9. APPROVED rendered Strip 002 image
+
+Missing attachment = STOP.
 
 ==================================================
-START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+AUTHORITY / CURRENT CANON
+==================================================
+
+Current character/environment/object WebPs are permanent authority.
+APPROVED Strip 002 is temporary rendered continuity authority for:
+- exact counter view
+- exact Nari/Mrs. Na positions
+- current Unit 2407 lighting/material appearance
+- exact binder/key counter topology
+
+CURRENT NARI WEBP WINS.
+Never restore retired old-Nari details such as dark-plum hair, mouth beauty mark, yellow scrunchie, headphones-around-neck identity, or old dark-hoodie/utility-jacket design. Preserve the current warm-brown-haired game-developer Nari shown by the WebP/approved previous strip.
+
+==================================================
+ATTACHMENT ROLE MAP
+==================================================
+
+NARI:
+- exact current 30-year-old face/body/hair/glasses/outfit/accessory state
+
+MRS. NA:
+- exact late-60s face
+- silver practical twist
+- muted-mauve coat
+- jade earrings
+- dark gloves
+- analog watch
+- practical handbag
+- guarded/brisk adult performance
+
+UNIT REFERENCES:
+- kitchen counter remains SAME counter from Strip 002
+- hallway remains behind open-plan in canonical direction
+- hallway mains lamp stays at exact canonical location
+- exactly two burgundy chairs if visible
+- camera changes do not mirror the room
+
+BINDER + KEY:
+- same binder and same brass key already resting on counter
+- no handling in this strip
+
+==================================================
+START / END STATE — ABSOLUTE
 ==================================================
 
 START:
-- Nari and Mrs. Na are at the SAME kitchen-counter positions inherited from Strip 002
-- SAME binder lies flat on counter
-- SAME Unit 2407 brass key lies separately beside binder, already detached from Mrs. Na's ring
-- hallway mains lamp exists at exact canonical wall/ceiling position and is normally powered
-- no phone/tablet is required to be visible
-- no device is malfunctioning; no supernatural effect is active
+- Nari + Mrs. Na at exact Strip 002 counter positions
+- same binder flat on counter
+- same brass key separately beside binder
+- hallway lamp normally powered and ON
+- no supernatural effect
+- no phone/tablet in hand
 
-ALLOWED CHANGES:
-- expressions, head turns, eyelines, and natural pointing/indicating gestures only
-- camera may cut to canonical hallway-lamp insert while keeping both women physically at counter
-- no one picks up, moves, duplicates, or removes binder/key
-- do NOT invent a phone/tablet demonstration prop, floating icon, hologram, UI card, or conceptual device insert merely because dialogue mentions a phone/tablet
+ALLOWED:
+- dialogue
+- expression changes
+- head/eye turns
+- one restrained indicating gesture toward the REAL hallway direction
+- hallway-lamp insert while women remain physically at counter
+
+NOT ALLOWED:
+- walking away
+- touching/moving binder/key
+- inventing phone/tablet demonstration
+- moving hallway lamp
+- changing counter/room geometry
 
 END:
-- both women remain at same counter positions
-- binder + key remain exact same counter locations
-- hallway lamp remains on and unchanged
-- no new device prop has been introduced
-- question chain continues directly into Strip 004
+- both still at counter
+- binder/key unchanged
+- hallway lamp on
+- conversation continues immediately into Strip 004
 
 ==================================================
-CONVERSATION AXIS / EYE-LINE CONTINUITY — NON-NEGOTIABLE
+WORLD SCALE / PERFORMANCE — ABSOLUTE
 ==================================================
 
-V12–V15 are one uninterrupted counter conversation. Preserve one readable 180-degree conversation axis unless a neutral reorientation view explicitly establishes a new camera side.
-
-Rules:
-- Nari and Mrs. Na remain on the SAME physical story-world sides of the counter throughout
-- reverse shots may flip their screen-left/screen-right appearance, but they may not exchange physical positions or suddenly look past each other
-- Nari's eyes/head orient toward Mrs. Na when speaking/listening unless the beat explicitly redirects her gaze
-- Mrs. Na's eyes/head orient toward Nari during dialogue, then toward the REAL canonical hallway lamp when she indicates it
-- the hallway-lamp insert must lie along the same real story-world direction Mrs. Na indicates from the counter
-- after the lamp insert, returning to the women must preserve the same body positions and conversational geography
-- balloon tails cannot be used to disguise a wrong gaze direction
-
-If a reverse shot would make either woman look away from the actual other speaker or point toward the wrong wall, recompose instead of crossing the axis silently.
+- preserve Strip 002 character-to-counter scale
+- lamp remains normal residential fixture, never giant supernatural light
+- binder remains ordinary binder scale
+- key remains ordinary mechanical-key scale even in inserts
+- Nari = practical curiosity turning skeptical/uneasy
+- Mrs. Na = matter-of-fact → noticeably serious/guarded
+- no horror acting yet
+- no chibi/exaggerated warning pose
 
 ==================================================
-MICRO-CONTINUITY / INTERACTION REALITY — ABSOLUTE
+VERTICAL HEIGHT MAP
 ==================================================
 
-If Mrs. Na indicates the hallway lamp, her body/eyeline/gesture must point toward the lamp's real canonical direction. Do not place the lamp in a convenient invented wall position.
-The phone/tablet wording is spoken explanation only. Safest default: show no phone/tablet visual at all in this strip. Do not create floating comparison panels, generic device icons, or an unexplained phone/tablet in either woman's hand.
-Binder and key remain visible/logically present even when camera changes. Occlusion is not relocation.
+Approximate story-art allocation:
+- V12 practical question: 22%
+- V13 hallway rule + lamp evidence: 27%
+- V14 mains-powered explanation: 29%
+- V15 unresolved question: 22%
+
+V13/V14 may use same-event detail inserts, but the women must remain spatially anchored to the SAME counter.
 
 ==================================================
-REFLECTION / SHADOW FALSE-DUPLICATE BAN — ABSOLUTE
+V12 — PRACTICAL QUESTION — FULL BLUEPRINT
 ==================================================
 
-Do not create a reflected second Nari/Mrs. Na in windows, appliance surfaces, screens, glossy counters, or glass merely to make the scene dramatic. Unit 2407 materials remain matte/restrained.
-Do not invent a shadow-person or unexplained human silhouette. Any ordinary cast shadow must belong to the actual women/objects and current real light sources only.
+CAMERA:
+- medium two-shot at SAME canonical kitchen counter
+- use approved Strip 002 as direct rendered visual continuity
+- binder + brass key visible on counter if composition allows
+- enough open-plan depth to preserve real hallway direction
 
-==================================================
-NARRATION / TEXT DESIGN BY SITUATION — ABSOLUTE
-==================================================
+NARI:
+- current canonical identity
+- calm, practical, mildly skeptical
+- body remains on same story-world side of counter
 
-This strip is spoken warning dialogue, so narration should not be invented. The visual hierarchy should shift from ordinary counter conversation to firmer rule/warning tension through composition, expression, and balloon placement—not through a generic repeated narration box, fake warning UI, or illustrative device overlay.
-Speech balloons remain human dialogue. Do not turn Mrs. Na's warning into a system banner/caption.
+MRS. NA:
+- same carried/worn identity from Strip 002
+- handbag still supported
+- ring retained minus Unit 2407 key
+- expression becomes more serious after Nari's question
 
-==================================================
-EXACT START / NO RESET — ABSOLUTE
-==================================================
-
-The SAME canonical electrical-operation guide and SAME canonical brass backup key remain exactly where Strip 002 placed them on the kitchen counter.
-Nari and Mrs. Na remain at that counter. Neither changes room.
-Hallway mains lamp must be physically located according to canonical hallway reference; it is an ordinary apartment light, not supernatural.
-
-Manual/key continuity:
-- one binder only; cover/body/title match canonical
-- one Unit 2407 brass backup key only; same key shape/material
-- key remains detached from Mrs. Na's ring and on the counter throughout this strip
-- neither woman picks up or relocates either object
-
-==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
-==================================================
-
-Use a SMALL BLACK GUTTER between each distinct vertical beat. For two separate close-ups/views sharing one horizontal row, use a SLANTED BLACK SLASH/WEDGE between them. Do not merge backgrounds, balloons, or props across the slash. Black dividers stay compact and never become large dead areas.
-
-==================================================
-DIALOGUE OWNERSHIP — ABSOLUTE
-==================================================
-
-- `ANYTHING I ACTUALLY NEED TO KNOW?` = Nari
-- `YES. ONE THING.` = Mrs. Na
-- `AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.` = Mrs. Na
-- `THE LIGHT HAS TO COME FROM THE APARTMENT ITSELF.` = Mrs. Na
-- `DON'T TRY TO REPLACE IT WITH A PHONE OR TABLET.` = Mrs. Na
-- `WHY? WHAT HAPPENS IF IT GOES OUT?` = Nari
-- `JUST KEEP IT ON.` = Mrs. Na
-
-Every bubble tail must point only to the correct person.
-The words `PHONE OR TABLET` are part of Mrs. Na's spoken dialogue only; no actual device needs to be shown.
-
-==================================================
-VERTICAL STORY FLOW
-==================================================
-
-V12 — PRACTICAL QUESTION
+DIALOGUE:
 NARI:
 `ANYTHING I ACTUALLY NEED TO KNOW?`
+
 MRS. NA:
 `YES. ONE THING.`
-Mrs. Na's expression shifts serious.
+
+END:
+- Mrs. Na prepares to indicate the hallway direction
+- no object moved
+
+REJECT IF:
+- women switch physical sides
+- binder/key move
+- old Nari design returns
+- Mrs. Na accessories drift
 
 SMALL BLACK GUTTER.
 
-V13 — HALLWAY LIGHT RULE
-Give the canonical hallway lamp a readable insert/angle while keeping both women spatially anchored at the kitchen counter.
+==================================================
+V13 — REAL HALLWAY-LAMP RULE — FULL BLUEPRINT
+==================================================
+
+STORY PURPOSE:
+Make the hallway rule visually concrete. The reader must understand WHICH actual lamp Mrs. Na means.
+
+COMPOSITION:
+Use either:
+A. over-shoulder/two-shot from counter with visible sightline toward canonical hallway, OR
+B. same-moment split: Mrs. Na at counter indicating direction + canonical hallway-lamp insert.
+
+HALLWAY INSERT:
+- must use `unit-2407-hallway-reference.webp`
+- SAME hallway length/wall corners/door relationships
+- SAME mains lamp location
+- lamp normally ON
+- no supernatural effect
+- no invented second lamp
+
+MRS. NA GESTURE:
+- restrained real hand/forearm indication toward actual story-world hallway
+- glove remains on
+- body stays counter-side
+- gesture direction must agree with floor plan
+
+DIALOGUE:
 MRS. NA:
 `AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.`
 
+END:
+- lamp visually established as the rule target
+- women still at counter
+
+REJECT IF:
+- lamp appears on convenient wrong wall
+- Mrs. Na points away from real hallway
+- women teleport into hallway
+- lamp becomes giant/cinematic/supernatural
+
 SMALL BLACK GUTTER.
 
-V14 — MAINS RULE
-Mrs. Na indicates the actual hallway mains light from the real counter position.
+==================================================
+V14 — MAINS-POWERED EXPLANATION — FULL BLUEPRINT
+==================================================
+
+CAMERA:
+- return to same counter conversation axis
+- medium close/two-shot with real hallway direction still readable through background geometry if possible
+- binder/key remain fixed counter anchors
+
+MRS. NA PERFORMANCE:
+- firmer warning, controlled and guarded
+- not hysterical
+- do not invent a phone/tablet in her hands
+
+DIALOGUE:
 MRS. NA:
 `THE LIGHT HAS TO COME FROM THE APARTMENT ITSELF.`
+
 MRS. NA:
 `DON'T TRY TO REPLACE IT WITH A PHONE OR TABLET.`
-No phone/tablet insert is required or preferred.
+
+IMPORTANT VISUAL RULE:
+The words `PHONE OR TABLET` are SPOKEN EXPLANATION ONLY.
+DO NOT show:
+- floating phone icon
+- floating tablet icon
+- hologram
+- explanatory UI card
+- random phone in Nari/Mrs. Na hand
+- conceptual split-screen device illustration
+
+The visual evidence remains the REAL Unit 2407 hallway/lamp and the women at the counter.
+
+END:
+- Nari visibly more skeptical/uneasy
+- no object moved
+
+REJECT IF:
+- fake UI replaces acting
+- random device props appear
+- counter/lamp geography changes
 
 SMALL BLACK GUTTER.
 
-V15 — NARI PUSHES FOR REASON
+==================================================
+V15 — NARI PUSHES FOR THE REASON — FULL BLUEPRINT
+==================================================
+
+CAMERA:
+- closer alternating two-shot/reverse shot, still on SAME conversation axis
+- keep at least one counter/environment anchor so the generator does not redraw the room
+
+NARI:
+- current canonical face
+- focused skeptical concern
+
+MRS. NA:
+- guarded refusal; avoids giving reason
+- same mature face/accessories
+
+DIALOGUE:
 NARI:
 `WHY? WHAT HAPPENS IF IT GOES OUT?`
+
 MRS. NA:
 `JUST KEEP IT ON.`
 
+END / SEAM:
+- both remain in exact counter area
+- binder/key unchanged
+- hallway lamp still on
+- unresolved tension continues directly into Strip 004
+
+REJECT IF:
+- character positions reset
+- dialogue ownership swaps
+- dramatic supernatural effect appears early
+
 ==================================================
-REAL-SCENARIO CONTINUITY
+EXACT TEXT ONLY
 ==================================================
 
-Mrs. Na does not walk away yet. Nari does not touch the canonical binder/key. Lamp stays normally powered. No screen activates. No supernatural effect.
+`ANYTHING I ACTUALLY NEED TO KNOW?`
+`YES. ONE THING.`
+`AFTER MIDNIGHT, DON'T LET THE HALLWAY GO DARK.`
+`THE LIGHT HAS TO COME FROM THE APARTMENT ITSELF.`
+`DON'T TRY TO REPLACE IT WITH A PHONE OR TABLET.`
+`WHY? WHAT HAPPENS IF IT GOES OUT?`
+`JUST KEEP IT ON.`
 
-NO DEAD BOTTOM — ABSOLUTE
-End on unresolved tension at the same counter with a compact black beat separator only. Strip 004 continues the question chain.
+No narration. No device text. No extra SFX.
 
-SEAM OUT — A/G
-Strip 004 starts with Nari's whole-building-outage question from these exact positions and the same conversation axis.
+==================================================
+STATE LEDGER
+==================================================
 
-AUTOMATIC REJECT IF
-- any V/P/strip/beat/panel/scene or production label appears
-- attached reference identity/geometry/object design changes
-- permanent drift from previous strip is propagated over canonical refs
-- binder/key relocate or duplicate
-- binder body/title differs from canonical
-- key shape/material differs from canonical
-- hallway lamp changes place/design
-- pointing/eyeline indicates a noncanonical lamp location
-- conversation axis silently flips so Nari/Mrs. Na exchange world positions or look away from the actual speaker/target
-- any floating/conceptual phone/tablet illustration, fake UI, hologram, or unexplained device handling is invented
-- reflected/shadow duplicate person or unexplained silhouette appears
-- dialogue tails swap
-- room axis flips
-- fake warning UI/narration replaces spoken warning dialogue
-- distinct slices have no small black divider
-- giant blank bottom appears
+NARI/MRS. NA:
+same counter sides V12→V15; head/eyes/gesture may change, feet/body location do not.
+
+BINDER:
+fixed on counter, untouched.
+
+BRASS KEY:
+fixed beside binder, untouched.
+
+HALLWAY LAMP:
+canonical real fixture, ON throughout.
+
+ROOM:
+same Unit 2407 rendered geometry and world scale as APPROVED Strip 002.
+
+==================================================
+FINAL REJECT
+==================================================
+
+Reject if:
+- production labels render
+- current WebPs contradicted by retired character designs
+- old Nari beauty-mark/dark-plum/yellow-scrunchie/headphones identity returns
+- binder/key move or duplicate
+- lamp position changes
+- room mirrors/rescales
+- characters switch world positions
+- eyelines/pointing target wrong direction
+- phone/tablet illustration invented
+- fake warning UI replaces dialogue
+- reflected/shadow duplicate person appears
+- glossy/cinematic/photoreal/3D style appears
+- black gutters missing/oversized
+- dead bottom appears
 ```
 
-## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Character-References/mrs-na-canonical-flat2d.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-5. `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
-6. `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
-7. `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
-8. APPROVED Strip 002
-9. this Strip 003 prompt
+## Production Thread Attachments — EXACT SET
+
+1. `nari-canonical-flat2d.webp`
+2. `mrs-na-canonical-flat2d.webp`
+3. `unit-2407-floor-plan-reference.webp`
+4. `unit-2407-living-to-kitchen-wide-reference.webp`
+5. `unit-2407-hallway-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `electrical-operation-guide-canonical-reference.webp`
+8. `brass-backup-key-canonical-reference.webp`
+9. APPROVED rendered Strip 002 image
