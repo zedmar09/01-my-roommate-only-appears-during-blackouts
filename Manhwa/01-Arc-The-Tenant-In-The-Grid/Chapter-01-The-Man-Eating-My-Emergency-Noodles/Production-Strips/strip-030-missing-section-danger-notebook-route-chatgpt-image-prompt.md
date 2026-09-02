@@ -1,195 +1,189 @@
-# Strip 030 — Missing Section / Danger / Notebook Route
+# Strip 030 — Missing Section / Danger / Notebook Route — FINAL DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing SAME normally powered dining-table scene from APPROVED Strip 029.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME normally powered dining-table scene from the APPROVED rendered Strip 029.
+
+THIS IS NOT A PAGE. Never render V138–V142, Strip 030, NOTEBOOK ZONE labels, filenames, QA notes, or production metadata.
 
 PRODUCTION SCOPE
-V138–V142.
-
-ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-- `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
-- `Manhwa/Object-References/tv-canonical-reference.webp`
-- APPROVED Strip 029
-- this Strip 030 prompt
-
-Do NOT attach Hyun-woo; voice-only.
+V138–V142 only.
 
 ==================================================
-START / AUTHORITY — ABSOLUTE
+ATTACH — REQUIRED — EXACT SET
 ==================================================
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-desk-zone-detail-reference.webp`
+4. `unit-2407-living-to-kitchen-wide-reference.webp`
+5. `unit-2407-lighting-state-sheet-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `smart-speaker-canonical-reference.webp`
+8. `tv-canonical-reference.webp`
+9. APPROVED rendered Strip 029 image
 
-Attached refs permanent. Preserve Nari/worn state, chair/table scale, STORAGE POT cabinet state, NOODLE POT/table state, phone/binder/key, two chopstick pairs, packet/wrapper, TV wall-unplug state.
-Never render V/P/strip/NOTEBOOK ZONE/temp-state labels.
+Do NOT attach Hyun-woo; voice-only. Missing authority = STOP.
+
+==================================================
+CURRENT CANON / START STATE
+==================================================
+Current WebPs permanently control Nari/Unit/speaker/TV. APPROVED Strip 029 temporarily controls exact Nari chair, table food/evidence, open storage cabinet, speaker source, phone counter, sheathed knife/failed tools desk, and powered lighting.
+
+CURRENT NARI WEBP WINS. Never restore retired old-Nari dark-plum hair, mouth beauty mark, yellow scrunchie, headphones-around-neck identity, or old outfit design.
 
 START:
-- Nari seated untouched chair
-- NOODLE POT/trivet/handle/cloth + packet/wrapper + Pair A/B table topology exact Strip029
-- STORAGE POT open cabinet state exact Strip029 with SAME speaker physically visible inside
-- phone + binder counter; key tray
-- sheathed knife/failed tools desk tray
-- SAME CLOSED A5 notebook + ONE pen at work desk
+- Nari seated untouched burgundy chair
+- NOODLE POT table with one-bite reduction, trivet/cloth unchanged
+- packet + seasoning wrapper table
+- Hyun-woo used chopsticks pot rest; Nari clean pair fixed table spot
+- STORAGE POT open cabinet state exact Strip 029 with speaker visible, cord/plug/towels/lid states unchanged
+- phone counter; key tray; binder counter
+- sheathed practical knife + failed flashlight/radio at desk
+- SAME closed A5 notebook + ONE pen at work desk
 - TV inactive wall-unplugged
 
-ALLOWED CHANGES:
-- V138 first question gets NO answer; silence; then `HYUN-WOO?`
-- V139 dialogue
-- V140 Nari physically stands from untouched chair and walks table→desk
-- V141 picks SAME closed A5 notebook + ONE pen
-- V142 returns, sits same chair, establishes collision-free NOTEBOOK ZONE using true A5 footprint, places/releases notebook flat, then pen beside it
-- no writing/opening until Strip031
-
 END:
-- Nari same chair
-- SAME CLOSED A5 notebook fully supported NOTEBOOK ZONE at stable scale
+- Nari back in SAME untouched chair
+- SAME CLOSED A5 notebook flat at a collision-free Nari-side table zone
 - SAME pen beside notebook
-- all prior table/cabinet/TV topology unchanged
+- no writing/opening yet
+- every prior food/cabinet/TV/phone/knife state unchanged
 
 ==================================================
-SPEAKER VOICE SOURCE / SILENCE / EYE-LINE — NON-NEGOTIABLE
+HEIGHT / SCALE / VOICE SOURCE
 ==================================================
+Approximate height:
+V138 18% | V139 18% | V140 17% | V141 20% | V142 27% — LARGEST.
 
-Hyun-woo remains voice-only through the SAME physical speaker inside the open STORAGE POT/cabinet.
-
-V138 first question:
-- Nari looks toward the actual open cabinet/speaker
-- there is NO answer, no indicator reply, no SFX, no floating ellipsis, no human reflection/shadow
-- purposeful silence does not move her gaze target or speaker location
-- then Nari says `HYUN-WOO?` still toward the same physical speaker source
-
-V139:
-- Hyun-woo's answer is audio from SAME speaker only
-- voice lettering/source direction must point to actual cabinet/speaker, not ceiling/fridge/TV/NOODLE POT/phone
-- Nari's eyes/head remain oriented to that source while seated
-
-Reverse shots may flip screen-left/right but cannot move the cabinet/speaker or make Nari look toward a wrong wall.
+Notebook remains true A5-scale; pen ordinary size. Do not move food/evidence to make room. Hyun-woo audio remains sourced only from the same visible speaker in open STORAGE POT.
 
 ==================================================
-A5 NOTEBOOK SCALE / FOOTPRINT — NON-NEGOTIABLE
+V138 — MISSING SECTION QUESTION / PURPOSEFUL SILENCE — FULL BLUEPRINT
 ==================================================
+CAMERA: Nari seated at table oriented toward actual open cabinet/speaker; same room anchors.
 
-Notebook remains approximately A5 scale relative to hands/table. Do not shrink to phone size or enlarge to laptop size.
-NOTEBOOK ZONE must support full notebook footprint + pen within Nari reach and clear of NOODLE POT/trivet/handle/cloth, packet/wrapper, Pair A/B, candle/holder, table edge.
-No evidence moves to make room.
-
-==================================================
-NOTEBOOK / PEN GRIP / SUPPORT — ABSOLUTE
-==================================================
-
-V141:
-- Nari hand uses a real grip on notebook edge/spine/body and the pen is separately supported by fingers/other hand as physically possible
-- do not fuse notebook+pen into one hand shape or let either float
-- knife/flashlight/radio remain desk tray
-
-V142:
-1. return/sit actual chair
-2. notebook contacts tabletop in NOTEBOOK ZONE
-3. full A5 notebook supported flat
-4. fingers release
-5. pen contacts tabletop beside notebook
-6. fingers release
-
-Notebook/pen do not pass through table/other evidence.
-
-==================================================
-NOTEBOOK SUPPORT / ORIENTATION — ABSOLUTE
-==================================================
-
-At V142 establish one stable top/bottom/spine orientation inherited by Strip031. Reverse shots may flip screen direction but cannot rotate/mirror notebook story-world orientation without action.
-
-==================================================
-TABLE / TWO-POT / CABINET TOPOLOGY — ABSOLUTE
-==================================================
-
-NOODLE POT remains dining table. STORAGE POT remains cabinet. Keep stable scale/depth and never merge.
-Open cabinet/speaker/cord/towels/lid support state unchanged.
-
-==================================================
-WORN ATTACHMENT / BODY ROUTE — ABSOLUTE
-==================================================
-
-Scrunchie remains physically encircling SAME wrist; headphones physically around neck/hoodie without clipping through hair/jaw/neck during stand/walk/sit.
-Nari stands/sits through real chair mechanics and follows canonical table↔desk route.
-
-==================================================
-REFLECTION / FALSE-HYUN-WOO BAN — ABSOLUTE
-==================================================
-
-No physical/reflected/shadow Hyun-woo may appear in TV, fridge, windows, counter, cabinet/pot, notebook or other surface while Unit power is on.
-Silence/voice-only must not be visualized as a human silhouette.
-
-==================================================
-TEXT / EVIDENCE SAFETY — ABSOLUTE
-==================================================
-
-Dialogue/silence pacing cannot cover speaker source, chair stand/sit, notebook/pen pickup, A5 footprint or placement contacts.
-
-==================================================
-VERTICAL STORY FLOW
-==================================================
-
-V138
-NARI toward actual speaker:
+NARI:
 `THE MISSING SECTION WAS ABOUT THAT PANEL, WASN'T IT?`
-NO ANSWER.
-Then:
+
+NO ANSWER:
+- no speaker response
+- no indicator reply
+- no SFX
+- no floating ellipsis
+- no human silhouette/reflection
+
+After purposeful silence:
+NARI:
 `HYUN-WOO?`
 
+Gaze remains on same speaker source.
+
 SMALL BLACK GUTTER.
 
-V139
+==================================================
+V139 — `ARE YOU DANGEROUS?` — FULL BLUEPRINT
+==================================================
 NARI:
 `ARE YOU DANGEROUS?`
-HYUN-WOO voice from SAME speaker:
+
+HYUN-WOO VOICE FROM SAME SPEAKER:
 `I CAN'T PROMISE I'M NOT.`
 
-SMALL BLACK GUTTER.
-
-V140 — TABLE→DESK
-Stand/walk; leave table unchanged.
-
-SMALL BLACK GUTTER.
-
-V141 — PICKUP
-Pick SAME CLOSED A5 notebook + ONE pen only with physically usable support.
+PERFORMANCE:
+- Nari wary/shaken but functional
+- no physical Hyun-woo
 
 SMALL BLACK GUTTER.
-
-V142 — RETURN / NOTEBOOK ZONE
-Return, sit SAME chair. Place/release true-scale closed notebook flat in clear NOTEBOOK ZONE; pen beside it. No writing/opening.
 
 ==================================================
-SEAM
+V140 — REAL TABLE→DESK STAND/WALK — FULL BLUEPRINT
 ==================================================
+ACTION:
+1. Nari begins seated in untouched chair
+2. feet gain floor support
+3. hips rise clear of seat
+4. chair remains same location/orientation
+5. Nari walks canonical dining→desk route
+6. table evidence remains untouched
 
-Strip031 starts same closed notebook orientation/true scale + pen beside it, exact table/cabinet/worn/TV states.
+NO TEXT.
 
-AUTOMATIC REJECT IF
-- production/temp-state label appears
-- geometry/scale drift
-- speaker voice/silence source moves, Nari looks toward wrong wall, or physical/reflected/shadow Hyunwoo appears
-- notebook/pen grip/support impossible/fused/floating
-- notebook shrinks/enlarges, overlaps evidence, hangs unsupported, rotates/mirrors without action
-- evidence moves to create space
-- Nari uses pushed chair or stand/sit is fake overlap
-- STORAGE POT/NOODLE POT merge
-- cabinet/TV state resets
-- worn items clip/float/change side
-- text hides source/placement proof
-- silence gets invented text
+END:
+- Nari at desk
+
+SMALL BLACK GUTTER.
+
+==================================================
+V141 — PICK SAME CLOSED A5 NOTEBOOK + ONE PEN — FULL BLUEPRINT
+==================================================
+DESK:
+- same sheathed practical knife/flashlight/radio stay in place
+- SAME closed A5 notebook + ONE pen are the only objects picked up
+
+GRIP:
+- notebook supported by real hand/edge/spine/body
+- pen separately held by physically possible fingers/other hand
+- no fusion/floating
+- no extra writing tool
+
+NO writing/opening.
+
+END:
+- Nari holds notebook + pen only
+
+SMALL BLACK GUTTER.
+
+==================================================
+V142 — RETURN / SAME CHAIR / ESTABLISH NOTEBOOK ZONE — FULL BLUEPRINT
+==================================================
+A. ROUTE
+- Nari walks desk→dining without disturbing evidence
+
+B. SAME CHAIR
+- approaches untouched chair
+- turns/lowers hips through real sitting mechanics
+- feet floor-supported
+
+C. NOTEBOOK PLACEMENT
+- choose a real clear Nari-side tabletop area within reach
+- must fit true A5 notebook + pen without moving NOODLE POT/trivet/handle/cloth, packet/wrapper, used/clean chopsticks, table edge
+- notebook contacts table flat
+- fully supported
+- fingers release
+
+D. PEN PLACEMENT
+- same pen contacts table beside notebook
+- fingers release
+
+ORIENTATION:
+- freeze notebook top/bottom/spine orientation for Strip 031
+- keep CLOSED
+
+END / SEAM:
+Strip 031 begins exact closed notebook/pen/table/cabinet/TV states.
+
+==================================================
+EXACT TEXT ONLY
+==================================================
+`THE MISSING SECTION WAS ABOUT THAT PANEL, WASN'T IT?`
+`HYUN-WOO?`
+`ARE YOU DANGEROUS?`
+`I CAN'T PROMISE I'M NOT.`
+
+No narration, no silence text, no extra readable text.
+
+==================================================
+FINAL REJECT
+==================================================
+Reject if production labels render; retired Nari design returns; speaker voice/silence source moves; physical/reflected/shadow Hyun-woo appears; notebook/pen resize/fuse/float; table evidence moved to create space; wrong/pushed chair used; stand/sit/route teleports; STORAGE POT/NOODLE POT merge; open cabinet/TV states reset; notebook opens/writing begins early; room scale changes; glossy/cinematic/photoreal/3D style appears; text hides source/placement proof; gutters missing/oversized; dead bottom appears.
 ```
 
-## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-5. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-6. `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
-7. `Manhwa/Object-References/tv-canonical-reference.webp`
-8. APPROVED Strip 029
-9. this Strip 030 prompt
+## Production Thread Attachments — EXACT SET
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-desk-zone-detail-reference.webp`
+4. `unit-2407-living-to-kitchen-wide-reference.webp`
+5. `unit-2407-lighting-state-sheet-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `smart-speaker-canonical-reference.webp`
+8. `tv-canonical-reference.webp`
+9. APPROVED rendered Strip 029 image
