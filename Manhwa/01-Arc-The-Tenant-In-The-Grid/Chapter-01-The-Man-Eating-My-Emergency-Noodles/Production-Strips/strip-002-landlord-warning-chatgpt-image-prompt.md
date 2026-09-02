@@ -1,10 +1,10 @@
-# Strip 002 — Later That Evening / Mrs. Na Arrives — FINAL DETERMINISTIC GENERATION PROMPT
+# Strip 002 — Later That Evening / Mrs. Na Arrives — AUDITED DETERMINISTIC GENERATION PROMPT
 
 ```text
 Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME Chapter 1 scroll from the APPROVED rendered Strip 001.
 
 THIS IS NOT A PAGE.
-Never render V08/V09/V10/V11, Strip 002, panel/scene/shot/reference labels, filenames, prompt notes, atlas letters, QA marks, crop guides, or any other production metadata.
+Never render V08/V09/V10/V11, Strip 002, panel/scene/shot/reference labels, filenames, prompt notes, atlas letters, QA marks, crop guides, temporary-state names, or any other production metadata.
 
 PRODUCTION SCOPE
 Internal beats V08–V11 only.
@@ -25,42 +25,35 @@ ATTACH — REQUIRED — EXACT PRODUCTION SET
 9. `brass-backup-key-canonical-reference.webp`
 10. APPROVED rendered Strip 001 image
 
-If any required canonical WebP or the APPROVED Strip 001 image is missing: STOP. Do not substitute a generic person, apartment, binder, or key.
+If any required canonical WebP or the APPROVED rendered Strip 001 image is missing: STOP. Do not substitute a generic character, apartment, binder, key, or previous-strip guess.
 
 ==================================================
 AUTHORITY / CURRENT-CANON RULE — ABSOLUTE
 ==================================================
 
-Permanent visual authority:
+Permanent authority:
 1. current attached character WebPs
 2. current attached environment WebPs
 3. current attached object WebPs
 
-Temporary visual continuity authority:
+Temporary rendered continuity authority:
 4. APPROVED rendered Strip 001 image
 
-The previous strip controls how Unit 2407 looked in the immediately preceding approved story rendering, but it never overrides a current canonical WebP.
+The previous strip controls temporary rendered appearance/state only. It never overrides a current canonical WebP.
 
-IMPORTANT NARI UPDATE:
+CURRENT NARI RULE:
 Use the CURRENT `nari-canonical-flat2d.webp` exactly.
-Do NOT restore the retired Nari design.
-Reject:
-- old dark-plum/purple hair
-- old mouth beauty mark
-- old yellow scrunchie
-- old headphones-around-neck identity
-- old dark graphic hoodie + cropped utility jacket identity
-
-Current Nari is the approved warm everyday game-developer design from the attached WebP: long layered very-dark warm-brown hair, thin practical glasses when shown by the current canonical/approved Strip 001 state, warm-cream/oatmeal hoodie styling, dark charcoal cargo trousers, off-white/light-gray sneakers, and the current dark wrist hair-elastic/accessory state. The attached WebP and approved Strip 001 image decide the exact visible layer state for this later-evening scene.
+Do NOT restore any retired Nari design element from historical hardening text.
+The exact visible Nari layer/accessory state at the end of the APPROVED Strip 001 render is inherited into Strip 002 unless this prompt explicitly changes it.
 
 ==================================================
 ATTACHMENT ROLE MAP
 ==================================================
 
-NARI WEBP:
-- exact current face, age 30, warm-brown long layered hair, glasses state, current outfit/accessories, adult proportions
+NARI WEBP
+- exact current Nari face, age 30, hair, glasses/accessory state, current outfit construction/colors, adult proportions
 
-MRS. NA WEBP:
+MRS. NA WEBP
 - late-60s Korean woman
 - realistic older-adult proportions
 - same mature face
@@ -69,44 +62,47 @@ MRS. NA WEBP:
 - muted-mauve tailored coat
 - dark gloves
 - analog wristwatch
-- practical handbag and shoes
-- guarded/brisk demeanor
+- practical handbag/shoes
+- brisk guarded demeanor
 
-FLOOR PLAN:
-- permanent Unit 2407 world-space relationship
+FLOOR PLAN
+- permanent Unit 2407 world-space arrangement
 - entry → living/TV established side → dining center → kitchen/refrigerator established side → hallway behind
 - exactly TWO burgundy dining chairs
 - no mirroring
 
-ENTRY/LIVING WIDE:
+ENTRY/LIVING WIDE
 - SAME front door dimensions/hinge/handle/smart-lock side
 - entry shelf/tray
-- actual threshold
-- entry route into open plan
+- threshold
+- route into open-plan area
 
-LIVING→KITCHEN WIDE + ANGLE ATLAS:
-- same table/chairs/counter/refrigerator/hallway/corner-window geometry and scale
+LIVING→KITCHEN WIDE + ROOM ANGLE ATLAS
+- SAME table/chairs/counter/refrigerator/hallway/corner-window geometry and scale
 - camera changes VIEW only; room does not change
 
-HALLWAY REFERENCE:
-- interior hallway direction and lamp geography only; do not confuse this with the exterior residential-floor corridor
+HALLWAY REFERENCE
+- interior hallway/lamp geography only
+- do not use it as authority for the exterior residential-floor corridor
 
-ELECTRICAL GUIDE:
-- one matte practical binder
-- exact cover title: `UNIT 2407 / ELECTRICAL OPERATION GUIDE`
+ELECTRICAL GUIDE
+- exactly ONE matte practical binder
+- exact title: `UNIT 2407 / ELECTRICAL OPERATION GUIDE`
 - same size/spine/rings/material
 
-BRASS KEY:
-- exactly ONE Unit 2407 brass backup key
+BRASS KEY
+- exactly ONE canonical Unit 2407 brass backup key
 - ordinary modern mechanical-key scale
 - matte/satin warm brass
-- no fob/card/tag
+- no card/fob/tag
 
-APPROVED STRIP 001:
-- temporary rendered Unit 2407 scale/color/material baseline
-- Nari's current approved story rendering
+APPROVED RENDERED STRIP 001
+- immediate rendered Unit 2407 color/material/scale baseline
+- Nari's accepted story rendering
 - front-door visual continuity
-- existing move-in clutter state where visible
+- SAME single moving-box temporary state
+- SAME smart-speaker counter location/rendered scale
+- any visible chapter-local corridor rendering from V02/V03
 
 ==================================================
 STRICT STYLE — ABSOLUTE
@@ -118,60 +114,153 @@ Clean intentional line art, flat matte colors, restrained hard-edged cel shading
 NO photorealism, semi-photorealism, 3D/CG/game render, painterly/airbrushed finish, glossy skin/hair/floor/appliances, cinematic grading, bloom, lens flare, depth of field, volumetric light, exaggerated rim light, or AI-polished beauty rendering.
 
 ==================================================
-START STATE / LEGAL TIME CUT — ABSOLUTE
+STRIP 001 → STRIP 002 CONTINUITY LEDGER — ABSOLUTE
 ==================================================
 
-`LATER THAT EVENING...` is a legal time cut from Strip 001.
-It may change ordinary move-in clutter/pose and lets the front door now be CLOSED.
-It does NOT change permanent room geometry, Nari identity, furniture/appliance scale, or speaker position.
+Strip 001 ended with:
+- Nari inside Unit 2407
+- SAME single moving box floor-supported at its V04 location near the entry/open-plan transition
+- SAME canonical smart speaker at its canonical kitchen-counter location, normally powered, screenless
+- same Unit 2407 furniture/appliance geometry and scale
+- front door had been opened during move-in
+- no supernatural evidence yet
 
-START:
-- same Unit 2407 world scale as APPROVED Strip 001
-- front door CLOSED
-- Nari inside
-- Mrs. Na outside the same Unit 2407 door
-- Mrs. Na carries ONE binder in one gloved hand
-- Mrs. Na carries ONE ordinary key ring in the other gloved hand with exactly ONE canonical Unit 2407 brass key attached
-- handbag remains physically supported by the same body side
-- kitchen/open-plan remains powered, ordinary, matte, and non-supernatural
+LEGAL TIME CUT TO `LATER THAT EVENING...`:
+- enough ordinary offscreen time passes for Nari to close the front door
+- the front door therefore begins Strip 002 CLOSED
+- this offscreen mundane door closure is permitted by the explicit time cut
+- Nari does NOT change permanent identity or apartment geometry
+- for deterministic visual continuity, KEEP the SAME single moving box at the SAME Strip 001 V04 floor location through Strip 002; it may be off-camera but it does not duplicate, teleport, or vanish
+- KEEP Nari in the SAME approved Strip 001 outfit/layer/accessory state through Strip 002; do not invent an offscreen wardrobe change
+- KEEP the SAME smart speaker at the SAME canonical/approved Strip 001 kitchen-counter position and normal-powered state; it does not speak in this strip
+
+This chosen temporary continuity remains until a later explicit time cut/action changes it.
+
+==================================================
+START STATE — V08 — ABSOLUTE
+==================================================
+
+- Unit 2407 = same geometry/world scale as APPROVED Strip 001
+- front door CLOSED and latched normally
+- Nari inside in exact inherited Strip 001 visual state
+- SAME single moving box remains at exact inherited V04 floor location if visible
+- SAME smart speaker remains at exact canonical/Strip 001 kitchen-counter position, normally powered and silent
+- exactly TWO burgundy dining chairs total
+- no supernatural device activity
+- Mrs. Na is outside the same Unit 2407 door
+- Mrs. Na handbag physically supported on one stable body side
+- Mrs. Na carries ONE canonical binder in one dark-gloved hand
+- Mrs. Na carries ONE ordinary key ring in the other dark-gloved hand
+- exactly ONE canonical Unit 2407 brass backup key is attached to that ring
+- any other keys on the ring, if shown, must be clearly nonidentical household keys and never duplicates of the Unit 2407 key
 
 ==================================================
 WORLD-SCALE / PROPORTION / FIT — ABSOLUTE
 ==================================================
 
-- Nari keeps the same world-space adult scale established by Strip 001
-- Mrs. Na has realistic late-60s proportions; do not make her tiny/frail or oversized
-- door remains normal residential size relative to both women
-- binder is ordinary household/manual-binder scale, not tablet-sized or poster-sized
-- key remains normal mechanical-key scale; close-up magnification never enlarges its real-world size
-- handbag remains ordinary carry size
-- kitchen counter remains normal adult worktop height
-- Unit 2407 must not expand/shrink between doorway and counter views
-- exactly TWO burgundy dining chairs remain if visible
-- refrigerator/counter/table proportions stay identical to the approved Unit references/Strip 001
+- Nari keeps the same world-space scale as APPROVED Strip 001
+- Mrs. Na retains realistic older-adult proportions; not tiny/frail caricature and not oversized
+- same residential front door scale relative to both women
+- binder = ordinary apartment binder scale, not tablet/poster/laptop scale
+- brass key = ordinary mechanical-key scale; close-up magnification never changes its real-world size
+- handbag = ordinary practical carry scale
+- smart speaker = same compact small-countertop scale as Strip 001
+- moving box = same exact world-space size as Strip 001 if visible
+- kitchen counter = normal adult worktop scale
+- refrigerator/table/chairs = same proportions as canonical refs/Strip 001
+- Unit 2407 must not inflate/shrink between entry and kitchen views
 
 ==================================================
 CHARACTER / PROP OCCUPANCY — ABSOLUTE
 ==================================================
 
 MRS. NA:
-- handbag independently supported
-- binder = one gloved hand while walking
-- key ring = other gloved hand
+- handbag independently supported by her body
+- binder occupies one gloved hand while walking
+- key ring occupies the other gloved hand
 - no third hand
 - gloves never disappear for dexterity
-- watch remains same wrist
+- watch stays same wrist
 - jade earrings remain same pair
 
-V11 exact hand logic:
-1. binder touches counter
-2. binder-supporting gloved hand releases binder
-3. that newly free gloved hand assists the ring-holding gloved hand
-4. exactly ONE brass key is visibly detached from the ring
-5. ring remains in Mrs. Na's possession
-6. detached key touches counter
-7. fingers release
-8. key stays at one fixed separate spot beside binder
+NARI:
+- hands are free to operate door and later close it
+- no extra carried bag/device introduced
+- no extra hand created to manage door
+
+==================================================
+FRONT-DOOR REAL-ACTION CHAIN — NON-NEGOTIABLE
+==================================================
+
+V08 start: SAME front door CLOSED.
+
+V09:
+1. Nari reaches the actual door
+2. uses the real handle/lock side
+3. SAME door opens on the canonical hinge/opening arc
+4. Mrs. Na remains corridor-side during her introduction
+
+V10 — THIS DOOR-CLOSE ACTION IS MANDATORY:
+1. Nari steps aside while holding the door clear
+2. Mrs. Na crosses the threshold ONCE with handbag + binder + key ring still physically supported
+3. Mrs. Na's full body/feet clear the threshold and are apartment-side
+4. Nari remains inside
+5. Nari turns back to the SAME open door
+6. Nari's free hand contacts the real usable handle/edge
+7. SAME door swings CLOSED on the SAME hinge/opening plane
+8. door reaches a visibly closed state
+9. Nari releases the door
+10. only THEN do both women proceed deeper into Unit 2407 toward the kitchen counter
+
+No new SFX is added for the closing action unless already scripted; the physical close is shown silently.
+
+The front door remains CLOSED throughout V11 and carries closed into Strip 003.
+
+AUTOMATIC REJECT if Mrs. Na enters and both simply teleport/walk away leaving an unexplained door state.
+
+==================================================
+CHAPTER-LOCAL CORRIDOR CONTINUITY — ABSOLUTE
+==================================================
+
+If the APPROVED Strip 001 V02/V03 rendering established visible chapter-local corridor details around Unit 2407, V09/V10 must preserve those same visible minimal details.
+Do not redesign the corridor into a hotel hallway, elevator lobby, marble corridor, or a new permanent building environment.
+Use only enough corridor context to stage Mrs. Na outside and the threshold crossing.
+
+==================================================
+MOVING-BOX CONTINUITY / ROUTE CLEARANCE — ABSOLUTE
+==================================================
+
+The SAME single Strip 001 move-in box remains at its inherited V04 floor location through Strip 002.
+- do not add more boxes
+- do not move it offscreen as if it teleported
+- if visible, same size/tape/material/orientation family
+- V10 entry→kitchen walking route must go AROUND it using actual floor-plan clearance
+- neither woman steps through, kicks, moves, sits on, or carries the box
+
+If the box is outside a camera crop, its physical state still persists.
+
+==================================================
+SMART-SPEAKER CONTINUITY / COUNTER PROTECTION — ABSOLUTE
+==================================================
+
+The SAME canonical smart speaker remains at the SAME approved Strip 001 kitchen-counter position.
+- normally powered
+- screenless
+- silent throughout Strip 002
+- no movement
+- no duplicate
+- no hostile/helpful activation
+
+V11 binder/key placement must use a CLEAR EXISTING SECTION of the SAME canonical kitchen counter that does NOT overlap:
+- the smart speaker
+- sink
+- cooktop
+- counter edge
+- any fixed appliance/hardware
+
+Do NOT move the speaker to make room.
+Do NOT invent a new island/table/counter for the binder.
+The binder/key arrangement must fit on the real available counter at true scale.
 
 ==================================================
 VERTICAL HEIGHT / RHYTHM MAP — ABSOLUTE
@@ -180,56 +269,62 @@ VERTICAL HEIGHT / RHYTHM MAP — ABSOLUTE
 Approximate usable story-art allocation before small gutters:
 - V08 time + doorbell: 15%
 - V09 door open / Mrs. Na introduction: 25%
-- V10 real threshold + walk into Unit: 22%
-- V11 binder/key counter mechanics + dialogue: 38% — LARGEST
+- V10 threshold + mandatory door close + walk: 25%
+- V11 binder/key mechanics + dialogue: 35% — LARGEST
 
-Tolerance roughly ±3% for lettering/mechanical proof.
-V11 must remain largest because it establishes two recurring story objects and their exact state.
+Tolerance roughly ±3% where action proof/lettering requires.
+V11 remains largest.
+V10 must have enough vertical room to show threshold crossing AND door closure AND route start.
 Do not make all beats equal height.
-Do not crush V10 into a tiny transition.
 
 ==================================================
 V08 — LATER THAT EVENING / DOORBELL — FULL VISUAL BLUEPRINT
 ==================================================
 
 STORY PURPOSE:
-Re-establish Unit 2407 after the time cut and announce a visitor before showing her.
+Re-establish Unit 2407 after the legal time cut and announce a visitor before showing her.
 
 CAMERA:
 - interior Unit 2407 view oriented toward the SAME closed front door
-- use approved Strip 001 + entry/living reference
-- medium-wide enough to show the real door, entry shelf/tray, and a small amount of open-plan context
+- use APPROVED Strip 001 + entry/living reference
+- medium-wide enough to show real door, entry shelf/tray and some open-plan depth
+- SAME moving box may be visible at its inherited floor location
 - do not redesign the entry
 
 NARI:
-- may be visible deeper inside or turning toward the door
-- same current canonical/approved Strip 001 identity
+- same exact approved Strip 001 visual state
 - ordinary later-evening domestic posture
-- no fear; this is a normal visit
+- attention shifts naturally toward doorbell
+- no fear/horror
+
+SPEAKER:
+- if visible deeper in kitchen, SAME compact silent counter speaker
 
 LIGHTING:
-- normal powered later-evening apartment lighting
-- same geometry/materials as Strip 001, with legal time-of-day value shift only
-- no cinematic night grading
+- ordinary powered later-evening interior lighting
+- legal time-of-day value change only
+- same material palette/geometry
+- no cinematic blue/orange night grade
 
 NARRATION:
 `LATER THAT EVENING...`
 
 SFX:
 `DING-DONG`
-- source at the actual closed front-door doorbell/entry direction
-- not centered generically in room
+- spatially sourced from the actual closed front-door direction
+- do not invent a large visible doorbell panel if not established
 
 END:
-- Nari's attention is toward the door
-- door remains closed until V09
+- Nari oriented toward the door
+- door still closed
 
 REJECT V08 IF:
 - room scale/layout changes
-- door open before V09
+- moving box duplicates/disappears when visible
+- speaker moves/activates
+- door is open before V09
 - visitor visible inside early
-- horror lighting appears
-- retired Nari design returns
+- current Nari canonical/approved Strip 001 identity changes
 
 SMALL BLACK GUTTER.
 
@@ -238,96 +333,109 @@ V09 — DOOR OPEN / MRS. NA INTRODUCTION — FULL VISUAL BLUEPRINT
 ==================================================
 
 STORY PURPOSE:
-Introduce Mrs. Na clearly and establish all carried objects before any transfer.
+Introduce Mrs. Na clearly and establish every carried object before any transfer.
 
 CAMERA:
 - interior/threshold three-quarter view using SAME door geometry from Strip 001
-- Nari apartment-side; Mrs. Na corridor-side
-- enough full-body/three-quarter body context to prove Mrs. Na's handbag + binder + key-ring occupancy
-- corridor stays minimal and subordinate; do not invent luxury hallway architecture
+- Nari apartment-side
+- Mrs. Na corridor-side
+- enough body context to prove handbag + binder + key-ring occupancy
+- corridor visual matches the minimal approved Strip 001 corridor state if visible
 
 ACTION:
-- Nari physically opens the SAME door using actual handle/hinge orientation
+- Nari physically opens SAME door using actual handle/hinge orientation
 - Mrs. Na remains outside until V10
 
-MRS. NA MUST VISIBLY READ:
+MRS. NA MUST READ:
 - mature late-60s face
-- silver tight twist
+- silver tight practical twist
 - muted-mauve coat
 - dark gloves
-- jade earrings where angle allows
+- jade earrings where angle permits
 - analog watch where visible
-- practical handbag physically supported
+- practical handbag supported by her body
 - binder in one gloved hand
-- ordinary key ring in other gloved hand
+- key ring in the other gloved hand
 
-KEY:
-- canonical Unit 2407 brass key is still attached to the ring in V09
-- do not show a second identical brass key
+KEY STATE:
+- canonical Unit 2407 brass key still attached to ring
+- no detached counter key yet
+- no duplicate Unit 2407 key
 
 DIALOGUE:
 MRS. NA:
 `I BROUGHT THE APARTMENT GUIDE.`
 
 END:
-- doorway open
-- Mrs. Na still corridor-side with full carried state
+- door open
+- Mrs. Na still corridor-side
+- full carried state intact
 
 REJECT V09 IF:
-- Mrs. Na loses glove/watch/earring identity
-- binder/key magically already on counter
+- binder/key already counter-side
 - key detached early
 - handbag floats
+- gloves/watch/earrings drift
 - door construction flips
-- Nari/Mrs. Na scale unrealistic
+- character/prop scale fails
 
 SMALL BLACK GUTTER.
 
 ==================================================
-V10 — REAL THRESHOLD CROSSING / ENTRY→KITCHEN ROUTE — FULL VISUAL BLUEPRINT
+V10 — THRESHOLD → DOOR CLOSE → ENTRY→KITCHEN ROUTE — FULL VISUAL BLUEPRINT
 ==================================================
 
 STORY PURPOSE:
-Show Mrs. Na physically enter the same apartment and establish that V11 occurs at the canonical kitchen counter, not an invented surface.
+Physically bring Mrs. Na inside, close the apartment behind her, then show both women travel to the SAME canonical kitchen counter.
 
 COMPOSITION:
-Use one continuous wide or two same-event subviews with a diagonal divider:
-A. real threshold crossing
-B. continuation through open-plan toward the canonical kitchen counter
+Use one continuous wide sequence or 2–3 same-event subviews with compact diagonal/slanted dividers:
+A. threshold crossing
+B. Nari closing SAME door after Mrs. Na clears threshold
+C. route from entry toward kitchen/open-plan
 
 CAMERA / GEOMETRY:
-- threshold uses entry/living reference
-- open-plan movement uses floor plan / living→kitchen / angle atlas
-- the apartment must be recognizably the SAME rendered Unit 2407 as approved Strip 001
+- entry views use entry/living reference and APPROVED Strip 001
+- route uses floor plan / living→kitchen / atlas
+- preserve exact apartment scale and furniture positions
 
-ACTION:
+ACTION — EXACT ORDER:
 1. Nari steps aside
-2. Mrs. Na crosses the real threshold once
-3. handbag/binder/key ring remain physically supported
-4. both travel entry → open-plan → kitchen counter through a believable unobstructed route
-5. no teleport from door directly to kitchen
+2. Mrs. Na crosses threshold once
+3. handbag/binder/key ring remain supported
+4. Mrs. Na clears doorway completely
+5. Nari physically closes SAME door using real handle/edge and same hinge
+6. door becomes visibly CLOSED
+7. Nari releases door
+8. both women turn/proceed into open plan
+9. route goes around SAME inherited moving box
+10. both reach SAME canonical kitchen counter
 
-PROP STATE:
-- binder still in hand
-- brass key still attached to ring
+PROP STATE THROUGH V10:
+- binder still in Mrs. Na hand
+- Unit 2407 key still attached to ring
+- handbag still supported
+- speaker stays fixed at counter
 - no object is placed until V11
 
-SCALE:
-- characters, table, chairs, counter, refrigerator retain approved scale
-- no invented island or new counter
-
 NO DIALOGUE.
+NO NEW SFX.
 
 END:
-- both arrive at SAME canonical kitchen counter
-- Mrs. Na still holds binder/ring/handbag exactly as required
+- front door CLOSED
+- both women at canonical kitchen counter
+- carried props unchanged
+- moving box unchanged
+- speaker unchanged
 
 REJECT V10 IF:
-- route impossible or room mirrored
-- table/counter/furniture redesigns
-- Mrs. Na teleports
-- binder/key appear on counter before V11
-- object/character scale drifts
+- door left open/unexplained
+- door closes before Mrs. Na clears threshold
+- door hinge/handle side changes
+- women teleport to kitchen
+- route crosses furniture/moving box
+- binder/key appears on counter early
+- speaker/counter/table/refrigerator moves
 
 SMALL BLACK GUTTER.
 
@@ -336,69 +444,83 @@ V11 — BINDER + KEY COUNTER ESTABLISHMENT — FULL VISUAL BLUEPRINT
 ==================================================
 
 STORY PURPOSE:
-Establish the exact physical electrical guide and brass backup key that become persistent continuity objects for the next strips.
+Establish the exact electrical-operation guide and brass backup key as persistent continuity objects while preserving the smart speaker and real kitchen counter.
 
 CAMERA / COMPOSITION:
-- largest beat
-- medium two-shot at canonical kitchen counter plus one or two same-event close details if needed
-- use enough counter/cabinet/refrigerator/open-plan anchors to prove this is the SAME Unit 2407 counter from references/Strip 001
-- do NOT invent an isolated studio tabletop
+- LARGEST beat
+- medium two-shot at the SAME canonical kitchen counter
+- one or two same-event close details allowed for binder/key mechanics
+- enough counter/cabinet/refrigerator/open-plan anchors to prove SAME Unit 2407 kitchen
+- if speaker is in frame, it remains at exact Strip 001 location and is visibly separate from binder/key work zone
+
+COUNTER WORK ZONE:
+Choose one clear existing section of the real kitchen counter.
+- not on sink
+- not on cooktop
+- not on speaker
+- not hanging over edge
+- large enough for binder + key at true scale
 
 MECHANICAL ORDER — MUST READ TOP→BOTTOM:
+
 A. BINDER PLACEMENT
-- Mrs. Na lowers SAME binder to counter
-- real support contact
-- `THUMP` at contact
-- gloved hand releases
+1. Mrs. Na lowers SAME binder
+2. binder bottom/cover contacts real counter plane
+3. `THUMP`
+4. binder becomes fully supported
+5. binder-supporting gloved hand releases
 
 B. KEY DETACHMENT
-- binder-supporting hand is now visibly free
-- free gloved hand assists the other ring-holding gloved hand
-- fingers manipulate ring/key connection
-- exactly ONE canonical brass key visibly separates from ring
-- key remains ordinary scale
+6. newly free gloved hand assists ring-holding gloved hand
+7. fingers manipulate actual ring/key connection
+8. exactly ONE canonical Unit 2407 brass key separates from ring
+9. no identical Unit 2407 key remains on ring
+10. ring and any other nonidentical keys remain with Mrs. Na
 
 C. KEY PLACEMENT
-- SAME detached brass key moves to a distinct spot BESIDE binder
-- key contacts counter
-- `CLINK`
-- fingers release
-- no duplicate key remains on ring
+11. SAME detached brass key moves to a distinct spot BESIDE binder
+12. key contacts counter
+13. `CLINK`
+14. fingers release
 
-D. FINAL OBJECT TOPOLOGY
+D. FINAL TOPOLOGY
 - binder flat at one fixed orientation
-- key beside it at one fixed non-overlapping position
-- ring still with Mrs. Na minus Unit 2407 key
-- handbag remains supported
+- key beside binder at one fixed non-overlapping position
+- comfortable separation from speaker/sink/cooktop/edge
+- ring retained by Mrs. Na minus Unit 2407 key
+- handbag still supported
 
 BINDER TITLE — EXACT AND READABLE ON ACTUAL COVER:
 `UNIT 2407 / ELECTRICAL OPERATION GUIDE`
 
-DIALOGUE AFTER OBJECT PROOF:
+DIALOGUE — AFTER PHYSICAL OBJECT PROOF:
 NARI:
 `THIS PLACE NEEDS A MANUAL?`
 
 MRS. NA:
 `IT DOES.`
 
-CHARACTER PERFORMANCE:
-- Nari = dry curious skepticism, not fear
+PERFORMANCE:
+- Nari = dry curious skepticism
 - Mrs. Na = brisk guarded matter-of-factness
 
 END / FREEZE FOR STRIP 003:
-- both remain at same counter positions
+- front door CLOSED
+- both women remain at same counter positions
 - binder/key topology frozen
+- smart speaker remains exact location, normally powered, silent
+- SAME moving box remains inherited floor location if off-camera
 - room orientation/lighting unchanged
 
 REJECT V11 IF:
-- binder or key scale changes
-- key is card/fob/tag
+- binder/key placed on speaker/sink/cooktop/invented surface
+- speaker moved/disappeared to create space
+- binder/key scale changes
+- key becomes card/fob/tag
 - key detached before binder hand is free
 - key duplicates
 - binder title floats off cover
-- V11 uses a new counter/kitchen
-- text covers hand mechanics
-- dialogue reads before `THUMP`/`CLINK` action proof
+- dialogue reads before `THUMP`/detachment/`CLINK` proof
 
 ==================================================
 EXACT READER-FACING TEXT — DO NOT CHANGE
@@ -416,24 +538,47 @@ EXACT READER-FACING TEXT — DO NOT CHANGE
 Do not add any other readable text.
 
 ==================================================
-STRIP 002 STATE LEDGER — MUST REMAIN TRUE
+STRIP 002 END STATE — REQUIRED SEAM INTO STRIP 003
 ==================================================
 
-NARI:
-current canonical/approved Strip 001 identity → door response → threshold host → kitchen-counter conversation.
-No retired Nari design elements.
+NARI
+- current canonical/APPROVED Strip 001 identity
+- SAME inherited outfit/layer/accessory state
+- at kitchen counter
 
-MRS. NA:
-outside carrying binder + ring/key + handbag → crosses threshold → reaches counter → binder released → one key detached/placed → ring retained.
+MRS. NA
+- at kitchen counter
+- handbag still supported
+- ordinary key ring retained minus Unit 2407 key
+- binder hand now free after placement
 
-BINDER:
-in Mrs. Na hand V09/V10 → first counter contact V11 → fixed orientation.
+FRONT DOOR
+- CLOSED because Nari visibly closed it in V10
+- same hinge/handle/smart-lock construction
 
-BRASS KEY:
-attached to ring V09/V10 → detached only after binder release V11 → fixed separate counter spot.
+MOVING BOX
+- SAME single Strip 001 box remains at SAME inherited V04 floor location
+- not moved/duplicated
 
-ROOM:
-SAME Unit 2407 geometry/scale throughout. No new counter, no furniture relocation, exactly two burgundy chairs if visible.
+SMART SPEAKER
+- SAME canonical speaker at SAME kitchen-counter position
+- normally powered
+- silent
+- not covered by binder/key
+
+BINDER
+- SAME canonical guide flat at fixed V11 orientation on real counter
+
+BRASS KEY
+- SAME canonical key detached from ring
+- resting at fixed distinct counter spot beside binder
+
+ROOM
+- SAME Unit 2407 geometry/scale
+- exactly two burgundy chairs if visible
+- no new furniture/counter/appliance
+
+Strip 003 must inherit these states unless it visibly changes them.
 
 ==================================================
 FINAL AUTOMATIC REJECT
@@ -442,17 +587,20 @@ FINAL AUTOMATIC REJECT
 Reject if:
 - any production label renders
 - current character WebPs are contradicted by retired designs
-- Nari old dark-plum/beauty-mark/yellow-scrunchie/headphones design reappears
-- Mrs. Na identity/accessories drift
-- Unit 2407 differs from approved Strip 001/canonical refs
-- front door flips or resizes
-- route teleports
+- Unit 2407 differs from APPROVED Strip 001/canonical refs
+- moving box disappears/moves/duplicates without action or time-cut authority
+- speaker moves/disappears/activates/gets covered by binder
+- front door remains open after V10 or becomes closed without the required visible close action
+- front door flips/resizes
+- corridor redesigns
+- route teleports or crosses box/furniture
 - extra/missing limbs/hands
 - handbag/binder/ring/key occupancy impossible
 - duplicate key/binder/ring/handbag appears
 - binder/key scale drifts
 - binder title changes
 - key becomes electronic/fob/card
+- key detaches before binder release
 - V11 action order reverses
 - room/furniture/counter proportions drift
 - glossy/cinematic/photoreal/3D style appears
