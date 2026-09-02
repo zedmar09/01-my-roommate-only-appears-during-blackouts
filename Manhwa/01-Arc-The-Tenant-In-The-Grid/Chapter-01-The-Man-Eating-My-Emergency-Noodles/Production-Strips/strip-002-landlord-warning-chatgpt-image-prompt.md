@@ -107,6 +107,24 @@ This exact binder/key relative arrangement persists unchanged through Strip 003 
 A close-up of binder/key is the SAME physical objects, not duplicates.
 
 ==================================================
+PERSPECTIVE / MOBILE PROOF / CROP SAFETY — ABSOLUTE
+==================================================
+
+Use ordinary non-fisheye manhwa perspective from the attached corridor/entry/open-plan references.
+- do not curve door/counter/floor lines or distort Mrs. Na/Nari/binder/key proportions with ultra-wide/forced perspective
+- close-ups may magnify the key/binder but may not make them world-space larger
+
+At normal mobile reading size, the reader must be able to verify:
+- Nari opening the real door before Mrs. Na crosses
+- Mrs. Na's carried binder/key-ring state before placement
+- binder contacting/releasing on the counter BEFORE key detachment
+- one brass key visibly leaving the ring
+- the same key visibly contacting the counter beside the binder
+- binder title `UNIT 2407 / ELECTRICAL OPERATION GUIDE` as physical readable cover text when shown
+
+Keep the door handle/threshold, binder contact, ring/key fingers and final binder↔key arrangement away from crop edges, black gutters and diagonal dividers. If the key detachment is too small in the wide shot, use an adjacent SAME-OBJECT detail with enough hand/ring context to prove ownership rather than an isolated floating key.
+
+==================================================
 SCALE / SUPPORT / DEPTH — ABSOLUTE
 ==================================================
 
@@ -129,10 +147,25 @@ NARRATION DESIGN BY SITUATION — ABSOLUTE
 `LATER THAT EVENING...` is a true time transition: compact time-caption treatment distinct from Strip 001 premise/observation narration while remaining same publication family. Do not default it to repetitive top-left technical-tag placement.
 
 ==================================================
+TOP-TO-BOTTOM READER ORDER — ABSOLUTE
+==================================================
+
+Reader order must be V08→V09→V10→V11.
+Inside V11 the physical/text sequence is also strict:
+1. binder contact/release + `THUMP`
+2. key detachment from ring
+3. key contact/release + `CLINK`
+4. binder title/readable object state
+5. Nari's question
+6. Mrs. Na's answer
+
+Do not place `CLINK` or dialogue visually above/before the binder release if that makes the causal order read backward. Balloon tails must not cross so the answer reads before the question.
+
+==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Place SMALL BLACK GUTTER between distinct vertical slices. Two separate shots sharing one row use DIAGONAL / SLANTED BLACK DIVIDER. Nothing important crosses slash. No giant dead gap.
+Place SMALL BLACK GUTTER between distinct vertical slices. Two separate shots sharing one row use DIAGONAL / SLANTED BLACK DIVIDER. Nothing important crosses slash. Keep all continuity-critical proof safely clear of dividers. No giant dead gap.
 
 ==================================================
 MOVEMENT / GEOGRAPHY LOCK
@@ -205,6 +238,7 @@ AUTOMATIC REJECT IF
 - any production label appears
 - attached identity/geometry/object construction changes
 - previous-strip permanent drift propagated over canon
+- fisheye/ultra-wide perspective bends entry/counter geometry or distorts character/prop proportions
 - front door hinge/handle/lock/opening direction flips or geometry is mirrored
 - Mrs. Na teleports to kitchen
 - handbag/binder/key ring/key require impossible extra hands or float
@@ -215,12 +249,15 @@ AUTOMATIC REJECT IF
 - key/binder swap physical sides or overlap without action
 - binder rests on counter before visible placement
 - key detachment before binder frees required hand
+- binder/key contact proof is microscopic, cropped at canvas/gutter/divider edge, or ownership becomes ambiguous in close-up
+- required binder title is unreadable when story composition depends on it
+- V11 text/SFX/balloon layout reads causal order backward
 - key shape/material drifts
 - brass key already in entry tray
 - room axis flips
 - narration uses generic repeated/top-left technical-tag treatment
 - text hides door/binder/key action proof
-- black divider missing/oversized
+- black divider missing/oversized or cuts critical evidence
 - giant bottom space appears
 ```
 
