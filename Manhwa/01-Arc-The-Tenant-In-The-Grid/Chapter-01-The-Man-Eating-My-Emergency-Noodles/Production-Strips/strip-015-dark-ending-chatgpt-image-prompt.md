@@ -1,189 +1,276 @@
-# Strip 015 — No Screens / Dark Suspense Handoff
+# Strip 015 — No Screens / Dark Suspense Handoff — FINAL DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing SAME outage from APPROVED Strip 014.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME outage from the APPROVED rendered Strip 014.
+
+THIS IS NOT A PAGE.
+Never render V68–V70, Strip 015, temporary-state labels, filenames, QA notes, or production metadata.
 
 PRODUCTION SCOPE
-V68–V70. Historical P9 mapping only. This is NOT a chapter ending.
+V68–V70 only. This is NOT a chapter ending.
 
-ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-- APPROVED Strip 014
-- this Strip 015 prompt
+==================================================
+ATTACH — REQUIRED — EXACT SET
+==================================================
+
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-desk-zone-detail-reference.webp`
+4. `unit-2407-lighting-state-sheet-reference.webp`
+5. `unit-2407-room-angle-atlas-reference.webp`
+6. APPROVED rendered Strip 014 image
 
 Do NOT attach Hyun-woo.
+Missing authority = STOP.
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+CURRENT CANON / PREVIOUS STRIP ROLE
 ==================================================
 
-Attached WebPs permanent authority. APPROVED Strip 014 controls temporary blackout/pose/worn state only.
-Preserve Nari identity, long loose hair, SAME SCRUNCHIE WRIST, SAME headphones around neck, desk orientation, SAME emergency tray size/location, exact flashlight/radio/sheathed-knife layout/orientation established Strip 011, hallway direction, blackout geometry.
-Never render V68–V70, P9, Strip 015 or production/temp-state labels.
+Current WebPs permanently control Nari and Unit 2407.
+APPROVED Strip 014 temporarily controls exact blackout lighting, Nari's night-state rendering, desk/tray layout, phone position, and hallway direction.
+
+CURRENT NARI WEBP WINS.
+Preserve the current warm-brown-haired game-developer design and Strip 014 night-state layer. Never restore old dark-plum hair, mouth beauty mark, yellow scrunchie, headphones-around-neck identity, or retired hoodie/utility-jacket design.
 
 ==================================================
-START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+START / ALLOWED / END
 ==================================================
 
 START:
 - Unit supplied power OFF
-- Nari at SAME desk orientation
-- scrunchie/headphones unchanged
-- phone dark desk
-- SAME emergency tray immediately right of keyboard
-- SAME flashlight at exact Strip 011 tray rest zone/orientation
-- SAME radio at exact Strip 011 tray rest zone/orientation
-- SAME practical knife fully sheathed at exact Strip 011 tray rest zone/orientation; handle toward chair
-- all three fit tray at stable sizes without overlap
+- Nari at same desk orientation as Strip 014
+- phone dark on desk
+- emergency tray immediately right of keyboard
+- flashlight exact Strip 011/014 rest zone
+- radio exact rest zone
+- practical knife fully sheathed exact rest zone, handle toward chair
 
-ALLOWED CHANGES:
-- Nari looks at phone, does not touch/wake
-- picks SAME flashlight, tests twice, then physically returns it to its EXACT original tray zone/orientation and releases it
-- only after flashlight return, picks SAME radio, tests once, then physically returns it to its EXACT original tray zone/orientation and releases it
-- remains near desk/listens
-- knife/sheath does not move
-- worn state unchanged
+ALLOWED:
+- V68 Nari looks at phone but does NOT touch/wake it
+- V69 picks SAME flashlight, tests twice, returns it to exact original zone/orientation and releases
+- only after flashlight return, picks SAME radio, tests once, returns exact zone/orientation and releases
+- practical knife never moves
+- V70 Nari remains near desk listening in meaningful darkness
 
 END:
 - phone dark desk
-- flashlight exact Strip 011 tray zone/orientation
-- radio exact Strip 011 tray zone/orientation
-- practical knife exact sheathed Strip 011 tray zone/orientation, handle toward chair
-- all three fully supported/non-overlapping at same scale
-- Nari near desk listening
+- flashlight/radio exact original tray states
+- sheathed practical knife exact original state
+- Nari listening near same desk
 
 ==================================================
-TOOL PICKUP / RETURN / ORIENTATION — NON-NEGOTIABLE
+WORLD SCALE / BLACKOUT REALITY
 ==================================================
 
-FLASHLIGHT:
-1. begins fully supported in its exact tray zone/orientation
-2. hand contacts/grips
-3. flashlight leaves tray; its zone becomes empty
-4. test twice; no beam
-5. hand returns SAME flashlight to SAME zone
-6. flashlight physically contacts tray/support plane
-7. rotate/align only as needed to match exact Strip 011 rest orientation
-8. fingers release
-9. flashlight remains there
-
-RADIO:
-1. begins exact radio zone/orientation
-2. only after flashlight released, hand grips radio
-3. radio leaves tray; its zone empty
-4. one static test
-5. SAME radio returns exact zone/orientation
-6. contacts tray/support plane
-7. fingers release
-
-Do not merely put each tool “somewhere in tray.” Exact orientation/zone is part of continuity for Strip 016.
-Do not rotate flashlight/radio 90°/180° between same-state views, stack one on another, or allow them to clip through tray/knife/keyboard.
+- tray/tools same real-world sizes as approved prior strips
+- no tray enlargement/tool shrinkage
+- flashlight/radio/knife occupy separate supported zones
+- no phone glow
+- no flashlight beam
+- no radio display glow
+- no monitor/hallway lamp
+- no rim light/moon spotlight/cinematic silhouette light
+- flat charcoal/blue-gray value separation only
 
 ==================================================
-TRAY SCALE / FIT / SUPPORT — ABSOLUTE
+VERTICAL HEIGHT MAP
 ==================================================
 
-Tray and all three items keep Strip 011 world-space scale.
-No tray enlargement or tool shrinkage.
-At final V70:
-- flashlight, radio, sheathed knife fit simultaneously without solid overlap
-- each rests on real tray support plane
-- sheathed knife handle still toward chair
-- knife sheath mouth/blade axis unchanged
+Approximate story-art allocation:
+- V68 phone choice: 28%
+- V69 flashlight + radio tests/returns: 43% — LARGEST
+- V70 listening hold: 29%
 
-A close-up may magnify on page but not change world-space size.
+V69 must visibly prove BOTH pickup/test/return chains without hiding the fixed knife state.
 
 ==================================================
-SAME-OBJECT CLOSE-UP / NO DUPLICATION — ABSOLUTE
+V68 — DARK PHONE CHOICE — FULL BLUEPRINT
 ==================================================
 
-Any flashlight/radio/tray detail is SAME physical item/state. A same-moment detail cannot show tool in hand while another copy remains in tray.
+CAMERA:
+- same canonical desk/blackout view
+- Nari + dark phone + tray all readable
+- hallway depth may remain as dark geometry anchor
 
-==================================================
-DARKNESS / WORN STATE — ABSOLUTE
-==================================================
-
-No phone light, flashlight beam, radio glow, monitor, hallway lamp, rim light. Use flat blackout separation.
-SCRUNCHIE WRIST same physical wrist. SAME headphones around neck; no removal/duplication.
-
-==================================================
-TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
-==================================================
-
-Narration/thought/`CLICK CLICK`/`KSSHT` must not cover:
-- tool pickup/return contacts
-- empty/final tray zones
-- knife still sheathed
-- phone-dark proof
-
-==================================================
-NARRATION / THOUGHT DESIGN — ABSOLUTE
-==================================================
-
-V68:
 NARRATION:
 `HER PHONE WAS AT 81% TEN MINUTES AGO.`
+
 NARRATION:
 `SHE LEFT THE SCREEN DARK.`
+
 NARI INTERNAL THOUGHT:
 `MRS. NA SAID NO SCREENS.`
-Different text types/treatments; no repetitive top-left tags.
 
-==================================================
-VERTICAL STORY FLOW
-==================================================
+ACTION:
+- Nari LOOKS at phone only
+- hand does not touch phone
+- screen remains black
 
-V68 — DARK PHONE CHOICE
-Nari looks, does not touch/wake phone.
+PERFORMANCE:
+- controlled alertness, following instructions
+
+END:
+- phone untouched/dark
+- attention shifts to emergency tray
+
+REJECT IF:
+- phone wakes/glows
+- Nari picks it up
+- narration treated as spoken dialogue
+- retired Nari design returns
 
 SMALL BLACK GUTTER.
 
-V69 — FALLBACK TOOLS FAIL
-Flashlight:
+==================================================
+V69 — FLASHLIGHT FAIL → EXACT RETURN → RADIO FAIL → EXACT RETURN — FULL BLUEPRINT
+==================================================
+
+Use consecutive same-event subviews if needed.
+
+A. FLASHLIGHT PICKUP
+1. exact flashlight begins supported in fixed tray zone/orientation
+2. real hand grips it
+3. flashlight leaves tray; its zone becomes empty
+
+B. FLASHLIGHT TEST
+SFX:
 `CLICK  CLICK`
-No light. Return exact zone/orientation.
-Then radio:
+- two real switch attempts
+- NO beam
+- no screen/glow
+
+C. FLASHLIGHT RETURN
+1. same flashlight lowered to exact original tray zone
+2. support contact
+3. align exact original orientation
+4. fingers release
+
+Only after C is complete:
+
+D. RADIO PICKUP
+1. exact radio begins supported in its own zone
+2. hand grips
+3. radio leaves tray
+
+E. RADIO TEST
+SFX:
 `KSSHT`
-One static burst then dead. Return exact zone/orientation.
+- one brief static burst only
+- no sustained signal
+
 NARI:
 `NOTHING.`
-Knife untouched.
 
-SMALL BLACK GUTTER / SUSPENSE.
+F. RADIO RETURN
+1. same radio returns exact original zone/orientation
+2. support contact
+3. fingers release
 
-V70 — LISTENING HOLD
-Nari near same desk listening. No `SLURP` yet.
-Clearly preserve phone dark + flashlight exact tray state + radio exact tray state + sheathed knife exact tray state.
+PRACTICAL KNIFE:
+- remains fully sheathed in its own tray zone throughout
+- handle still toward chair
+- no contact
+
+REJECT IF:
+- tool duplicate remains in tray while copy is in hand
+- flashlight/radio return to approximate/wrong zones
+- knife shifts
+- flashlight emits light
+- radio continues working
+
+SMALL BLACK GUTTER / PURPOSEFUL SUSPENSE.
 
 ==================================================
-NO DEAD BOTTOM / SEAM
+V70 — MEANINGFUL DARK LISTENING HOLD — FULL BLUEPRINT
 ==================================================
 
-Use desk/tray/dark hallway depth. Strip 016 starts SAME tray orientation/layout, worn state and outage.
+STORY PURPOSE:
+Hold silence long enough for the reader to anticipate the sound that begins Strip 016. Do NOT invent the `SLURP` yet.
 
-AUTOMATIC REJECT IF
-- production/temp-state label appears
-- attached geometry drifts
-- scrunchie/headphones state changes
+CAMERA:
+- Nari near same desk
+- medium/wide blackout composition with tray in foreground/midground and dark hallway/open-plan direction beyond
+- preserve real desk→hallway route geometry
+
+NARI:
+- still, listening
+- head/eyes oriented into the apartment darkness
+- no new tool in hand
+- controlled tension, not screaming/panic
+
+MANDATORY VISIBLE/LOGICAL END STATE:
+- phone dark
+- flashlight exact tray zone/orientation
+- radio exact tray zone/orientation
+- practical knife fully sheathed exact zone/orientation, handle toward chair
+
+NO NEW TEXT.
+NO `SLURP`.
+NO HYUN-WOO.
+
+END / SEAM:
+Strip 016 starts from this exact listening pose/tray/outage state.
+
+==================================================
+EXACT TEXT ONLY
+==================================================
+
+`HER PHONE WAS AT 81% TEN MINUTES AGO.`
+`SHE LEFT THE SCREEN DARK.`
+`MRS. NA SAID NO SCREENS.`
+`CLICK  CLICK`
+`KSSHT`
+`NOTHING.`
+
+No extra readable text.
+
+==================================================
+STATE LEDGER
+==================================================
+
+PHONE:
+dark/untouched throughout.
+
+FLASHLIGHT:
+tray exact state → hand/test → exact tray state.
+
+RADIO:
+tray exact state → hand/test → exact tray state.
+
+PRACTICAL KNIFE:
+fully sheathed exact tray state throughout.
+
+NARI:
+current canonical blackout-night identity, same desk area, ends listening.
+
+==================================================
+FINAL REJECT
+==================================================
+
+Reject if:
+- production labels render
+- retired Nari design returns
 - phone lights/touched
-- flashlight beam appears/radio keeps working
-- flashlight/radio duplicate, rotate/change tray rest orientation, change scale, overlap/clip, float, or fail to return exact zones
+- flashlight beam appears
+- radio works normally
+- tools duplicate/float/clip/change scale
+- tool return zones/orientations differ
 - tray size/location changes
-- sheathed knife orientation/handle-toward-chair changes before Strip016
-- close-up creates incompatible tool state
-- pickup/return contact hidden
-- `SLURP`/Hyun-woo early
+- knife moves or becomes unsheathed
+- invented rim/device/moon light appears
+- `SLURP`/Hyun-woo appears early
 - text hides tray/tool proof
-- giant dead band appears
+- glossy/cinematic/photoreal/3D style appears
+- gutters missing/oversized
+- dead bottom appears
 ```
 
-## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-5. APPROVED Strip 014
-6. this Strip 015 prompt
+## Production Thread Attachments — EXACT SET
+
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-desk-zone-detail-reference.webp`
+4. `unit-2407-lighting-state-sheet-reference.webp`
+5. `unit-2407-room-angle-atlas-reference.webp`
+6. APPROVED rendered Strip 014 image
