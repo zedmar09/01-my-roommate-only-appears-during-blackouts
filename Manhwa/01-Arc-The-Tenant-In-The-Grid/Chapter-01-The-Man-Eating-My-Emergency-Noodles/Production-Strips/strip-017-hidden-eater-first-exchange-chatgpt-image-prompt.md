@@ -47,6 +47,33 @@ HYUN-WOO — THIS IS THE FIRST FULL PHYSICAL IDENTITY LOCK:
 Character close-ups must still look like the SAME people. Candle darkness may lower value but cannot recolor Hyun-woo hair/mask/tattoos or Nari hair/scrunchie into new identity colors.
 
 ==================================================
+FINAL PERFORMANCE / RELATIVE-SCALE LOCK — NON-NEGOTIABLE
+==================================================
+
+Strip 016 ended with Nari stopped several feet away in a guarded, tense observation pose. Strip 017 must continue that exact performance rather than reset the scene.
+
+NARI:
+- V76 begins still stopped at the same entrance mark, knife LOW, shoulders/hips compatible with the stopped cautious approach
+- emotion = wary disbelief + defensive caution; she is frightened enough to protect herself but still thinking clearly
+- `DON'T MOVE. I HAVE A KNIFE.` is controlled defensive warning, not screaming hysteria, heroic action pose or rage
+- V77–V80 no steps and no unrelated gesture reset; knife-low posture and body-facing stay stable unless a small head/upper-torso turn is required for eyeline
+- no crying, collapse, panic-running, romantic blush, comedy grin or exaggerated anime shock
+
+HYUN-WOO:
+- performance = guarded, dry, calm, observant; not villain rage, smug predator, feral monster or melodramatic seducer
+- while seated he remains physically relaxed enough to have been eating, but alert to Nari and the knife
+- his dry `I CAN SEE THAT.` should read as calm understatement, not mocking villain laughter
+- he does not loom by artificially enlarging torso/head in close-ups
+
+RELATIVE SCALE:
+- even while seated, Hyun-woo's canonical broad shoulders/tall-build proportions remain evident relative to chair/table and Nari
+- do not shrink/slim him to make the seated conversation less imposing, and do not enlarge him into a monster
+- Nari remains medium-height/slim canonical scale relative to environment
+- camera closeness may change apparent size only; shared environmental anchors must preserve world-space proportions
+
+This guarded Nari / calm Hyun-woo performance carries through Strip 018 and into the interrogation until the hostile refrigerator event provides a reason for stronger urgency.
+
+==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
@@ -71,18 +98,24 @@ ALLOWED CHANGES:
 
 END:
 - same positions/distance
+- same guarded/calm emotional-performance relationship
 - chopsticks still Hyun-woo hand, lowered near pot
 - mask same eating state
 - five pantry packets; packet floor spot; wrapper table spot
 - character identity/tattoo/hair/mask/body topology unchanged
 
 ==================================================
-DIALOGUE CAMERA AXIS / SPEAKING-STATE LOGIC — ABSOLUTE
+DIALOGUE CAMERA AXIS / POSE-FACING / SPEAKING LOGIC — ABSOLUTE
 ==================================================
 
 V76–V80 are one continuous guarded conversation.
 Nari remains entrance-side; Hyun-woo remains seated table-side.
 Eyelines meet across one readable axis.
+
+Body-facing:
+- Nari shoulders/hips remain generally oriented toward the seated Hyun-woo/table from the stopped approach; reverse shots cannot silently rotate her to face another room direction
+- Hyun-woo seated torso remains aligned with the actual chair/table relationship; a close-up cannot rotate him into a different chair orientation
+- head turns may track the other speaker within believable neck range without resetting the whole body
 
 Dialogue ownership:
 - V77 Nari speaks; Hyun-woo listens
@@ -90,8 +123,6 @@ Dialogue ownership:
 - V79 Nari and Hyun-woo alternate exactly as scripted; do not make both mouths/heads act as if speaking the same line
 - V80 Hyun-woo speaks; Nari listens
 - mask coverage means visible mouth animation is not required for Hyun-woo and must never expose lower face merely to show speech
-
-Balloon tails cannot compensate for wrong speaking/listening body language.
 
 ==================================================
 DINING SCALE / TOPOLOGY — ABSOLUTE
@@ -185,20 +216,24 @@ Chopsticks lower near SAME pot but remain in SAME tattooed hand/arm.
 SEAM
 ==================================================
 
-Strip 018 inherits exact positions/axis, dining topology, chopstick hand, SAME Hyun-woo tattoo map/mask/hair/body identity and Nari identity/worn/knife state.
+Strip 018 inherits exact positions/axis, guarded Nari/calm Hyun-woo emotional intensity, body-facing, dining topology, chopstick hand, SAME Hyun-woo tattoo map/mask/hair/body identity and Nari identity/worn/knife state.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
+- Nari emotional state resets/jumps to screaming panic, rage, romance/comedy, or unrelated gesture pose without cause
+- Hyun-woo becomes villainous/raging/predatory/romance-dominant rather than guarded/calm/dry
+- Nari/Hyun-woo torso/hip facing resets across reverse shots while positions remain unchanged
+- Hyun-woo world-space build/scale shrinks/slims or enlarges monstrously relative to chair/table/Nari
 - Nari beauty mark/hair/body identity drifts or extra/missing limb appears
-- Hyun-woo build slims/changes, hair shortens/bun changes, mask redesigns or lower face is exposed
+- Hyun-woo build/hair/mask/tattoo identity changes or lower face is exposed
 - Hyun-woo tattoo coverage/pattern mirrors, migrates, disappears, duplicates, changes symbols/colors or glows neon
 - extra/missing/duplicated Hyun-woo limb/hand/foot/ear/hair tail appears
 - chopstick close-up hand cannot connect to same tattooed arm/body or switches anatomical tattoo map
 - characters exchange physical sides/eyelines fail
-- listener appears to mouth another character's line or Hyun-woo lower face is exposed to show speech
+- listener appears to mouth another character's line
 - pot/table/chair/packet scale/depth changes
 - noodle path clips/vanishes
-- mask straps/hair/tattoos clip through body/clothing or tattoo shows through opaque fabric
+- mask straps/hair/tattoos clip through body/clothing
 - reflected/shadow duplicate person/lower face appears
 - candle creates cinematic/glossy/neon character rendering
 - text hides identity/food/topology evidence
