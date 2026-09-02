@@ -4,20 +4,21 @@ Strip IDs are production-only. Reader sees one continuous chapter.
 
 ## Current Audit Status
 
-**NINTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+**TENTH / FINAL FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
 
-The complete `strip-001` through `strip-032` package has now been clean-room audited a NINTH time under `manhwa-2d-production-auditor`. The eighth PASS was deliberately not accepted as proof.
+The complete `strip-001` through `strip-032` package has now been clean-room audited a TENTH and FINAL time under `manhwa-2d-production-auditor`. The ninth PASS was deliberately not accepted as proof.
 
-Ninth-pass focus:
-- whole-body anatomical topology
-- close-up limb ownership and anatomical-side conservation
-- permanent character landmarks/patterns under reverse cameras
-- face/age/build/hair identity through close-ups/expressions/darkness
-- wardrobe/local-color/material identity
-- clothing/accessory/body occlusion topology
-- speaking/listening/mouth-state agreement with dialogue/thought/device/audio source
+Final-pass focus:
+- pose-state conservation across camera cuts
+- shoulder/hip/torso/foot facing continuity
+- relative character height/build continuity
+- expression/emotion progression from real story causes
+- temporary gesture persistence
+- clothing-layer/closure/hood/sleeve/bag/mask wear state
+- hair/garment motion without redesign
+- strip-boundary pose/facing/emotion/relative-scale carryover
 
-After ninth-pass repairs, including the additional Strip 001 defect discovered during the post-repair sweep, the current Strip 001→032 package was read again under the ninth gates. No additional deterministic prompt/canon defect remained.
+After tenth-pass repairs, the current Strip 001→032 package was read again from the current GitHub state. The post-repair clean-room pass found zero additional deterministic prompt/canon defects.
 
 Previously generated attempts remain rejected as continuity authority for retest.
 
@@ -29,34 +30,34 @@ Previously generated attempts remain rejected as continuity authority for retest
 | 002 | V08–V11 | Mrs. Na identity/gloves/watch/earrings / binder-key handling | G |
 | 003 | V12–V15 | hallway rule / conversation axis / real lamp eyeline | A/G |
 | 004 | V16–V20 | key transfer / departure / readable 19°C / time-cut order | G |
-| 005 | V21–V25 | first voice / two-stick landing / speaker source | G |
+| 005 | V21–V25 | first voice / two-stick landing / annoyance→wary freeze | G |
 | 006 | V26–V30 | wall-socket unplug / Nari plug-hand body ownership | A |
 | 007 | V31–V35 | crouch→stand / key route / TV-fridge text planes | G |
 | 008 | V36–V40 | fitting speaker stack / physical paper reply | G |
-| 009 | V41–V45 | note/photo evidence / phone source and return | A/E |
+| 009 | V41–V45 | note/photo evidence / surprise→analytical investigation | A/E |
 | 010 | V46–V50 | one bound binder / mobile Section16→18 proof | G |
 | 011 | V51–V54 | six packets / real tray capacity+orientation | G |
-| 012 | V55–V59 | Seungjae age-30 identity / entrance/rain / prop ownership | A |
+| 012 | V55–V59 | Seungjae age-30 identity / grounded social warmth / mild concern | A |
 | 013 | V60–V64 | Seungjae wearable/limb identity / elevator / private tablet | G |
 | 014 | V65–V67 | Nari night identity preserved through true outage | E |
-| 015 | V68–V70 | failed tools → exact tray return | E/G |
-| 016 | V71–V75 | knife draw axis / route / sound-source teaser | A/E |
-| 017 | V76–V80 | first full Hyun-woo build/tattoo/mask/hair lock / food | A/G |
+| 015 | V68–V70 | failed tools → exact tray return / controlled listening | E/G |
+| 016 | V71–V75 | practical knife draw / guarded approach / teaser stop | A/E |
+| 017 | V76–V80 | full Hyun-woo identity / wary Nari vs calm-dry Hyun-woo | A/G |
 | 018 | V81–V84 | same tattooed hand: chopsticks→mask reseat / reveal | G |
 | 019 | V85–V89 | exactly one STEP FOOT / mobile packet-contact proof | A/G |
-| 020 | V90–V93 | chair push/rise / mobile seat-floor proof | A |
-| 021 | V94–V97 | true protective block / fridge text / eyelines | E |
+| 020 | V90–V93 | threat-triggered protective chair rise / stable relative scale | A |
+| 021 | V94–V97 | true protective block / grounded performance / fridge text | E |
 | 022 | V98–V102 | additive fridge text / tiny blue core / no second light | A/E |
 | 023 | V103–V107 | limb ownership / PFF→fall→CLANG→same-wrist catch | G |
 | 024 | V108–V112 | same caught wrist + same connected Hyun-woo arm release | G/E |
-| 025 | V113–V118 | city→Unit power / mobile presence→absence proof | G |
+| 025 | V113–V118 | city→Unit power / controlled conversation→stunned absence | G |
 | 026 | V119–V123 | evidence route / PHONE HAND / smart-lock+phone planes | G |
 | 027 | V124–V127 | voicemail / same-cabinet chimes / source direction | A/G |
 | 028 | V128–V132 | cabinet reveal / speaker source / knife pickup | A |
-| 029 | V133–V137 | STORAGE POT ≠ NOODLE POT / food / speaker source | G |
+| 029 | V133–V137 | STORAGE POT ≠ NOODLE POT / cautious food / speaker source | G |
 | 030 | V138–V142 | voice-only speaker / A5 NOTEBOOK ZONE | G |
 | 031 | V143–V145 | exactly-two-hand writing / pen release→TV / wall proof | A/E |
-| 032 | V146 | final Nari identity/body lock / readable TV message | END |
+| 032 | V146 | final Nari identity/body / controlled dread / readable TV message | END |
 
 ## Authority Order
 
@@ -71,40 +72,31 @@ Previously generated attempts remain rejected as continuity authority for retest
 
 Previous strip and derived detail never override permanent canon.
 
-## Ninth-Pass Global Gates
+## Tenth / Final Global Gates
 
-### Whole-Body Anatomy
-One coherent human body per character; no extra/missing/duplicated limbs/body parts or impossible joint/body connections.
+### Pose / Facing
+Camera cuts do not reset support/pose, weight-bearing feet, shoulders, hips, torso direction, head-vs-torso orientation or temporary gesture.
 
-### Limb Ownership / Anatomical Side
-Close-up hand/wrist/foot/arm/leg remains the same character and same physical side. Reverse camera changes screen side only.
+### Relative Height / Build
+World-space character proportions remain stable. Hyun-woo stays clearly taller/broader than Nari when both stand; Seungjae remains lean-to-average and less imposing than Hyun-woo; Mrs. Na remains stable older-adult scale.
 
-### Permanent Character Landmarks
-- Nari: one anatomical-LEFT mouth beauty mark; stable long dark-plum hair
-- Hyun-woo: same anatomical tattoo map, technical mask and long low-tied hair
-- Mrs. Na: same jade earrings, watch wrist and dark gloves
-- Seungjae: exactly age 30, same medium-brown hair, watch wrist and earbud identities
+### Emotion / Performance
+Emotion changes from scripted causes only. Grounded chapter progression: dry/practical → skeptical/analytical unease → ordinary social warmth/confusion → controlled blackout alertness → guarded caution → calm/dry Hyun-woo interrogation → focused protective urgency → localized shock → shaken functional investigation → controlled final dread.
 
-### Face / Age / Build / Hair
-Expressions/close-ups/lighting cannot recast characters or change canonical age/build/hair identity.
+### Gesture / Clothing Layer / Hair Motion
+Temporary gestures persist until changed. Hood/jacket/sleeve/bag/headphones/mask state does not silently change. Hair/clothing may move but cannot redesign itself or hide an unperformed body turn.
 
-### Wardrobe / Local Color / Material
-Continuous-scene clothing construction and signature local colors remain stable. Lighting may change value, not identity. Character materials remain matte.
-
-### Clothing / Body Occlusion
-Clothing/hair/accessory occlusion cannot create or hide impossible body topology.
-
-### Speaking / Listening / Mouth State
-Visible acting agrees with source ownership. Narration/thought/device/speaker audio is not human speech; masked Hyun-woo remains masked while speaking.
+### Performance Seam
+Each strip boundary inherits pose, facing, gesture, relative scale, emotional intensity and clothing-layer state until a legal cut or visible first action changes it.
 
 ### All Earlier Gates Remain Binding
-Permanent WebP authority, real causality, wall-socket semantics, same-object representation, temporary anatomical-side and worn-state continuity, object orientation/scale/depth/gravity, camera-axis/eyelines, physical text planes, reflection/shadow bans, grips, audio-source direction, perspective/mobile/crop/light/reader-order integrity, narration variation, and no reader-visible production labels.
+Permanent WebP authority, wall-socket semantics, real causality, same-object representation, character topology/landmarks, anatomical-side and worn-state continuity, object orientation/scale/depth/gravity, camera-axis/eyelines, physical text planes, reflection/shadow bans, grips, audio-source direction, perspective/mobile/crop/light/reader-order integrity, narration variation, and no reader-visible production labels.
 
-## Ninth Local Rewrite Set
+## Tenth Local Rewrite Set
 
-Local ninth rewrites: **001, 002, 006, 012, 013, 014, 017, 018, 023, 024, 031, 032**.
+Local tenth/final rewrites: **005, 009, 012, 016, 017, 020, 021, 025, 032**.
 
-The other **20 strips** were re-read under the ninth global gates and required no additional deterministic local rewrite.
+The other **23 strips** were re-read under the tenth/final global gates and required no additional deterministic local rewrite.
 
 ## Reusable Reference Shorthand
 
@@ -162,9 +154,9 @@ Objects:
 
 `U-ATLAS` is additional only when primary views are insufficient.
 
-## Current Prompt-Level Gate Counts
+## Final Prompt-Level Gate Counts
 
-After ninth repairs **and the complete post-repair 001→032 clean-room read**:
+After tenth/final repairs **and the complete post-repair 001→032 clean-room read**:
 - **BLOCKER: 0**
 - **MAJOR: 0 unresolved deterministic prompt/canon issues**
 - **MINOR requiring correction: 0**
@@ -172,4 +164,4 @@ After ninth repairs **and the complete post-repair 001→032 clean-room read**:
 
 These counts apply only to textual/reference authority. Rendered visual gates remain pending/unexecuted.
 
-**FINAL CURRENT STATUS: NINTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+**FINAL CURRENT STATUS: TENTH / FINAL FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
