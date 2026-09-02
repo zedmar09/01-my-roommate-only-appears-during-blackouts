@@ -1,208 +1,274 @@
-# Strip 018 — Hyun-woo Name Reveal
+# Strip 018 — Hyun-woo Name Reveal — FINAL DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing SAME guarded dining-table scene from APPROVED Strip 017.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME guarded dining-table scene from the APPROVED rendered Strip 017.
+
+THIS IS NOT A PAGE.
+Never render V81–V84, Strip 018, production hand labels, filenames, QA notes, or technical metadata.
 
 PRODUCTION SCOPE
-V81–V84. Historical P11 mapping only.
-
-ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.webp`
-- `Character-References/hyunwoo-canonical-flat2d.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-- APPROVED Strip 017
-- this Strip 018 prompt
+V81–V84 only.
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+ATTACH — REQUIRED — EXACT SET
 ==================================================
 
-Attached WebPs are permanent authority. APPROVED Strip 017 controls temporary table/food/mask/Nari state only.
-Preserve exact character identities, dining scale/depth/topology, Hyun-woo mask/tattoo/hair/body construction, Nari KNIFE HAND/SCRUNCHIE WRIST/headphones and the Strip 017 conversation axis.
-Never render V81–V84/P11/Strip018/temp-state labels.
+1. `nari-canonical-flat2d.webp`
+2. `hyunwoo-canonical-flat2d.webp`
+3. `unit-2407-floor-plan-reference.webp`
+4. `unit-2407-living-to-kitchen-wide-reference.webp`
+5. `unit-2407-kitchen-to-living-wide-reference.webp`
+6. `unit-2407-fridge-cabinet-zone-detail-reference.webp`
+7. `unit-2407-lighting-state-sheet-reference.webp`
+8. `unit-2407-room-angle-atlas-reference.webp`
+9. APPROVED rendered Strip 017 image
+
+Missing authority = STOP.
 
 ==================================================
-CHARACTER TOPOLOGY / IDENTITY — NON-NEGOTIABLE
+CURRENT CANON / PREVIOUS STRIP ROLE
 ==================================================
 
-NARI remains the SAME age-30 long-dark-plum-haired woman with one anatomical-LEFT mouth beauty mark, same body proportions, knife/worn state and no extra/missing limb.
+Current Nari/Hyun-woo/environment WebPs are permanent authority.
+APPROVED Strip 017 temporarily controls exact positions, dining topology, chopstick hand, mask eating-state configuration, Nari knife hand, and conversation axis.
 
-HYUN-WOO remains the SAME canonical man:
-- tall broad athletic/engineer build
-- SAME long black low-tied hair construction and loose front strands
-- SAME matte-black technical mask body/side hardware/straps
-- SAME matte-black sleeveless top/dark trousers
-- SAME permanent tattoo coverage/pattern relationships on neck/collarbones/shoulders/both arms
-- no tattoo mirror/migration/duplication/simplification into generic scribbles; no neon glow
-- exactly two arms/hands; the chopstick hand and later mask hand must connect to the SAME correct tattooed arm/shoulder/body
-- no detached generic hand, duplicated hand, extra forearm, fused elbow, missing ear, duplicate hair tail or body recast
+CURRENT NARI WEBP WINS.
+Never restore retired old-Nari dark-plum hair, mouth beauty mark, yellow scrunchie, headphones-around-neck identity, or old outfit design.
 
-V82 close-ups are especially strict: the hand that releases chopsticks and then moves the mask is ONE continuous anatomical hand/arm. Do not spawn a new hand for the mask action.
+HYUN-WOO remains exact current canonical identity: broad/tall build, long low-tied BLACK hair, same matte technical mask hardware, same tattoo map, same dark sleeveless top/trousers.
 
 ==================================================
-START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+START / ALLOWED / END
 ==================================================
 
 START:
-- Nari same entrance mark, zero steps; knife low SAME KNIFE HAND; worn state unchanged
+- Nari same entrance mark, zero steps, knife LOW same hand
 - Hyun-woo same seated chair
-- SAME mask attached, temporarily lowered/disengaged enough to clear mouth; SAME straps/hardware remain connected
-- SAME chopstick pair in Hyun-woo hand lowered near same pot
-- dining topology exactly Strip 017
-- pantry five packets; same outer packet floor spot
-- Unit power absent
+- same mask attached in temporary eating configuration from Strip 017
+- same chopstick pair in same tattooed hand lowered near same pot
+- pantry five packets; same floor packet/wrapper/table/candle/pot states
 
-ALLOWED CHANGES:
+ALLOWED:
 - V81 dialogue only
-- V82 visible noodle resolves → SAME chopsticks move to SAME fixed pot rest → real contact/release → SAME anatomical hand becomes free
-- SAME free hand contacts SAME mask/hardware and physically guides SAME mask along actual attached path to canonical full-cover position
-- mask/strap/hair/tattoo/body identity remains continuous
-- only after fully seated/secured: `TCHK`
+- V82 SAME chopstick hand places chopsticks on SAME pot rest, releases them, becomes empty, then same hand physically reseats SAME attached mask to full canonical position
+- `TCHK` only after mask fully seated/secured
 - V83/V84 dialogue/reveal only
 
 END:
-- Nari same entrance/knife/worn state
-- Hyun-woo same chair/body/tattoo/hair identity
-- SAME mask fully canonical and secured
-- SAME chopsticks fixed pot rest
-- topology unchanged
+- Nari unchanged
+- Hyun-woo still seated
+- chopsticks fixed on pot rest
+- mask fully canonical/full-cover and secured
+- dining topology unchanged
 
 ==================================================
-CHOPSTICK HAND → MASK HAND CONTINUITY — NON-NEGOTIABLE
+WORLD SCALE / PERFORMANCE
 ==================================================
 
-1. SAME tattooed hand/arm holds chopsticks
-2. visible noodle resolves
-3. SAME fingers move chopsticks to pot rest
-4. chopsticks contact support
-5. SAME fingers release
-6. SAME hand visibly empty
-7. SAME hand/forearm/arm travels toward mask through open space
-8. hand remains connected to SAME shoulder/body and SAME tattoo-map side
-9. fingers grip actual mask edge/hardware
-
-Do not use one hand for chopsticks and a magically different/extra hand for mask reseat.
+- preserve approved Strip 017 room/body scale
+- Hyun-woo remains broad seated adult, not camera-enlarged
+- Nari remains stopped several feet away
+- mask/chopsticks/pot keep real sizes
+- Nari = guarded skeptical
+- Hyun-woo = calm/dry/guarded
+- name reveal is restrained character reveal, not splash-poster transformation
 
 ==================================================
-MASK HARDWARE TRAVEL / HAIR / FACE DEPTH — NON-NEGOTIABLE
+VERTICAL HEIGHT MAP
 ==================================================
 
-A hand over the face is NOT proof.
-- same mask body size/shape/attachment points
-- real usable finger grip
-- mask physically travels upward/back while remaining attached
-- straps/hardware move only as construction permits
-- no clipping through chin/nose/hair/ears/hand/head
-- long low-tied hair stays one coherent mass/tie, never duplicates or changes to bun/short hair
-- full-cover mask seats at canonical lower-face location
-- actual securing/settling point readable
-- ONLY then `TCHK`
-- hand may release after secure state
+Approximate story-art allocation:
+- V81 screens exchange: 18%
+- V82 chopsticks rest + same-hand mask reseat: 42% — LARGEST
+- V83 name question: 14%
+- V84 canonical name reveal: 26%
 
-Do not expose or invent unmasked lower face to show speaking/emotion.
+V82 must visibly prove every physical state change.
 
 ==================================================
-TATTOO / CLOTHING / MATERIAL CONTINUITY — ABSOLUTE
+V81 — `YOU'RE THE ONE IN THE SCREENS?` — FULL BLUEPRINT
 ==================================================
 
-Tattoo map remains on exposed skin only. Sleeveless top cannot shift to cover/uncover different tattoo regions without body/clothing movement.
-Reverse shot may change screen side but NOT anatomical tattoo side.
-Mask/top/hair/tattoo remain matte; no glossy mask, luminous tattoo circuitry or wet-looking hair introduced for reveal drama.
+CAMERA:
+- same entrance↔table axis
+- medium two-shot/reverse pair preserving exact physical sides
 
-==================================================
-CONVERSATION AXIS / SPEAKING LOGIC — ABSOLUTE
-==================================================
-
-Continue SAME entrance↔table axis.
-V81 Nari speaks then Hyun-woo responds.
-V83 Nari speaks.
-V84 Hyun-woo speaks while mask remains fully seated; do not reveal/move lower face to indicate speech.
-Do not make listener mouth another character's line. V84 eye/upper-face acting must remain same canonical Hyun-woo face.
-
-==================================================
-REFLECTION / SHADOW / FACE-REVEAL DISCIPLINE — ABSOLUTE
-==================================================
-
-No lower-face reveal through reflection/shadow/duplicate face. No reflected duplicate person. Candle shadows remain small and real. V84 is actual seated Hyun-woo, not reflection/title-card silhouette.
-
-==================================================
-DINING / NARI STATE — ABSOLUTE
-==================================================
-
-Keep Strip 017 world-space scale/depth/topology, pot/cloth/candle/wrapper/pantry/packet/chair positions.
-Nari zero steps; knife low SAME KNIFE HAND; beauty mark/hair/worn state unchanged.
-
-==================================================
-SAME-BODY / SAME-OBJECT INSERTS — ABSOLUTE
-==================================================
-
-Chopsticks/pot/mask/hardware/hand/tattoo details are SAME physical states. A close-up cannot create a second mask, extra hand/arm, alternate tattoo pattern or incompatible hair construction.
-
-==================================================
-VERTICAL STORY FLOW
-==================================================
-
-V81
 NARI:
 `YOU'RE THE ONE IN THE SCREENS?`
+
 HYUN-WOO:
 `SOME OF THEM.`
 
+POSE:
+- Nari zero steps, knife low
+- Hyun-woo seated; chopsticks still same hand
+- mask remains same eating configuration
+
+END:
+- no object movement yet
+
 SMALL BLACK GUTTER.
 
-V82 — REST CHOPSTICKS / SAME-HAND MASK RESEAT
-Execute exact hand-continuity and mask-travel chain. After full secure state:
+==================================================
+V82 — CHOPSTICKS REST → SAME-HAND MASK RESEAT — FULL BLUEPRINT
+==================================================
+
+A. CHOPSTICKS START
+- SAME pair in SAME tattooed hand/arm
+- any remaining visible noodle resolves before rest
+
+B. REST
+1. same hand moves chopsticks toward SAME pot rest/support
+2. both sticks make real support contact
+3. hand releases BOTH
+4. chopsticks remain fixed together at one pot-rest position
+5. hand is visibly empty
+
+C. SAME-HAND TRAVEL
+- SAME empty hand/forearm/arm moves through open space toward SAME mask
+- remains connected to SAME anatomical tattoo side/shoulder/body
+- no extra hand appears
+
+D. MASK CONTACT
+- fingers grip actual mask edge/hardware
+- same mask body/straps remain attached
+
+E. RESEAT
+- SAME mask physically travels along real attached path into full canonical lower-face position
+- no clipping through chin/nose/hair/ears/hand
+- no full lower-face reveal staged for drama
+- straps/hardware settle correctly
+
+F. SECURE RESULT
+ONLY AFTER full seating:
 `TCHK`
 
+Then hand may release.
+
+END:
+- chopsticks fixed pot rest
+- mask fully secured
+- same seated body
+
+REJECT IF:
+- different hand performs mask action
+- chopsticks still in hand after release
+- mask teleports
+- mask becomes new object/design
+- `TCHK` before seating
+
 SMALL BLACK GUTTER.
 
-V83
+==================================================
+V83 — NAME QUESTION — FULL BLUEPRINT
+==================================================
+
+CAMERA:
+- Nari-focused medium view with Hyun-woo/table anchor
+
 NARI:
 `THEN WHO ARE YOU?`
 
-SMALL BLACK GUTTER / REVEAL DELAY.
+POSE:
+- same stopped stance/knife-low state
+- no step
 
-V84 — CANONICAL REVEAL
-Same seated position/axis, same broad build, long low-tied black hair, SAME tattoo map, fully seated canonical technical mask, canonical upper face/eyes.
+HYUN-WOO:
+- listens, mask fully seated
+
+END:
+- reveal beat prepared
+
+SMALL BLACK GUTTER / PURPOSEFUL REVEAL DELAY.
+
+==================================================
+V84 — CANONICAL HYUN-WOO REVEAL — FULL BLUEPRINT
+==================================================
+
+CAMERA:
+- medium/portrait seated Hyun-woo in SAME chair/world position
+- enough table/candle/environment anchor to prove this is not a title-card portrait
+- ordinary perspective, no hero-lens distortion
+
+MANDATORY CURRENT CANON:
+- broad powerful seated build
+- long BLACK hair tied LOW
+- same upper face/eyes
+- fully seated matte-black technical lower-face mask
+- same tattoo map on exposed neck/collarbone/shoulder/arms
+- same sleeveless black top/dark trousers
+- matte materials
+
 HYUN-WOO:
 `HYUN-WOO.`
 
+PERFORMANCE:
+- calm guarded introduction
+- no villain grin/romance pose
+
+END / SEAM:
+Strip 019 inherits same chair/positions, secured mask, chopsticks pot rest, Nari knife/stop state.
+
 ==================================================
-SEAM
+EXACT TEXT ONLY
 ==================================================
 
-Strip 019 inherits same positions/axis, chopstick rest, secured mask, exact tattoo/hair/body identity and Nari identity/worn/knife state.
+`YOU'RE THE ONE IN THE SCREENS?`
+`SOME OF THEM.`
+`TCHK`
+`THEN WHO ARE YOU?`
+`HYUN-WOO.`
 
-AUTOMATIC REJECT IF
-- production/temp-state label appears
-- Nari beauty mark/hair/body identity drifts
-- Hyun-woo build/hair/mask/tattoo identity changes or tattoos mirror/migrate/glow
-- chopstick hand and mask hand are different anatomical hands without transfer, extra hand/forearm appears, or hand cannot connect to same tattooed arm/body
-- extra/missing/duplicated limb/ear/hair tail appears
-- chopsticks float/duplicate/remain in hand after release
-- mask action is only hand-over-face overlap
-- mask/straps/hardware teleport/duplicate/detach/reverse/clip
-- lower face is exposed to show speech or via reflection/shadow
-- dialogue acting/balloons swap ownership
-- TCHK before actual seating
-- dining topology changes
-- character materials become glossy/neon/cinematic
-- text hides mask/hand/tattoo mechanics
-- invented narration/title card
-- black separator missing/oversized
+No extra readable text.
+
+==================================================
+STATE LEDGER
+==================================================
+
+NARI:
+same stopped entrance mark, knife low, current canonical identity throughout.
+
+HYUN-WOO:
+same seated body throughout.
+
+CHOPSTICKS:
+hand → real pot-rest contact/release V82 → fixed pot rest end.
+
+MASK:
+attached eating configuration → SAME hand reseat → fully canonical secured state.
+
+DINING:
+all pot/candle/wrapper/packet/chair states unchanged.
+
+==================================================
+FINAL REJECT
+==================================================
+
+Reject if:
+- production labels render
+- retired Nari design returns
+- Hyun-woo build/hair/mask/tattoo identity drifts
+- different/extra hand performs mask action
+- chopsticks duplicate/float/remain in hand
+- mask teleports/clips/redesigns
+- clean lower face exposed for speech/reveal
+- dialogue ownership swaps
+- room/dining scale changes
+- Nari moves/knife changes hand
+- glossy/neon/cinematic/photoreal/3D style appears
+- text hides mask/hand mechanics
+- gutters missing/oversized
+- dead bottom appears
 ```
 
-## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Character-References/hyunwoo-canonical-flat2d.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-5. `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
-6. `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
-7. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-8. APPROVED Strip 017
-9. this Strip 018 prompt
+## Production Thread Attachments — EXACT SET
+
+1. `nari-canonical-flat2d.webp`
+2. `hyunwoo-canonical-flat2d.webp`
+3. `unit-2407-floor-plan-reference.webp`
+4. `unit-2407-living-to-kitchen-wide-reference.webp`
+5. `unit-2407-kitchen-to-living-wide-reference.webp`
+6. `unit-2407-fridge-cabinet-zone-detail-reference.webp`
+7. `unit-2407-lighting-state-sheet-reference.webp`
+8. `unit-2407-room-angle-atlas-reference.webp`
+9. APPROVED rendered Strip 017 image
