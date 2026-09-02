@@ -96,6 +96,21 @@ For BOTH speaker V26 and TV V29:
 10. disconnected state persists
 
 ==================================================
+PLUG GRIP / FINGER ERGONOMICS — NON-NEGOTIABLE
+==================================================
+
+Nari must unplug the speaker/TV using a mechanically usable hand grip.
+- fingers/thumb visibly contact opposite sides/usable surfaces of the PLUG BODY
+- fingers do not grip exposed metal prongs
+- fingers do not pinch a random mid-cable section
+- plug body does not pass through or fuse with fingers
+- wrist/hand angle must be reachable from her actual crouch/standing position
+- if outlet is tight behind furniture, recompose camera/body approach; do not stretch fingers through TV stand/wall/furniture
+- after plug clears socket, prongs/plug orientation may rotate naturally with gravity but plug identity remains same
+
+A hand silhouette merely drawn over the plug is not proof of a real grip.
+
+==================================================
 CORD / PLUG GRAVITY / ROUTING — NON-NEGOTIABLE
 ==================================================
 
@@ -117,6 +132,25 @@ TV:
 
 The loose plug/socket proof must be readable WITHOUT drawing physically impossible cord geometry.
 If the canonical camera makes this impossible, recompose camera—not cord, TV, stand, wall, or socket.
+
+==================================================
+TV DEVICE-TEXT PLANE — ABSOLUTE
+==================================================
+
+`YOUR PATCH NOTES ARE TOO LONG.` is DEVICE TEXT physically displayed on the SAME TV screen.
+- text stays entirely inside the TV image area/bezel
+- if TV is shown obliquely, text follows the same screen-plane perspective instead of floating perfectly front-facing over the room
+- text does not cross bezel/stand/wall or become a speech balloon/narration card
+- a screen close-up may make the text front-readable, but it is a representational view of the SAME TV, not a second screen floating in world space
+- after camera leaves the screen, do not leave detached floating text behind
+
+==================================================
+REFLECTION / FALSE-FIGURE BAN — ABSOLUTE
+==================================================
+
+The matte TV screen, windows, refrigerator, counters and other surfaces must not reveal an identifiable reflected Nari duplicate, Hyun-woo, unknown person, face, hand, or silhouette.
+No reflected human is story evidence here. If a faint environmental sheen is necessary, keep it non-figurative and subordinate.
+Do not invent a spooky shadow figure around the TV proof.
 
 ==================================================
 SAME-OBJECT PROOF / NO DUPLICATE PLUG OR TV — ABSOLUTE
@@ -145,6 +179,14 @@ V27→V28 Nari remains away from TV outlet.
 V28→V29 visibly traverse canonical route.
 V29 crouch/reach anatomically plausible; hand reaches wall plug without passing through TV stand/wall/furniture.
 V29→V30 SAME crouched story-world position.
+
+==================================================
+AUDIO / EYE-LINE CONTINUITY — ABSOLUTE
+==================================================
+
+V26 Nari's question remains oriented toward the actual speaker story-world location.
+V28 Nari's head/eyes turn toward the real TV location when it activates. V29 route begins from that real sightline.
+A reverse camera may flip screen-left/right but cannot make her look toward a wrong wall while the TV/speaker source is elsewhere.
 
 ==================================================
 TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
@@ -207,7 +249,7 @@ SMALL BLACK GUTTER.
 V28 — TV ACTIVATION
 SFX at TV:
 `CLICK`
-TV DEVICE TEXT, clean helpful styling:
+TV DEVICE TEXT, clean helpful styling on the actual TV screen plane:
 `YOUR PATCH NOTES ARE TOO LONG.`
 Nari remains away from outlet.
 
@@ -244,16 +286,18 @@ AUTOMATIC REJECT IF
 - speaker hidden early or replugged
 - speaker/TV cord detached from appliance body
 - cable pulled instead of plug body
-- hand only visually overlaps plug with no readable grip
+- fingers grip plug prongs/cable, fuse with plug, or hand only overlaps plug with no usable grip
 - outlet moved/reinvented against canon
 - loose plug floats, cord clips through wall/stand/counter/cabinet/TV/furniture, or slack/length changes impossibly
 - TV plug/cord duplicates or appliance-side origin flips
+- TV device text floats off/crosses screen plane/bezel or becomes narration/speech
+- reflected/shadow duplicate person/figure appears
 - same-object detail creates incompatible inserted/loose states
 - silent replug
 - Nari silently stands before Strip 007
 - TV helpful text hostile
 - fridge hostile text early
-- Nari teleports
+- Nari teleports or looks toward wrong source
 - text hides plug/cord proof
 - black separators missing
 - giant dead bottom appears
