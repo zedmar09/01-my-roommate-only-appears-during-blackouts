@@ -40,14 +40,14 @@ ALLOWED CHANGES:
 - V119 call from same spot, no move
 - V120 Nari walks table→desk avoiding evidence, picks SAME phone; pickup hand becomes PHONE HAND
 - walks desk→entry
-- OTHER free hand performs a CLOSED-DOOR latch/handle test `TUG` without opening door, unlatching it, changing hinge position, or crossing threshold
+- OTHER free hand performs CLOSED-DOOR latch/handle test `TUG` without opening/unlatching/crossing threshold
 - V121 smart-lock history
 - V122 camera archive on SAME phone
 - V123 security call; PHONE HAND holds same phone
 
 END:
 - Nari entry-side, phone PHONE HAND
-- front door remains CLOSED/LATCHED after test
+- front door remains CLOSED/LATCHED
 - key tray untouched
 - evidence/TV state unchanged
 
@@ -56,71 +56,79 @@ ROUTE / FLOOR EVIDENCE — ABSOLUTE
 ==================================================
 
 V119 starts exact V118 position. Only after `HYUN-WOO?` Nari moves.
-Route table→desk→entry must avoid:
-- knife floor point/orientation
-- packet floor point
-- pushed chair/table
-No foot kicks/covers/moves evidence.
+Route table→desk→entry avoids knife floor point, packet floor point, pushed chair/table. No foot kicks/covers/moves evidence.
+At desk, PHONE HAND visibly grips/lifts SAME phone; old desk phone spot empty.
 
-At desk, PHONE HAND visibly grips/lifts SAME phone; old desk phone spot becomes empty.
+==================================================
+PHONE GRIP / PHONE HAND — NON-NEGOTIABLE
+==================================================
+
+PHONE HAND uses a believable phone grip:
+- palm/fingers support SAME phone body/edges
+- fingers do not pass through screen/body
+- phone does not float against fingertips
+- reverse shots cannot silently switch anatomical hand
+- same hand retains phone through smart-lock/archive/security sequence
+
+Other/free hand handles door/smart-lock hardware only.
 
 ==================================================
 CLOSED-DOOR LATCH TEST — NON-NEGOTIABLE
 ==================================================
 
-The evidence claim is `THE DOOR NEVER OPENED.` The test itself must not accidentally create an opening.
-
-Preserve SAME front door construction:
-- same hinge side
-- same handle/smart-lock side
-- same closed plane/frame relationship
-- same latch edge
-
-V120 latch test:
-1. Nari arrives entry with phone still in PHONE HAND
-2. free hand reaches actual door handle/latch hardware
-3. fingers visibly grip/contact handle/door hardware
-4. she applies one restrained pull/tug against the CLOSED/LATCHED door
-5. `TUG` occurs at handle/door resistance
-6. door may show tiny physically plausible handle/leaf tension but does NOT create a passable opening
-7. latch remains engaged; door edge remains seated in frame
-8. Nari releases hardware
-9. front door remains fully CLOSED/LATCHED through V121–V123
-
-Do NOT open the door, crack it wide, disengage latch, step into corridor, or show door ajar after `TUG`.
-The test is checking evidence, not entering/exiting.
+Preserve SAME hinge side, handle/smart-lock side, closed plane/frame and latch edge.
+V120: free hand contacts real usable handle/hardware, fingers form a real grip, one restrained pull `TUG`, door remains closed/latch engaged, then hand releases.
+A hand pasted onto door panel without usable handle contact is not proof.
 
 ==================================================
-SMART-LOCK / DOOR ORIENTATION — ABSOLUTE
+SMART-LOCK / PHONE PHYSICAL TEXT-PLANE LOCK — NON-NEGOTIABLE
 ==================================================
 
-Reverse shots cannot flip hinge/handle/smart-lock side or move the display to another door edge. Smart-lock insert is SAME device on SAME closed door.
+SMART LOCK V121:
+- `ENTRY HISTORY` and `YOON NARI — LAST ENTRY` exist only on the SAME actual smart-lock display
+- text stays inside display boundary and follows device-plane perspective
+- it does not float over door/wall or become narration
+
+PHONE V122:
+- archive text `12:43 A.M. — RECORDING LOST` and `VIDEO RESUMED AFTER OUTAGE` exists only inside SAME phone screen
+- timestamps/content follow screen plane/perspective
+- a readable close-up is representational SAME phone, not a floating archive card/second device
+- corridor footage exists as screen content only; it is not a second physical corridor scene overlaid in the room
+
+PHONE V123:
+- security call UI/audio remains same phone; no second phone or floating call panel
 
 ==================================================
-PHONE HAND / SAME-OBJECT — ABSOLUTE
+EYE-LINE / EVIDENCE TARGET CONTINUITY — ABSOLUTE
 ==================================================
 
-PHONE HAND remains same anatomical hand through Strip027/early 028.
-Phone archive/call close-ups are SAME phone, not second device.
-Other hand handles latch/smart-lock only.
+Nari's gaze follows actual targets:
+- V119 exact former Hyun-woo position
+- V120 desk phone, then front-door hardware
+- V121 actual smart-lock display on SAME door
+- V122 SAME phone screen in PHONE HAND
+- V123 SAME phone during call
+
+Reverse shots may flip screen direction but cannot make her look toward wrong wall/device or move smart lock/door to opposite physical side.
+
+==================================================
+REFLECTION / FALSE-FIGURE BAN — ABSOLUTE
+==================================================
+
+Smart-lock screen, phone, TV, windows/glass may not show reflected Hyun-woo, Nari duplicate, intruder silhouette, face/hand or unknown figure.
+Archive resumed corridor must be EMPTY as actual phone-screen content. No reflected human is allowed to fake evidence.
 
 ==================================================
 EVIDENCE / SCALE / DEPTH — ABSOLUTE
 ==================================================
 
-Knife/packet/chair/candle/pot/table retain world-space scale, depth and location. Power return does not clean them.
-TV retains canonical scale and wall-unplugged state; cord obeys gravity/no-clipping.
+Knife/packet/chair/candle/pot/table retain world-space scale/depth/location. TV retains canonical scale/wall-unplug state; cord obeys gravity/no-clipping.
 
 ==================================================
 TEXT / DEVICE EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Text/`TUG` must not cover:
-- door-handle/latch contact and closed-door edge/frame proof
-- phone pickup
-- smart-lock display
-- archive ownership on phone
-- route obstacles when shown
+Text/`TUG` must not cover door-handle/latch grip and closed-door edge, phone pickup/grip, smart-lock display, archive ownership or route obstacles.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -134,7 +142,7 @@ No movement.
 SMALL BLACK GUTTER.
 
 V120 — ROUTE / PHONE / CLOSED-DOOR TEST
-Walk around evidence → desk → PHONE HAND pickup → entry → free-hand closed-door latch test.
+Walk around evidence → desk → PHONE HAND pickup → entry → real free-hand closed-door latch test.
 SFX:
 `TUG`
 Door remains closed/latched.
@@ -142,7 +150,7 @@ Door remains closed/latched.
 SMALL BLACK GUTTER.
 
 V121 — SMART LOCK
-SMART-LOCK:
+SMART-LOCK DEVICE TEXT on actual display:
 `ENTRY HISTORY`
 `YOON NARI — LAST ENTRY`
 NARI:
@@ -151,12 +159,12 @@ NARI:
 SMALL BLACK GUTTER.
 
 V122 — PHONE ARCHIVE
-PHONE:
+PHONE SCREEN:
 `12:43 A.M. — RECORDING LOST`
 `VIDEO RESUMED AFTER OUTAGE`
 NARI:
 `AND THE CAMERA MISSED THE WHOLE THING.`
-Archive resumed corridor EMPTY. No Hyunwoo/reflection/person.
+Archive resumed corridor EMPTY.
 
 SMALL BLACK GUTTER.
 
@@ -172,20 +180,20 @@ SECURITY:
 SEAM
 ==================================================
 
-Strip027 starts same entry orientation, same PHONE HAND, SAME front door CLOSED/LATCHED, evidence unchanged.
+Strip027 starts same entry orientation, same PHONE HAND, SAME closed/latched door, evidence unchanged.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - geometry/orientation drifts
 - Nari route crosses/moves evidence
-- phone teleports/duplicates/switches hand
-- front door opens/unlatches/becomes ajar during `TUG`
+- phone grip impossible/floating/fused, phone duplicates/switches hand
+- front door opens/unlatches or latch contact is fake overlap
 - door hinge/handle/smart-lock side flips
-- latch contact hidden or fake overlap
-- key moves
-- evidence resets
-- archive shows person/reflection
-- timestamps float outside phone
+- smart-lock/phone text floats off physical screen plane or becomes narration/floating UI
+- Nari eyeline points to wrong target
+- reflected/shadow person/intruder/Hyunwoo appears on phone/smart-lock/TV/window
+- key/evidence resets
+- archive timestamps float outside phone
 - text hides latch/phone proof
 ```
 
