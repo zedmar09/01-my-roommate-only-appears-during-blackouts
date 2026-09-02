@@ -17,167 +17,174 @@ ATTACH — REQUIRED
 - this Strip 010 prompt
 
 ==================================================
-REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
 Attached canonical WebPs are permanent authority. APPROVED Strip 009 controls temporary tablet/note/pen/phone state only; correct permanent drift to canon rather than propagating it.
-Preserve exact Nari identity, tablet, binder body/cover/spine/rings/pages/scale, exact note/pen state, desk/counter/hallway geometry, and south-wall relationship.
-Never render V46–V50, P6, Strip 010, beat/panel/scene/sub-step labels, or production metadata anywhere, especially top-left.
+Preserve Nari identity, tablet, binder body/cover/spine/rings/pages/scale, exact note/pen state, desk/counter/hallway geometry and south-wall relationship.
+Never render V46–V50, P6, Strip010, sub-step labels or production metadata.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
 START:
-- SAME tablet = desk frozen/restarting
-- SAME note + exact supernatural reply = fixed kitchen/toaster surface
-- SAME pen = exact V40 rest position
-- SAME phone = separate clear spot beside note/pen
+- SAME tablet desk frozen/restarting
+- SAME note + exact supernatural reply fixed surface
+- SAME pen exact V40 rest position
+- SAME phone separate clear spot beside note/pen
 - hidden speaker exact closed stack
-- fruit knife under sofa; brass key entry tray
-- SAME canonical binder = kitchen counter, CLOSED at canonical orientation/spine/ring side
+- fruit knife under sofa; key tray
+- SAME canonical binder kitchen counter CLOSED at canonical orientation/spine/ring side
 - actual south-wall panel closed/untouched
 
 ALLOWED CHANGES:
 - V46 tablet clean helpful warning
 - V47 reaction; tablet stays desk
-- Nari physically desk→note area, picks SAME phone without disturbing paper/pen
+- Nari desk→note area, picks SAME phone without disturbing paper/pen
 - walks to binder counter, picks SAME closed binder with other hand
-- carries phone + binder to one stable inspection surface and places binder fully supported flat before opening
-- opens SAME binder around its real spine/ring construction
-- physically proves `SECTION 16` → real page advance around the bound/ring side → `SECTION 18`; no normal Section 17
+- carries phone + binder to stable inspection surface and places binder fully supported flat before opening
+- opens SAME binder around real spine/rings
+- physically proves `SECTION 16` → real page advance → `SECTION 18`; no normal Section17
 - same binder advances to south-wall diagram page
 - V50 same phone text exchange while binder surface-supported
-- phone returns surface, binder closes through same binding orientation and returns physically to kitchen counter
+- phone returns surface, binder closes and returns counter
 
 END:
-- binder closed kitchen counter at canonical orientation
+- binder closed counter canonical orientation
 - phone inspection surface
-- note/pen exact state unchanged
+- note/pen exact unchanged
 - tablet desk
-- key tray; speaker hidden; fruit knife under sofa; actual wall panel untouched
+- key tray; speaker hidden; fruit knife under sofa; wall panel untouched
+
+==================================================
+TABLET / PHONE / PAGE PHYSICAL TEXT-PLANE LOCK — NON-NEGOTIABLE
+==================================================
+
+Every in-world text element belongs to its actual physical carrier.
+
+TABLET V46:
+- `DON'T SAVE THIS DIGITALLY.` and `IT CAN SEE IT.` stay entirely inside SAME tablet screen
+- follow tablet screen plane/perspective
+- do not float as a warning card over Nari/desk/room
+
+BINDER V48/V49:
+- `SECTION 16`, `SECTION 18`, diagram labels and old handwriting belong to SAME physical binder pages
+- print/handwriting follows page orientation/perspective and cannot cross page edges/rings into room space
+- a front-readable close-up is representational SAME binder, not floating page UI
+- when a page turns, its former text does not remain floating above the new page
+
+PHONE V50:
+- text exchange stays entirely inside SAME phone screen/UI plane
+- if phone is angled, content follows the screen perspective
+- no floating chat bubbles detached from phone unless they are actual character speech, which these are not
 
 ==================================================
 NOTE / PEN NON-INTERFERENCE — ABSOLUTE
 ==================================================
 
-Nari picks up phone without moving/touching note or pen. Paper remains exact orientation/text; pen exact rest position. No second note/pen.
+Nari picks phone without touching note/pen. Paper remains exact orientation/text; pen exact rest position. Their handwriting remains on the physical paper plane and is not recreated as floating evidence graphics.
 
 ==================================================
 PHONE / TABLET / BINDER HAND OCCUPANCY — ABSOLUTE
 ==================================================
 
 1. tablet remains desk
-2. Nari picks SAME phone from clear note-area spot
+2. Nari picks SAME phone from clear note-area spot using a real palm/finger grip
 3. note/pen stay behind
 4. phone carried to binder counter
-5. other hand picks SAME CLOSED binder
-6. phone one hand; binder supported by other arm/hand
-7. at inspection surface binder is set/released FIRST and fully supported
+5. other hand picks SAME CLOSED binder with usable grip/support
+6. phone one hand; binder supported other arm/hand
+7. inspection surface: binder set/released FIRST and fully supported
 8. phone rests beside binder while pages handled
-9. V50 phone picked for text, returned
-10. binder closes and returns counter
+9. V50 phone picked with usable grip for text, then returned/released
+10. binder closes/returns counter
 
-No impossible open-binder + phone + page-turn extra-hand pose.
+No impossible open-binder + phone + page-turn extra-hand pose. Fingers may not fuse into phone/binder/rings.
 
 ==================================================
 BINDER ORIENTATION / SPINE / PAGE-TURN — NON-NEGOTIABLE
 ==================================================
 
-The canonical manual is one physical bound/ring binder. Its orientation cannot mirror between shots.
+Preserve same cover, spine/ring side, top/bottom orientation, reading direction, thickness/scale and page/tab geometry.
 
-Preserve:
-- same cover front/back
-- same spine/ring side
-- same top/bottom page orientation
-- same reading direction
-- same binder thickness/world-space scale
-- same page/tab geometry
-
-V48 proof must read as one real sequence:
-1. CLOSED binder flat on inspection surface
-2. cover physically opens around correct spine/ring side
-3. binder remains supported on same surface
-4. readable `SECTION 16`
-5. Nari fingers contact actual page edge/tab on the physically turnable side
-6. page bends/lifts and pivots around the same binding/rings; it does not slide through rings or flip from the wrong side
-7. turned page settles
-8. next relevant visible header is `SECTION 18`
-9. no normal visible `SECTION 17` page/tab
+V48 sequence:
+1. CLOSED binder flat inspection surface
+2. cover opens around correct spine/ring side
+3. binder remains surface-supported
+4. readable `SECTION 16` on actual page
+5. fingers contact real page edge/tab on turnable side
+6. page bends/lifts/pivots around same rings; no clipping through rings/hands/table/phone
+7. page settles
+8. next relevant visible header `SECTION 18`
+9. no normal Section17 page/tab
 10. only then Nari says `SECTION SEVENTEEN IS MISSING.`
 
-Reverse camera may flip screen-left/right, but the actual binder spine/rings/page-turn direction in story space do NOT switch sides.
-Do not show Section 16 and 18 as two unbound sheets, floating cards, simultaneous pages, or mirrored binder copies.
+Reverse camera cannot switch spine/ring/page-turn direction.
 
 ==================================================
-BINDER SCALE / SUPPORT / NO-CLIPPING — ABSOLUTE
+CAMERA AXIS / EYE-LINE / EVIDENCE GAZE — ABSOLUTE
 ==================================================
 
-Binder retains canonical dimensions/thickness.
-It lies on a real inspection surface large enough to support it; no floating edge unless ordinary slight overhang is physically plausible and noncritical.
-Pages do not pass through Nari's hands, rings, table, phone, or each other.
-Phone and binder do not occupy same solid area on the inspection surface.
-The binder does not shrink so Nari can palm it while also using phone.
+Nari's gaze must track the real evidence in story space:
+- V46/V47 toward the actual tablet on desk
+- during route, toward phone/note then binder counter as she physically approaches them
+- V48/V49 eyes/head oriented down toward SAME binder pages while reading
+- V50 eyes alternate between SAME phone screen and binder/scene naturally; do not make her look toward an empty wall while device/page evidence is elsewhere
+
+Close-ups may omit face, but returning shots must preserve her real body location and target direction. Do not silently cross a camera axis in a way that makes the binder/phone swap physical sides on the inspection surface.
+
+==================================================
+REFLECTION / FALSE-DUPLICATE BAN — ABSOLUTE
+==================================================
+
+Tablet/phone screens, binder glossy hardware, windows/appliances may not show a reflected duplicate Nari, Mrs. Na, Hyun-woo, unknown face/hand, second phone/binder/note, or supernatural silhouette.
+This sequence's supernatural information comes from text/evidence only.
 
 ==================================================
 V48 MULTI-SLICE PHYSICAL ROUTE — MANDATORY
 ==================================================
 
-Use multiple immediately consecutive UNLABELED visual sub-slices:
-A. desk→note movement; tablet remains desk
-B. hand picks phone; note/pen untouched
-C. counter: other hand picks SAME closed binder; old counter position empty
-D. inspection surface: binder set/released; phone placed beside it
-E. cover opens around correct binding; `SECTION 16`
-F. finger/page-edge contact and real page turn
-G. `SECTION 18`; no Section 17
-H. only after proof: `SECTION SEVENTEEN IS MISSING.`
-
-Never render A/B/H labels.
+Use unlabeled consecutive sub-slices:
+A desk→note movement; tablet remains desk
+B hand picks phone; note/pen untouched
+C counter: other hand picks SAME binder
+D inspection surface: binder set/released; phone beside it
+E cover opens; actual page `SECTION 16`
+F finger/page-edge contact and real page turn
+G actual page `SECTION 18`; no Section17
+H only after proof spoken line
+Never render A/B/H.
 
 ==================================================
 SAME-OBJECT CLOSE-UP / NO DUPLICATION — ABSOLUTE
 ==================================================
 
-Tablet, phone, binder cover/page, south-wall diagram, note/pen inserts are SAME physical objects.
-A same-moment wide cannot show binder closed elsewhere while page close-up shows it open. Reading order advances state once: closed→open→Section16→page turn→Section18→diagram→closed→counter.
+Tablet, phone, binder cover/page, diagram, note/pen inserts are SAME physical objects. Same-moment wide/detail states agree.
 
 ==================================================
-TEXT / BALLOON / DEVICE EVIDENCE SAFETY — ABSOLUTE
+TEXT / EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Text must not cover:
-- phone pickup
-- exact note/pen state
-- binder support/spine/rings
-- page-edge contact/page turn
-- Section16/18 headers
-- south-wall handwriting
-- phone/binder return actions
+Text must not cover phone pickup, note/pen state, binder support/spine/rings, page-edge contact/page turn, Section16/18 headers, south-wall handwriting, phone/binder return actions.
 
 ==================================================
 TEXT TYPES — ABSOLUTE
 ==================================================
 
 No narration.
-- tablet warning = clean device text
-- binder sections = physical print
-- south-wall warning = physical handwriting
-- phone exchange = phone UI
+- tablet warning = tablet screen device text
+- binder sections = physical page print
+- south-wall warning = physical handwriting on binder page
+- phone exchange = phone screen UI
 - Nari line = speech
-
-==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
-==================================================
-
-SMALL BLACK GUTTER between beats and V48/V50 action sub-slices. DIAGONAL BLACK DIVIDER for separate shots sharing a row. No reader-visible sub-step labels.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
 V46 — TABLET WARNING
-TABLET:
+TABLET SCREEN:
 `DON'T SAVE THIS DIGITALLY.`
 `IT CAN SEE IT.`
 
@@ -192,10 +199,10 @@ SMALL BLACK GUTTER.
 
 V48 — PHONE + BINDER + PHYSICAL SECTION PROOF
 Execute exact route/orientation/page-turn proof.
-Visible page text:
+Visible physical page text:
 `SECTION 16`
 `SECTION 18`
-NARI only after physical proof:
+NARI only after proof:
 `SECTION SEVENTEEN IS MISSING.`
 
 SMALL BLACK GUTTER.
@@ -208,7 +215,7 @@ Actual south-wall panel stays closed.
 SMALL BLACK GUTTER.
 
 V50 — PHONE TEXT EXCHANGE + BINDER RETURN
-NARI TEXT:
+NARI TEXT on SAME phone:
 `THE TV STAYED ON AFTER I UNPLUGGED IT. WHAT IS IN UNIT 2407?`
 MRS. NA TEXT:
 `KEEP THE HALLWAY LAMP ON.`
@@ -217,45 +224,30 @@ MRS. NA TEXT:
 MRS. NA TEXT:
 `WE'LL TALK IN PERSON.`
 
-After exchange:
-1. phone contacts inspection surface and is released
-2. binder physically closes around same spine/rings
-3. Nari grips/lifts closed binder only
-4. walks to kitchen counter
-5. binder contacts counter and is released at canonical orientation
+After exchange phone contacts/release on surface; binder closes around same spine/rings; Nari returns binder counter.
 
 ==================================================
-END STATE
+SEAM
 ==================================================
 
-- binder closed counter
-- phone inspection surface
-- note/pen exact paper-test state
-- key tray
-- speaker hidden exact stack
-- fruit knife under sofa
-- wall panel closed
-- tablet desk
-
-NO DEAD BOTTOM — ABSOLUTE
-Use binder-return action composition to bottom.
-
-SEAM OUT — G / TIME CUT
-Strip 011 later that day. Note/pen remain evidence; phone may receive ordinary new state after legal cut if needed.
+Strip011 later that day. Note/pen remain evidence; binder closed counter; phone inspection surface.
 
 AUTOMATIC REJECT IF
-- any production label appears
-- binder geometry/spine/ring side/page orientation mirrors or changes
-- binder/phone scale changes unrealistically
-- binder floats, pages clip through rings/table/hands/phone, or page turns from impossible side
+- production label appears
+- binder geometry/spine/ring/page orientation mirrors/changes
+- tablet/phone/binder text floats off its physical carrier plane, ignores perspective/boundaries, or becomes narration/speech
+- page text remains floating after page turn
+- phone/binder scale/grip impossible or fingers clip/fuse
 - duplicate binder/phone/tablet/note/pen appears
 - note/pen move during phone pickup
-- V48 collapses and skips mechanism
-- Section16/18 floating/unbound/simultaneous instead of real page sequence
+- V48 collapses/skips mechanism
+- Section16/18 shown as floating cards/unbound simultaneous sheets
 - normal Section17 appears
 - actual wall panel opens
+- reflected/shadow duplicate figure/object appears
+- Nari eyeline points to wrong target or inspection-surface sides swap without movement
 - text hides binding/page/contact proof
-- Mrs. Na physical appears
+- physical Mrs. Na appears
 - black dividers missing/oversized
 - giant dead bottom appears
 ```
