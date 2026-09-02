@@ -2,9 +2,9 @@
 
 This is the active production package for Chapter 1.
 
-Current prompt/reference status: **FIFTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+Current prompt/reference status: **SIXTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
 
-The current Strip 001–032 package has been clean-room re-audited five times under `manhwa-2d-production-auditor`. Earlier PASS labels and earlier problematic renders are not accepted as current proof.
+The current Strip 001–032 package has been clean-room re-audited six times under `manhwa-2d-production-auditor`. The fifth PASS was not accepted as proof; after sixth repairs the full current Strip 001→032 package was re-read again before the sixth status was assigned. Earlier problematic renders remain rejected.
 
 ## Chapter Shape
 
@@ -13,9 +13,9 @@ The current Strip 001–032 package has been clean-room re-audited five times un
 - 32 technical production strips (`001–032`)
 - no reader-visible beat/strip/page numbering
 - begins with Nari moving into Unit 2407
-- ends with the visibly unplugged TV displaying `NEW TENANT CONFIRMED` while Unit 2407 remains powered
+- ends with the visibly wall-unplugged TV displaying `NEW TENANT CONFIRMED` while Unit 2407 remains powered
 
-Historical P001–P018 mapping is retained only as story shorthand. There is no active page-grid production dependency.
+Historical P001–P018 mapping is story shorthand only. There is no active page-grid dependency.
 
 ## Approved Reusable Visual Authorities
 
@@ -29,7 +29,7 @@ Historical P001–P018 mapping is retained only as story shorthand. There is no 
 - `../../Environment-References/Unit-2407/`
 - `../../Environment-References/Building-Shared-Areas/`
 
-Every strip must attach the exact `.webp` filenames listed in its own prompt; directory names alone are not sufficient in a production thread.
+Each strip must attach the exact `.webp` filenames listed in its own prompt.
 
 ### Object WebPs
 - `../../Object-References/smart-speaker-canonical-reference.webp`
@@ -38,25 +38,22 @@ Every strip must attach the exact `.webp` filenames listed in its own prompt; di
 - `../../Object-References/electrical-operation-guide-canonical-reference.webp`
 - `../../Object-References/brass-backup-key-canonical-reference.webp`
 
-These references are reusable across later chapters whenever the same location/object returns. Do not create chapter-numbered duplicates.
-
-Image/reference prompts may still generate PNG first locally. The repository production authority after approval is the manually converted WebP.
+Reference prompts may still generate PNG first locally. After approval the manually converted WebP is repository production authority.
 
 ## Production Authority
 
-Story/current-strip authority for this chapter:
 1. current user instruction
 2. `chapter-01-continuous-scroll-plan.md`
 3. `chapter-01-strip-manifest.md`
 4. current `Production-Strips/strip-###-...md`
 5. current approved character WebPs
-6. approved reusable environment/object WebPs
+6. approved environment/object WebPs
 7. previous approved rendered strip for temporary state/seam continuity only
 8. canon-compatible derived micro-detail for chapter continuity only
 
-Previous strip and derived micro-detail never override permanent canonical WebPs.
+Previous strip and derived detail never override permanent canonical WebPs.
 
-The following global production rules are **always binding on every Chapter 1 strip**, even when an individual strip attachment list does not repeat them:
+Always-binding global rules:
 - `../../style-guide.md`
 - `../../lettering-sfx-guide.md`
 - `../../seam-continuity-protocol.md`
@@ -64,66 +61,100 @@ The following global production rules are **always binding on every Chapter 1 st
 - `../../generation-workflow.md`
 - `../../production-readiness-gate.md`
 
-A strip may make these rules stricter but may never loosen them.
+A strip may be stricter but never looser.
 
-The Chapter 1 Manhwa files are self-contained authority for dialogue, narration, SFX, device text, prop state, event order, movement, power logic, and supernatural rules.
+## Sixth-Pass Production Locks
 
-## Fifth-Pass Production Locks
+The current package blocks all earlier failure classes plus the following sixth-pass classes:
 
-The current package additionally blocks:
-- close-up/inset views creating duplicate physical objects or incompatible same-moment states
-- reader text/SFX hiding continuity-critical physical action proof
-- legal time cuts erasing story-critical evidence
-- contradictory physical alternatives for one action
-- reverse-shot hand/foot/wrist/shoulder/pocket side swaps
-- worn accessories disappearing or switching body location without visible action
-- unexplained source/route for paper, pen, phone, packet, chopsticks, knife, notebook, or other recurring evidence
-- floor routes disturbing persistent packet/knife evidence
-- derived outlet/storage details overriding canonical environment geometry
-- final table props overlapping/resetting when notebook/pen are introduced
+### Orientation / Mechanics
+- front door hinge/handle/smart-lock side cannot flip
+- cabinet hinge/handle/open direction cannot flip
+- building entrance/elevator door mechanism cannot change
+- binder spine/rings/page-turn direction cannot mirror
+- knife blade/sheath-mouth axis cannot reverse
+- pot handle/cloth side, chair front/back and appliance cord-origin side remain stable
 
-Production-only temporary names such as `KNIFE HAND`, `PHONE HAND`, `SCRUNCHIE WRIST`, `STEP FOOT`, `CANDLE FOOT`, `BAG SHOULDER`, `PHONE POCKET`, and `NOTEBOOK ZONE` are audit instructions only and must never appear in reader-facing art.
+### Stable World-Space Scale / Fit
+- close-up magnification never changes story-world size
+- speaker/towels/cord/lid must physically fit the real stockpot/cabinet
+- flashlight/radio/sheathed knife must fit the real emergency tray
+- notebook remains true A5-like footprint inside NOTEBOOK ZONE
+- TV/table/chairs/pots/phones/tablets/keys/packets/candle retain stable scale
+
+### Real Depth / Contact
+- 2D overlap alone is not grip/contact
+- seated bodies align actual chairs
+- mask hardware physically travels
+- wrist grip visibly wraps the wrist
+- elevator/building entry crosses real thresholds
+- Hyun-woo's protective block is true floor-plan order `refrigerator → Hyun-woo → Nari`
+
+### Gravity / No Clipping
+- loose plugs/cords have plausible slack/support
+- cords cannot pass through stands/walls/cabinets/furniture/appliances
+- towels/cloth cannot occupy the same solid volume as speaker/pot/lid/cabinet
+- knife/chopsticks/packets follow unobstructed physical paths
+- loose props rest on real support planes rather than hovering
+
+### Same-Object / Anatomical / Worn State
+Close-up/inset is the same physical object. KNIFE HAND, PHONE HAND, WRITING HAND, SCRUNCHIE WRIST, STEP FOOT, CANDLE FOOT, BAG SHOULDER, UMBRELLA HAND and PHONE POCKET remain same physical side until their scripted expiry. These labels never render.
+Nari's blackout-night scrunchie stays on the same wrist and headphones remain around her neck through the ending because no removal is scripted.
+
+### Real Evidence / Object Identity
+- exact two-stick landing configuration persists 005→006
+- STORAGE POT and NOODLE POT are two different pots from Strip029 onward
+- cabinet lid after Strip028 rests on a real referenced support plane, never an invented shelf
+- Hyun-woo absence is shown with comparable space, not merely a crop that excludes him
+- `TUG` in Strip026 leaves the front door closed/latched
+- final hero composition preserves room scale/depth rather than turning into a poster collage
+
+## Wall-Socket Rule — Absolute
+
+`UNPLUGGED` means plug BODY removed from a WALL-MOUNTED socket while the appliance-side cord remains attached.
+The same cord, loose plug and empty socket persist until an explicit re-plug.
+Cord route must remain physically continuous with believable gravity/slack and no clipping through geometry.
 
 ## Strict Flat 2D Human-Drawn Style — Absolute
 
-Every Chapter 1 canonical, strip, repair, and stitched output must visibly comply with `../../style-guide.md`:
-- strict flat 2D human-drawn Korean manhwa/webtoon appearance
+Every Chapter 1 canonical, strip, repair and stitched output must visibly comply with `../../style-guide.md`:
+- strict flat 2D human-drawn Korean manhwa/webtoon
 - clean intentional line art
 - flat colors
-- restrained simple hard-edged cel shading only
-- matte characters, materials, architecture, appliances, screens, and props
+- restrained hard-edged cel shading only
+- matte skin/hair/fabrics/materials/architecture/appliances/screens
 - stable canonical anatomy/proportions and natural hands
-- no photoreal/semi-photoreal, 3D/CGI/game-render, glossy/plastic/wet, painterly, airbrushed, cinematic, depth-of-field, bloom, lens-flare, excessive rim-light, mirror-reflection, or over-rendered AI-polished drift
+- no photoreal/semi-photoreal, 3D/CGI/game-render, glossy/plastic/wet, painterly, airbrushed, cinematic, DOF, bloom, lens flare, excessive rim light, mirror-like reflection or over-rendered AI polish
 
 Prompt wording alone does not pass this gate; rendered output must be visually inspected.
 
 ## Required-Asset Blocking Rule
 
-If a strip lists a canonical WebP that is missing, stale, wrong-path, or unapproved, stop before generating the strip. Never improvise a replacement and never treat a reference-prompt Markdown file as an approved visual canonical.
+Missing/stale/wrong-path/unapproved required WebP → STOP before strip generation. Never improvise a substitute.
 
-The approved Chapter 1 character/environment/object WebPs are currently present. The next remaining production gate is sequential rendered Strip 001–032 generation and visual QA.
-
-A prompt/reference-ready chapter cannot be called `PRODUCTION COMPLETE`. Actual strip images and a stitched final chapter are required for visual style, character/object/environment consistency, lettering, dead-space, and seam approval.
+The approved Chapter 1 character/environment/object WebPs are present. The remaining gate is sequential rendered Strip 001–032 production and actual visual QA.
 
 ## Existing Approved Strip Rule
 
-A previous strip becomes continuity authority only after it passes the **current fifth-pass visual QA**. Earlier rejected/pre-fifth renders must not be attached merely because they already exist.
+A previous strip becomes continuity authority only after it passes the **current sixth-pass visual QA**. Earlier rejected/pre-sixth attempts must not be attached merely because they already exist.
 
-Previous-strip temporary state can never override permanent canonical identity, architecture, or recurring object construction.
+Previous-strip temporary state can never override permanent canonical identity, geometry, orientation, scale or recurring object construction.
 
 ## No-Dead-Space Rule
 
-Large vertical spacing must perform a real story function. Do not leave giant empty tails and do not invent filler text/SFX. Expand existing art, canonical environment, action/reaction, or atmosphere instead.
+Large vertical spacing must perform a real story function. No giant empty tails and no filler text/SFX.
 
 ## Audit Rule
 
-After every correction, re-audit the corrected scope and adjacent dependencies. After all corrections, run a fresh clean-room audit from Strip 001 through Strip 032; do not inherit earlier PASS labels without rechecking the current state.
+After every correction, re-audit corrected scope and adjacent dependencies. After all corrections, run a fresh clean-room Strip 001→032 audit; never inherit earlier PASS labels without checking current files.
 
 ## Current Next Action
 
-1. generate a brand-new Strip 001 using its current fifth-pass prompt + exact approved WebPs
+1. generate a brand-new Strip 001 using its current sixth-pass prompt + exact approved WebPs
 2. deep-audit the actual pixels against all current gates
 3. reject/fix/regenerate until Strip 001 passes
 4. only then attach that newly APPROVED Strip 001 to Strip 002
 5. continue sequentially through Strip 032
 6. stitch and run a fresh final visual clean-room audit
+
+`PRODUCTION COMPLETE` is forbidden until every rendered/stitch/final mandatory gate passes.
