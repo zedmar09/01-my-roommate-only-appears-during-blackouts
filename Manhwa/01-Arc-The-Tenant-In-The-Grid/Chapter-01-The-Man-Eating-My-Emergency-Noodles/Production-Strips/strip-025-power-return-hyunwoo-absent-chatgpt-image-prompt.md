@@ -25,7 +25,7 @@ START / ALLOWED CHANGE / END — ABSOLUTE
 START:
 - Unit fully unpowered
 - Nari same STEP FOOT/CANDLE FOOT marks, hands free, worn state unchanged
-- Hyun-woo same real protective floor position
+- Hyun-woo same real protective floor position, same tall/broad relation and guarded/protective performance from Strip 024
 - knife exact settled floor point/orientation; packet separate
 - candle out; chair/table/dining topology unchanged
 
@@ -42,6 +42,35 @@ END:
 - Hyun-woo absent
 - Nari same foot marks/worn state
 - knife/packet/chair/candle/table evidence unchanged
+
+==================================================
+FINAL DARK-CONVERSATION → ABSENCE PERFORMANCE — NON-NEGOTIABLE
+==================================================
+
+V113–V116:
+- this is still the SAME tense but controlled conversation from Strip 024
+- Nari = wary, shaken, trying to understand; NOT crying, screaming, clinging, romantic confession, rage or sudden relaxed comedy
+- Hyun-woo = guarded, calm, direct, slightly urgent because power is returning; NOT sentimental farewell melodrama, villain smirk, rage or seductive pose
+- both remain at same real floor positions; dialogue/reaction close-ups cannot reset shoulders/hips/feet or relative standing scale
+- Hyun-woo remains clearly taller/broader than Nari on the same floor plane until the moment he is absent
+
+V114 `POWER'S COMING BACK.`:
+- Hyun-woo's attention may register the return while body remains in the same protective position
+- no dramatic turn away, reaching hand, embrace, touch or step is invented
+
+V115/V116:
+- Nari's questions intensify concern but she remains stationary
+- Hyun-woo answers with controlled restraint; no smile/tear/soft-romance transformation unless the canonical subtle eye expression naturally supports seriousness
+
+V117 power snap:
+- Nari's eye-shielding is a functional reflex to the restored light, not a collapse or full-body recoil
+- arms raise from the SAME stationary body; feet/hips do not move
+- Hyun-woo's absence is instantaneous state change associated with Unit power returning; do NOT stage a farewell pose, wave, dissolve, reaching hand, silhouette or emotional final gesture
+
+V118:
+- Nari lowers arms and looks at the actual now-empty position
+- performance = stunned, unsettled realization; no screaming/crying/panic run
+- this emotional state must carry into Strip 026's quiet `HYUN-WOO?` and investigative evidence check
 
 ==================================================
 CITY POWER VS UNIT POWER — ABSOLUTE
@@ -68,26 +97,27 @@ The V116→V118 comparison must remain understandable at normal mobile reading s
 V116 must clearly establish:
 - Nari at her fixed STEP FOOT/CANDLE FOOT marks
 - Hyun-woo's actual body/feet at the known protective floor position
-- at least two persistent environment anchors that define that position, such as table edge, pushed chair, refrigerator zone, floor relation
+- his correct tall/broad world-space relation to Nari before disappearance
+- at least two persistent environment anchors that define that position
 
 V118 must clearly show:
-- SAME Nari position
+- SAME Nari position/body scale
 - SAME anchor geometry
 - SAME former Hyun-woo floor region entirely readable and EMPTY
-- knife and packet evidence still in their distinct positions where relevant to the comparison
+- knife and packet evidence still in distinct positions where relevant
 
 Do not crop the former Hyun-woo location at the canvas edge or behind Nari/balloons/furniture so the reader cannot tell whether he is absent or simply hidden.
 Do not use an extreme close-up of Nari alone as the only V118 proof.
-If needed, use an immediately adjacent wider comparison view. Keep the former Hyun-woo space safely inside the frame rather than exactly on a gutter/divider/crop boundary.
 
 ==================================================
-PERSPECTIVE / COMPARISON GEOMETRY — ABSOLUTE
+PERSPECTIVE / COMPARISON GEOMETRY / BODY SCALE — ABSOLUTE
 ==================================================
 
 Use ordinary non-fisheye perspective.
-- V116 and V118 need not be pixel-identical camera positions, but their geometry must be directly comparable without lens warping
-- do not use ultra-wide distortion in one and normal perspective in the other
-- do not enlarge/shrink Nari, chair, refrigerator, or former Hyun-woo region between comparison states
+- V116 and V118 need not be pixel-identical, but geometry must be directly comparable without lens warping
+- do not enlarge/shrink Nari, chair, refrigerator, or former Hyun-woo region between states
+- do not shrink/fade Hyun-woo before V117 as a visual hint
+- his full canonical standing scale remains physical through V116
 - floor lines/table edges should make the same world-space position recognizable
 
 ==================================================
@@ -95,56 +125,37 @@ NO AFTERIMAGE / REFLECTION / SHADOW SUBSTITUTE — ABSOLUTE
 ==================================================
 
 Hyun-woo's absence means there is NO remaining visual human trace after Unit power returns.
-Do NOT leave:
-- transparent/faded body
-- glow outline
-- afterimage
-- reflected Hyun-woo in TV/fridge/window/counter
-- Hyun-woo-shaped shadow
-- detached hair/mask silhouette
-- ghostly hand/face
-- duplicated prior-frame figure used as a transition effect
-
-V117/V118 normal powered shadows may belong only to Nari/furniture/objects physically present under the restored real lights.
-Do not leave blackout/candle-era shadow directions after the normal powered baseline returns.
-A reflection of Nari must not become a readable second Nari figure; surfaces remain matte/restrained.
+Do NOT leave transparent/faded body, glow outline, afterimage, reflection, Hyun-woo-shaped shadow, detached hair/mask silhouette, ghostly hand/face or duplicated prior-frame transition figure.
 
 ==================================================
 POWER-RETURN LIGHT / SHADOW TRANSITION — NON-NEGOTIABLE
 ==================================================
 
-V113–V116 remain the post-candle blackout state: no candle light, no normal Unit lighting, no fridge/TV room glow.
+V113–V116 remain post-candle blackout: no candle light, no normal Unit lighting, no fridge/TV room glow.
 At V117 only:
-- ordinary Unit lights return according to the attached powered-lighting baseline
-- `VZZT` belongs to that exact transition
-- Nari shields eyes because of the restored real room light
-- powered highlight/shadow directions must match the normal Unit references
+- ordinary Unit lights return according to attached powered baseline
+- `VZZT` belongs to exact transition
+- Nari shields eyes because of restored real room light
+- powered highlight/shadow directions match references
 
-V118 must retain the SAME powered baseline as V117 after the snap settles.
-Do not change the dominant powered-light direction again between V117 and V118, and do not preserve blackout-era shadow logic under powered lights.
+V118 retains SAME powered baseline. Do not preserve blackout shadow logic or invent cinematic bloom.
 
 ==================================================
-DIALOGUE CAMERA AXIS / EYE-LINE — ABSOLUTE
+DIALOGUE CAMERA AXIS / BODY-FACING / EYE-LINE — ABSOLUTE
 ==================================================
 
 V114–V116 continue the same close conversation positions from Strip024.
-Nari and Hyun-woo look toward each other; reverse shots may flip screen direction but cannot exchange world positions or make eyelines point away.
-V117 shielding reaction may break direct gaze because of bright power return, but Nari's body remains at same location.
-V118 her eyes/head orient toward the exact former Hyun-woo position to register his absence.
+Nari and Hyun-woo look toward each other; reverse shots may flip screen direction but cannot exchange world positions.
+- head turns/eye shifts do not silently rotate shoulders/hips/feet
+- no new gesture/step occurs during dialogue
+- V117 shielding is arms/upper torso only
+- V118 Nari head/eyes orient toward exact former Hyun-woo position while body remains at same marks
 
 ==================================================
-DEPTH / SCALE / POWER STATE — ABSOLUTE
+NARI FOOT / WORN / CLOTHING-LAYER STATE — ABSOLUTE
 ==================================================
 
-Hyun-woo before absence keeps canonical world-space scale relative table/Nari. Do not shrink/fade him before Unit return.
-V118 furniture/evidence keep same depth/scale; power restoration changes illumination/device operation only.
-
-==================================================
-NARI FOOT / WORN ATTACHMENT — ABSOLUTE
-==================================================
-
-STEP FOOT/CANDLE FOOT remain exact marks through V118. Shielding = arms/upper torso only.
-Scrunchie physically encircles SAME wrist; headphones physically remain around neck/hoodie without clipping through hair/jaw/neck.
+STEP FOOT/CANDLE FOOT remain exact through V118. Scrunchie/headphones/home-night clothing-layer state remain unchanged. Power restoration does not zip/unzip hoodie, move headphones, change sleeve state or restyle hair.
 
 ==================================================
 TWO FLOOR EVIDENCE SPOTS — ABSOLUTE
@@ -156,16 +167,9 @@ Knife same settled point/orientation. Packet separate nudged point. Neither move
 TOP-TO-BOTTOM POWER / DIALOGUE ORDER — ABSOLUTE
 ==================================================
 
-Reader order must be:
-V113 exterior city recovery → V114/V115/V116 dialogue with Unit still dark and Hyun-woo still physical → V117 `VZZT` Unit power return + Nari shielding → V118 powered comparable empty space.
-Do not place a powered V118 view above `VZZT`, or a Hyun-woo-absent image before his final V116 dialogue.
-`VZZT` must visually occur at the lighting change, not above/before the last dark conversation beat.
-
-==================================================
-TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
-==================================================
-
-Dialogue/`VZZT` cannot cover Nari foot marks, former Hyun-woo location anchors, presence→absence comparison or knife/packet evidence.
+Reader order:
+V113 exterior city recovery → V114/V115/V116 dialogue with Unit still dark and Hyun-woo physical → V117 `VZZT` Unit power return + Nari shielding → V118 powered comparable empty space.
+No absent-Hyun-woo image or farewell gesture before final V116 dialogue.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -202,7 +206,7 @@ COMPACT POWER-STATE DIVIDER.
 V117 — UNIT POWER SNAP
 SFX at actual Unit power return:
 `VZZT`
-Normal apartment power snaps on. Nari shields eyes without stepping. No disappearance process/afterimage/reflection.
+Normal apartment power snaps on. Nari shields eyes without stepping. No disappearance process/afterimage/farewell gesture.
 
 SMALL BLACK GUTTER.
 
@@ -213,18 +217,22 @@ Same/closely comparable anchor geometry. Nari lowers arms at same marks and look
 SEAM
 ==================================================
 
-Strip026 begins same exact V118 Nari position/evidence state before she starts walking.
+Strip026 begins same exact V118 Nari position/evidence state and the same stunned-but-functional emotional intensity before she says `HYUN-WOO?` and begins moving.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - refs/geometry/scale drift
+- Nari/Hyun-woo emotional performance resets to romance, rage, screaming panic, comedy or unrelated pose without cause
+- Hyun-woo invents farewell wave/touch/embrace/reaching gesture or shrinks/fades before V117
+- relative height/build changes before disappearance
+- shoulders/hips/feet rotate/reset during dialogue with no movement
+- Nari shielding moves feet/hips or becomes full-body collapse
 - fisheye/forced perspective makes V116/V118 geometry non-comparable
-- Nari feet/worn state changes
+- Nari feet/worn/clothing-layer state changes
 - Hyun-woo disappears at city return/remains after Unit return
-- V116/V118 presence→absence proof is microscopic, former position edge-cropped/divider-cut/hidden, or framing simply excludes the position
-- powered/blackout shots read out of causal order
-- any fade/afterimage/reflection/shadow/silhouette/ghost trace of Hyun-woo remains after Unit power return
-- powered shadows retain blackout-era direction or V117/V118 powered light direction changes without cause
+- V116/V118 absence proof microscopic/hidden/off-frame
+- any fade/afterimage/reflection/shadow/silhouette/ghost trace remains
+- powered shadows retain blackout-era direction or V117/V118 light direction changes without cause
 - dialogue axis/eyelines flip incorrectly
 - knife/packet/chair/table topology resets
 - powered baseline becomes cinematic bloom
