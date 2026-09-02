@@ -29,7 +29,7 @@ Never render V/P/strip/NOTEBOOK ZONE/temp-state labels.
 START:
 - Nari seated untouched chair
 - NOODLE POT/trivet/handle/cloth + packet/wrapper + Pair A/B table topology exact Strip029
-- STORAGE POT open cabinet state exact Strip029
+- STORAGE POT open cabinet state exact Strip029 with SAME speaker physically visible inside
 - phone + binder counter; key tray
 - sheathed knife/failed tools desk tray
 - SAME CLOSED A5 notebook + ONE pen at work desk
@@ -40,103 +40,100 @@ ALLOWED CHANGES:
 - V139 dialogue
 - V140 Nari physically stands from untouched chair and walks table→desk
 - V141 picks SAME closed A5 notebook + ONE pen
-- V142 returns, sits same chair, establishes one collision-free NOTEBOOK ZONE using true A5 footprint, places/releases notebook flat, then pen beside it
+- V142 returns, sits same chair, establishes collision-free NOTEBOOK ZONE using true A5 footprint, places/releases notebook flat, then pen beside it
 - no writing/opening until Strip031
 
 END:
 - Nari same chair
-- SAME CLOSED A5 notebook fully supported in NOTEBOOK ZONE at stable true scale
+- SAME CLOSED A5 notebook fully supported NOTEBOOK ZONE at stable scale
 - SAME pen beside notebook
 - all prior table/cabinet/TV topology unchanged
+
+==================================================
+SPEAKER VOICE SOURCE / SILENCE / EYE-LINE — NON-NEGOTIABLE
+==================================================
+
+Hyun-woo remains voice-only through the SAME physical speaker inside the open STORAGE POT/cabinet.
+
+V138 first question:
+- Nari looks toward the actual open cabinet/speaker
+- there is NO answer, no indicator reply, no SFX, no floating ellipsis, no human reflection/shadow
+- purposeful silence does not move her gaze target or speaker location
+- then Nari says `HYUN-WOO?` still toward the same physical speaker source
+
+V139:
+- Hyun-woo's answer is audio from SAME speaker only
+- voice lettering/source direction must point to actual cabinet/speaker, not ceiling/fridge/TV/NOODLE POT/phone
+- Nari's eyes/head remain oriented to that source while seated
+
+Reverse shots may flip screen-left/right but cannot move the cabinet/speaker or make Nari look toward a wrong wall.
 
 ==================================================
 A5 NOTEBOOK SCALE / FOOTPRINT — NON-NEGOTIABLE
 ==================================================
 
-The notebook remains approximately A5 physical scale (about 148 × 210 mm class) relative to Nari hands/table. Do NOT shrink it to phone size or enlarge it to laptop size for readability.
+Notebook remains approximately A5 scale relative to hands/table. Do not shrink to phone size or enlarge to laptop size.
+NOTEBOOK ZONE must support full notebook footprint + pen within Nari reach and clear of NOODLE POT/trivet/handle/cloth, packet/wrapper, Pair A/B, candle/holder, table edge.
+No evidence moves to make room.
 
-NOTEBOOK ZONE must provide enough real tabletop area for:
-- full closed A5 footprint lying flat
-- pen beside it
-- Nari reachable writing access in Strip031
+==================================================
+NOTEBOOK / PEN GRIP / SUPPORT — ABSOLUTE
+==================================================
 
-The notebook must NOT:
-- overlap NOODLE POT/trivet/handle/cloth
-- overlap packet/wrapper
-- overlap Pair A/Pair B
-- overlap candle/holder
-- hang over table edge
-- penetrate Nari body/chair
-- force any existing object to move
+V141:
+- Nari hand uses a real grip on notebook edge/spine/body and the pen is separately supported by fingers/other hand as physically possible
+- do not fuse notebook+pen into one hand shape or let either float
+- knife/flashlight/radio remain desk tray
 
-If there is insufficient room in a chosen camera/composition, change camera/placement within genuinely clear table space; never shrink notebook or move evidence.
+V142:
+1. return/sit actual chair
+2. notebook contacts tabletop in NOTEBOOK ZONE
+3. full A5 notebook supported flat
+4. fingers release
+5. pen contacts tabletop beside notebook
+6. fingers release
+
+Notebook/pen do not pass through table/other evidence.
 
 ==================================================
 NOTEBOOK SUPPORT / ORIENTATION — ABSOLUTE
 ==================================================
 
-At V142:
-1. Nari returns with one closed notebook + one pen
-2. sits on real chair seat
-3. chooses clear Nari-side tabletop region
-4. notebook physically contacts tabletop and lies flat
-5. entire notebook is supported by table plane
-6. fingers release
-7. establish one stable top/bottom/spine orientation that Strip031 will inherit
-8. pen contacts tabletop beside notebook and is released
-
-Reverse shots may flip screen-left/right but cannot rotate/mirror notebook story-world orientation without action.
+At V142 establish one stable top/bottom/spine orientation inherited by Strip031. Reverse shots may flip screen direction but cannot rotate/mirror notebook story-world orientation without action.
 
 ==================================================
-TABLE DEPTH / TWO-POT TOPOLOGY — ABSOLUTE
+TABLE / TWO-POT / CABINET TOPOLOGY — ABSOLUTE
 ==================================================
 
-NOODLE POT remains dining table. STORAGE POT remains cabinet. Keep stable scale/depth and do not merge.
-NOTEBOOK ZONE is an additional clear table region only; it cannot replace/move food evidence.
+NOODLE POT remains dining table. STORAGE POT remains cabinet. Keep stable scale/depth and never merge.
+Open cabinet/speaker/cord/towels/lid support state unchanged.
 
 ==================================================
-CHAIR → DESK → CHAIR REALITY — ABSOLUTE
+WORN ATTACHMENT / BODY ROUTE — ABSOLUTE
 ==================================================
 
-1. start seated in untouched chair
-2. feet/body stand through real seat mechanics
-3. chair remains
-4. walk canonical table→desk
-5. hand contacts notebook/pen
-6. desk tools/knife remain
-7. walk back
-8. align/sit same untouched chair
-9. place notebook/pen
-
-No teleporting or use of pushed Hyunwoo chair.
+Scrunchie remains physically encircling SAME wrist; headphones physically around neck/hoodie without clipping through hair/jaw/neck during stand/walk/sit.
+Nari stands/sits through real chair mechanics and follows canonical table↔desk route.
 
 ==================================================
-SILENCE / SOURCE OWNERSHIP — ABSOLUTE
+REFLECTION / FALSE-HYUN-WOO BAN — ABSOLUTE
 ==================================================
 
-After:
-`THE MISSING SECTION WAS ABOUT THAT PANEL, WASN'T IT?`
-NO answer, ellipsis balloon, device reply, SFX or narration. Silence is pacing only. Then Nari:
-`HYUN-WOO?`
+No physical/reflected/shadow Hyun-woo may appear in TV, fridge, windows, counter, cabinet/pot, notebook or other surface while Unit power is on.
+Silence/voice-only must not be visualized as a human silhouette.
 
 ==================================================
-CABINET / TV PERSISTENCE — ABSOLUTE
+TEXT / EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-STORAGE POT cabinet state, real lid support plane, towels/speaker/cord/plug unchanged. TV canonical wall-unplug state persists; cord obeys gravity/no clipping.
-
-==================================================
-SAME-OBJECT / TEXT SAFETY — ABSOLUTE
-==================================================
-
-Notebook/pen close-ups = SAME items. Dialogue must not cover stand/sit, pickup, real A5 footprint or placement contacts.
+Dialogue/silence pacing cannot cover speaker source, chair stand/sit, notebook/pen pickup, A5 footprint or placement contacts.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
 V138
-NARI:
+NARI toward actual speaker:
 `THE MISSING SECTION WAS ABOUT THAT PANEL, WASN'T IT?`
 NO ANSWER.
 Then:
@@ -147,7 +144,7 @@ SMALL BLACK GUTTER.
 V139
 NARI:
 `ARE YOU DANGEROUS?`
-HYUN-WOO voice:
+HYUN-WOO voice from SAME speaker:
 `I CAN'T PROMISE I'M NOT.`
 
 SMALL BLACK GUTTER.
@@ -158,12 +155,12 @@ Stand/walk; leave table unchanged.
 SMALL BLACK GUTTER.
 
 V141 — PICKUP
-Pick SAME CLOSED A5 notebook + ONE pen only.
+Pick SAME CLOSED A5 notebook + ONE pen only with physically usable support.
 
 SMALL BLACK GUTTER.
 
 V142 — RETURN / NOTEBOOK ZONE
-Return, sit SAME chair. Place/release true-scale closed A5 notebook flat in clear NOTEBOOK ZONE; pen beside it. No writing/opening.
+Return, sit SAME chair. Place/release true-scale closed notebook flat in clear NOTEBOOK ZONE; pen beside it. No writing/opening.
 
 ==================================================
 SEAM
@@ -174,15 +171,15 @@ Strip031 starts same closed notebook orientation/true scale + pen beside it, exa
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - geometry/scale drift
-- notebook shrinks/enlarges between desk/table/detail
-- notebook overlaps/penetrates evidence or hangs unsupported off table
-- existing evidence moves to create space
-- notebook orientation/spine flips without action
-- notebook/pen teleport/duplicate
-- Nari uses pushed chair or sit/stand is fake overlap
+- speaker voice/silence source moves, Nari looks toward wrong wall, or physical/reflected/shadow Hyunwoo appears
+- notebook/pen grip/support impossible/fused/floating
+- notebook shrinks/enlarges, overlaps evidence, hangs unsupported, rotates/mirrors without action
+- evidence moves to create space
+- Nari uses pushed chair or stand/sit is fake overlap
 - STORAGE POT/NOODLE POT merge
 - cabinet/TV state resets
-- text hides placement/scale proof
+- worn items clip/float/change side
+- text hides source/placement proof
 - silence gets invented text
 ```
 
