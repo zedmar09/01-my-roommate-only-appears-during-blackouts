@@ -29,7 +29,7 @@ REFERENCE AVAILABILITY — BLOCKING
 Missing/stale/wrong-path/unapproved canonical → STOP. Never substitute improvised/rejected reference or Markdown prompt as visual canonical.
 
 ATTACHED-REFERENCE OBEDIENCE — ABSOLUTE
-Approved WebPs are binding permanent identity/geometry/object authority, not inspiration. Do not alter face/hair/build/accessories, room axis, fixed architecture/furniture/appliances, object body, cord/plug design, materials, or recurring construction for composition convenience. Recompose shot; never redesign canon.
+Approved WebPs are binding permanent identity/geometry/object authority, not inspiration. Do not alter face/hair/build/accessories, room axis, fixed architecture/furniture/appliances, object body, cord/plug design, materials, proportions, orientation, hinges/handles, or recurring construction for composition convenience. Recompose shot; never redesign canon.
 
 PREVIOUS-STRIP LIMIT — ABSOLUTE
 Previous approved strip controls temporary story state only. It does not override permanent canon. Correct permanent previous-strip drift to attached canon while preserving legitimate temporary state.
@@ -55,10 +55,11 @@ START STATE — ABSOLUTE
 List exact starting:
 - character position/facing/pose/feet/hand occupancy
 - worn accessories + anatomical side when relevant
-- relevant object locations/states/counts
+- relevant object locations/states/counts/orientation/scale
 - food/noodle/chopstick state
-- cords/plugs/wall sockets
-- doors/cabinets/chairs
+- cords/plugs/wall sockets/slack
+- doors/cabinets/elevator mechanisms/hinges/handles
+- chairs/table support geometry
 - power/lighting/device display
 - previous-strip seam state
 
@@ -73,11 +74,11 @@ List exact state that persists into next strip. Camera change does not reset sta
 
 MICRO-CONTINUITY — ABSOLUTE
 Every object/body state persists slice X→X+1 unless visible/legal change occurs. Occlusion is not disappearance.
-Track hands, feet, worn accessories, food/noodles, pot/bowls/chopsticks, packet/wrapper, cords/plugs/sockets, key/manual/note/pen/notebook, phone/tablet/bag/pockets, knife/sheath, candle, chair, cabinet/stockpot/lid/towels/speaker, facing/distance/power/device state.
+Track hands, feet, worn accessories, food/noodles, pot/bowls/chopsticks, packet/wrapper, cords/plugs/sockets, key/manual/note/pen/notebook, phone/tablet/bag/pockets, knife/sheath, candle, chair, cabinet/stockpot/lid/towels/speaker, facing/distance/depth/power/device state.
 
 TEMPORARY ANATOMICAL-SIDE IDENTITY — WHEN APPLICABLE
 When reverse-shot drift could break continuity, assign a production-only identity to the physical side at first clear action, e.g.:
-- KNIFE HAND / PHONE HAND
+- KNIFE HAND / PHONE HAND / WRITING HAND
 - SCRUNCHIE WRIST
 - STEP FOOT / CANDLE FOOT
 - BAG SHOULDER / UMBRELLA HAND / PHONE POCKET
@@ -85,6 +86,43 @@ Preserve same anatomical side until visible transfer/release/expiry. Screen-left
 
 WORN-ACCESSORY PERSISTENCE — WHEN APPLICABLE
 If no removal/transfer is scripted, worn accessory remains on same body location. Partial occlusion is allowed; disappearance/side swap/duplication is not.
+
+ORIENTATION / HINGE / HANDLE CONSERVATION — ABSOLUTE
+Preserve physical orientation from canon/established state:
+- door hinge side, handle/lock side, opening arc, interior/exterior face
+- cabinet hinge/handle side and opening direction
+- elevator/glass-door sliding vs swinging mechanism
+- object front/back, appliance cord-origin side
+- binder spine/rings/page-turn direction
+- knife blade/handle/sheath-mouth orientation
+- pot handle + cloth side
+- chair front/back and pushed angle
+Reverse shots may flip screen-left/right but not story-world mechanics.
+
+OBJECT SCALE / FIT CONSERVATION — ABSOLUTE
+Recurring objects keep stable world-space size/thickness.
+Verify containers/surfaces actually fit contents without hidden resizing:
+- speaker/cord/towels/lid must fit real stockpot/cabinet
+- flashlight/radio/sheathed knife must fit emergency tray
+- A5 notebook must fit tabletop zone at true scale
+- pot/chairs/packets/devices retain scale across close-ups
+Perspective may change apparent size; world-space scale may not.
+
+DEPTH-ORDER / OCCLUSION / CONTACT PROOF — ABSOLUTE
+2D overlap is not automatically physical contact.
+For critical contact, show readable surface/contour relationship: fingers wrap/grip, foot shares floor plane with packet, body aligns with chair, hand truly holds wrist/handle/mask hardware.
+A blocking character must be physically between protected character and threat in floor-plan space—not merely layered in front on the page.
+Do not use foreground occlusion to fake contact or hidden relocation.
+
+FLEXIBLE-OBJECT / GRAVITY / NO-CLIPPING — ABSOLUTE
+Cords/plugs/towels/cloth/hair/straps/packets/paper/clothing obey support, gravity and collision.
+- loose plug hangs/rests with believable slack; never floats
+- cords do not pass through walls/stands/cabinets/counters/furniture/appliance bodies
+- cord length/slack does not grow/shrink for convenience
+- coiled cord/towels fit inside containers without solid-volume overlap
+- falling props follow clear unobstructed paths
+- loose surface props do not hover
+Flat graphic simplification is allowed; broken physical topology is not.
 
 PROP TOPOLOGY / RELATIVE PLACEMENT — WHEN APPLICABLE
 List continuity-critical relative positions that cannot swap:
@@ -96,7 +134,7 @@ List continuity-critical relative positions that cannot swap:
 - pushed chair angle
 - knife impact point
 - separate floor obstacles
-- lid/towel/speaker arrangement
+- lid/towel/speaker arrangement/support plane
 - notebook/table zone
 Reverse shot may flip screen direction but NOT story-world sides/order.
 
@@ -126,7 +164,7 @@ A later action slice may advance state exactly once.
 Reject duplicate key/plug/phone/binder/knife/notebook/person caused by representational inserts.
 
 CHARACTER ↔ ENVIRONMENT REALITY — ABSOLUTE
-Verify feet/support, chair alignment, reachability, eyeline, hinge motion, walking route, collision clearance, floor obstacles, scale, truthful reverse angles. Never mirror room for convenience.
+Verify feet/support, chair alignment, reachability, eyeline, hinge/track motion, walking route, collision clearance, floor obstacles, scale, depth order, truthful reverse angles. Never mirror room for convenience.
 
 WALL-SOCKET RULE — WHEN APPLICABLE
 Unless script explicitly specifies appliance-side detachable cable, `unplug` means:
@@ -138,7 +176,8 @@ Unless script explicitly specifies appliance-side detachable cable, `unplug` mea
 - socket visibly empty afterward
 - state persists until explicit re-plug
 - action proves hand + plug + socket
-Reject appliance-side disconnect/cable pull.
+- loose plug/cord obey gravity and do not clip through geometry
+Reject appliance-side disconnect/cable pull/floating plug/impossible cord path.
 
 LOCAL OUTLET CONTINUITY — CANON-SUBORDINATE
 If canonical visibly establishes outlet, use exact. Otherwise derive smallest physically plausible placement inside canonical geometry; do not add/move architecture. Preserve chapter continuity after approval, but generated outlet detail never becomes permanent canon and never outranks WebPs.
@@ -201,6 +240,12 @@ AUTOMATIC REJECT IF
 - same-object insert creates duplicate/incompatible state
 - anatomical side silently swaps
 - worn accessory disappears/swaps
+- hinge/handle/spine/track mechanism flips
+- recurring object scale changes or container fit is faked by resizing
+- contact is only ambiguous 2D overlap instead of physical contact
+- depth order contradicts floor-plan blocking
+- flexible object/cord/cloth clips through solids or floats against gravity
+- cord slack/length changes impossibly
 - prop topology swaps physical sides
 - impossible reach/support/route/floor collision
 - critical contact cropped/hidden
