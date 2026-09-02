@@ -1,14 +1,14 @@
 # Strip 016 — First SLURP / Hallway Approach / Teaser Glimpse
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME uninterrupted blackout from APPROVED Strip 015.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing SAME uninterrupted blackout from APPROVED Strip 015.
 
 PRODUCTION SCOPE
 V71–V75. Historical P10 mapping only. Final V75 includes controlled silent teaser handoff to Strip 017.
 
 ATTACH — REQUIRED
 - `Character-References/nari-canonical-flat2d.webp`
-- `Character-References/hyunwoo-canonical-flat2d.webp` — FINAL teaser silhouette/body/seat continuity only
+- `Character-References/hyunwoo-canonical-flat2d.webp` — FINAL teaser only
 - `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
@@ -17,158 +17,128 @@ ATTACH — REQUIRED
 - APPROVED Strip 015
 - this Strip 016 prompt
 
-Use `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-reference.webp` additionally if desk→hallway→kitchen camera route is not fully covered by listed views.
+Use room-angle atlas additionally only if route angle is not covered.
 
 ==================================================
-REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 015 controls temporary pose/tool/blackout/worn state only; correct any permanent identity/geometry drift to canon rather than propagating it.
-Preserve exact Nari identity/hair, SAME SCRUNCHIE WRIST, SAME headphones around neck, desk/tray layout, hallway route, kitchen/dining geometry, Hyun-woo silhouette scale, and correct dining-chair location.
-Never render V71–V75, V75A/V75B, P10, Strip 016, beat/panel/scene labels, `KNIFE HAND`, `SCRUNCHIE WRIST`, or production metadata anywhere, especially top-left. `12:56 A.M. — THIRTEEN MINUTES INTO THE BLACKOUT` is reader-facing narration only and must not resemble technical V-label.
+Attached WebPs are permanent authority. APPROVED Strip 015 controls temporary tool/blackout/worn state only.
+Preserve Nari identity/hair, SCRUNCHIE WRIST, headphones-at-neck, exact tray layout/orientation, hallway/open-plan geometry, Hyun-woo teaser scale/seat.
+Never render V71–V75/V75A/B/P10/Strip016/KNIFE HAND/SCRUNCHIE WRIST or production labels.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
 START:
-- SAME uninterrupted Unit 2407 blackout from Strip 015
-- Nari remains at/near SAME desk
-- long dark-plum hair loose at canonical mid-back length
-- yellow scrunchie remains on SAME SCRUNCHIE WRIST established Strip 014
-- SAME headphones remain around neck
-- phone screen dark/untouched at desk
-- SAME flashlight = returned to SAME emergency-tray position
-- SAME radio = returned to SAME emergency-tray position
-- practical blackout knife = fully sheathed in emergency tray, handle toward chair
-- all three tray items distinct/not overlapping/duplicated
-- no candle lit by Nari; no Hyun-woo visible yet
+- SAME outage
+- Nari at/near desk
+- phone dark desk
+- flashlight exact returned tray zone/orientation
+- radio exact returned tray zone/orientation
+- practical knife fully sheathed in exact Strip011/015 tray zone/orientation, handle toward chair
+- sheath mouth/blade axis fixed
+- scrunchie/headphones unchanged
+- no candle lit by Nari; no Hyun-woo visible
 
 ALLOWED CHANGES:
-- offscreen `SLURP` originates only from kitchen/dining while Hyun-woo remains unseen
+- offscreen `SLURP` from kitchen/dining
 - Nari turns toward sound
-- Nari reaches ONLY knife handle; flashlight/radio remain tray
-- physical hand that first grips/draws knife becomes **NARI'S KNIFE HAND** for remainder of blackout sequence
-- Nari grips same knife handle with KNIFE HAND, lifts it, draws blade from SAME sheath; EMPTY sheath remains tray
-- Nari leaves desk carrying only drawn knife low in KNIFE HAND
-- physically walks desk → hallway → kitchen/dining entrance
-- sees distant table candle, stops at/immediately before entrance
-- final teaser reveals only partial seated Hyun-woo silhouette in correct chair
-- SCRUNCHIE WRIST does not change; headphones remain around neck
+- physical hand that grips knife = `KNIFE HAND`
+- KNIFE HAND reaches actual handle, lifts SAME knife/sheath relation from tray without disturbing flashlight/radio
+- blade physically withdraws along SAME sheath-mouth axis; empty sheath returns/remains fully supported in SAME tray zone/orientation
+- knife remains SAME world-space scale; blade/handle orientation cannot mirror
+- Nari carries one drawn knife low in KNIFE HAND
+- walks desk→hallway→kitchen/dining entrance; stops
+- final partial Hyun-woo seated glimpse
 
 END:
-- Nari = stopped at kitchen/dining entrance, several feet from table, drawn knife low in SAME KNIFE HAND
-- SCRUNCHIE WRIST unchanged; headphones still around neck
-- empty sheath = work-desk tray exact former knife position
-- phone = dark at desk
-- flashlight = same tray position
-- radio = same tray position
-- Hyun-woo = seated chair closest kitchen/refrigerator, teaser-only visibility
-- table/candle/pot relationship established for Strip 017
-- blackout remains active
+- Nari entrance mark, knife low SAME KNIFE HAND
+- empty sheath exact tray rest position/orientation
+- flashlight/radio exact tray positions/orientations
+- phone dark desk
+- worn state unchanged
+- Hyun-woo seated teaser; blackout active
 
 ==================================================
-NARI TEMPORARY BODY-STATE LOCK — ABSOLUTE
+KNIFE / SHEATH ORIENTATION / DRAW PATH — NON-NEGOTIABLE
 ==================================================
 
-Through this strip and onward until visible scripted change:
-- SCRUNCHIE WRIST = SAME physical anatomical wrist from Strip 014
-- HEADPHONES-AT-NECK = SAME headphones remain around neck
-- loose long hair remains same length/state
+The practical knife/sheath is one stable construction established Strip 011.
+Preserve:
+- handle end toward chair at start
+- blade axis aligned with sheath interior
+- sheath mouth at same physical end/orientation
+- blade edge/spine/handle construction consistent with same object
+- stable world-space knife/sheath length/thickness
 
-Reverse camera may flip screen-left/right but cannot switch scrunchie wrist.
-Headphones may be partly hidden by hair/hoodie/angle but may not disappear, move to ears, appear on desk/floor, or duplicate.
-No Chapter 1 action removes them.
+Exact draw:
+1. flashlight/radio remain supported and unmoved
+2. KNIFE HAND grips actual handle
+3. SAME sheathed knife lifts only enough to permit a real draw without hitting adjacent tools/keyboard/tray edge
+4. blade travels linearly out through SAME sheath mouth along plausible axis
+5. blade cannot pass through sheath sidewall, Nari fingers, wrist, tray, flashlight, radio, keyboard, desk, or body
+6. `SHNK` occurs during real blade/sheath sliding contact
+7. after blade clears, one drawn knife remains in KNIFE HAND
+8. one EMPTY sheath returns/remains in exact tray support zone/orientation
 
-==================================================
-NARI KNIFE-HAND IDENTITY — TEMPORARY CONTINUITY LOCK
-==================================================
-
-The first physically correct V73 draw establishes temporary hand identity **KNIFE HAND**.
-
-Rules through Strip 023:
-- KNIFE HAND is same physical anatomical hand/arm until knife falls
-- reverse camera shots may flip screen-left/screen-right but may NOT swap knife to other hand
-- no silent hand transfer; none scripted
-- Nari's other hand = FREE HAND
-- Strip 023 former-knife-hand wrist catch uses this exact arm
-- Strip 024 releases that exact wrist
-
-KNIFE HAND is production terminology only, never reader text.
+Do NOT flip the sheath end, mirror blade direction, reverse handle/blade construction, shrink knife to fit tray, enlarge after draw, or make blade emerge through sheath side.
+If a dramatic camera conflicts with the established orientation/clearance, recompose camera.
 
 ==================================================
-KNIFE / HAND / SHEATH ACTION-PROOF — ABSOLUTE
+DEPTH / GRIP / CONTACT PROOF — ABSOLUTE
 ==================================================
 
-Exact knife chain:
-1. knife begins fully inside sheath in tray
-2. flashlight/radio separate in own tray positions and do not move
-3. KNIFE HAND reaches actual knife handle
-4. fingers grip handle
-5. same sheathed knife lifts from tray
-6. blade aligns and physically slides out of SAME sheath
-7. `SHNK` occurs during draw
-8. empty sheath remains behind SAME tray position
-9. Nari leaves with ONE drawn blade only in SAME KNIFE HAND
-
-Draw mechanism must be visible enough to prove blade/sheath separation. Do not crop sheath mouth/knife relationship and jump to drawn blade.
-Do not show sheath simultaneously on knife and left at desk. No knife duplication. Guarded fruit knife beneath sofa does not appear.
-KNIFE HAND cannot hold another object. Knife stays low; no attack pose/silent transfer.
+KNIFE HAND fingers must visibly wrap/grip the handle; a hand silhouette merely overlapping it is not enough.
+Blade must visibly emerge from sheath mouth in correct depth order.
+After draw, empty sheath is clearly behind/on tray; drawn blade is in Nari's hand, not visually merged with sheath.
 
 ==================================================
 SAME-OBJECT DETAIL / NO DUPLICATION — ABSOLUTE
 ==================================================
 
-Any knife/sheath close-up is a magnified view of the SAME knife and SAME sheath in the SAME action chain, not a second knife/sheath pair.
-If a wide and detail share the sequence, state must agree: before draw knife is sheathed; after draw the one knife is in KNIFE HAND and one empty sheath remains tray.
+Any knife/sheath close-up is SAME object/action. A same-moment wide cannot show knife still sheathed while detail already shows a second drawn knife unless reading order clearly advances the draw once.
 
 ==================================================
 DESK → HALLWAY → KITCHEN ROUTE — ABSOLUTE
 ==================================================
 
-Attached floor plan/hallway/open-plan references control every step. Nari must physically leave desk, enter hallway route, continue toward open-plan dining/kitchen, stop before crossing farther into dining zone.
-
-Show enough body/feet/environment landmarks for plausible route. Do not cut desk directly to kitchen entrance. Do not mirror hallway/change door/lamp geometry.
-At V75A Nari STOPS. V75B does not move her closer. Eyeline points toward actual table/chair position.
+Show real route through canonical landmarks. Nari/body/knife cannot pass through desk, wall, door frame, furniture. Knife carried low with safe clearance; blade does not clip through her leg/clothing/wall during walk.
+V75A stop. V75B no closer movement. Eyeline toward real table/chair position.
 
 ==================================================
-HYUN-WOO TEASER USE — ABSOLUTE
+HYUN-WOO TEASER — ABSOLUTE
 ==================================================
 
-Canonical Hyun-woo reference controls broad build, long low-tied hair silhouette, clothing silhouette, seated scale, correct dining-chair position in FINAL glimpse.
-Do NOT reveal full face, eyes, mask construction, tattoo map, or name in Strip 016.
-Do not place him sink/counter/island/hallway/wrong chair/standing.
+Canonical ref controls broad build/low-tied hair/clothing scale/seat. Do not reveal full face/eyes/mask/tattoo/name. Seated chair closest kitchen/refrigerator only.
 
 ==================================================
-TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
+WORN STATE — ABSOLUTE
 ==================================================
 
-Narration/SFX must not cover:
-- knife/sheath contact
-- empty sheath remaining tray
-- route-defining feet/landmarks
-- Nari stop position
-- teaser chair/table/candle anchors
-- SCRUNCHIE WRIST/headphones state when visible
-
-`SHNK` stays near blade/sheath source without hiding draw proof.
+SCRUNCHIE WRIST same physical wrist. Headphones stay around neck. No removal/move/duplication.
 
 ==================================================
-NARRATION DESIGN BY SITUATION — ABSOLUTE
+TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-- `12:56 A.M. — THIRTEEN MINUTES INTO THE BLACKOUT` = compact suspense-time caption, distinct from Strip 014 outage-start caption
-- `THE SOUND WAS COMING FROM THE KITCHEN.` = directional realization caption, more restrained and integrated with approach geometry
-Do not use identical box/repetitive top-left tag. Placement must not cover knife draw, route, teaser anchors.
-No invented narration V72/V73/V75A/V75B.
+Narration/`SHNK` cannot cover:
+- hand grip
+- sheath mouth/blade path
+- empty sheath tray state
+- route feet/landmarks
+- stop/teaser anchors
 
 ==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
+NARRATION DESIGN — ABSOLUTE
 ==================================================
 
-Use SMALL BLACK GUTTER between distinct slices. In blackout it may blend with charcoal field but must remain readable divider, not large blank space.
-Side-by-side separate camera slices require diagonal/slanted black divider.
-Do not put black technical seam at 016→017; final teaser and next reveal stitch visually.
+NARRATION:
+`12:56 A.M. — THIRTEEN MINUTES INTO THE BLACKOUT`
+Later directional narration:
+`THE SOUND WAS COMING FROM THE KITCHEN.`
+Different suspense treatments, not top-left technical tags. No invented narration in action/reveal beats.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -180,74 +150,64 @@ NARRATION:
 
 SMALL BLACK GUTTER.
 
-V72 — FIRST OFFSCREEN SOUND
-SFX from kitchen/dining only:
+V72
+SFX from kitchen/dining:
 `SLURP`
-Nari freezes/turns. Hyun-woo not visible.
+Nari turns; Hyun-woo unseen.
 
 SMALL BLACK GUTTER.
 
-V73 — KNIFE DRAW / KNIFE HAND ESTABLISHED
-Show exact reach/grip/lift/draw. Hand used becomes NARI'S KNIFE HAND.
+V73 — KNIFE DRAW
+Execute exact grip/lift/axis-aligned draw/no-clipping sequence.
 SFX:
 `SHNK`
-Empty sheath stays desk tray. Flashlight/radio stay exact positions.
+This physical hand becomes KNIFE HAND.
 
 SMALL BLACK GUTTER.
 
 V74 — LEAVE DESK
-Nari physically walks away carrying only drawn practical knife low in SAME KNIFE HAND. Phone/flashlight/radio/sheath remain behind. Headphones remain around neck; scrunchie stays SAME wrist.
+Nari walks with one drawn knife low in same hand. Tray states remain behind exactly.
 
 SMALL BLACK GUTTER.
 
-V75 — HALLWAY APPROACH
-Show real desk→hallway→kitchen/dining route.
+V75
 NARRATION:
 `THE SOUND WAS COMING FROM THE KITCHEN.`
-Small distant candle at dining-table height.
+Show real hallway route and distant candle.
 
 SMALL BLACK GUTTER.
 
-V75A — NARI STOP/SHOCK
-At/immediately before kitchen-dining entrance, Nari stops. Posture tightens, eyes focus/widen, weight settles back. Knife stays low in SAME KNIFE HAND. No speech/attack/step closer.
+V75A — STOP
+Nari stops at/immediately before entrance. Knife low.
 
 SMALL BLACK GUTTER.
 
-V75B — PARTIAL HYUN-WOO GLIMPSE
-Canonical Hyun-woo seated in dining chair closest to kitchen/refrigerator side. Show enough broad seated silhouette + low-tied hair + table/candle/pot relationship to establish human presence. Keep identifying detail obscured.
-Nari remains several feet away at entrance with knife in SAME KNIFE HAND; SCRUNCHIE WRIST/headphones unchanged.
+V75B — PARTIAL HYUN-WOO
+Seated canonical silhouette in correct chair/table/candle/pot geometry. Nari remains several feet away.
 
 ==================================================
 NO DEAD BOTTOM / SEAM
 ==================================================
 
-Bottom must be Nari shock + teaser glimpse, not empty darkness.
-Strip 017 continues EXACT seated figure, chair, table, candle, pot, Nari threshold position, SAME KNIFE HAND, SCRUNCHIE WRIST, headphones-at-neck, knife state, distance, blackout lighting. No black technical bar.
-
-TEXT LOCK
-`12:56 A.M. — THIRTEEN MINUTES INTO THE BLACKOUT`
-`SLURP`
-`SHNK`
-`THE SOUND WAS COMING FROM THE KITCHEN.`
+Bottom = Nari shock + teaser. Strip017 inherits exact Nari distance/KNIFE HAND/worn state, Hyunwoo seat, table/candle/pot geometry.
 
 AUTOMATIC REJECT IF
-- any V/P/strip/beat/panel/scene/KNIFE HAND/SCRUNCHIE WRIST production label appears
-- attached refs/room route redesigned/mirrored
-- permanent drift previous strip propagated over canon
-- SCRUNCHIE WRIST changes or scrunchie disappears
-- headphones disappear/move/duplicate without action
-- flashlight/radio not exact tray state or move during knife draw
-- knife draw contact hidden/cropped or close-up creates duplicate knife/sheath
-- knife silently switches anatomical hand
-- no clear desk→hallway→kitchen route
-- full Hyun-woo reveal early / wrong seat / standing
-- Nari advances past entrance or changes distance after stop
-- sheath travels/disappears or knife duplicates
-- phone/flashlight/radio move without action
-- screen turns on/invented light appears
-- text obscures action/route/worn-state proof
-- narration generic/top-left repetitive
-- black slice separators absent/giant
+- production/temp-state label appears
+- attached route/room ref mirrored
+- tray item positions/orientations reset
+- knife/sheath orientation/spine/edge/mouth flips
+- knife/sheath scale changes
+- blade clips through sheath side/hand/tray/tool/desk/body/wall or emerges impossible direction
+- grip is fake overlap rather than readable hand contact
+- duplicate knife/sheath appears
+- flashlight/radio move during draw
+- no real desk→hallway→kitchen route
+- knife clips body/environment during walk
+- full Hyunwoo reveal/wrong seat/standing
+- worn state changes
+- screen/invented light appears
+- text hides draw/route proof
+- black separators absent/giant
 ```
 
 ## Production Thread Attachments
