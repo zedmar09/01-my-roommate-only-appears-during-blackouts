@@ -51,18 +51,24 @@ END:
 TRUE BLOCKING DEPTH — NON-NEGOTIABLE
 ==================================================
 
-“Between Nari and refrigerator” is a story-world floor-plan condition, NOT merely a drawing-layer overlap.
+“Between Nari and refrigerator” is a story-world floor-plan condition, NOT merely drawing-layer overlap.
+At final blocking mark preserve floor-plan order:
+REFRIGERATOR → HYUN-WOO → NARI.
+Use real feet/floor/environment anchors; Hyun-woo must not simply be enlarged in foreground.
 
-At final V94/V95 blocking mark:
-- draw/derive a real floor-space line from refrigerator display/zone toward Nari's position
-- Hyun-woo's body/feet occupy an open floor point on that line or clearly intercept the direct spatial path
-- Nari remains on the protected side behind him
-- refrigerator remains on opposite side
-- his feet are on the same floor plane as room furniture, not floating in foreground
-- he must not stand behind Nari or beside her while merely being drawn larger/foreground
-- camera perspective may foreshorten the line, but floor-plan ordering remains refrigerator → Hyun-woo → Nari
+==================================================
+PROTECTIVE EYE-LINE / CAMERA AXIS — NON-NEGOTIABLE
+==================================================
 
-Use visible environment anchors/table edge/feet/depth to prove blocking. A close crop of Hyun-woo overlapping Nari's silhouette without floor geometry is insufficient.
+After V94 establishes the new blocking mark:
+- Hyun-woo's V95 `NARI. LOOK AT ME.` is directed physically back toward Nari's actual position behind him
+- Nari's eyes/head first meet/approach Hyun-woo's gaze as instructed
+- in V96 Nari may look PAST him toward the actual refrigerator location without stepping around him
+- her gaze line must pass through/around the real blocking geometry rather than point toward a wrong wall
+- Hyun-woo's warnings remain oriented to Nari, while his body stays physically between her and fridge
+- reverse shots may flip screen-left/right but cannot reverse the world order refrigerator→Hyun-woo→Nari or silently cross the conversation/action axis so they appear to look away from each other
+
+A close-up that removes all spatial anchors cannot be the only proof of the blocking conversation.
 
 ==================================================
 ONE-SIDE WALKING ROUTE / CLEARANCE — ABSOLUTE
@@ -70,50 +76,58 @@ ONE-SIDE WALKING ROUTE / CLEARANCE — ABSOLUTE
 
 V94:
 1. start beside exact pushed-back chair
-2. feet orient to one real available passage
-3. first movement establishes side/path
+2. feet orient to one real passage
+3. first movement fixes side/path
 4. subsequent movement stays SAME physical side
-5. route uses real floor clearance around table edge
+5. route uses real clearance
 6. body/feet do not pass through table/chair/counter/refrigerator/Nari
-7. route clears Nari's feet + packet with visible safety margin
-8. Hyun-woo does not kick/step on packet
+7. route clears Nari feet + packet
+8. no packet disturbance
 9. pushed chair remains behind
 10. stop at true blocking mark
 
-His body cannot clip through table edge merely because upper torso is hidden by a close-up.
-
 ==================================================
-SCALE / DEPTH / SAME-OBJECT — ABSOLUTE
+FRIDGE DEVICE-TEXT PLANE — ABSOLUTE
 ==================================================
 
-Hyun-woo remains canonical adult scale relative to table/chairs/Nari. Do not enlarge him in world space to make him appear protective.
-Any route/fridge/packet detail is SAME physical scene; no duplicate Hyun-woo/chair/fridge/packet.
-Reverse shots may flip screen-left/right but cannot reverse floor-plan near/far ordering.
+V97 `YOON NARI` belongs only to the SAME narrow refrigerator display.
+- text remains inside that physical display boundary
+- follows display plane/perspective
+- does not float over doors/room/Nari/Hyun-woo
+- close-up is SAME refrigerator, not detached UI or second display
 
 ==================================================
-NARI STATIONARY STATE — ABSOLUTE
+REFLECTION / SHADOW FALSE-DUPLICATE BAN — ABSOLUTE
 ==================================================
 
-STEP FOOT/trailing foot, packet relation, KNIFE HAND, SCRUNCHIE WRIST, headphones remain exact. Nari may turn head/eyeline only, no step/body slide.
+Refrigerator doors/display, TV, windows/counters may not show a reflected second Nari/Hyun-woo/unknown figure, face or hand.
+The blocking body is the actual Hyun-woo, not his shadow/reflection.
+Candle is the only small local light; do not create giant protective/hostile wall silhouettes.
+
+==================================================
+NARI STATIONARY / WORN STATE — ABSOLUTE
+==================================================
+
+STEP FOOT/trailing foot, packet relation, KNIFE HAND, SCRUNCHIE WRIST, headphones remain exact. Headphones/scrunchie remain physically attached without clipping/floating.
 
 ==================================================
 PROP TOPOLOGY — ABSOLUTE
 ==================================================
 
-Pot/trivet/handle/cloth/candle/wrapper/chopsticks/chair/pantry/packet keep exact scale, orientation, physical sides and depth established earlier.
+Pot/trivet/handle/cloth/candle/wrapper/chopsticks/chair/pantry/packet keep exact scale, orientation, physical sides and depth.
 
 ==================================================
 TEXT / DEVICE EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Dialogue/`TIK... TIK...`/fridge text cannot cover route feet, blocking depth anchors, Nari/packet relation or fridge display.
+Dialogue/`TIK... TIK...`/fridge text cannot cover route feet, blocking depth anchors, eye-line relation, Nari/packet relation or fridge display.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
 V94 — TRUE PROTECTIVE CROSSING
-Show readable chair-side start → same-side route → final floor-plan blocking mark. No dialogue.
+Show readable chair-side start → same-side route → final floor-plan blocking mark.
 
 SMALL BLACK GUTTER.
 
@@ -130,33 +144,34 @@ HYUN-WOO:
 `THAT DOESN'T STOP IT.`
 HYUN-WOO:
 `DON'T LOOK AT THE SCREEN.`
-Nari remains behind him.
+Nari remains behind him and only looks past toward actual fridge.
 
 SMALL BLACK GUTTER.
 
 V97 — HOSTILE NAME
 SFX at narrow refrigerator display:
 `TIK... TIK...`
-REFRIGERATOR:
+REFRIGERATOR DEVICE TEXT on actual display plane:
 `YOON NARI`
 
 ==================================================
 SEAM
 ==================================================
 
-Strip022 begins SAME real floor-plan order refrigerator → Hyun-woo → Nari, same foot/packet/table/chair state.
+Strip022 begins SAME real floor-plan order refrigerator→Hyun-woo→Nari, same eye-line geography, foot/packet/table/chair state.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - refs/geometry/scale drift
 - Hyun-woo teleports/switches route side/passes through solids
-- final “blocking” is only 2D foreground overlap and floor-plan order is false/ambiguous
-- Hyun-woo enlarged/shrunk in world space for composition
-- Nari moves or packet disturbed
-- pushed chair resets
-- table topology/depth swaps
-- fridge becomes TV-like
-- text hides route/blocking/display proof
+- final blocking is only 2D overlap / world order false
+- Hyun-woo enlarged/shrunk for composition
+- Nari/Hyunwoo eyelines point to wrong targets or axis flips their physical sides
+- Nari moves/packet disturbed
+- fridge text floats off display plane/becomes narration/speech
+- reflected/shadow duplicate human/figure appears
+- pushed chair/table topology resets
+- text hides route/blocking/gaze/display proof
 - invented narration
 ```
 
