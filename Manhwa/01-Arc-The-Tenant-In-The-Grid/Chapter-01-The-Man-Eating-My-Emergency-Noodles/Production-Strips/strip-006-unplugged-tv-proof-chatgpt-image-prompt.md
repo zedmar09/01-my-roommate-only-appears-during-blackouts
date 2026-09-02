@@ -96,6 +96,35 @@ For BOTH speaker V26 and TV V29:
 10. disconnected state persists
 
 ==================================================
+MOBILE WALL-UNPLUG PROOF / SAFE-MARGIN GATE — ABSOLUTE
+==================================================
+
+This strip is not allowed to satisfy the unplug rule with microscopic or edge-cropped evidence.
+
+For V26 and especially V29→V30, normal mobile viewing must clearly distinguish:
+- the WALL itself
+- the outlet/faceplate physically mounted on that wall
+- the socket opening that becomes EMPTY
+- Nari's fingers visibly gripping the PLUG BODY
+- the plug body/prongs physically clearing the socket
+- the SAME loose plug still attached to the SAME cord
+- enough continuous cord path to prove it leads back toward the SAME appliance
+- the appliance-side cord connection remaining intact
+
+If one wide composition cannot make all of that readable, use two immediately adjacent causally continuous views:
+A. real wall-socket hand/plug removal detail with enough wall/faceplate context
+B. SAME appliance + SAME continuous cord + SAME loose plug + SAME empty wall socket proof
+
+These are two views of the SAME event/state, never two plugs/outlets/cords.
+
+SAFE MARGIN:
+- do not place plug, prongs, socket opening, fingers, cord attachment, or empty faceplate exactly on the canvas edge, black gutter, diagonal divider or technical seam
+- no crop may cut away the wall so the viewer could mistake the unplug for appliance-side disconnection
+- no balloon/SFX may cover the empty socket or the cord's appliance-side continuity
+
+A tiny wall outlet that cannot be distinguished from a TV port or generic black rectangle = automatic rejection.
+
+==================================================
 PLUG GRIP / FINGER ERGONOMICS — NON-NEGOTIABLE
 ==================================================
 
@@ -109,6 +138,18 @@ Nari must unplug the speaker/TV using a mechanically usable hand grip.
 - after plug clears socket, prongs/plug orientation may rotate naturally with gravity but plug identity remains same
 
 A hand silhouette merely drawn over the plug is not proof of a real grip.
+
+==================================================
+PERSPECTIVE / LENS INTEGRITY — ABSOLUTE
+==================================================
+
+Use ordinary manhwa perspective derived from the Unit references.
+- no fisheye/ultra-wide bending of the TV, TV stand, wall, faceplate, counter, floor lines or Nari's body
+- do not use forced perspective that makes the plug/hand enormous while the TV/socket shrink into unrelated scale
+- wall-mounted socket remains planar with the actual wall; it cannot rotate toward camera independently of the wall
+- close-ups may magnify on page, but world-space TV/plug/socket/hand proportions remain coherent
+
+If a dramatic angle makes the socket proof ambiguous, use a simpler proof angle.
 
 ==================================================
 CORD / PLUG GRAVITY / ROUTING — NON-NEGOTIABLE
@@ -134,10 +175,11 @@ The loose plug/socket proof must be readable WITHOUT drawing physically impossib
 If the canonical camera makes this impossible, recompose camera—not cord, TV, stand, wall, or socket.
 
 ==================================================
-TV DEVICE-TEXT PLANE — ABSOLUTE
+TV DEVICE-TEXT PLANE / MOBILE LEGIBILITY — ABSOLUTE
 ==================================================
 
 `YOUR PATCH NOTES ARE TOO LONG.` is DEVICE TEXT physically displayed on the SAME TV screen.
+- exact wording must be readable at normal mobile scale
 - text stays entirely inside the TV image area/bezel
 - if TV is shown obliquely, text follows the same screen-plane perspective instead of floating perfectly front-facing over the room
 - text does not cross bezel/stand/wall or become a speech balloon/narration card
@@ -181,12 +223,36 @@ V29 crouch/reach anatomically plausible; hand reaches wall plug without passing 
 V29→V30 SAME crouched story-world position.
 
 ==================================================
+POWERED LIGHT / SHADOW CONTINUITY — ABSOLUTE
+==================================================
+
+V26 and V27–V30 are powered Unit scenes except for the ordinary TV/speaker supernatural behavior.
+- preserve canonical powered light direction across adjacent same-state shots
+- the TV screen does not become a room-flooding key light or create a new cinematic rim/shadow direction
+- unplugging the TV does not change the apartment's room-light direction because Unit supplied power remains on
+- a proof close-up cannot introduce a different dramatic light source just to highlight the socket
+
+==================================================
 AUDIO / EYE-LINE CONTINUITY — ABSOLUTE
 ==================================================
 
 V26 Nari's question remains oriented toward the actual speaker story-world location.
 V28 Nari's head/eyes turn toward the real TV location when it activates. V29 route begins from that real sightline.
 A reverse camera may flip screen-left/right but cannot make her look toward a wrong wall while the TV/speaker source is elsewhere.
+
+==================================================
+TOP-TO-BOTTOM CAUSAL READING ORDER — ABSOLUTE
+==================================================
+
+The reader must encounter the TV sequence in this order:
+1. TV activation/helpful text while plugged
+2. Nari moves to outlet
+3. hand grips plug body at WALL socket
+4. plug physically leaves socket / `YANK`
+5. empty socket + loose plug state
+6. TV still ON despite that state
+
+Do not place the V30 active-TV proof above the V29 unplug action, and do not place `YANK` or an empty-socket detail so high that it reads before fingers/plug contact. Side-by-side proof must still have unambiguous reading order.
 
 ==================================================
 TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
@@ -215,7 +281,7 @@ Never use repetitive top-left tag treatment.
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-SMALL BLACK GUTTER between distinct beats. Side-by-side independent views require diagonal divider. Two-night transition compact purposeful black separator. No visible technical bar at 006→007 seam.
+SMALL BLACK GUTTER between distinct beats. Side-by-side independent views require diagonal divider. Two-night transition compact purposeful black separator. No visible technical bar at 006→007 seam. A divider may never cut plug/socket/cord/contact proof.
 
 ==================================================
 V26 — SAME KITCHEN / SPEAKER WALL-UNPLUG
@@ -229,7 +295,7 @@ No response.
 Nari reaches SAME speaker plug AT WALL, grips plug body, removes it FROM WALL.
 SFX:
 `YANK`
-Show empty socket and same attached cord/loose plug settling under gravity. Speaker remains counter, not hidden yet.
+Show mobile-readable empty wall socket and same attached cord/loose plug settling under gravity. Speaker remains counter, not hidden yet.
 
 COMPACT BLACK TIME TRANSITION.
 
@@ -256,15 +322,15 @@ Nari remains away from outlet.
 SMALL BLACK GUTTER.
 
 V29 — PHYSICAL TV WALL-SOCKET UNPLUG
-Nari crosses canonical route, crouches, grips SAME TV plug BODY at SAME wall socket, pulls plug out once.
+Nari crosses canonical route, crouches, grips SAME TV plug BODY at SAME WALL-MOUNTED socket, pulls plug out once.
 SFX:
 `YANK`
-Show TV-side cord still attached, continuous cord route, loose plug separated from empty outlet, believable slack/gravity.
+Show mobile-readable wall/faceplate/socket + fingers/plug removal + TV-side cord still attached, continuous cord route, loose plug separated from empty outlet, believable slack/gravity.
 
 SMALL BLACK GUTTER.
 
 V30 — WALL-UNPLUG PROOF / SAME CROUCH
-Large proof: SAME TV remains ON + SAME TV-side cord attached + continuous cord route + SAME loose wall-end plug outside SAME empty socket.
+Large mobile-readable proof: SAME TV remains ON + SAME TV-side cord attached + continuous cord route + SAME loose wall-end plug outside SAME EMPTY WALL SOCKET. Keep wall context visible so this cannot be mistaken for an appliance-side port.
 Nari remains CROUCHED. No text.
 
 ==================================================
@@ -282,24 +348,29 @@ Strip 007 begins SAME active-TV scene with Nari CROUCHED and exact TV/cord/plug/
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs redesigned/mirrored
+- fisheye/forced perspective warps TV/stand/wall/socket/Nari or makes plug proof geometrically misleading
 - V26 chopsticks rotate/re-land/change two-stick configuration before time cut
 - speaker hidden early or replugged
 - speaker/TV cord detached from appliance body
 - cable pulled instead of plug body
 - fingers grip plug prongs/cable, fuse with plug, or hand only overlaps plug with no usable grip
 - outlet moved/reinvented against canon
+- wall/socket context is cropped away so unplugging can be read as appliance-side disconnect
+- plug/socket/cord proof is microscopic, edge-cropped, divider-cut, or unreadable at mobile size
 - loose plug floats, cord clips through wall/stand/counter/cabinet/TV/furniture, or slack/length changes impossibly
 - TV plug/cord duplicates or appliance-side origin flips
-- TV device text floats off/crosses screen plane/bezel or becomes narration/speech
+- TV device text floats off/crosses screen plane/bezel, becomes narration/speech, or is unreadable
 - reflected/shadow duplicate person/figure appears
+- powered light/shadow direction changes without cause or TV becomes room light
 - same-object detail creates incompatible inserted/loose states
+- causal layout reads active-TV-after-unplug proof before the unplug action
 - silent replug
 - Nari silently stands before Strip 007
 - TV helpful text hostile
 - fridge hostile text early
 - Nari teleports or looks toward wrong source
 - text hides plug/cord proof
-- black separators missing
+- black separators missing or cut critical evidence
 - giant dead bottom appears
 ```
 
