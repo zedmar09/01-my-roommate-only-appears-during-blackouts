@@ -77,6 +77,39 @@ Do not move chair sideways through packet/table simply to create a dramatic silh
 Do not change chair size, leg spacing, backrest orientation or front/back direction during push.
 
 ==================================================
+MOBILE CHAIR-RISE PROOF / SAFE MARGINS — ABSOLUTE
+==================================================
+
+V93 must remain understandable at normal mobile reading size.
+At least one causally continuous view must clearly show:
+- Hyun-woo's hips/body truly aligned with the SAME seat before standing
+- both feet on the real floor plane
+- at least the chair legs/floor relationship needed to prove the chair moves backward
+- the clear path behind the chair
+- chair displacement before the body fully rises
+- hips/body clearing the seat
+- final standing body beside the SAME displaced chair
+
+If one wide shot makes the seat/legs/feet too small, use adjacent SAME-CHAIR details, but keep enough torso/leg/chair context to prove ownership. Do not use an isolated chair-leg close-up that could belong to another chair.
+
+SAFE MARGIN:
+- chair legs, seat/body contact, feet, packet clearance and final pushed angle must stay fully inside the image area
+- do not place the chair's rear legs, Hyun-woo's feet, or Nari's packet/STEP FOOT relation exactly on a crop edge, black gutter or diagonal divider
+- `SKRRK` cannot cover the leg/floor contact or hide which chair moved
+
+A chair technically present but too tiny to verify seated→push→stand mechanics = automatic rejection.
+
+==================================================
+PERSPECTIVE / FLOOR-PLANE INTEGRITY — ABSOLUTE
+==================================================
+
+Use ordinary non-fisheye manhwa perspective.
+- do not bend the dining table/floor lines or stretch the chair backward through forced perspective
+- do not enlarge Hyun-woo's upper body while shrinking chair/legs to fake a rise
+- chair legs and both characters' feet remain on the same consistent floor plane
+- camera angle may change, but world-space chair displacement remains the same
+
+==================================================
 SEATED / STANDING DEPTH PROOF — ABSOLUTE
 ==================================================
 
@@ -96,6 +129,25 @@ DINING SCALE / TOPOLOGY — ABSOLUTE
 
 Pot/trivet/handle/cloth/candle/wrapper/chopsticks/table/chairs retain Strip017–019 world-space scale/depth.
 Reverse shots do not change actual table side/near-far order.
+
+==================================================
+BLACKOUT LIGHT / SHADOW CONTINUITY — ABSOLUTE
+==================================================
+
+The SAME small candle remains the only local interior light source before Strip023 extinguishes it.
+- V90–V93 maintain one consistent candle-derived local light direction
+- the refrigerator hostile pixels do not become a second light source or cast new shadows
+- the chair/body movement may change cast-shadow shapes naturally as geometry moves, but the shadow SOURCE direction cannot jump sides
+- no cinematic rim light, bloom, giant wall shadow or invented spotlight is allowed
+
+==================================================
+TOP-TO-BOTTOM DIALOGUE / HOSTILE / CHAIR ORDER — ABSOLUTE
+==================================================
+
+Reader order must be:
+V90 dialogue → V91 dialogue → V92 fridge/candle hostile start + `KZZT` while Hyun-woo is still seated → V93 chair movement + `SKRRK` → standing end state.
+Do not place `SKRRK` or a standing Hyun-woo composition above the V92 seated hostile-start proof.
+Within V93, `SKRRK` visually belongs to chair-leg movement, not after he is already fully standing.
 
 ==================================================
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
@@ -137,7 +189,7 @@ SMALL BLACK GUTTER.
 
 V93 — REAL CHAIR PUSH / RISE
 Execute exact clearance/body mechanics.
-SFX:
+SFX at real chair-leg/floor motion:
 `SKRRK`
 No movement around table yet.
 
@@ -150,11 +202,15 @@ Strip021 begins Hyun-woo standing immediately beside exact pushed-back chair, Na
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - refs/geometry/scale drift
+- fisheye/forced perspective bends dining geometry or fakes chair displacement/body proportions
 - Nari moves
 - Hyunwoo stands before V93
 - chair teleports, duplicates, changes scale/orientation, floats, clips through table/packet/Nari/wall/other chair, or scrapes on a non-floor plane
+- chair/seat/feet proof is microscopic, ownership-ambiguous, edge-cropped or divider-cut
 - hips not truly seated at start / body intersects chair after standing
 - chair final pushed angle resets
+- `SKRRK` reads before chair motion or after the rise is already complete
+- candle/light shadow direction jumps without physical cause or fridge becomes a room light
 - readable fridge words early
 - text hides chair mechanics
 - invented narration
