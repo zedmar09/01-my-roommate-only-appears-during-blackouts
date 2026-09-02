@@ -1,210 +1,423 @@
-# Chapter 1 Master Continuous-Scroll Prompt
+# Chapter 1 Master Continuous-Scroll Production Authority
 
-This document is the presentation authority for the full Chapter 1 Manhwa production.
+This document is the current presentation and continuity authority for Chapter 1 of **My Roommate Only Appears During Blackouts**.
 
-```text
-Create Chapter 1 of "My Roommate Only Appears During Blackouts" as ONE CONTINUOUS full-color vertical Korean-webtoon/manhwa chapter.
+Current production status:
 
-PRODUCTION SOURCE
-Use the locked Chapter 1 Manhwa beat plan, strip manifest, current strip prompts, and approved reusable canonicals. Historical P001–P018 labels are mapping shorthand only.
+**DETERMINISTIC PRODUCTION-DIRECTOR PROMPT MIGRATION COMPLETE — STRIP 001–032 READY FOR SEQUENTIAL RENDER / VISUAL QA — NOT PRODUCTION COMPLETE**
 
-GLOBAL PRODUCTION RULES — ABSOLUTE
-`Manhwa/style-guide.md`, `Manhwa/lettering-sfx-guide.md`, `Manhwa/seam-continuity-protocol.md`, `Manhwa/vertical-scroll-layout-guide.md`, `Manhwa/generation-workflow.md`, `Manhwa/production-readiness-gate.md`, `Manhwa/seventh-hardening-visual-logic-addendum.md`, `Manhwa/eighth-hardening-presentation-integrity-addendum.md`, `Manhwa/ninth-hardening-character-topology-identity-addendum.md`, and `Manhwa/tenth-hardening-pose-performance-continuity-addendum.md` apply to every technical strip. A strip prompt may be stricter but never looser.
+The previous hardening audits remain useful for their general failure classes, but the actual generation-facing authority is now the current canonical WebPs + the current deterministic strip prompt + the immediately previous APPROVED rendered strip.
 
-INTERNAL PLAN
-146 internal read beats V01–V146 and 32 technical strips strip-001–strip-032. Never render those IDs.
+---
 
-FINAL READER EXPERIENCE
-No traditional pages, page numbers, circled panel numbers, reader-visible strip divisions, repeated headers/footers, or production/temp-state labels.
+## 1. Reader-Facing Chapter Form
 
-CANONICAL CONTINUITY STACK
+Create Chapter 1 as **ONE continuous full-color vertical Korean manhwa/webtoon chapter**.
+
+Internal production structure:
+- 146 internal read beats (`V01–V146`)
+- 32 technical generation strips (`strip-001` through `strip-032`)
+
+The reader must NEVER see:
+- V-numbers
+- strip numbers
+- panel/shot/scene IDs
+- reference names
+- filenames
+- QA notes
+- crop marks
+- atlas labels
+- temporary-state labels
+- production metadata
+
+Technical strip boundaries disappear in the final stitched chapter.
+
+---
+
+## 2. Current Production Authority Stack — Absolute
+
+Use this order whenever instructions conflict:
+
 1. current user instruction
-2. current chapter story/strip script
-3. current approved character canonical WebP(s)
-4. approved reusable environment WebP(s)
-5. approved reusable object WebP(s)
-6. current hardened strip prompt
-7. previous approved rendered strip temporary state
-8. canon-compatible derived micro-detail for chapter continuity only
+2. current chapter story / exact strip script
+3. **current approved character canonical WebP(s)**
+4. current approved environment WebP(s)
+5. current approved object WebP(s)
+6. current deterministic production-strip prompt
+7. immediately previous **APPROVED rendered strip** for temporary story/render continuity only
+8. current global physical/visual production rules
+9. historical hardening/audit/addendum wording
+10. canon-compatible derived micro-detail only
 
-Previous rendered strip and derived micro-detail never override permanent canonical WebPs.
+### Current-canonical override — absolute
 
-REFERENCE IMAGE FORMAT
-Reference prompts may generate PNG first locally. After approval, manually convert to WebP. Exact committed WebP is production attachment authority.
+If ANY historical hardening file, audit note, old strip draft, old prompt, README, checklist, or global document contains a character-specific descriptor that conflicts with the current approved character WebP, **the current approved WebP wins and the conflicting historical descriptor is retired/non-binding**.
 
-REFERENCE AVAILABILITY — BLOCKING
-Required canonical WebP missing/stale/wrong-path/unapproved → STOP. Never improvise a substitute or promote a Markdown prompt to visual authority.
+Never propagate a stale character detail simply because it appeared in an earlier hardening pass.
 
-BLACK READ-SLICE GRAMMAR — ABSOLUTE
-Every distinct vertical composition uses a small black gutter. Two different camera slices sharing a row use a diagonal/slanted black divider. Technical A/E seams remain invisible when artwork/effect continues.
+---
 
-STYLE — ABSOLUTE
-STRICT FLAT 2D HUMAN-DRAWN KOREAN MANHWA/WEBTOON ILLUSTRATION.
-Clean intentional line art, flat colors, restrained hard-edged cel shading only, matte surfaces, believable adult proportions, natural hands, stable canonical anatomy, mobile readability.
-NO photoreal/semi-photoreal, 3D/CGI/game art, painterly, glossy/wet/plastic, beauty-ad shine, airbrush-heavy, cinematic color/DOF, bloom, lens flare, excessive rim light, mirror-like reflections, hyper-texture, or AI-polished over-rendering.
+## 3. Current Character Canon — Absolute
 
-REAL-SCENARIO CONTINUITY
-All movement, object routes/counts, room axes, power states, anatomical sides, worn accessories, object orientation, world-space scale, depth order, support/gravity, eyelines, camera axis, physical text planes, reflection/shadow state, grip/contact ergonomics, presentation perspective, proof visibility, character topology/identity landmarks, pose/body-facing/performance state, relative height/build, wardrobe/local color and text ownership must remain physically coherent across all 32 strips.
+### Yoon Nari
 
-SAME-OBJECT REPRESENTATION
-Close-ups/insets/device/page/plug details are views of the SAME physical object unless another object is explicitly established. Same-moment states must agree.
+Permanent visual authority: `nari-canonical-flat2d.webp`.
 
-LEGAL TIME CUTS
-Time passage may change mundane noncritical clutter, current pose and wardrobe layer only when the new scene explicitly establishes them, but cannot erase story-critical evidence, reset permanent canon, or create a second copy.
+Use the **current approved game-developer Nari**, not the retired early design.
 
-WHOLE-BODY ANATOMICAL TOPOLOGY — ABSOLUTE
-Every visible character remains one coherent human body. No extra/missing/duplicated limbs, detached hands/feet/ears/hair masses, impossible joint directions, fused body parts, or close-up limb that cannot connect to the adjacent wide-shot body. Partial occlusion is allowed only when the hidden body connection remains physically possible.
+Current locks:
+- Korean woman exactly 30
+- medium-height slim healthy adult build
+- current approved adult face/proportions
+- long layered **very-dark warm-brown** hair, deep espresso/dark-chocolate family, normally loose to upper-back/mid-back unless the current canonical/scene state explicitly establishes an allowed variation
+- current thin practical glasses state as established by the WebP/current approved render
+- current warm-ivory/oatmeal/light-cream hoodie / charcoal developer-casual visual language
+- dark-charcoal cargo trousers
+- off-white/light-gray sneakers where shoes are worn
+- current dark wrist hair elastic/accessory state where applicable
+- current messenger/shoulder bag only in scenes where the script/current canonical state establishes it
+- matte flat-2D materials
 
-LIMB OWNERSHIP / ANATOMICAL SIDE — ABSOLUTE
-A close-up hand/wrist/foot/arm/leg belongs to the SAME character and SAME physical side established by adjacent views. Preserve sleeve/glove/tattoo/scrunchie/skin/clothing cues needed to prove ownership. Reverse shots may flip screen-left/right but never limb ownership.
+**Retired Nari details — never restore:**
+- dark-plum/purple hair
+- mouth beauty mark
+- yellow scrunchie
+- headphones-around-neck identity
+- old dark graphic hoodie + cropped utility-jacket primary identity
+- old sticker-tablet-dominant character identity
 
-PERMANENT CHARACTER LANDMARK SIDE — ABSOLUTE
-- Nari: exactly one tiny black beauty mark beside the anatomical LEFT corner of her mouth; never mirrored to anatomical right or duplicated.
-- Hyun-woo: tattoo coverage/pattern relationships remain on the same anatomical neck/collarbone/shoulder/arm regions; mask attachment and low-tied hair construction do not mirror/change.
-- Mrs. Na: same square jade earrings, same analog-watch wrist, same dark gloves unless explicitly removed.
-- Seungjae: same watch wrist, one earbud per ear when worn, same medium-brown hair part/silhouette; exactly age 30.
+A legal time/location cut may change temporary clothing layers, shoes, bag state, glasses state if explicitly established by current canon/story, but it never changes Nari into the retired design.
 
-FACE / HAIR / AGE / BUILD IDENTITY — ABSOLUTE
-Expression, reverse camera, close-up, darkness or powered light cannot recast a character. Preserve face proportions, age presentation, hair length/part/tie/fringe, height/build and permanent marks/accessories from canonical WebPs.
+### Joo Hyun-woo
 
-POSE-STATE CONSERVATION — ABSOLUTE
-A camera cut is not a pose reset. Preserve standing/seated/crouched/kneeling/walking/leaning/shielding state, weight-bearing leg(s), shoulders, hips, torso facing, head turn relative to torso, arm/hand gesture, spine lean, feet and center of mass until a visible action or legal cut changes them.
-If only head/eyes turn, shoulders/hips/feet remain. A full-body turn, new gesture or re-planted stance must be physically shown.
+Permanent visual authority: `hyunwoo-canonical-flat2d.webp`.
 
-BODY-FACING / SHOULDER-HIP AXIS — ABSOLUTE
-Stationary dialogue/action preserves the story-world direction of shoulders, sternum, hips and feet. Reverse shots may flip the page but may not silently rotate a character to a different physical facing. Head rotation may differ only within believable neck range. If a turn requires feet/chair support to change, show the movement.
+Locks:
+- Korean man appearing early/mid 30s
+- tall, broad, powerful adult build
+- long BLACK hair tied LOW
+- same matte-black technical lower-face mask and hardware
+- same anatomical tattoo-map relationships across neck/collarbones/shoulders/arms
+- matte-black sleeveless top / dark utility trousers
+- guarded, dry, controlled performance; protective when threat escalates
+- not villainously theatrical, neon, glossy, or romance-dominant
 
-RELATIVE HEIGHT / BUILD / BODY SCALE — ABSOLUTE
-Canonical relative build remains stable on the same floor plane.
-- Nari = medium-height slim adult
-- Hyun-woo = clearly taller and broader/powerful than Nari when both are upright
-- Seungjae = lean-to-average same-generation adult, clearly less broad/intimidating than Hyun-woo
-- Mrs. Na = stable realistic older-adult proportions
-Perspective may change apparent screen size, never world-space height/build. Seated/crouched differences come from pose, not resizing.
+### Mrs. Na
 
-EXPRESSION / EMOTION CONTINUITY — ABSOLUTE
-Emotion changes only because the story provides a cause. A camera cut, gutter, reverse shot or strip boundary cannot randomly reset or exaggerate emotional intensity.
-Chapter progression remains grounded: dry/practical move-in → skeptical analytical unease → ordinary Seungjae warmth/confusion → controlled blackout alertness → guarded fear/caution → wary interrogation with calm/dry Hyun-woo → focused protective urgency → acute localized shock → shaken but investigative aftermath → controlled dread at the final TV message.
-No unscripted screaming, tears, chibi shock, villain smirks, romantic glamour/blush, rage or melodrama.
+Permanent visual authority: `mrs-na-canonical-flat2d.webp`.
 
-GESTURE CONTINUITY — ABSOLUTE
-Pointing, phone hold, shielding arms, hand-to-ear, knife-low posture, hand on hardware/object, notebook/pen posture and other temporary gestures persist until visibly released/changed. Do not invent expressive gestures that conflict with hand occupancy or story state.
+Locks:
+- late-60s Korean woman
+- mature realistic older-adult proportions
+- tight practical silver twist
+- square jade earrings
+- muted-mauve tailored coat
+- dark gloves
+- analog wristwatch on the same canonical wrist
+- practical handbag/shoes
+- brisk, guarded, matter-of-fact performance
 
-CLOTHING-LAYER / CLOSURE STATE — ABSOLUTE
-Within one continuous scene preserve how wardrobe is worn: jacket/coat present, open/closed state where visible, hood up/down, sleeves, bag worn/removed, headphones position, mask seated/lowered state. A reverse shot cannot zip/unzip, roll sleeves, move a hood, remove a bag or alter mask state without visible action/legal cut.
+The Unit 2407 brass key is a separate object authority; it is not permanently attached to her character card.
 
-HAIR / GARMENT MOTION CONTINUITY — ABSOLUTE
-Hair/clothing may sway naturally with motion but cannot redesign themselves. Nari's long loose hair stays same length/part/volume family, Hyun-woo remains one low-tied hair mass, Mrs. Na's silver twist remains fixed, Seungjae's styled hair retains its part/silhouette. Motion cannot hide an unperformed body turn.
+### Im Seungjae
 
-WARDROBE / LOCAL-COLOR CONTINUITY — ABSOLUTE
-Within one continuous scene, clothing construction and signature local colors stay the same physical items/colors unless a legal cut or scripted wardrobe change says otherwise. Lighting may change value naturally but may not change identity hue/material. Nari's dark-plum hair/yellow scrunchie, Hyun-woo's matte-black mask/top and tattoo map, Mrs. Na's mauve coat/jade earrings/dark gloves, and Seungjae's medium-brown hair/youthful office-casual outfit remain stable.
+Permanent visual authority: `seungjae-canonical-flat2d.webp`.
 
-CLOTHING / BODY OCCLUSION TOPOLOGY — ABSOLUTE
-Sleeves, trousers, coat, hoodie, hair, headphones, bag straps and mask straps must wrap/attach to the same continuous body. Clothing may partially occlude a limb but may not create/mask an extra or missing limb or show tattoos through opaque fabric.
+Locks:
+- exactly 30
+- youthful medium-brown hair / full youthful hairline
+- lean-to-average adult build
+- clearly less broad/intimidating than Hyun-woo
+- contemporary youthful office-casual styling
+- one foldable phone
+- one smartwatch
+- one pair earbuds
+- one ordinary umbrella where scripted
+- ordinary confident coworker energy, not paternal/executive/sinister
 
-SPEAKING / LISTENING / MOUTH-STATE LOGIC — ABSOLUTE
-Visible acting must agree with line ownership. Do not make a listener mouth another character's line, do not animate internal thought/narration/device/speaker audio as human spoken dialogue, and do not expose/rebuild masked Hyun-woo's lower face merely to indicate speech.
+---
 
-CHARACTER LOCAL-MATERIAL CONTINUITY — ABSOLUTE
-Skin, hair, fabric, mask, tattoo, jewelry and accessories stay in the same flat matte material family across adjacent views. No glossy character close-up, neon tattoo, shiny mask, glowing jade/watch, or wet-looking hair without physical cause.
+## 4. Unit 2407 Geometry — Absolute
 
-ANATOMICAL-SIDE / WORN-STATE CONTINUITY
-When a strip defines a production-only identity such as KNIFE HAND, PHONE HAND, WRITING HAND, SCRUNCHIE WRIST, STEP FOOT, CANDLE FOOT, BAG SHOULDER, UMBRELLA HAND, or PHONE POCKET, preserve that physical side across reverse shots until visible transfer/release/expiry. These labels never render.
+Permanent environment WebPs control Unit 2407.
 
-CAMERA AXIS / EYELINE — ABSOLUTE
-Same continuous conversation/action preserves world-space sides and real gaze targets. Reverse shots may flip screen-left/right but cannot silently exchange physical positions or make characters look toward the wrong speaker/device/object. Crossing the 180° axis requires a neutral reorientation view first.
+Primary established orientation:
+- living / TV zone = LEFT
+- dining = CENTER
+- exactly TWO burgundy dining chairs
+- kitchen / refrigerator = RIGHT
+- hallway / bedrooms behind the open-plan area
+- corner-window relationship fixed
+- entry shelf / brass-key tray fixed
+- work-desk zone fixed
+- lower speaker-storage cabinet near refrigerator fixed
 
-PERSPECTIVE / LENS INTEGRITY — ABSOLUTE
-Use ordinary manhwa perspective. Do not use fisheye/ultra-wide/forced-perspective distortion that curves canonical architecture, changes body/object world proportions, reverses orientation, or makes false contact. Dramatic composition comes from framing and shot size, never geometric warping.
+Do not mirror the apartment.
+Do not invent a kitchen island if canon does not contain one.
+Do not merge dining table with kitchen counter.
+Do not create duplicate refrigerators, duplicate counters, duplicate furniture, or a different kitchen for a close-up.
 
-MOBILE-SCALE EVIDENCE LEGIBILITY — ABSOLUTE
-Continuity-critical physical proof must be understandable at normal mobile reading size. Plug/socket/cord, key transfer, page turn, tool return, food path, foot/packet contact, chair mechanics, mask hardware, knife fall/impact, wrist contact, phone/notebook placement, cabinet reveal, handwriting and final TV text may not be microscopic or ambiguous. Use an immediately adjacent SAME-OBJECT detail when a wide is insufficient.
+### Rendered continuity rule
 
-CROP / GUTTER / DIVIDER SAFE MARGIN — ABSOLUTE
-Do not place decisive contact exactly on a crop, canvas edge, black gutter, diagonal divider or technical seam. Keep the complete mechanism plus enough context inside the readable frame. A divider may never cut through a continuity-critical hand, foot, cord, object, text carrier or action path.
+Once a strip is visually APPROVED, that exact rendered strip becomes the temporary visual continuity reference for the next strip.
 
-PHYSICAL TEXT-PLANE — ABSOLUTE
-TV/fridge/tablet/phone/smart-lock text stays inside the actual screen plane. Binder/note/notebook text stays on the actual page plane. Text follows carrier perspective/boundaries and cannot float as detached UI/narration in room space.
+For example:
+- APPROVED Strip 001 helps Strip 002 preserve the approved story rendering of Unit 2407 and Nari.
+- APPROVED Strip 020 helps Strip 021 preserve the pushed-chair state and exact blocking geography.
 
-READABLE IN-WORLD TEXT — ABSOLUTE
-Required exact device/page/note/notebook wording must remain legible at normal mobile size. Hostile distortion may affect edges but cannot turn story-critical wording into unreadable glyph noise. If needed, use a SAME-OBJECT detail instead of enlarging the object in world space.
+The previous rendered strip may never override a current canonical WebP.
 
-REFLECTION / SHADOW FALSE-DUPLICATE BAN — ABSOLUTE
-Unless explicitly scripted, no readable reflected duplicate person/object, shadow-person, face, hand or human silhouette may appear in screens, appliances, windows, glass, counters or other surfaces. Shadows must come only from real current light sources.
+---
 
-LIGHTING SOURCE / SHADOW DIRECTION CONTINUITY — ABSOLUTE
-Within one lighting state, light direction and cast-shadow logic remain consistent with the real sources. Powered Unit uses the canonical powered baseline; blackout has no invented light; the candle controls local light until extinguished; fridge/TV pixels are not room lights; power restoration changes lighting only at the scripted event; `FZZT` briefly interrupts and returns to the same powered baseline. Flat 2D readability separation is not a second story-world light source.
+## 5. Deterministic Generation-Strip Standard — Absolute
 
-GRIP / CONTACT ERGONOMICS — ABSOLUTE
-Hands must use believable usable grips on plug body, key/ring, knife handle, pen, chopsticks, phone, umbrella/bag handle, mask hardware, cabinet/door hardware, packet, lid, flashlight/radio. Fingers may not fuse with/pass through objects or grip unsafe/impossible surfaces.
+Strip 001 is the reference implementation for the current generation format. Strips 002–032 have been migrated to the same production-director standard.
 
-CLOTHING / ACCESSORY ATTACHMENT — ABSOLUTE
-Scrunchie, headphones, bag straps, watch, earbuds and mask straps physically attach to the same body/clothing locations without floating, clipping, side swaps or disappearing. Hair/clothing/front-behind order must remain physically plausible.
+Every current strip prompt must provide, as applicable:
+- filename-only required attachment set
+- current-canon / previous-strip authority rule
+- explicit start state
+- allowed physical changes
+- exact end state
+- real-world scale/proportion expectations
+- camera/framing direction per vertical/read beat
+- visible environment anchors
+- character pose/facing/performance
+- object count/state/orientation
+- physical action chain
+- exact text/SFX ownership
+- beat-height / visual-rhythm guidance
+- seam state for the next strip
+- local automatic-reject conditions
 
-ORIENTATION / HINGE / HANDLE / TRACK — ABSOLUTE
-Reverse camera may flip screen-left/right but may never reverse story-world mechanics: door/cabinet/elevator mechanism, binder spine/page-turn direction, knife/sheath axis, appliance cord-origin side, pot handle/cloth side, chair front/back/pushed angle.
+Do not replace a detailed beat with a generic illustration.
 
-WORLD-SPACE SCALE / FIT — ABSOLUTE
-Close-up magnification does not change story-world size. Objects must physically fit containers/support planes at stable scale. Never shrink speaker into stockpot, tools into tray, notebook onto crowded table, or enlarge TV for ending.
+If narration says a system exists, the image should visually demonstrate the relevant evidence where the strip prompt requires it. Narration must not substitute for a missing visual beat.
 
-DEPTH / REAL CONTACT — ABSOLUTE
-2D overlap is not contact. Grips, steps, sitting, mask hardware, wrist contact, protective blocking and threshold crossings must be physically readable in floor-plan/depth space.
+---
 
-CRITICAL OBJECT / LIMB SILHOUETTE COMPLETENESS — ABSOLUTE
-Close-ups must retain enough connected body/object context to prove ownership and orientation. Do not crop a hand away from its arm, foot away from its body state, loose plug away from the same cord/appliance, knife impact away from identifiable knife contour, or notebook page away from same notebook/spine context.
+## 6. Sequential Render Workflow — Absolute
 
-FLEXIBLE OBJECT / GRAVITY / NO-CLIPPING — ABSOLUTE
-Cords/plugs/towels/cloth/straps/paper/packets/falling props obey gravity, support and collision. No floating plug, impossible cord slack, cord through furniture/walls, cloth through solids, or knife/chopsticks passing through bodies/furniture.
+Production proceeds strictly:
 
-AUDIO SOURCE / REACTION DIRECTION — ABSOLUTE
-Offscreen/device audio remains at its real story-world source. SFX/voice lettering points to that source and character gaze/body reaction turns toward it. Reverse camera cannot migrate sound to another wall/device.
+1. generate current strip from its deterministic prompt + exact required current WebPs + previous APPROVED rendered strip where required
+2. inspect actual pixels
+3. reject/fix/regenerate until the strip passes
+4. only an actually passing render becomes `APPROVED Strip N`
+5. attach that approved image to the next strip
+6. continue sequentially through Strip 032
+7. stitch approved strips
+8. perform fresh final visual/seam/mobile clean-room audit
 
-WEATHER / GLASS BOUNDARY — ABSOLUTE
-Exterior rain remains outside the building envelope after characters enter. Glass may have restrained environmental sheen but never reflected human duplicates.
+Never use an old rejected/pre-migration image as previous-strip authority merely because it exists.
 
-TOP-TO-BOTTOM READER ORDER — ABSOLUTE
-Reader-facing action, dialogue, narration, device text and SFX must read in the exact scripted causal order. Balloon order may not make a later line read before an earlier line. SFX must sit at the physical action moment, not visually before its cause. If one composition cannot preserve order, use more vertical space or unlabeled sub-slices without rewriting text.
+---
 
-LETTERING EVIDENCE SAFETY
-Speech balloons, narration, device text, handwriting and SFX must never cover continuity-critical action/scale/orientation/depth/gaze/identity/pose evidence. Reflow lettering/composition instead.
+## 7. Strict Flat 2D Style — Absolute
 
-SFX / LETTERING
-Every sound: PHYSICAL SOURCE → ACTION → SOUND → TIMING → PLACEMENT → STATE CHANGE → NEXT CONSEQUENCE. No filler SFX.
+**STRICT FLAT 2D HUMAN-DRAWN KOREAN MANHWA / WEBTOON.**
 
-NO DEAD BOTTOM — ABSOLUTE
-No giant unused tail and no invented filler text/SFX.
+Required:
+- clean intentional line art
+- flat matte colors
+- restrained hard-edged cel shading
+- stable adult anatomy
+- natural hands
+- matte skin/hair/fabric/walls/floors/furniture/appliances/screens
+- ordinary manhwa perspective
+- mobile readability
 
-POWER ARC
-Strips 014–025 contain the actual Unit 2407 outage. Hyun-woo remains physical until Unit 2407 itself powers on. Strips 026–032 are normally powered.
+Reject:
+- photoreal / semi-photoreal
+- 3D / CGI / game render
+- painterly / airbrushed
+- glossy / wet / plastic
+- beauty-ad shine
+- cinematic color grade
+- depth-of-field blur
+- bloom
+- lens flare
+- volumetric light
+- excessive rim light
+- mirror-like reflections
+- hypertexture / AI-polished over-rendering
 
-CHAPTER END
-End on the SAME wall-unplugged TV displaying `NEW TENANT CONFIRMED`; apartment lights flicker once `FZZT` but supplied power remains on. Preserve same room scale/depth/table/cabinet/notebook/cord/Nari seated state through final reveal.
+---
 
-FINAL APPROVAL RULE
-Do not declare Chapter 1 production-complete from prompts/reference availability. Final approval requires all 32 rendered strips, sequential visual QA, seam/stitch QA, and a fresh clean-room visual audit with zero unresolved mandatory defects.
-```
+## 8. Real-World Scale / Proportion — Absolute
 
-## Tenth / Final Deep-Hardening Binding Note — Absolute
+Character, object, and environment proportions remain physically believable.
 
-The current Strip 001–032 prompts have completed the **TENTH / FINAL** `manhwa-2d-production-auditor` hardening pass. The ninth PASS was deliberately not accepted as proof.
+Rules:
+- close-up magnification changes camera framing only, never story-world size
+- doors remain normal residential scale
+- tables/chairs/counters/refrigerator remain stable human-scale fixtures
+- the smart speaker remains a small hand-liftable countertop object
+- recurring pots/tools/phone/tablet/notebook/key remain stable sizes
+- characters do not shrink/grow between reverse shots
+- Hyun-woo remains clearly taller/broader than Nari when both are upright on the same floor plane
+- Seungjae remains leaner/less imposing than Hyun-woo
+- Unit 2407 remains a believable modern two-bedroom apartment, not a penthouse, mansion, luxury loft, hotel suite, office showroom, or miniature set
 
-The final pass targeted:
-- silent pose resets at camera cuts
-- shoulder/hip/torso/feet facing changes without movement
-- relative character height/build changing between shared views
-- emotion intensity resetting/jumping without story cause
-- gesture changes that conflict with hand occupancy
-- clothing-layer/hood/sleeve/bag/mask wear state changing without action
-- hair/garment motion becoming a redesign
-- strip boundaries forgetting inherited pose/facing/emotional state
+---
 
-`Manhwa/tenth-hardening-pose-performance-continuity-addendum.md` is binding on all 32 strips together with every earlier rule.
+## 9. Whole-Body / Limb / Pose Continuity — Absolute
 
-Local tenth/final rewrites were required for **005, 009, 012, 016, 017, 020, 021, 025, 032**. The other 23 strips were re-read under the final gate and required no additional deterministic local rewrite.
+Every visible character remains one coherent body.
 
-After those repairs, the complete current Strip 001→032 package was read again. The post-repair clean-room audit found zero additional deterministic prompt/canon defects.
+Reject:
+- extra/missing/duplicated limbs/fingers/ears/body parts
+- detached hand/foot
+- impossible joint/body connection
+- close-up limb that cannot belong to the adjacent body
+- anatomical-side swaps on reverse shots
+- a camera cut silently resetting standing/seated/crouched/walking/leaning/shielding state
+- shoulder/hip/torso/feet facing changing without movement
+- temporary gestures changing without visible action
 
-Current prompt/reference verdict:
-**TENTH / FINAL FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+Current worn items/accessories follow the current character WebP + current scene state. Do not use historical examples as permission to restore retired accessories.
 
-Previously rejected or pre-tenth rendered attempts are not approved previous-strip continuity authorities. Retesting begins with a brand-new Strip 001 under the current final package. Actual pixel-level visual QA remains mandatory before Strip 002 may proceed.
+---
+
+## 10. Object / Prop Persistence — Absolute
+
+Same object = same physical object.
+
+Track:
+- brass backup key
+- electrical-operation guide
+- TV
+- smart speaker + attached cord + wall-end plug
+- refrigerator
+- phone/tablet
+- note/pen/notebook
+- flashlight/radio/practical knife/sheath
+- guarded fruit knife
+- candle/holder
+- dining chairs
+- cooking pot / storage pot
+- towels/lid
+- noodle packets/wrappers
+- chopstick pairs
+
+Occlusion is not disappearance.
+A close-up is not another copy.
+A legal time cut may resolve mundane noncritical clutter, but not story evidence needed later.
+
+---
+
+## 11. Wall-Socket Rule — Absolute
+
+`UNPLUGGED` means:
+
+**THE ELECTRICAL PLUG BODY IS PHYSICALLY REMOVED FROM A WALL-MOUNTED SOCKET WHILE THE APPLIANCE-SIDE CORD REMAINS ATTACHED.**
+
+Proof, when required:
+- real wall context
+- wall faceplate/socket
+- hand gripping plug BODY
+- plug clears socket
+- appliance-side cord stays attached
+- same continuous cord
+- same loose wall plug
+- wall socket visibly empty
+- believable cord gravity/slack/no clipping
+
+Never use appliance-side cable removal as unplug proof.
+Never silently replug.
+
+---
+
+## 12. Camera / Perspective / Spatial Logic — Absolute
+
+- no fisheye / ultra-wide distortion that changes canon
+- same conversation preserves physical sides and eyelines
+- reverse shots may flip screen-left/right only; story-world positions do not swap
+- crossing the 180° axis requires a clear reorientation view
+- doors/cabinets/elevators preserve hinge/handle/track mechanics
+- walking routes use real floor-plan clearance
+- foreground perspective may enlarge screen appearance but not world-space scale
+
+---
+
+## 13. Physical Text Planes / Lettering — Absolute
+
+Device text remains on the actual device screen.
+Physical writing remains on the actual page.
+
+Examples:
+- TV text inside TV screen
+- refrigerator text inside narrow refrigerator display
+- phone/tablet text inside actual screen plane
+- smart-lock history inside actual lock display
+- binder/notebook/note writing follows actual paper perspective
+
+Reject floating detached UI when the story text belongs to a physical carrier.
+
+Story-critical exact wording must remain readable at normal mobile size.
+
+Lettering/SFX may never cover continuity-critical physical evidence.
+
+---
+
+## 14. Audio Source — Absolute
+
+Offscreen/device audio remains at its real story-world source.
+
+Examples:
+- speaker audio points to the actual smart speaker
+- cabinet chimes point to the actual closed speaker-storage cabinet
+- refrigerator shriek comes from the actual refrigerator
+- security/voicemail audio comes through the actual phone
+
+Character gaze/body reaction must orient toward the real source.
+
+No physical/reflected/shadow Hyun-woo may appear while Unit power is on unless the script explicitly establishes him as physical.
+
+---
+
+## 15. Lighting / Power Arc — Absolute
+
+Strips 014–025 contain the actual Unit 2407 outage.
+
+- powered Unit uses the approved powered lighting baseline
+- blackout removes real powered sources
+- do not invent moon/rim/device light just to make characters cinematic
+- the candle is a small local source only while lit
+- after `PFF`, candle light contribution ends
+- refrigerator/TV pixels do not become room lights
+- V113 city recovery is distinct from V117 Unit 2407 power return
+- Hyun-woo remains physical through the final dark conversation and is absent only after Unit 2407 itself powers on
+- after power return, no afterimage/fade/shadow/reflection/ghost trace of Hyun-woo remains
+
+---
+
+## 16. Chapter-End Lock — Absolute
+
+End on the SAME wall-unplugged TV displaying exactly:
+
+`NEW TENANT CONFIRMED`
+
+Then apartment lights flicker once:
+
+`FZZT`
+
+Unit supplied power remains on.
+Nari remains in the same seated state inherited from Strip 031, reacting with controlled dread rather than melodrama.
+No `TO BE CONTINUED`, credits, title card, or extra story event.
+
+---
+
+## 17. Completion Language
+
+The deterministic prompt migration does **not** certify generated art.
+
+Current valid status:
+
+**DETERMINISTIC PRODUCTION-DIRECTOR PROMPT MIGRATION COMPLETE — STRIP 001–032 READY FOR SEQUENTIAL RENDER / VISUAL QA — NOT PRODUCTION COMPLETE**
+
+Use `PRODUCTION COMPLETE` only after:
+- all 32 current rendered strips pass actual visual QA
+- all seams/stitches pass
+- mobile readability passes
+- final clean-room rendered audit has zero unresolved mandatory defects
