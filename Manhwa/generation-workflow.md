@@ -36,7 +36,7 @@ It does not outrank permanent canon. If previous rendered strip contains permane
 
 ## Derived Micro-Detail Rule — Canon-Subordinate Only
 
-A story may require a small practical detail not clearly readable in existing canonical WebPs, such as exact outlet faceplate, ordinary utensil-storage point, or minor non-plot fitting.
+A story may require a small practical detail not clearly readable in existing canonical WebPs, such as exact outlet faceplate, ordinary utensil-storage point, thermostat control, or minor non-plot fitting.
 
 When this happens:
 - exhaust attached floor plan, wides/details, object reference, and angle atlas first
@@ -146,7 +146,7 @@ Occlusion is not disappearance. New camera angle does not authorize reset.
 
 ### Camera-Cut Conservation Rule — Absolute
 
-Close-up, reverse shot, reaction insert, gutter, diagonal split, or strip boundary cannot silently change quantity, anatomical ownership, orientation, connection state, or location. Off-frame objects still exist at last valid state until visible/legal change.
+Close-up, reverse shot, reaction insert, gutter, diagonal split, or strip boundary cannot silently change quantity, anatomical ownership, orientation, connection state, scale, depth order, or location. Off-frame objects still exist at last valid state until visible/legal change.
 
 ## Temporary Anatomical-Side Identity — When Applicable
 
@@ -155,6 +155,7 @@ When a continuity-critical temporary state remains on one physical anatomical si
 May apply to:
 - `KNIFE HAND`
 - `PHONE HAND`
+- `WRITING HAND`
 - `SCRUNCHIE WRIST`
 - `STEP FOOT`
 - `CANDLE FOOT`
@@ -178,6 +179,80 @@ If a worn accessory is established and no removal/transfer is scripted, it remai
 Examples: scrunchie wrist, headphones around neck, watch wrist, earbuds, bag shoulder.
 Partial occlusion is allowed; disappearance, side swap, duplication, move to another body location/surface is not.
 
+## Orientation / Hinge / Handle Conservation — Absolute
+
+Identity includes physical orientation and mechanics, not only object existence.
+
+Preserve canonical or already-established:
+- door hinge side, handle side, lock position, opening arc, interior/exterior face
+- cabinet hinge side, handle location, opening direction, interior support plane
+- elevator/glass-door sliding or swinging mechanism
+- appliance front/back and cord-origin side
+- binder spine/ring side and page-turn direction
+- knife blade/handle/sheath-mouth orientation
+- pot handle direction and cloth relationship
+- chair front/back and pushed angle
+
+A reverse camera may flip screen-left/right but cannot reverse the story-world hinge, handle, spine, cord origin, or opening direction.
+Do not turn a sliding door into a hinged door, reverse a cabinet hinge, move a smart lock to the opposite door edge, or flip an appliance/object construction for composition convenience.
+
+## Object Scale / Fit Conservation — Absolute
+
+Recurring objects keep physically consistent size and thickness relative to characters, furniture, containers, and canonical references.
+
+Reject hidden scale changes used to make an action fit.
+Examples:
+- speaker may not shrink to fit stockpot/cabinet
+- stockpot/lid/towels must fit the actual cabinet volume without cabinet enlargement
+- flashlight/radio/sheathed knife must fit the actual emergency tray at their stable sizes
+- A5 notebook remains true A5-like scale and must fit its table zone without shrinking or overhang
+- noodle packets, pot, candle/holder, key, phone, tablet, TV, refrigerator remain stable scale across close-ups
+- chair/table human proportions cannot change between seated/standing shots
+
+Perspective may change apparent size, but world-space scale and fit remain coherent.
+
+## Depth-Order / Occlusion / Contact Proof — Absolute
+
+2D overlap is not automatically real contact and cannot replace spatial logic.
+
+For continuity-critical contact:
+- show enough contour/touch relationship to prove the surfaces actually meet
+- fingers must visibly wrap/contact where grip matters
+- foot must share the floor plane with packet where contact matters
+- body must align with chair seat for sitting/standing
+- hand over a wrist/mask/handle cannot merely overlap as a foreground silhouette; the actual contact must read
+
+Preserve depth order when the story depends on it:
+- a blocking character must be physically between protected character and threat in floor-plan space, not merely drawn over them
+- foreground/background camera changes cannot teleport someone through another person/table/appliance
+- close-up occlusion never authorizes hidden relocation
+- an offscreen object still occupies its last valid depth/location
+
+If a shot creates ambiguous fake contact or impossible depth, recompose the camera.
+
+## Flexible-Object / Gravity / No-Clipping Rule — Absolute
+
+Flexible or loose objects obey real support, gravity, and collision unless supernatural action explicitly changes them.
+
+Applies to:
+- electrical cords/plugs
+- towels/cloth
+- hair/headphones/straps/bag straps
+- chopsticks/packets during falls
+- loose paper/pen
+- clothing hems
+
+Rules:
+- cords cannot pass through TV stands, cabinets, walls, counters, furniture, speaker body, or each other impossibly
+- a loose wall plug must hang/rest with believable gravity/slack; it cannot float unsupported
+- cord length cannot grow/shrink to reach a convenient socket
+- coiled cord inside stockpot cannot pass through speaker/towels/lid or exit a closed container
+- cloth/towels cannot occupy the same solid volume as pot/speaker/lid
+- falling objects follow a physically clear path and cannot pass through bodies/table/chair before impact
+- loose props on surfaces have believable support and do not hover
+
+Use flatter graphic simplification for style, but never violate physical topology.
+
 ## Prop Topology / Relative-Placement Conservation — Absolute
 
 Continuity includes where an object is relative to nearby anchors.
@@ -189,7 +264,7 @@ Examples:
 - candle same side/position relative to pot/chair
 - used/clean chopsticks same rest points
 - wrapper/packet same floor/table spots
-- lid same shelf side when removed
+- lid same support-plane side when removed
 - pushed chair same displaced angle
 - knife same impact point
 - separate floor evidence stays separate
@@ -204,7 +279,7 @@ For every slice verify:
 - seated anatomy actual chair geometry
 - reach distance possible
 - eyeline real target location
-- door/cabinet swing respects hinges/walls
+- door/cabinet/elevator motion respects canonical hinges/sliding tracks/walls
 - route fits floor plan
 - bodies do not pass through furniture/walls/appliances/other fixed evidence
 - object/character scale matches references
@@ -225,8 +300,9 @@ Required:
 - after unplugging loose plug remains attached and socket empty
 - disconnected wall-end state persists until explicit re-plug
 - critical unplug action visibly proves hand + plug + wall socket
+- cord/plug obey the Flexible-Object / Gravity / No-Clipping Rule
 
-Reject appliance-side disconnect, cable tug, moved socket, disappearing plug, cropped socket interaction, silent re-plug.
+Reject appliance-side disconnect, cable tug, moved socket, disappearing plug, cropped socket interaction, floating plug, cord-through-furniture, impossible slack, or silent re-plug.
 
 ## Fixed Local Wall-Outlet Continuity — Canon-Subordinate
 
@@ -282,7 +358,7 @@ Never render production metadata anywhere, especially top-left:
 - V/P IDs
 - strip IDs
 - BEAT/SCENE/PANEL/SHOT/REFERENCE/DRAFT/LAYOUT/QA
-- temporary state names such as KNIFE HAND, STEP FOOT, NOTEBOOK ZONE
+- temporary state names such as KNIFE HAND, STEP FOOT, NOTEBOOK ZONE, WRITING HAND
 - circled panel numbers, crop marks, technical headers/footers
 
 Any production/state label in artwork = automatic rejection.
@@ -304,31 +380,35 @@ Never propagate style drift from previous strip.
 5. Attach relevant object WebPs.
 6. Strip 002 onward: previous APPROVED strip = temporary state/seam only.
 7. Missing/stale/wrong/unapproved canonical → STOP.
-8. Check START/ALLOWED/END, legal-cut persistence, deterministic single mechanism, action-proof, same-object representation, anatomical-side identities, worn accessories, prop topology, derived detail/outlet.
+8. Check START/ALLOWED/END, legal-cut persistence, deterministic single mechanism, action-proof, same-object representation, anatomical-side identities, worn accessories, orientation/hinge mechanics, object scale/fit, depth/contact, flexible-object/gravity, prop topology, derived detail/outlet.
 9. Generate one tall strip with no production IDs.
 10. QA exact script/source ownership, identity, movement, object routes/counts, geometry, power/light, object states, lettering/SFX, seams.
 11. QA adjacent slices for micro-continuity.
 12. QA same-object wide/detail representation for duplicate/incompatible states.
 13. QA temporary anatomical-side identities when applicable.
 14. QA worn accessories.
-15. QA prop topology/relative sides across reverse shots.
-16. QA every critical action for visible proof.
-17. QA routes against floor obstacles/evidence.
-18. QA unplugging against wall-socket/canon-subordinate outlet rules.
-19. QA derived micro-detail remains minimal/subordinate.
-20. QA permanent canon separately from previous-strip state.
-21. QA character card consistency.
-22. QA strict flat 2D pixels.
-23. QA SFX physical chain.
-24. QA lettering/balloon evidence safety.
-25. QA narration treatment/placement.
-26. QA black read-slice/diagonal divider grammar.
-27. QA lower-canvas dead space.
-28. Reject/regenerate if any mandatory item fails.
-29. Re-audit correction + adjacent seams.
-30. Only APPROVED Strip N becomes temporary continuity authority for N+1.
-31. After Strip032 passes, stitch/seam QA/uniform resize.
-32. Run fresh clean-room 001→032 audit; never trust earlier PASS labels.
+15. QA hinge/handle/object orientation across reverse shots.
+16. QA world-space scale and physical fit.
+17. QA depth order and real contact rather than silhouette overlap.
+18. QA flexible objects/cords/cloth for gravity and no clipping.
+19. QA prop topology/relative sides across reverse shots.
+20. QA every critical action for visible proof.
+21. QA routes against floor obstacles/evidence.
+22. QA unplugging against wall-socket/canon-subordinate outlet rules.
+23. QA derived micro-detail remains minimal/subordinate.
+24. QA permanent canon separately from previous-strip state.
+25. QA character card consistency.
+26. QA strict flat 2D pixels.
+27. QA SFX physical chain.
+28. QA lettering/balloon evidence safety.
+29. QA narration treatment/placement.
+30. QA black read-slice/diagonal divider grammar.
+31. QA lower-canvas dead space.
+32. Reject/regenerate if any mandatory item fails.
+33. Re-audit correction + adjacent seams.
+34. Only APPROVED Strip N becomes temporary continuity authority for N+1.
+35. After Strip032 passes, stitch/seam QA/uniform resize.
+36. Run fresh clean-room 001→032 audit; never trust earlier PASS labels.
 
 ## Reference Priority
 
@@ -374,6 +454,12 @@ Reject for:
 - same-object close-up/inset creates duplicate/incompatible state
 - hand/foot/wrist/shoulder/pocket silently swaps anatomical side
 - worn accessory disappears/swaps/duplicates
+- hinge/handle/spine/door/cabinet/elevator mechanism reverses
+- recurring object changes world-space scale or is shrunk/enlarged to fit
+- fake contact produced only by 2D overlap/occlusion
+- blocking/depth order is physically false in floor-plan space
+- cord/cloth/strap/hair/loose prop clips through solid geometry or floats against gravity
+- cord length/slack changes impossibly
 - prop topology swaps physical sides
 - route crosses/kicks floor evidence without script
 - continuity-critical mechanism hidden/cropped
