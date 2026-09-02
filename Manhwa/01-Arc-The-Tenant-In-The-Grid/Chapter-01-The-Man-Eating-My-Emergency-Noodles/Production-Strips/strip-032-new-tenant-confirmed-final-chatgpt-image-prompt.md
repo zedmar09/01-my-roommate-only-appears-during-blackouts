@@ -30,8 +30,8 @@ START:
 - SAME TV activation fraction after Strip031; hostile field already active
 - SAME TV-side cord attached; continuous same cord; loose plug outside same empty socket; no second source
 - Unit supplied power ON
-- Nari SAME untouched chair, already turned TV; worn state unchanged
-- SAME open true-scale A5 notebook in NOTEBOOK ZONE, exact writing; pen resting horizontally on page/margin
+- Nari SAME untouched chair, already turned toward actual TV; worn state unchanged
+- SAME open true-scale A5 notebook in NOTEBOOK ZONE with exact physical handwriting; pen resting horizontally on page/margin
 - NOODLE POT and all table evidence unchanged
 - STORAGE POT/open speaker cabinet state unchanged
 - Hyun-woo absent
@@ -52,70 +52,78 @@ END:
 - end immediately
 
 ==================================================
+FINAL TV DEVICE-TEXT PHYSICAL-PLANE LOCK — NON-NEGOTIABLE
+==================================================
+
+`NEW TENANT CONFIRMED` belongs ONLY to the SAME physical TV screen.
+- exact wording only
+- text stays completely inside TV image area/bezel
+- text follows TV screen plane/perspective if the TV is shown obliquely
+- hostile sync-tear/black-pixel treatment remains inside the screen field and does not become floating room graphics
+- do not place the message on wall, reflection, narration card, hologram, lower-third or speech balloon
+- a close-up may make the message front-readable, but it is a representational view of the SAME TV, not a second screen or floating UI
+
+The final reveal must remain readable without enlarging the TV in world space.
+
+==================================================
+NARI→TV EYE-LINE / REACTION — ABSOLUTE
+==================================================
+
+Nari remains actually seated in SAME chair and already oriented toward the real TV position from Strip031.
+- her eyes/head reaction remains directed at the actual TV screen
+- no camera reverse may move the TV to another wall or make her gaze point away
+- head/shoulders/upper torso may react, but hips/chair/feet remain fixed
+- notebook/pen remain on table; she does not look down/pick them up again
+
+==================================================
 FINAL SCALE / DEPTH / COMPOSITION CONSERVATION — NON-NEGOTIABLE
 ==================================================
 
-A “hero” final composition is NOT permission to redesign scale or spatial relationships.
-
-Preserve world-space proportions from Strip031:
-- TV same width/height/stand/cord origin relative to wall/furniture
-- Nari same adult scale relative to chair/table
-- dining table/chairs same scale/depth
-- true A5 notebook same footprint in NOTEBOOK ZONE
-- NOODLE POT/trivet/packet/wrapper/Pair A/Pair B/candle same scale and table positions
-- STORAGE POT/open cabinet/lid/towels/speaker same cabinet scale/depth
-
-Do NOT:
-- enlarge TV to fill room/canvas
-- shrink Nari/table/notebook to make message dominant
-- pull Nari/table closer to TV in story space
-- compress room depth into flat collage
-- move cabinet/table/TV to fit final poster-like layout
-
-Use camera framing/vertical crop to make final message dominant while preserving actual room geometry.
+Preserve world-space proportions from Strip031: TV, Nari/chair/table, A5 notebook, NOODLE POT/trivet/packet/wrapper/Pair A/B/candle, STORAGE POT/open cabinet/lid/towels/speaker.
+Do not enlarge TV, shrink Nari/table/notebook, pull table closer, flatten room into collage, or move cabinet/table/TV for poster composition.
+Use camera framing/crop only.
 
 ==================================================
 TV CORD / PLUG GRAVITY / NO-CLIPPING — ABSOLUTE
 ==================================================
 
-Same Strip031 wall-unplug proof remains physically true:
-- cord attached to TV at same canonical origin
-- same cord path through open space
-- same length/slack
-- loose plug hangs/rests under believable gravity
+Same wall-unplug truth:
+- cord attached at same TV origin
+- same path/length/slack
+- loose plug supported by gravity
 - plug remains outside empty wall socket
-- cord does not pass through TV stand, wall, furniture, table, Nari, floor or itself impossibly
-
-If outlet zone appears, reproduce same physical path/state. If off-frame, state still persists and cannot silently replug.
-No second cable/source.
+- cord passes only through open space; no clipping through TV stand/wall/furniture/Nari/floor
+- no second cable/source
 
 ==================================================
-NOTEBOOK / TABLE / TWO-POT TOPOLOGY — ABSOLUTE
+NOTEBOOK HANDWRITING / TABLE PLANE — ABSOLUTE
 ==================================================
 
-NOTEBOOK ZONE remains same clear Nari-side zone; notebook/pen do not move or change scale.
-NOODLE POT remains dining table; STORAGE POT remains cabinet. Never merge/swap.
-Pair A/B, packet/wrapper, candle/holder, cloth/handle remain exact.
+Notebook remains SAME open A5 object in same NOTEBOOK ZONE.
+Exact handwriting remains physically on the notebook page plane, following page perspective; it does not float as a second `BUG REPORT` graphic in the final composition.
+Pen stays physically resting on page/margin. No duplicate notebook/pen.
+NOODLE POT remains table; STORAGE POT remains cabinet. Never merge/swap.
 
 ==================================================
-OPEN CABINET SUPPORT / FIT — ABSOLUTE
+REFLECTION / SHADOW FALSE-DUPLICATE BAN — ABSOLUTE
 ==================================================
 
-Cabinet remains exact Strip028–031 open state:
-- stockpot on real support plane
-- lid on same real existing support plane beside it
-- TOWEL1 liner
-- canonical speaker + attached cord/loose plug
-- TOWEL2 folded back
-No invented shelf, repacking, clipping, floating, or resizing.
+No physical/reflected/shadow/silhouetted Hyun-woo appears.
+TV, windows, refrigerator, counters, phone/tablet/glass may not show:
+- reflected Nari duplicate
+- Hyun-woo figure/face/hand
+- unknown human silhouette
+- second TV/message
+- duplicate notebook/pen/pot/evidence
+
+The hostile TV image itself is not a mirror.
+The one `FZZT` flicker may briefly alter actual powered shadows, but cannot create a human-shaped afterimage or second Nari.
 
 ==================================================
-NARI BODY / DEPTH — ABSOLUTE
+WORN-ITEM BODY ATTACHMENT — ABSOLUTE
 ==================================================
 
-Nari remains actually seated in same chair. Reaction is face/head/shoulders/upper torso only.
-No chair slide, stand, foot relocation, notebook pickup, scrunchie/headphone movement.
-A close-up reaction is SAME Nari at same world position—not a second body or hidden relocation.
+Scrunchie physically encircles SAME wrist; headphones physically rest around neck/hoodie. They do not float, clip through hair/jaw/neck/clothing, move to ears, switch side or duplicate during final reaction.
 
 ==================================================
 FINAL MESSAGE / POWER — ABSOLUTE
@@ -124,30 +132,16 @@ FINAL MESSAGE / POWER — ABSOLUTE
 TV DEVICE TEXT ONLY:
 `NEW TENANT CONFIRMED`
 
-Hostile TV broadcast signature only. Not speech/narration/hologram/wall text/helpful cyan.
-
 One ordinary apartment-light flicker:
 `FZZT`
 Power remains supplied. No blackout; no Hyun-woo manifestation.
 
 ==================================================
-SAME-OBJECT CLOSE-UP / NO DUPLICATION — ABSOLUTE
-==================================================
-
-TV-screen, plug/socket, Nari reaction, notebook/table/cabinet details are SAME physical scene. Do not create duplicate TV/plug/socket/Nari/notebook/pen/pot/cabinet or incompatible same-moment state.
-
-==================================================
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-`NEW TENANT CONFIRMED` stays fully inside TV screen.
-`FZZT` anchors actual apartment light without hiding:
-- Nari reaction
-- TV/cord proof if visible
-- NOTEBOOK ZONE/table evidence
-- key room anchors proving same scene
-
-No `TO BE CONTINUED`, credits, next-chapter text, title card, narration.
+Message stays inside TV screen. `FZZT` anchors actual apartment light and cannot cover Nari reaction, wall-unplug proof if visible, NOTEBOOK ZONE/table evidence or room anchors.
+No `TO BE CONTINUED`, credits, next-chapter copy, title card or narration.
 
 ==================================================
 SEAM IN / FULL-CANVAS FINAL
@@ -156,7 +150,7 @@ SEAM IN / FULL-CANVAS FINAL
 No visible technical bar at 031→032.
 Use vertical canvas meaningfully:
 - upper SAME TV continuation
-- central exact final message
+- central exact final message on actual TV screen plane
 - one contained `FZZT`
 - lower SAME Nari/table/NOTEBOOK ZONE/room geography
 Only minimal natural final margin.
@@ -164,15 +158,16 @@ Only minimal natural final margin.
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - refs/geometry/scale/depth drift
-- TV enlarged/moved or room flattened/rearranged for hero shot
-- Nari/table/notebook/cabinet/pots resize or move
+- final message floats off TV screen/crosses bezel/ignores perspective/becomes narration/speech/hologram
+- TV enlarged/moved or room flattened/rearranged
+- Nari gaze points away from real TV, leaves chair or worn state changes/clips
+- notebook handwriting floats off physical page plane or duplicate bug-report graphic appears
 - TV cord clips/floats/changes length/slack/origin or silently re-plugs
-- outlet contradicts canon/Strip031 state
-- duplicate TV/plug/socket/Nari/notebook/pen/pot/cabinet
-- NOTEBOOK ZONE/table/two-pot/cabinet topology resets
-- lid support plane becomes invented shelf
-- Nari leaves chair/worn state changes
-- Hyun-woo appears/reflection/silhouette
+- outlet contradicts Strip031/canon
+- reflected/shadow duplicate Nari/Hyunwoo/unknown figure appears
+- duplicate TV/plug/socket/notebook/pen/pot/cabinet
+- NOTEBOOK ZONE/two-pot/cabinet topology resets
+- lid support becomes invented shelf
 - second blackout/KZZT
 - final wording changes
 - text hides same-scene evidence
