@@ -1,208 +1,317 @@
-# Strip 011 — Blackout Kit / Apartment Preparation
+# Strip 011 — Blackout Kit / Apartment Preparation — FINAL DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Chapter 1.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Chapter 1 from the APPROVED rendered Strip 010.
+
+THIS IS NOT A PAGE.
+Never render V51–V54, Strip 011, BAG A/B labels, panel/scene/shot/reference labels, filenames, QA notes, or production metadata.
 
 PRODUCTION SCOPE
-V51–V54. Historical P7 mapping only.
-
-ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-- APPROVED Strip 010
-- this Strip 011 prompt
+V51–V54 only.
 
 ==================================================
-REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
+ATTACH — REQUIRED — EXACT SET
 ==================================================
 
-Attached WebPs are permanent authority. APPROVED Strip 010 controls temporary binder/phone/note state only; correct permanent drift to canon rather than propagating it.
-Preserve Nari identity, Unit entry/pantry/desk geometry, front-door hinge/handle/smart-lock mechanics, emergency-tray position/size, hallway-lamp position, recurring prop locations.
-Never render V51–V54, P7, Strip 011, BAG A/B, beat/panel/scene labels, or production metadata anywhere.
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-entry-living-wide-reference.webp`
+4. `unit-2407-fridge-cabinet-zone-detail-reference.webp`
+5. `unit-2407-desk-zone-detail-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. APPROVED rendered Strip 010 image
+
+Missing authority = STOP.
 
 ==================================================
-START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+CURRENT CANON / PREVIOUS STRIP ROLE
 ==================================================
 
-START:
-- binder kitchen counter; key entry tray
-- speaker hidden unplugged exact closed stockpot stack
+Current WebPs permanently control Nari and Unit 2407.
+APPROVED Strip 010 temporarily controls the current rendered apartment look and persistent evidence states.
+
+CURRENT NARI WEBP WINS.
+Do NOT restore retired old-Nari dark-plum hair, mouth beauty mark, yellow scrunchie, headphones-around-neck identity, or old dark hoodie/utility-jacket design.
+
+==================================================
+START / LEGAL CUT / END
+==================================================
+
+START BEFORE V51 CUT:
+- binder = kitchen counter
+- key = entry tray
+- speaker hidden wall-unplugged in exact closed stockpot/two-towel stack
 - guarded fruit knife under sofa cushion
 - hallway lamp powered
-- practical blackout knife not yet in Unit
+- practical blackout knife not yet inside Unit
 
-ALLOWED CHANGES:
-- legal later-day cut to store
-- acquire exact blackout-kit categories including ONE distinct practical knife already sheathed
-- return with exactly BAG A + BAG B using exact bag sequence
-- enter Unit through same door mechanics
-- unpack/store supplies
-- establish exactly SIX emergency noodle packets
-- physically arrange flashlight, radio and SAME sheathed practical knife in the actual emergency tray immediately right of keyboard, at stable real-world sizes and non-overlapping positions
+V51 = legal later-day location cut to an ordinary supply mart.
+The store is temporary story scenery only; it does NOT become reusable canon.
+
+ALLOWED:
+- buy blackout-kit supplies
+- one practical knife already safely sheathed
+- return carrying exactly TWO ordinary shopping bags
+- execute real bag/door chain
+- unpack supplies
+- establish exactly SIX noodle packets total
+- place flashlight + radio + SAME sheathed practical knife into actual desk tray
 
 END:
 - exactly six unopened noodle packets pantry
-- flashlight + radio + same fully sheathed practical knife fit within SAME tray
-- practical knife handle oriented toward Nari's chair
-- each tray item has one fixed non-overlapping rest position/orientation for Strips 014–016
-- fruit knife still sofa
-- binder/key/speaker unchanged; hallway lamp ON
+- flashlight/radio/sheathed practical knife fixed non-overlapping tray layout
+- practical knife handle toward chair
+- fruit knife still under sofa
+- binder/key/speaker unchanged
+- hallway lamp ON
 
 ==================================================
-EXACT BAG / ENTRY CHAIN — ABSOLUTE
+TEMPORARY SUPPLY-MART ENVIRONMENT — V51/V52 ONLY
 ==================================================
 
-1. BAG A + BAG B return outside closed Unit door
-2. BAG A stays supported
-3. BAG B physically lowered/released to corridor floor beside Nari
-4. free hand operates SAME smart lock
-5. `BEEP`; latch releases
-6. SAME door opens on canonical hinge/handle side
-7. Nari re-grips/lifts BAG B; old floor spot empty
-8. both bags cross real opening
-9. both bags set/released inside before unpacking
+No approved store reference exists. Derive ONLY generic minimal retail context needed to communicate a normal Seoul neighborhood/home-supply mart:
+- ordinary shelves
+- neutral aisle
+- practical packaged household supplies
+- no readable store brand/signage
+- no luxury department-store architecture
+- no giant warehouse scale
+- no reusable detailed floor plan
 
-No alternate support mechanism, no extra hand, no third bag.
-
-==================================================
-EXACT SIX-PACKET INVENTORY — ABSOLUTE
-==================================================
-
-At V54 exactly SIX unopened emergency noodle packets total:
-- ONE spicy-seafood
-- FIVE other flavors
-No seventh packet. Other food, if drawn, must be visually distinct/non-noodle.
+This scenery expires after the location cut back to Unit 2407.
 
 ==================================================
-EMERGENCY TRAY SCALE / CAPACITY / ORIENTATION — NON-NEGOTIABLE
+WORLD SCALE / OBJECT PROPORTION
 ==================================================
 
-The tray is SAME desk-zone tray immediately RIGHT of keyboard and retains its real referenced footprint/depth.
-Do NOT enlarge tray or shrink tools to force them inside.
-
-The three items retain believable stable sizes:
-- ONE battery flashlight
-- ONE portable radio
-- ONE practical knife fully inside its protective sheath
-
-They must all physically fit the tray without:
-- overlapping each other as if occupying same solid volume
-- sticking through keyboard/desk/tray wall
-- floating above tray
-- changing scale between wide/detail shots
-- hiding the knife blade outside sheath
-
-Establish one fixed tray layout in V54:
-- each item has one distinct rest zone
-- flashlight orientation fixed
-- radio orientation fixed
-- sheathed knife orientation fixed, handle toward chair
-- sheathed knife must not rest on top of flashlight/radio
-- all three fully supported by tray/desk plane
-
-This exact layout/orientation persists through Strip 014 start, Strip 015 tests/returns, and Strip 016 knife draw unless a visible action changes an item.
-Reverse camera may flip screen direction but not story-world tray item orientation relative to keyboard/chair.
+- Nari current adult scale
+- candles, matches, batteries, flashlight, radio, can opener = normal household sizes
+- practical knife = ordinary sturdy household/utility knife size, distinct from small fruit knife
+- sheath fits blade; no exposed tip
+- exactly two normal shopping bags on return; not luggage-sized
+- pantry noodle packets ordinary instant-noodle packet scale
+- desk tray remains canonical actual size; tools must fit WITHOUT tray enlargement or prop shrinkage
 
 ==================================================
-PRACTICAL KNIFE IDENTITY / SHEATH FIT — ABSOLUTE
+VERTICAL HEIGHT MAP
 ==================================================
 
-The practical knife is one stable object from store→bag→tray.
-- blade length/handle size/sheath size remain stable
-- sheath properly encloses blade; no exposed tip
-- handle remains accessible toward chair
-- knife is distinct from guarded fruit knife under sofa
-- sheath mouth/knife orientation established here is the one Strip 016 must use for real draw
+Approximate story-art allocation:
+- V51 supply-mart establishing: 14%
+- V52 blackout-kit purchase montage: 25%
+- V53 return / bag-door mechanics: 27%
+- V54 pantry + desk preparation: 34% — LARGEST
 
-Do not shrink the knife to fit tray or enlarge it later for drama.
-
-==================================================
-TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
-==================================================
-
-Narration/`BEEP` must not cover bag floor/pickup, lock contact, six-packet count, or tray item fit/orientation.
+V54 must visually prove both six-packet inventory and exact tray fit/orientation.
 
 ==================================================
-NARRATION DESIGN — ABSOLUTE
+V51 — LATER THAT DAY / SUPPLY MART — FULL BLUEPRINT
 ==================================================
 
-`LATER THAT DAY` compact transition.
-`SHE STARTED WITH A BLACKOUT KIT.` practical setup.
-Pantry/desk captions concise preparation treatment. No repetitive top-left tag.
+CAMERA:
+- medium-wide ordinary retail aisle establishing shot
+- Nari current canonical identity
+- store context minimal/non-branded
 
-==================================================
-VERTICAL STORY FLOW
-==================================================
-
-V51 — SUPPLY STORE
 NARRATION:
 `LATER THAT DAY`
 
+NARI PERFORMANCE:
+- purposeful, practical preparation
+- no panic shopping
+
+END:
+- reader understands she is acquiring blackout supplies
+
 SMALL BLACK GUTTER.
 
-V52 — BLACKOUT KIT
+==================================================
+V52 — BLACKOUT KIT PURCHASE MONTAGE — FULL BLUEPRINT
+==================================================
+
+STORY PURPOSE:
+Show actual concrete preparation categories, not just narration over a generic aisle.
+
+COMPOSITION:
+2–3 same-store detail compositions separated by small diagonal dividers if needed.
+
+MANDATORY VISIBLE ITEMS:
+- candles
+- ceramic candle holders
+- matches
+- batteries
+- ONE flashlight
+- ONE portable radio
+- ONE manual can opener
+- ONE practical knife ALREADY FULLY SHEATHED
+
 NARRATION:
 `SHE STARTED WITH A BLACKOUT KIT.`
-Show candles, ceramic holders, matches, batteries, flashlight, radio, manual can opener, ONE practical knife already sheathed.
 
-COMPACT BLACK LOCATION TRANSITION.
+KNIFE:
+- stable handle/blade/sheath proportions
+- blade fully enclosed
+- not fruit knife
+- no tactical/combat styling
 
-V53 — RETURN HOME
-Execute BAG A/B → smart-lock `BEEP` → door-open → BAG B pickup → both bags through threshold → both set inside.
+END:
+- items purchased and packed into exactly two ordinary shopping bags for return
+
+REJECT IF:
+- sheathed knife missing
+- knife exposed in store bag
+- third shopping bag appears
+- generic montage fails to show actual kit categories
+
+COMPACT LOCATION TRANSITION.
+
+==================================================
+V53 — RETURN TO UNIT 2407 / EXACT TWO-BAG ENTRY — FULL BLUEPRINT
+==================================================
+
+START:
+- Nari outside SAME Unit 2407 closed door
+- exactly TWO shopping bags only
+- no current canonical messenger/work bag unless the approved previous story state explicitly requires it; safest default: shopping trip uses only the two shopping bags
+
+EXACT ACTION CHAIN:
+1. BAG A remains supported in one hand/arm
+2. BAG B physically lowers to corridor floor beside Nari
+3. hand releases BAG B
+4. now-free hand operates SAME smart lock
+5. actual contact
+6. `BEEP`
+7. latch releases
+8. SAME door opens on canonical hinge/handle side
+9. free hand re-grips BAG B
+10. BAG B leaves corridor floor; old spot empty
+11. both bags cross threshold with Nari
+12. both bags are set/released INSIDE before unpacking
+
+CAMERA:
+- use one continuous action sequence or same-event subviews
+- preserve Unit door geometry from references/approved prior strips
+
+SFX:
+`BEEP`
+
+REJECT IF:
+- third bag
+- bag teleport through door
+- Nari operates lock while both hands impossibly occupied
+- BAG B never touches floor before lock
+- door geometry flips
 
 SMALL BLACK GUTTER.
 
-V54 — PREPARATION
-PANTRY: exactly six noodle packets.
+==================================================
+V54 — PANTRY + DESK PREPARATION — FULL BLUEPRINT
+==================================================
+
+This is the preparation master beat and MUST show two concrete zones.
+
+A. PANTRY INVENTORY
+Use canonical kitchen/fridge/pantry geometry.
+Exactly SIX unopened emergency noodle packets TOTAL:
+- ONE spicy-seafood packet
+- FIVE other clearly different flavors
+
+Do not show 5 or 7.
+Other pantry food, if any, must not look like additional noodle packets.
+
 NARRATION:
 `FOOD, CANDLES, MATCHES, AND SPARES WENT IN THE PANTRY.`
 
-DESK: place flashlight, radio, fully sheathed practical knife into actual tray with exact non-overlapping fit/orientation.
+B. DESK EMERGENCY TRAY
+Use exact canonical desk-zone reference.
+Tray immediately RIGHT of keyboard.
+Do NOT move or enlarge tray.
+
+Place exactly:
+- ONE flashlight
+- ONE portable radio
+- SAME practical knife fully inside SAME sheath
+
+PHYSICAL FIT:
+- each item has a distinct non-overlapping rest zone
+- no object occupies same solid volume
+- no floating
+- no clipping through tray/keyboard/desk
+- stable world sizes
+- practical knife handle points toward Nari's chair
+- blade fully sheathed
+- knife not resting on top of flashlight/radio
+
 NARRATION:
 `THE FLASHLIGHT, RADIO, AND KNIFE STAYED WITHIN REACH.`
-Hallway lamp visibly ON.
 
-==================================================
-END STATE
-==================================================
+HALLWAY:
+- canonical hallway lamp visibly ON if composition can include it without breaking geography
 
+END / FREEZE:
 - six noodles pantry
-- fixed tray layout: flashlight + radio + sheathed knife, handle toward chair
-- fruit knife under sofa
-- binder counter; key tray; speaker hidden
-- hallway lamp on; powered apartment
+- exact tray layout becomes continuity authority for Strips 014–016
 
-NO DEAD BOTTOM — ABSOLUTE
-End on organized canonical desk/apartment composition.
+==================================================
+EXACT TEXT ONLY
+==================================================
 
-SEAM OUT — G / TIME CUT
-Strip 012 two days later. Tray layout remains Chapter 1 authority for later night even though legal cut changes current scene.
+`LATER THAT DAY`
+`SHE STARTED WITH A BLACKOUT KIT.`
+`BEEP`
+`FOOD, CANDLES, MATCHES, AND SPARES WENT IN THE PANTRY.`
+`THE FLASHLIGHT, RADIO, AND KNIFE STAYED WITHIN REACH.`
 
-AUTOMATIC REJECT IF
-- any production label appears
-- attached geometry altered
-- door hinge/handle mechanics flip
-- BAG B chain skipped/teleported
-- bag duplicates/third bag appears
-- practical knife/fruit knife merge
-- practical knife changes world-space scale or sheath fit
-- noodle count not six
-- tray moves, enlarges/shrinks, or tools shrink/overlap/float/clip to fit
-- flashlight/radio/knife orientation differs between V54 details without action
-- knife handle not toward chair or blade not fully sheathed
-- text obscures counts/tray proof
-- black separators missing/oversized
-- giant dead bottom appears
+No extra readable text.
+
+==================================================
+STATE LEDGER
+==================================================
+
+PRACTICAL KNIFE:
+store sheathed → shopping bag → Unit → desk tray, same size/sheath identity.
+
+FRUIT KNIFE:
+remains under sofa cushion; never merges with practical knife.
+
+NOODLES:
+exactly six unopened packets at V54.
+
+TRAY:
+flashlight + radio + sheathed practical knife fixed layout/orientation.
+
+KEY/BINDER/SPEAKER:
+key tray; binder counter; speaker hidden exact closed stack unchanged.
+
+==================================================
+FINAL REJECT
+==================================================
+
+Reject if:
+- production labels render
+- retired Nari design returns
+- store becomes elaborate unrelated canon
+- bag chain skipped/teleported/third bag appears
+- practical knife and fruit knife merge
+- practical knife/sheath scale changes
+- noodle count not exactly six
+- tray enlarges/shrinks
+- tools shrink/overlap/float/clip to fit
+- knife handle not toward chair
+- blade not fully sheathed
+- Unit geometry changes
+- text hides counts/fit proof
+- glossy/cinematic/photoreal/3D style appears
+- gutters missing/oversized
+- dead bottom appears
 ```
 
-## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
-5. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-6. APPROVED Strip 010
-7. this Strip 011 prompt
+## Production Thread Attachments — EXACT SET
+
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-entry-living-wide-reference.webp`
+4. `unit-2407-fridge-cabinet-zone-detail-reference.webp`
+5. `unit-2407-desk-zone-detail-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. APPROVED rendered Strip 010 image
