@@ -51,14 +51,36 @@ END:
 - question chain continues directly into Strip 004
 
 ==================================================
+CONVERSATION AXIS / EYE-LINE CONTINUITY — NON-NEGOTIABLE
+==================================================
+
+V12–V15 are one uninterrupted counter conversation. Preserve one readable 180-degree conversation axis unless a neutral reorientation view explicitly establishes a new camera side.
+
+Rules:
+- Nari and Mrs. Na remain on the SAME physical story-world sides of the counter throughout
+- reverse shots may flip their screen-left/screen-right appearance, but they may not exchange physical positions or suddenly look past each other
+- Nari's eyes/head orient toward Mrs. Na when speaking/listening unless the beat explicitly redirects her gaze
+- Mrs. Na's eyes/head orient toward Nari during dialogue, then toward the REAL canonical hallway lamp when she indicates it
+- the hallway-lamp insert must lie along the same real story-world direction Mrs. Na indicates from the counter
+- after the lamp insert, returning to the women must preserve the same body positions and conversational geography
+- balloon tails cannot be used to disguise a wrong gaze direction
+
+If a reverse shot would make either woman look away from the actual other speaker or point toward the wrong wall, recompose instead of crossing the axis silently.
+
+==================================================
 MICRO-CONTINUITY / INTERACTION REALITY — ABSOLUTE
 ==================================================
 
 If Mrs. Na indicates the hallway lamp, her body/eyeline/gesture must point toward the lamp's real canonical direction. Do not place the lamp in a convenient invented wall position.
-
-The phone/tablet wording is spoken explanation only. **Safest default: show no phone/tablet visual at all in this strip.** Do not create floating comparison panels, generic device icons, or an unexplained phone/tablet in either woman's hand.
-
+The phone/tablet wording is spoken explanation only. Safest default: show no phone/tablet visual at all in this strip. Do not create floating comparison panels, generic device icons, or an unexplained phone/tablet in either woman's hand.
 Binder and key remain visible/logically present even when camera changes. Occlusion is not relocation.
+
+==================================================
+REFLECTION / SHADOW FALSE-DUPLICATE BAN — ABSOLUTE
+==================================================
+
+Do not create a reflected second Nari/Mrs. Na in windows, appliance surfaces, screens, glossy counters, or glass merely to make the scene dramatic. Unit 2407 materials remain matte/restrained.
+Do not invent a shadow-person or unexplained human silhouette. Any ordinary cast shadow must belong to the actual women/objects and current real light sources only.
 
 ==================================================
 NARRATION / TEXT DESIGN BY SITUATION — ABSOLUTE
@@ -148,7 +170,7 @@ NO DEAD BOTTOM — ABSOLUTE
 End on unresolved tension at the same counter with a compact black beat separator only. Strip 004 continues the question chain.
 
 SEAM OUT — A/G
-Strip 004 starts with Nari's whole-building-outage question from these exact positions.
+Strip 004 starts with Nari's whole-building-outage question from these exact positions and the same conversation axis.
 
 AUTOMATIC REJECT IF
 - any V/P/strip/beat/panel/scene or production label appears
@@ -159,7 +181,9 @@ AUTOMATIC REJECT IF
 - key shape/material differs from canonical
 - hallway lamp changes place/design
 - pointing/eyeline indicates a noncanonical lamp location
+- conversation axis silently flips so Nari/Mrs. Na exchange world positions or look away from the actual speaker/target
 - any floating/conceptual phone/tablet illustration, fake UI, hologram, or unexplained device handling is invented
+- reflected/shadow duplicate person or unexplained silhouette appears
 - dialogue tails swap
 - room axis flips
 - fake warning UI/narration replaces spoken warning dialogue
