@@ -26,7 +26,7 @@ Attached WebPs permanent authority. Preserve exact world-space table/chair/fridg
 Never render V/P/strip/temp-state labels.
 
 START:
-- Hyun-woo standing immediately beside SAME pushed-back chair
+- Hyun-woo standing immediately beside SAME pushed-back chair with SAME tall/broad relation to Nari and focused protective urgency from Strip 020
 - Nari fixed at same one-step-closer marks, packet near STEP FOOT
 - knife low SAME KNIFE HAND; worn state unchanged
 - same dining topology
@@ -46,6 +46,40 @@ END:
 - Nari remains behind him in threat-to-Nari line from refrigerator
 - pushed chair/table/topology unchanged
 - fridge `YOON NARI`
+
+==================================================
+FINAL PROTECTIVE PERFORMANCE / BODY-FACING — NON-NEGOTIABLE
+==================================================
+
+Hyun-woo's movement is protective positioning, not intimidation theater.
+
+V94:
+- start = focused alert stance beside pushed chair, SAME tall/broad canonical scale
+- movement around table is purposeful and efficient; no swagger, stalking pose, looming at Nari, dramatic coatless-hero flex, or combat lunge
+- shoulders/hips initially follow the walking route; feet step through real clearance
+- at final blocking mark his body settles into a protective orientation toward the threat while still able to address Nari behind him
+- do not rotate feet/hips one direction and chest impossibly 180° another direction
+
+V95 `NARI. LOOK AT ME.`:
+- performance = firm, urgent, grounding/protective; not angry command, villain domination, romantic seduction or shouting rage
+- he may turn head/upper torso back toward Nari within believable range while feet/blocking position remain planted
+- do not fully turn his back on the refrigerator if that would destroy the protective block
+
+NARI:
+- emotion = escalating fear/unease but still controlled and responsive
+- V95 she meets/approaches his gaze without stepping
+- V96 her head/eyes may look past him toward fridge; shoulders/hips/feet remain at SAME fixed stance unless prompt explicitly moves them
+- no scream, sobbing, collapse, romantic blush, hand-to-chest melodrama or sudden knife-thrust pose
+- knife remains low SAME KNIFE HAND
+
+V97:
+- refrigerator showing her name escalates dread, but neither character changes floor position
+- Hyun-woo remains focused/protective; Nari remains tense behind him
+
+RELATIVE SCALE:
+- Hyun-woo remains clearly taller/broader than Nari in shared standing views on the same floor plane
+- do not enlarge him in foreground or shrink Nari to fake the blocking
+- reverse shots preserve world-space body proportions
 
 ==================================================
 TRUE BLOCKING DEPTH — NON-NEGOTIABLE
@@ -120,7 +154,7 @@ Pot/trivet/handle/cloth/candle/wrapper/chopsticks/chair/pantry/packet keep exact
 TEXT / DEVICE EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Dialogue/`TIK... TIK...`/fridge text cannot cover route feet, blocking depth anchors, eye-line relation, Nari/packet relation or fridge display.
+Dialogue/`TIK... TIK...`/fridge text cannot cover route feet, blocking depth anchors, eye-line relation, Nari/packet relation, body-facing proof or fridge display.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -158,20 +192,23 @@ REFRIGERATOR DEVICE TEXT on actual display plane:
 SEAM
 ==================================================
 
-Strip022 begins SAME real floor-plan order refrigerator→Hyun-woo→Nari, same eye-line geography, foot/packet/table/chair state.
+Strip022 begins SAME real floor-plan order refrigerator→Hyun-woo→Nari, same relative height/build, focused protective Hyun-woo / tense controlled Nari performance, same body-facing/eye-line geography and foot/packet/table/chair state.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - refs/geometry/scale drift
 - Hyun-woo teleports/switches route side/passes through solids
 - final blocking is only 2D overlap / world order false
-- Hyun-woo enlarged/shrunk for composition
+- Hyun-woo enlarged/shrunk for composition or loses tall/broad relation to Nari
+- Hyun-woo performance becomes villainous/domineering/romantic/raging rather than focused protective urgency
+- Nari performance jumps to screaming/crying/collapse/romantic response or unrelated aggressive knife pose
+- head-only gaze shifts silently rotate shoulders/hips/feet or destroy the block
 - Nari/Hyunwoo eyelines point to wrong targets or axis flips their physical sides
 - Nari moves/packet disturbed
 - fridge text floats off display plane/becomes narration/speech
 - reflected/shadow duplicate human/figure appears
 - pushed chair/table topology resets
-- text hides route/blocking/gaze/display proof
+- text hides route/blocking/gaze/body-facing/display proof
 - invented narration
 ```
 
