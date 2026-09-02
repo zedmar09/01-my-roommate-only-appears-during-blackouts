@@ -2,106 +2,115 @@
 
 This folder contains **32 technical image-generation prompts** for one continuous Manhwa Chapter 1. Historical P001–P018 and V01–V146 labels are production-only shorthand.
 
-Current status: **FIFTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+Current status: **SIXTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
 
-A fifth clean-room hardening audit has completed across Strip 001→032. No earlier PASS was accepted as proof.
+A sixth clean-room `manhwa-2d-production-auditor` audit has completed across Strip 001→032. The fifth PASS was deliberately not accepted as proof. After sixth-pass repairs, every strip was read again from Strip 001→032 before this status was assigned.
 
 ## Prior Render Rejection — Absolute
 
-Previously generated pre-fifth-pass attempts are **NOT APPROVED continuity authority** unless freshly audited against the current fifth-pass gates and actually passed.
+Previously generated attempts remain **NOT APPROVED continuity authority** unless freshly visually audited against the current sixth-pass gates and actually passed.
 
 Retest sequence:
 `Strip 001 → visual audit/fix/re-audit → approve → Strip 002 → ... → Strip 032`
 
-Only a newly passing strip may become temporary continuity authority for the next strip.
+Only a newly passing rendered strip may become temporary continuity authority for the next strip.
 
 ## Permanent Canon vs Temporary State
 
 Approved character/environment/object WebPs are permanent authority.
-Previous approved strip controls temporary pose/action/held-object/open-state/power/seam state only and never overrides permanent canon.
-Derived micro-details are temporary chapter continuity only and remain subordinate to WebPs.
+Previous approved strip controls temporary pose/action/held-object/open-state/power/seam state only.
+Derived micro-details remain temporary chapter continuity only and never override canonical WebPs.
 
-## Fifth-Pass Global Rules
+## Sixth-Pass Global Hardening
 
-### Real Scenario
-Every meaningful change:
-`START STATE → PHYSICAL CAUSE → VISIBLE ACTION → RESULT → PERSISTENT END STATE`
+### Orientation / Hinge / Handle / Track
+A reverse camera may flip screen-left/right but cannot reverse physical mechanics.
+Preserve door hinge/handle/smart-lock side, cabinet hinge/handle/opening arc, building/elevator door mechanism, binder spine/ring side, knife/sheath axis, appliance cord-origin side, pot-handle/cloth side, and chair front/back/pushed angle.
 
-### One Physical Solution
-Continuity-critical actions use one deterministic mechanism. Do not mix contradictory alternatives such as “bag stays in hand” and “bag is set down” without one exact order.
+### World-Space Scale / Fit
+Objects may look larger in close-up, but their story-world size cannot change.
+Containers/surfaces must actually fit their contents:
+- speaker/cord/towels/lid inside the real stockpot/cabinet
+- flashlight/radio/sheathed knife inside the real emergency tray
+- A5 notebook at true A5-like footprint on the real table
+- stable pot/chair/phone/tablet/key/candle/packet/TV scale.
+
+### Depth / Real Contact
+2D overlap is not proof of contact.
+Hands must actually grip, feet must share the floor plane with contacted props, bodies must align with chairs, mask hardware must physically travel, and Hyun-woo must truly occupy the floor-plan position between Nari and the refrigerator.
+
+### Gravity / No Clipping
+Cords/plugs/towels/cloth/straps/paper/packets/falling objects obey gravity, support, and collision.
+No floating wall plug, cord through furniture/walls, cloth through solid objects, or knife/chopsticks passing through bodies/table/chairs.
 
 ### Same-Object Inserts
-A close-up/inset/device/page detail is another view of the **same physical object**, not a duplicate.
-Same-moment wide/detail states must agree.
+Wide/close-up/device/page details are the SAME physical object unless script establishes another. Inserts never create duplicate key/plug/knife/phone/binder/notebook/person.
 
-### Anatomical-Side Continuity
-Production-only temporary identities may lock continuity-critical physical sides:
-- KNIFE HAND / PHONE HAND
-- SCRUNCHIE WRIST
-- STEP FOOT / CANDLE FOOT
-- BAG SHOULDER / UMBRELLA HAND / PHONE POCKET
-
-Reverse shots may flip screen-left/right but cannot swap anatomical side. Labels never render.
-
-### Worn-State Continuity
-Nari's blackout-night scrunchie remains same wrist and headphones remain around neck from Strip 014 through the chapter ending; no removal is scripted.
+### Anatomical-Side / Worn-State Continuity
+Production-only identities may preserve critical sides: KNIFE HAND, PHONE HAND, WRITING HAND, SCRUNCHIE WRIST, STEP FOOT, CANDLE FOOT, BAG SHOULDER, UMBRELLA HAND, PHONE POCKET. These labels never render.
+Nari's blackout-night scrunchie remains on the same wrist and the same headphones remain around her neck through the chapter ending because no removal is scripted.
 
 ### Lettering Cannot Hide Evidence
-Speech balloons, tails, narration, device text, handwriting, and SFX must not cover contact/action proof: plug/socket, key, knife, chair, cabinet, candle, food, packet, phone/notebook placement, or route anchors.
+Speech, narration, device text, handwriting and SFX may not cover contact/action proof, orientation/hinge mechanics, scale/fit evidence, fall trajectories, cord routes, page turns, mask/wrist contact, or route anchors.
 
-### Legal Time Cuts
-Time passage may change ordinary noncritical clutter but cannot erase story-critical evidence needed afterward.
+## Sixth-Pass Chapter Corrections
 
-## Fifth-Pass Chapter 1 Corrections
-
-- **Strip 005:** removed any need to invent a utensil-storage drawer/caddy; one clean dry pair is simply being carried during tidying before interruption.
-- **Strip 006→007:** Nari ends Strip 006 crouched after TV unplug proof; Strip 007 must visibly rise before walking. Same-object plug/socket details cannot create duplicate or incompatible plugged/unplugged states.
-- **Strip 008:** paper + pen now have a real source from the work-desk zone; V40 writes the exact reply `NOT THE ONE YOU SHOULD BE AFRAID OF.` and freezes the pen's final rest position.
-- **Strip 009:** morning paper/pen state inherits exactly; phone starts at a separate clear nearby spot, is visibly picked up for photos, then visibly returned before tablet route.
-- **Strip 010:** exact pen rest persists; binder/page/phone close-ups are same physical objects and cannot hide Section 16→page turn→18 proof.
-- **Strip 011:** resolved bag contradiction with one authoritative chain: BAG A stays supported; BAG B floor→smart lock/door→pickup→both bags cross→both bags set inside.
-- **Strips 012–013:** BAG SHOULDER, UMBRELLA HAND, PHONE POCKET are fixed anatomical sides; one specific earbud is removed/checked/reinserted into same ear.
-- **Strips 014–018:** SCRUNCHIE WRIST + headphones-at-neck become persistent temporary body state; KNIFE HAND remains fixed after Strip 016 draw.
-- **Strips 017–019:** empty spicy-seafood outer packet is placed at a physically plausible one-short-step distance; Strip 019 establishes exact anatomical STEP FOOT.
-- **Strips 020–022:** Nari's STEP FOOT/trailing-foot marks, KNIFE HAND, scrunchie wrist, and headphones remain fixed while she is stationary.
-- **Strip 023:** STEP FOOT stays planted; former trailing foot makes the only short half-step and becomes CANDLE FOOT; packet, both feet, and knife impact remain three non-overlapping floor facts.
-- **Strips 024–025:** exact STEP FOOT/CANDLE FOOT, separate knife/packet spots, scrunchie wrist, and headphones survive wrist release and power restoration.
-- **Strips 026–028:** phone pickup establishes PHONE HAND; same hand persists through security/voicemail and releases phone on kitchen counter before cabinet handling; then PHONE HAND expires.
-- **Strip 029:** same-object packet/chopstick/knife evidence hardened; worn state persists.
-- **Strip 030:** establishes collision-free NOTEBOOK ZONE on Nari's side; closed notebook + pen are physically placed/released there without moving food evidence.
-- **Strip 031:** visibly opens same notebook, picks same pen up, writes, releases pen back on open notebook, then turns to TV; mandatory wall-unplug proof remains same TV/plug/socket.
-- **Strip 032:** final reveal preserves NOTEBOOK ZONE, pen rest, worn state, table/cabinet topology, and same unplugged-TV state.
+- **Strip 002:** front-door orientation and binder/key counter topology are frozen; binder/key scale/support/depth cannot drift.
+- **Strip 004:** door open/close must reuse the same hinge/handle/lock construction; 19°C thermostat is only a canon-subordinate micro-detail when canon does not show it.
+- **Strip 005:** both individual chopsticks have one frozen landing configuration on the floor through Strip 006 V26.
+- **Strip 006:** unplugged speaker/TV cords now obey real gravity/slack/no-clipping; cord length/origin cannot change.
+- **Strip 008:** speaker/towels/cord/lid must physically fit the real stockpot and cabinet at stable scale; cabinet hinge/handle/support plane fixed.
+- **Strip 010:** manual spine/rings/page-turn side and scale are fixed; Section16→physical page turn→Section18 must use one real bound binder.
+- **Strip 011:** actual tray capacity is binding; flashlight/radio/sheathed knife occupy fixed non-overlapping zones/orientations at stable scale.
+- **Strips 012–013:** building glass-door/elevator door mechanisms must follow attached references; real threshold depth crossing is mandatory.
+- **Strip 015:** flashlight/radio must return to exact original tray orientations, not merely somewhere in the tray.
+- **Strip 016:** knife blade must physically exit the same sheath mouth along one stable axis without clipping through tray/tools/body/environment.
+- **Strip 017:** dining pot/trivet/handle/cloth/candle/table/chairs and packet evidence gain stable world-space scale/depth.
+- **Strip 018:** mask reseat requires actual mask-body/hardware/strap travel and readable grip/contact; a hand-over-face overlap is insufficient.
+- **Strip 020:** chair push has a real floor-clearance route and stable chair geometry; seated→standing depth is physically proven.
+- **Strip 021:** protective blocking must be true floor-plan order `refrigerator → Hyun-woo → Nari`, not foreground layering.
+- **Strip 023:** knife follows one unobstructed gravity path, contacts the floor physically, and settles at one fixed orientation; wrist catch is a real finger/thumb grip.
+- **Strip 024:** same real grip must exist at start; release requires fingers opening and a visible air gap before refrigerator clicks.
+- **Strip 025:** Hyun-woo absence is proven with comparable V116→V118 geometry so he cannot be merely off-camera.
+- **Strip 026:** `TUG` is explicitly a closed/latched door test; the test cannot open or unlatch the door.
+- **Strip 028:** removed the invented-shelf loophole; lid must rest on an ACTUAL support plane visible/compatible with the cabinet reference.
+- **Strip 029:** STORAGE POT and NOODLE POT are two different physical pots with separate roles/locations; they cannot merge/swap.
+- **Strip 030:** NOTEBOOK ZONE must fit a true A5-like notebook footprint without moving food evidence or shrinking the notebook.
+- **Strip 031:** one anatomical WRITING HAND writes both entries; notebook opening/spine and pen-tip writing path are physical; final TV cord obeys gravity/no-clipping.
+- **Strip 032:** hero ending cannot resize the TV, flatten the room, or move Nari/table/notebook/pots/cabinet; final state keeps true scale/depth.
 
 ## Wall-Socket Rule — Absolute
 
-`UNPLUGGED` means plug BODY removed from WALL-MOUNTED socket. Appliance-side cord remains attached; same loose plug persists; socket empty; no silent replug.
-Any derived outlet faceplate/location detail remains canon-subordinate and cannot distort canonical room geometry.
+`UNPLUGGED` means plug BODY removed from a WALL-MOUNTED socket while appliance-side cord stays attached.
+The same cord, loose plug and empty socket persist until an explicit re-plug action.
+The cord must have believable length/slack/gravity and may not pass through TV stand, wall, cabinet, counter, furniture or appliance body.
 
 ## Exact Speaker Storage Topology
 
-Strip 008 closed stack:
-`TOWEL1 liner → speaker + attached coiled cord + loose plug → TOWEL2 cover → lid`
+Closed from Strip 008:
+`TOWEL1 liner → canonical speaker + attached coiled cord + loose plug → TOWEL2 cover → matching lid`
 
-Strip 028 opens exact reverse:
-`lid set flat beside pot → TOWEL2 folded back → speaker/cord/plug visible on TOWEL1`
+Open from Strip 028:
+`lid removed to a REAL existing cabinet support plane → TOWEL2 folded back → speaker/cord/plug visible on TOWEL1`
 
-Open state persists through ending.
+No invented shelf and no resizing to make the stack fit.
 
-## Food / Table Topology
+## Two-Pot Rule
 
-Strip 011: exactly six unopened emergency noodle packets.
-From Strip 017: five unopened pantry packets + one used outer packet + separate seasoning wrapper.
-Strip 029: outer packet moves visibly floor→table; Pair A = Hyun-woo used chopsticks at pot; Pair B = Nari clean chopsticks at fixed Nari-side table spot.
-Strip 030 adds NOTEBOOK ZONE without moving any of these.
+From Strip 029 onward:
+- **STORAGE POT** = inside open lower cabinet, containing speaker/towels/cord/plug.
+- **NOODLE POT** = dining table, on trivet, containing noodles/broth with cloth/chopsticks/food evidence.
+
+They never merge, swap, teleport, or become one generic pot.
 
 ## Narration / Production Metadata
 
-Narration wording exact; treatment/placement scenario-driven. No repetitive identical box/top-left tag system.
+Narration wording stays exact; treatment and placement follow scenario. No repetitive top-left tag pattern.
 Never render V/P/strip/beat/panel/scene/shot/QA or temporary-state labels.
 
 ## Exact Attachments
 
-Every Strip 001–032 explicitly lists current WebPs plus newly APPROVED previous strip for 002 onward. Do not substitute obsolete PNGs, shorthand, Markdown prompts, or rejected renders.
+Every Strip 001–032 lists exact current WebPs plus newly APPROVED previous strip for 002 onward. Do not substitute obsolete PNGs, vague shorthand, Markdown prompts, or rejected renders.
 
 ## Style
 
@@ -110,12 +119,12 @@ Reject photoreal/3D/glossy/cinematic/painterly/airbrushed/bloom/DOF/over-rendere
 
 ## Current Production Order
 
-1. Generate **new Strip 001** with exact fifth-pass prompt + approved WebPs.
-2. Deep-audit actual pixels against fifth-pass gates.
-3. Fix/regenerate until Strip 001 passes.
+1. Generate **new Strip 001** using the exact sixth-pass prompt + approved WebPs.
+2. Deep-audit actual pixels against sixth-pass gates.
+3. Fix/regenerate until Strip 001 actually passes.
 4. Only then use it as APPROVED continuity attachment for Strip 002.
 5. Repeat through Strip 032.
 6. Stitch all approved strips.
-7. Run fresh final visual clean-room audit.
+7. Run a fresh final visual clean-room audit.
 
-`PRODUCTION COMPLETE` is forbidden until final rendered/stitch audit reaches zero unresolved mandatory findings.
+`PRODUCTION COMPLETE` is forbidden until the rendered/stitch/final audit reaches zero unresolved mandatory findings.
