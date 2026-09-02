@@ -4,6 +4,8 @@ The Manhwa pipeline is the permanent production format.
 
 A chapter is **PRODUCTION COMPLETE** only when every mandatory gate passes in the current post-correction state. Earlier PASS labels never substitute for a fresh final audit.
 
+`Manhwa/seventh-hardening-visual-logic-addendum.md` is an always-binding production gate wherever adopted by the active chapter.
+
 ## Mandatory Gates
 
 1. vertical beat plan + strip manifest locked
@@ -30,26 +32,33 @@ A chapter is **PRODUCTION COMPLETE** only when every mandatory gate passes in th
 22. prop topology preserves physical sides/order/depth
 23. distinct evidence locations remain distinct
 24. routes avoid obstacles/evidence unless scripted
-25. **door/cabinet/elevator/binder/object orientation, hinge, handle, spine, track and opening mechanics remain physically consistent**
-26. **recurring objects retain stable world-space scale and actually fit containers/surfaces without hidden resizing**
-27. **depth order and physical contact are real, not merely 2D overlap/occlusion**
-28. **cords/cloth/straps/loose props obey gravity, support and no-clipping**
-29. wall unplugging removes plug BODY from WALL socket; appliance-side cord remains attached
-30. locally derived outlet remains subordinate to canonical geometry
-31. character↔environment interaction physically believable
-32. lettering/balloons/SFX never hide critical proof
-33. narration design+placement follows scenario, not repeated box/top-left tag
-34. NO reader-visible production/temp-state metadata
-35. every technical strip generated/approved sequentially
-36. strict flat 2D human-drawn style passes actual pixel inspection
-37. power/light/candle/rain/device states coherent/contained
-38. helpful/hostile signatures correct
-39. black read-slice + diagonal-divider grammar correct
-40. no purposeless dead bottom/double-gap seams
-41. mobile lettering readable
-42. stitched chapter has no seams/duplicates/state/topology/orientation/scale/depth/power jumps
-43. final ending matches locked script exactly
-44. fresh final clean-room audit finds zero unresolved mandatory findings
+25. orientation/hinge/handle/spine/track/opening mechanics remain physically consistent
+26. recurring objects retain stable world-space scale and actually fit containers/surfaces
+27. depth order and physical contact are real, not merely 2D overlap/occlusion
+28. cords/cloth/straps/loose props obey gravity, support and no-clipping
+29. **same conversation/action preserves a coherent camera axis and real eyelines**
+30. **in-world text remains attached to the actual screen/page/object plane**
+31. **reflections/shadows do not invent duplicate humans/objects or impossible light sources**
+32. **critical hand/finger grips are anatomically usable and contact the correct safe object surface**
+33. **worn items/straps physically attach to the same body/clothing location without clipping/floating**
+34. **offscreen/device audio remains at the real story-world source and reactions orient toward it**
+35. **weather/glass boundaries remain physically correct**
+36. wall unplugging removes plug BODY from WALL socket; appliance-side cord remains attached
+37. locally derived outlet remains subordinate to canonical geometry
+38. character↔environment interaction physically believable
+39. lettering/balloons/SFX never hide critical proof
+40. narration design+placement follows scenario, not repeated box/top-left tag
+41. NO reader-visible production/temp-state metadata
+42. every technical strip generated/approved sequentially
+43. strict flat 2D human-drawn style passes actual pixel inspection
+44. power/light/candle/rain/device states coherent/contained
+45. helpful/hostile signatures correct
+46. black read-slice + diagonal-divider grammar correct
+47. no purposeless dead bottom/double-gap seams
+48. mobile lettering readable
+49. stitched chapter has no seams/duplicates/state/topology/orientation/scale/depth/axis/power jumps
+50. final ending matches locked script exactly
+51. fresh final clean-room audit finds zero unresolved mandatory findings
 
 ## Attached-Reference Failure — BLOCKING
 
@@ -66,15 +75,7 @@ Reject mutually incompatible physical solutions for one critical action. Pick on
 ## Action-Proof / Real-Contact Failure — BLOCKING
 
 Critical action is unproven when decisive mechanism is hidden/cropped OR when contact is represented only by 2D overlap.
-Reject examples:
-- lock/door result without hand/handle/lock interaction
-- key/phone/packet pickup without readable grip
-- unplug without hand+plug+wall socket
-- sheathing without blade entering actual sheath mouth
-- chair rise without hips/seat/floor mechanics
-- mask reseat shown only as hand covering face with no mask travel/hardware contact
-- wrist catch shown as hand silhouette over wrist without finger/thumb wrap
-- standing/foot packet contact with no shared floor plane
+Reject lock/door result without operation, key/phone/packet pickup without readable grip, unplug without plug/socket proof, sheathing without blade/sheath contact, chair rise without body/seat/floor mechanics, mask reseat without mask/hardware travel, wrist catch without readable finger/thumb wrap, or packet contact without shared floor plane.
 
 ## Same-Object Representation Failure — BLOCKING
 
@@ -84,54 +85,105 @@ Wide + close-up/inset must remain one physical object/person with compatible sta
 
 Reject silent hand/wrist/foot/shoulder/pocket/ear side swaps and worn-accessory disappearance/movement.
 
+## Camera-Axis / Eyeline Failure — BLOCKING
+
+A reverse shot may flip screen-left/right, but it may not silently exchange story-world sides or make a character look toward the wrong target.
+
+Reject if:
+- an uninterrupted conversation crosses the 180-degree axis without a neutral reorientation and the speakers appear to exchange physical sides
+- Nari/Mrs. Na/Hyun-woo/Seungjae eye/head direction points away from the actual person they are speaking to
+- Nari reacts toward the wrong wall/device after speaker/TV/fridge/cabinet audio or activation
+- a protective/blocking shot changes gaze geography so the threat/protector/protected positions no longer make sense
+- camera closeness is used to hide that gaze direction contradicts the floor plan
+
+Balloon tails do not compensate for wrong eyelines.
+
+## Physical Text-Plane Failure — BLOCKING
+
+Reject in-world text that detaches from its physical carrier.
+
+Screen text:
+- TV/refrigerator/tablet/phone/smart-lock text remains inside the actual display/screen boundary
+- text follows the physical screen perspective when oblique
+- no detached UI card/hologram/floating device text in room space
+
+Page/object text:
+- binder/note/notebook print/handwriting remains on the actual page/object plane
+- follows page perspective/orientation
+- cannot cross page boundaries into room space
+- previous page text cannot remain floating after a page turn
+
+A front-readable close-up is allowed only as a representational view of the SAME physical carrier.
+
+## Reflection / Shadow False-Duplicate Failure — BLOCKING
+
+Unless explicitly scripted, reject:
+- readable reflected duplicate Nari, Hyun-woo, Mrs. Na, Seungjae or unknown person
+- reflected face/hand/human figure in TV, refrigerator, windows, building glass, phones/tablets, counters or other surfaces
+- shadow-person or unexplained human silhouette
+- reflection/shadow that duplicates an evidence object
+- shadow direction/intensity requiring a light source that is off/nonexistent
+- Hyun-woo afterimage/reflection/shadow after Unit power returns
+
+Matte/restrained environmental sheen is allowed. It may not become story information accidentally.
+
+## Grip / Finger Ergonomics Failure — BLOCKING
+
+Reject critical handling that is only shape overlap or anatomically unusable.
+
+Examples:
+- plug gripped by prongs/cable instead of plug body
+- knife held by blade
+- fingers pass through/fuse with key, key ring, pen, chopsticks, phone, umbrella handle, bag handle, mask hardware, cabinet/door handle, packet, lid, flashlight or radio
+- phone floats against fingertips without palm/finger support
+- pen/chopsticks cannot function in the depicted grip
+- mask hardware/door handle is “touched” only by a pasted foreground hand with no usable contact
+
+Flat 2D simplification is allowed; impossible hand mechanics are not.
+
+## Worn Item / Strap Attachment Failure — BLOCKING
+
+Reject if:
+- scrunchie floats beside/sinks through/switches wrist
+- headphones pass through Nari's neck, jaw, hair, hoodie, or move off the neck without action
+- bag strap cuts through neck/arm/hair/clothing or changes shoulder
+- watch floats or changes wrist
+- earbud does not physically sit in/remove from/reinsert into the same ear
+- Hyun-woo mask straps/hardware pass through ear/head/hair or detach/duplicate without action
+
+Partial occlusion is allowed; clipping/floating/side swap is not.
+
+## Audio-Source / Reaction-Direction Failure — BLOCKING
+
+Reject if offscreen/device audio migrates from the real story source.
+
+Examples:
+- `SLURP` appears to come from hallway/ceiling when eater is at dining table
+- speaker dialogue appears sourced from fridge/TV/wall/void
+- cabinet chimes do not clearly come from the same closed lower cabinet
+- appliance SFX is placed at a different device
+- character head/eyes/body turn away from the actual sound source
+
+## Weather / Glass Boundary Failure — BLOCKING
+
+Reject active exterior rain continuing inside the lobby after the characters cross the building envelope, glass doors becoming an invisible portal, or glass reflections inventing human duplicates.
+Residual wet umbrella/clothing/floor moisture is allowed when physically plausible.
+
 ## Orientation / Hinge / Handle / Track Failure — BLOCKING
 
-Reverse shots may flip screen direction but may NOT reverse story-world mechanics.
-Reject if:
-- Unit front-door hinge/handle/smart-lock side changes
-- cabinet hinge/handle/open direction changes
-- building entrance or elevator changes sliding/hinged mechanism, panel count or track direction
-- binder spine/rings/page-turn side flips
-- knife blade/sheath-mouth orientation reverses
-- pot handle/cloth side flips
-- chair front/back/pushed angle changes
-- appliance cord-origin side flips
+Reverse shots may flip screen direction but may NOT reverse story-world mechanics. Reject changed front-door/cabinet hinges and handles, changed entrance/elevator mechanism or panel count, mirrored binder spine/page-turn side, reversed knife/sheath axis, changed pot handle/cloth side, chair orientation, or appliance cord-origin side.
 
 ## Object Scale / Fit Failure — BLOCKING
 
-Reject hidden resizing used to make an action fit.
-Examples:
-- speaker shrinks to fit stockpot/cabinet
-- stockpot/lid/towels/cabinet volume changes
-- emergency-tray tools shrink/overlap
-- knife grows after draw
-- A5 notebook shrinks to fit crowded table
-- phone/tablet/key/packet/candle/pot/chair/TV changes world-space scale across close-ups
-- character/chair/table proportions change between sit/stand views
-
-Perspective may change apparent size, not world-space scale.
+Reject hidden resizing used to make an action fit. Perspective may change apparent size, not world-space scale.
 
 ## Depth-Order / Occlusion Failure — BLOCKING
 
-Reject if 2D layering contradicts real story space:
-- Hyun-woo appears “between” Nari/fridge only because drawn foreground while floor-plan order is wrong
-- person appears inside elevator before threshold crossing
-- chair merely drawn behind body without real seated contact
-- foreground close-up hides a silent relocation
-- object that should be behind/in front swaps physical depth without action
+Reject 2D layering that contradicts real story space, foreground close-ups that hide silent relocation, or occlusion used to avoid drawing a mandatory action proof.
 
 ## Flexible-Object / Gravity / No-Clipping Failure — BLOCKING
 
-Reject if:
-- loose wall plug floats unsupported
-- cord passes through wall/TV stand/cabinet/counter/furniture/appliance body
-- cord length/slack changes impossibly
-- coiled cord/towels/lid/speaker occupy same solid volume
-- cloth/towel penetrates pot/speaker/cabinet
-- knife/chopstick/packet fall path passes through body/table/chair/wall
-- loose notebook/pen/phone/packet hovers above support plane
-
-Flat graphic rendering is allowed; broken physical topology is not.
+Reject floating loose plugs, impossible cord slack/length, cords through solids, towels/cloth intersecting containers/objects, falling objects through bodies/furniture, or loose props hovering above support planes.
 
 ## Hand Occupancy / Support Failure — BLOCKING
 
@@ -139,12 +191,7 @@ Reject impossible extra hands or floating props. Use visible support/set-down/po
 
 ## Prop Provenance / Topology / Distinct Evidence Failure — BLOCKING
 
-Reject unexplained object source/route, side/depth swaps, evidence merging, storage stack changes, or table/cabinet topology reset.
-
-Chapter 1 after Strip 023:
-- knife = distinct settled floor point/orientation
-- empty outer packet = separate floor point
-- Nari feet separate from both
+Reject unexplained object source/route, side/depth swaps, evidence merging, storage-stack changes, or table/cabinet topology resets.
 
 ## Route / Collision Failure — BLOCKING
 
@@ -165,15 +212,15 @@ Strip031 must visually prove active TV remains wall-unplugged within canonical r
 
 ## Lettering / Evidence-Visibility Failure — BLOCKING
 
-Reject text/SFX covering/severing required physical proof: grip/contact, hinge, page turn, cord path, fall trajectory, chair mechanics, mask/wrist contact, food path, notebook placement, device clues.
+Reject text/SFX covering/severing required physical proof: grip/contact, hinge, page turn, cord path, fall trajectory, chair mechanics, mask/wrist contact, food path, notebook placement, device clues, gaze targets, or source geography.
 
 ## Lighting-Containment Failure — BLOCKING
 
-Reject contained supernatural accents becoming cinematic room illumination.
+Reject contained supernatural accents becoming cinematic room illumination or creating false shadow figures.
 
 ## Micro-Continuity Failure — BLOCKING
 
-Camera cut cannot erase/reset state, orientation, scale, depth, support, gravity, worn state, object position or power condition.
+Camera cut cannot erase/reset state, orientation, scale, depth, support, gravity, worn state, camera-axis geography, object position or power condition.
 
 ## Narration / Technical-Label Failure — BLOCKING
 
@@ -193,7 +240,7 @@ Rendered gates cannot be marked PASS until actual images exist and are visually 
 Use `PRODUCTION COMPLETE` only after all mandatory rendered/stitch/final-audit gates pass.
 
 Accurate intermediate statuses include:
-- `SIXTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST STRIP GENERATION`
+- `SEVENTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST STRIP GENERATION`
 - `VISUAL QA FAILED — REPAIR / REGENERATE BEFORE NEXT STRIP`
 - `VISUAL QA IN PROGRESS — NOT PRODUCTION COMPLETE`
 - `BLOCKED — REQUIRED CANONICAL VISUAL AUTHORITY MISSING`
