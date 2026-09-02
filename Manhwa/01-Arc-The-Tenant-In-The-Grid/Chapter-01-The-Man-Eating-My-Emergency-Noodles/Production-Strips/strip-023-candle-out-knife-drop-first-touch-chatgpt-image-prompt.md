@@ -1,236 +1,224 @@
-# Strip 023 — Candle Out / Knife Drop / First Touch
+# Strip 023 — Candle Out / Knife Drop / First Touch — FINAL DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing SAME action chain from APPROVED Strip 022.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME action chain from the APPROVED rendered Strip 022.
+
+THIS IS NOT A PAGE. Never render V103–V107, Strip 023, production foot/hand labels, filenames, QA notes, or production metadata.
 
 PRODUCTION SCOPE
-V103–V107.
-
-ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.webp`
-- `Character-References/hyunwoo-canonical-flat2d.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-- `Manhwa/Object-References/refrigerator-canonical-reference.webp`
-- APPROVED Strip 022
-- this Strip 023 prompt
+V103–V107 only.
 
 ==================================================
-REFERENCE / START STATE — ABSOLUTE
+ATTACH — REQUIRED — EXACT SET
 ==================================================
+1. `nari-canonical-flat2d.webp`
+2. `hyunwoo-canonical-flat2d.webp`
+3. `unit-2407-floor-plan-reference.webp`
+4. `unit-2407-living-to-kitchen-wide-reference.webp`
+5. `unit-2407-kitchen-to-living-wide-reference.webp`
+6. `unit-2407-fridge-cabinet-zone-detail-reference.webp`
+7. `unit-2407-lighting-state-sheet-reference.webp`
+8. `unit-2407-room-angle-atlas-reference.webp`
+9. `refrigerator-canonical-reference.webp`
+10. APPROVED rendered Strip 022 image
 
-Attached refs permanent. Preserve true floor-plan block refrigerator→Hyun-woo→Nari, dining scale/depth, Nari STEP FOOT/trailing foot, KNIFE HAND, worn state, and both character canonical identities.
-Never render V/P/strip/temp-state labels.
+Missing authority = STOP.
+
+==================================================
+CURRENT CANON / START STATE
+==================================================
+Current WebPs permanently control characters/fridge/environment. APPROVED Strip 022 temporarily controls exact protective block, Nari feet/knife hand, floor packet, fridge text, tiny-blue-core candle, chair/table/dining topology, and blackout rendering.
+
+CURRENT NARI WEBP WINS. Never restore retired dark-plum hair, mouth beauty mark, yellow scrunchie, headphones-around-neck identity, or old outfit design.
 
 START:
-- Hyun-woo real blocking position, SAME broad body/tattoo/mask/low-tied-hair identity
-- Nari behind him; STEP FOOT planted near packet, trailing/support foot fixed
-- knife low SAME KNIFE HAND
-- Nari SAME long dark-plum hair, anatomical-LEFT mouth beauty mark, SCRUNCHIE WRIST/headphones
+- world order refrigerator → Hyun-woo → Nari
+- Nari's previously advanced foot planted near packet; trailing/support foot behind
+- knife LOW same hand
 - fridge reads `YOON NARI` + `IDENTITY LOCKING`
-- same tiny-blue-core candle/holder
-- exact dining topology/scale
-- empty packet fixed floor spot
-
-ALLOWED CHANGES ONLY:
-A. STEP FOOT stays planted; trailing foot makes ONE short half-step and becomes CANDLE FOOT
-B. both feet stable; Nari leans/blows candle
-C. `PFF`; candle out
-D. `KIIIIII`; FREE HAND toward one ear, KNIFE HAND toward other; grip begins failing
-E. SAME knife leaves fingers and falls through one unobstructed path
-F. SAME knife contacts distinct floor spot `CLANG`
-G. ONLY after impact Hyun-woo uses ONE physically connected hand/arm to grip the wrist of SAME former KNIFE HAND arm
+- same candle/holder with tiny blue core
+- same table/chair/pot/wrapper/packet topology
 
 END:
-- STEP FOOT + CANDLE FOOT fixed
-- former-KNIFE-HAND wrist truly held
-- knife fixed distinct floor spot/orientation
-- packet separate/unmoved
+- both Nari feet fixed after exactly one additional HALF-STEP by trailing foot
 - candle extinguished
-- character body topology/identity and dining topology unchanged
+- same practical knife settled at one distinct floor spot/orientation
+- former knife-hand wrist physically held by one connected Hyun-woo arm/hand
+- packet separate/unmoved
 
 ==================================================
-WHOLE-BODY / LIMB OWNERSHIP — NON-NEGOTIABLE
+ACTION ORDER / HEIGHT MAP
 ==================================================
-
-NARI:
-- exactly two arms/hands and two legs/feet through the entire chain
-- KNIFE HAND remains SAME anatomical hand until knife release; former-KNIFE-HAND arm/wrist remains SAME arm after hand empties
-- FREE HAND is the OTHER physical hand; it cannot duplicate or swap with KNIFE HAND during the ear reaction
-- STEP FOOT/CANDLE FOOT remain attached to the correct legs; no duplicate/missing foot or leg
-- beauty mark remains anatomical LEFT when face visible; hair/worn state unchanged
-
-HYUN-WOO:
-- SAME two arms/hands only; catching hand must visibly originate from a real shoulder/upper arm/forearm attached to SAME broad canonical body at blocking position
-- tattoo pattern on the catching arm/forearm must match that anatomical side from canonical/previous strips; reverse camera cannot switch the tattoo map to the other arm
-- no third hand/arm, detached floating hand, impossible elbow bend, shoulder disconnection or hand appearing from behind Nari with no physical path
-- mask/hair/body identity remains canonical; no lower-face exposure during action
-
-A wrist/hand close-up must preserve enough sleeve/skin/tattoo/scrunchie/body context to prove WHOSE limb it is and which anatomical side it belongs to.
-
-==================================================
-CANDLE FOOT / REACH — ABSOLUTE
-==================================================
-
-STEP FOOT stays planted near packet. Former trailing foot makes ONE short half-step only and becomes CANDLE FOOT, landing clear of packet/table/chair/Hyun-woo/fridge/future knife spot. Nari leans from real hips/torso to plausible blowing distance. No second stride.
-
-==================================================
-MOBILE ACTION-CHAIN PROOF / SAFE MARGINS — ABSOLUTE
-==================================================
-
-At normal mobile size, visibly distinguish:
-- STEP FOOT remains planted while OTHER foot becomes CANDLE FOOT
-- candle lit before `PFF`, unlit after
-- knife still in SAME KNIFE HAND after candle-out
-- `KIIIIII` reaction with two distinct Nari hands, no duplicate
-- grip begins failing
-- SAME knife fully clears fingers
-- identifiable knife fall path
-- real floor impact/settled knife before `CLANG`
-- Hyun-woo's connected hand/arm wrapping SAME former-KNIFE-HAND wrist only after impact
-
-Close-ups must retain enough limb context to prove ownership. Do not crop the caught wrist so tightly that it could be opposite arm or a detached generic wrist.
-
-==================================================
-KNIFE FALL / THREE FLOOR FACTS — NON-NEGOTIABLE
-==================================================
-
-The SAME practical knife follows one unobstructed gravity path, cannot pass through either body/table/chairs/pot/candle/packet/fridge/wall, makes real floor contact, and settles one fixed orientation/location through Strip 028.
-
-Keep separate:
-A. packet near STEP FOOT
-B. STEP FOOT + CANDLE FOOT
-C. knife impact spot
-No overlap/merge.
-
-==================================================
-FRAME-BY-FRAME HAND STATE — ABSOLUTE
-==================================================
-
-V103: knife in KNIFE HAND; no wrist contact.
-V104: FREE HAND one ear; KNIFE HAND other ear; knife grip only begins failing; exactly two Nari hands total; no wrist contact.
-V105: knife fully out; former KNIFE HAND visibly empty; no wrist catch.
-V106: knife impacts/settles; no wrist catch before impact.
-V107: Hyun-woo's one real hand/arm catches SAME former-KNIFE-HAND wrist.
-
-==================================================
-WRIST CATCH CONTACT / BODY PATH — NON-NEGOTIABLE
-==================================================
-
-Required:
-- SAME former-KNIFE-HAND wrist/forearm
-- Nari wrist remains connected to the correct arm/shoulder/body
-- Hyun-woo catching hand travels from his real blocking body through open space
-- fingers/thumb wrap wrist circumference with usable grip
-- catching forearm/elbow/upper arm remain physically connected to Hyun-woo shoulder/body
-- catching-arm tattoo identity stays on correct anatomical side
-- no hand-through-arm/body intersection
-- no extra hand remains elsewhere on Hyun-woo while the same arm also catches
-- knife already floor
-
-`WARM.` occurs only after this real contact.
-
-==================================================
-CANDLE / LIGHT / IDENTITY MATERIAL — ABSOLUTE
-==================================================
-
-After `PFF`, candle-derived highlights/shadows end. Fridge pixels do not light room. Flat value separation is not a new physical light.
-Do not use darkness/action to make Nari hair pure black, tattoos neon, mask glossy, skin glossy or character local colors change identity.
-
-==================================================
-TOP-TO-BOTTOM ACTION ORDER — ABSOLUTE
-==================================================
-
-1. CANDLE FOOT half-step/reach
+Exact reader order:
+1. half-step/reach
 2. `PFF`
 3. `KIIIIII`
 4. knife grip fails
-5. knife leaves fingers
-6. knife floor contact
+5. knife fully leaves fingers
+6. floor impact
 7. `CLANG`
 8. wrist catch
 9. `WARM.` thought
 10. Hyun-woo line
 
-Never visually reorder.
+Approximate height:
+V103 20% | V104 20% | V105 15% | V106 17% | V107 28% — LARGEST.
 
 ==================================================
-VERTICAL STORY FLOW
+V103 — ONE HALF-STEP / REAL BLOW / CANDLE OUT — FULL BLUEPRINT
 ==================================================
+FOOT MECHANICS:
+- previously advanced foot stays planted near packet
+- ONLY former trailing foot makes ONE short half-step toward candle; this becomes production-only candle foot
+- landing clears packet/table/chair/Hyun-woo/fridge/future knife spot
+- no second stride
 
-V103 — CANDLE FOOT / LEAN / OUT
-SFX at real flame-out:
+BODY:
+- Nari leans from real hips/torso to plausible blowing distance
+- knife still LOW in same hand
+
+CANDLE:
+- same candle/holder, same location
+- flame visibly present before blow
+- actual exhale/blow action implied by face/head proximity
+- only then flame goes out
+
+SFX:
 `PFF`
 
+LIGHTING RESULT:
+- candle-derived local warm light/shadows END immediately
+- no fridge pixels replacing candle as room light
+
+END:
+- both feet stable
+- candle out
+- knife still in hand
+
 SMALL BLACK GUTTER.
 
-V104 — SHRIEK
-SFX at refrigerator:
+==================================================
+V104 — FRIDGE SHRIEK / TWO-HAND EAR REACTION / GRIP FAILURE BEGINS — FULL BLUEPRINT
+==================================================
+SFX FROM ACTUAL REFRIGERATOR:
 `KIIIIII`
-FREE HAND and KNIFE HAND go toward the two ears; grip begins failing.
+
+NARI HAND STATE:
+- FREE HAND moves toward one ear
+- KNIFE HAND moves toward the other ear while STILL partly gripping the knife
+- exactly TWO Nari hands total
+- knife grip only begins failing; knife has NOT fully left yet
+
+FEET:
+- both fixed from V103
+- no step
+
+HYUN-WOO:
+- remains blocking
+- no wrist contact yet
+
+END:
+- knife about to leave hand
+
+REJECT IF knife already floor/caught before this beat.
 
 SMALL BLACK GUTTER.
 
-V105 — KNIFE FREE FALL
-SAME knife fully leaves fingers and follows clear path.
+==================================================
+V105 — KNIFE FULLY LEAVES FINGERS / FREE FALL — FULL BLUEPRINT
+==================================================
+CAMERA:
+- enough Nari arm/hand context to prove this is SAME knife hand
+- include clear unobstructed fall path
+
+ACTION:
+1. same knife fully clears all fingers
+2. former knife hand visibly EMPTY
+3. knife falls under gravity
+4. knife does NOT pass through either body/table/chair/pot/candle/packet/fridge/wall
+5. no wrist catch yet
+
+NO SFX yet.
+
+END:
+- knife still in air/falling
 
 SMALL BLACK GUTTER.
 
-V106 — REAL FLOOR IMPACT
-SFX at knife/floor contact:
+==================================================
+V106 — REAL FLOOR IMPACT / SETTLED KNIFE — FULL BLUEPRINT
+==================================================
+KNIFE:
+- SAME practical knife contacts real floor plane at a distinct spot separate from packet/feet
+- only at impact:
 `CLANG`
-Knife settles exact distinct spot/orientation.
+- settles one fixed orientation/location
+- this spot persists through Strip 028 retrieval
+
+THREE SEPARATE FLOOR FACTS MUST READ:
+A. packet near previously advanced foot
+B. Nari two planted feet
+C. knife impact/settled spot
+
+No wrist catch before impact.
 
 SMALL BLACK GUTTER.
 
-V107 — REAL SAME-WRIST CATCH
-Hyun-woo's SAME physically connected canonical arm/hand grips SAME former KNIFE HAND wrist.
-NARI INTERNAL THOUGHT:
+==================================================
+V107 — SAME FORMER-KNIFE-HAND WRIST CATCH — FULL BLUEPRINT
+==================================================
+START:
+- knife already settled floor
+- Nari former knife hand empty
+
+HYUN-WOO ACTION:
+1. one real connected Hyun-woo hand travels from his actual blocking body
+2. forearm/elbow/upper arm remain visibly/physically connected to correct shoulder/body
+3. catching-arm tattoo map remains correct anatomical side
+4. fingers/thumb wrap SAME former knife-hand wrist with believable usable grip
+5. no clipping/hand-through-arm
+6. no third hand/arm
+
+NARI:
+- caught wrist remains attached to same arm/body
+- other hand separate
+
+INTERNAL THOUGHT AFTER REAL CONTACT:
 `WARM.`
+Nari does NOT mouth it.
+
 HYUN-WOO:
 `STAY IN THE DARK UNTIL THE POWER'S BACK.`
+He remains masked.
+
+END / SEAM:
+Strip 024 begins from the ACTUAL held-wrist state, knife floor, packet separate, candle out.
 
 ==================================================
-SPEAKING / THOUGHT OWNERSHIP — ABSOLUTE
+EXACT TEXT ONLY
 ==================================================
+`PFF`
+`KIIIIII`
+`CLANG`
+`WARM.`
+`STAY IN THE DARK UNTIL THE POWER'S BACK.`
 
-`WARM.` is Nari internal thought; Nari must NOT visibly mouth/speak it.
-Hyun-woo's final line belongs to Hyun-woo; Nari is listener. Hyun-woo remains masked; do not expose lower face to show speech.
+No extra readable text.
 
 ==================================================
-SEAM
+FINAL REJECT
 ==================================================
-
-Strip 024 begins SAME wrist truly held by SAME connected Hyun-woo arm/hand, same Nari limb sides/feet, same settled knife, separate packet, candle out, character identities unchanged.
-
-AUTOMATIC REJECT IF
-- production/temp-state label appears
-- Nari beauty mark/hair/worn identity changes
-- Hyun-woo tattoo/mask/hair/build identity changes
-- extra/missing/duplicated limb/hand/foot appears on either character
-- FREE HAND/KNIFE HAND duplicate/swap or close-up limb cannot connect to same body
-- Hyun-woo catching hand is detached/generic, comes from wrong arm, tattoo side mirrors, or arm connection is impossible
-- STEP FOOT/CANDLE FOOT wrong leg/multiple step
-- knife fall teleports/clips/changes identity or impact state moves
-- wrist catch before impact or opposite wrist caught
-- wrist contact only 2D overlap / hand clips through arm
-- candle warm light remains after flame-out or fridge becomes room light
-- tattoos/mask/skin/hair become glossy/neon/cinematic
-- `WARM.` is spoken aloud
-- text/SFX hides limb ownership/trajectory/contact proof
+Reject if production labels render; retired Nari design returns; Hyun-woo identity/tattoo side drifts; wrong/multiple feet move; knife fall teleports/clips; knife impact spot overlaps packet; wrist catch occurs before floor impact; opposite wrist caught; extra/missing/duplicated limbs/hands appear; candle light persists after `PFF`; fridge becomes room light; `WARM.` is spoken; glossy/neon/cinematic/photoreal/3D style appears; text hides action sequence; gutters missing/oversized; dead bottom appears.
 ```
 
-## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Character-References/hyunwoo-canonical-flat2d.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-5. `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
-6. `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
-7. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-8. `Manhwa/Object-References/refrigerator-canonical-reference.webp`
-9. APPROVED Strip 022
-10. this Strip 023 prompt
+## Production Thread Attachments — EXACT SET
+1. `nari-canonical-flat2d.webp`
+2. `hyunwoo-canonical-flat2d.webp`
+3. `unit-2407-floor-plan-reference.webp`
+4. `unit-2407-living-to-kitchen-wide-reference.webp`
+5. `unit-2407-kitchen-to-living-wide-reference.webp`
+6. `unit-2407-fridge-cabinet-zone-detail-reference.webp`
+7. `unit-2407-lighting-state-sheet-reference.webp`
+8. `unit-2407-room-angle-atlas-reference.webp`
+9. `refrigerator-canonical-reference.webp`
+10. APPROVED rendered Strip 022 image
