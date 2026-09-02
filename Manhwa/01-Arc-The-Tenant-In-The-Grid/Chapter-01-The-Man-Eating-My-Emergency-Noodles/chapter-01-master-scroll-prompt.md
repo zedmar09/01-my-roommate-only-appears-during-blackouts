@@ -9,7 +9,7 @@ PRODUCTION SOURCE
 Use the locked Chapter 1 Manhwa beat plan, strip manifest, current strip prompts, and approved reusable canonicals. Historical P001–P018 labels are mapping shorthand only.
 
 GLOBAL PRODUCTION RULES — ABSOLUTE
-`Manhwa/style-guide.md`, `Manhwa/lettering-sfx-guide.md`, `Manhwa/seam-continuity-protocol.md`, `Manhwa/vertical-scroll-layout-guide.md`, `Manhwa/generation-workflow.md`, `Manhwa/production-readiness-gate.md`, `Manhwa/seventh-hardening-visual-logic-addendum.md`, and `Manhwa/eighth-hardening-presentation-integrity-addendum.md` apply to every technical strip. A strip prompt may be stricter but never looser.
+`Manhwa/style-guide.md`, `Manhwa/lettering-sfx-guide.md`, `Manhwa/seam-continuity-protocol.md`, `Manhwa/vertical-scroll-layout-guide.md`, `Manhwa/generation-workflow.md`, `Manhwa/production-readiness-gate.md`, `Manhwa/seventh-hardening-visual-logic-addendum.md`, `Manhwa/eighth-hardening-presentation-integrity-addendum.md`, and `Manhwa/ninth-hardening-character-topology-identity-addendum.md` apply to every technical strip. A strip prompt may be stricter but never looser.
 
 INTERNAL PLAN
 146 internal read beats V01–V146 and 32 technical strips strip-001–strip-032. Never render those IDs.
@@ -44,13 +44,41 @@ Clean intentional line art, flat colors, restrained hard-edged cel shading only,
 NO photoreal/semi-photoreal, 3D/CGI/game art, painterly, glossy/wet/plastic, beauty-ad shine, airbrush-heavy, cinematic color/DOF, bloom, lens flare, excessive rim light, mirror-like reflections, hyper-texture, or AI-polished over-rendering.
 
 REAL-SCENARIO CONTINUITY
-All movement, object routes/counts, room axes, power states, anatomical sides, worn accessories, object orientation, world-space scale, depth order, support/gravity, eyelines, camera axis, physical text planes, reflection/shadow state, grip/contact ergonomics, presentation perspective, proof visibility, and text ownership must remain physically coherent across all 32 strips.
+All movement, object routes/counts, room axes, power states, anatomical sides, worn accessories, object orientation, world-space scale, depth order, support/gravity, eyelines, camera axis, physical text planes, reflection/shadow state, grip/contact ergonomics, presentation perspective, proof visibility, character topology/identity landmarks, wardrobe/local color and text ownership must remain physically coherent across all 32 strips.
 
 SAME-OBJECT REPRESENTATION
 Close-ups/insets/device/page/plug details are views of the SAME physical object unless another object is explicitly established. Same-moment states must agree.
 
 LEGAL TIME CUTS
 Time passage may change mundane noncritical clutter, but cannot erase story-critical evidence, reset canon, or create a second copy.
+
+WHOLE-BODY ANATOMICAL TOPOLOGY — ABSOLUTE
+Every visible character remains one coherent human body. No extra/missing/duplicated limbs, detached hands/feet/ears/hair masses, impossible joint directions, fused body parts, or close-up limb that cannot connect to the adjacent wide-shot body.
+Partial occlusion is allowed only when the hidden body connection remains physically possible.
+
+LIMB OWNERSHIP / ANATOMICAL SIDE — ABSOLUTE
+A close-up hand/wrist/foot/arm/leg belongs to the SAME character and SAME physical side established by adjacent views. Preserve sleeve/glove/tattoo/scrunchie/skin/clothing cues needed to prove ownership. Reverse shots may flip screen-left/right but never limb ownership.
+
+PERMANENT CHARACTER LANDMARK SIDE — ABSOLUTE
+- Nari: exactly one tiny black beauty mark beside the anatomical LEFT corner of her mouth; never mirrored to anatomical right or duplicated.
+- Hyun-woo: tattoo coverage/pattern relationships remain on the same anatomical neck/collarbone/shoulder/arm regions; mask attachment and low-tied hair construction do not mirror/change.
+- Mrs. Na: same square jade earrings, same analog-watch wrist, same dark gloves unless explicitly removed.
+- Seungjae: same watch wrist, one earbud per ear when worn, same medium-brown hair part/silhouette.
+
+FACE / HAIR / AGE / BUILD IDENTITY — ABSOLUTE
+Expression, reverse camera, close-up, darkness or powered light cannot recast a character. Preserve face proportions, age presentation, hair length/part/tie/fringe, height/build, and permanent marks/accessories from canonical WebPs.
+
+WARDROBE / LOCAL-COLOR CONTINUITY — ABSOLUTE
+Within one continuous scene, clothing construction and signature local colors stay the same physical items/colors unless a legal cut or scripted wardrobe change says otherwise. Lighting may change value naturally but may not change identity hue/material. Nari's dark-plum hair/yellow scrunchie, Hyun-woo's matte-black mask/top and tattoo map, Mrs. Na's mauve coat/jade earrings/dark gloves, and Seungjae's medium-brown hair/youthful office-casual outfit remain stable.
+
+CLOTHING / BODY OCCLUSION TOPOLOGY — ABSOLUTE
+Sleeves, trousers, coat, hoodie, hair, headphones, bag straps and mask straps must wrap/attach to the same continuous body. Clothing may partially occlude a limb but may not create/mask an extra or missing limb or show tattoos through opaque fabric.
+
+SPEAKING / LISTENING / MOUTH-STATE LOGIC — ABSOLUTE
+Visible acting must agree with line ownership. Do not make a listener mouth another character's line, do not animate internal thought/narration/device/speaker audio as human spoken dialogue, and do not expose/rebuild masked Hyun-woo's lower face merely to indicate speech.
+
+CHARACTER LOCAL-MATERIAL CONTINUITY — ABSOLUTE
+Skin, hair, fabric, mask, tattoo, jewelry and accessories stay in the same flat matte material family across adjacent views. No glossy character close-up, neon tattoo, shiny mask, glowing jade/watch, or wet-looking hair without physical cause.
 
 ANATOMICAL-SIDE / WORN-STATE CONTINUITY
 When a strip defines a production-only identity such as KNIFE HAND, PHONE HAND, WRITING HAND, SCRUNCHIE WRIST, STEP FOOT, CANDLE FOOT, BAG SHOULDER, UMBRELLA HAND, or PHONE POCKET, preserve that physical side across reverse shots until visible transfer/release/expiry. These labels never render.
@@ -128,19 +156,22 @@ FINAL APPROVAL RULE
 Do not declare Chapter 1 production-complete from prompts/reference availability. Final approval requires all 32 rendered strips, sequential visual QA, seam/stitch QA, and a fresh clean-room visual audit with zero unresolved mandatory defects.
 ```
 
-## Eighth Deep-Hardening Binding Note — Absolute
+## Ninth Deep-Hardening Binding Note — Absolute
 
-The current Strip 001–032 prompts have been clean-room audited through the **eighth** `manhwa-2d-production-auditor` hardening pass. The seventh PASS was deliberately not accepted as proof.
+The current Strip 001–032 prompts are being clean-room audited through the **ninth** `manhwa-2d-production-auditor` hardening pass. The eighth PASS is deliberately not accepted as proof.
 
-The eighth pass targets presentation-level failures that can survive correct causality, topology and visual logic:
-- fisheye/ultra-wide/forced-perspective warping of canonical geometry
-- continuity evidence technically present but too small to understand on mobile
-- crop/gutter/divider edges amputating decisive action proof
-- light/shadow direction changing inside one unchanged lighting state
-- dialogue/SFX/device/narration placement making the scripted sequence read out of order
-- close-up cropping ownership/orientation so a hand, foot, plug, knife or notebook becomes ambiguous
-- exact in-world text rendered too small or too corrupted to read
+The ninth pass targets character-rendering failures that can survive correct story, causality, topology, visual logic and presentation integrity:
+- extra/missing/duplicated limbs or impossible body connections
+- close-up hand/foot/arm/leg ownership changing from the adjacent body view
+- permanent character landmarks mirroring under reverse cameras
+- Nari's anatomical-left beauty mark disappearing/moving/duplicating
+- Hyun-woo tattoo map, mask construction or low-tied hair changing/mirroring
+- Mrs. Na gloves/jade earrings/watch disappearing or swapping state
+- Seungjae aging, changing hair/outfit identity, or drifting toward Hyun-woo
+- wardrobe/local-color/material identity changing between adjacent shots
+- clothing/hair/accessory occlusion hiding impossible anatomy
+- visible acting contradicting dialogue/thought/device/audio ownership
 
-`Manhwa/eighth-hardening-presentation-integrity-addendum.md` is binding on all 32 strips together with all previous hardening rules. High-risk strips repeat the most important eighth-pass requirements locally.
+`Manhwa/ninth-hardening-character-topology-identity-addendum.md` is binding on all 32 strips together with the seventh/eighth addenda and every earlier rule. High-risk strips repeat the relevant ninth-pass requirements locally.
 
-Previously rejected or pre-eighth rendered attempts are not approved previous-strip continuity authorities. Retesting begins from Strip 001 only after the eighth post-repair clean-room audit is complete.
+Previously rejected or pre-ninth rendered attempts are not approved previous-strip continuity authorities. A ninth post-repair clean-room Strip 001→032 audit is required before the ninth status may be assigned.
