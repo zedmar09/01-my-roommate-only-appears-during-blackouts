@@ -186,20 +186,25 @@ Do not declare Chapter 1 production-complete from prompts/reference availability
 
 ## Tenth / Final Deep-Hardening Binding Note — Absolute
 
-The current Strip 001–032 prompts are undergoing the **TENTH / FINAL** `manhwa-2d-production-auditor` hardening pass. The ninth PASS is deliberately not accepted as proof.
+The current Strip 001–032 prompts have completed the **TENTH / FINAL** `manhwa-2d-production-auditor` hardening pass. The ninth PASS was deliberately not accepted as proof.
 
-The tenth pass targets the final performance-continuity failure class that can survive correct story, references, physics, character anatomy/identity and presentation:
+The final pass targeted:
 - silent pose resets at camera cuts
-- shoulder/hip/torso facing changes without movement
+- shoulder/hip/torso/feet facing changes without movement
 - relative character height/build changing between shared views
 - emotion intensity resetting/jumping without story cause
 - gesture changes that conflict with hand occupancy
 - clothing-layer/hood/sleeve/bag/mask wear state changing without action
 - hair/garment motion becoming a redesign
-- strip boundaries forgetting the inherited pose/facing/emotional state
+- strip boundaries forgetting inherited pose/facing/emotional state
 
 `Manhwa/tenth-hardening-pose-performance-continuity-addendum.md` is binding on all 32 strips together with every earlier rule.
 
-Local tenth rewrites currently apply to the high-risk performance anchors **005, 009, 012, 016, 017, 020, 021, 025, 032**. The complete current package must be re-read from Strip 001→032 after those repairs. No final tenth status may be assigned until that post-repair clean-room audit finds zero deterministic prompt/canon defects.
+Local tenth/final rewrites were required for **005, 009, 012, 016, 017, 020, 021, 025, 032**. The other 23 strips were re-read under the final gate and required no additional deterministic local rewrite.
 
-Previously rejected or pre-tenth rendered attempts are not approved continuity authority. Actual pixel-level visual QA remains mandatory after this final prompt audit.
+After those repairs, the complete current Strip 001→032 package was read again. The post-repair clean-room audit found zero additional deterministic prompt/canon defects.
+
+Current prompt/reference verdict:
+**TENTH / FINAL FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+
+Previously rejected or pre-tenth rendered attempts are not approved previous-strip continuity authorities. Retesting begins with a brand-new Strip 001 under the current final package. Actual pixel-level visual QA remains mandatory before Strip 002 may proceed.
