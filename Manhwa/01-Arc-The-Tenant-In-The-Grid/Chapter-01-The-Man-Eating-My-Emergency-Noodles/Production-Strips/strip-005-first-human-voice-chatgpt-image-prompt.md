@@ -51,6 +51,22 @@ END:
 - no Hyun-woo visual identity revealed
 
 ==================================================
+CHOPSTICK HAND GRIP / RELEASE ERGONOMICS — NON-NEGOTIABLE
+==================================================
+
+Before the drop, Nari's hand must visibly hold BOTH chopsticks as one ordinary pair using a believable loose carrying/tidying grip.
+- fingers must contact the sticks; the pair cannot float beside the hand
+- do not fuse sticks into fingers/palm
+- do not show an eating grip that implies food use; she is simply carrying the clean dry pair
+- no extra chopsticks hidden in the same hand
+
+At V24 the release is physical:
+1. same fingers loosen/open
+2. BOTH sticks clear the hand
+3. no stick remains embedded between/through fingers after release
+4. both fall under gravity to the fixed floor configuration
+
+==================================================
 ROBOT-VACUUM GAG — NO PLOT-CORD CONTAMINATION
 ==================================================
 
@@ -90,6 +106,24 @@ V24 exact chain:
 
 Perspective can alter screen angle, but reverse shots may not swap the sticks into a new story-world floor configuration or rotate them as though they landed again.
 Do not draw one stick hovering, embedded in floor, clipping through the other, or standing unnaturally vertical.
+
+==================================================
+AUDIO SOURCE / NARI REACTION DIRECTION — ABSOLUTE
+==================================================
+
+The synthetic assistant line and unknown natural male voice BOTH come from the SAME physical canonical speaker on the kitchen counter.
+- voice lettering/source placement must point back to that real speaker location
+- the sound source cannot migrate to ceiling, wall, fridge, TV, cabinet, or generic offscreen void
+- V25 Nari's head/eyes/upper body turn toward the actual speaker story-world position
+- a reverse camera may flip screen-left/right, but her gaze must still terminate toward that same real counter location
+- do not use balloon/tail placement to disguise an impossible eyeline
+
+==================================================
+REFLECTION / SHADOW FALSE-DUPLICATE BAN — ABSOLUTE
+==================================================
+
+Do not reveal or imply Hyun-woo through reflection, shadow, silhouette, window glass, TV/fridge surface, glossy counter, or any other accidental duplicate figure. He remains completely visually unidentified.
+Ordinary shadows/reflections may only belong to actually present objects/people and real current lights. No invented shadow-person during V24/V25.
 
 ==================================================
 MANDATORY ACTION-PROOF / DEPTH REALITY — ABSOLUTE
@@ -176,7 +210,7 @@ V25 — FIRST NATURAL MALE VOICE
 Same canonical screenless speaker.
 UNKNOWN NATURAL MALE VOICE through speaker:
 `YOU COULD SAY PLEASE.`
-Nari freezes/looks toward SAME speaker. BOTH chopsticks remain in exact V24 floor configuration.
+Nari freezes and looks toward the actual canonical speaker location. BOTH chopsticks remain in exact V24 floor configuration.
 
 ==================================================
 VOICE / LETTERING DISTINCTION
@@ -195,10 +229,11 @@ AUTOMATIC REJECT IF
 - any production label appears
 - attached references redesigned
 - robot vacuum uses canonical plot cord/outlet
-- Hyun-woo visual appears
-- speaker redesigns/moves/gets screen
+- Hyun-woo body/silhouette/reflection/shadow appears
+- speaker redesigns/moves/gets screen or voice source migrates away from speaker
+- Nari looks toward wrong wall/device instead of actual speaker
 - food/storage prop invented
-- chopstick count not exactly two
+- chopstick hand grip is impossible/fused/floating or count is not exactly two
 - chopsticks appear only at drop, duplicate, disappear, rotate/re-land between V24/V25/V26, or change spacing/orientation without action
 - either stick floats, clips through floor/object, or contact is only fake 2D overlap
 - fall path hidden or impossible
