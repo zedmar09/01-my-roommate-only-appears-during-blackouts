@@ -17,200 +17,167 @@ ATTACH — REQUIRED
 Do NOT attach Hyun-woo.
 
 ==================================================
-REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached WebPs are binding permanent authority. APPROVED Strip 014 controls temporary blackout/pose/worn-state only; correct any permanent drift to attached canon instead of propagating it.
-Preserve Nari's long loose dark-plum hair, SAME SCRUNCHIE WRIST, SAME headphones around neck, home outfit, desk orientation, tray placement, hallway direction, and blackout lighting geometry.
-Never render V68–V70, P9, Strip 015, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+Attached WebPs permanent authority. APPROVED Strip 014 controls temporary blackout/pose/worn state only.
+Preserve Nari identity, long loose hair, SAME SCRUNCHIE WRIST, SAME headphones around neck, desk orientation, SAME emergency tray size/location, exact flashlight/radio/sheathed-knife layout/orientation established Strip 011, hallway direction, blackout geometry.
+Never render V68–V70, P9, Strip 015 or production/temp-state labels.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
 START:
-- same Unit 2407 outage; ordinary supplied power OFF
-- Nari at SAME desk orientation from Strip 014
-- long loose dark-plum hair unchanged
-- yellow scrunchie = SAME SCRUNCHIE WRIST from Strip 014
-- SAME headphones remain around neck, not ears/surface
-- phone = desk, screen completely dark/untouched
-- emergency tray immediately right of keyboard
-- flashlight = its same tray position
-- radio = its same tray position
-- practical knife = fully sheathed in same tray, handle toward chair
-- hallway direction canonical; hallway lamp off because power absent
-- no candle, no Hyun-woo, no `SLURP`
+- Unit supplied power OFF
+- Nari at SAME desk orientation
+- scrunchie/headphones unchanged
+- phone dark desk
+- SAME emergency tray immediately right of keyboard
+- SAME flashlight at exact Strip 011 tray rest zone/orientation
+- SAME radio at exact Strip 011 tray rest zone/orientation
+- SAME practical knife fully sheathed at exact Strip 011 tray rest zone/orientation; handle toward chair
+- all three fit tray at stable sizes without overlap
 
 ALLOWED CHANGES:
-- Nari looks at phone but does not touch/wake it
-- Nari physically picks up SAME flashlight, tests it twice, then returns it to SAME tray position
-- only after flashlight is back, Nari physically picks up SAME radio, tests it once, then returns it to SAME tray position
-- Nari remains near desk and listens into apartment
-- practical knife remains sheathed/untouched throughout
-- SCRUNCHIE WRIST does not change
-- headphones remain around neck; no removal/transfer
+- Nari looks at phone, does not touch/wake
+- picks SAME flashlight, tests twice, then physically returns it to its EXACT original tray zone/orientation and releases it
+- only after flashlight return, picks SAME radio, tests once, then physically returns it to its EXACT original tray zone/orientation and releases it
+- remains near desk/listens
+- knife/sheath does not move
+- worn state unchanged
 
 END:
-- phone still dark at desk
-- flashlight = returned to SAME tray position
-- radio = returned to SAME tray position
-- practical knife = still fully sheathed in SAME tray position
-- SCRUNCHIE WRIST unchanged
-- headphones still around neck
-- Nari remains near same desk, listening toward canonical hallway/kitchen direction
-- blackout continues into Strip 016
+- phone dark desk
+- flashlight exact Strip 011 tray zone/orientation
+- radio exact Strip 011 tray zone/orientation
+- practical knife exact sheathed Strip 011 tray zone/orientation, handle toward chair
+- all three fully supported/non-overlapping at same scale
+- Nari near desk listening
 
 ==================================================
-WORN-STATE / ANATOMICAL-SIDE CONTINUITY — ABSOLUTE
+TOOL PICKUP / RETURN / ORIENTATION — NON-NEGOTIABLE
 ==================================================
 
-The yellow scrunchie remains on the SAME physical SCRUNCHIE WRIST established Strip 014.
-Reverse camera may flip screen-left/screen-right but may not switch anatomical wrist.
+FLASHLIGHT:
+1. begins fully supported in its exact tray zone/orientation
+2. hand contacts/grips
+3. flashlight leaves tray; its zone becomes empty
+4. test twice; no beam
+5. hand returns SAME flashlight to SAME zone
+6. flashlight physically contacts tray/support plane
+7. rotate/align only as needed to match exact Strip 011 rest orientation
+8. fingers release
+9. flashlight remains there
 
-SAME headphones remain around Nari's neck through all V68–V70 views. They may be partially occluded by hair/hoodie/camera framing, but they do not disappear, move to ears, get set on desk, or duplicate.
+RADIO:
+1. begins exact radio zone/orientation
+2. only after flashlight released, hand grips radio
+3. radio leaves tray; its zone empty
+4. one static test
+5. SAME radio returns exact zone/orientation
+6. contacts tray/support plane
+7. fingers release
 
-No visible action removes or transfers either item.
+Do not merely put each tool “somewhere in tray.” Exact orientation/zone is part of continuity for Strip 016.
+Do not rotate flashlight/radio 90°/180° between same-state views, stack one on another, or allow them to clip through tray/knife/keyboard.
 
 ==================================================
-HAND / TOOL / TRAY MICRO-CONTINUITY — ABSOLUTE
+TRAY SCALE / FIT / SUPPORT — ABSOLUTE
 ==================================================
 
-Do not allow ambiguous tool placement.
+Tray and all three items keep Strip 011 world-space scale.
+No tray enlargement or tool shrinkage.
+At final V70:
+- flashlight, radio, sheathed knife fit simultaneously without solid overlap
+- each rests on real tray support plane
+- sheathed knife handle still toward chair
+- knife sheath mouth/blade axis unchanged
 
-Exact sequence:
-1. flashlight begins in tray
-2. Nari reaches and grips SAME flashlight
-3. tray slot becomes empty while flashlight in hand
-4. she presses/tests it twice; no beam
-5. she physically returns SAME flashlight to SAME tray position
-6. hand releases flashlight
-7. only then she reaches SAME radio
-8. radio leaves its tray position
-9. she tests radio once; one static burst then dead
-10. she physically returns SAME radio to SAME tray position
-11. hand releases radio
-12. practical knife never leaves sheath/tray
-
-Flashlight and radio may not be simultaneously in same hand or appear both in hand and tray. No second flashlight/radio.
+A close-up may magnify on page but not change world-space size.
 
 ==================================================
 SAME-OBJECT CLOSE-UP / NO DUPLICATION — ABSOLUTE
 ==================================================
 
-Any flashlight/radio/tray close-up is a magnified view of the SAME physical tool/tray state, not an additional tool.
-If a wide shows flashlight in Nari's hand, a same-moment close-up cannot also leave another flashlight sitting in the tray.
-If the close-up is a later return slice, the tray state advances exactly once: tool contacts tray → fingers release → tool remains there.
+Any flashlight/radio/tray detail is SAME physical item/state. A same-moment detail cannot show tool in hand while another copy remains in tray.
 
 ==================================================
-MANDATORY ACTION-PROOF FRAMING — ABSOLUTE
+DARKNESS / WORN STATE — ABSOLUTE
 ==================================================
 
-For each test, show enough hand/device/tray relationship to prove pickup and return. Do not crop tool handoff away and then show reset tray next slice.
-
-Final listening composition must establish deterministic Strip 016 handoff: flashlight back tray, radio back tray, sheathed knife still tray, phone still dark, SCRUNCHIE WRIST unchanged, headphones still neck.
-
-==================================================
-DARKNESS / ENVIRONMENT REALITY — ABSOLUTE
-==================================================
-
-No invented illumination may help readability: phone screen, flashlight beam, radio glow, monitor, hallway lamp, or unexplained rim light remain OFF. Use attached blackout reference for readable flat shape separation.
-
-V70 keeps Nari in/near same desk zone; do not teleport her to hallway before Strip 016.
+No phone light, flashlight beam, radio glow, monitor, hallway lamp, rim light. Use flat blackout separation.
+SCRUNCHIE WRIST same physical wrist. SAME headphones around neck; no removal/duplication.
 
 ==================================================
-TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
+TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Narration/thought/SFX must not cover:
+Narration/thought/`CLICK CLICK`/`KSSHT` must not cover:
+- tool pickup/return contacts
+- empty/final tray zones
+- knife still sheathed
 - phone-dark proof
-- flashlight/radio pickup/return contact
-- knife still sheathed in tray
-- SCRUNCHIE WRIST when visible
-- headphones-at-neck state when visible
-
-`CLICK CLICK` and `KSSHT` remain source-aligned without hiding hand/device action.
 
 ==================================================
-NARRATION / THOUGHT DESIGN BY SITUATION — ABSOLUTE
+NARRATION / THOUGHT DESIGN — ABSOLUTE
 ==================================================
 
-V68 contains two narration lines plus one internal thought. They MUST read as different text types:
-- factual battery-memory narration = restrained observational caption
-- `SHE LEFT THE SCREEN DARK.` = firmer decision/consequence caption
-- `MRS. NA SAID NO SCREENS.` = internal-thought treatment, never spoken balloon
-
-Do not reuse one identical narration/thought design and do not default them all to repetitive top-left tags. Placement follows composition and must not cover phone/tray/tool states.
-V69/V70 need no invented narration; suspense should come from action/silence/spacing.
-
-==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
-==================================================
-
-Every distinct read beat gets SMALL BLACK GUTTER. Because scene is already dark, use subtle spacing separation without giant empty black field.
-Side-by-side separate shots use diagonal black divider.
-Do not insert visible technical seam at 015→016; blackout atmosphere continues.
-
-==================================================
-VERTICAL STORY FLOW
-==================================================
-
-V68 — DARK PHONE CHOICE
-Nari looks toward phone but does not touch/wake it. SCRUNCHIE WRIST and headphones-at-neck persist.
+V68:
 NARRATION:
 `HER PHONE WAS AT 81% TEN MINUTES AGO.`
 NARRATION:
 `SHE LEFT THE SCREEN DARK.`
 NARI INTERNAL THOUGHT:
 `MRS. NA SAID NO SCREENS.`
+Different text types/treatments; no repetitive top-left tags.
+
+==================================================
+VERTICAL STORY FLOW
+==================================================
+
+V68 — DARK PHONE CHOICE
+Nari looks, does not touch/wake phone.
 
 SMALL BLACK GUTTER.
 
 V69 — FALLBACK TOOLS FAIL
-Execute exact tool sequence above.
 Flashlight:
 `CLICK  CLICK`
-No light. Return SAME flashlight to SAME tray position.
+No light. Return exact zone/orientation.
 Then radio:
 `KSSHT`
-One static burst then dead. Return SAME radio to SAME tray position.
-NARI, quiet:
+One static burst then dead. Return exact zone/orientation.
+NARI:
 `NOTHING.`
-Practical knife remains sheathed/untouched.
+Knife untouched.
 
 SMALL BLACK GUTTER / SUSPENSE.
 
 V70 — LISTENING HOLD
-Nari remains near same desk listening into apartment. No new text. No `SLURP` yet. Keep hallway direction readable.
-Deterministic lower-frame handoff: phone dark; flashlight tray; radio tray; sheathed knife tray; SCRUNCHIE WRIST same; headphones around neck.
+Nari near same desk listening. No `SLURP` yet.
+Clearly preserve phone dark + flashlight exact tray state + radio exact tray state + sheathed knife exact tray state.
 
 ==================================================
-NO DEAD BOTTOM — ABSOLUTE
+NO DEAD BOTTOM / SEAM
 ==================================================
 
-Use Nari posture + desk/tray + dark hallway depth. Small black slice gutter is intentional; do not turn into huge empty bottom field.
-
-SEAM OUT — E/G
-Strip 016 same outage, later 12:56 A.M. Start from exact desk/tool/worn state above. No episode break.
+Use desk/tray/dark hallway depth. Strip 016 starts SAME tray orientation/layout, worn state and outage.
 
 AUTOMATIC REJECT IF
-- any V/P/strip/beat/panel/scene production label appears
-- attached reference/hair/desk/blackout geometry drifts
-- permanent drift from Strip 014 propagated over canon
-- SCRUNCHIE WRIST changes or scrunchie disappears/moves into hair
-- headphones disappear/move to ears/surface/duplicate
-- phone screen lights or Nari touches/wakes it
-- flashlight produces beam or radio keeps working
-- flashlight/radio duplicate, appear simultaneously in tray/hand, swap identities, or not returned before V70
-- close-up creates duplicate tool or incompatible same-object state
-- pickup/return contact cropped so tool reset unproven
-- knife moves or sheath state changes
-- thought becomes spoken dialogue
-- `SLURP` appears early
-- Hyun-woo appears
-- text obscures continuity proof
-- generic text box/repetitive top-left tag used
-- internal black separators become giant dead bands
+- production/temp-state label appears
+- attached geometry drifts
+- scrunchie/headphones state changes
+- phone lights/touched
+- flashlight beam appears/radio keeps working
+- flashlight/radio duplicate, rotate/change tray rest orientation, change scale, overlap/clip, float, or fail to return exact zones
+- tray size/location changes
+- sheathed knife orientation/handle-toward-chair changes before Strip016
+- close-up creates incompatible tool state
+- pickup/return contact hidden
+- `SLURP`/Hyun-woo early
+- text hides tray/tool proof
+- giant dead band appears
 ```
 
 ## Production Thread Attachments
