@@ -92,6 +92,39 @@ Reverse camera may flip screen direction but may not switch contact to the other
 Hyun-woo does not move.
 
 ==================================================
+MOBILE STEP-PROOF / LIMB OWNERSHIP / SAFE MARGIN — ABSOLUTE
+==================================================
+
+The V88 proof must remain understandable at normal mobile size.
+At least one view must simultaneously or causally-adjacently establish:
+- enough of Nari's lower body/legs to identify which anatomical foot is advancing
+- STEP FOOT leaving the old stance
+- trailing/support foot remaining behind
+- SAME packet visible before contact
+- actual STEP FOOT→packet contact on the same floor plane
+- the packet's small nudge/deformation after contact
+- STEP FOOT planted at the new closer mark
+
+Do not use an isolated shoe/foot close-up with no leg/body ownership context. A close-up may magnify the contact, but an adjacent view must prove it belongs to the SAME advancing foot on the SAME Nari.
+
+SAFE MARGIN:
+- STEP FOOT, packet contact point, trailing-foot evidence and floor-plane contact stay fully inside frame
+- do not crop toes/packet at the canvas edge or let a gutter/diagonal divider cut through the contact
+- `CRINKLE` cannot cover the exact contact/deformation
+
+If the reader cannot distinguish which foot moved, whether the packet was already under it, or whether a second step occurred, reject.
+
+==================================================
+PERSPECTIVE / FLOOR-PLANE INTEGRITY — ABSOLUTE
+==================================================
+
+Use ordinary perspective derived from the Unit references.
+- no fisheye/forced perspective that stretches Nari's advancing leg/foot or compresses the one-step distance
+- floor lines/table/chair geometry remain canonical and do not bend to place the packet conveniently
+- packet remains on the same floor plane as Nari's feet; do not use perspective to make a non-contacting packet look touched
+- camera closeness may change apparent size only, not the real step length or body proportions
+
+==================================================
 NARI TEMPORARY BODY STATE — ABSOLUTE
 ==================================================
 
@@ -127,6 +160,16 @@ Do not leave another identical packet at the old spot while showing a close-up p
 Do not show one foot contacting packet in wide and opposite foot contacting it in detail.
 
 ==================================================
+TOP-TO-BOTTOM DIALOGUE / STEP / SFX ORDER — ABSOLUTE
+==================================================
+
+V85→V87 dialogue reads before the step. V88 must read:
+weight shift → advancing foot → packet contact → `CRINKLE` → planted new position.
+Do not place `CRINKLE` visually before STEP FOOT reaches the packet.
+V89 dialogue appears only after the one-step action has completed and Nari has stopped at the new mark.
+Balloon placement may not make V89 read before the V88 contact.
+
+==================================================
 TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
@@ -147,7 +190,7 @@ No narration scripted; do not invent any. Use dialogue/reaction and physical `CR
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Small black gutter between every distinct interrogation/action slice. Side-by-side reaction/prop views use diagonal black divider. No oversized black band.
+Small black gutter between every distinct interrogation/action slice. Side-by-side reaction/prop views use diagonal black divider. No oversized black band. Dividers cannot cut foot/packet proof.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -177,7 +220,7 @@ SMALL BLACK GUTTER.
 
 V88 — EXACTLY ONE STEP / STEP FOOT / SAME PACKET
 Show weight shift → STEP FOOT short advance → contact/nudge SAME established empty spicy-seafood outer packet → STEP FOOT plant. Trailing foot does not take second stride.
-SFX at packet:
+SFX at packet contact:
 `CRINKLE`
 Hyun-woo does not move.
 
@@ -199,13 +242,15 @@ AUTOMATIC REJECT IF
 - any production/KNIFE HAND/SCRUNCHIE WRIST/STEP FOOT label appears
 - attached refs/room geometry drift
 - permanent drift previous strip propagated over canon
+- fisheye/forced perspective distorts the one-step distance, lower-body proportions or floor contact
 - new/duplicate packet invented or packet beyond one-step reach
 - empty outer packet/seasoning wrapper confused
 - Nari moves before V88, takes >1 step, slides, or jumps positions
 - STEP FOOT switches anatomical side across reverse/detail views
 - trailing foot takes second stride
-- foot→packet contact hidden/unproven
-- V89 resets Nari to old entrance mark
+- foot→packet contact is hidden, microscopic, ownership-ambiguous, edge-cropped, gutter/divider-cut, or on the wrong floor plane
+- `CRINKLE` reads before physical contact
+- V89 resets Nari to old entrance mark or reads before V88 completes
 - Hyun-woo moves/stands
 - packet disappears or moves more than small nudge
 - pantry count changes
@@ -214,7 +259,7 @@ AUTOMATIC REJECT IF
 - close-up duplicates packet/foot state
 - text hides step evidence
 - invented narration appears
-- black dividers missing/oversized
+- black dividers missing/oversized or cut contact
 - giant dead bottom appears
 ```
 
