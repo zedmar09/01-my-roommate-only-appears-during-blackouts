@@ -50,14 +50,15 @@ START:
 
 ALLOWED:
 - V81 dialogue only
-- V82 SAME chopstick hand places chopsticks on SAME pot rest, releases them, becomes empty, then same hand physically reseats SAME attached mask to full canonical position
+- V82 SAME chopstick hand places the chopsticks onto the SAME existing pot-rim / adjacent table-support position established by Strip 017's PRE-REST CHOPSTICK POSITION, releases them, becomes empty, then same hand physically reseats SAME attached mask to full canonical position
+- no new separate chopstick-rest utensil/object may be invented
 - `TCHK` only after mask fully seated/secured
 - V83/V84 dialogue/reveal only
 
 END:
 - Nari unchanged
 - Hyun-woo still seated
-- chopsticks fixed on pot rest
+- chopsticks fixed together at the SAME existing pot-rim / adjacent table-support position established from Strip 017; no new separate chopstick-rest object exists
 - mask fully canonical/full-cover and secured
 - dining topology unchanged
 
@@ -118,11 +119,12 @@ A. CHOPSTICKS START
 - any remaining visible noodle resolves before rest
 
 B. REST
-1. same hand moves chopsticks toward SAME pot rest/support
-2. both sticks make real support contact
-3. hand releases BOTH
-4. chopsticks remain fixed together at one pot-rest position
-5. hand is visibly empty
+1. same hand moves the chopsticks from Strip 017's inherited PRE-REST CHOPSTICK POSITION toward the SAME existing pot-rim / immediately adjacent table-support area already implied by that position
+2. do NOT invent, add, redesign, or reveal a separate chopstick-rest utensil/object
+3. both sticks make real support contact with that existing pot-rim / adjacent table-support area
+4. hand releases BOTH only after both sticks are stably supported
+5. chopsticks remain fixed together at that SAME existing support position
+6. hand is visibly empty
 
 C. SAME-HAND TRAVEL
 - SAME empty hand/forearm/arm moves through open space toward SAME mask
@@ -146,13 +148,16 @@ ONLY AFTER full seating:
 Then hand may release.
 
 END:
-- chopsticks fixed pot rest
+- chopsticks fixed together at the SAME existing pot-rim / adjacent table-support position
+- no new separate chopstick-rest utensil/object has been introduced
 - mask fully secured
 - same seated body
 
 REJECT IF:
 - different hand performs mask action
 - chopsticks still in hand after release
+- a new separate chopstick-rest utensil/object appears
+- chopstick support position contradicts Strip 017's inherited pre-rest geometry
 - mask teleports
 - mask becomes new object/design
 - `TCHK` before seating
@@ -207,7 +212,7 @@ PERFORMANCE:
 - no villain grin/romance pose
 
 END / SEAM:
-Strip 019 inherits same chair/positions, secured mask, chopsticks pot rest, Nari knife/stop state.
+Strip 019 inherits same chair/positions, secured mask, chopsticks fixed together at the SAME existing pot-rim / adjacent table-support position, Nari knife/stop state, and no separate chopstick-rest object.
 
 ==================================================
 EXACT TEXT ONLY
@@ -232,7 +237,7 @@ HYUN-WOO:
 same seated body throughout.
 
 CHOPSTICKS:
-hand → real pot-rest contact/release V82 → fixed pot rest end.
+hand → real support contact/release V82 at SAME existing pot-rim / adjacent table-support position inherited from Strip 017 pre-rest geometry → fixed there at end; no separate chopstick-rest object exists.
 
 MASK:
 attached eating configuration → SAME hand reseat → fully canonical secured state.
@@ -250,6 +255,8 @@ Reject if:
 - Hyun-woo build/hair/mask/tattoo identity drifts
 - different/extra hand performs mask action
 - chopsticks duplicate/float/remain in hand
+- a new separate chopstick-rest utensil/object is invented
+- chopstick support position contradicts Strip 017 inherited pre-rest geometry
 - mask teleports/clips/redesigns
 - clean lower face exposed for speech/reveal
 - dialogue ownership swaps
