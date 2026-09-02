@@ -9,7 +9,7 @@ PRODUCTION SOURCE
 Use the locked Chapter 1 Manhwa beat plan, strip manifest, current strip prompts, and approved reusable canonicals. Historical P001–P018 labels are mapping shorthand only.
 
 GLOBAL PRODUCTION RULES — ABSOLUTE
-`Manhwa/style-guide.md`, `Manhwa/lettering-sfx-guide.md`, `Manhwa/seam-continuity-protocol.md`, `Manhwa/vertical-scroll-layout-guide.md`, `Manhwa/generation-workflow.md`, `Manhwa/production-readiness-gate.md`, `Manhwa/seventh-hardening-visual-logic-addendum.md`, `Manhwa/eighth-hardening-presentation-integrity-addendum.md`, and `Manhwa/ninth-hardening-character-topology-identity-addendum.md` apply to every technical strip. A strip prompt may be stricter but never looser.
+`Manhwa/style-guide.md`, `Manhwa/lettering-sfx-guide.md`, `Manhwa/seam-continuity-protocol.md`, `Manhwa/vertical-scroll-layout-guide.md`, `Manhwa/generation-workflow.md`, `Manhwa/production-readiness-gate.md`, `Manhwa/seventh-hardening-visual-logic-addendum.md`, `Manhwa/eighth-hardening-presentation-integrity-addendum.md`, `Manhwa/ninth-hardening-character-topology-identity-addendum.md`, and `Manhwa/tenth-hardening-pose-performance-continuity-addendum.md` apply to every technical strip. A strip prompt may be stricter but never looser.
 
 INTERNAL PLAN
 146 internal read beats V01–V146 and 32 technical strips strip-001–strip-032. Never render those IDs.
@@ -44,13 +44,13 @@ Clean intentional line art, flat colors, restrained hard-edged cel shading only,
 NO photoreal/semi-photoreal, 3D/CGI/game art, painterly, glossy/wet/plastic, beauty-ad shine, airbrush-heavy, cinematic color/DOF, bloom, lens flare, excessive rim light, mirror-like reflections, hyper-texture, or AI-polished over-rendering.
 
 REAL-SCENARIO CONTINUITY
-All movement, object routes/counts, room axes, power states, anatomical sides, worn accessories, object orientation, world-space scale, depth order, support/gravity, eyelines, camera axis, physical text planes, reflection/shadow state, grip/contact ergonomics, presentation perspective, proof visibility, character topology/identity landmarks, wardrobe/local color and text ownership must remain physically coherent across all 32 strips.
+All movement, object routes/counts, room axes, power states, anatomical sides, worn accessories, object orientation, world-space scale, depth order, support/gravity, eyelines, camera axis, physical text planes, reflection/shadow state, grip/contact ergonomics, presentation perspective, proof visibility, character topology/identity landmarks, pose/body-facing/performance state, relative height/build, wardrobe/local color and text ownership must remain physically coherent across all 32 strips.
 
 SAME-OBJECT REPRESENTATION
 Close-ups/insets/device/page/plug details are views of the SAME physical object unless another object is explicitly established. Same-moment states must agree.
 
 LEGAL TIME CUTS
-Time passage may change mundane noncritical clutter, but cannot erase story-critical evidence, reset canon, or create a second copy.
+Time passage may change mundane noncritical clutter, current pose and wardrobe layer only when the new scene explicitly establishes them, but cannot erase story-critical evidence, reset permanent canon, or create a second copy.
 
 WHOLE-BODY ANATOMICAL TOPOLOGY — ABSOLUTE
 Every visible character remains one coherent human body. No extra/missing/duplicated limbs, detached hands/feet/ears/hair masses, impossible joint directions, fused body parts, or close-up limb that cannot connect to the adjacent wide-shot body. Partial occlusion is allowed only when the hidden body connection remains physically possible.
@@ -66,6 +66,35 @@ PERMANENT CHARACTER LANDMARK SIDE — ABSOLUTE
 
 FACE / HAIR / AGE / BUILD IDENTITY — ABSOLUTE
 Expression, reverse camera, close-up, darkness or powered light cannot recast a character. Preserve face proportions, age presentation, hair length/part/tie/fringe, height/build and permanent marks/accessories from canonical WebPs.
+
+POSE-STATE CONSERVATION — ABSOLUTE
+A camera cut is not a pose reset. Preserve standing/seated/crouched/kneeling/walking/leaning/shielding state, weight-bearing leg(s), shoulders, hips, torso facing, head turn relative to torso, arm/hand gesture, spine lean, feet and center of mass until a visible action or legal cut changes them.
+If only head/eyes turn, shoulders/hips/feet remain. A full-body turn, new gesture or re-planted stance must be physically shown.
+
+BODY-FACING / SHOULDER-HIP AXIS — ABSOLUTE
+Stationary dialogue/action preserves the story-world direction of shoulders, sternum, hips and feet. Reverse shots may flip the page but may not silently rotate a character to a different physical facing. Head rotation may differ only within believable neck range. If a turn requires feet/chair support to change, show the movement.
+
+RELATIVE HEIGHT / BUILD / BODY SCALE — ABSOLUTE
+Canonical relative build remains stable on the same floor plane.
+- Nari = medium-height slim adult
+- Hyun-woo = clearly taller and broader/powerful than Nari when both are upright
+- Seungjae = lean-to-average same-generation adult, clearly less broad/intimidating than Hyun-woo
+- Mrs. Na = stable realistic older-adult proportions
+Perspective may change apparent screen size, never world-space height/build. Seated/crouched differences come from pose, not resizing.
+
+EXPRESSION / EMOTION CONTINUITY — ABSOLUTE
+Emotion changes only because the story provides a cause. A camera cut, gutter, reverse shot or strip boundary cannot randomly reset or exaggerate emotional intensity.
+Chapter progression remains grounded: dry/practical move-in → skeptical analytical unease → ordinary Seungjae warmth/confusion → controlled blackout alertness → guarded fear/caution → wary interrogation with calm/dry Hyun-woo → focused protective urgency → acute localized shock → shaken but investigative aftermath → controlled dread at the final TV message.
+No unscripted screaming, tears, chibi shock, villain smirks, romantic glamour/blush, rage or melodrama.
+
+GESTURE CONTINUITY — ABSOLUTE
+Pointing, phone hold, shielding arms, hand-to-ear, knife-low posture, hand on hardware/object, notebook/pen posture and other temporary gestures persist until visibly released/changed. Do not invent expressive gestures that conflict with hand occupancy or story state.
+
+CLOTHING-LAYER / CLOSURE STATE — ABSOLUTE
+Within one continuous scene preserve how wardrobe is worn: jacket/coat present, open/closed state where visible, hood up/down, sleeves, bag worn/removed, headphones position, mask seated/lowered state. A reverse shot cannot zip/unzip, roll sleeves, move a hood, remove a bag or alter mask state without visible action/legal cut.
+
+HAIR / GARMENT MOTION CONTINUITY — ABSOLUTE
+Hair/clothing may sway naturally with motion but cannot redesign themselves. Nari's long loose hair stays same length/part/volume family, Hyun-woo remains one low-tied hair mass, Mrs. Na's silver twist remains fixed, Seungjae's styled hair retains its part/silhouette. Motion cannot hide an unperformed body turn.
 
 WARDROBE / LOCAL-COLOR CONTINUITY — ABSOLUTE
 Within one continuous scene, clothing construction and signature local colors stay the same physical items/colors unless a legal cut or scripted wardrobe change says otherwise. Lighting may change value naturally but may not change identity hue/material. Nari's dark-plum hair/yellow scrunchie, Hyun-woo's matte-black mask/top and tattoo map, Mrs. Na's mauve coat/jade earrings/dark gloves, and Seungjae's medium-brown hair/youthful office-casual outfit remain stable.
@@ -137,7 +166,7 @@ TOP-TO-BOTTOM READER ORDER — ABSOLUTE
 Reader-facing action, dialogue, narration, device text and SFX must read in the exact scripted causal order. Balloon order may not make a later line read before an earlier line. SFX must sit at the physical action moment, not visually before its cause. If one composition cannot preserve order, use more vertical space or unlabeled sub-slices without rewriting text.
 
 LETTERING EVIDENCE SAFETY
-Speech balloons, narration, device text, handwriting and SFX must never cover continuity-critical action/scale/orientation/depth/gaze/identity evidence. Reflow lettering/composition instead.
+Speech balloons, narration, device text, handwriting and SFX must never cover continuity-critical action/scale/orientation/depth/gaze/identity/pose evidence. Reflow lettering/composition instead.
 
 SFX / LETTERING
 Every sound: PHYSICAL SOURCE → ACTION → SOUND → TIMING → PLACEMENT → STATE CHANGE → NEXT CONSEQUENCE. No filler SFX.
@@ -149,35 +178,28 @@ POWER ARC
 Strips 014–025 contain the actual Unit 2407 outage. Hyun-woo remains physical until Unit 2407 itself powers on. Strips 026–032 are normally powered.
 
 CHAPTER END
-End on the SAME wall-unplugged TV displaying `NEW TENANT CONFIRMED`; apartment lights flicker once `FZZT` but supplied power remains on. Preserve same room scale/depth/table/cabinet/notebook/cord state through final reveal.
+End on the SAME wall-unplugged TV displaying `NEW TENANT CONFIRMED`; apartment lights flicker once `FZZT` but supplied power remains on. Preserve same room scale/depth/table/cabinet/notebook/cord/Nari seated state through final reveal.
 
 FINAL APPROVAL RULE
 Do not declare Chapter 1 production-complete from prompts/reference availability. Final approval requires all 32 rendered strips, sequential visual QA, seam/stitch QA, and a fresh clean-room visual audit with zero unresolved mandatory defects.
 ```
 
-## Ninth Deep-Hardening Binding Note — Absolute
+## Tenth / Final Deep-Hardening Binding Note — Absolute
 
-The current Strip 001–032 prompts have completed the **ninth** `manhwa-2d-production-auditor` hardening pass. The eighth PASS was deliberately not accepted as proof.
+The current Strip 001–032 prompts are undergoing the **TENTH / FINAL** `manhwa-2d-production-auditor` hardening pass. The ninth PASS is deliberately not accepted as proof.
 
-The ninth pass targeted:
-- extra/missing/duplicated limbs or impossible body connections
-- close-up hand/foot/arm/leg ownership changing from the adjacent body view
-- permanent character landmarks mirroring under reverse cameras
-- Nari's anatomical-left beauty mark disappearing/moving/duplicating
-- Hyun-woo tattoo map, mask construction or low-tied hair changing/mirroring
-- Mrs. Na gloves/jade earrings/watch disappearing or swapping state
-- Seungjae aging, changing hair/outfit identity, or drifting toward Hyun-woo
-- wardrobe/local-color/material identity changing between adjacent shots
-- clothing/hair/accessory occlusion hiding impossible anatomy
-- visible acting contradicting dialogue/thought/device/audio ownership
+The tenth pass targets the final performance-continuity failure class that can survive correct story, references, physics, character anatomy/identity and presentation:
+- silent pose resets at camera cuts
+- shoulder/hip/torso facing changes without movement
+- relative character height/build changing between shared views
+- emotion intensity resetting/jumping without story cause
+- gesture changes that conflict with hand occupancy
+- clothing-layer/hood/sleeve/bag/mask wear state changing without action
+- hair/garment motion becoming a redesign
+- strip boundaries forgetting the inherited pose/facing/emotional state
 
-`Manhwa/ninth-hardening-character-topology-identity-addendum.md` is binding on all 32 strips together with the seventh/eighth addenda and every earlier rule.
+`Manhwa/tenth-hardening-pose-performance-continuity-addendum.md` is binding on all 32 strips together with every earlier rule.
 
-Local ninth rewrites were required for **001, 002, 006, 012, 013, 014, 017, 018, 023, 024, 031, 032**. The other 20 strips were re-read under the ninth global rules without a justified deterministic local rewrite.
+Local tenth rewrites currently apply to the high-risk performance anchors **005, 009, 012, 016, 017, 020, 021, 025, 032**. The complete current package must be re-read from Strip 001→032 after those repairs. No final tenth status may be assigned until that post-repair clean-room audit finds zero deterministic prompt/canon defects.
 
-During the post-repair clean-room read, Strip 001 exposed one additional first-image identity/topology gap and was repaired. The current package was then rechecked under the ninth gates. No additional deterministic prompt/canon defect remains at the textual/reference level.
-
-Current prompt/reference verdict:
-**NINTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
-
-Previously rejected or pre-ninth rendered attempts are not approved previous-strip continuity authorities. Retesting begins with a brand-new Strip 001 under the current ninth-pass package, and actual pixel-level visual QA remains mandatory before Strip 002 may proceed.
+Previously rejected or pre-tenth rendered attempts are not approved continuity authority. Actual pixel-level visual QA remains mandatory after this final prompt audit.
