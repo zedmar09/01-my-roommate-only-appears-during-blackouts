@@ -22,9 +22,9 @@ ATTACH — REQUIRED
 REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 003 controls temporary counter/conversation state only; correct any permanent drift to attached canon rather than propagating it.
-Preserve exact character identities, apartment geometry, hallway lamp, entry tray, binder body/title, brass-key design, speaker position, and furniture/appliance placement.
-Never render V16–V20, P2/P3, Strip 004, beat/panel/scene labels, or any production metadata anywhere, especially top-left.
+Attached canonical WebPs are permanent authority. APPROVED Strip 003 controls temporary counter/conversation state only; correct permanent drift to attached canon rather than propagating it.
+Preserve exact character identities, apartment geometry, hallway lamp, entry tray, front-door hinge/handle/smart-lock orientation, binder body/orientation, brass-key design and fixed position beside binder, speaker position, furniture/appliance placement.
+Never render V16–V20, P2/P3, Strip 004, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
@@ -32,102 +32,117 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 
 START:
 - exact Strip 003 counter positions
-- binder + brass key still on kitchen counter
+- SAME binder + SAME brass key remain in exact Strip 002–003 counter topology: binder flat, key at fixed distinct spot beside it
 - hallway lamp normally powered
-- Mrs. Na still inside; front door closed
+- Mrs. Na still inside; front door CLOSED at canonical hinge/handle/smart-lock orientation
 
 ALLOWED CHANGES:
 - dialogue/hesitation/watch glance
 - both women visibly walk counter → entry
-- binder remains counter
-- Nari visibly reaches SAME key on counter, grips/picks it up, carries it to entry, and places it into SAME tray once
-- old counter key location becomes empty after pickup
-- at doorway Nari physically opens SAME front door if needed for Mrs. Na's exit
-- Mrs. Na crosses the threshold outward ONCE and clears the doorway
-- only after Mrs. Na is fully outside, Nari physically closes the SAME front door on its canonical hinge; no re-entry
-- legal `ONE WEEK LATER` cut permits changed Nari pose/blanket and automation state, but NOT changed apartment geometry or permanent prop identities
+- binder remains counter, orientation unchanged
+- Nari visibly reaches SAME key at fixed counter spot, grips/picks it up, carries it to entry, places it into SAME tray once
+- old counter key spot becomes empty after pickup; binder remains alone at original position
+- at doorway Nari physically opens SAME front door using canonical handle/hinge/opening direction
+- Mrs. Na crosses threshold outward ONCE and clears doorway
+- only after Mrs. Na fully outside, Nari physically closes SAME door on SAME canonical hinge; no re-entry
+- legal `ONE WEEK LATER` cut permits changed Nari pose/blanket and temporary automation state, but not changed architecture or permanent prop identities
+- V20 may show the exact scripted thermostat value 19°C; if a thermostat control is not clearly modeled in attached canon, derive only the smallest ordinary temporary control detail inside existing canonical wall geometry under global Derived Micro-Detail rule
 
 END:
-- binder = kitchen counter
+- binder = kitchen counter at same orientation/scale
 - key = entry tray
 - old counter key location = empty
 - speaker = canonical kitchen counter, plugged in
 - Mrs. Na = outside/gone
-- front door = physically closed after Nari's closing action
+- front door = physically closed after Nari closing action, same hinge/handle/lock construction
 - powered apartment, one-week-later automation baseline
 
 ==================================================
-KEY TRANSFER ACTION-PROOF — ABSOLUTE
+KEY TRANSFER ACTION-PROOF / TOPOLOGY — ABSOLUTE
 ==================================================
 
 The key transfer must be visually proven:
-1. SAME brass key begins on kitchen counter beside binder
-2. Nari's hand reaches the real counter location
+1. SAME brass key begins at exact fixed counter spot beside SAME binder
+2. Nari hand reaches real counter location
 3. fingers contact/grip SAME key
-4. key visibly leaves counter; counter location is now empty
-5. SAME key remains in her hand during counter→entry route
-6. Nari reaches the actual entry tray
-7. fingers lower SAME key into tray
-8. key contacts/rests in tray
-9. fingers release
-10. `CLINK` occurs at key/tray contact
-11. no duplicate remains on counter or in hand
+4. key visibly leaves counter; old spot empty
+5. binder does NOT move, rotate, mirror, or follow
+6. SAME key remains in hand during counter→entry route
+7. Nari reaches actual entry tray
+8. fingers lower SAME key into tray
+9. key contacts/rests on tray support plane
+10. fingers release
+11. `CLINK` occurs at key/tray contact
+12. no duplicate remains counter/hand
 
-Do not crop both pickup and placement contacts away and jump from “key on counter” to “key in tray.” If needed, use immediate detail slices.
+Close-up key view is SAME object; do not leave a second key at old counter location.
 
 ==================================================
-DEPARTURE / DOOR-CLOSE ACTION-PROOF — ABSOLUTE
+DEPARTURE / DOOR-CLOSE ORIENTATION — ABSOLUTE
 ==================================================
 
-The closed front-door end state must be caused on-page before the time cut:
-1. both women reach the actual entry/front-door zone
-2. SAME door is physically opened enough for Mrs. Na to leave
-3. Mrs. Na crosses OUTWARD through the real opening once
-4. her full body/feet clear the threshold; she is now corridor-side
-5. Nari remains inside
-6. Nari's hand reaches the actual door handle/edge
-7. SAME door swings closed on the canonical hinge
-8. door reaches a visibly closed position before `ONE WEEK LATER`
+The closed front-door end state must be caused on-page before time cut:
+1. both women reach actual entry/front-door zone
+2. SAME door opens on canonical hinge using canonical handle/lock side
+3. door follows same story-world opening arc as earlier strips
+4. Mrs. Na crosses OUTWARD through real opening once
+5. full body/feet clear threshold; she is corridor-side
+6. Nari remains inside
+7. Nari hand contacts actual door handle/edge
+8. SAME door swings closed on SAME hinge/opening plane
+9. door reaches visibly closed state before `ONE WEEK LATER`
 
-Do not show Mrs. Na half-inside while door is already closed. Do not jump from open doorway to one-week-later closed door without the closing action. No extra SFX is added; the action may be silent.
+Reverse camera may flip screen-left/right but cannot move hinge/handle/smart lock to opposite physical door edge or turn the door into a different mechanism.
 
 ==================================================
 MICRO-CONTINUITY / ROUTE REALISM — ABSOLUTE
 ==================================================
 
-Both women must physically traverse the canonical counter→entry path without crossing through furniture/walls. Mrs. Na cannot exit before reaching the front door.
-Binder never follows them; if occluded it remains on counter.
-After time cut, permanent architecture/furniture/appliance bodies remain exactly the same; only temporary clutter/pose/automation may change believably.
+Both women physically traverse canonical counter→entry path without crossing furniture/walls. Binder never follows them; if off-frame it stays counter.
+After time cut permanent architecture/furniture/appliance bodies remain exact; only temporary pose/clutter/automation may change believably.
+
+==================================================
+THERMOSTAT 19°C — CANON-SUBORDINATE MICRO-DETAIL
+==================================================
+
+`THE THERMOSTAT KEPT RESETTING TO 19°C.` requires readable 19°C evidence but does NOT authorize new permanent wall architecture.
+
+Rules:
+- if attached environment reference already shows thermostat/control, use that exact location/body/orientation
+- if not visible, derive only the smallest ordinary wall/control detail at a physically plausible point within existing canonical geometry
+- do not add/move wall, doorway, cabinet, light, appliance, furniture, or wiring to make room
+- do not render a giant futuristic control panel, hologram, tablet, or smart-home UI floating in room
+- derived control remains temporary Chapter 1 visual micro-detail only, subordinate to canonical environment WebPs
+- 19°C must be readable without enlarging the device to unrealistic world-space scale
 
 ==================================================
 NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-Do not use one narration design or one default top-left placement for all text:
-- `ONE WEEK LATER` = clear compact time-transition caption, visually distinct from ordinary observation and not styled as a production tag.
-- curtain/thermostat narration = lighter everyday observational captions with dry-comedy rhythm.
-- V16–V18 are spoken tension; do not invent narration boxes there.
-Keep all treatments within one coherent publication typography family and never mimic device UI or technical labels.
+Do not use one narration design/default top-left placement:
+- `ONE WEEK LATER` = clear compact time-transition caption, not technical tag
+- curtain/thermostat narration = lighter everyday observational captions with dry-comedy rhythm
+- V16–V18 spoken tension; no invented narration
+Keep one publication typography family; never mimic device UI/technical labels.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Every distinct vertical story slice gets a SMALL BLACK GUTTER. Side-by-side separate camera slices get a DIAGONAL / SLANTED BLACK DIVIDER. Black separators must clarify beat changes without becoming large dead spaces.
-The later time jump to `ONE WEEK LATER` may use a slightly stronger black transition band, but still compact and purposeful.
+Every distinct vertical story slice gets SMALL BLACK GUTTER. Side-by-side separate camera slices get DIAGONAL / SLANTED BLACK DIVIDER. The one-week cut may use slightly stronger compact black band, never dead space.
 
 ==================================================
 V16–V18 SAME CONVERSATION / PHYSICAL ROUTE
 ==================================================
 
-Start from exact Strip 003 counter positions. The SAME canonical electrical-operation guide + SAME canonical brass backup key remain on counter.
+Start exact Strip 003 counter positions. SAME canonical binder/key remain exact fixed topology.
 
 V16
 NARI:
 `WHAT IF THE WHOLE BUILDING LOSES POWER?`
-Mrs. Na does not answer immediately. She may glance at her analog watch; this is a brief natural hesitation, not supernatural effect.
+Mrs. Na may glance analog watch; natural hesitation only.
 
-SMALL BLACK GUTTER / SUSPENSE.
+SMALL BLACK GUTTER.
 
 V17
 MRS. NA:
@@ -138,9 +153,9 @@ MRS. NA:
 SMALL BLACK GUTTER.
 
 V18 — COUNTER → ENTRY / KEY / DEPARTURE / DOOR CLOSE
-Show both women physically walking from kitchen counter through canonical route toward front door.
-The canonical electrical-operation guide remains on kitchen counter.
-Execute the exact key pickup→carry→tray placement proof above.
+Show both women physically walking kitchen counter→front door.
+Manual remains kitchen counter in same orientation.
+Execute exact key pickup→carry→tray placement.
 SFX at tray contact:
 `CLINK`
 At doorway:
@@ -152,13 +167,13 @@ MRS. NA:
 `GOOD NIGHT, MS. YOON.`
 NARI:
 `THAT'S NOT VERY COMFORTING.`
-Then execute the exact departure/door-close action proof above: Mrs. Na exits once, clears threshold, Nari closes SAME door, and Nari remains inside. No re-entry.
+Then Mrs. Na exits fully; Nari closes SAME correctly oriented door. No re-entry.
 
 ==================================================
 TIME CUT — ONE WEEK LATER
 ==================================================
 
-Only after the front door is visibly closed, use a compact purposeful black time-transition separator. Do not imply the same conversation continues.
+Only after front door visibly closed, use compact purposeful black transition. Do not imply same conversation continues.
 
 V19 — MORNING AUTOMATION
 NARRATION:
@@ -167,48 +182,61 @@ SFX at curtains:
 `WHIRR`
 NARRATION:
 `THE CURTAINS OPENED THEMSELVES EVERY MORNING.`
-Unit 2407 canonical geometry unchanged.
+Unit geometry unchanged.
 
 SMALL BLACK GUTTER.
 
 V20 — THERMOSTAT
-Thermostat exactly 19°C. Nari is blanket-wrapped and annoyed.
+Thermostat/control reads exactly 19°C at canonical or canon-subordinate micro-detail location. Nari blanket-wrapped/annoyed.
 NARRATION:
 `THE THERMOSTAT KEPT RESETTING TO 19°C.`
-If curtain/thermostat moments share a horizontal row, use diagonal black divider.
+
+==================================================
+TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
+==================================================
+
+Narration/dialogue/`CLINK`/`WHIRR` must not cover:
+- key pickup/tray placement
+- door hinge/handle/open-close mechanics
+- Mrs. Na clearing threshold
+- readable 19°C value/control
 
 ==================================================
 REAL-SCENARIO PROP STATE AT END
 ==================================================
 
-- electrical-operation guide = kitchen counter, same canonical body/title
-- brass backup key = entry tray, same canonical key
-- old counter key location = empty
-- speaker = canonical kitchen counter, still ordinary and plugged in
-- front door = physically closed before time cut
+- electrical guide = kitchen counter, canonical scale/orientation
+- brass key = entry tray
+- old counter key location empty
+- speaker = canonical counter, plugged in
+- front door physically closed before time cut
 - no supernatural manifestation yet
 
 NO DEAD BOTTOM — ABSOLUTE
-Use the automation composition through the lower canvas; no giant white tail.
+Use automation composition through lower canvas; no giant white tail.
 
 SEAM OUT — G
-Strip 005 continues the one-week automation montage, then later that night.
+Strip 005 continues one-week automation montage, then later that night.
 
 AUTOMATIC REJECT IF
-- any V/P/strip/beat/panel/scene production label appears
-- attached references are redesigned/mirrored
-- permanent drift from previous strip is propagated over canonical refs
-- key pickup or tray-placement contact is hidden/cropped so transfer is unproven
-- key teleports to tray without pickup/carry/placement
-- duplicate key remains at counter/hand after tray placement
+- any production label appears
+- attached references redesigned/mirrored
+- permanent drift previous strip propagated over canon
+- binder/key starting topology differs from Strip 002–003 without action
+- key pickup/tray contact hidden; key teleports/duplicates
+- binder moves/rotates/mirrors while Nari takes key
 - Mrs. Na carries binder away
-- Mrs. Na exits through a closed door, remains half-inside at closure, or the door becomes closed only after the time cut with no closing action
-- manual/key appearance drifts from canonical
+- door hinge/handle/smart-lock side/opening direction flips
+- Mrs. Na exits through closed door/remains half-inside at closure
+- thermostat/control invents new permanent architecture or oversized futuristic UI
+- 19°C missing/changed/unreadable
+- manual/key scale/orientation drifts
 - Mrs. Na remains inside after V18
 - apartment geometry changes after time cut
-- one generic narration box or repetitive top-left tag is forced onto time-transition and observational captions
+- generic narration/top-left tag forced across contexts
 - supernatural screen effect appears early
-- black beat separators are missing / oversized
+- text hides physical action/evidence
+- black separators missing/oversized
 - giant dead bottom appears
 ```
 
