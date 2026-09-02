@@ -19,130 +19,92 @@ ATTACH — REQUIRED
 Do NOT attach Hyun-woo.
 
 ==================================================
-REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE / START STATE — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 026 controls temporary Nari/PHONE HAND/evidence/power/worn state and canon-compatible outlet micro-detail only; correct permanent Nari/room/TV drift to attached canon rather than propagating it.
-Preserve exact powered Unit geometry, entry→kitchen depth, Nari identity, SAME PHONE HAND, SAME SCRUNCHIE WRIST, SAME headphones around neck, same phone, same lower speaker-storage cabinet location/door, canonical TV body/cord, canon-subordinate Chapter 1 wall-unplug state, and all encounter evidence.
-Never render V124–V127, P16, Strip 027, PHONE HAND, SCRUNCHIE WRIST, beat/panel/scene labels, or production metadata anywhere, especially top-left.
-
-==================================================
-START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
-==================================================
+Attached canonical WebPs permanent authority. APPROVED Strip026 controls temporary Nari/PHONE HAND/evidence/worn state only.
+Preserve powered Unit geometry, entry→kitchen depth, PHONE HAND, SCRUNCHIE WRIST, headphones, same phone, lower speaker-storage cabinet location/door, TV/evidence states.
+Never render V124–V127/P16/Strip027/temp-state labels.
 
 START:
-- Nari at/near powered entry after security call
-- SAME phone remains in SAME PHONE HAND from Strip 026
-- SCRUNCHIE WRIST unchanged; SAME headphones around neck
-- SAME lower kitchen speaker-storage cabinet = CLOSED
-- hidden storage stockpot/two towels/unplugged speaker remain inside and invisible
-- TV remains canonical and unplugged FROM WALL exactly as Chapter 1 continuity requires; TV-side cord attached, loose wall-end plug outside empty canon-compatible socket detail
-- separate knife/outer-packet floor evidence, key, binder, chair/table evidence remain unchanged from Strip 026
+- Nari entry-side after security call
+- SAME phone SAME PHONE HAND
+- worn state unchanged
+- SAME lower speaker-storage cabinet CLOSED
+- hidden pot/towels/unplugged speaker inside/invisible
+- TV wall-unplugged
+- encounter evidence unchanged
 
 ALLOWED CHANGES:
-- voicemail system audio and Nari message on SAME phone held in SAME PHONE HAND
-- after message ends, exactly two `MFF-CHIME` sounds originate from SAME CLOSED lower cabinet
-- Nari freezes/turns/orients toward real cabinet direction but does not cross room, kneel, touch, or open cabinet
-- SAME PHONE HAND keeps phone throughout; no hand transfer
-- SCRUNCHIE WRIST/headphones remain unchanged
-- no encounter evidence moves
+- voicemail system audio + Nari message on SAME phone
+- after message ends, exactly two `MFF-CHIME` sounds from SAME CLOSED lower cabinet
+- Nari freezes/turns/orients toward actual cabinet direction, but does not cross room/kneel/touch/open
+- PHONE HAND keeps phone
 
 END:
-- Nari still entry-side/oriented toward kitchen
-- SAME phone remains in SAME PHONE HAND
-- SCRUNCHIE WRIST/headphones unchanged
-- lower cabinet still CLOSED
-- speaker still hidden/invisible
-- second chime completed
-- TV remains canonical/wall-unplugged
-- powered state/evidence unchanged
+- Nari entry-side/oriented kitchen
+- phone SAME PHONE HAND
+- cabinet CLOSED; speaker invisible
+- second chime completed; evidence/power unchanged
 
 ==================================================
-PHONE HAND / SOUND-SOURCE MICRO-CONTINUITY — ABSOLUTE
+PHONE GRIP / PHONE SCREEN PLANE — ABSOLUTE
 ==================================================
 
-The SAME phone from Strip 026 remains in SAME PHONE HAND throughout V124–V127.
-Reverse shots may flip screen-left/right but may not silently move phone to Nari's other physical hand.
-
-Sound sequence exact:
-1. voicemail system audio from phone
-2. `BEEP` from SAME phone in PHONE HAND
-3. Nari records/speaks message
-4. message ends
-5. first `MFF-CHIME` from SAME closed cabinet
-6. Nari turns toward cabinet direction while phone stays PHONE HAND
-7. second `MFF-CHIME` from SAME cabinet
-
-Cabinet chimes are NOT from phone, fridge, TV, wall, or generic offscreen void. Use spatial lettering/source direction pointing to actual canonical lower cabinet while door remains closed.
+SAME phone remains supported by PHONE HAND with a usable palm/finger grip; no floating/fused fingers or hand transfer.
+Any voicemail/call UI exists only on the SAME physical phone screen and follows its screen plane/perspective. Do not float voicemail graphics/text over the room.
 
 ==================================================
-SAME-OBJECT INSERT / NO DUPLICATION — ABSOLUTE
+CABINET CHIME SOURCE DIRECTION — NON-NEGOTIABLE
 ==================================================
 
-Any phone-screen close-up is the SAME phone still held in SAME PHONE HAND, not a second device.
-Any closed-cabinet close-up is the SAME physical cabinet in the SAME closed state, not a second cabinet.
-Do not show speaker/stockpot visible in an inset while the same cabinet is still closed; interior contents remain hidden until Strip 028 opens it.
+Both `MFF-CHIME` sounds originate from the SAME physical closed lower cabinet.
+
+Sequence:
+1. voicemail/audio ends
+2. first chime originates at actual cabinet story-world position
+3. SFX placement/direction points to that cabinet, not phone/fridge/TV/wall/ceiling
+4. Nari's head/eyes/upper torso turn toward the real cabinet direction while feet remain entry-side
+5. second chime comes from SAME cabinet/source position
+6. Nari's gaze stays toward that real cabinet
+
+Reverse camera may flip screen-left/right but cannot move the sound source to another wall/cabinet or make Nari look away from the actual cabinet.
+Do not center `MFF-CHIME` ambiguously in the page without spatial source cues.
 
 ==================================================
-BODY / CABINET INTERACTION LIMIT — ABSOLUTE
+CLOSED-CABINET / OCCLUSION RULE — ABSOLUTE
 ==================================================
 
-Nari may rotate head/torso and orient toward kitchen, but feet do not teleport to cabinet. She does not kneel, reach cabinet handle, open door, expose stockpot, or reveal speaker in Strip 027. Those physical actions belong Strip 028.
-PHONE HAND remains occupied with phone; other/free hand is not allowed to open cabinet early.
+Cabinet door remains CLOSED throughout Strip027.
+- interior speaker/stockpot/towels/plug are physically occluded and must NOT appear through door as X-ray/transparency
+- a cabinet close-up is the SAME closed cabinet, not a cutaway exposing contents
+- no reflected speaker/person appears on cabinet surface
+- the chime is audio evidence only; it does not authorize visible interior contents
 
 ==================================================
-NARI WORN-STATE CONTINUITY — ABSOLUTE
+REFLECTION / FALSE-FIGURE BAN — ABSOLUTE
 ==================================================
 
-SCRUNCHIE WRIST remains same physical wrist and SAME headphones remain around neck throughout Strip 027.
-No silent wrist swap, headphone removal, move to ears, or duplication.
+Phone, TV, windows/cabinet/appliance surfaces may not show reflected Hyun-woo, Nari duplicate, unknown face/hand/silhouette or visible hidden speaker through reflection.
+No physical Hyun-woo appears while power is on.
 
 ==================================================
-TV / EVIDENCE PERSISTENCE — ABSOLUTE
+BODY / WORN ATTACHMENT — ABSOLUTE
 ==================================================
 
-TV object canonical is attached because entry/open-plan composition may include it while unplugged state remains story evidence.
-If TV enters frame:
-- same canonical TV body/stand/cord
-- TV-side cord remains attached
-- same loose wall plug remains out of same canon-compatible Chapter 1 empty socket detail
-- no silent replug
-- outlet micro-detail remains subordinate to attached environment/object canon
-
-If TV off-camera, state still persists. No other encounter evidence is cleaned/relocated.
+Nari may rotate head/torso only. Scrunchie physically encircles SAME wrist; headphones physically rest around neck/hoodie without clipping/floating. Feet do not teleport cabinet-side.
 
 ==================================================
-TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
+TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Phone system text/audio, Nari speech balloons, `BEEP`, and `MFF-CHIME` must not cover:
-- PHONE HAND/phone ownership when shown
-- real closed cabinet door/hinge/source direction
-- entry→kitchen geometry needed to understand chime source
-
-`MFF-CHIME` must be spatially anchored to same closed cabinet and never appear as a phone notification graphic.
-
-==================================================
-TEXT / NARRATION DESIGN — ABSOLUTE
-==================================================
-
-No narration scripted; do not invent.
-- voicemail system line = phone system audio
-- Nari voicemail = Nari spoken into phone
-- chimes = SFX at closed cabinet
-Do not create `CABINET`, `SOURCE`, or explanatory labels.
-
-==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
-==================================================
-
-Small black gutter between voicemail/message/chime/reaction slices. Side-by-side entry-vs-kitchen source views require diagonal black divider. External 027→028 seam preserves actual route; no oversized page break.
+Phone audio/text, `BEEP`, `MFF-CHIME` must not cover PHONE HAND ownership, closed cabinet door/hinge/source direction or entry→kitchen geometry.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
-V124 — VOICEMAIL SYSTEM / SAME PHONE HAND
+V124 — VOICEMAIL
 PHONE SYSTEM AUDIO:
 `PLEASE LEAVE A MESSAGE AFTER THE TONE.`
 SFX at same phone:
@@ -155,49 +117,42 @@ NARI:
 `MRS. NA, CALL ME BACK.`
 NARI:
 `I NEED TO KNOW WHAT'S GOING ON IN THIS APARTMENT.`
-Phone remains SAME PHONE HAND.
 
 SMALL BLACK GUTTER.
 
 V126 — FIRST CABINET CHIME
-After message ends, sound from SAME CLOSED lower kitchen cabinet only:
+After message ends, from SAME CLOSED cabinet:
 `MFF-CHIME`
-Nari freezes/turns toward kitchen; does not teleport. Phone remains PHONE HAND.
+Nari turns toward actual cabinet direction. Phone remains PHONE HAND.
 
 SMALL BLACK GUTTER.
 
 V127 — SECOND SAME-SOURCE CHIME
 From SAME CLOSED cabinet:
 `MFF-CHIME`
-NARI, toward cabinet direction:
+NARI:
 `...NO.`
-Nari does NOT kneel/open cabinet yet. Phone stays SAME PHONE HAND.
+No kneel/open yet.
 
 ==================================================
-POWER / NO DEAD BOTTOM
+SEAM
 ==================================================
 
-Normal powered lighting; no darkening/flicker/glow.
-Use entry→kitchen depth + closed cabinet tension through lower canvas.
-
-SEAM OUT — A/G
-Strip 028 begins from exact orientation with SAME phone still in SAME PHONE HAND and must visibly show approach → phone placement/release → kneel → cabinet opening. SCRUNCHIE WRIST/headphones and TV/evidence states persist.
+Strip028 begins same orientation with phone PHONE HAND and must show approach→phone release→kneel→cabinet open. Worn/TV/evidence states persist.
 
 AUTOMATIC REJECT IF
-- any production/PHONE HAND/SCRUNCHIE WRIST label appears
-- attached refs/geometry drift
-- permanent drift/derived outlet detail propagated over canon
-- phone vanishes/duplicates/silently changes anatomical hand
-- phone/cabinet close-up creates duplicate physical device/cabinet
-- cabinet opens/speaker/stockpot appears early
-- first/second chime comes from different source or from fridge/TV/phone
-- Nari teleports/kneels/reaches cabinet before Strip 028
-- SCRUNCHIE WRIST/headphones change
-- TV visible without correct canonical/wall-unplug state
-- encounter evidence/powered state resets
+- production/temp-state label appears
+- refs/geometry drift
+- phone grip impossible/floating or screen UI floats off phone
+- cabinet opens/speaker/stockpot appears through closed door or cutaway/X-ray
+- first/second chime comes from different source or wrong device/wall
+- Nari gaze points away from actual cabinet / source moves between reverse shots
+- Nari teleports/kneels/reaches cabinet early
+- reflected/shadow duplicate human/hidden speaker appears
+- worn state clips/floats/changes
+- TV/evidence resets
 - text hides phone/cabinet-source evidence
-- invented narration/explanatory labels appear
-- black separators missing/oversized
+- invented narration/explanatory label
 ```
 
 ## Production Thread Attachments
