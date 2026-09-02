@@ -81,6 +81,24 @@ Do not show a closed door in one slice and Nari magically inside in the next. Do
 The box may touch the story-world floor for the FIRST TIME only at the scripted V04 interior placement. If the chosen pose cannot support one-hand lock/door operation while holding the box, recompose her stance/box size; do not invent a temporary surface, extra hand, or offscreen box reset.
 
 ==================================================
+PERSPECTIVE / MOBILE PROOF / CROP SAFETY — ABSOLUTE
+==================================================
+
+Use ordinary human-eye/manhwa perspective derived from the attached environment references.
+- no fisheye/ultra-wide bending of corridor walls, door frame, floor lines, kitchen/living geometry or Nari's anatomy
+- do not enlarge the free hand/smart lock/box through forced perspective so their world-space proportions become inconsistent
+- vertical door/wall edges remain straight unless canonical perspective naturally converges
+
+The following must be clearly readable at normal mobile scale:
+- Nari's free hand actually touching/operating the smart lock
+- the real door opening before threshold crossing
+- Nari + SAME box passing through the opening
+- SAME box contacting the interior floor at V04
+- speaker's actual kitchen-counter location at V06/V07
+
+Keep these proofs fully inside the readable image area with compact safe margins. Do not place the hand/lock, door edge/feet, box-floor contact, or speaker exactly on a crop edge, black gutter, diagonal divider or technical seam. If a wide view makes the smart-lock contact too small, use an immediately adjacent SAME-OBJECT detail rather than enlarging the lock/hand in world space.
+
+==================================================
 MICRO-CONTINUITY / CHARACTER-ENVIRONMENT CONTACT — ABSOLUTE
 ==================================================
 
@@ -100,6 +118,17 @@ Do NOT use one identical narration-box design or one default top-left caption po
 - V05 smart-home montage narration: compact modern/technical rhythm without becoming fake device UI.
 
 Keep all narration within one coherent manhwa typography family, but vary shape/placement/weight according to the beat. Never make narration look like speech balloons, screen UI, handwritten notes, or production labels. Do not place captions over Nari's face/hands, smart-lock contact, door crossing, box placement, speaker, or key environment anchors.
+
+==================================================
+TOP-TO-BOTTOM ACTION / TEXT ORDER — ABSOLUTE
+==================================================
+
+Reader order must remain V01→V07 with no balloon/SFX/caption placed so that a later event reads first.
+- V02 `BEEP` appears at the actual smart-lock operation before the V03 `CLICK`
+- V03 `CLICK` cannot visually precede V02 lock contact
+- V04 `THUD` appears only at the box/floor contact, not before the box is visibly lowered
+- V06 `BLIP` + speaker audio read after V05 smart-home montage and before V07 Nari response
+If one composition cannot preserve this sequence cleanly, use more vertical space rather than crossing balloons/SFX over neighboring beats.
 
 ==================================================
 REAL-SCENARIO START / UNIT 2407 GEOGRAPHY — ABSOLUTE
@@ -142,6 +171,7 @@ Every DISTINCT vertical reading slice/composition inside this technical strip mu
 
 If TWO distinct shots share the SAME horizontal row, separate them with a SLANTED / DIAGONAL BLACK DIVIDER — a visible black slash/wedge between the two images.
 - faces, speech balloons, props, and backgrounds must not cross the diagonal divider
+- continuity-critical proof gets safe margin from the divider
 - the reader must instantly understand they are separate camera slices
 - side-by-side slices must never visually merge into one impossible room
 
@@ -244,19 +274,21 @@ Strip 002 begins later that evening. A time transition is allowed, but Unit 2407
 AUTOMATIC REJECT IF
 - any `V-*`, P-number, strip/panel/scene/beat or production label appears in artwork
 - Unit 2407 axis is mirrored or furniture/appliances/lock location relocate
+- fisheye/ultra-wide/forced perspective bends canonical geometry or distorts Nari/box/lock proportions
 - attached reference identity/geometry is redesigned
 - more than two dining chairs appear
 - speaker changes design or has a screen
 - `WELCOME HOME...` is printed on speaker body
-- smart-lock contact/release/door-opening mechanism is skipped or completely cropped away
+- smart-lock contact/release/door-opening mechanism is skipped, microscopic, edge-cropped, divider-cut, or completely hidden
 - Nari teleports across threshold or passes through a closed door
 - box duplicates, vanishes, changes size, touches corridor floor/shelf/wall, or reaches interior floor before V04 placement
 - box floats without torso/forearm support during lock/door action
 - Nari gains impossible extra hands or invisibly swaps box/free-hand roles
 - Nari/box clips through door/wall/furniture
+- SFX/narration order makes CLICK/THUD/BLIP read before their physical causes
 - narration uses one generic repeated box or repetitive top-left tag without regard to beat function
 - distinct slices touch with no small black divider
-- side-by-side separate shots lack the diagonal black separator
+- side-by-side separate shots lack the diagonal black separator or divider cuts critical proof
 - giant purposeless bottom space appears
 - extra dialogue/SFX appears
 ```
