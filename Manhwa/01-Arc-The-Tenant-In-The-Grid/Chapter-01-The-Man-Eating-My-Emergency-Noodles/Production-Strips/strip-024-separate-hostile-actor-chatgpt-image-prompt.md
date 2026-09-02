@@ -22,103 +22,87 @@ ATTACH — REQUIRED
 REFERENCE / START STATE — ABSOLUTE
 ==================================================
 
-Attached refs permanent. APPROVED Strip023 controls temporary grip/feet/knife/candle/topology/worn state only.
+Attached refs permanent. APPROVED Strip 023 controls temporary grip/feet/knife/candle/topology/worn state only.
 Never render V/P/strip/temp-state labels.
 
 START:
 - Nari same post-reach position; STEP FOOT + CANDLE FOOT fixed
-- Hyun-woo same close protective position
-- SAME former-KNIFE-HAND wrist ACTUALLY held in same grip established V107
-- SCRUNCHIE WRIST/headphones unchanged
-- SAME knife settled exact floor location/orientation
-- separate packet floor spot
-- candle out; same dining scale/depth/topology
-- fridge hostile state at start; Unit unpowered
+- SAME former-KNIFE-HAND wrist ACTUALLY held in SAME real grip
+- Hyun-woo same close protective body position, same broad build/tattoo/mask/low-tied-hair identity
+- Nari same age-30 face, long dark-plum hair, anatomical-LEFT beauty mark, SCRUNCHIE WRIST/headphones
+- SAME knife exact floor location/orientation; separate packet
+- candle out; dining topology unchanged; fridge hostile at start; Unit unpowered
 
 ALLOWED CHANGES:
-- V108 first visible instant preserves real grip
-- Hyun-woo physically releases same wrist through exact disengagement
-- only after visible air gap exists does fridge produce `TIK. TIK. TIK.` and go dark
+- V108 first readable instant preserves same actual grip and limb ownership
+- Hyun-woo releases SAME wrist through physical disengagement
+- only after visible air gap: fridge `TIK. TIK. TIK.` then dark
 - V109–V112 dialogue/head/upper-body/eyeline only
-- no steps, knife movement, candle/topology/power change
+- no steps/knife/candle/topology/power change
 
 END:
 - same proximity, no contact
+- same character identities/body topology
 - Nari feet/worn state unchanged
-- knife same settled location/orientation
-- packet separate
-- fridge dark/silent; candle out; topology unchanged
+- knife same floor orientation; packet separate
+- fridge dark/silent; candle out
 
 ==================================================
-HELD WRIST START / RELEASE ERGONOMICS — NON-NEGOTIABLE
+SAME-WRIST / SAME-ARM TOPOLOGY — NON-NEGOTIABLE
 ==================================================
 
-First readable instant must prove real existing grip:
-- Hyun-woo fingers/thumb wrap around SAME former-KNIFE-HAND wrist/forearm
-- finger joints follow a believable grip; no finger passes through wrist/hand
-- grip matches Strip023 anatomical side/placement
-- Nari wrist/hand connects correctly to same arm
+The held wrist is the SAME former-KNIFE-HAND wrist from Strip 023.
+- Nari wrist/forearm/upper arm remain one continuous arm connected to same shoulder/body
+- SCRUNCHIE WRIST remains whatever separate anatomical wrist was established; do not move the scrunchie to the caught wrist unless canon/state already makes them the same
+- Hyun-woo catching fingers/hand/forearm/elbow/upper arm remain one continuous arm connected to his real body
+- catching-arm tattoo pattern remains the SAME anatomical tattoo map; reverse camera cannot mirror it to the opposite arm
+- no extra/missing/duplicated hand/arm/finger on either character
+- no close-up generic hands with lost body ownership
 
-V108 release:
+First readable instant must show the existing grip with enough arm/body/skin/tattoo/worn context to prove ownership.
+
+==================================================
+RELEASE ERGONOMICS — NON-NEGOTIABLE
+==================================================
+
 1. same grip visible
-2. fingers/thumb visibly extend/open from usable positions
-3. contact is lost physically, not by hand disappearing
-4. Hyun-woo hand moves away through open space
-5. Nari wrist remains same position
+2. same Hyun-woo fingers/thumb open from usable positions
+3. contact physically ends
+4. same hand moves away through open space
+5. Nari wrist remains connected to same arm and does not teleport
 6. visible air gap appears
 7. only then refrigerator clicks
 
-Do not switch wrists, melt hands together, or use a foreground overlap as fake grip.
+Hand cannot simply vanish between frames. Do not switch wrists or arms.
 
 ==================================================
-DIALOGUE AXIS / EYE-LINE CONTINUITY — ABSOLUTE
+CHARACTER IDENTITY / MATERIAL — ABSOLUTE
 ==================================================
 
-V109–V112 remain one close conversation from the same post-reach positions.
-- Nari and Hyun-woo do not exchange physical sides
-- their eyes/head directions remain toward each other while speaking/listening
-- Nari may glance to actual refrigerator after the clicks, then return to Hyun-woo
-- Hyun-woo's explanation remains directed toward Nari, not camera/wrong wall
-- reverse shots may flip screen-left/right but cannot silently cross the axis so their eyelines no longer meet
-
-A tight close-up may omit environment, but returning views must restore the same world positions and floor evidence.
+Nari: beauty mark stays anatomical LEFT; long dark-plum hair and night outfit/worn state unchanged; no extra/missing limb.
+Hyun-woo: broad build, long low-tied black hair, same technical mask, same tattoo coverage/pattern relationships and sleeveless dark outfit. Mask/tattoos/hair stay matte; no neon/glossy action close-up.
 
 ==================================================
-BLACKOUT SHADOW / REFLECTION BAN — ABSOLUTE
+DIALOGUE AXIS / SPEAKING LOGIC — ABSOLUTE
 ==================================================
 
-Candle is extinguished. Refrigerator goes dark after clicks.
-Therefore:
-- do not retain candle-cast shadows after flame is out
-- do not let fridge pixels cast room light/shadows after it goes dark
-- no reflected duplicate Nari/Hyun-woo/unknown person in fridge/TV/window/counter
-- no shadow-person, extra hand/face or silhouette appears behind dialogue
-- flat charcoal separation is readability, not an invented light source
+V109–V112 same close conversation positions. Nari/Hyun-woo do not exchange physical sides; eyelines meet.
+Human speech acting follows correct speaker. Hyun-woo remains masked and does not expose lower face to show dialogue. Listener must not visibly mouth the other person's line.
 
 ==================================================
-KNIFE SETTLED STATE / FLOOR SUPPORT — ABSOLUTE
+BLACKOUT / KNIFE / WORN STATE — ABSOLUTE
 ==================================================
 
-SAME knife stays exact Strip023 floor point/orientation/scale, physically supported by floor and clear of feet/packet/chair/table. Nobody touches until Strip028.
-
-==================================================
-WORN-ITEM ATTACHMENT — ABSOLUTE
-==================================================
-
-Scrunchie remains physically encircling SAME wrist. Headphones remain physically around neck/hoodie; no clipping through hair/jaw/neck/clothing and no disappearance/side change.
-
-==================================================
-SAME-OBJECT INSERT / TEXT SAFETY — ABSOLUTE
-==================================================
-
-Wrist/fridge/knife/packet details are SAME physical states. Dialogue/`TIK. TIK. TIK.` must not cover starting grip, fingers opening, hand-wrist air gap, knife orientation or fridge going dark.
+Candle extinguished; fridge goes dark after clicks. No candle/fridge room light, reflected duplicate or shadow-person.
+Knife remains exact Strip 023 floor point/orientation, fully supported and untouched.
+Scrunchie/headphones remain physically attached; no clipping/side swap.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
 V108 — REAL SAME-WRIST RELEASE
-Begin actual grip. Visibly open/disengage/move hand away until gap.
+Begin actual SAME grip. Visibly open/disengage/move SAME Hyun-woo hand away until air gap.
 Only then refrigerator:
 `TIK. TIK. TIK.`
 Display dark/silent.
@@ -161,21 +145,22 @@ HYUN-WOO:
 SEAM
 ==================================================
 
-Strip025 inherits exact feet, settled knife orientation, packet, separated hands, conversation positions and no-light shadow state.
+Strip 025 inherits exact feet, knife, packet, separated hands, conversation positions, character identities/tattoo/body topology and no-light state.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
-- refs/geometry/scale/depth drift
+- Nari beauty mark/hair/body identity changes
+- Hyun-woo build/hair/mask/tattoo identity changes or tattoo arm mirrors
 - wrist already released at start
-- grip/release anatomy impossible, fused/clipping, fake 2D overlap, opposite wrist, or hand vanishes instead of opening
-- fridge clicks before visible release gap
-- dialogue axis flips / eyelines point away from actual other character
-- knife moves/rotates/floats/duplicates
-- feet/worn/packet/topology changes
-- reflected/shadow duplicate human/figure appears or shadows imply nonexistent candle/fridge light
+- opposite wrist/arm used, limb ownership ambiguous, extra/missing/duplicated hand/arm/finger appears, or close-up hand is detached from body
+- grip/release anatomy impossible/fused/clipping or hand vanishes instead of opening
+- fridge clicks before visible air gap
+- dialogue axis/acting swaps speakers
+- knife/feet/worn/packet/topology changes
+- reflected/shadow duplicate appears
+- character materials become glossy/neon/cinematic
 - power returns early/candle relights
-- text hides grip/release/knife evidence
-- invented narration/system label
+- text hides grip/release/body-ownership proof
 ```
 
 ## Production Thread Attachments
