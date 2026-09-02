@@ -1,304 +1,354 @@
-# Strip 010 — Don't Save This Digitally / Missing Section
+# Strip 010 — Don't Save This Digitally / Missing Section — FINAL DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME investigation from APPROVED Strip 009.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME investigation from the APPROVED rendered Strip 009.
+
+THIS IS NOT A PAGE.
+Never render V46–V50, Strip 010, production sub-step labels, filenames, reference labels, QA notes, or technical metadata.
 
 PRODUCTION SCOPE
-V46–V50. Historical P6 mapping only.
-
-ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
-- `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
-- APPROVED Strip 009
-- this Strip 010 prompt
+V46–V50 only.
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+ATTACH — REQUIRED — EXACT SET
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 009 controls temporary tablet/note/pen/phone state only; correct permanent drift to canon rather than propagating it.
-Preserve Nari identity, tablet, binder body/cover/spine/rings/pages/scale, exact note/pen state, desk/counter/hallway geometry and south-wall relationship.
-Never render V46–V50, P6, Strip010, sub-step labels or production metadata.
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-living-to-kitchen-wide-reference.webp`
+4. `unit-2407-desk-zone-detail-reference.webp`
+5. `unit-2407-hallway-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `electrical-operation-guide-canonical-reference.webp`
+8. APPROVED rendered Strip 009 image
+
+Missing authority = STOP.
 
 ==================================================
-START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+CURRENT CANON / PREVIOUS STRIP ROLE
+==================================================
+
+Current WebPs permanently control Nari, Unit 2407, and the electrical-operation guide.
+APPROVED Strip 009 temporarily controls exact note/pen/phone/tablet states and current Unit rendering.
+
+CURRENT NARI WEBP WINS.
+Never restore retired dark-plum hair, mouth beauty mark, yellow scrunchie, headphones-around-neck identity, or old hoodie/utility-jacket design.
+
+==================================================
+START / ALLOWED / END
 ==================================================
 
 START:
-- SAME tablet desk frozen/restarting
-- SAME note + exact supernatural reply fixed surface
-- SAME pen exact V40 rest position
-- SAME phone separate clear spot beside note/pen
-- hidden speaker exact closed stack
-- fruit knife under sofa; key tray
-- SAME canonical binder kitchen counter CLOSED at canonical orientation/spine/ring side
-- actual south-wall panel closed/untouched
+- tablet at desk frozen/restarting
+- physical note + exact writings fixed at note area
+- pen exact inherited rest
+- phone separate beside note/pen
+- hidden speaker stack unchanged
+- fruit knife under sofa
+- key tray
+- canonical binder CLOSED on kitchen counter
+- south-wall panel closed/untouched
 
-ALLOWED CHANGES:
-- V46 tablet clean helpful warning
-- V47 reaction; tablet stays desk
-- Nari desk→note area, picks SAME phone without disturbing paper/pen
-- walks to binder counter, picks SAME closed binder with other hand
-- carries phone + binder to stable inspection surface and places binder fully supported flat before opening
-- opens SAME binder around real spine/rings
-- physically proves `SECTION 16` → real page advance → `SECTION 18`; no normal Section17
+ALLOWED:
+- V46 tablet resolves clean warning
+- V47 reaction only
+- Nari physically walks desk→note area
+- picks SAME phone without moving note/pen
+- walks to binder counter
+- other hand picks SAME closed binder
+- carries phone + binder to stable inspection surface
+- binder placed/released before opening
+- real page proof SECTION16→page turn→SECTION18
+- no normal Section17
 - same binder advances to south-wall diagram page
-- V50 same phone text exchange while binder surface-supported
-- phone returns surface, binder closes and returns counter
+- V50 phone text exchange
+- phone returned, binder closed and returned counter
 
 END:
-- binder closed counter canonical orientation
+- binder closed counter
 - phone inspection surface
-- note/pen exact unchanged
+- note/pen unchanged
 - tablet desk
-- key tray; speaker hidden; fruit knife under sofa; wall panel untouched
+- key tray
+- south-wall panel untouched
 
 ==================================================
-TABLET / PHONE / PAGE PHYSICAL TEXT-PLANE LOCK — NON-NEGOTIABLE
+WORLD SCALE / CARRIER REALITY
 ==================================================
 
-Every in-world text element belongs to its actual physical carrier.
-
-TABLET V46:
-- `DON'T SAVE THIS DIGITALLY.` and `IT CAN SEE IT.` stay entirely inside SAME tablet screen
-- follow tablet screen plane/perspective
-- do not float as a warning card over Nari/desk/room
-
-BINDER V48/V49:
-- `SECTION 16`, `SECTION 18`, diagram labels and old handwriting belong to SAME physical binder pages
-- print/handwriting follows page orientation/perspective and cannot cross page edges/rings into room space
-- a front-readable close-up is representational SAME binder, not floating page UI
-- when a page turns, its former text does not remain floating above the new page
-
-PHONE V50:
-- text exchange stays entirely inside SAME phone screen/UI plane
-- if phone is angled, content follows the screen perspective
-- no floating chat bubbles detached from phone unless they are actual character speech, which these are not
+- binder stays one ordinary maintenance binder; never tablet/poster scale
+- phone remains handheld phone scale
+- tablet remains desk device scale
+- binder page close-ups magnify camera only
+- text must stay on real screen/page planes
+- phone/binder relative size remains consistent
+- Unit 2407 room scale unchanged
 
 ==================================================
-MOBILE PAGE-PROOF LEGIBILITY / SAFE MARGINS — ABSOLUTE
+VERTICAL HEIGHT MAP
 ==================================================
 
-The missing-section proof must be understandable at normal mobile reading scale, not merely described by the prompt.
+Approximate story-art allocation:
+- V46 tablet warning: 15%
+- V47 Nari reaction: 10%
+- V48 route + binder Section16→18 proof: 36% — LARGEST
+- V49 south-wall diagram warning: 18%
+- V50 phone text exchange + binder return: 21%
 
-At least one causally continuous view must clearly show each of these states:
-- SAME physical binder/spine/rings/page context
-- readable `SECTION 16`
-- Nari's fingers physically contacting the actual page edge/tab
-- the real page lifting/turning around the SAME binding
-- readable `SECTION 18` after the turn
-- enough binder/tab context to show that a normal `SECTION 17` is genuinely absent rather than simply cropped off
-
-If a wide shot makes the headers/rings/page edge too small, use immediately adjacent SAME-BINDER detail slices. Do not enlarge the binder in world space.
-
-SAFE MARGIN:
-- binder spine/rings, page edge, fingers, Section headers and south-wall handwriting must stay fully inside the image area
-- no critical page-turn mechanism may sit exactly on a crop edge, gutter or diagonal divider
-- do not let a divider cut the page or make the Section 16/18 states look like two different binders
-
-A tiny unreadable `16`/`18`, decorative glyph noise, or cropped page that forces the reader to trust Nari's dialogue instead of seeing the evidence = automatic rejection.
+V48 must be large enough to visually PROVE the missing section, not merely state it in dialogue.
 
 ==================================================
-NOTE / PEN NON-INTERFERENCE — ABSOLUTE
+V46 — TABLET WARNING — FULL BLUEPRINT
 ==================================================
 
-Nari picks phone without touching note/pen. Paper remains exact orientation/text; pen exact rest position. Their handwriting remains on the physical paper plane and is not recreated as floating evidence graphics.
+CAMERA:
+- SAME canonical desk from Strip 009
+- current Nari positioned at actual tablet
+- tablet remains same physical device
 
-==================================================
-PHONE / TABLET / BINDER HAND OCCUPANCY — ABSOLUTE
-==================================================
-
-1. tablet remains desk
-2. Nari picks SAME phone from clear note-area spot using a real palm/finger grip
-3. note/pen stay behind
-4. phone carried to binder counter
-5. other hand picks SAME CLOSED binder with usable grip/support
-6. phone one hand; binder supported other arm/hand
-7. inspection surface: binder set/released FIRST and fully supported
-8. phone rests beside binder while pages handled
-9. V50 phone picked with usable grip for text, then returned/released
-10. binder closes/returns counter
-
-No impossible open-binder + phone + page-turn extra-hand pose. Fingers may not fuse into phone/binder/rings.
-
-==================================================
-BINDER ORIENTATION / SPINE / PAGE-TURN — NON-NEGOTIABLE
-==================================================
-
-Preserve same cover, spine/ring side, top/bottom orientation, reading direction, thickness/scale and page/tab geometry.
-
-V48 sequence:
-1. CLOSED binder flat inspection surface
-2. cover opens around correct spine/ring side
-3. binder remains surface-supported
-4. readable `SECTION 16` on actual page
-5. fingers contact real page edge/tab on turnable side
-6. page bends/lifts/pivots around same rings; no clipping through rings/hands/table/phone
-7. page settles
-8. next relevant visible header `SECTION 18`
-9. no normal Section17 page/tab
-10. only then Nari says `SECTION SEVENTEEN IS MISSING.`
-
-Reverse camera cannot switch spine/ring/page-turn direction.
-
-==================================================
-PERSPECTIVE / BINDER PLANE INTEGRITY — ABSOLUTE
-==================================================
-
-Use ordinary perspective without fisheye/forced distortion.
-- binder remains a planar bound object resting on the inspection surface
-- close-ups may rotate camera around the binder but cannot make page/rings/spine geometry warp or reverse
-- phone/binder cannot be stretched by perspective so their relative sizes become inconsistent
-- page text follows the actual page plane; do not flatten an oblique binder into a floating front-facing card while hands remain in another perspective
-
-==================================================
-CAMERA AXIS / EYE-LINE / EVIDENCE GAZE — ABSOLUTE
-==================================================
-
-Nari's gaze must track the real evidence in story space:
-- V46/V47 toward the actual tablet on desk
-- during route, toward phone/note then binder counter as she physically approaches them
-- V48/V49 eyes/head oriented down toward SAME binder pages while reading
-- V50 eyes alternate between SAME phone screen and binder/scene naturally; do not make her look toward an empty wall while device/page evidence is elsewhere
-
-Close-ups may omit face, but returning shots must preserve her real body location and target direction. Do not silently cross a camera axis in a way that makes the binder/phone swap physical sides on the inspection surface.
-
-==================================================
-REFLECTION / FALSE-DUPLICATE BAN — ABSOLUTE
-==================================================
-
-Tablet/phone screens, binder glossy hardware, windows/appliances may not show a reflected duplicate Nari, Mrs. Na, Hyun-woo, unknown face/hand, second phone/binder/note, or supernatural silhouette.
-This sequence's supernatural information comes from text/evidence only.
-
-==================================================
-V48 MULTI-SLICE PHYSICAL ROUTE / READER ORDER — MANDATORY
-==================================================
-
-Use unlabeled consecutive sub-slices in this exact top-to-bottom order:
-A desk→note movement; tablet remains desk
-B hand picks phone; note/pen untouched
-C counter: other hand picks SAME binder
-D inspection surface: binder set/released; phone beside it
-E cover opens; actual page `SECTION 16`
-F finger/page-edge contact and real page turn
-G actual page `SECTION 18`; no Section17
-H only after proof spoken line `SECTION SEVENTEEN IS MISSING.`
-Never render A/B/H.
-
-The V48 dialogue may not be placed above the page-turn proof. A Section 18 close-up may not visually read before the Section 16 state/page-turn. If side-by-side details are used, their reading order must remain unmistakable.
-
-==================================================
-SAME-OBJECT CLOSE-UP / NO DUPLICATION — ABSOLUTE
-==================================================
-
-Tablet, phone, binder cover/page, diagram, note/pen inserts are SAME physical objects. Same-moment wide/detail states agree.
-
-==================================================
-TEXT / EVIDENCE SAFETY — ABSOLUTE
-==================================================
-
-Text must not cover phone pickup, note/pen state, binder support/spine/rings, page-edge contact/page turn, Section16/18 headers, south-wall handwriting, phone/binder return actions.
-
-==================================================
-TEXT TYPES / MOBILE LEGIBILITY — ABSOLUTE
-==================================================
-
-No narration.
-- tablet warning = tablet screen device text
-- binder sections = physical page print
-- south-wall warning = physical handwriting on binder page
-- phone exchange = phone screen UI
-- Nari line = speech
-
-All story-critical exact text must be legible at intended mobile size. Do not turn `SECTION 16`, `SECTION 18`, the south-wall warning, tablet warning, or phone exchange into unreadable decorative glyphs. Use SAME-OBJECT detail views when necessary rather than changing carrier world-space scale.
-
-==================================================
-VERTICAL STORY FLOW
-==================================================
-
-V46 — TABLET WARNING
-TABLET SCREEN:
+TABLET SCREEN — EXACT:
 `DON'T SAVE THIS DIGITALLY.`
 `IT CAN SEE IT.`
 
+RULES:
+- text fully inside tablet screen
+- follows screen plane/perspective
+- clean helpful communication styling
+- not floating warning card
+- no room-scale glow
+
+NARI:
+- investigative unease, controlled
+- eyes on actual tablet
+
+END:
+- tablet stays desk
+
 SMALL BLACK GUTTER.
 
-V47
+==================================================
+V47 — `IT?` / NO ANSWER — FULL BLUEPRINT
+==================================================
+
+CAMERA:
+- medium Nari + desk/tablet anchor
+- same position; no teleport
+
 NARI:
 `IT?`
+
 No device answer.
+No new text.
+No supernatural figure/reflection.
+
+END:
+- Nari decides to investigate physical binder
 
 SMALL BLACK GUTTER.
 
-V48 — PHONE + BINDER + PHYSICAL SECTION PROOF
-Execute exact route/orientation/page-turn proof.
-Visible physical page text:
+==================================================
+V48 — PHONE PICKUP / BINDER ROUTE / SECTION 16→18 PROOF — FULL BLUEPRINT
+==================================================
+
+This beat uses unlabeled same-event subviews in exact top-to-bottom order.
+
+A. DESK→NOTE AREA
+- Nari physically leaves desk
+- tablet remains there
+
+B. PHONE PICKUP
+- note/pen remain exact inherited state
+- fingers contact SAME phone
+- phone leaves surface
+- paper/pen untouched
+
+C. NOTE AREA→BINDER COUNTER
+- real route through Unit 2407
+
+D. BINDER PICKUP
+- SAME binder begins CLOSED at canonical counter orientation
+- other hand grips/supports binder
+- phone remains accounted for
+
+E. INSPECTION SURFACE
+- binder placed FLAT and fully supported first
+- phone placed/rests beside binder while pages handled
+
+F. OPEN BINDER
+- cover rotates around correct spine/ring side
+- binder remains one object
+
+G. SECTION 16
+Actual physical page header, mobile-readable:
 `SECTION 16`
+
+H. REAL PAGE TURN
+- Nari fingers contact actual page edge/tab
+- page bends/lifts
+- pivots around same rings/spine
+- no clipping through hand/rings/surface
+
+I. SECTION 18
+After page settles, next relevant visible header:
 `SECTION 18`
-NARI only after proof:
+
+MISSING-SECTION PROOF:
+- enough bound-page/ring/tab context must make it clear this is SAME binder and the expected normal Section17 is absent
+- do NOT show separate floating Section16/18 cards
+- do NOT simply crop Section17 away ambiguously
+
+ONLY AFTER VISUAL PROOF:
+NARI:
 `SECTION SEVENTEEN IS MISSING.`
 
+REJECT V48 IF:
+- dialogue appears before proof
+- Section18 visually reads before Section16/page-turn
+- binder duplicates
+- normal Section17 appears
+- page text floats off paper
+- phone requires impossible third hand
+
 SMALL BLACK GUTTER.
 
-V49 — SOUTH-WALL DIAGRAM
-Same binder/page system. Old physical handwriting:
+==================================================
+V49 — SOUTH-WALL DIAGRAM PAGE — FULL BLUEPRINT
+==================================================
+
+CAMERA:
+- SAME open binder on SAME inspection surface
+- page turn/advance occurs within same binding
+- enough page/ring context to prove same object
+
+PHYSICAL PAGE:
+- practical wiring/panel diagram style
+- old physical handwriting on actual page:
 `KEEP ONE MAINS-POWERED LIGHT ON AFTER MIDNIGHT.`
-Actual south-wall panel stays closed.
+
+RULES:
+- handwriting follows page perspective
+- no digital overlay
+- no floating warning
+- actual south-wall panel itself remains CLOSED and untouched in environment
+
+NARI:
+- reads actual page, eyes down toward binder
+
+END:
+- warning understood; binder remains supported
 
 SMALL BLACK GUTTER.
 
-V50 — PHONE TEXT EXCHANGE + BINDER RETURN
-NARI TEXT on SAME phone:
+==================================================
+V50 — PHONE TEXT EXCHANGE / BINDER RETURN — FULL BLUEPRINT
+==================================================
+
+A. PHONE PICKUP
+- same phone beside binder
+- usable real grip
+
+PHONE SCREEN — EXACT TEXT EXCHANGE:
+NARI TEXT:
 `THE TV STAYED ON AFTER I UNPLUGGED IT. WHAT IS IN UNIT 2407?`
+
 MRS. NA TEXT:
 `KEEP THE HALLWAY LAMP ON.`
+
 MRS. NA TEXT:
 `IF THE POWER GOES OUT, KEEP EVERY SCREEN OFF.`
+
 MRS. NA TEXT:
 `WE'LL TALK IN PERSON.`
 
-After exchange phone contacts/release on surface; binder closes around same spine/rings; Nari returns binder counter.
+PHONE TEXT RULE:
+- all content inside actual phone screen/UI plane
+- mobile-readable
+- no detached floating chat cards
+
+B. PHONE RETURN
+- phone contacts inspection surface
+- fingers release
+
+C. BINDER CLOSE / RETURN
+- binder closes around same spine/rings
+- Nari picks/supports closed binder
+- physically returns it to SAME kitchen-counter location/orientation
+- no teleport
+
+END / SEAM:
+- binder closed counter
+- phone inspection surface
+- note/pen unchanged
+- Strip 011 begins later that day
 
 ==================================================
-SEAM
+EXACT TEXT ONLY
 ==================================================
 
-Strip011 later that day. Note/pen remain evidence; binder closed counter; phone inspection surface.
+`DON'T SAVE THIS DIGITALLY.`
+`IT CAN SEE IT.`
+`IT?`
+`SECTION 16`
+`SECTION 18`
+`SECTION SEVENTEEN IS MISSING.`
+`KEEP ONE MAINS-POWERED LIGHT ON AFTER MIDNIGHT.`
+`THE TV STAYED ON AFTER I UNPLUGGED IT. WHAT IS IN UNIT 2407?`
+`KEEP THE HALLWAY LAMP ON.`
+`IF THE POWER GOES OUT, KEEP EVERY SCREEN OFF.`
+`WE'LL TALK IN PERSON.`
 
-AUTOMATIC REJECT IF
-- production label appears
-- binder geometry/spine/ring/page orientation mirrors/changes
-- fisheye/forced perspective distorts binder/page/ring geometry or phone/binder scale
-- tablet/phone/binder text floats off its physical carrier plane, ignores perspective/boundaries, or becomes narration/speech
-- required Section 16/18/south-wall/device text is microscopic, unreadable, or decorative gibberish
-- page text remains floating after page turn
-- phone/binder scale/grip impossible or fingers clip/fuse
-- duplicate binder/phone/tablet/note/pen appears
-- note/pen move during phone pickup
-- V48 collapses/skips mechanism
-- page-turn/contact/header proof is edge-cropped, gutter/divider-cut, or too small to understand
-- Section18/detail/dialogue reads before Section16→page-turn in the vertical reading order
-- Section16/18 shown as floating cards/unbound simultaneous sheets
+No narration or extra readable text.
+
+==================================================
+STATE LEDGER
+==================================================
+
+TABLET:
+desk throughout after V46/V47.
+
+NOTE/PEN:
+exact inherited state throughout; never moved.
+
+PHONE:
+note area → Nari hand → inspection surface → V50 hand → inspection surface.
+
+BINDER:
+closed counter → carried → inspection surface → Section16→18→south-wall page → closed → returned same counter.
+
+SOUTH-WALL PANEL:
+closed/untouched throughout.
+
+==================================================
+FINAL REJECT
+==================================================
+
+Reject if:
+- production labels render
+- retired Nari design returns
+- binder spine/rings/page direction flips
+- Section16/18 proof unreadable/ambiguous
 - normal Section17 appears
+- dialogue precedes physical proof
+- device/page text floats off carrier planes
+- phone/binder duplicate
+- note/pen move
 - actual wall panel opens
-- reflected/shadow duplicate figure/object appears
-- Nari eyeline points to wrong target or inspection-surface sides swap without movement
-- text hides binding/page/contact proof
-- physical Mrs. Na appears
-- black dividers missing/oversized or cut evidence
-- giant dead bottom appears
+- Nari eyeline targets wrong evidence
+- room/desk/counter geometry drifts
+- reflected/shadow human appears
+- glossy/cinematic/photoreal/3D style appears
+- text obscures page-turn/contact proof
+- black gutters missing/oversized
+- dead bottom appears
 ```
 
-## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-5. `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
-6. `Manhwa/Object-References/electrical-operation-guide-canonical-reference.webp`
-7. APPROVED Strip 009
-8. this Strip 010 prompt
+## Production Thread Attachments — EXACT SET
+
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-living-to-kitchen-wide-reference.webp`
+4. `unit-2407-desk-zone-detail-reference.webp`
+5. `unit-2407-hallway-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `electrical-operation-guide-canonical-reference.webp`
+8. APPROVED rendered Strip 009 image
