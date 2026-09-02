@@ -28,22 +28,22 @@ Never render V/P/strip/NOTEBOOK ZONE/WRITING HAND/temp-state labels.
 
 START:
 - Nari SAME untouched chair
-- SAME closed A5 notebook flat in SAME NOTEBOOK ZONE, same orientation/true scale from Strip030
+- SAME closed A5 notebook flat SAME NOTEBOOK ZONE, same orientation/scale
 - SAME pen beside notebook
 - NOODLE POT/table evidence unchanged
 - STORAGE POT/open cabinet state unchanged
-- TV inactive but still wall-unplugged; same cord/plug/socket continuity
+- TV inactive but wall-unplugged; same cord/plug/socket continuity
 - Unit powered
 
 ALLOWED CHANGES:
-- Nari physically opens SAME notebook in place without moving it out of NOTEBOOK ZONE
-- the physical hand that picks up SAME pen becomes `WRITING HAND`
-- WRITING HAND writes V143 observation and V144 hypothesis; same anatomical hand throughout, no silent transfer
+- Nari physically opens SAME notebook in place
+- physical hand picking SAME pen becomes `WRITING HAND`
+- WRITING HAND writes V143 observation and V144 hypothesis; same anatomical hand throughout
 - after final word WRITING HAND lowers/releases SAME pen across lower/open page/margin
-- WRITING HAND identity ends after release
+- WRITING HAND expires after release
 - only then Nari turns head/upper body toward TV
 - SAME wall-unplugged TV begins hostile activation `KZZT`
-- mandatory unplug proof uses physically believable cord gravity/no-clipping
+- mandatory unplug proof physically valid
 
 END:
 - Nari same chair, turned TV
@@ -57,138 +57,138 @@ NOTEBOOK OPENING / ORIENTATION / SCALE — ABSOLUTE
 ==================================================
 
 Notebook remains true A5-like world-space size and same story-world orientation established Strip030.
-
-Opening:
-1. one hand contacts actual cover edge
-2. cover lifts/rotates around same spine/binding side
-3. notebook base remains supported by tabletop
-4. opening action does not slide notebook into other evidence
-5. pages settle open inside NOTEBOOK ZONE
-
-Do not mirror spine side, rotate notebook 180° between views, shrink it for writing, enlarge it for close-up as a world-space object, or let cover/pages pass through pot/chopsticks/packet/table.
+Cover opens around SAME spine/binding side; base remains tabletop-supported; pages settle inside NOTEBOOK ZONE without sliding into evidence.
+No mirror/180° rotation/scale change.
 
 ==================================================
-WRITING HAND — TEMPORARY ANATOMICAL LOCK
+WRITING HAND / PEN GRIP ERGONOMICS — NON-NEGOTIABLE
 ==================================================
 
-The physical hand that picks up the pen after notebook opens becomes `WRITING HAND` until pen is released after V144.
-
-Rules:
-- same anatomical hand writes ALL V143 observation text and ALL V144 hypothesis text
-- reverse camera may flip screen-left/right but cannot switch pen to other physical hand
-- non-writing hand may stabilize notebook/table/body as needed but cannot duplicate pen
-- no silent hand transfer
-- after final line, SAME WRITING HAND performs pen-lower/contact/release
-- `WRITING HAND` is production-only and must never render
+The physical hand that picks up pen becomes WRITING HAND.
+- SAME anatomical hand writes ALL observation and hypothesis text
+- fingers/thumb hold pen in a believable writing grip
+- pen shaft does not pass through fingers/palm
+- pen tip physically contacts page during each stroke
+- non-writing hand may stabilize notebook but cannot hold a duplicate pen or cover the writing path
+- reverse shot may flip screen direction but cannot switch the pen to other physical hand
+- after final word SAME hand lowers pen, makes real page contact, fingers release, pen rests supported horizontally
 
 ==================================================
-EXACT WRITING / PEN PATH — ABSOLUTE
+HANDWRITING PHYSICAL PAGE-PLANE LOCK — NON-NEGOTIABLE
 ==================================================
 
-V143 exact physical handwriting:
+Exact text:
+V143:
 `UNIT 2407 — BUG REPORT`
 `OBSERVATION 001:`
 `HYUN-WOO BECAME PHYSICAL DURING THE BLACKOUT.`
 
-V144 exact separate block:
+V144:
 `HYPOTHESIS:`
 `LOSS OF APARTMENT POWER MAY BE THE TRIGGER.`
 
-Writing must physically appear along pen-tip path; no fully written text appears before pen reaches it.
-No extra checkboxes/dates/diagrams/text.
-After final word:
-1. pen still WRITING HAND
-2. writing stops
-3. hand lowers pen to lower/open page or clear margin
-4. pen physically contacts page
-5. fingers release
-6. pen rests horizontally, supported by notebook/page
-7. only then Nari turns TV
-
-Pen cannot float, clip through page/hand, or duplicate.
+All handwriting belongs to the SAME physical notebook page.
+- text follows notebook/page plane and perspective
+- letters appear only where pen tip has physically traveled
+- no perfectly front-facing digital overlay floating above an oblique notebook
+- no text outside page edges or crossing spine into air/table
+- no extra notes/checklists/dates/diagram
+- after a close-up, text remains on SAME page in SAME world location
 
 ==================================================
-TABLE / TWO-POT / NOTEBOOK DEPTH — ABSOLUTE
+TV SCREEN PHYSICAL-PLANE / HOSTILE FIELD — ABSOLUTE
 ==================================================
 
-NOTEBOOK ZONE remains clear. NOODLE POT/table evidence stays at prior fixed positions. STORAGE POT remains cabinet. No evidence moves to accommodate writing/TV composition.
-Notebook/pen close-ups are same objects at same table depth.
+V145 hostile fragments belong only to the SAME TV screen.
+- interference/text fragments stay inside TV image/bezel
+- if TV is oblique, hostile content follows the screen plane/perspective
+- do not float glitch text/pixels over walls/furniture/Nari/notebook
+- a close-up is SAME TV, not detached floating screen/second TV
+- final message is NOT yet present
+
+==================================================
+NARI→TV EYE-LINE / CAMERA AXIS — ABSOLUTE
+==================================================
+
+Only after pen release:
+- Nari turns head/eyes/upper torso toward the ACTUAL TV story-world location
+- she remains seated; no body slide or chair turn that changes world position
+- reverse camera may flip screen-left/right but cannot move TV to wrong wall or make Nari look away from it
+- NOTEBOOK ZONE remains in front/side of her at same table position while gaze redirects to TV
 
 ==================================================
 TV WALL-UNPLUG / CORD PHYSICS — ABSOLUTE
 ==================================================
 
-TV canonical scale/body/stand/cord-origin fixed.
-Same cord remains attached at TV side and reaches same loose wall plug outside empty socket.
-
-Mandatory V145 proof must obey gravity/no-clipping:
-- cord route passes only through open space around/behind TV/stand
-- no penetration through wall/stand/furniture/body
-- same cord length/slack as established
-- loose plug hangs/rests under plausible gravity, not floating
-- socket remains wall-mounted and empty
-- no second cable/source
-
-Proof may be one shot or adjacent same-TV detail, but cannot distort room geometry or duplicate TV/cord/plug/socket.
+Same canonical TV scale/body/stand/cord origin. Cord attached at TV side, continuous to loose plug outside empty wall socket.
+Mandatory proof obeys gravity/no clipping; same cord length/slack; no second cable/source.
 
 ==================================================
-NARI BODY / WORN STATE — ABSOLUTE
+REFLECTION / SHADOW FALSE-DUPLICATE BAN — ABSOLUTE
 ==================================================
 
-Nari remains seated. V145 head/upper torso/eyeline turn only. SCRUNCHIE WRIST/headphones unchanged. No chair slide/stand/pen pickup after release.
+TV screen, windows, refrigerator, counters and phone/tablet surfaces may not show an identifiable reflected Nari duplicate, Hyun-woo, unknown person, face, hand or silhouette.
+Hostile TV field must not generate a human-shaped shadow/reflection in the room.
+Powered shadows belong only to actually present Nari/furniture/objects under real apartment lighting.
+
+==================================================
+TABLE / TWO-POT / NOTEBOOK DEPTH — ABSOLUTE
+==================================================
+
+NOTEBOOK ZONE remains clear. NOODLE POT/table evidence fixed. STORAGE POT cabinet fixed. No evidence moves for writing/TV composition.
+
+==================================================
+WORN ATTACHMENT — ABSOLUTE
+==================================================
+
+Scrunchie physically encircles SAME wrist; headphones physically around neck/hoodie without clipping through hair/jaw/neck during writing/turn.
 
 ==================================================
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Handwriting/`KZZT`/TV fragments must not cover:
-- notebook opening/spine
-- WRITING HAND/pen-tip path
-- pen release
-- NOTEBOOK ZONE evidence boundaries
-- TV-side cord/loose plug/empty socket
+Handwriting/`KZZT`/TV fragments cannot cover notebook opening/spine, WRITING HAND/pen-tip path, pen release, NOTEBOOK ZONE boundaries, TV cord/plug/socket or Nari seated gaze.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
 V143 — OPEN / WRITING HAND / OBSERVATION
-Visibly open SAME notebook in place. Pick SAME pen with WRITING HAND. Write exact observation.
+Visibly open SAME notebook in place. Pick SAME pen with WRITING HAND. Write exact observation physically on page.
 
 SMALL BLACK GUTTER.
 
 V144 — SAME WRITING HAND / HYPOTHESIS / RELEASE
-Write exact hypothesis with SAME hand. Then lower/contact/release pen horizontally on notebook. WRITING HAND identity ends.
+Write exact hypothesis with SAME hand. Then real page contact/release of pen horizontally. WRITING HAND expires.
 
 SMALL BLACK GUTTER.
 
 V145 — TV ACTIVATION
-Only after pen release, Nari turns toward SAME TV.
+Only after pen release, Nari turns toward ACTUAL TV.
 SFX:
 `KZZT`
-Hostile TV takeover begins; no final message yet.
-Mandatory SAME-moment physically valid unplug proof: TV-side cord attached + continuous no-clipping cord + loose plug + empty wall socket.
+Hostile TV takeover begins on actual screen plane; no final message yet.
+Mandatory SAME-moment unplug proof: TV-side cord attached + no-clipping cord + loose plug + empty wall socket.
 
 ==================================================
 SEAM
 ==================================================
 
-Strip032 inherits exact open notebook orientation/scale/pen rest, Nari body/worn state, table/cabinet/two-pot topology and TV cord/plug/socket state.
+Strip032 inherits exact notebook/page handwriting plane, pen rest, Nari gaze/body/worn state, table/cabinet/two-pot topology and TV screen/cord/plug/socket state.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
-- notebook starts open without action
-- notebook scale/orientation/spine changes or clips/overlaps evidence
-- pen appears in hand without pickup
-- WRITING HAND switches anatomical side between V143/V144 or duplicate pen appears
-- writing appears ahead of pen-tip path/wording changes
-- pen floats/clips/disappears or turn happens before release
+- notebook starts open without action / scale/orientation/spine changes
+- pen grip impossible/fused/floating, WRITING HAND switches side, duplicate pen appears
+- handwriting appears ahead of pen, floats off page plane, ignores perspective/boundaries, wording changes
+- pen turn occurs before release or pen clips/disappears
+- TV hostile content floats outside actual screen plane/bezel
+- Nari looks toward wrong wall/TV location or leaves chair
+- TV cord clips/floats/changes length/slack/origin or wall proof contradicts unplug state
+- reflected/shadow duplicate Nari/Hyunwoo/unknown figure appears
 - table/two-pot/cabinet topology resets
-- TV cord clips through geometry/floats/changes length/slack/origin
-- wall plug/socket proof contradicts wall-unplug state
-- TV/plug/socket duplicates
-- Nari leaves chair/worn state changes
-- final message appears early/Hyunwoo appears
+- worn items clip/float/change side
+- final message appears early
 - text hides writing/outlet proof
 ```
 
