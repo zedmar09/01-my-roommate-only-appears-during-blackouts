@@ -38,7 +38,7 @@ ALLOWED CHANGES:
 - walk entry→kitchen
 - PHONE HAND places/releases phone on real counter plane; PHONE HAND expires
 - only then kneel/open SAME cabinet via real handle/hinge
-- lift SAME lid, place it on an ACTUAL visible/reference-compatible cabinet interior support plane beside/adjacent to pot without inventing a shelf
+- lift SAME lid, place it on an ACTUAL visible/reference-compatible cabinet support plane beside/adjacent pot without inventing shelf
 - fold back TOWEL2 once; reveal speaker/cord/plug on TOWEL1
 - dialogue; speaker stays inside/unplugged
 - rise/walk packet-safe route to knife; grip/lift SAME knife
@@ -46,135 +46,118 @@ ALLOWED CHANGES:
 END:
 - phone counter
 - cabinet OPEN
-- stockpot same real cabinet support plane
-- lid fully supported on a real existing cabinet base/shelf plane adjacent to pot according to attached reference; no invented shelf
+- stockpot same support plane
+- lid fully supported on real existing base/shelf plane adjacent pot
 - TOWEL1 liner, speaker/cord/plug, TOWEL2 folded back
-- knife in Nari hand; old knife floor spot empty; packet still floor
+- knife in Nari hand; old knife spot empty; packet still floor
 
 ==================================================
-CABINET HINGE / INTERIOR SUPPORT PLANE — NON-NEGOTIABLE
+PHONE / CABINET / LID GRIP ERGONOMICS — NON-NEGOTIABLE
 ==================================================
 
-The cabinet interior is permanent architecture. Use `unit-2407-fridge-cabinet-zone-detail-reference.webp`.
+PHONE:
+- PHONE HAND supports phone with real palm/fingers until counter contact/release
+- phone cannot float or fuse with fingertips
 
-Preserve:
-- same cabinet door
-- same hinge side
-- same handle side
-- same open direction/arc
-- same cabinet base and any shelf planes actually present in reference
-- same interior width/depth/height
+CABINET:
+- after phone release, hand grips usable cabinet handle/edge before door opens
+- fingers do not pass through panel/handle
 
-Do NOT invent a new shelf merely because earlier wording said “shelf beside pot.”
+LID/TOWEL:
+- lid is grasped at a real rim/handleable edge; fingers do not penetrate lid/pot
+- after movement lid is fully supported on real cabinet plane and released
+- TOWEL2 is pinched/grasped at fabric edge with believable finger contact; hand does not pass through towel/speaker/pot
 
-When lid is removed:
-- choose one ACTUAL existing flat support plane inside the same open cabinet (cabinet base or an already-visible real shelf) with enough clear area
-- lid lies flat/fully supported on that real plane adjacent to pot
-- lid does not hover, lean unsupported in midair, clip through cabinet wall/pot/door, or pass outside cabinet without visible movement
-- if no separate shelf is visible, use clear cabinet-base area beside pot; do not create one
-
-This exact lid support location persists through Strips 029–032.
+KNIFE:
+- V132 fingers wrap the SAME knife HANDLE only, never blade
+- knife leaves floor only after real handle grip
 
 ==================================================
-STABLE SCALE / CABINET FIT — ABSOLUTE
+CABINET HINGE / SUPPORT / FIT — ABSOLUTE
 ==================================================
 
-Use SAME world-space sizes from Strip008:
-- cabinet volume unchanged
-- stockpot unchanged
-- lid unchanged
-- speaker canonical scale unchanged
-- plug/cord unchanged
-- towel thickness unchanged
-
-Open state must remain physically possible:
-- pot fits inside cabinet
-- lid fits on chosen real support plane
-- folded TOWEL2 fits without passing through door/pot/speaker
-- cabinet door has open clearance
-
-Do not enlarge cabinet/shrink pot/speaker/lid/towels.
-
-==================================================
-PHONE HAND → COUNTER — ABSOLUTE
-==================================================
-
-1. PHONE HAND lowers phone
-2. phone contacts real counter plane
-3. fingers release
-4. phone remains flat/stable
-5. only then kneel/open cabinet
-No silent hand transfer/duplicate phone.
+Preserve same door, hinge/handle side, open arc, interior support planes/volume. Do not invent shelf.
+Lid lies flat/fully supported on actual referenced cabinet base/shelf adjacent pot.
+Stable world-space scale for cabinet/pot/lid/speaker/plug/towels.
 
 ==================================================
 EXACT REVERSE STACK / FLEXIBLE OBJECT PHYSICS — ABSOLUTE
 ==================================================
 
 Open sequence:
-1. cabinet handle contact → door opens on correct hinge
-2. SAME lid lifts from SAME pot
-3. `CLINK` at lid/pot contact
-4. lid moves to real support plane and is released
-5. TOWEL2 is grasped/folded back once and remains physically supported by pot rim/interior without floating
+1. handle contact → cabinet opens
+2. SAME lid lifts
+3. `CLINK`
+4. lid moves to real support plane/released
+5. TOWEL2 grasped/folded back once
 6. SAME speaker visible on TOWEL1
-7. speaker-side cord stays attached
-8. coiled cord/loose plug remain inside pot
+7. speaker-side cord attached
+8. coiled cord/loose plug remain pot
 
-Cords/towels obey gravity and no clipping:
-- cord cannot pass through speaker/pot/towel/lid/cabinet
-- loose plug cannot float
-- TOWEL2 cannot occupy same solid volume as speaker/pot wall
-- nothing exits a closed container retroactively
+Cord/towels obey gravity/no clipping. Loose plug cannot float; towel cannot occupy same solid volume as speaker/pot wall.
 
 ==================================================
-SPEAKER STATE — ABSOLUTE
+SPEAKER AUDIO SOURCE / NARI GAZE — NON-NEGOTIABLE
 ==================================================
 
-Same speaker unplugged since Strip006, canonical scale/body/cord. Voice is supernatural borrowed current, NOT physical reconnection. No plug inserted anywhere.
+Hyun-woo is VOICE-ONLY through the SAME screenless speaker physically visible inside the storage pot.
+- every Hyun-woo line must be sourced from that speaker body/indicator location
+- voice lettering/source direction cannot migrate to cabinet wall, fridge, ceiling, phone, TV or generic offscreen void
+- Nari's eyes/head orient toward the actual open cabinet/speaker when responding
+- reverse camera may flip screen-left/right but cannot move speaker source or make Nari look away from it
+- `I'M BORROWING JUST ENOUGH POWER TO TALK.` does NOT create physical power cord reconnection or glowing human figure
+
+==================================================
+REFLECTION / FALSE-HYUN-WOO BAN — ABSOLUTE
+==================================================
+
+No physical/reflected/shadow/silhouetted Hyun-woo may appear while Unit power is on.
+Do not show a face/body in speaker indicator, pot, cabinet surfaces, refrigerator, TV, windows or counter reflection.
+Speaker indicator remains tiny/nonfigurative and cannot cast a human shadow.
 
 ==================================================
 KNIFE / PACKET ROUTE — ABSOLUTE
 ==================================================
 
-After dialogue Nari rises and walks to SAME knife point without disturbing packet. Fingers grip SAME knife handle; knife leaves floor; old spot empty. Knife orientation/scale remains same settled object, simply lifted.
+After dialogue Nari rises and walks to SAME knife point without disturbing packet. Grip handle, lift knife; old spot empty. Packet remains separate.
+
+==================================================
+WORN ATTACHMENT — ABSOLUTE
+==================================================
+
+Scrunchie physically encircles SAME wrist; headphones physically rest around neck/hoodie without clipping through hair/jaw/neck during kneel/rise/walk.
 
 ==================================================
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Dialogue/`CREAK`/`CLINK` cannot cover:
-- phone release
-- cabinet handle/hinge
-- real lid support plane
-- TOWEL2 fold
-- speaker cord/plug
-- knife pickup/packet-safe route
+Dialogue/`CREAK`/`CLINK` cannot cover phone release, cabinet grip/hinge, lid support/release, towel grip/fold, actual speaker source, cord/plug or knife handle pickup.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
 V128 — PHONE RELEASE / CABINET OPEN
-PHONE HAND places phone counter and releases. Then kneel, actual handle, same cabinet opens.
+PHONE HAND places/releases phone counter. Then kneel, real handle grip, cabinet opens.
 SFX:
 `CREAK`
 
 SMALL BLACK GUTTER.
 
-V129 — LID / REAL SUPPORT PLANE / TOWEL REVEAL
-Lift SAME lid.
+V129 — LID / SUPPORT / TOWEL REVEAL
+Lift lid.
 SFX:
 `CLINK`
-Place/release on ACTUAL cabinet base/shelf plane from reference—never invented shelf. Fold back TOWEL2. Reveal SAME speaker + attached cord/loose plug on TOWEL1.
-HYUN-WOO voice:
+Place/release on actual support. Fold back TOWEL2. Reveal SAME speaker + attached cord/loose plug.
+HYUN-WOO voice from that speaker:
 `YOU SHOULD EAT BEFORE IT GETS COLD.`
 
 SMALL BLACK GUTTER.
 
 V130
-NARI:
+NARI toward actual speaker:
 `YOU'RE UNPLUGGED.`
-HYUN-WOO voice:
+HYUN-WOO voice from SAME speaker:
 `I'M BORROWING JUST ENOUGH POWER TO TALK.`
 
 SMALL BLACK GUTTER.
@@ -182,33 +165,32 @@ SMALL BLACK GUTTER.
 V131
 NARI:
 `IS THAT SAFE?`
-HYUN-WOO voice:
+HYUN-WOO voice from SAME speaker:
 `NO.`
 
 SMALL BLACK GUTTER.
 
 V132 — KNIFE RETRIEVAL
-Rise, packet-safe route, grip/lift SAME knife. Old knife spot empty. Open cabinet state remains unchanged.
+Rise, packet-safe route, real handle grip, lift SAME knife. Old knife spot empty.
 
 ==================================================
 SEAM
 ==================================================
 
-Strip029 inherits phone counter, exact open cabinet, lid on same REAL support plane, folded TOWEL2, speaker/cord/plug visible, knife in hand, packet floor.
+Strip029 inherits phone counter, exact open cabinet/lid/towel/speaker/cord/plug state, knife in hand, packet floor and voice source in SAME speaker.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - refs/geometry drift
-- cabinet hinge/handle/open direction flips
-- a new shelf/support plane appears that is not in reference
-- lid floats/clips/is unsupported or changes scale
-- cabinet/pot/speaker/towel/lid resized to fit
+- phone/cabinet/lid/towel/knife grips are impossible/fused/floating or hand contacts unusable surfaces
+- cabinet hinge flips/new shelf appears/lid unsupported
+- cabinet/pot/speaker/towel/lid resize
+- cord/plug/towels clip/float
+- Hyun-woo voice appears to come from wrong source or Nari looks away from actual speaker
+- physical/reflected/shadow Hyunwoo appears
 - phone not released before cabinet action
-- speaker/towel/cord/plug clip through solids or float
-- cabinet close/open same-moment state duplicates
-- physical Hyunwoo appears
-- knife/packet route wrong
-- text hides support/fit/contact proof
+- knife/packet route wrong or knife picked by blade
+- text hides support/source/contact proof
 ```
 
 ## Production Thread Attachments
