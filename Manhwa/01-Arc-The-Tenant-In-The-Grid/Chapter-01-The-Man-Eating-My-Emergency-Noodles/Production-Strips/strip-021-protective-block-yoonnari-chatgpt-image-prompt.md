@@ -1,10 +1,10 @@
 # Strip 021 — Protective Crossing / YOON NARI
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Hyun-woo's SAME physical movement from APPROVED Strip 020.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Hyun-woo's SAME movement from APPROVED Strip 020.
 
 PRODUCTION SCOPE
-V94–V97. Historical P13 mapping only.
+V94–V97.
 
 ATTACH — REQUIRED
 - `Character-References/nari-canonical-flat2d.webp`
@@ -19,127 +19,101 @@ ATTACH — REQUIRED
 - this Strip 021 prompt
 
 ==================================================
-REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE / START STATE — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 020 controls temporary pushed-chair/Nari-position/food/worn state only; correct permanent drift to canon rather than propagating it.
-Preserve exact table/chair/refrigerator geometry, pushed-chair state, Nari closer mark, SAME STEP FOOT/trailing-foot marks, SAME KNIFE HAND, SAME SCRUNCHIE WRIST, SAME headphones around neck, pot/chopsticks/candle/pantry/packet topology, fridge body/display, character identities.
-Never render V94–V97, P13, Strip 021, KNIFE HAND, SCRUNCHIE WRIST, STEP FOOT, beat/panel/scene labels, or production metadata anywhere, especially top-left.
-
-==================================================
-START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
-==================================================
+Attached WebPs permanent authority. Preserve exact world-space table/chair/fridge geometry and stable dining scale/depth.
+Never render V/P/strip/temp-state labels.
 
 START:
-- Hyun-woo = standing immediately beside SAME pushed-back/angled chair from Strip 020
-- Nari = fixed at SAME one-step-closer position
-- STEP FOOT/trailing-foot positions unchanged
-- knife low in SAME KNIFE HAND
-- SCRUNCHIE WRIST unchanged; SAME headphones around neck
-- SAME table/pot/noodles/used chopsticks/trivet/cloth/candle/seasoning-wrapper/pantry/empty outer packet topology fixed
-- SAME empty outer packet remains slightly nudged near STEP FOOT, not underneath it
-- refrigerator narrow display has contained hostile activity begun, no readable text yet
+- Hyun-woo standing immediately beside SAME pushed-back chair
+- Nari fixed at same one-step-closer marks, packet near STEP FOOT
+- knife low SAME KNIFE HAND; worn state unchanged
+- same dining topology
+- fridge hostile activity begun, no readable text
 - Unit power absent
 
 ALLOWED CHANGES:
-- V94 ONLY: Hyun-woo physically walks from chair side around/past SAME dining table through ONE continuous physically open route and stops BETWEEN Nari and refrigerator
-- route side chosen by first V94 movement slice becomes ONLY route for rest of V94
-- route must avoid Nari's planted feet, STEP FOOT packet evidence, pushed chair, table, counter, candle/pot zone, and refrigerator body
-- he does not touch Nari, packet, table, candle, pot, chair, or fridge
-- Nari does not move; her foot/hand/worn state remains unchanged
-- V95/V96 dialogue/eyelines only
-- V97 refrigerator narrow display types `YOON NARI`
+- V94 ONLY Hyun-woo walks one continuous collision-free path around one physical side of table to a true floor-plan blocking position BETWEEN Nari and refrigerator
+- route side fixed by first movement slice
+- no touching Nari/table/packet/chair/candle/pot/fridge
+- Nari stationary
+- V95/V96 dialogue/eyelines
+- V97 fridge displays `YOON NARI`
 
 END:
-- Hyun-woo = stable blocking position between Nari and fridge
-- Nari = unchanged behind him with same STEP FOOT/trailing-foot marks, KNIFE HAND, SCRUNCHIE WRIST, headphones
-- pushed-back chair remains where Strip 020 left it
-- all table/food/candle/pantry/packet topology unchanged
-- refrigerator display = `YOON NARI` active
+- Hyun-woo at stable real blocking mark
+- Nari remains behind him in threat-to-Nari line from refrigerator
+- pushed chair/table/topology unchanged
+- fridge `YOON NARI`
 
 ==================================================
-ONE-SIDE WALKING ROUTE / COLLISION REALITY — NON-NEGOTIABLE
+TRUE BLOCKING DEPTH — NON-NEGOTIABLE
 ==================================================
 
-V94 must show one continuous real route:
-1. start beside SAME pushed-back chair
-2. feet orient toward one physically available passage around table
-3. first movement slice establishes physical side/path
-4. all subsequent V94 movement continues THAT SAME side/path
-5. body walks around/past table edge using real floor clearance
-6. body does not pass through table/chairs/counter/Nari/refrigerator
-7. route remains clear of Nari's STEP FOOT, trailing foot, and SAME nudged packet
-8. Hyun-woo does not kick/step on/move packet
-9. chair remains behind, pushed back
-10. Hyun-woo stops at physically plausible blocking mark between Nari and refrigerator
+“Between Nari and refrigerator” is a story-world floor-plan condition, NOT merely a drawing-layer overlap.
 
-Reverse shot may flip screen direction but may not teleport him to opposite story-world side or create shortcut through Nari/packet/furniture.
-At least one transition composition must make start→route→destination readable.
+At final V94/V95 blocking mark:
+- draw/derive a real floor-space line from refrigerator display/zone toward Nari's position
+- Hyun-woo's body/feet occupy an open floor point on that line or clearly intercept the direct spatial path
+- Nari remains on the protected side behind him
+- refrigerator remains on opposite side
+- his feet are on the same floor plane as room furniture, not floating in foreground
+- he must not stand behind Nari or beside her while merely being drawn larger/foreground
+- camera perspective may foreshorten the line, but floor-plan ordering remains refrigerator → Hyun-woo → Nari
+
+Use visible environment anchors/table edge/feet/depth to prove blocking. A close crop of Hyun-woo overlapping Nari's silhouette without floor geometry is insufficient.
 
 ==================================================
-NARI STATIONARY BODY-STATE LOCK — ABSOLUTE
+ONE-SIDE WALKING ROUTE / CLEARANCE — ABSOLUTE
 ==================================================
 
-Nari remains stationary for entire Strip 021:
-- same STEP FOOT/trailing-foot floor marks
-- same packet relation near STEP FOOT
-- knife low SAME KNIFE HAND
-- SCRUNCHIE WRIST same physical wrist
-- SAME headphones around neck
+V94:
+1. start beside exact pushed-back chair
+2. feet orient to one real available passage
+3. first movement establishes side/path
+4. subsequent movement stays SAME physical side
+5. route uses real floor clearance around table edge
+6. body/feet do not pass through table/chair/counter/refrigerator/Nari
+7. route clears Nari's feet + packet with visible safety margin
+8. Hyun-woo does not kick/step on packet
+9. pushed chair remains behind
+10. stop at true blocking mark
 
-No body slide, silent step, hand transfer, wrist swap, headphone removal, or packet movement.
-
-==================================================
-PROP TOPOLOGY / EYELINE MICRO-CONTINUITY — ABSOLUTE
-==================================================
-
-V95 `NARI. LOOK AT ME.` requires Hyun-woo eyes/body oriented toward Nari from new block position.
-V96 Nari may look past him toward actual refrigerator without stepping around him. Knife remains low SAME KNIFE HAND.
-
-Reverse shots do NOT swap:
-- pot/trivet location
-- folded cloth hot-handle side
-- candle/holder position
-- seasoning wrapper table location
-- used chopsticks fixed pot rest point
-- pushed chair location
-- five pantry packets
-- SAME nudged outer packet floor location near STEP FOOT
+His body cannot clip through table edge merely because upper torso is hidden by a close-up.
 
 ==================================================
-SAME-OBJECT DETAIL / NO DUPLICATION — ABSOLUTE
+SCALE / DEPTH / SAME-OBJECT — ABSOLUTE
 ==================================================
 
-Any route/fridge/packet detail is a view of the SAME objects in the same world state. Do not duplicate Hyun-woo, packet, chair, fridge, or table because a close-up/inset appears.
+Hyun-woo remains canonical adult scale relative to table/chairs/Nari. Do not enlarge him in world space to make him appear protective.
+Any route/fridge/packet detail is SAME physical scene; no duplicate Hyun-woo/chair/fridge/packet.
+Reverse shots may flip screen-left/right but cannot reverse floor-plan near/far ordering.
 
 ==================================================
-TEXT / BALLOON / DEVICE EVIDENCE SAFETY — ABSOLUTE
+NARI STATIONARY STATE — ABSOLUTE
 ==================================================
 
-Dialogue balloons/tails, `TIK... TIK...`, and fridge text must not cover:
-- walking route/body clearance
-- Nari feet/packet evidence
-- fridge narrow display
-- KNIFE HAND state when visible
+STEP FOOT/trailing foot, packet relation, KNIFE HAND, SCRUNCHIE WRIST, headphones remain exact. Nari may turn head/eyeline only, no step/body slide.
 
 ==================================================
-TEXT / NARRATION DESIGN — ABSOLUTE
+PROP TOPOLOGY — ABSOLUTE
 ==================================================
 
-No narration scripted. `YOON NARI` = refrigerator DEVICE TEXT only; `TIK... TIK...` = display typing SFX. Human lines speech. No floating/name/technical labels or generic ominous narration.
+Pot/trivet/handle/cloth/candle/wrapper/chopsticks/chair/pantry/packet keep exact scale, orientation, physical sides and depth established earlier.
 
 ==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
+TEXT / DEVICE EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Use SMALL BLACK GUTTER between distinct movement/dialogue/hostile slices. If walking route and fridge close-up share row, use DIAGONAL BLACK DIVIDER. No black technical bar at 020→021 or 021→022 A/E seam when artwork/effect continues.
+Dialogue/`TIK... TIK...`/fridge text cannot cover route feet, blocking depth anchors, Nari/packet relation or fridge display.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
-V94 — COMPLETE ONE-SIDE PACKET-SAFE CROSSING
-Show readable continuous path from chair → one chosen side around table → protective blocking position, while Nari/STEP FOOT/packet stay fixed. No dialogue.
+V94 — TRUE PROTECTIVE CROSSING
+Show readable chair-side start → same-side route → final floor-plan blocking mark. No dialogue.
 
 SMALL BLACK GUTTER.
 
@@ -149,50 +123,41 @@ HYUN-WOO:
 
 SMALL BLACK GUTTER.
 
-V96 — NARI LOOKS PAST HIM
+V96
 NARI:
 `THE FRIDGE IS OFF.`
 HYUN-WOO:
 `THAT DOESN'T STOP IT.`
 HYUN-WOO:
 `DON'T LOOK AT THE SCREEN.`
-Nari stays behind him; no move beside refrigerator.
+Nari remains behind him.
 
 SMALL BLACK GUTTER.
 
 V97 — HOSTILE NAME
-Same narrow refrigerator display, embedded diagnostic effect.
-SFX:
+SFX at narrow refrigerator display:
 `TIK... TIK...`
-REFRIGERATOR DEVICE TEXT:
+REFRIGERATOR:
 `YOON NARI`
-Broken/doubled white + restrained black pixel seam crawl. No reflection/figure.
 
 ==================================================
-POWER / NO DEAD BOTTOM
+SEAM
 ==================================================
 
-Unit power absent. Candle small local light. Refrigerator activity does not restore power.
-Use V97 + protective geometry through lower canvas; no giant blank tail.
-
-SEAM OUT — E
-Strip 022 starts same blocking positions, same Nari stationary body state, pushed chair/table topology, fridge already showing `YOON NARI`.
+Strip022 begins SAME real floor-plan order refrigerator → Hyun-woo → Nari, same foot/packet/table/chair state.
 
 AUTOMATIC REJECT IF
-- any production/KNIFE HAND/SCRUNCHIE WRIST/STEP FOOT label appears
-- attached references/geometry drift
-- permanent drift previous strip propagated over canon
-- Hyun-woo teleports, passes through furniture/Nari, switches table side, or disturbs packet/feet
-- route start/path/destination unreadable
-- Nari moves/steps beside fridge/touches Hyun-woo
-- Nari hand/wrist/headphone state changes
-- pushed chair resets or table/food/candle/packet topology moves/swaps
-- refrigerator uses TV full-screen takeover/body transforms
-- `YOON NARI` becomes dialogue/floating caption
-- close-up duplicates person/object state
-- text hides route/packet/display evidence
-- invented narration appears
-- internal black separators missing/oversized
+- production/temp-state label appears
+- refs/geometry/scale drift
+- Hyun-woo teleports/switches route side/passes through solids
+- final “blocking” is only 2D foreground overlap and floor-plan order is false/ambiguous
+- Hyun-woo enlarged/shrunk in world space for composition
+- Nari moves or packet disturbed
+- pushed chair resets
+- table topology/depth swaps
+- fridge becomes TV-like
+- text hides route/blocking/display proof
+- invented narration
 ```
 
 ## Production Thread Attachments
