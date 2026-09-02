@@ -53,8 +53,7 @@ LEGAL TIME CUTS
 Time passage may change mundane noncritical clutter, but cannot erase story-critical evidence, reset canon, or create a second copy.
 
 WHOLE-BODY ANATOMICAL TOPOLOGY — ABSOLUTE
-Every visible character remains one coherent human body. No extra/missing/duplicated limbs, detached hands/feet/ears/hair masses, impossible joint directions, fused body parts, or close-up limb that cannot connect to the adjacent wide-shot body.
-Partial occlusion is allowed only when the hidden body connection remains physically possible.
+Every visible character remains one coherent human body. No extra/missing/duplicated limbs, detached hands/feet/ears/hair masses, impossible joint directions, fused body parts, or close-up limb that cannot connect to the adjacent wide-shot body. Partial occlusion is allowed only when the hidden body connection remains physically possible.
 
 LIMB OWNERSHIP / ANATOMICAL SIDE — ABSOLUTE
 A close-up hand/wrist/foot/arm/leg belongs to the SAME character and SAME physical side established by adjacent views. Preserve sleeve/glove/tattoo/scrunchie/skin/clothing cues needed to prove ownership. Reverse shots may flip screen-left/right but never limb ownership.
@@ -63,10 +62,10 @@ PERMANENT CHARACTER LANDMARK SIDE — ABSOLUTE
 - Nari: exactly one tiny black beauty mark beside the anatomical LEFT corner of her mouth; never mirrored to anatomical right or duplicated.
 - Hyun-woo: tattoo coverage/pattern relationships remain on the same anatomical neck/collarbone/shoulder/arm regions; mask attachment and low-tied hair construction do not mirror/change.
 - Mrs. Na: same square jade earrings, same analog-watch wrist, same dark gloves unless explicitly removed.
-- Seungjae: same watch wrist, one earbud per ear when worn, same medium-brown hair part/silhouette.
+- Seungjae: same watch wrist, one earbud per ear when worn, same medium-brown hair part/silhouette; exactly age 30.
 
 FACE / HAIR / AGE / BUILD IDENTITY — ABSOLUTE
-Expression, reverse camera, close-up, darkness or powered light cannot recast a character. Preserve face proportions, age presentation, hair length/part/tie/fringe, height/build, and permanent marks/accessories from canonical WebPs.
+Expression, reverse camera, close-up, darkness or powered light cannot recast a character. Preserve face proportions, age presentation, hair length/part/tie/fringe, height/build and permanent marks/accessories from canonical WebPs.
 
 WARDROBE / LOCAL-COLOR CONTINUITY — ABSOLUTE
 Within one continuous scene, clothing construction and signature local colors stay the same physical items/colors unless a legal cut or scripted wardrobe change says otherwise. Lighting may change value naturally but may not change identity hue/material. Nari's dark-plum hair/yellow scrunchie, Hyun-woo's matte-black mask/top and tattoo map, Mrs. Na's mauve coat/jade earrings/dark gloves, and Seungjae's medium-brown hair/youthful office-casual outfit remain stable.
@@ -138,7 +137,7 @@ TOP-TO-BOTTOM READER ORDER — ABSOLUTE
 Reader-facing action, dialogue, narration, device text and SFX must read in the exact scripted causal order. Balloon order may not make a later line read before an earlier line. SFX must sit at the physical action moment, not visually before its cause. If one composition cannot preserve order, use more vertical space or unlabeled sub-slices without rewriting text.
 
 LETTERING EVIDENCE SAFETY
-Speech balloons, narration, device text, handwriting and SFX must never cover continuity-critical action/scale/orientation/depth/gaze evidence. Reflow lettering/composition instead.
+Speech balloons, narration, device text, handwriting and SFX must never cover continuity-critical action/scale/orientation/depth/gaze/identity evidence. Reflow lettering/composition instead.
 
 SFX / LETTERING
 Every sound: PHYSICAL SOURCE → ACTION → SOUND → TIMING → PLACEMENT → STATE CHANGE → NEXT CONSEQUENCE. No filler SFX.
@@ -158,9 +157,9 @@ Do not declare Chapter 1 production-complete from prompts/reference availability
 
 ## Ninth Deep-Hardening Binding Note — Absolute
 
-The current Strip 001–032 prompts are being clean-room audited through the **ninth** `manhwa-2d-production-auditor` hardening pass. The eighth PASS is deliberately not accepted as proof.
+The current Strip 001–032 prompts have completed the **ninth** `manhwa-2d-production-auditor` hardening pass. The eighth PASS was deliberately not accepted as proof.
 
-The ninth pass targets character-rendering failures that can survive correct story, causality, topology, visual logic and presentation integrity:
+The ninth pass targeted:
 - extra/missing/duplicated limbs or impossible body connections
 - close-up hand/foot/arm/leg ownership changing from the adjacent body view
 - permanent character landmarks mirroring under reverse cameras
@@ -172,6 +171,13 @@ The ninth pass targets character-rendering failures that can survive correct sto
 - clothing/hair/accessory occlusion hiding impossible anatomy
 - visible acting contradicting dialogue/thought/device/audio ownership
 
-`Manhwa/ninth-hardening-character-topology-identity-addendum.md` is binding on all 32 strips together with the seventh/eighth addenda and every earlier rule. High-risk strips repeat the relevant ninth-pass requirements locally.
+`Manhwa/ninth-hardening-character-topology-identity-addendum.md` is binding on all 32 strips together with the seventh/eighth addenda and every earlier rule.
 
-Previously rejected or pre-ninth rendered attempts are not approved previous-strip continuity authorities. A ninth post-repair clean-room Strip 001→032 audit is required before the ninth status may be assigned.
+Local ninth rewrites were required for **001, 002, 006, 012, 013, 014, 017, 018, 023, 024, 031, 032**. The other 20 strips were re-read under the ninth global rules without a justified deterministic local rewrite.
+
+During the post-repair clean-room read, Strip 001 exposed one additional first-image identity/topology gap and was repaired. The current package was then rechecked under the ninth gates. No additional deterministic prompt/canon defect remains at the textual/reference level.
+
+Current prompt/reference verdict:
+**NINTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+
+Previously rejected or pre-ninth rendered attempts are not approved previous-strip continuity authorities. Retesting begins with a brand-new Strip 001 under the current ninth-pass package, and actual pixel-level visual QA remains mandatory before Strip 002 may proceed.
