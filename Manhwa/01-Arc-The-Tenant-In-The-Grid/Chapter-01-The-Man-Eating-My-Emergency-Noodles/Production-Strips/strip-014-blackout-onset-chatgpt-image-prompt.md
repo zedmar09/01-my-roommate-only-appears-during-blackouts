@@ -22,7 +22,7 @@ REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
 Attached references are binding permanent authority. Preserve Nari's approved face/body/hair, desk geometry, emergency-tray position, hallway/lamp position, apartment axis, and lighting-state logic exactly.
-Never render V65–V67, P9, Strip 014, beat/panel/scene labels, or any production metadata anywhere, especially top-left. `12:43 A.M.` is reader-facing narration only because the script explicitly contains it; it must not look like a production V-label.
+Never render V65–V67, P9, Strip 014, beat/panel/scene labels, or production metadata anywhere, especially top-left. `12:43 A.M.` is reader-facing narration only because the script explicitly contains it; it must not look like a production V-label.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
@@ -31,168 +31,142 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 START:
 - legal later-night cut: Nari already at canonical work desk
 - home state: oversized graphic hoodie, loose black trousers, bare feet
-- SAME headphones rest physically AROUND HER NECK; they are not on ears, desk, floor, or missing
+- SAME headphones rest physically AROUND HER NECK; not ears/desk/floor
 - long dark-plum hair LOOSE at approved mid-back length
-- yellow scrunchie is around ONE physical wrist; first clear V65 view establishes production-only `SCRUNCHIE WRIST` unless canonical card already makes the anatomical wrist unambiguous
+- yellow scrunchie around ONE physical wrist; first clear V65 establishes production-only `SCRUNCHIE WRIST`
 - ordinary Unit 2407 supplied power ON
 - hallway mains lamp visibly ON
 - monitor/room light/purifier/refrigerator powered normally
-- phone = desk, screen dark/not story-active
+- phone desk, screen dark/not story-active
 - emergency tray immediately right of keyboard contains flashlight + radio + practical knife fully sheathed, handle toward chair
 - front door closed/latch engaged
 
 ALLOWED CHANGES:
-- one unscripted-by-Nari power-loss event cuts ordinary Unit 2407 supplied power
-- monitor/light/hallway lamp/purifier/refrigerator stop together as one causal event
-- Nari turns/reacts; she does NOT touch lamp/switch/phone/tools/knife
-- SCRUNCHIE WRIST does not change
-- headphones remain around neck; no removal/transfer occurs
+- one power-loss event cuts ordinary supplied power
+- monitor/light/hallway lamp/purifier/refrigerator stop together
+- Nari turns/reacts; she touches no lamp/switch/phone/tools/knife
+- SCRUNCHIE WRIST/headphones remain physically attached in same body locations
 - camera may cut outside to establish citywide outage
 
 END:
-- Unit 2407 ordinary power OFF
-- hallway lamp OFF because supply failed, not because Nari switched it
-- phone remains dark at desk
-- flashlight/radio/sheathed knife remain in tray, untouched
+- Unit power OFF
+- hallway lamp OFF because supply failed
+- phone dark desk
+- flashlight/radio/sheathed knife untouched tray
 - Nari hair/home outfit unchanged
-- yellow scrunchie remains on SAME SCRUNCHIE WRIST
-- SAME headphones remain around neck
+- scrunchie SAME wrist; headphones SAME neck
 - citywide outage confirmed
 
 ==================================================
-TEMPORARY WORN-STATE / ANATOMICAL-SIDE LOCK — ABSOLUTE
+SCRUNCHIE / HEADPHONES / HAIR BODY-ATTACHMENT — NON-NEGOTIABLE
 ==================================================
 
-For the remainder of this uninterrupted Chapter 1 night sequence, until a visible scripted action changes it:
-- `SCRUNCHIE WRIST` = the same physical anatomical wrist established here
-- `HEADPHONES-AT-NECK` = the same headphones remain around Nari's neck
+SCRUNCHIE:
+- yellow scrunchie physically encircles SAME wrist with believable contact/compression
+- it does not float beside wrist, sink halfway through arm, move into hair, duplicate, or switch wrists
+- sleeve may partially cover it only with plausible front/behind order
 
-Reverse camera shots may flip screen-left/screen-right but may NOT move the scrunchie to the opposite anatomical wrist.
-Headphones may be partially occluded by hair/hoodie/camera framing, but they do not disappear, move to her ears, become a second pair, or appear on another surface.
-No later Chapter 1 script contains a removal/transfer action, so later strips must inherit this temporary state.
-These production labels are NEVER reader-facing text.
+HEADPHONES:
+- SAME headphone band/earcups physically rest around neck/collar/hoodie
+- band/earcups do not pass through Nari's neck, jaw, hair, hoodie, each other, or float off her body
+- long loose hair may fall in front of/behind parts of headphones only with consistent depth; hair cannot cut through headphone band/earcups
+- headphones remain around neck through outage; no movement to ears/surface
+
+These body attachments become continuity authority for the rest of Chapter 1 night sequence.
+
+==================================================
+POWER-LOSS SHADOW / REFLECTION DISCIPLINE — ABSOLUTE
+==================================================
+
+V65 powered baseline may have restrained shadows only from real powered lights according to attached lighting reference.
+At V66 when Unit power cuts:
+- shadows/highlights from those powered sources disappear/change consistently with the loss of light
+- do not keep a strong cast shadow from a light that is now OFF
+- do not invent cinematic rim light, moon spotlight, phone glow, or refrigerator/monitor afterglow
+- no shadow-person, mysterious silhouette, reflected figure, face, hand, or Hyun-woo is allowed
+- matte screens/windows/appliances must not show an identifiable reflected duplicate Nari or unknown person
+
+V67 city darkness is exterior evidence of same outage, not an excuse for supernatural silhouettes in Unit 2407.
 
 ==================================================
 POWER-LOSS MICRO-CONTINUITY — ABSOLUTE
 ==================================================
 
-V65 must establish powered baseline clearly enough that V66 is a real state change, not just darker art.
-V66 is ONE simultaneous supply-loss event. Do not show hallway lamp already dark in V65, and do not have Nari switch it off.
-The room does not instantly change furniture/prop positions when power cuts. Blackout changes illumination/operating state only.
-Phone must not light up because of outage. Practical knife cannot move out of sheath/tray.
+V65 must establish powered baseline clearly enough that V66 is a real state change.
+V66 is ONE simultaneous supply-loss event. Hallway lamp is not already dark in V65 and Nari does not switch it.
+Furniture/props do not move when power cuts. Phone does not light. Knife stays sheathed/tray.
+V67 exterior city darkness is same outage.
 
-V67 exterior city darkness is evidence of same outage, not a second event. Do not imply Unit 2407 alone went dark while city remains powered.
+==================================================
+CAMERA / EYE-LINE CONTINUITY — ABSOLUTE
+==================================================
+
+V65 Nari is oriented to actual desk/monitor work area.
+V66 when power dies, her head/eyes turn toward the real hallway lamp direction to establish she did not switch it off.
+A reverse shot may flip screen-left/right but cannot place the hallway/lamp on the wrong physical side or make her gaze point away from it.
 
 ==================================================
 NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-Use scenario-specific caption treatments:
-- `LATER THAT NIGHT — 12:43 A.M.` = compact time/location caption, reader-facing story narration, not technical metadata
-- `EVERYTHING SHUT OFF AT ONCE.` = sharper event-state narration, visually firmer than time caption
-- `THEN NARI SAW THE CITY WAS DARK TOO.` = ominous confirmation caption with more breathing room against exterior darkness
-Do not force one identical narration box on all three. Keep one coherent typography family; no glitch/cinematic effects and no top-left V-style label treatment.
+- `LATER THAT NIGHT — 12:43 A.M.` = compact story time/location caption
+- `EVERYTHING SHUT OFF AT ONCE.` = firmer event-state caption
+- `THEN NARI SAW THE CITY WAS DARK TOO.` = ominous confirmation with breathing room
+Do not force identical narration boxes or top-left V-style tags.
 
 ==================================================
-LEGAL TIME / LOCATION CUT — ABSOLUTE
+TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Strip 014 begins later that night with Nari already at canonical Unit 2407 work desk.
-Do not show commute, arrival, outfit change, or Seungjae.
-Nari wears locked home/blackout-night state: oversized graphic hoodie, loose black trousers, bare feet, headphones around neck.
-
-CURRENT NARI CHARACTER-CARD STATE — ABSOLUTE:
-- preserve canonical LONG DARK-PLUM hair at approved mid-back length
-- hair worn LOOSE; do not tie, shorten, bob, or hide its length at this legal cut
-- yellow scrunchie remains around SAME SCRUNCHIE WRIST, not in hair
-- beauty mark and all other canonical identity details remain unchanged
-
-This loose-hair / SCRUNCHIE-WRIST / headphones-at-neck state persists through the remaining Chapter 1 strips unless a visible scripted action changes it. None is scripted.
-
-==================================================
-DESK / POWER START STATE — ABSOLUTE
-==================================================
-
-Before outage:
-- normal supplied Unit 2407 power
-- hallway mains lamp visibly ON
-- emergency tray immediately right of keyboard
-- tray contains flashlight, portable radio, practical knife fully sheathed with handle toward chair
-- phone at desk, screen not story-active
-- front door closed/latch engaged
-Canonical apartment axis unchanged.
-
-==================================================
-TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
-==================================================
-
-Narration and `CLICK` must not cover the hallway-lamp powered→off proof, tray/tool state, Nari's hands, or the visible wrist/headphone continuity when those are shown.
-If text conflicts with state proof, reflow text.
-
-==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
-==================================================
-
-Every distinct beat uses SMALL BLACK GUTTER. During outage these gutters can visually merge with charcoal reader field, but must still function as deliberate beat separation, not huge empty darkness.
-If two separate shots share one row, use diagonal black divider.
-Do not add visible black technical seam at 014→015; outage field stitches continuously.
+Narration/`CLICK` must not cover hallway lamp powered→off proof, tray/tool state, Nari hands, scrunchie/headphone body attachment when shown.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
-V65 — POWERED DESK / WORN-STATE ESTABLISHMENT
+V65 — POWERED DESK / WORN STATE
 NARRATION:
 `LATER THAT NIGHT — 12:43 A.M.`
-Hallway lamp clearly ON. Establish Nari's SAME headphones around neck and SAME SCRUNCHIE WRIST while preserving canonical hair/outfit.
+Hallway lamp clearly ON. Establish headphones physically around neck and scrunchie on SAME wrist.
 
 SMALL BLACK GUTTER.
 
 V66 — ONE POWER-LOSS EVENT
-Without Nari touching any switch, monitor dies, room light cuts, hallway lamp darkens, purifier stops, refrigerator goes silent. Nari turns toward hallway lamp so reader knows she did not switch it off.
+Without Nari touching switch, monitor dies, room light cuts, hallway lamp darkens, purifier stops, refrigerator silent. Nari turns toward actual hallway lamp.
 SFX:
 `CLICK`
 NARRATION:
 `EVERYTHING SHUT OFF AT ONCE.`
-Headphones and SCRUNCHIE WRIST do not change.
+No invented shadow/reflected figure.
 
 SMALL BLACK GUTTER / DARK TRANSITION.
 
 V67 — CITYWIDE CONFIRMATION
-Large exterior Seoul residential view; surrounding buildings/traffic signals are dark too.
+Large exterior Seoul view; surrounding buildings/traffic signals dark.
 NARRATION:
 `THEN NARI SAW THE CITY WAS DARK TOO.`
-No fake logos/signage.
 
 ==================================================
-POWER / TEXT LOCK
+SEAM
 ==================================================
 
-No screen activates after outage. No candle yet. Corridor emergency power must not read as Unit 2407 interior power.
-Use only exact narration/SFX above.
-
-NO DEAD BOTTOM — ABSOLUTE
-Continue dark skyline/atmosphere meaningfully to lower edge. No giant unused black tail.
-
-SEAM OUT — E
-Strip 015 returns to same desk during SAME outage. Preserve loose hair, SCRUNCHIE WRIST, headphones-at-neck, home outfit, desk/tool state. No bright line or black-bar seam separate from continuous blackout field.
+Strip015 returns to same desk/outage. Preserve loose hair, SAME scrunchie wrist, physically attached headphones-at-neck, outfit, tray/tools, blackout shadow state.
 
 AUTOMATIC REJECT IF
-- any V/P/strip/beat/panel/scene production label appears
-- `12:43 A.M.` styled like production marker instead of story narration
-- attached references redesigned/mirrored
-- Seungjae/Hyun-woo appears
-- Nari stays in after-work wardrobe
-- long dark-plum hair becomes tied/short/bobbed
-- scrunchie switches wrist, moves into hair, duplicates, or disappears
-- headphones disappear, move to ears/surface, or duplicate without visible action
-- hallway lamp off before outage or Nari switches it off
+- production label appears
+- refs/geometry drift
+- Seungjae/Hyunwoo appears
+- hair tied/shortened
+- scrunchie floats/clips/switches wrist/moves to hair/duplicates
+- headphones float/clip through neck/hair/hoodie, move to ears/surface, or duplicate
+- hallway lamp off before outage / Nari switches it
 - phone/screen turns on
-- practical knife/flashlight/radio move during power loss
-- blackout changes architecture/furniture positions
-- only apartment dark while city powered
-- narration obscures power/worn-state evidence or uses one generic repeated box
-- black slice spacing becomes dead void
+- tools move
+- blackout keeps impossible powered shadows or invents rim light/glow
+- reflected/shadow duplicate Nari/unknown person/Hyunwoo appears
+- Nari gaze points to wrong hallway/lamp direction
+- narration obscures evidence or uses one generic repeated box
+- black spacing becomes dead void
 ```
 
 ## Production Thread Attachments
