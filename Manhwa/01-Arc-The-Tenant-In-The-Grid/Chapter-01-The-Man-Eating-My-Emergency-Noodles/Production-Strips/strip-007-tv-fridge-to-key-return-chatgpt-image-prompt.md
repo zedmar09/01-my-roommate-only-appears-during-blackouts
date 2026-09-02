@@ -43,12 +43,12 @@ START:
 - Unit 2407 ordinary supplied room power ON
 
 ALLOWED CHANGES:
-- before walking anywhere, Nari physically rises from the SAME crouch: feet remain planted → knees/hips extend → torso comes upright → she reaches stable standing balance at the TV/outlet zone
-- only after the rise is complete does Nari physically walk TV zone → entry shelf and pick up SAME brass key
+- before walking anywhere, Nari physically rises from the SAME crouch: feet remain planted → knees/hips extend → torso comes upright → stable standing balance at TV/outlet zone
+- only after rise is complete does Nari walk TV zone → entry shelf and pick up SAME brass key
 - TV displays clean helpful warning while staying unplugged FROM WALL
 - Nari turns/approaches refrigerator while holding same key
 - refrigerator display briefly shows hostile message then returns dark
-- Nari physically walks refrigerator → entry and returns same key to same tray
+- Nari walks refrigerator → entry and returns same key to same tray
 
 END:
 - TV still unplugged from wall: appliance-side cord attached, loose wall plug, empty SAME Chapter 1 wall socket detail
@@ -65,215 +65,154 @@ CROUCH → STAND → WALK BODY CHAIN — NON-NEGOTIABLE
 ==================================================
 
 Strip 007 may not pretend the crouch from Strip 006 never happened.
-
-V31 must begin with the inherited crouched state and visibly prove:
-1. SAME feet remain at the TV/outlet area
-2. Nari shifts weight for balance
-3. knees/hips extend from crouch
-4. torso rises
-5. she reaches an upright standing state
-6. only then does she turn/orient toward the entry route
-7. only then does the first walking step occur
-
-If needed, use one compact UNLABELED rise sub-slice before the walking/key-pickup slice. Never render a production label for that sub-slice.
-
-Do not cut directly from crouched Strip 006 to Nari already walking near entry.
+V31 must begin inherited crouch and visibly prove feet planted → weight balance → knees/hips extend → torso rises → stable standing → turn to entry → first walking step.
+If needed, use compact UNLABELED rise sub-slice. Never render a production label.
 
 ==================================================
 TV WALL-OUTLET CONTINUITY — CANON-SUBORDINATE
 ==================================================
 
-Strip 007 MUST inherit the same canon-compatible TV wall-outlet micro-detail from Strip 006 for Chapter 1 continuity, but that generated micro-detail never outranks the attached environment/object WebPs.
-
-Preserve for this chapter:
-- same story-world wall within canonical TV/living zone
-- same height/orientation/faceplate relation already established
-- same relation to TV stand/wall/furniture
-- same cord-origin side and route family from TV body to loose wall plug
-
-A reverse shot may visually place outlet on opposite side of image frame, but it remains same physical location.
-Do NOT redraw a more convenient socket behind another object, on floor, TV stand, or different wall.
-
-If any attached canonical WebP clearly contradicts the prior generated outlet micro-detail, canonical wins: recompose/correct the outlet detail instead of preserving a generated mistake.
+Strip 007 inherits the same canon-compatible TV wall-outlet micro-detail from Strip 006, subordinate to attached WebPs.
+Preserve same wall, height/orientation/faceplate relation, TV/furniture relationship, cord-origin side, route family, slack and loose-plug gravity state.
+Reverse shot may move it on screen but not in story space.
 
 ==================================================
-TV WALL-SOCKET STATE MUST CARRY FORWARD — ABSOLUTE
+TV / FRIDGE PHYSICAL TEXT-PLANE LOCK — ABSOLUTE
 ==================================================
 
-Strip 007 inherits completed Strip 006 physical truth:
-- cord remains attached to TV body
-- cord runs to SAME loose wall-end plug
-- plug is OUT of SAME Chapter 1 wall-mounted socket detail
-- socket is EMPTY
+Both device messages must remain physically attached to their actual screens.
 
-If TV or plug/socket is visible in V31/V32, show that exact state. If off-camera later, state still exists logically.
-Do NOT show cord removed from TV body. Do NOT silently reinsert plug. Do NOT move wall socket against canonical geometry.
+TV V32:
+- `DON'T LOOK AT THE FRIDGE.` is inside the SAME TV image area only
+- clean helpful text follows TV screen plane/perspective
+- never crosses bezel/stand/wall or floats as narration/speech
 
-If a plug/socket close-up is used, it is a SAME-OBJECT detail of this TV state and must not create a second plug/socket or an incompatible still-plugged duplicate in the wide view.
+REFRIGERATOR V33:
+- `TENANT PROFILE: PENDING` appears only inside the SAME narrow built-in display
+- text follows that narrow display plane/perspective and does not spread across doors/body/room
+- hostile black-pixel/doubled treatment remains contained to display/seams
+
+If close-ups make text front-readable, they are SAME-object representational views, not detached UI cards or additional screens.
+When V34 says message gone, the SAME refrigerator display is fully dark; no floating leftover text remains.
+
+==================================================
+CAMERA AXIS / EYE-LINE / TARGET CONTINUITY — ABSOLUTE
+==================================================
+
+Track Nari's gaze and body target through the real Unit 2407 geography:
+- V31 after key pickup, when addressing TV, Nari faces/looks toward the actual living-room TV location
+- V32 her reaction remains oriented to SAME TV
+- V33 flicker/fridge activation redirects her head/eyes toward the actual refrigerator location while key stays in hand
+- V34 approach continues toward that same refrigerator, not a camera-convenient opposite wall
+- V35 she turns away and walks actual refrigerator→entry route
+
+Reverse shots may flip screen-left/right but cannot make Nari look toward a different wall/appliance or silently cross the action axis so TV/fridge/entry exchange world sides.
+
+==================================================
+REFLECTION / SHADOW FALSE-DUPLICATE BAN — ABSOLUTE
+==================================================
+
+Do not create identifiable reflected Nari/Hyun-woo/unknown people in TV screen, refrigerator doors/display, windows, counters or other surfaces.
+No reflection, shadow, face, hand or silhouette may serve as an un-scripted supernatural figure.
+TV/fridge remain matte/non-mirror-like.
+Any ordinary shadow must belong to actual Nari/furniture and current real light sources only.
 
 ==================================================
 KEY / HAND / MOVEMENT ACTION-PROOF — ABSOLUTE
 ==================================================
 
-Key route:
-entry tray → Nari hand → carried while she reacts/turns/approaches fridge → Nari hand → entry tray.
-
-There is exactly one Unit 2407 brass key.
-
-V31 pickup must show:
-1. after the crouch→stand action, Nari physically reaches entry shelf
-2. hand/fingers contact SAME key in tray
-3. key leaves tray; tray becomes empty
-4. SAME key remains in same hand unless visible hand transfer occurs
-
-V35 return must show:
-1. Nari physically returns to entry
-2. hand lowers SAME key into SAME tray
-3. key contacts/rests in tray
-4. fingers release
-5. `CLINK` occurs at key/tray contact
-
-Do not crop both contact mechanisms away. Do not leave duplicate in tray while held.
-
-V31 must visibly bridge TV/outlet→standing→entry movement. V33→V34 must show believable turn/approach to refrigerator. V34→V35 must bridge refrigerator→entry route. No teleporting across apartment.
+Key route: entry tray → Nari hand → carried toward fridge → Nari hand → entry tray.
+Exactly one Unit 2407 brass key.
+Pickup/return must show finger contact, key leaving/entering tray and final release. Finger grip must be usable; do not fuse key into fingers or hold by an impossible blade penetration.
 
 ==================================================
 SPEAKER PRESENCE / IDENTITY — ABSOLUTE
 ==================================================
 
-The speaker is not the focus, but it remains a live continuity object until Strip 008 hides it.
-- SAME speaker body/cord/plug identity from attached speaker WebP
-- remains on canonical kitchen counter
-- remains unplugged from its wall end
-- do not hide it early
-- do not re-plug it
-- do not redraw it as a different generic assistant if it enters frame
-
-If composition does not need the speaker, it may remain off-camera; off-camera does not change its state.
-
-==================================================
-FRIDGE / TV EFFECT AND OBJECT CONTINUITY — ABSOLUTE
-==================================================
-
-TV body and refrigerator body must match attached references exactly.
-TV helpful text = clean stable cyan-white on full TV screen.
-Refrigerator hostile text = contained only inside narrow built-in display with broken/doubled stark-white + black-pixel seam crawl.
-Refrigerator door/body does not become giant screen and does not move location.
-
-V33 message exists briefly. V34 display must be dark; do not leave old text hanging because of camera change.
+Speaker remains SAME canonical body/cord/plug, canonical kitchen counter, wall-unplugged, not hidden/replugged. If off-camera, state persists.
 
 ==================================================
 TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Balloon bodies/tails, device text, narration, and SFX must not cover:
-- crouch→stand body mechanics
-- key pickup/return fingers
-- tray becoming empty/full
-- TV loose plug/empty socket if shown
-- fridge display message/disappearance
-- route-defining environment anchors
-
-If lettering conflicts, reflow lettering rather than hiding or moving the physical action.
+Balloon/device/narration/SFX must not cover crouch→stand mechanics, key contacts, TV loose plug/empty socket if shown, fridge message/disappearance, or route anchors.
 
 ==================================================
 NARRATION DESIGN BY SITUATION — ABSOLUTE
 ==================================================
 
-Only V34 has narration. `BY THE TIME NARI TURNED TOWARD IT, THE MESSAGE WAS ALREADY GONE.` uses restrained ominous-observational caption treatment appropriate to vanished clue—different from earlier time-transition captions and not fake system UI/glitch banner or repetitive top-left tag.
-Do not add narration elsewhere and do not obscure fridge display, key, Nari's hands, or movement route.
-
-==================================================
-SEAM IN / EXACT START — ABSOLUTE
-==================================================
-
-Continue SAME canonical TV body, SAME appliance-side attached cord, SAME loose unplugged wall-end plug, SAME canon-compatible empty wall socket detail, SAME Unit 2407 axis, SAME Nari CROUCHED pose/scale/location, SAME powered-night state. Do not insert black bar at external 006→007 artwork-continuation seam.
-
-==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
-==================================================
-
-Inside Strip 007, every distinct vertical beat gets SMALL BLACK GUTTER. When two independent views share row, use DIAGONAL / SLANTED BLACK DIVIDER. Dividers are compact visual grammar, not dead space. No face, balloon, prop, or background may cross diagonal divider.
+Only V34 narration:
+`BY THE TIME NARI TURNED TOWARD IT, THE MESSAGE WAS ALREADY GONE.`
+Use restrained ominous-observational caption, not fake UI/glitch banner/top-left tag.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
-V31 — RISE → MOVE TO ENTRY → KEY PICKUP / QUESTION
-Begin in SAME crouched position from Strip 006. Visibly rise to standing first. Then physically walk to canonical entry shelf and pick up SAME brass key from SAME tray. Only after that, face TV across apartment.
+V31 — RISE → ENTRY → KEY PICKUP
+Begin inherited crouch, visibly rise, then walk to entry shelf and pick SAME key.
 NARI:
 `OKAY. WHO ARE YOU?`
 
 SMALL BLACK GUTTER.
 
 V32 — TV WARNING
-Same visibly unplugged-from-wall TV: appliance-side cord attached; loose wall-end plug still outside SAME empty wall socket detail.
-TV DEVICE TEXT, clean helpful styling:
+SAME wall-unplugged TV.
+TV DEVICE TEXT on actual screen plane:
 `DON'T LOOK AT THE FRIDGE.`
 NARI:
 `WHAT DOES THAT MEAN?`
 
 SMALL BLACK GUTTER.
 
-V33 — LIGHT FLICKER / HOSTILE FRIDGE
-Apartment lights flicker once.
-SFX at apartment light:
+V33 — FLICKER / HOSTILE FRIDGE
+SFX:
 `FZZT`
-Refrigerator narrow built-in display activates only long enough to show:
+Refrigerator narrow display only:
 `TENANT PROFILE: PENDING`
-Hostile device styling only.
-Nari turns toward refrigerator while still holding SAME key.
+Nari turns toward actual refrigerator while holding SAME key.
 
 SMALL BLACK GUTTER.
 
-V34 — MESSAGE GONE / PHYSICAL APPROACH
-By time Nari finishes turning/approaching, refrigerator display fully dark again.
+V34 — MESSAGE GONE / APPROACH
+Display fully dark.
 NARRATION:
 `BY THE TIME NARI TURNED TOWARD IT, THE MESSAGE WAS ALREADY GONE.`
-She reaches/checks SAME refrigerator body. No new text. No reflection/figure.
+She reaches/checks SAME refrigerator. No reflection/figure.
 
 SMALL BLACK GUTTER.
 
 V35 — FRIDGE → ENTRY / KEY RETURN
-Nari turns away from refrigerator, walks canonical open-plan route to entry shelf, then visibly places SAME canonical brass key back into SAME tray.
-SFX at tray contact:
+Walk actual route, place SAME key into SAME tray.
+SFX:
 `CLINK`
 
 ==================================================
-PROP STATE AT END
+PROP STATE / SEAM
 ==================================================
 
-- brass backup key = entry tray, canonical identity unchanged
-- electrical-operation guide = kitchen counter
-- speaker = SAME canonical speaker, still unplugged on canonical kitchen counter; NOT hidden yet
-- TV = still unplugged FROM WALL with appliance-side cord attached and SAME Chapter 1 socket detail empty
-- refrigerator display = dark
-
-NO DEAD BOTTOM — ABSOLUTE
-Use entry-return composition through lower canvas. No giant blank tail.
-
-SEAM OUT — G
-Strip 008 begins with Nari turning/walking back toward kitchen to hide SAME unplugged canonical speaker.
+- key entry tray
+- binder counter
+- speaker wall-unplugged counter, not hidden
+- TV wall-unplugged with same cord/plug/socket continuity
+- fridge dark
+Strip 008 begins with Nari walking back toward kitchen to hide speaker.
 
 AUTOMATIC REJECT IF
-- any V/P/strip/beat/panel/scene production label appears
-- attached references are redesigned/mirrored
-- permanent drift from previous strip or generated outlet detail is propagated over canon
-- Strip 007 begins with Nari standing/walking instead of inherited crouch, or crouch→stand action is skipped
-- TV outlet detail changes wall/height/orientation/furniture relation without canonical cause
-- generated outlet micro-detail is treated as authority over attached WebPs
-- TV redrawn as unplugged from appliance body instead of wall socket
-- TV loose plug/socket state resets or silently reconnects
-- plug/socket detail creates duplicate/incompatible physical state
-- key pickup/return contact hidden, key teleports/duplicates/changes identity/remains in tray while held
-- speaker canonical missing from visible rendering, changes design, hidden early, or re-plugged
-- TV/refrigerator effect signatures swap
-- refrigerator message persists after V33
-- reflected human appears in appliance
-- Nari teleports between TV, entry, fridge, entry return
-- narration/balloon/SFX obscures action evidence
+- production label appears
+- refs/geometry drift or action axis silently flips
+- Strip007 starts standing instead of inherited crouch / rise skipped
+- TV outlet/cord state changes or silently reconnects
+- TV/fridge text floats off carrier plane, crosses bezel/display, becomes narration/speech, or remains after display dark
+- Nari gaze targets wrong wall/device
+- key grip/transfer impossible, hidden, duplicated or teleported
+- speaker hidden/replugged early
+- TV/fridge effect signatures swap
+- reflected/shadow duplicate human/figure appears
+- Nari teleports between TV/entry/fridge/entry
+- text obscures action evidence
 - apartment axis flips
-- black slice separators missing/oversized
+- black separators missing/oversized
 - giant dead bottom appears
 ```
 
