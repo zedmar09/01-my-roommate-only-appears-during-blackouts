@@ -73,12 +73,50 @@ KNIFE:
 - knife leaves floor only after real handle grip
 
 ==================================================
+MOBILE CABINET-REVEAL PROOF / SAFE MARGINS — NON-NEGOTIABLE
+==================================================
+
+The reveal must be physically understandable at normal mobile reading size.
+The reader must be able to distinguish, in order:
+- SAME phone physically contacting/releasing on the counter BEFORE Nari uses that hand/body for cabinet work
+- hand on the real cabinet handle/edge
+- same cabinet door opening on its real hinge
+- storage stockpot resting on the real interior support plane
+- SAME lid still seated before removal
+- fingers lifting SAME lid from the pot rim
+- SAME lid placed/released on an ACTUAL existing support plane beside/adjacent the stockpot
+- TOWEL2 visibly covering the contents BEFORE it is moved
+- fingers grasping/folding back TOWEL2 once
+- SAME speaker body revealed on TOWEL1
+- SAME speaker-side cord still attached
+- SAME coiled cord and loose wall plug visibly contained with speaker, not plugged anywhere
+- later, SAME knife handle pickup and old knife floor spot becoming empty while packet remains separate
+
+If one wide view makes these too small, use adjacent SAME-OBJECT detail views. Details must preserve cabinet/pot/hand context and may not become cutaway/X-ray diagrams.
+
+SAFE MARGIN:
+- cabinet handle/hinge, pot rim, lid support, towel fold, speaker body, cord/plug and knife-handle pickup must stay fully inside the readable image area
+- do not put any decisive contact exactly on the canvas edge, gutter, diagonal divider or seam
+- no divider may cut through cord/plug, lid, towel, speaker, hand or knife
+- voice balloons/SFX may not cover the cord/plug or reveal layers
+
+==================================================
 CABINET HINGE / SUPPORT / FIT — ABSOLUTE
 ==================================================
 
 Preserve same door, hinge/handle side, open arc, interior support planes/volume. Do not invent shelf.
 Lid lies flat/fully supported on actual referenced cabinet base/shelf adjacent pot.
 Stable world-space scale for cabinet/pot/lid/speaker/plug/towels.
+
+==================================================
+PERSPECTIVE / INTERIOR-DEPTH INTEGRITY — ABSOLUTE
+==================================================
+
+Use ordinary non-fisheye perspective.
+- do not widen the cabinet interior, shrink the pot/speaker, or bend cabinet walls through ultra-wide lens distortion
+- do not use a forced top-down angle that makes lid/towels/speaker occupy impossible overlapping depth
+- the open cabinet, pot, lid support plane, TOWEL1, speaker, cord/plug and TOWEL2 must remain spatially separable
+- close-up magnification does not change world-space size
 
 ==================================================
 EXACT REVERSE STACK / FLEXIBLE OBJECT PHYSICS — ABSOLUTE
@@ -108,6 +146,16 @@ Hyun-woo is VOICE-ONLY through the SAME screenless speaker physically visible in
 - `I'M BORROWING JUST ENOUGH POWER TO TALK.` does NOT create physical power cord reconnection or glowing human figure
 
 ==================================================
+POWERED LIGHT / SHADOW CONTINUITY — ABSOLUTE
+==================================================
+
+The Unit remains under the SAME ordinary powered lighting baseline throughout Strip028.
+- cabinet opening/reveal does not create a new magical light source
+- tiny speaker indicator may remain readable but does not cast room light or change shadow direction
+- adjacent cabinet/detail/knife-route shots keep the same real powered light direction
+- do not use a dramatic spotlight inside the cabinet to expose the speaker/plug
+
+==================================================
 REFLECTION / FALSE-HYUN-WOO BAN — ABSOLUTE
 ==================================================
 
@@ -120,6 +168,23 @@ KNIFE / PACKET ROUTE — ABSOLUTE
 ==================================================
 
 After dialogue Nari rises and walks to SAME knife point without disturbing packet. Grip handle, lift knife; old spot empty. Packet remains separate.
+
+==================================================
+TOP-TO-BOTTOM CABINET / VOICE / KNIFE ORDER — ABSOLUTE
+==================================================
+
+Reader order must be:
+1. V128 phone contact/release
+2. cabinet-handle grip / door opens / `CREAK`
+3. V129 lid lift / `CLINK`
+4. lid support/release
+5. TOWEL2 fold
+6. speaker/cord/plug reveal
+7. ONLY after speaker is actually visible: Hyun-woo's first voice line
+8. V130/V131 dialogue from SAME speaker source
+9. V132 Nari rises, walks to knife, grips handle, lifts knife
+
+Do not place Hyun-woo's line visually above the towel reveal so it reads before the source is exposed. Do not place `CLINK` above the lid-lift action or show the knife pickup before V130/V131 dialogue is complete.
 
 ==================================================
 WORN ATTACHMENT — ABSOLUTE
@@ -139,17 +204,17 @@ VERTICAL STORY FLOW
 
 V128 — PHONE RELEASE / CABINET OPEN
 PHONE HAND places/releases phone counter. Then kneel, real handle grip, cabinet opens.
-SFX:
+SFX at real cabinet movement:
 `CREAK`
 
 SMALL BLACK GUTTER.
 
 V129 — LID / SUPPORT / TOWEL REVEAL
-Lift lid.
-SFX:
+Lift SAME lid.
+SFX at lid/pot contact:
 `CLINK`
 Place/release on actual support. Fold back TOWEL2. Reveal SAME speaker + attached cord/loose plug.
-HYUN-WOO voice from that speaker:
+HYUN-WOO voice from that now-visible speaker:
 `YOU SHOULD EAT BEFORE IT GETS COLD.`
 
 SMALL BLACK GUTTER.
@@ -182,15 +247,18 @@ Strip029 inherits phone counter, exact open cabinet/lid/towel/speaker/cord/plug 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - refs/geometry drift
+- fisheye/forced perspective enlarges cabinet volume, shrinks pot/speaker, or makes support/depth impossible
 - phone/cabinet/lid/towel/knife grips are impossible/fused/floating or hand contacts unusable surfaces
 - cabinet hinge flips/new shelf appears/lid unsupported
 - cabinet/pot/speaker/towel/lid resize
+- cabinet handle/lid/towel/speaker/cord/plug/knife proof is microscopic, edge-cropped, gutter/divider-cut or ownership-ambiguous
 - cord/plug/towels clip/float
-- Hyun-woo voice appears to come from wrong source or Nari looks away from actual speaker
+- speaker voice appears before physical reveal, comes from wrong source, or Nari looks away from actual speaker
 - physical/reflected/shadow Hyunwoo appears
+- powered light/shadow direction changes without cause or cabinet has invented spotlight
 - phone not released before cabinet action
 - knife/packet route wrong or knife picked by blade
-- text hides support/source/contact proof
+- text/SFX reads the reveal sequence out of order or hides support/source/contact proof
 ```
 
 ## Production Thread Attachments
