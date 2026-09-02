@@ -50,10 +50,36 @@ END:
 - end immediately
 
 ==================================================
+FINAL CONTROLLED-DREAD PERFORMANCE — NON-NEGOTIABLE
+==================================================
+
+Strip 031 ends with Nari seated, analytical work interrupted by the impossible active wall-unplugged TV. Strip 032 must continue that SAME seated performance and let the message create the final emotional change.
+
+START PERFORMANCE:
+- Nari is already looking toward the real TV from the completed Strip 031 turn
+- body remains seated/supported; shoulders/hips/feet are the SAME as the end of Strip 031
+- initial emotion = alert, unsettled, trying to understand; not already at maximum horror before the final words resolve
+
+WHEN `NEW TENANT CONFIRMED` RESOLVES:
+- reaction escalates to **controlled dread / stunned recognition**
+- allowed movement = subtle eye widening, facial tension, small head/upper-torso recoil or stillness consistent with same seated body
+- no standing, jumping backward, chair rotation, covering mouth with a newly invented gesture, grabbing notebook, pointing, screaming, crying, collapsing, flailing, romantic glamour pose or exaggerated anime shock symbols
+- hands remain where Strip 031 left them unless a small natural tension shift is possible without moving props; do not create a new hand gesture that breaks the pen/notebook state
+
+`FZZT`:
+- one brief apartment-light flicker may create a momentary visual startle in the SAME seated pose
+- it does not trigger a second larger body reaction, new pose, new gesture or second blackout
+
+FINAL IMAGE:
+- Nari ends **quietly horrified / controlled dread**, looking at the same TV
+- the strength comes from stillness, exact message, room continuity and evidence—not screaming melodrama
+- no smile, tears, rage, romantic blush, comedy reaction, villain face, chibi expression or promotional glamour
+
+==================================================
 NARI FINAL CHARACTER IDENTITY / BODY TOPOLOGY — NON-NEGOTIABLE
 ==================================================
 
-The ending may be dramatic but Nari must remain the SAME canonical woman from Strip 031:
+Nari must remain the SAME canonical woman from Strip 031:
 - exactly 30-year-old face/build
 - SAME long dark-plum mid-back hair, same part/fringe; no short-hair reversion or color shift
 - exactly ONE tiny beauty mark beside anatomical LEFT corner of mouth whenever visible; never mirrored to anatomical right or duplicated
@@ -64,6 +90,16 @@ The ending may be dramatic but Nari must remain the SAME canonical woman from St
 - hair/headphones/hoodie/scrunchie maintain physically plausible attachment and front/behind order
 
 Powered/flicker lighting may change value briefly but may NOT recolor hair/scrunchie/clothes, recast face, or turn skin/hair glossy.
+
+==================================================
+POSE / BODY-FACING / CLOTHING-LAYER CONTINUITY — ABSOLUTE
+==================================================
+
+- hips stay on SAME chair seat; feet stay same floor support
+- shoulders/hips remain generally oriented from Strip 031's seated TV turn
+- head/eyes may react to screen; a head reaction cannot silently rotate the whole chair/body or switch feet
+- hoodie/headphones/scrunchie layer state stays unchanged; no hood-up/down, sleeve-roll, zipper/opening shift or headphone repositioning
+- long hair may move slightly with a small recoil but retains same length/part/volume family and does not suddenly fan dramatically like cinematic wind
 
 ==================================================
 FINAL TV MESSAGE / MOBILE LEGIBILITY — NON-NEGOTIABLE
@@ -81,7 +117,7 @@ SPEAKING / REACTION OWNERSHIP — ABSOLUTE
 ==================================================
 
 The TV message is DEVICE TEXT, not human speech.
-Nari reacts SILENTLY unless script says otherwise. Do not make Nari visibly mouth `NEW TENANT CONFIRMED` or `FZZT`.
+Nari reacts SILENTLY. Do not make Nari visibly mouth `NEW TENANT CONFIRMED` or `FZZT`.
 No physical/reflected/shadow Hyun-woo appears or seems to speak the final message.
 
 ==================================================
@@ -89,7 +125,7 @@ FINAL PERSPECTIVE / SCALE / BODY INTEGRITY — ABSOLUTE
 ==================================================
 
 No fisheye/ultra-wide/forced-perspective redesign. TV cannot enlarge impossibly; Nari/table/notebook cannot shrink. Room stays one believable space.
-A face close-up may be used only as a SAME-NARI detail and must preserve beauty mark side, hair identity and body ownership with adjacent context.
+A face close-up may be used only as a SAME-NARI detail and must preserve beauty mark side, hair identity, quiet-dread performance and body ownership with adjacent context.
 
 ==================================================
 TV CORD / WALL-UNPLUG STATE — ABSOLUTE
@@ -118,7 +154,7 @@ TOP-TO-BOTTOM FINAL ORDER — ABSOLUTE
 
 1. continuation of hostile TV field
 2. exact `NEW TENANT CONFIRMED` resolves
-3. SAME Nari silently reacts toward actual TV
+3. SAME Nari silently reacts with controlled dread toward actual TV
 4. one ordinary apartment-light `FZZT`
 5. powered baseline remains/returns
 6. chapter ends; no further text/event
@@ -129,10 +165,14 @@ Do not make Nari react before the message exists. No `TO BE CONTINUED`, credits,
 FULL-CANVAS FINAL / CROP SAFETY — ABSOLUTE
 ==================================================
 
-Use vertical canvas meaningfully. Keep TV/message, Nari face/body, chair support and key room anchors safely inside image area. Do not crop Nari so aggressively that beauty-mark side/body ownership becomes ambiguous or a limb appears detached.
+Use vertical canvas meaningfully. Keep TV/message, Nari face/body, chair support and key room anchors safely inside image area. Do not crop Nari so aggressively that beauty-mark side/body ownership/quiet seated performance becomes ambiguous or a limb appears detached.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
+- Nari reaction becomes scream/cry/collapse/standing/jump/romantic glamour/comedy/chibi rather than controlled dread
+- Nari body/chair/feet/shoulders/hips reset from Strip 031 without action
+- a new hand gesture moves/duplicates notebook/pen state
+- clothing-layer/hood/sleeve/headphone/hair state changes without cause
 - Nari beauty mark missing/duplicated/moved to anatomical right
 - Nari hair/face/age/build/outfit/local colors drift from Strip 031/canonical
 - extra/missing/duplicated arm/hand/leg/foot/ear/body appears or reaction limb cannot connect to same seated body
