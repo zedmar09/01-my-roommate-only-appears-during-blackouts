@@ -55,59 +55,63 @@ Do not collapse the two power events.
 COMPARABLE PRESENCE→ABSENCE FRAMING — NON-NEGOTIABLE
 ==================================================
 
-The reader must understand Hyun-woo is absent, not merely off-camera because the composition changed.
+The reader must understand Hyun-woo is absent, not merely off-camera.
+Use V116/V117/V118 with enough comparable fixed geometry: same table/chair/fridge anchors, same Nari feet/body location, same Hyun-woo floor position before return, same pushed chair/table topology.
+V118 must show the actual former Hyun-woo world-space region now empty.
 
-Use V116/V117/V118 with enough comparable geometry to establish the same physical area:
-- same table edge/chair/fridge or equivalent fixed anchors
-- same Nari STEP FOOT/CANDLE FOOT/body location
-- same Hyun-woo floor position before power return
-- same pushed chair/table topology
+==================================================
+NO AFTERIMAGE / REFLECTION / SHADOW SUBSTITUTE — ABSOLUTE
+==================================================
 
-Recommended deterministic proof:
-1. V116 interior composition clearly contains Hyun-woo at his known position and Nari at fixed marks
-2. V117 power snaps on; Nari shielding reaction may partially dominate but same environmental anchor set remains readable
-3. V118 returns to a closely comparable camera or clearly continuous angle showing the exact world-space region where Hyun-woo stood now EMPTY
+Hyun-woo's absence means there is NO remaining visual human trace after Unit power returns.
+Do NOT leave:
+- transparent/faded body
+- glow outline
+- afterimage
+- reflected Hyun-woo in TV/fridge/window/counter
+- Hyun-woo-shaped shadow
+- detached hair/mask silhouette
+- ghostly hand/face
+- duplicated prior-frame figure used as a transition effect
 
-Do not switch to a radically different angle/crop that simply excludes his former position.
-Do not move camera so far that absence cannot be inferred.
-No afterimage/fade/particles/glitch silhouette.
+V117/V118 normal powered shadows may belong only to Nari/furniture/objects physically present under the restored real lights.
+Do not leave blackout/candle-era shadow directions after the normal powered baseline returns.
+A reflection of Nari must not become a readable second Nari figure; surfaces remain matte/restrained.
 
-If V117 cannot show his absence cleanly because Nari shields, V118 must deliberately show the same former Hyun-woo space empty.
+==================================================
+DIALOGUE CAMERA AXIS / EYE-LINE — ABSOLUTE
+==================================================
+
+V114–V116 continue the same close conversation positions from Strip024.
+Nari and Hyun-woo look toward each other; reverse shots may flip screen direction but cannot exchange world positions or make eyelines point away.
+V117 shielding reaction may break direct gaze because of bright power return, but Nari's body remains at same location.
+V118 her eyes/head orient toward the exact former Hyun-woo position to register his absence.
 
 ==================================================
 DEPTH / SCALE / POWER STATE — ABSOLUTE
 ==================================================
 
-Hyun-woo before absence keeps canonical world-space size relative table/Nari. Do not shrink/fade him before Unit return.
-V118 furniture/evidence keep same depth and scale; power restoration changes illumination/device operation only.
-Normal powered light must not move/reshape furniture, knife, packet, candle, chair, pot or Nari.
+Hyun-woo before absence keeps canonical world-space scale relative table/Nari. Do not shrink/fade him before Unit return.
+V118 furniture/evidence keep same depth/scale; power restoration changes illumination/device operation only.
 
 ==================================================
-NARI FOOT / WORN STATE — ABSOLUTE
+NARI FOOT / WORN ATTACHMENT — ABSOLUTE
 ==================================================
 
-STEP FOOT/CANDLE FOOT remain exact marks through V118. Shielding = arms/upper torso only; no step/body slide.
-SCRUNCHIE WRIST/headphones unchanged.
+STEP FOOT/CANDLE FOOT remain exact marks through V118. Shielding = arms/upper torso only.
+Scrunchie physically encircles SAME wrist; headphones physically remain around neck/hoodie without clipping through hair/jaw/neck.
 
 ==================================================
 TWO FLOOR EVIDENCE SPOTS — ABSOLUTE
 ==================================================
 
-Knife = same settled Strip023 point/orientation.
-Packet = separate Strip019 nudged point.
-Neither moves/merges/overlaps/changes depth during power return.
-
-==================================================
-SAME-OBJECT / SAME-MOMENT RULE — ABSOLUTE
-==================================================
-
-City insert/interior/reaction/evidence details do not create duplicate Nari/Hyunwoo/knife/packet. Before Unit return Hyun-woo present in all same-time interior logic; after return absent in all later same-time logic.
+Knife same settled point/orientation. Packet separate nudged point. Neither moves/merges/overlaps/changes depth.
 
 ==================================================
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Dialogue/`VZZT` cannot cover the fixed Nari foot marks, former Hyunwoo location anchors, or knife/packet evidence when needed for comparison.
+Dialogue/`VZZT` cannot cover Nari foot marks, former Hyun-woo location anchors, presence→absence comparison or knife/packet evidence.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -133,7 +137,7 @@ HYUN-WOO:
 SMALL BLACK GUTTER.
 
 V116 — COMPARISON ANCHOR / STILL DARK
-Use a clear interior composition with Hyun-woo at known floor position and fixed anchors.
+Clear interior composition with Hyun-woo at known position and fixed anchors.
 NARI:
 `WHERE DO YOU GO?`
 HYUN-WOO:
@@ -144,12 +148,12 @@ COMPACT POWER-STATE DIVIDER.
 V117 — UNIT POWER SNAP
 SFX:
 `VZZT`
-Normal apartment power snaps on. Nari shields eyes without stepping. No visible disappearance process.
+Normal apartment power snaps on. Nari shields eyes without stepping. No disappearance process/afterimage/reflection.
 
 SMALL BLACK GUTTER.
 
 V118 — COMPARABLE EMPTY SPACE
-Use same/closely comparable anchor geometry to V116. Nari lowers arms at same marks. Exact former Hyun-woo position is now empty. Props unchanged.
+Same/closely comparable anchor geometry. Nari lowers arms at same marks and looks toward exact former Hyun-woo position, now truly empty. Props unchanged.
 
 ==================================================
 SEAM
@@ -162,9 +166,10 @@ AUTOMATIC REJECT IF
 - refs/geometry/scale drift
 - Nari feet/worn state changes
 - Hyun-woo disappears at city return/remains after Unit return
-- V116→V118 framing changes so radically that his former position is merely offscreen/hidden instead of demonstrably empty
-- visible disappearance effect
-- Hyun-woo scale fades/shrinks before return
+- framing simply crops out former position instead of proving absence
+- any fade/afterimage/reflection/shadow/silhouette/ghost trace of Hyun-woo remains after Unit power return
+- powered shadows remain inconsistent with restored real lights
+- dialogue axis/eyelines flip incorrectly
 - knife/packet/chair/table topology resets
 - powered baseline becomes cinematic bloom
 - text hides presence→absence proof
