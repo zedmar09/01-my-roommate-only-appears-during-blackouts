@@ -51,6 +51,38 @@ END:
 - no Hyun-woo visual identity revealed
 
 ==================================================
+FINAL PERFORMANCE / POSE CONTINUITY — NON-NEGOTIABLE
+==================================================
+
+This strip must escalate from ordinary domestic annoyance into a controlled uncanny freeze. Do NOT jump directly to horror performance.
+
+V21:
+- Nari = ordinary dry irritation at the robot vacuum, practical adult body language
+- no fear, tears, horror eyes, screaming or supernatural suspicion
+
+V22:
+- later-night legal cut establishes a relaxed/ordinary kitchen-tidying pose
+- shoulders/hips/feet remain naturally oriented to the real kitchen work area
+- one chopstick pair is carried casually; do not stage a defensive or combat pose
+
+V23:
+- synthetic assistant failure produces mild annoyance/confusion only
+- Nari may turn head/upper torso toward the actual speaker, but feet/body position do not silently jump
+
+V24:
+- one light flicker + chopstick drop causes a short startle
+- the physical release/fall is the action; do not replace it with a giant screaming reaction pose
+- after the drop, Nari settles/freeze begins rather than performing a second unrelated gesture
+
+V25:
+- natural male voice causes a **still, wary, disbelieving freeze**
+- eyes/head orient to the actual speaker; shoulders/hips remain compatible with the post-drop kitchen stance
+- no crying, screaming, crouching, fleeing, weapon pose, romantic blush, exaggerated anime shock symbols, or villain-horror face
+- emotional intensity must carry directly into Strip 006's skeptical `WHO SAID THAT?`
+
+Camera changes may not reset Nari from annoyed→neutral→terrified→smiling. Each change must follow the event chain above.
+
+==================================================
 CHOPSTICK HAND GRIP / RELEASE ERGONOMICS — NON-NEGOTIABLE
 ==================================================
 
@@ -223,7 +255,7 @@ NO DEAD BOTTOM — ABSOLUTE
 End on Nari frozen reaction + speaker + exact dropped pair + canonical kitchen geometry.
 
 SEAM OUT — G
-Strip 006 V26 immediately inherits SAME two-stick floor location/configuration and same powered kitchen state before later time cut.
+Strip 006 V26 immediately inherits SAME two-stick floor location/configuration, same powered kitchen state, and the same wary/disbelieving Nari performance before she asks `WHO SAID THAT?`.
 
 AUTOMATIC REJECT IF
 - any production label appears
@@ -232,6 +264,8 @@ AUTOMATIC REJECT IF
 - Hyun-woo body/silhouette/reflection/shadow appears
 - speaker redesigns/moves/gets screen or voice source migrates away from speaker
 - Nari looks toward wrong wall/device instead of actual speaker
+- Nari emotional state jumps to screaming/crying/panic/romantic blush/villain-horror acting without cause
+- Nari body/torso/feet reset between V24 and V25 instead of carrying the post-drop freeze
 - food/storage prop invented
 - chopstick hand grip is impossible/fused/floating or count is not exactly two
 - chopsticks appear only at drop, duplicate, disappear, rotate/re-land between V24/V25/V26, or change spacing/orientation without action
