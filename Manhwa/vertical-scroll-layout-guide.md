@@ -10,34 +10,27 @@ Use one fixed generation width for every technical strip. Do not independently r
 
 ## Canonical Environment Anchor — Absolute
 
-Every camera view must be physically possible inside approved environment canonical. Preserve room relationships, routes, reverse-angle truth, furniture/appliances, doors/windows, wall sockets/outlets, recurring-landmark distances.
-
+Every camera view must be physically possible inside approved environment canon. Preserve room relationships, routes, reverse-angle truth, furniture/appliances, doors/windows, wall sockets/outlets, recurring-landmark distances.
 Never mirror/relocate architecture/appliances/outlets for composition. Recompose camera instead.
 
-## Fixed Local Outlet Landmarks — Absolute
+## Local Outlet Continuity — Canon-Subordinate
 
-Wall outlets are part of local environment geometry.
-
-If approved reference visibly establishes outlet, use exact.
-If required outlet is not clearly shown, first correctly APPROVED production depiction freezes:
-- story-world wall
-- height
-- faceplate/socket orientation
-- relation to nearby appliance/furniture
-- cord-route family
-
-Later reverse shots may move outlet on the 2D screen but NOT to another story-world wall/height. Do not invent a more convenient outlet.
+If approved reference visibly establishes outlet, use exact canonical location.
+If exact outlet detail is not shown, derive only the smallest physically plausible chapter-local detail inside existing canonical geometry. Do not add/move architecture.
+Once an APPROVED strip establishes that compatible detail, preserve it for chapter continuity, but it never becomes permanent canon and never outranks WebPs.
+Later reverse shots may move outlet on screen but not to another story-world wall/height. Canonical conflict → canonical wins.
 
 ## Read Beats Are Not Reader Labels
 
-V-beat IDs planning only. Never render V/P/strip/panel/scene/shot/technical headings. Common top-left `V-*` label = AUTOMATIC REJECT.
+V-beat IDs planning only. Never render V/P/strip/panel/scene/shot/QA/temp-state headings. Common top-left `V-*` label = AUTOMATIC REJECT.
 
 ## Adjacent-Slice Micro-Continuity — Absolute
 
 New slice is new camera/read beat, **not reset**.
-
 Preserve every state not visibly changed:
 - character position/facing/feet/distance/seated-standing
+- hand/foot/wrist/shoulder/pocket identity when continuity-critical
+- worn accessories/body location
 - hand occupancy
 - food/noodle amount/path
 - pot/bowl/chopstick/packet/wrapper positions
@@ -49,30 +42,58 @@ Preserve every state not visibly changed:
 - cabinet/stockpot/lid/towels/speaker
 - power/lighting/device display
 
-Occlusion is not disappearance. Reverse angle not prop/room reset.
+Occlusion is not disappearance. Reverse angle is not prop/body/room reset.
+
+## Temporary Anatomical-Side Continuity — Absolute When Used
+
+If a strip establishes a production-only anatomical identity such as KNIFE HAND, PHONE HAND, SCRUNCHIE WRIST, STEP FOOT, CANDLE FOOT, BAG SHOULDER, UMBRELLA HAND, or PHONE POCKET:
+- preserve same physical anatomical side across reverse views
+- screen-left/right may flip; body side may not
+- transfer/removal requires visible action
+- label itself is invisible production metadata and must never render
+
+Do not let close-ups silently swap the physical side.
+
+## Worn-Accessory Continuity — Absolute
+
+Established worn items stay on same body location unless visibly moved: scrunchie wrist, headphones at neck, watch wrist, earbuds, bag shoulder, etc.
+Partial occlusion is allowed. Disappearance, duplication, side swap, or move to a surface is not.
 
 ## Prop Topology / Relative-Placement Continuity — Absolute
 
-A reverse shot must preserve physical relative positions, not merely object count.
-
-Once local arrangement is established, keep story-world topology until visible movement changes it.
+A reverse shot preserves physical relative positions, not merely object count.
+Once local arrangement established, keep story-world topology until visible movement changes it.
 Examples:
-- pot stays same trivet/location
-- cloth stays same hot-handle side
-- candle stays same position relative to pot/chair
-- used/clean chopsticks stay their fixed rest points
-- packet/wrapper stay established floor/table spots
-- pushed chair stays same displaced angle/location
-- knife stays same impact point
-- storage-pot lid/towels/speaker/cord stay established open/closed arrangement
+- pot same trivet/location
+- cloth same hot-handle side
+- candle same relation to pot/chair
+- used/clean chopsticks fixed rest points
+- packet/wrapper established floor/table spots
+- pushed chair same angle/location
+- knife same impact point
+- storage-pot lid/towels/speaker/cord same arrangement
+- separate floor evidence remains separate
+- notebook zone remains clear of other tabletop evidence
 
-Screen-left/right may reverse because camera moves. **Physical sides/order may not swap.**
+Screen-left/right may reverse. **Physical sides/order may not swap.**
+
+## Same-Object Wide / Close-Up Semantics — Absolute
+
+A close-up, inset, device-screen enlargement, page detail, plug/socket detail, or side-by-side view is normally another representation of the SAME physical object/person, not another copy.
+
+Layout must make that relationship readable:
+- same-moment wide/detail states agree
+- action progression advances state exactly once
+- do not show key both tray/hand, plug both inserted/loose, knife both hand/floor, phone both hand/surface, binder both closed/open, pen both hand/notebook at same moment
+- do not create a second physical paper/notebook/device because an inset magnifies its content
+- multiple camera views of one person must not read as two people occupying world space simultaneously
+
+Use dividers/framing/reading order to clarify representational close-up vs sequential action.
 
 ## Mandatory Mechanism Visibility — Absolute
 
-Layout may not hide decisive physical mechanism for prettier reaction shot.
-
-Continuity-critical action must show contact/source enough to prove event:
+Layout may not hide decisive physical mechanism for a prettier reaction shot.
+Continuity-critical action shows contact/source enough to prove event:
 - wall plug/socket
 - fingers/key old/new surface
 - blade/sheath mouth
@@ -95,18 +116,28 @@ Each slice physically believable:
 - truthful eyeline
 - hinge/wall motion
 - collision-free route
+- routes avoid floor evidence/obstacles unless scripted
 - scale consistent
 - reverse angle derivable from floor plan
 
-For unplugging, outlet stays fixed landmark; fingers act on plug BODY. `Unplugged` never means cable disconnected from appliance body or cable itself yanked.
+For unplugging, fingers act on plug BODY at wall socket. `Unplugged` never means cable disconnected from appliance body/cable itself yanked.
 
 ## Hand-Occupancy / Support — Absolute
 
-Composition must account for actual two hands and body supports.
+Composition accounts for actual two hands/body supports.
+Do not draw unsupported prop piles. Use shoulder/forearm support, surfaces, pockets, sequential checks, visible transfers.
+Close-up cannot imply new hand/object ownership that wide shot cannot support.
 
-Do not draw unsupported prop piles in hands. Use shoulder/forearm support, surfaces, pockets, sequential hand checks, or visible transfers.
+## Deterministic Body / Object Progression — Absolute
 
-Close-up cannot imply a new hand/object ownership that wide shot cannot physically support.
+If one pose/state physically precedes another, layout must show the transition when continuity-critical:
+- crouch→stand before walking
+- closed notebook→open before writing
+- phone in pocket→hand→same pocket
+- object in hand→surface contact→release
+- foot old mark→single step→new mark
+
+Do not let a later slice silently choose a different state than the preceding action established.
 
 ## Black Read-Slice Grammar — Absolute
 
@@ -116,7 +147,6 @@ Every distinct slice gets **small black gutter**:
 - fast: micro
 - suspense: slightly larger purposeful interval
 - real time/location cut: stronger but compact
-
 Never huge filler band.
 
 ### Two slices on one row
@@ -130,30 +160,44 @@ A/E continuing art/effect across files has no visible black bar at technical bou
 
 ## Narration Placement / Scenario Integration — Absolute
 
-Narration visual treatment + placement follow scenario:
+Narration treatment + placement follow scenario:
 - no same top-left box every slice
-- no repeated small top-left tag system for time captions
-- place where supports reading order without covering evidence
-- time/location, observation, investigation, ominous realization, suspense may use functional variants within coherent typography family
+- no repeated small top-left tag system
+- place where it supports reading order without covering evidence
+- time/location, observation, investigation, ominous realization, suspense may vary within coherent typography family
 - never invent narration to fill space
+
+## Lettering / SFX Evidence Safety — Absolute
+
+Never let speech balloons/tails, narration, device text, handwriting, or SFX cover/sever:
+- hand/foot contact
+- plug/socket/loose plug
+- key transfer
+- knife/sheath/fall/impact
+- chair contact
+- cabinet hinge
+- candle action
+- food/noodle/chopstick path
+- packet pickup/step
+- phone/notebook placement
+- exact device/environment route clue
+
+If text conflicts, reflow text or composition—not the physical mechanism.
 
 ## No Dead Bottom Canvas — Absolute
 
-Small gutters are grammar; huge empty black/white areas are not. Use canonical environment, movement, reaction, atmosphere, scripted narration/SFX, deliberate suspense. Never invent filler.
-
-Reject double-gap seams.
+Small gutters are grammar; huge empty black/white areas are not. Use canonical environment, movement, reaction, atmosphere, scripted narration/SFX, deliberate suspense. Never invent filler. Reject double-gap seams.
 
 ## Reader Background / Power State
 
-Powered ordinary scenes neutral baseline; internal slice boundaries remain small black gutters.
-Actual outage deep charcoal/black reader field with readable separation, no invented powered light.
+Powered ordinary scenes neutral baseline; internal boundaries small black gutters.
+Actual outage deep charcoal/black reader field with readable separation, no invented powered/cinematic light.
 After Unit power return, restore normal powered baseline.
 
 ## No Traditional / Technical Page Artifacts — Automatic Reject
 
-Do not render page numbers, circled panel numbers, V/P/strip/beat/panel/scene/shot IDs, crop guides, prompt/reference labels, QA notes, repeated chapter titles, technical headers/footers.
+Do not render page numbers, circled panel numbers, V/P/strip/beat/panel/scene/shot IDs, temporary-state labels, crop guides, prompt/reference labels, QA notes, repeated chapter titles, technical headers/footers.
 
 ## Text Safety
 
 Never split balloon/narration/handwriting/device message/critical SFX across seam/divider.
-Never let text cover wall plug/socket, hand action, key transfer, chair contact, food path, packet pickup, impact point, or other continuity proof.
