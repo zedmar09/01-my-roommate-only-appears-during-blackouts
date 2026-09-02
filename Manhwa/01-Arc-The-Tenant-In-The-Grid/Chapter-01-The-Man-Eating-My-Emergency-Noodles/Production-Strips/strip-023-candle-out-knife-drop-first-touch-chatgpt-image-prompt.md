@@ -64,6 +64,32 @@ CANDLE FOOT / REACH — ABSOLUTE
 7. blowing distance must be physically plausible
 
 ==================================================
+MOBILE ACTION-CHAIN PROOF / SAFE MARGINS — NON-NEGOTIABLE
+==================================================
+
+The chapter's critical physical chain must be understandable at normal mobile reading size without relying on the prompt text.
+
+At minimum, the reader must visually distinguish in causal order:
+- STEP FOOT remains planted while the OTHER foot makes the single half-step and becomes CANDLE FOOT
+- Nari reaches believable blowing distance to the SAME candle
+- candle flame visibly exists before `PFF` and is visibly gone after `PFF`
+- knife is still in KNIFE HAND immediately after candle-out
+- at `KIIIIII` both hands move toward ears and the knife grip only begins to fail
+- SAME knife fully clears the fingers
+- enough knife contour/path remains visible to identify it as the SAME practical knife during the fall
+- knife makes real floor contact at the distinct spot before `CLANG`
+- SAME knife remains settled there
+- only after that floor state exists does Hyun-woo's hand visibly wrap the SAME former-KNIFE-HAND wrist
+
+If a wide shot makes any of these too small, use immediately adjacent SAME-OBJECT/SAME-BODY detail slices. Details must preserve enough limb/object context to prove ownership.
+
+SAFE MARGIN:
+- neither Nari foot, packet, candle/flame, knife hand/fingers, falling knife, impact spot, nor wrist grip may sit exactly on a crop edge, black gutter, diagonal divider or technical seam
+- do not let a divider split the knife between blade/handle or cut a wrist/hand contact in half
+- do not crop the arm so tightly that the caught wrist could be mistaken for the opposite arm
+- SFX may not cover the decisive contact/path
+
+==================================================
 KNIFE FALL TRAJECTORY / GRAVITY / NO-CLIPPING — NON-NEGOTIABLE
 ==================================================
 
@@ -92,6 +118,17 @@ Exact path:
 10. that exact final orientation/location persists through Strip028 until pickup
 
 Do not use speed lines/SFX to hide an impossible trajectory.
+
+==================================================
+PERSPECTIVE / LIMB OWNERSHIP INTEGRITY — ABSOLUTE
+==================================================
+
+Use ordinary non-fisheye perspective throughout the action.
+- do not stretch Nari's reaching arm/hand/knife through extreme foreground perspective
+- do not compress the knife fall distance so the knife appears to jump directly to the floor
+- STEP FOOT/CANDLE FOOT remain attached to the correct legs and same body proportions
+- Hyun-woo's catching hand remains attached to his actual arm/body and approaches from his real blocking position
+- an extreme close-up cannot reverse which wrist/hand is involved
 
 ==================================================
 THREE FLOOR FACTS — ABSOLUTE
@@ -131,10 +168,22 @@ Required:
 `WARM.` follows the real contact.
 
 ==================================================
-CANDLE / LIGHTING — ABSOLUTE
+CANDLE / LIGHTING / SHADOW TRANSITION — ABSOLUTE
 ==================================================
 
-After `PFF` flame gone; plausible wick smoke only. No normal interior light. Tiny fridge pixels do not illuminate room/faces/floor/furniture.
+Before `PFF`, the SAME candle is the only local active interior light source.
+At `PFF`:
+- flame disappears
+- candle-derived local highlight/shadow contribution ends from the next state onward
+- plausible wick smoke only
+
+After candle-out:
+- no lingering warm candle rim/shadow direction
+- refrigerator pixels remain contained and DO NOT become a substitute room light
+- no new cinematic blue rim light, giant shadow, spotlight or glow is introduced
+- flat charcoal/blue-gray readability separation is graphic treatment, not a second physical light source
+
+Do not render V104–V107 with the same strong candle-lit faces/shadows as before `PFF`.
 
 ==================================================
 PROP SCALE / TOPOLOGY — ABSOLUTE
@@ -147,6 +196,24 @@ SAME-OBJECT INSERT — ABSOLUTE
 ==================================================
 
 Candle/hand/knife-fall/impact/packet/wrist details = SAME physical states. Do not leave a duplicate knife in hand while another falls/lands.
+
+==================================================
+TOP-TO-BOTTOM ACTION / SFX / THOUGHT ORDER — ABSOLUTE
+==================================================
+
+The reader must encounter the chain in this exact order:
+1. V103 CANDLE FOOT half-step/reach
+2. `PFF` at actual flame-out
+3. V104 `KIIIIII` from refrigerator
+4. knife grip begins failing while knife remains partly supported
+5. V105 knife fully leaves fingers
+6. V106 knife contacts floor
+7. `CLANG` at that impact
+8. V107 Hyun-woo catches wrist
+9. only after real wrist contact: Nari internal thought `WARM.`
+10. Hyun-woo line follows/reads with the contact state established
+
+Do not place `CLANG` above the falling-knife slice, `WARM.` before contact, or the wrist-catch image before the floor impact. If one composition cannot preserve the sequence, use more vertical space.
 
 ==================================================
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
@@ -164,15 +231,15 @@ VERTICAL STORY FLOW
 ==================================================
 
 V103 — CANDLE FOOT / LEAN / OUT
-SFX:
+SFX at real candle flame-out:
 `PFF`
 
 SMALL BLACK GUTTER.
 
 V104 — SHRIEK
-SFX at fridge:
+SFX at refrigerator:
 `KIIIIII`
-Hands toward ears, grip begins failing.
+Hands toward ears, grip begins failing. Knife still partly supported.
 
 SMALL BLACK GUTTER.
 
@@ -182,7 +249,7 @@ Knife fully leaves fingers and follows clear gravity path.
 SMALL BLACK GUTTER.
 
 V106 — REAL FLOOR IMPACT
-SFX:
+SFX at actual knife/floor contact:
 `CLANG`
 Knife settles at exact distinct floor spot/orientation.
 
@@ -199,21 +266,24 @@ HYUN-WOO:
 SEAM
 ==================================================
 
-Strip024 begins SAME wrist truly held, same feet, settled knife orientation, separate packet, extinguished candle/topology.
+Strip024 begins SAME wrist truly held, same feet, settled knife orientation, separate packet, extinguished candle/topology and post-candle-out no-light state.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - geometry/scale/depth drifts
+- fisheye/forced perspective distorts body/knife/fall path or hides limb ownership
 - STEP FOOT moves/CANDLE FOOT wrong foot/multiple step
 - candle moves to Nari
+- flame-out/hand/knife/impact/wrist proof is microscopic, ownership-ambiguous, edge-cropped, gutter/divider-cut or too tight to verify
 - knife fall path passes through body/table/chair/pot/candle/packet/fridge/wall or teleports
 - knife scale/identity changes or floor contact floats
 - knife final orientation/location changes between V106/V107/Strip024
+- `KIIIIII`/`CLANG`/`WARM.`/wrist-catch layout reads out of causal order
 - wrist catch before impact
 - wrist contact is only 2D overlap with no readable finger/thumb grip
 - opposite wrist caught / hand clips through arm
 - packet/feet/knife overlap
-- fridge becomes room light
+- candle-derived warm light/shadows remain after flame-out or fridge becomes room light
 - text hides trajectory/contact proof
 - WARM spoken
 ```
