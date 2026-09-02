@@ -9,7 +9,7 @@ PRODUCTION SOURCE
 Use the locked Chapter 1 Manhwa beat plan, strip manifest, current strip prompts, and approved reusable canonicals. Historical P001–P018 labels are mapping shorthand only.
 
 GLOBAL PRODUCTION RULES — ABSOLUTE
-`Manhwa/style-guide.md`, `Manhwa/lettering-sfx-guide.md`, `Manhwa/seam-continuity-protocol.md`, `Manhwa/vertical-scroll-layout-guide.md`, `Manhwa/generation-workflow.md`, `Manhwa/production-readiness-gate.md`, and `Manhwa/seventh-hardening-visual-logic-addendum.md` apply to every technical strip. A strip prompt may be stricter but never looser.
+`Manhwa/style-guide.md`, `Manhwa/lettering-sfx-guide.md`, `Manhwa/seam-continuity-protocol.md`, `Manhwa/vertical-scroll-layout-guide.md`, `Manhwa/generation-workflow.md`, `Manhwa/production-readiness-gate.md`, `Manhwa/seventh-hardening-visual-logic-addendum.md`, and `Manhwa/eighth-hardening-presentation-integrity-addendum.md` apply to every technical strip. A strip prompt may be stricter but never looser.
 
 INTERNAL PLAN
 146 internal read beats V01–V146 and 32 technical strips strip-001–strip-032. Never render those IDs.
@@ -44,7 +44,7 @@ Clean intentional line art, flat colors, restrained hard-edged cel shading only,
 NO photoreal/semi-photoreal, 3D/CGI/game art, painterly, glossy/wet/plastic, beauty-ad shine, airbrush-heavy, cinematic color/DOF, bloom, lens flare, excessive rim light, mirror-like reflections, hyper-texture, or AI-polished over-rendering.
 
 REAL-SCENARIO CONTINUITY
-All movement, object routes/counts, room axes, power states, anatomical sides, worn accessories, object orientation, world-space scale, depth order, support/gravity, eyelines, camera axis, physical text planes, reflection/shadow state, grip/contact ergonomics, and text ownership must remain physically coherent across all 32 strips.
+All movement, object routes/counts, room axes, power states, anatomical sides, worn accessories, object orientation, world-space scale, depth order, support/gravity, eyelines, camera axis, physical text planes, reflection/shadow state, grip/contact ergonomics, presentation perspective, proof visibility, and text ownership must remain physically coherent across all 32 strips.
 
 SAME-OBJECT REPRESENTATION
 Close-ups/insets/device/page/plug details are views of the SAME physical object unless another object is explicitly established. Same-moment states must agree.
@@ -58,11 +58,26 @@ When a strip defines a production-only identity such as KNIFE HAND, PHONE HAND, 
 CAMERA AXIS / EYELINE — ABSOLUTE
 Same continuous conversation/action preserves world-space sides and real gaze targets. Reverse shots may flip screen-left/right but cannot silently exchange physical positions or make characters look toward the wrong speaker/device/object. Crossing the 180° axis requires a neutral reorientation view first.
 
+PERSPECTIVE / LENS INTEGRITY — ABSOLUTE
+Use ordinary manhwa perspective. Do not use fisheye/ultra-wide/forced-perspective distortion that curves canonical architecture, changes body/object world proportions, reverses orientation, or makes false contact. Dramatic composition comes from framing and shot size, never geometric warping.
+
+MOBILE-SCALE EVIDENCE LEGIBILITY — ABSOLUTE
+Continuity-critical physical proof must be understandable at normal mobile reading size. Plug/socket/cord, key transfer, page turn, tool return, food path, foot/packet contact, chair mechanics, mask hardware, knife fall/impact, wrist contact, phone/notebook placement, cabinet reveal, handwriting and final TV text may not be microscopic or ambiguous. Use an immediately adjacent SAME-OBJECT detail when a wide is insufficient.
+
+CROP / GUTTER / DIVIDER SAFE MARGIN — ABSOLUTE
+Do not place decisive contact exactly on a crop, canvas edge, black gutter, diagonal divider or technical seam. Keep the complete mechanism plus enough context inside the readable frame. A divider may never cut through a continuity-critical hand, foot, cord, object, text carrier or action path.
+
 PHYSICAL TEXT-PLANE — ABSOLUTE
 TV/fridge/tablet/phone/smart-lock text stays inside the actual screen plane. Binder/note/notebook text stays on the actual page plane. Text follows carrier perspective/boundaries and cannot float as detached UI/narration in room space.
 
+READABLE IN-WORLD TEXT — ABSOLUTE
+Required exact device/page/note/notebook wording must remain legible at normal mobile size. Hostile distortion may affect edges but cannot turn story-critical wording into unreadable glyph noise. If needed, use a SAME-OBJECT detail instead of enlarging the object in world space.
+
 REFLECTION / SHADOW FALSE-DUPLICATE BAN — ABSOLUTE
 Unless explicitly scripted, no readable reflected duplicate person/object, shadow-person, face, hand or human silhouette may appear in screens, appliances, windows, glass, counters or other surfaces. Shadows must come only from real current light sources.
+
+LIGHTING SOURCE / SHADOW DIRECTION CONTINUITY — ABSOLUTE
+Within one lighting state, light direction and cast-shadow logic remain consistent with the real sources. Powered Unit uses the canonical powered baseline; blackout has no invented light; the candle controls local light until extinguished; fridge/TV pixels are not room lights; power restoration changes lighting only at the scripted event; `FZZT` briefly interrupts and returns to the same powered baseline. Flat 2D readability separation is not a second story-world light source.
 
 GRIP / CONTACT ERGONOMICS — ABSOLUTE
 Hands must use believable usable grips on plug body, key/ring, knife handle, pen, chopsticks, phone, umbrella/bag handle, mask hardware, cabinet/door hardware, packet, lid, flashlight/radio. Fingers may not fuse with/pass through objects or grip unsafe/impossible surfaces.
@@ -79,6 +94,9 @@ Close-up magnification does not change story-world size. Objects must physically
 DEPTH / REAL CONTACT — ABSOLUTE
 2D overlap is not contact. Grips, steps, sitting, mask hardware, wrist contact, protective blocking and threshold crossings must be physically readable in floor-plan/depth space.
 
+CRITICAL OBJECT / LIMB SILHOUETTE COMPLETENESS — ABSOLUTE
+Close-ups must retain enough connected body/object context to prove ownership and orientation. Do not crop a hand away from its arm, foot away from its body state, loose plug away from the same cord/appliance, knife impact away from identifiable knife contour, or notebook page away from same notebook/spine context.
+
 FLEXIBLE OBJECT / GRAVITY / NO-CLIPPING — ABSOLUTE
 Cords/plugs/towels/cloth/straps/paper/packets/falling props obey gravity, support and collision. No floating plug, impossible cord slack, cord through furniture/walls, cloth through solids, or knife/chopsticks passing through bodies/furniture.
 
@@ -87,6 +105,9 @@ Offscreen/device audio remains at its real story-world source. SFX/voice letteri
 
 WEATHER / GLASS BOUNDARY — ABSOLUTE
 Exterior rain remains outside the building envelope after characters enter. Glass may have restrained environmental sheen but never reflected human duplicates.
+
+TOP-TO-BOTTOM READER ORDER — ABSOLUTE
+Reader-facing action, dialogue, narration, device text and SFX must read in the exact scripted causal order. Balloon order may not make a later line read before an earlier line. SFX must sit at the physical action moment, not visually before its cause. If one composition cannot preserve order, use more vertical space or unlabeled sub-slices without rewriting text.
 
 LETTERING EVIDENCE SAFETY
 Speech balloons, narration, device text, handwriting and SFX must never cover continuity-critical action/scale/orientation/depth/gaze evidence. Reflow lettering/composition instead.
@@ -107,22 +128,19 @@ FINAL APPROVAL RULE
 Do not declare Chapter 1 production-complete from prompts/reference availability. Final approval requires all 32 rendered strips, sequential visual QA, seam/stitch QA, and a fresh clean-room visual audit with zero unresolved mandatory defects.
 ```
 
-## Seventh Deep-Hardening Binding Note — Absolute
+## Eighth Deep-Hardening Binding Note — Absolute
 
-The current Strip 001–032 prompts have been clean-room audited through the **seventh** `manhwa-2d-production-auditor` hardening pass. The sixth PASS was deliberately not accepted as proof.
+The current Strip 001–032 prompts have been clean-room audited through the **eighth** `manhwa-2d-production-auditor` hardening pass. The seventh PASS was deliberately not accepted as proof.
 
-The seventh pass targeted failure modes that can survive causality/topology/scale hardening:
-- 180-degree camera-axis flips and wrong eyelines
-- in-world text detaching from actual screen/page planes
-- reflections/shadows creating false duplicate people or horror figures
-- anatomically unusable hand/finger grips despite nominal contact
-- scrunchie/headphone/bag/watch/earbud/mask-strap clipping/floating
-- device/offscreen sounds migrating to wrong story-world source
-- rain/glass boundary violations
-- occlusion used to evade action proof
+The eighth pass targets presentation-level failures that can survive correct causality, topology and visual logic:
+- fisheye/ultra-wide/forced-perspective warping of canonical geometry
+- continuity evidence technically present but too small to understand on mobile
+- crop/gutter/divider edges amputating decisive action proof
+- light/shadow direction changing inside one unchanged lighting state
+- dialogue/SFX/device/narration placement making the scripted sequence read out of order
+- close-up cropping ownership/orientation so a hand, foot, plug, knife or notebook becomes ambiguous
+- exact in-world text rendered too small or too corrupted to read
 
-`Manhwa/seventh-hardening-visual-logic-addendum.md` is binding on all 32 strips. High-risk strips also repeat the relevant rules locally.
+`Manhwa/eighth-hardening-presentation-integrity-addendum.md` is binding on all 32 strips together with all previous hardening rules. High-risk strips repeat the most important eighth-pass requirements locally.
 
-After seventh repairs, Strip 001→032 were read again from the current post-repair files. No additional deterministic prompt/canon correction was found on that second pass.
-
-Previously rejected or pre-seventh rendered attempts are not approved previous-strip continuity authorities. Retesting begins from Strip 001 under the current seventh-pass package.
+Previously rejected or pre-eighth rendered attempts are not approved previous-strip continuity authorities. Retesting begins from Strip 001 only after the eighth post-repair clean-room audit is complete.
