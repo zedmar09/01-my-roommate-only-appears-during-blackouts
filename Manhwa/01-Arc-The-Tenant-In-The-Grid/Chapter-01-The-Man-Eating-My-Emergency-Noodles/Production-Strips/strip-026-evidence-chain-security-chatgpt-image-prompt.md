@@ -1,209 +1,202 @@
-# Strip 026 — Evidence Chain / Security
+# Strip 026 — Evidence Chain / Security — FINAL DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing immediately after APPROVED Strip 025 in SAME normally powered Unit 2407.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing immediately after the APPROVED rendered Strip 025 in the SAME normally powered Unit 2407.
+
+THIS IS NOT A PAGE. Never render V119–V123, Strip 026, PHONE HAND labels, filenames, QA notes, or production metadata.
 
 PRODUCTION SCOPE
-V119–V123.
-
-ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-- `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
-- `Manhwa/Object-References/tv-canonical-reference.webp`
-- APPROVED Strip 025
-- this Strip 026 prompt
-
-Do NOT attach Hyun-woo.
+V119–V123 only.
 
 ==================================================
-START / AUTHORITY — ABSOLUTE
+ATTACH — REQUIRED — EXACT SET
 ==================================================
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-desk-zone-detail-reference.webp`
+4. `unit-2407-entry-living-wide-reference.webp`
+5. `unit-2407-lighting-state-sheet-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `brass-backup-key-canonical-reference.webp`
+8. `tv-canonical-reference.webp`
+9. APPROVED rendered Strip 025 image
 
-Attached refs permanent authority. Preserve Nari identity/worn state, Unit geometry, front-door hinge/handle/smart-lock orientation, desk/entry route, key/tray, TV body/cord, evidence.
-Never render V/P/strip/PHONE HAND/temp-state labels.
+Do NOT attach Hyun-woo. Missing authority = STOP.
+
+==================================================
+CURRENT CANON / START STATE
+==================================================
+Current WebPs permanently control Nari/Unit/key/TV. APPROVED Strip 025 temporarily controls exact powered V118 Nari position, knife/packet/pushed-chair/table evidence, and Hyun-woo absence.
+
+CURRENT NARI WEBP WINS. Never restore retired old-Nari design details.
 
 START:
-- Unit canonical powered baseline
+- Unit powered baseline
 - Hyun-woo absent
-- Nari exact V118 table-edge position for V119 only
-- knife settled distinct floor spot; packet separate floor spot; pushed chair/table evidence unchanged
-- phone desk
-- key tray
-- front door CLOSED/LATCHED at canonical orientation
-- TV wall-unplugged
-
-ALLOWED CHANGES:
-- V119 call from same spot, no move
-- V120 Nari walks table→desk avoiding evidence, picks SAME phone; pickup hand becomes PHONE HAND
-- walks desk→entry
-- OTHER free hand performs CLOSED-DOOR latch/handle test `TUG` without opening/unlatching/crossing threshold
-- V121 smart-lock history
-- V122 camera archive on SAME phone
-- V123 security call; PHONE HAND holds same phone
+- Nari exact V118 position for V119
+- knife exact floor spot; packet separate; pushed chair/table unchanged
+- phone at desk
+- key in entry tray
+- front door CLOSED/LATCHED
+- TV remains wall-unplugged
 
 END:
-- Nari entry-side, phone PHONE HAND
-- front door remains CLOSED/LATCHED
+- Nari entry-side holding same phone in one persistent hand
+- front door still closed/latched
 - key tray untouched
-- evidence/TV state unchanged
+- all floor/table/TV evidence unchanged
 
 ==================================================
-ROUTE / FLOOR EVIDENCE — ABSOLUTE
+ROUTE / SCALE / HEIGHT MAP
 ==================================================
+Nari must physically route table→desk→entry while avoiding knife, packet, pushed chair/table. Phone/smart-lock/door stay ordinary scale; archive screen is same handheld phone, not floating UI.
 
-V119 starts exact V118 position. Only after `HYUN-WOO?` Nari moves.
-Route table→desk→entry avoids knife floor point, packet floor point, pushed chair/table. No foot kicks/covers/moves evidence.
-At desk, PHONE HAND visibly grips/lifts SAME phone; old desk phone spot empty.
-
-==================================================
-PHONE GRIP / PHONE HAND — NON-NEGOTIABLE
-==================================================
-
-PHONE HAND uses a believable phone grip:
-- palm/fingers support SAME phone body/edges
-- fingers do not pass through screen/body
-- phone does not float against fingertips
-- reverse shots cannot silently switch anatomical hand
-- same hand retains phone through smart-lock/archive/security sequence
-
-Other/free hand handles door/smart-lock hardware only.
+Approximate height:
+V119 12% | V120 27% | V121 19% | V122 20% | V123 22%.
 
 ==================================================
-CLOSED-DOOR LATCH TEST — NON-NEGOTIABLE
+V119 — `HYUN-WOO?` / NO MOVEMENT — FULL BLUEPRINT
 ==================================================
-
-Preserve SAME hinge side, handle/smart-lock side, closed plane/frame and latch edge.
-V120: free hand contacts real usable handle/hardware, fingers form a real grip, one restrained pull `TUG`, door remains closed/latch engaged, then hand releases.
-A hand pasted onto door panel without usable handle contact is not proof.
-
-==================================================
-SMART-LOCK / PHONE PHYSICAL TEXT-PLANE LOCK — NON-NEGOTIABLE
-==================================================
-
-SMART LOCK V121:
-- `ENTRY HISTORY` and `YOON NARI — LAST ENTRY` exist only on the SAME actual smart-lock display
-- text stays inside display boundary and follows device-plane perspective
-- it does not float over door/wall or become narration
-
-PHONE V122:
-- archive text `12:43 A.M. — RECORDING LOST` and `VIDEO RESUMED AFTER OUTAGE` exists only inside SAME phone screen
-- timestamps/content follow screen plane/perspective
-- a readable close-up is representational SAME phone, not a floating archive card/second device
-- corridor footage exists as screen content only; it is not a second physical corridor scene overlaid in the room
-
-PHONE V123:
-- security call UI/audio remains same phone; no second phone or floating call panel
-
-==================================================
-EYE-LINE / EVIDENCE TARGET CONTINUITY — ABSOLUTE
-==================================================
-
-Nari's gaze follows actual targets:
-- V119 exact former Hyun-woo position
-- V120 desk phone, then front-door hardware
-- V121 actual smart-lock display on SAME door
-- V122 SAME phone screen in PHONE HAND
-- V123 SAME phone during call
-
-Reverse shots may flip screen direction but cannot make her look toward wrong wall/device or move smart lock/door to opposite physical side.
-
-==================================================
-REFLECTION / FALSE-FIGURE BAN — ABSOLUTE
-==================================================
-
-Smart-lock screen, phone, TV, windows/glass may not show reflected Hyun-woo, Nari duplicate, intruder silhouette, face/hand or unknown figure.
-Archive resumed corridor must be EMPTY as actual phone-screen content. No reflected human is allowed to fake evidence.
-
-==================================================
-EVIDENCE / SCALE / DEPTH — ABSOLUTE
-==================================================
-
-Knife/packet/chair/candle/pot/table retain world-space scale/depth/location. TV retains canonical scale/wall-unplug state; cord obeys gravity/no-clipping.
-
-==================================================
-TEXT / DEVICE EVIDENCE SAFETY — ABSOLUTE
-==================================================
-
-Text/`TUG` must not cover door-handle/latch grip and closed-door edge, phone pickup/grip, smart-lock display, archive ownership or route obstacles.
-
-==================================================
-VERTICAL STORY FLOW
-==================================================
-
-V119
+CAMERA: same V118 powered composition/empty former-Hyun-woo region.
 NARI:
 `HYUN-WOO?`
-No movement.
+
+- no movement yet
+- gaze toward exact former Hyun-woo position
+- stunned but functional
 
 SMALL BLACK GUTTER.
 
-V120 — ROUTE / PHONE / CLOSED-DOOR TEST
-Walk around evidence → desk → PHONE HAND pickup → entry → real free-hand closed-door latch test.
+==================================================
+V120 — EVIDENCE-SAFE ROUTE / PHONE PICKUP / CLOSED-DOOR TEST — FULL BLUEPRINT
+==================================================
+A. ROUTE TO DESK
+- walk around knife/packet/chair evidence; no contact
+
+B. PHONE PICKUP
+1. same phone begins desk-supported
+2. one real hand grips usable phone edges
+3. phone leaves desk; old spot empty
+4. that same anatomical hand becomes persistent PHONE HAND
+
+C. DESK→ENTRY ROUTE
+- real floor-plan route
+
+D. CLOSED-DOOR TEST WITH OTHER HAND
+1. free hand reaches actual handle/latch hardware
+2. real grip/contact
+3. one restrained pull
+4. `TUG`
+5. door remains CLOSED and LATCHED
+6. hand releases
+
+Do NOT open/unlatch door or cross threshold.
+
 SFX:
 `TUG`
-Door remains closed/latched.
+
+END:
+- phone same hand
+- Nari entry-side
 
 SMALL BLACK GUTTER.
 
-V121 — SMART LOCK
-SMART-LOCK DEVICE TEXT on actual display:
+==================================================
+V121 — SMART-LOCK ENTRY HISTORY — FULL BLUEPRINT
+==================================================
+CAMERA: actual same door/smart-lock with Nari beside it; enough door context to preserve orientation.
+
+SMART-LOCK DEVICE TEXT:
 `ENTRY HISTORY`
 `YOON NARI — LAST ENTRY`
+
+TEXT:
+- inside actual lock display only
+- follows device plane
+- not narration/floating card
+
 NARI:
 `THE DOOR NEVER OPENED.`
 
+KEY:
+- remains untouched in tray
+
 SMALL BLACK GUTTER.
 
-V122 — PHONE ARCHIVE
+==================================================
+V122 — SAME PHONE ARCHIVE / EMPTY CORRIDOR FOOTAGE — FULL BLUEPRINT
+==================================================
+CAMERA: phone in persistent PHONE HAND + enough Nari/entry context.
+
 PHONE SCREEN:
 `12:43 A.M. — RECORDING LOST`
 `VIDEO RESUMED AFTER OUTAGE`
+
+SCREEN CONTENT:
+- actual phone screen plane only
+- resumed corridor footage is EMPTY
+- footage stays screen content, not a second physical corridor scene
+- no reflected/invented human silhouette
+
 NARI:
 `AND THE CAMERA MISSED THE WHOLE THING.`
-Archive resumed corridor EMPTY.
+
+END:
+- same phone remains same hand
 
 SMALL BLACK GUTTER.
 
-V123 — SECURITY CALL
+==================================================
+V123 — SECURITY CALL — FULL BLUEPRINT
+==================================================
+CAMERA: Nari entry-side with same phone held naturally; door/entry anchors preserve location.
+
 NARI:
 `THIS IS UNIT 2407. DID ANYONE COME UP TO THE TWENTY-FOURTH FLOOR DURING THE OUTAGE?`
-SECURITY:
+
+SECURITY AUDIO:
 `NO, MA'AM. THE ELEVATORS WERE DOWN THE ENTIRE TIME.`
-SECURITY:
+
+SECURITY AUDIO:
 `WE DIDN'T GET ANY REPORTS FROM YOUR FLOOR EITHER.`
 
-==================================================
-SEAM
-==================================================
+SOURCE:
+- security audio comes through same phone
+- no physical security character appears
 
-Strip027 starts same entry orientation, same PHONE HAND, SAME closed/latched door, evidence unchanged.
+END / SEAM:
+Strip 027 begins same entry orientation, same phone hand, same closed door/evidence state.
 
-AUTOMATIC REJECT IF
-- production/temp-state label appears
-- geometry/orientation drifts
-- Nari route crosses/moves evidence
-- phone grip impossible/floating/fused, phone duplicates/switches hand
-- front door opens/unlatches or latch contact is fake overlap
-- door hinge/handle/smart-lock side flips
-- smart-lock/phone text floats off physical screen plane or becomes narration/floating UI
-- Nari eyeline points to wrong target
-- reflected/shadow person/intruder/Hyunwoo appears on phone/smart-lock/TV/window
-- key/evidence resets
-- archive timestamps float outside phone
-- text hides latch/phone proof
+==================================================
+EXACT TEXT ONLY
+==================================================
+`HYUN-WOO?`
+`TUG`
+`ENTRY HISTORY`
+`YOON NARI — LAST ENTRY`
+`THE DOOR NEVER OPENED.`
+`12:43 A.M. — RECORDING LOST`
+`VIDEO RESUMED AFTER OUTAGE`
+`AND THE CAMERA MISSED THE WHOLE THING.`
+`THIS IS UNIT 2407. DID ANYONE COME UP TO THE TWENTY-FOURTH FLOOR DURING THE OUTAGE?`
+`NO, MA'AM. THE ELEVATORS WERE DOWN THE ENTIRE TIME.`
+`WE DIDN'T GET ANY REPORTS FROM YOUR FLOOR EITHER.`
+
+No extra readable text.
+
+==================================================
+FINAL REJECT
+==================================================
+Reject if production labels render; retired Nari design returns; Nari route crosses/moves evidence; phone teleports/duplicates/switches hands; door opens/unlatches or geometry flips; smart-lock/phone text floats off screens; archive shows human silhouette; key moves; TV wall-unplug state resets; room scale/geometry changes; glossy/cinematic/photoreal/3D style appears; text hides latch/device proof; gutters missing/oversized; dead bottom appears.
 ```
 
-## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
-5. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-6. `Manhwa/Object-References/brass-backup-key-canonical-reference.webp`
-7. `Manhwa/Object-References/tv-canonical-reference.webp`
-8. APPROVED Strip 025
-9. this Strip 026 prompt
+## Production Thread Attachments — EXACT SET
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-desk-zone-detail-reference.webp`
+4. `unit-2407-entry-living-wide-reference.webp`
+5. `unit-2407-lighting-state-sheet-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `brass-backup-key-canonical-reference.webp`
+8. `tv-canonical-reference.webp`
+9. APPROVED rendered Strip 025 image
