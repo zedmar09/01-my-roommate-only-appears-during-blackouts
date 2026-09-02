@@ -1,275 +1,615 @@
-# Strip 012 — After Work / Phone Dies — FINAL DETERMINISTIC GENERATION PROMPT
+# Strip 012 — After Work / Phone Dies — AUDITED DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Chapter 1 after the legal two-day/location cut from the APPROVED rendered Strip 011.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Chapter 1 after the explicit `TWO DAYS LATER — AFTER WORK` location/time cut from the APPROVED rendered Strip 011.
 
 THIS IS NOT A PAGE.
-Never render V55–V59, Strip 012, BAG SHOULDER/UMBRELLA HAND/PHONE POCKET labels, filenames, reference labels, QA notes, or production metadata.
+Never render V55/V56/V57/V58/V59, Strip 012, BAG SIDE, UMBRELLA HAND, PHONE HAND, PHONE POCKET, WATCH WRIST, LEFT/RIGHT EARBUD production labels, temporary-state names, filenames, reference labels, QA notes, or production metadata.
 
 PRODUCTION SCOPE
-V55–V59 only.
+Internal beats V55–V59 only.
+Reader sees one continuous vertical strip.
 
 ==================================================
-ATTACH — REQUIRED — EXACT SET
+ATTACH — REQUIRED — EXACT PRODUCTION SET
 ==================================================
 
 1. `nari-canonical-flat2d.webp`
 2. `seungjae-canonical-flat2d.webp`
 3. `rainy-building-entrance-reference.webp`
 4. `building-lobby-elevator-reference.webp`
-5. APPROVED rendered Strip 011 image — Nari identity continuity only; do NOT carry Unit 2407 location into this exterior scene
+5. APPROVED rendered Strip 011 image
 
-Missing authority = STOP.
+Do NOT attach or depict Hyun-woo.
+
+If any required canonical WebP or the APPROVED rendered Strip 011 image is missing: STOP. Do not substitute a generic Nari, Seungjae, umbrella, foldable phone, building entrance, lobby, elevator bank, work bag, or previous-strip guess.
 
 ==================================================
-CURRENT CANON / LEGAL CUT
+AUTHORITY / TWO-DAY CUT — ABSOLUTE
 ==================================================
 
-The attached character WebPs are permanent authority.
-This scene occurs `TWO DAYS LATER — AFTER WORK`, so location/pose/clutter reset legally.
-Permanent character identity does NOT reset.
+Permanent visual authority:
+1. current attached character WebPs
+2. current attached building-environment WebPs
 
-CURRENT NARI WEBP WINS:
-- exactly 30
-- long layered very-dark warm-brown hair, default loose unless current WebP/approved state shows the allowed work variation
-- thin practical glasses when shown by canonical/current scene state
-- current warm-cream/oatmeal hoodie / charcoal developer-casual silhouette
-- dark charcoal cargo trousers
-- off-white/light-gray sneakers
-- current dark wrist hair elastic/accessory state
-- exactly ONE practical messenger/shoulder bag in this work commute scene
-- NO old mouth beauty mark, dark-plum hair, yellow scrunchie, headphones-around-neck identity, or retired utility-jacket design
+Temporary rendered continuity authority:
+3. APPROVED rendered Strip 011 image for Nari chapter identity continuity only
 
-SEUNGJAE WEBP WINS:
-- exactly 30, same-generation peer to Nari
-- youthful adult face, medium-brown hair, full youthful hairline
-- lean-to-average build, clearly less broad/intimidating than Hyun-woo
-- contemporary youthful office-casual clothing
+The explicit `TWO DAYS LATER — AFTER WORK` cut legally changes:
+- location from Unit 2407 to the residential-building exterior/shared lobby
+- Nari pose/activity
+- ordinary work/outside clothing-layer state within current canon
+- Nari messenger/work-bag state
+- ordinary personal-phone location
+- the Nari pen-display/tablet may have been taken from the Unit desk to work and now be inside her bag
+
+The cut does NOT redesign either character or reset Unit 2407's offscreen plot state.
+
+CURRENT NARI WEBP WINS.
+CURRENT SEUNGJAE WEBP WINS.
+The APPROVED Strip 011 render never overrides current character WebPs.
+
+==================================================
+CURRENT CHARACTER CANON — ABSOLUTE
+==================================================
+
+NARI
+- Korean woman exactly 30
+- current long layered very-dark warm-brown hair only
+- current thin practical glasses/accessory state
+- current warm-cream/oatmeal developer-casual design family
+- dark-charcoal cargo trousers
+- practical matte shoes appropriate to work commute
+- current dark wrist hair elastic only where canonically shown
+- exactly ONE current-canonical practical messenger/shoulder work bag
+- no old dark-plum/purple hair
+- no mouth beauty mark
+- no yellow scrunchie
+- no headphones-around-neck identity
+- no retired dark graphic hoodie/cropped utility-jacket design
+
+SEUNGJAE
+- Korean man exactly 30, same-generation peer to Nari
+- youthful medium-brown hair/full hairline
+- youthful adult face without older/paternal cues
+- lean-to-average healthy build
+- contemporary youthful office-casual outfit
 - exactly ONE foldable phone
 - exactly ONE smartwatch
-- exactly ONE pair wireless earbuds
+- exactly ONE pair wireless earbuds = exactly TWO individual earbuds total
 - exactly ONE ordinary umbrella
+- no extra phone/watch/earbud pair/umbrella
+- never Hyun-woo-like in build, hair, mask, tattoos, or intimidation
 
 ==================================================
-BUILDING REFERENCE ROLE
+STRIP 011 → STRIP 012 LEGAL HANDOFF — STORY CONTINUITY
 ==================================================
 
-RAINY ENTRANCE:
-- exact canopy, glass entry doors, threshold, rainy exterior material/geography
-- rain remains OUTSIDE
+Strip 011 ended with Unit 2407 prepared:
+- exactly SIX unopened emergency noodle packets in pantry
+- flashlight + portable radio + fully sheathed practical blackout knife fixed in the canonical emergency tray
+- small fruit knife still guarded under SAME sofa cushion
+- binder CLOSED on kitchen counter
+- brass key in entry tray
+- speaker hidden wall-unplugged in closed stockpot cabinet
+- TV dark/inactive + wall-unplugged
+- paper/pen evidence preserved
+- front door CLOSED
+- south-wall panel untouched
 
-LOBBY/ELEVATOR:
-- exact interior entry-to-lobby/elevator geography after threshold
-- glass entrance remains behind once inside
-- elevator bank deeper inside
+Those Unit states remain true OFFSCREEN during Strip 012.
+Do not depict Unit 2407 in V55–V59 and do not imply those states reset merely because the scene is elsewhere.
 
-Do not redesign either location between V55–V59.
-
-==================================================
-START / END
-==================================================
-
-START V55:
-- rainy after-work exterior under/approaching canonical canopy
-- Nari carries exactly ONE current canonical messenger/shoulder bag; tablet fully INSIDE/inactive
-- Seungjae carries one umbrella, phone pocketed, watch worn, one earbud each ear
-- both walking toward SAME glass entrance
-
-END V59:
-- both lobby-side walking inward toward elevator
-- folded umbrella in same hand
-- dead phone returned to same pocket
-- watch/earbuds not yet tested
-- Nari bag remains same shoulder/body side, tablet inside
-- emotional state: ordinary warmth shifted only to mild device concern
+The two-day cut may legitimately:
+- clear the two empty shopping bags
+- put Nari's professional pen-display/tablet inside her work bag
+- put Nari's own personal phone in an ordinary pocket or inside her bag
+- establish after-work weather/clothing state
 
 ==================================================
-WORLD SCALE / SOCIAL PERFORMANCE
+NARI WORK-BAG / PERSONAL-DEVICE STATE — NON-NEGOTIABLE
 ==================================================
 
-- both read as ordinary 30-year-old coworkers on same floor plane
-- preserve first V55 shared relative height/build through strip
-- Seungjae must NOT become taller/broader for romantic dominance or threat
-- Nari/Seungjae remain same-generation adults, not teen romance or chaebol drama
-- entrance doors/canopy/lobby remain normal residential-building scale
-- umbrella/phone/watch/earbuds/bag remain ordinary real-world sizes
+NARI WORK BAG
+- exactly ONE current-canonical messenger/shoulder bag
+- establish ONE physical shoulder/body side in V55; production-only `BAG SIDE`
+- strap lies naturally over shoulder/body
+- bag obeys gravity and walking motion
+- same bag/strap/body side persists V55–V59
+- no second tote/backpack/purse/work bag
 
-PERFORMANCE:
-- V55/V56 friendly after-work walking conversation
-- Seungjae practiced friendly/slightly hopeful, never predatory/smug/villainous
-- V57 Nari genuine restrained warmth, no exaggerated blush/hearts/sparkles
-- V59 phone death = confused/mild concern only
+NARI TABLET
+- SAME current-canonical matte professional pen-display/tablet used in the chapter investigation
+- physically INSIDE Nari's work bag throughout Strip 012
+- screen inactive/dark
+- not visible floating through fabric
+- no message/glow before Strip 013 V62
 
-==================================================
-VERTICAL HEIGHT MAP
-==================================================
-
-Approximate story-art allocation:
-- V55 rainy after-work establishing: 18%
-- V56 invitation: 18%
-- V57 Nari response: 16%
-- V58 real entrance crossing + umbrella fold: 27% — LARGEST
-- V59 phone dies + pocket return: 21%
+NARI PERSONAL PHONE
+- SAME personal smartphone established in Strip 009
+- may be in an ordinary pocket or inside the bag after the two-day cut
+- remains INACTIVE and NOT story-visible in Strip 012
+- must never be confused with Seungjae's foldable phone
+- no Nari-phone failure occurs in this strip
 
 ==================================================
-V55 — RAINY CANOPY / AFTER-WORK ESTABLISHING — FULL BLUEPRINT
+SEUNGJAE PROP TOPOLOGY — FREEZE IN V55
 ==================================================
 
-CAMERA:
+Freeze these production-only states from the first clear shared V55 composition:
+
+UMBRELLA HAND
+- one anatomical Seungjae hand holds SAME umbrella handle
+- same anatomical hand owns the umbrella through V55–V59 except for brief physically visible two-hand assistance during folding/phone handling
+- final V59 state returns umbrella to this same hand
+
+PHONE POCKET
+- choose ONE real clothing pocket appropriate to Seungjae's canonical outfit
+- SAME foldable phone starts fully inside this pocket
+- exact pocket remains the phone's storage location after V59 return
+- no second pocket jump
+
+WATCH WRIST
+- smartwatch remains strapped to ONE canonical wrist
+- same wrist through Strip 012/013
+- not tested yet in Strip 012
+
+EARBUDS
+- exactly ONE earbud physically seated in each ear
+- both remain seated through Strip 012
+- not tested/removed until Strip 013 V60
+
+==================================================
+UMBRELLA OPEN→FOLDED CONTINUITY — ABSOLUTE
+==================================================
+
+The umbrella cannot be folded in V58 unless it was visibly OPEN before that action.
+
+V55 START UMBRELLA STATE
+- SAME single umbrella is OPEN at ordinary commuter scale
+- canopy/shaft/handle form one connected physical object
+- Seungjae holds handle in UMBRELLA HAND
+- both have just reached / are reaching the canonical entrance canopy from the rainy exterior
+- umbrella remains above/around Seungjae's real body and may physically cover part of Nari when they walk close enough; do not stretch canopy to impossible size
+- once fully under building canopy, active rain no longer falls directly onto them, but umbrella remains open until the explicit V58 fold
+
+V55–V57
+- umbrella remains SAME open object
+- no silent collapse/fold/disappearance
+- no hand switch
+
+V58
+- only AFTER both characters are fully lobby-side and the entrance threshold is clear may Seungjae fold the umbrella
+
+V58 END / V59
+- SAME umbrella is fully folded
+- final folded umbrella returns to SAME UMBRELLA HAND
+- wet canopy material remains ordinary/matte; small dripping/wetness allowed, no glossy advertising effect
+
+==================================================
+BUILDING REFERENCE ROLE — ABSOLUTE
+==================================================
+
+`rainy-building-entrance-reference.webp`
+- exact canopy/front approach
+- exact same glass entry doors
+- exact threshold relationship to lobby
+- rainy sidewalk/street relationship
+- rain remains exterior
+
+`building-lobby-elevator-reference.webp`
+- exact just-inside entrance geometry
+- exact glass entrance behind after crossing
+- exact walking route/depth to elevator bank
+- exact elevator bank/call-area relationship
+- matte materials; no mirror-lobby reconstruction
+
+DIRECTIONAL RULE
+- exterior approach → same glass entrance → lobby interior → elevator deeper inside
+- after crossing, glass entrance remains physically BEHIND the characters
+- elevator bank remains physically AHEAD/deeper inside
+- camera reverse shots may flip screen direction but not story-world direction
+
+==================================================
+GLASS ENTRANCE MECHANISM — REFERENCE-BOUND REAL ACTION
+==================================================
+
+Use the ACTUAL door opening mechanism visible in the approved entrance/lobby WebPs.
+Do NOT replace it with another door type for convenience.
+
+If the approved reference clearly shows a manual hinged/pivot leaf:
+- use Seungjae's non-umbrella free hand as the default door-control hand
+- real handle/edge contact precedes opening
+- hold/control door while Nari crosses first
+- Seungjae then crosses while retaining real door control until his body/umbrella clear threshold
+- only then release and allow same door to settle shut
+
+If the approved reference clearly shows automatic sliding doors:
+- show the same panels physically opening along their real tracks before either body crosses
+- both cross only through the open gap
+- panels close only after both bodies/umbrella clear
+- do NOT invent hand contact with an automatic door
+
+In either case:
+- both bodies cross the threshold exactly once
+- no clipping through glass/frame
+- door never closes through person/bag/umbrella
+- `THUNK` belongs to the real final door-settle/close event after both are inside
+- final entrance is physically behind them
+
+The attached approved WebPs decide the mechanism. Never average or improvise a third mechanism.
+
+==================================================
+START STATE — V55 — ABSOLUTE
+==================================================
+
+LOCATION
+- rainy after-work exterior at/approaching canonical residential entrance canopy
+- same glass entrance ahead
+- lobby/elevator visible only as geographically plausible depth through glass where reference allows
+
+NARI
+- current canonical identity
+- exactly ONE messenger/work bag on frozen BAG SIDE
+- SAME tablet fully inside bag, inactive
+- own personal phone inactive and out of story view
+- hands otherwise naturally free
+
+SEUNGJAE
+- current canonical identity
+- SAME umbrella OPEN in UMBRELLA HAND
+- SAME foldable phone fully in frozen PHONE POCKET
+- SAME smartwatch worn on WATCH WRIST
+- exactly one earbud in each ear
+
+BOTH
+- walking together toward same entrance
+- same floor plane / believable peer scale
+- ordinary friendly after-work state
+
+==================================================
+WORLD-SCALE / RELATIVE-BODY / WEATHER REALITY — ABSOLUTE
+==================================================
+
+- Nari and Seungjae read as ordinary same-generation 30-year-old adults
+- first clear V55 shared full-/three-quarter-body view freezes their chapter-local relative height/build relation
+- preserve that relation through V59 and into Strip 013
+- Seungjae stays lean-to-average and clearly less broad/intimidating than Hyun-woo
+- no foreground trick makes either character giant/small
+- entrance/canopy/lobby normal residential scale
+- umbrella ordinary commuter scale
+- phone ordinary foldable-phone scale
+- smartwatch real wristwatch scale
+- earbuds tiny wearable scale
+- bag/tablet ordinary professional commute scale
+- rain falls under gravity outside; no indoor rain
+- wet floor/glass remains matte, no mirror-person duplication
+- no cinematic blue rain grading/bloom/reflection spectacle
+
+==================================================
+PERFORMANCE ARC — ABSOLUTE
+==================================================
+
+V55
+- relaxed/tired after-work coworker walk
+- ordinary social warmth
+
+V56
+- Seungjae = practiced friendly, slightly hopeful invitation
+- Nari = listens while walking; no melodrama
+
+V57
+- Nari = genuine restrained warmth
+- Seungjae = pleased, not triumphant
+
+V58
+- ordinary coordinated entrance crossing/folding mechanics
+- conversation warmth persists
+
+V59
+- dead phone produces mild confusion/concern only
+- no horror/panic yet
+
+No romance glamour, hearts, sparkles, villain smirk, chaebol dominance, chibi reaction, or emotional reset.
+
+==================================================
+VERTICAL HEIGHT / RHYTHM MAP — ABSOLUTE
+==================================================
+
+Approximate usable story-art allocation before small gutters:
+- V55 rainy after-work establishing / open umbrella / relative scale: 18%
+- V56 invitation while walking: 17%
+- V57 restrained answer / arrival at entrance: 15%
+- V58 real door opening→threshold→door settle→umbrella fold: 29% — LARGEST
+- V59 real phone retrieval/wake failure/return: 21%
+
+Tolerance roughly ±3% for body/prop/threshold proof.
+V58 must be large enough to show door mechanism + crossing + umbrella fold as sequential actions.
+No giant dead bottom.
+
+==================================================
+V55 — RAINY CANOPY APPROACH / AFTER-WORK ESTABLISHING — FULL VISUAL BLUEPRINT
+==================================================
+
+STORY PURPOSE:
+Establish the legal two-day/time/location cut, both current character identities, their peer-scale relationship, and every recurring carried/worn prop before dialogue mechanics matter.
+
+CAMERA
 - medium-wide canonical rainy entrance approach
-- both characters visible full/three-quarter body enough to establish relative scale and carried states
-- rain exterior, canopy overhead, glass entrance ahead
+- enough full/three-quarter body to see feet/floor relation, BAG SIDE, OPEN umbrella and relative scale
+- same canopy/glass entrance anchors from approved reference
 
 NARRATION:
 `TWO DAYS LATER — AFTER WORK`
 
-NARI:
+NARI
 - current canonical developer look
-- exactly one shoulder/messenger bag; establish its physical shoulder/body side
-- tablet not visible outside bag
+- exactly one work bag on frozen BAG SIDE
+- tablet hidden inside
+- natural walk toward entrance
 
-SEUNGJAE:
+SEUNGJAE
 - current canonical age-30 face/hair/outfit
-- umbrella in one established hand
-- phone remains in one established real pocket
-- watch same wrist
-- earbuds in both ears
+- SAME umbrella visibly OPEN and connected handle→shaft→canopy
+- UMBRELLA HAND on handle
+- phone still completely in PHONE POCKET
+- watch on WATCH WRIST
+- one earbud in each ear
 
-END:
-- both continue toward entrance
+RAIN / COVERAGE
+- rain clearly active outside canopy edge
+- if the pair are still partly outside canopy, open umbrella protects Seungjae and only as much of Nari as physically fits under same real canopy
+- once under fixed canopy, rain remains outside/at edge
 
-REJECT IF:
-- retired Nari design returns
-- Nari has >1 bag or visible tablet
-- Seungjae looks older/paternal/executive
-- rain/building reference drifts
+END V55
+- travel direction frozen toward glass entrance
+- all prop positions/ownership frozen
+
+AUTOMATIC REJECT V55 IF
+- umbrella starts folded/closed/missing
+- Nari has extra bag/visible floating tablet
+- Seungjae device counts wrong
+- Seungjae reads older/paternal/executive
+- relative scale drifts
+- building/rain reference changes
 
 SMALL BLACK GUTTER.
 
 ==================================================
-V56 — DINNER INVITATION WHILE WALKING — FULL BLUEPRINT
+V56 — DINNER INVITATION WHILE STILL WALKING — FULL VISUAL BLUEPRINT
 ==================================================
 
-CAMERA:
-- moving two-shot under canopy/near entrance
-- shoulders/hips remain oriented along travel route; heads turn naturally toward each other
-- do not stop them in a promotional romance pose
+CAMERA
+- moving two-shot under/near canopy
+- bodies/hips/feet continue toward real entrance
+- heads turn naturally toward each other without rotating whole bodies away from route
+- open umbrella remains physically in UMBRELLA HAND
+- bag/phone/watch/earbuds unchanged
 
 SEUNGJAE:
 `WANT TO GET DINNER SOMETIME? WHEN WE'RE NOT WORKING LATE?`
 
-PERFORMANCE:
+PERFORMANCE
 - friendly, socially polished, slightly hopeful
-- no smug grin or looming
+- no looming/smug/villain/chaebol energy
 
-END:
-- Nari receives question while still walking
+END V56
+- both still moving toward entrance
+- Nari receives question
+- no prop changes
+
+AUTOMATIC REJECT V56 IF
+- characters stop in promotional romance pose
+- umbrella silently folds/switches hand
+- travel direction reverses
+- phone/watch/earbuds/bag reset
 
 SMALL BLACK GUTTER.
 
 ==================================================
-V57 — RESTRAINED WARM RESPONSE — FULL BLUEPRINT
+V57 — RESTRAINED WARM RESPONSE / ARRIVE AT SAME ENTRANCE — FULL VISUAL BLUEPRINT
 ==================================================
 
-CAMERA:
-- medium Nari/Seungjae reaction composition preserving travel direction and exterior anchors
+CAMERA
+- medium shared/reaction composition preserving same approach direction
+- glass entrance now physically close/reachable
+- approved exterior anchors remain
 
 NARI:
 `YEAH. I'D LIKE THAT.`
 
-PERFORMANCE:
+NARI PERFORMANCE
 - genuine restrained adult warmth
 - slight natural shyness allowed
-- no extreme blush, hearts, sparkle effects, glamour close-up
+- no hearts/sparkles/extreme blush/glamour close-up
 
-SEUNGJAE:
+SEUNGJAE
 - warm pleased response, not triumphant
+- umbrella still OPEN in same UMBRELLA HAND
+- non-umbrella hand remains available for door control if approved door is manual
 
-END:
-- both arrive at entrance
+END V57
+- both reach same entrance
+- neither has crossed yet
+- umbrella still open
+- Nari bag/tablet state unchanged
+
+AUTOMATIC REJECT V57 IF
+- either character is already lobby-side
+- umbrella is already folded
+- building entrance changes
+- body scale/facing resets
 
 SMALL BLACK GUTTER.
 
 ==================================================
-V58 — REAL GLASS-DOOR CROSSING / UMBRELLA FOLD — FULL BLUEPRINT
+V58 — SAME GLASS ENTRANCE / REAL CROSSING / DOOR SETTLE / UMBRELLA FOLD — FULL VISUAL BLUEPRINT
 ==================================================
 
 STORY PURPOSE:
-Physically move both characters from rain exterior to canonical lobby and preserve prop occupancy.
+Move both adults physically from rainy exterior to canonical lobby while preserving door mechanism, bag, umbrella, phone, watch and earbud ownership.
 
-A. DOOR MECHANISM
-- SAME canonical glass entrance
-- show actual opening according to reference frame/hinge/track/pivot
-- no clipping through glass/frame
+COMPOSITION
+Use a continuous action sequence or 3–5 same-event subviews.
+Never compress opening + crossing + closing + folding into one impossible pose.
 
-B. THRESHOLD
-- exterior rainy start
-- both bodies cross once to lobby side
-- Nari bag remains attached to same shoulder/body
-- Seungjae umbrella stays physically held
+A. OPEN SAME ENTRANCE
+- obey the reference-bound mechanism block above exactly
+- opening gap exists BEFORE any body crosses
+- Seungjae's phone stays pocketed
+- open umbrella remains in UMBRELLA HAND
+- Nari bag stays on BAG SIDE
 
-C. RAIN BOUNDARY
-- after crossing, active rain remains behind/outside glass
-- small wet umbrella/clothing/floor traces near entrance allowed
-- NO rain falling inside
+B. NARI CROSSES
+1. Nari leading foot crosses exterior→lobby threshold through actual open gap
+2. body follows
+3. bag/strap physically follows without clipping glass/frame
+4. Nari fully clears door path
 
-D. UMBRELLA FOLD
-- only after fully inside
-- Seungjae may briefly use two hands to close/fold SAME umbrella
-- phone remains in pocket during fold
-- folded umbrella ends back in same established umbrella hand
+C. SEUNGJAE CROSSES
+1. Seungjae follows through same open gap
+2. OPEN umbrella is angled/carried through gap without clipping frame
+3. phone remains in PHONE POCKET
+4. watch/earbuds remain worn
+5. Seungjae fully clears threshold
 
-SFX at actual door settle:
+D. SAME DOOR SETTLES CLOSED
+- only after both bodies + bag + umbrella clear the moving panels/leaf
+- same mechanism returns to closed state
+- `THUNK` at actual final settle/close
+- entrance now physically behind both characters
+
+SFX:
 `THUNK`
 
-END:
-- entrance behind
-- elevator ahead
-- both lobby-side
+E. UMBRELLA FOLD — ONLY AFTER FULLY INSIDE
+1. Seungjae stops/continues at slow lobby walk with safe clearance
+2. non-umbrella hand reaches SAME wet umbrella shaft/canopy hardware
+3. canopy physically collapses/folds along real ribs/shaft
+4. no finger/canopy clipping
+5. if a retaining strap is shown, it wraps around actual folded canopy
+6. second assisting hand clears
+7. folded umbrella returns to SAME UMBRELLA HAND
+8. no second umbrella appears
 
-REJECT IF:
+RAIN BOUNDARY
+- active falling rain remains OUTSIDE glass
+- small wet umbrella/clothing/floor traces near entrance allowed
+- no rain falling inside lobby
+- glass cannot show duplicate/reflected humans as extra people
+
+END V58
+- both lobby-side
+- entrance closed/behind
+- elevator bank ahead/deeper inside
+- folded umbrella SAME UMBRELLA HAND
+- phone still in PHONE POCKET
+- watch/earbuds unchanged
+- Nari bag same BAG SIDE, tablet still inside/inactive
+
+AUTOMATIC REJECT V58 IF
+- crossing occurs through closed door
+- approved door mechanism changes
+- door closes through a body/umbrella/bag
+- entrance remains magically ahead after crossing
+- umbrella folds before both are lobby-side
+- umbrella changes hand/duplicates
+- phone appears during fold
 - indoor rain
-- glass reflection duplicates people
-- phone appears during umbrella fold
-- umbrella changes hand without visible handling
-- body/bag/umbrella clips through door
+- human reflection becomes duplicate person
 
 SMALL BLACK GUTTER.
 
 ==================================================
-V59 — PHONE POCKET→HAND→DEAD→POCKET — FULL BLUEPRINT
+V59 — SAME FOLDABLE PHONE POCKET→REAL WAKE TEST→DEAD→SAME POCKET — FULL VISUAL BLUEPRINT
 ==================================================
 
-CAMERA:
-- canonical lobby walking view toward elevator bank
-- enough body context to prove which hand reaches which pocket
+STORY PURPOSE:
+Create the first unexplained personal-device failure with real pocket/device/hand mechanics while preserving all other props for Strip 013.
 
-ACTION:
-1. free hand reaches SAME established phone pocket
-2. fingers grip SAME foldable phone
-3. phone leaves pocket
-4. Seungjae checks same screen/device
-5. device is dead/unresponsive
-6. dialogue occurs
-7. SAME phone physically returns to SAME pocket
-8. hand releases; phone remains pocketed
+START
+- both walking inward toward elevator bank
+- entrance behind
+- folded umbrella SAME UMBRELLA HAND
+- Seungjae phone still in SAME PHONE POCKET
+- watch still on WATCH WRIST and not yet tested
+- both earbuds still seated and not yet tested
+- Nari bag/tablet unchanged
 
+PHONE HAND
+- the anatomical hand opposite UMBRELLA HAND becomes production-only `PHONE HAND`
+- same hand performs pocket pickup and final pocket return unless visible assistance is required by the exact canonical foldable-phone construction
+
+A. REAL POCKET PICKUP
+1. PHONE HAND reaches SAME PHONE POCKET
+2. fingers enter/access actual pocket opening
+3. grip SAME foldable phone body
+4. phone physically leaves pocket
+5. old pocket visibly/logically empty
+6. no duplicate remains in pocket
+
+B. REAL WAKE/POWER ATTEMPT
+- use the foldable-phone construction shown by current Seungjae WebP
+- make at least ONE visible ordinary wake/power attempt on a real button/screen area
+- the phone does NOT produce a normal active screen
+- screen remains black/unresponsive
+
+If the canonical phone state can be checked while folded:
+- keep it folded and test that real visible state
+
+If the canonical phone must physically open to expose its usable screen:
+- UMBRELLA HAND may temporarily secure the already-folded umbrella against the same forearm/torso while assisting the phone hinge
+- phone opens along its actual hinge before screen check
+- after the failed check, phone closes again before pocket return
+- umbrella never drops/floats/switches ownership
+
+No invented second phone, charging cable, error hologram, battery icon or floating UI.
+
+C. DIALOGUE AFTER FAILED ATTEMPT
 SEUNGJAE:
 `WAIT. MY PHONE JUST DIED.`
 
-PERFORMANCE:
-- mild confusion/concern, not panic
+PERFORMANCE
+- mild confused concern
+- Nari shows mild concern only
+- no panic/horror
 
-NARI:
-- mild concern only
+D. REAL PHONE RETURN
+1. if opened, SAME phone returns to its normal pocketable closed/folded state first
+2. PHONE HAND lowers SAME phone to SAME PHONE POCKET
+3. phone enters real pocket opening
+4. fingers release
+5. phone remains fully pocketed/dead
+6. PHONE HAND becomes free
+7. folded umbrella is again clearly in SAME UMBRELLA HAND
 
-END / SEAM:
-- both continue inward
-- dead phone pocketed
-- Strip 013 inherits exact bag/umbrella/pocket/watch/earbud and social-concern state
+END / EXACT SEAM INTO STRIP 013
+- both still lobby-side moving inward toward SAME elevator bank
+- entrance remains behind
+- Seungjae SAME dead foldable phone fully in SAME PHONE POCKET
+- SAME folded umbrella in SAME UMBRELLA HAND
+- SAME smartwatch on SAME WATCH WRIST, NOT YET tested
+- exactly one earbud in each ear, NOT YET tested
+- Nari same BAG SIDE / same messenger bag
+- SAME tablet remains physically inside Nari bag and inactive
+- Nari personal phone remains inactive/out of story view
+- exact V55 relative character scale persists
+- emotional state = friendly warmth shifted to mild device concern only
+
+AUTOMATIC REJECT V59 IF
+- phone appears magically in hand
+- no visible wake/power attempt
+- phone is shown normally active while dialogue says it died
+- phone returns to different pocket
+- phone remains in hand into Strip 013
+- umbrella disappears/switches hand
+- watch or earbuds fail early
+- tablet activates early
+- Nari phone is confused with Seungjae phone
+- travel axis flips
 
 ==================================================
-EXACT TEXT ONLY
+EXACT READER-FACING TEXT — DO NOT CHANGE
 ==================================================
 
 `TWO DAYS LATER — AFTER WORK`
@@ -279,47 +619,79 @@ EXACT TEXT ONLY
 `WAIT. MY PHONE JUST DIED.`
 
 No extra readable text.
+No extra SFX.
 
 ==================================================
-STATE LEDGER
+STRIP 012 STATE LEDGER — MUST REMAIN TRUE
 ==================================================
 
-NARI BAG:
-one canonical messenger/shoulder bag on same body side, tablet inside throughout.
+NARI
+- current canonical work/commute identity
+- exact one-bag BAG SIDE frozen V55→V59
+- personal phone inactive/out of story view
 
-SEUNGJAE UMBRELLA:
-open exterior → physical fold only after inside → folded same hand.
+NARI BAG / TABLET
+- same messenger bag on same body side throughout
+- same chapter tablet physically inside/inactive throughout
 
-SEUNGJAE PHONE:
-same pocket → hand V59 → dead → same pocket.
+SEUNGJAE UMBRELLA
+- V55–V57 OPEN in same UMBRELLA HAND
+- V58 real post-threshold fold
+- V59 folded in same UMBRELLA HAND
 
-WATCH/EARBUDS:
-unchanged/unfailed through V59.
+SEUNGJAE PHONE
+- SAME PHONE POCKET V55–V58
+- V59 real pickup → real wake/power failure → SAME pocket return
+- dead at end
 
-ROUTE:
-exterior → real glass threshold → lobby → elevator direction.
+SEUNGJAE WATCH
+- same WATCH WRIST throughout
+- not tested/failed until Strip 013 V60
+
+SEUNGJAE EARBUDS
+- one each ear throughout Strip 012
+- neither removed/tested until Strip 013 V60
+
+BUILDING ROUTE
+- rainy exterior → same open entrance → real threshold crossing → entrance closes behind → same lobby → elevator direction ahead
+
+RELATIVE SCALE
+- first V55 shared-body relation persists through V59 and is seam authority for Strip 013
+
+UNIT 2407 OFFSCREEN
+- Strip 011 preparedness/evidence states remain intact during this exterior/lobby scene
 
 ==================================================
-FINAL REJECT
+FINAL AUTOMATIC REJECT
 ==================================================
 
-Reject if:
-- production labels render
-- retired Nari design returns
-- Seungjae appears older than 30 or Hyun-woo-like
-- relative body scale changes
-- scene becomes sinister or melodramatic romance
-- travel direction/body facing resets
-- clothing/bag/umbrella states jump
-- extra/missing/duplicated limbs/devices appear
-- rain enters lobby
-- reflections duplicate humans
-- entrance mechanism changes
-- phone pickup/return teleports
+Reject if ANY occurs:
+- production/temp-state labels render
+- current Nari WebP contradicted by retired design
+- Seungjae appears older than 30, paternal, executive, or Hyun-woo-like
+- first V55 relative body scale changes later
+- umbrella is folded before V58 or never visibly open before folding
+- umbrella count/hand ownership changes
+- Nari bag changes side/duplicates/disappears
+- Nari tablet leaves bag/activates early/X-ray shows through fabric
+- Nari personal phone is confused with Seungjae's phone
+- Seungjae phone pocket changes
+- watch switches wrist/fails early
+- earbud count/ears change/fail early
+- approved entrance/lobby geometry changes
+- entrance mechanism changes from approved reference
+- either body clips through closed glass/door/frame
+- door closes before body/bag/umbrella clear threshold
+- rain falls inside lobby
+- glass reflections create duplicate people/devices
+- travel axis reverses after crossing
+- V59 phone pickup/return teleports
+- V59 has no physical wake/power attempt
+- scene becomes sinister, melodramatic romance, or glamour advertising
 - glossy/cinematic/photoreal/3D style appears
-- text hides threshold/device proof
-- gutters missing/oversized
-- dead bottom appears
+- text/SFX obscures umbrella/threshold/phone proof
+- black gutters missing/oversized
+- giant dead bottom appears
 ```
 
 ## Production Thread Attachments — EXACT SET
