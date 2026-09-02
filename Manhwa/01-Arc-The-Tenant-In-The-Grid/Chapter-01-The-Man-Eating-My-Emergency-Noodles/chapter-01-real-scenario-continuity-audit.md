@@ -1,355 +1,333 @@
-# Chapter 1 — `manhwa-2d-production-auditor` Sixth Full Deep-Hardening Audit
+# Chapter 1 — `manhwa-2d-production-auditor` Seventh Full Deep-Hardening Audit
 
-Status: **SIXTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
+Status: **SEVENTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
 
-This record supersedes the first, second, third, fourth, and fifth hardening audits as the current prompt/preproduction authority.
+This record supersedes the first through sixth hardening audits as the current prompt/preproduction authority.
 
-The fifth PASS was deliberately **not accepted as proof**. A sixth clean-room pass re-read Strip 001 through Strip 032 and the reusable workflow/template/layout/readiness rules.
+The sixth PASS was deliberately **not accepted as proof**. A seventh clean-room pass re-read Strip 001 through Strip 032 and challenged the current package for a new failure class rather than rechecking only previously known defects.
 
-The sixth-pass failure question was:
+The seventh-pass failure question was:
 
-> Can the generator obey all current continuity words while still producing the wrong physical object orientation, a mirrored hinge/handle/track, a hidden scale change, impossible container fit, fake contact created by 2D overlap, impossible foreground/background depth, floating/clipping cords or cloth, or a falling object that passes through solid geometry?
+> Can the generator obey the current causality, topology, orientation, scale and depth rules while still breaking the scene through a silent 180° camera flip, wrong eyeline, floating screen/page text, false reflection/shadow figure, anatomically unusable grip, clipped/floating worn item, wrong audio source, weather crossing the building envelope, or occlusion that hides the required action?
 
-Where yes, the prompt/control files were repaired again. After repair, a second complete Strip 001→032 clean-room read was performed from the current GitHub files.
+Where yes, prompts/control rules were repaired again.
 
-# Sixth-Pass Audit Focus
+A new binding global authority was added:
+`Manhwa/seventh-hardening-visual-logic-addendum.md`
 
-The sixth pass audited:
-- permanent and temporary object orientation
-- front-door/cabinet/glass-door/elevator hinge/handle/track mechanics
-- binder spine/rings/page-turn direction
-- knife/sheath mouth/blade axis
-- appliance cord-origin and wall-plug routing
-- object world-space scale across close-ups
-- cabinet/stockpot/towel/speaker physical fit
-- emergency-tray capacity and item orientation
-- notebook A5-like footprint on a crowded table
-- real body/object contact vs silhouette overlap
-- true protective blocking depth in floor-plan space
-- real threshold crossings
-- gravity/slack/support of loose cords/plugs/towels/cloth/paper/packets
-- unobstructed falling-object trajectories
-- comparable framing for presence→absence evidence
-- final hero composition preserving the same room depth/scale
-- all earlier canon/provenance/topology/side/worn-state/narration/no-label gates
+After all seventh repairs, the current post-repair Strip 001→032 files were read again from the beginning. That second clean-room pass found zero additional deterministic prompt/canon defects.
 
-# Sixth-Pass Findings And Repairs
+# Seventh-Pass Audit Focus
 
-## 1 — Strip 002: Door And Binder/Key Orientation Could Still Drift
+The seventh pass audited:
+- continuous conversation/action 180-degree axis
+- character eyelines to actual story-world targets
+- offscreen/device sound source geography
+- device text attached to actual TV/fridge/tablet/phone/smart-lock planes
+- print/handwriting attached to actual binder/note/notebook planes
+- reflection/shadow false duplicates and false horror silhouettes
+- grip/finger ergonomics on critical props and hardware
+- scrunchie/headphone/bag/watch/earbud/mask-strap physical attachment
+- hair/clothing/accessory front/behind clipping
+- rain/glass/exterior-interior boundary
+- occlusion/crop being used to evade action proof
+- all earlier canon, causality, provenance, topology, side, orientation, scale, fit, depth, gravity, wall-socket, narration and no-label gates
 
-The correct objects existed, but reverse views could flip the Unit door hinge/handle/smart-lock side or change binder/key orientation.
+# Seventh-Pass Findings And Repairs
+
+## 1. Strip 003 — Counter Conversation Could Cross Axis / Miss The Real Lamp
 
 Repair:
-- front-door hinge/handle/lock/opening mechanics frozen to canon
-- binder spine/ring orientation fixed
-- key placed at one fixed distinct counter position beside binder
-- binder/key scale/support/depth frozen through Strip 004
+- one readable counter-conversation axis
+- Nari/Mrs. Na keep same physical sides
+- Mrs. Na's indication and eyeline point toward the actual canonical hallway lamp
+- neutral reorientation required before any true axis crossing
+- no reflected/shadow duplicate women
 
 **PASS after repair.**
 
-## 2 — Strip 004: Thermostat Could Become New Permanent Architecture
+## 2. Strip 005 — Chopstick Contact And First Voice Direction Could Be Visually Fake
 
 Repair:
-- exact 19°C remains required
-- use canonical control if visible
-- otherwise only smallest canon-subordinate wall/control micro-detail inside existing canonical geometry
-- no giant smart panel/hologram/new wall architecture
-- door exit/close reuses exact hinge/handle/lock construction
+- one believable two-stick carrying grip before release
+- fingers visibly let both sticks go without fusing/clipping
+- unknown natural male voice stays at the actual canonical speaker
+- Nari's gaze turns toward that real speaker position
+- no reflected/shadow Hyun-woo or unknown figure
 
 **PASS after repair.**
 
-## 3 — Strip 005: Two Chopsticks Could Re-Land Between Adjacent Slices
+## 3. Strip 006 — Plug Could Be “Touched” Without A Usable Grip / TV Text Could Float
 
 Repair:
-- exactly two sticks
-- real hand release and gravity fall
-- both settle on same floor plane
-- final relative angle/spacing/tip orientation frozen through V25→Strip006 V26
+- fingers/thumb grip usable surfaces of the PLUG BODY, never prongs/cable
+- no fingers through plug/wall/furniture
+- TV helpful text remains on the actual TV screen plane
+- speaker/TV source eyelines remain correct
+- no reflected human/Hyun-woo/shadow figure in TV/windows/appliances
 
 **PASS after repair.**
 
-## 4 — Strip 006: Wall-Unplugged Cord Could Still Be Physically Impossible
+## 4. Strip 007 — TV/Fridge Text And Nari Target Geography Could Drift
 
 Repair:
-- one continuous appliance-side cord origin
-- same cord length/route family
-- loose plug obeys gravity and slack
-- cord cannot clip through TV stand, wall, cabinet, counter, furniture, TV/speaker body
-- same-object plug/socket proof cannot duplicate cable/plug/outlet
+- TV text stays inside TV screen plane
+- fridge hostile text stays inside narrow fridge display plane
+- V34 message truly disappears with the same physical display dark
+- Nari's TV→fridge→entry eye/head/body target progression remains tied to actual apartment geography
+- no reflective/shadow duplicate human
 
 **PASS after repair.**
 
-## 5 — Strip 008: Speaker Stack Could Fit Only By Hidden Resizing
+## 5. Strip 008 — Paper Writing Could Become Floating UI / Hidden Writer Could Appear
 
 Repair:
-- real cabinet interior volume binding
-- speaker, cord, plug, stockpot, lid and two towels keep stable world-space scale
-- stockpot rests on real support plane
-- no cabinet enlargement/new cavity/shelf
-- no cord/towel/lid/speaker solid-volume intersection
-- cabinet must still physically close
+- Nari's pen uses a real writing grip and actual paper contact
+- original and supernatural handwriting follow SAME physical paper plane/perspective
+- supernatural letters appear only behind the moving pen tip
+- no shadow/reflected hand/person/face/silhouette writes the reply
+- fruit knife enters a real gap beneath a lifted cushion instead of clipping through sofa
 
 **PASS after repair.**
 
-## 6 — Strip 010: Binder Could Mirror Its Binding Or Turn Pages From The Wrong Side
+## 6. Strip 009 — Photo Test Could Use Floating Phone UI Or Wrong Lens/Gaze
 
 Repair:
-- same spine/ring side, top/bottom orientation and reading direction
-- binder surface-supported at stable scale
-- Section16→real page edge contact→page pivot around same binding→Section18
-- no floating/unbound/simultaneous fake pages
+- real phone grip and camera direction toward actual note
+- captured image and camera UI stay inside SAME phone screen plane
+- captured image retains same-scene context while omitting note evidence
+- tablet interference stays on actual tablet plane
+- Nari's gaze follows note→phone→desk/tablet targets
+- no reflected duplicate person/object
 
 **PASS after repair.**
 
-## 7 — Strip 011: Emergency Tray Could Fit Through Tool Resizing Or Overlap
+## 7. Strip 010 — Investigation Text Could Detach From Devices/Pages
 
 Repair:
-- tray real footprint/depth fixed
-- flashlight, radio and sheathed knife retain stable scale
-- three distinct non-overlapping rest zones/orientations
-- knife fully sheathed, handle toward chair
-- this exact tray layout becomes the later-night authority
+- tablet warning stays on tablet screen
+- binder sections/handwriting stay on actual binder pages
+- phone messages stay on phone screen
+- page text does not remain floating after a page turn
+- Nari's evidence-reading eyelines track actual tablet/phone/binder locations
+- grips on phone/binder remain physically usable
 
 **PASS after repair.**
 
-## 8 — Strip 012: Building Entrance Could Change Door Mechanism
+## 8. Strip 012 — Rain/Glass And Bag/Umbrella/Phone Attachment Could Break Reality
 
 Repair:
-- actual reference controls panel count, hinge/track/pivot behavior and threshold
-- exterior→lobby crossing must happen through a real opening
-- `THUNK` belongs to actual door closing/settling mechanism
-- no body clipping through glass/frame
+- rain remains outside after threshold crossing
+- lobby does not contain active indoor rainfall
+- glass cannot create reflected duplicate people/devices/umbrella
+- Nari's bag strap physically follows SAME shoulder/body contour
+- Seungjae's umbrella uses a real handle grip
+- phone physically exits/returns SAME clothing pocket
 
 **PASS after repair.**
 
-## 9 — Strip 013: Elevator Entry Could Be Faked By 2D Layering
+## 9. Strip 013 — Wearables And Private Tablet Could Float/Clip
 
 Repair:
-- exact reference elevator door panel/track mechanism
-- real opening before entry
-- Nari physically crosses lobby→cab threshold
-- Seungjae remains lobby-side
-- no door panel/body/bag clipping
+- smartwatch wraps the same wrist
+- one specific earbud physically leaves/returns the same ear
+- umbrella remains real SAME-hand grip
+- bag strap/body and tablet-inside-bag depth physically coherent
+- tablet text remains on actual screen plane inside bag
+- Nari's private eyeline and Seungjae's non-reading angle remain coherent
+- no reflected lobby/elevator duplicate people
 
 **PASS after repair.**
 
-## 10 — Strip 015: Returned Tools Could Rotate/Reset Inside Tray
+## 10. Strip 014 — Blackout Could Preserve Impossible Shadows / Worn Items Could Clip
 
 Repair:
-- flashlight returns exact Strip011 zone/orientation
-- radio returns exact Strip011 zone/orientation
-- knife/sheath remains exact third tray state
-- no tool shrink/overlap/float
+- scrunchie physically encircles same wrist
+- headphones physically rest around neck/collar/hoodie without passing through hair/jaw/neck
+- powered shadows/highlights disappear/change consistently when power cuts
+- no invented rim light, shadow-person, reflected Hyun-woo or unknown figure
+- Nari turns toward actual hallway-lamp direction
 
 **PASS after repair.**
 
-## 11 — Strip 016: Knife Could Emerge Through The Sheath Side
+## 11. Strip 016 — `SLURP` Could Migrate / Knife Grip And Teaser Silhouette Could Be Fake
 
 Repair:
-- one stable sheath-mouth/blade axis
-- blade exits through actual sheath mouth only
-- no clipping through sheath wall, hand, tray, flashlight, radio, keyboard, desk or body
-- stable knife/sheath scale before/after draw
-- real fingers visibly grip handle
+- first `SLURP` spatially originates at actual dining-table direction
+- Nari turns and walks toward that real source
+- KNIFE HAND uses a real handle grip, never blade/fused overlap
+- worn items/hair cannot clip through body/knife
+- no reflected/shadow/silhouette Hyun-woo before actual V75B seated teaser
 
 **PASS after repair.**
 
-## 12 — Strip 017: Dining Props Were Side-Locked But Not Scale/Depth-Locked
+## 12. Strip 017 — Guarded Dialogue Could Flip Axis / Mask Straps And Chopsticks Could Clip
 
 Repair:
-- stable world-space pot/trivet/handle/cloth/candle/wrapper/table/chair/packet scale
-- pot-handle direction fixed
-- cloth remains same hot-handle side without clipping
-- reverse views cannot change real table depth/order
+- one entrance↔table dialogue axis
+- Nari/Hyun-woo eyelines meet from actual positions
+- Hyun-woo uses real eating chopstick grip
+- mask straps/hardware follow actual head/ear/hair route
+- no lower-face reveal through reflection
+- candle produces only small physically sourced shadows, never a giant extra figure
 
 **PASS after repair.**
 
-## 13 — Strip 018: Mask Reseat Could Be A Hand-Over-Face Illusion
+## 13. Strip 018 — Reveal Could Break Eye-Line Or Mask Attachment
 
 Repair:
-- real finger contact on mask edge/hardware
-- same mask body and strap/hardware travel through physically possible path
-- no clipping through face/hair/ears/head/hand
-- `TCHK` only after actual full seating/secure state
+- same dialogue/reveal axis continues
+- mask/hardware requires usable finger grip and physically valid strap/hair depth
+- V84 Hyun-woo's actual upper-face gaze remains toward Nari
+- no lower-face reveal through reflection/shadow/duplicate face
 
 **PASS after repair.**
 
-## 14 — Strip 020: Chair Push Could Cross Solid Geometry
+## 14. Strip 021 — Protective Blocking Could Have Wrong Gaze / Fridge Text Could Float
 
 Repair:
-- one real backward floor-clearance path
-- chair avoids table, Nari, packet, refrigerator, wall and other chair
-- chair legs stay on floor
-- chair scale/front/back/leg spacing stable
-- real hips-on-seat start and body-clear-of-seat standing end
+- floor-plan order remains `refrigerator → Hyun-woo → Nari`
+- Hyun-woo's `LOOK AT ME` gaze targets actual Nari
+- Nari can look past him toward actual fridge without stepping
+- `YOON NARI` remains on real fridge display plane
+- no reflected/shadow duplicate human
 
 **PASS after repair.**
 
-## 15 — Strip 021: Hyun-woo Could Look Protective Without Actually Blocking
+## 15. Strip 022 — Additive Fridge Text / Blue Core Could Create False UI Or Shadows
 
 Repair:
-- true story-space order required: `refrigerator → Hyun-woo → Nari`
-- feet/body occupy a real open floor point intercepting that line
-- camera overlap alone insufficient
-- Hyun-woo cannot enlarge in world space to fake blocking
+- both fridge text lines stay inside actual narrow display plane
+- additive text does not detach/float
+- tiny blue candle core remains a contained flame detail
+- no second light/shadow direction or human silhouette
+- conversation axis remains coherent
 
 **PASS after repair.**
 
-## 16 — Strip 023: Knife Could Pass Through The Scene During Its Fall
+## 16. Strip 024 — Wrist Release Could Still Have Bad Hand Anatomy / Dialogue Axis
 
 Repair:
-- one unobstructed gravity trajectory
-- no intersection with Nari, Hyun-woo, table, chair, pot, candle, packet, fridge, wall
-- real floor contact before `CLANG`
-- one settled final knife orientation/location through Strip028
-- wrist catch requires readable finger/thumb wrap
+- real grip at start and usable finger/thumb release
+- no hand/wrist clipping/fusion
+- visible air gap before refrigerator clicks
+- dialogue eyelines remain toward actual other character
+- extinguished candle/dark fridge cannot create lingering false human shadow/reflection
 
 **PASS after repair.**
 
-## 17 — Strip 024: Release Could Occur By Deleting The Hand Between Frames
+## 17. Strip 025 — Hyun-woo Could Leave A Ghost Trace After Power Return
 
 Repair:
-- same real wrist grip at strip start
-- fingers/thumb open/disengage
-- hand moves away
-- visible air gap exists
-- only then refrigerator clicks
-- knife retains settled floor orientation/support
+- no fade, afterimage, reflection, shadow, detached mask/hair silhouette, hand/face or ghost trace
+- powered shadows correspond only to currently present Nari/furniture/objects
+- V118 Nari's gaze targets the exact former Hyun-woo position
+- dialogue axis remains coherent before power return
 
 **PASS after repair.**
 
-## 18 — Strip 025: Hyun-woo Could Be “Gone” Only Because The Camera Cropped Him Away
+## 18. Strip 026 — Smart-Lock/Phone Evidence Could Float Off Screens / Grip Could Be Fake
 
 Repair:
-- V116 establishes interior comparison geometry with him present
-- V118 deliberately shows same/closely comparable former world-space region empty
-- no radical crop that merely excludes his position
-- no visible disappearance effect
+- phone uses real PHONE HAND grip
+- `TUG` uses actual usable door handle/latch grip while door stays closed
+- smart-lock history stays on smart-lock display
+- archive text/video stays on SAME phone screen
+- Nari gaze follows former Hyun-woo position→phone→door→smart lock→phone
+- no reflected intruder/Hyun-woo
 
 **PASS after repair.**
 
-## 19 — Strip 026: Evidence `TUG` Could Accidentally Open The Door
+## 19. Strip 027 — Cabinet Chimes Could Lose Their Physical Source
 
 Repair:
-- front door remains CLOSED/LATCHED
-- actual handle/latch contact
-- restrained tug resistance only
-- no passable opening, unlatching, corridor crossing or changed hinge/handle/lock orientation
+- phone UI remains on phone plane
+- both `MFF-CHIME` sounds originate at SAME closed lower cabinet
+- Nari turns toward actual cabinet while remaining entry-side
+- closed cabinet stays opaque; no X-ray/cutaway hidden speaker
+- no reflected hidden person/speaker
 
 **PASS after repair.**
 
-## 20 — Strip 028: “Shelf Beside Pot” Could Invent A Cabinet Shelf
+## 20. Strip 028 — Speaker Voice / Cabinet Handling Could Lose Source Or Grip
 
 Repair:
-- lid must rest on an ACTUAL existing cabinet base/shelf support plane from the reference
-- if no shelf exists, use clear cabinet-base area
-- no invented shelf
-- lid fully supported, no floating/clipping
-- cabinet/pot/speaker/towels retain stable scale/fit
+- real phone/cabinet/lid/towel/knife grips
+- lid remains real supported object
+- Hyun-woo voice spatially originates at SAME visible screenless speaker inside STORAGE POT
+- Nari looks toward that speaker while responding
+- no physical/reflected/shadow Hyun-woo while Unit powered
 
 **PASS after repair.**
 
-## 21 — Strip 029: Storage Pot And Noodle Pot Could Collapse Into One Generic Pot
+## 21. Strip 029 — Food/Chopstick Grip And Speaker Source Could Drift
 
 Repair:
-- STORAGE POT = cabinet, speaker/towels/cord/plug
-- NOODLE POT = dining table, noodles/broth/trivet/cloth/chopsticks/food evidence
-- no merging/swap/teleport/third pot
-- environment/topology makes identity unambiguous
+- knife, packet and Pair B use usable grips
+- Pair B food path does not clip through face/hair/headphones/pot
+- Hyun-woo voice remains at SAME open-cabinet speaker
+- Nari gaze points to actual speaker source
+- no physical/reflected/shadow Hyun-woo
 
 **PASS after repair.**
 
-## 22 — Strip 030: Notebook Could Shrink To Fit The Crowded Table
+## 22. Strip 030 — Voice-Only Silence / Notebook Pickup Could Become Visualized Or Unsupported
 
 Repair:
-- approximately A5 physical footprint remains binding
-- notebook fully supported inside NOTEBOOK ZONE
-- does not overlap pot/trivet/packet/wrapper/chopsticks/candle/table edge
-- existing evidence cannot move to create space
+- silence and later Hyun-woo voice remain tied to actual speaker source
+- no silhouette/reflection physical Hyun-woo
+- notebook + pen use real pickup/support and real table placement
+- Nari keeps correct source eyeline before walking to desk
 
 **PASS after repair.**
 
-## 23 — Strip 031: Writing Hand And Final Cord Physics Were Still Open To Drift
+## 23. Strip 031 — Writing Could Become Floating Overlay / TV Field Could Leave Screen
 
 Repair:
-- one anatomical WRITING HAND writes all observation/hypothesis text until pen release
-- same notebook physically opens around same spine
-- text appears along pen-tip path
-- TV cord retains one attached origin, same length/slack, no clipping, believable loose-plug gravity
+- WRITING HAND uses a believable pen grip
+- exact handwriting follows physical notebook page plane and pen-tip path
+- hostile TV field stays inside actual TV screen plane
+- Nari turns toward actual TV only after pen release
+- no reflected/shadow duplicate Nari/Hyun-woo/unknown figure
 
 **PASS after repair.**
 
-## 24 — Strip 032: Final Hero Composition Could Redesign Room Scale/Depth
+## 24. Strip 032 — Final Message Could Become A Floating Title / Final Flicker Could Create A Double
 
 Repair:
-- TV cannot enlarge to fill room
-- Nari/table/notebook/pots/cabinet cannot shrink/move
-- room depth cannot collapse into poster collage
-- final dominance comes from camera framing, not world-space redesign
-- final cord gravity/support and cabinet lid support remain unchanged
+- `NEW TENANT CONFIRMED` remains entirely inside SAME TV screen plane
+- Nari's gaze remains at actual TV location
+- notebook handwriting remains physically on notebook page
+- one `FZZT` cannot create a second Nari, Hyun-woo shadow/reflection, or human afterimage
+- final worn attachments remain physically correct
 
 **PASS after repair.**
 
-# Sixth Post-Repair Clean-Room Strip 001→032 Re-Audit
+# Unchanged Strip Recheck
 
-After all sixth repairs, the current files were re-read again from Strip 001 through Strip 032.
+Strips **001, 002, 004, 011, 015, 019, 020, and 023** were freshly re-read under all seventh gates. Their sixth-hardened mechanics remain compatible with the new camera-axis, text-plane, reflection/shadow, grip, attachment, audio-source and weather-boundary rules.
 
-## 001–004
-Door/lock mechanics, binder/key topology, departure/door close and thermostat micro-detail remain internally coherent.
+**PASS without local rewrite.**
 
-**PASS at sixth-hardened prompt level.**
+# Seventh Post-Repair Clean-Room Strip 001→032 Re-Audit
 
-## 005–007
-Two-stick landing geometry, wall-unplug cord physics, crouch→stand and key/fridge route remain coherent.
+After all seventh repairs, the current GitHub files were re-read again from Strip 001 through Strip 032.
 
-**PASS.**
+- 001–004: PASS at seventh prompt level
+- 005–007: PASS
+- 008–010: PASS
+- 011–013: PASS
+- 014–018: PASS
+- 019–021: PASS
+- 022–024: PASS
+- 025–027: PASS
+- 028–032: PASS
 
-## 008–010
-Speaker-stack scale/fit, exact paper/pen reply state, photo evidence and one-bound-binder page mechanics remain coherent.
+No new deterministic prompt/canon defect was found during that second post-repair full read.
 
-**PASS.**
+# Seventh-Pass Prompt Gate Counts
 
-## 011–013
-Tray capacity/orientation, bag entry, glass-door mechanics, elevator door/threshold and item-side identities remain coherent.
-
-**PASS.**
-
-## 014–018
-Power transition, exact tray returns, one knife/sheath axis, dining scale/depth and real mask-hardware reseat remain coherent.
-
-**PASS.**
-
-## 019–021
-One STEP FOOT, chair floor-clearance push and true refrigerator→Hyun-woo→Nari blocking depth remain coherent.
-
-**PASS.**
-
-## 022–024
-Tiny contained blue core, CANDLE FOOT, clear knife trajectory, real wrist grip and release remain coherent.
-
-**PASS.**
-
-## 025–027
-Comparable presence→absence framing, evidence route, closed-latched door test, PHONE HAND voicemail and closed-cabinet chimes remain coherent.
-
-**PASS.**
-
-## 028–032
-Real cabinet support plane, two-pot identity, true A5 notebook fit, WRITING HAND, final TV cord physics and no hero-shot scale reset remain coherent.
-
-**PASS.**
-
-No new deterministic prompt/canon defect was found during the second post-repair full read.
-
-# Narration / Production Metadata Sixth Re-Audit
-
-Scenario-driven narration placement remains binding. No reader-visible V/P/strip/beat/panel/scene/shot/temp-state labels are allowed. Lettering may not hide orientation/scale/depth/contact evidence.
-
-**PASS at instruction level; actual rendered typography remains pending.**
-
-# Sixth-Pass Prompt Gate Counts
-
-After sixth repairs and the complete post-repair 001→032 re-audit:
+After seventh repairs and the complete second post-repair 001→032 re-audit:
 - **BLOCKER: 0**
 - **MAJOR: 0 unresolved deterministic prompt/canon issues**
 - **MINOR requiring correction: 0**
@@ -359,17 +337,19 @@ These counts apply ONLY to textual/reference preproduction authority, not render
 
 # Rendered Visual Status
 
-Earlier problematic renders remain rejected for the intended retest.
+Earlier problematic renders remain rejected.
 
 Still **PENDING / UNEXECUTED** until new images are inspected:
-- actual canonical identity/reference fidelity
-- actual hinge/handle/track orientation
-- actual world-space scale and container fit
-- actual depth/contact anatomy
-- actual cord/towel/cloth gravity and no-clipping
-- actual wall-socket unplug rendering
-- actual hand/foot/wrist/shoulder/pocket side continuity
-- actual food/prop persistence and two-pot distinction
+- actual approved-reference fidelity
+- actual 180° camera axis and eyeline correctness
+- actual screen/page text-plane fidelity
+- actual reflection/shadow suppression
+- actual hand/finger grip anatomy
+- actual scrunchie/headphone/bag/watch/earbud/mask-strap attachment
+- actual audio-source/reaction direction
+- actual weather/glass boundary
+- actual orientation/scale/depth/gravity/wall-socket mechanics
+- actual food/prop micro-continuity
 - actual narration typography/placement
 - actual no-production-label compliance
 - actual strict flat 2D pixel style
@@ -378,12 +358,6 @@ Still **PENDING / UNEXECUTED** until new images are inspected:
 
 # Final Current Verdict
 
-**SIXTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
+**SEVENTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
 
-Next production action:
-1. generate NEW Strip 001 using exact sixth-pass prompt + exact approved WebPs
-2. audit actual pixels
-3. reject/fix/regenerate until PASS
-4. only then use it as APPROVED previous-strip authority for Strip 002
-5. continue sequentially through Strip 032
-6. stitch and run a fresh final visual clean-room audit
+Retest must begin with a NEW Strip 001 generated under the current seventh-pass package. Only an actually visually approved strip may become the previous-strip authority for the next strip.
