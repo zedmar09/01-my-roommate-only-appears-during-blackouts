@@ -50,6 +50,36 @@ END:
 - other states unchanged
 
 ==================================================
+FINAL INVESTIGATIVE PERFORMANCE / POSE ARC — NON-NEGOTIABLE
+==================================================
+
+This is a morning evidence-check scene, not a horror meltdown.
+
+V41:
+- Nari begins with a brief startled/disbelieving reaction to the unexpected reply
+- `WHAT THE...` is surprised/uneasy, not screamed rage or terror
+- body remains physically oriented to the note surface; no backward jump, defensive crouch, weapon pose or tears
+
+V42:
+- reaction shifts into focused inspection
+- head/eyes angle to the actual paper; shoulders/hips remain compatible with the same standing/leaning investigation stance
+- do not reset to a smile/blank expression merely because the camera cuts closer
+
+V43/V44:
+- Nari becomes analytical and deliberately tests the evidence
+- phone-taking posture is controlled; camera action is purposeful rather than frantic
+- after first failed photo, unease increases but she remains functional
+- `IT'S NOT SHOWING UP.` should read as stunned analytical confirmation, not screaming panic
+- body facing changes only through the actual phone/note interaction; no random torso flip between wide/detail views
+
+V45:
+- after placing the phone down, she deliberately turns/walks to the desk/tablet to test another medium
+- emotional state carries as **skeptical + increasingly uneasy + investigative**, not reset calm, hysterical fear or sudden anger
+- Strip 010 must inherit this investigative focus into the tablet warning/binder check
+
+No exaggerated tears, sweat waterfalls, chibi shock, horror screaming, villain anger, romantic blush or glamour posing.
+
+==================================================
 PHONE GRIP / CAMERA ACTION — ABSOLUTE
 ==================================================
 
@@ -107,14 +137,17 @@ The supernatural evidence is the digital omission, not a reflected person.
 Any ordinary reflection remains faint/non-figurative; any shadow must belong to actual objects/real lights.
 
 ==================================================
-MOVEMENT / EYE-LINE CONTINUITY — ABSOLUTE
+MOVEMENT / EYE-LINE / BODY-FACING CONTINUITY — ABSOLUTE
 ==================================================
 
-Nari's gaze follows the actual evidence:
+Nari's gaze and body facing follow the real evidence:
 - V41/V42 toward physical note
 - V43/V44 between real note and SAME phone screen in her hand
 - only after phone is returned does she turn/walk toward the real desk/tablet location
-A reverse shot cannot make her look toward an empty/wrong wall while the target is elsewhere.
+
+If only head/eyes shift between note and phone, shoulders/hips/feet do not silently rotate to a different room orientation.
+A full turn toward the desk happens only at the actual note-area→desk movement.
+Reverse shot cannot make her chest/hips face the opposite story-world direction while the evidence remains unchanged.
 
 ==================================================
 SAME-OBJECT CLOSE-UP / NO DUPLICATION — ABSOLUTE
@@ -180,11 +213,13 @@ No later clean warning yet.
 SEAM
 ==================================================
 
-Strip010 starts SAME tablet state. Phone remains separate beside note; pen exact inherited rest state.
+Strip010 starts SAME tablet state and SAME investigative/uneasy Nari performance. Phone remains separate beside note; pen exact inherited rest state.
 
 AUTOMATIC REJECT IF
 - production label appears
 - refs/paper/device identities drift
+- Nari emotional state randomly resets/jumps between terror, calm, anger, smile or exaggerated panic without event cause
+- Nari torso/hips/feet silently rotate between note/phone close-ups with no physical turn
 - paper/pen move/rotate/change handwriting
 - handwriting floats off paper plane
 - phone appears in hand without real grip/pickup, lens points away from note, or return contact is skipped
