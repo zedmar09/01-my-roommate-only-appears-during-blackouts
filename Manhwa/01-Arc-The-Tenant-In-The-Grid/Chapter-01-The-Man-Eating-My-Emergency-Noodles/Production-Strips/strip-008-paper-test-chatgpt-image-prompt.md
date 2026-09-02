@@ -21,7 +21,7 @@ REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
 Attached canonical WebPs are permanent authority. APPROVED Strip 007 controls temporary key/speaker/TV/fridge state only; correct permanent drift to canon rather than propagating it.
-Preserve exact Nari identity, kitchen/cabinet/desk geometry, speaker body/cord/plug, stockpot/cabinet relation, sofa location, and apartment axis.
+Preserve exact Nari identity, kitchen/cabinet/desk geometry, cabinet hinge/handle/open direction, speaker body/scale/cord/plug, stockpot/lid/towel scale, sofa location, room axis.
 Never render V36–V40, P5, Strip 008, beat/panel/scene labels, or production metadata anywhere, especially top-left.
 
 ==================================================
@@ -29,223 +29,245 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
 START:
-- Nari at/near entry after returning key Strip 007
-- brass key = entry tray
-- binder = kitchen counter
-- smart speaker = canonical kitchen counter, still UNPLUGGED FROM WALL; speaker-side cord attached; loose wall plug on cord
-- lower speaker-storage cabinet = closed
-- storage stockpot + SAME lid + exactly TWO dish towels = canonical cabinet zone
-- guarded fruit knife not yet hidden under sofa
-- at canonical work desk, ONE plain blank loose paper sheet + ONE ordinary pen exist as mundane desk supplies; these are not yet story-positioned at kitchen
+- Nari at/near entry after key return Strip 007
+- key = entry tray; binder = kitchen counter
+- SAME canonical speaker = kitchen counter, still wall-unplugged; speaker-side cord attached; loose wall plug obeying gravity/slack
+- lower speaker-storage cabinet = CLOSED at canonical hinge/handle orientation
+- SAME storage stockpot + SAME lid + exactly TWO dish towels occupy the canonical cabinet zone at believable stable scale
+- guarded fruit knife not yet hidden
+- at work desk: ONE blank loose sheet + ONE pen as mundane temporary desk supplies
 
 ALLOWED CHANGES:
-- Nari walks entry → kitchen
-- reaches same speaker, opens same cabinet, handles same storage stockpot/towels/lid, creates EXACT speaker-storage stack, seats lid, closes cabinet
-- Nari physically walks kitchen → canonical work desk, picks up exactly ONE blank sheet + SAME one pen, then walks desk → kitchen/toaster area
-- places/releases sheet on one fixed kitchen/toaster surface and places SAME pen with it
-- handwrites original question using SAME pen
-- guards/hides one fruit knife under one sofa cushion
-- legal time cut to 1:17 A.M.; same hallway lamp flickers once; SAME pen moves supernaturally across SAME paper and writes exact reply below original question
+- Nari walks entry→kitchen
+- reaches SAME speaker, opens SAME lower cabinet through actual canonical handle/hinge motion
+- handles SAME stockpot/towels/lid and creates exact storage stack without changing scale/cabinet volume
+- seats SAME lid, closes SAME cabinet using same hinge direction
+- walks kitchen→desk, retrieves one blank sheet + same pen, returns desk→kitchen/toaster surface, places/writes question
+- fits guard to one fruit knife and hides beneath one sofa cushion
+- legal time cut to 1:17 A.M.; hallway lamp flickers; SAME pen writes exact supernatural reply and stops at fixed rest position
 
 END:
-- key = entry tray
-- binder = kitchen counter
-- speaker = still unplugged inside same storage stockpot in EXACT two-towel/cord stack; SAME lid seated; cabinet CLOSED
-- guarded fruit knife = under same sofa cushion
-- SAME paper = fixed kitchen/toaster surface with original question + exact supernatural reply
-- SAME pen = stopped/resting at one fixed final position on/beside the same paper after writing reply
+- key tray; binder counter
+- speaker still unplugged inside exact physically fitting stockpot/two-towel/cord stack; lid seated; cabinet CLOSED
+- guarded fruit knife under same cushion
+- SAME paper fixed surface with question + exact reply
+- SAME pen fixed final rest position
+
+==================================================
+CABINET / STOCKPOT / SPEAKER SCALE-AND-FIT — NON-NEGOTIABLE
+==================================================
+
+Do NOT resize objects or cabinet to make the hiding action work.
+
+Use stable world-space sizes from attached references:
+- speaker retains canonical body height/diameter
+- cord/plug retain canonical thickness/plug size
+- stockpot retains ordinary established size
+- lid matches same pot diameter
+- two towels retain believable dish-towel thickness
+- cabinet retains exact referenced opening/interior volume; no expansion/deeper hidden cavity/new shelf
+
+Before committing the composition, verify the actual open cabinet volume can physically contain the SAME stockpot at stable scale and allow cabinet door to close. The stockpot must fit without clipping through cabinet wall/door/counter.
+Inside pot, speaker + cord + plug + two towels must fit beneath the matching lid without shrinking speaker, flattening plug, making towels paper-thin, enlarging pot, or letting solids occupy same volume.
+If one camera makes fit unclear, use detail/wide combination; do not alter scale.
+
+==================================================
+CABINET HINGE / HANDLE / SUPPORT ORIENTATION — ABSOLUTE
+==================================================
+
+The lower cabinet is the SAME canonical cabinet:
+- same physical door
+- same hinge side
+- same handle position
+- same opening direction/arc
+- same cabinet interior base/support planes
+
+Reverse camera may flip screen-left/right but may not reverse hinge or handle.
+Nari hand must contact the actual handle/edge before door opens.
+The stockpot rests on a real cabinet interior base/support plane; it cannot float or clip through cabinet.
+When cabinet closes, door follows same hinge arc and clears pot/lid physically.
 
 ==================================================
 EXACT SPEAKER / STOCKPOT / TOWEL / CORD STACK — ABSOLUTE
 ==================================================
 
 Frozen later-reveal topology, BOTTOM → TOP:
-1. SAME storage stockpot body
-2. TOWEL 1 bottom liner
-3. SAME speaker body on liner
+1. SAME storage stockpot body resting on real cabinet support plane
+2. TOWEL 1 bottom liner with believable folds/thickness
+3. SAME canonical speaker body on liner at unchanged scale
 4. SAME speaker-side cord attached
-5. SAME cord neatly coiled beside/around speaker
-6. SAME loose wall-end plug attached to cord and inside pot, not plugged anywhere
-7. TOWEL 2 top cover over speaker/cord/plug
-8. SAME stockpot lid seated normally
+5. SAME cord loosely/neatly coiled within available pot volume; no impossible knots/intersections
+6. SAME loose wall-end plug attached and physically inside pot, not plugged anywhere
+7. TOWEL 2 top cover draped over speaker/cord/plug without occupying same solid volume
+8. SAME stockpot lid seated normally on rim
 
-Exactly TWO towels total. Do not place plug through lid/outside cabinet/into socket. Do not crush objects unrealistically. Strip 028 must reveal exact stack in reverse.
+Exactly TWO towels total.
+Cord/towels cannot pass through speaker, pot wall, lid or each other impossibly. Loose plug cannot penetrate speaker/towel/pot wall.
+No cord exits beneath a fully seated lid.
+Strip 028 must reveal exact stack in reverse at same scale.
 
 ==================================================
 SPEAKER / STOCKPOT ACTION-PROOF — ABSOLUTE
 ==================================================
 
-V36 must visibly prove:
-1. Nari walks entry → kitchen
-2. hand reaches SAME unplugged speaker on counter
-3. speaker leaves counter; old speaker position empty
-4. opens SAME lower cabinet by real handle/hinge
-5. SAME stockpot/towels/lid physically handled
-6. exact liner→speaker/cord/plug→top towel→lid stack completed
-7. SAME cabinet door closes after pot closed
+V36 visibly proves:
+1. entry→kitchen walk
+2. hand reaches SAME unplugged speaker counter
+3. speaker leaves counter; old position empty
+4. hand contacts SAME cabinet handle; door opens on correct hinge
+5. SAME stockpot is on real support plane
+6. TOWEL1 placed as liner
+7. SAME speaker/attached cord/plug physically placed inside without clipping
+8. cord/plug arranged within real pot volume
+9. TOWEL2 laid over
+10. lid contacts pot rim and seats
+11. cabinet door closes on same hinge without intersecting pot
 
-Use immediate detail slices if needed. `CLUNK` alone is not proof.
+`CLUNK` is not a substitute for any mechanism.
 
 ==================================================
 PAPER / PEN SOURCE ROUTE — NON-NEGOTIABLE
 ==================================================
 
-The note and pen may not appear from nowhere at the kitchen.
+After speaker storage:
+1. Nari walks canonical kitchen→desk route
+2. one blank sheet + one pen visible as mundane supplies
+3. hand contacts/picks exactly those two
+4. old desk positions become empty of those exact items
+5. walks desk→kitchen/toaster area
+6. same sheet placed flat on one real surface and released
+7. same pen writes original question
 
-Required V37 setup:
-1. after speaker storage is complete, Nari physically leaves kitchen and follows canonical route to work desk
-2. ONE blank ordinary loose paper sheet is visible/established at desk as mundane supply
-3. ONE ordinary pen is visible/established with it
-4. Nari's hand contacts/picks up exactly that sheet + pen
-5. old desk positions become empty of those exact carried items
-6. she physically returns desk → kitchen/toaster area
-7. places SAME blank sheet flat on ONE fixed surface and releases it
-8. places/holds SAME pen to write
-9. writes original question
-
-Do not introduce a notebook, second sheet, second pen, sticky-note pad, clipboard, or digital note.
-The attached desk reference controls route/desk geometry; the plain sheet/pen are temporary ordinary props, not permanent desk canon.
+No notebook/second sheet/second pen/sticky pad/clipboard/digital note.
 
 ==================================================
 NOTE / PEN / FRUIT-KNIFE MICRO-CONTINUITY — ABSOLUTE
 ==================================================
 
-V37 exact original handwriting on SAME paper:
-line 1: `WHO ARE`
-line 2: `YOU?`
+V37 exact handwriting:
+line 1 `WHO ARE`
+line 2 `YOU?`
+Paper orientation/surface and pen identity locked.
 
-After writing, paper orientation/surface and pen identity become locked for V39–V40 and Strip 009.
-
-V38: guard visibly fitted to ONE small fruit knife before SAME guarded knife moves hand → sofa → beneath ONE cushion. Later blackout knife does not exist yet.
-
-V39→V40: SAME paper and SAME pen remain exact location. No invisible hand/body.
+V38: fitted guard + ONE small fruit knife physically moves to sofa. Cushion lifts, knife enters real gap beneath cushion, cushion returns; knife does not clip through cushion/sofa.
 
 ==================================================
 V40 EXACT SUPERNATURAL WRITING — ABSOLUTE
 ==================================================
 
-At 1:17 A.M., SAME pen physically moves across SAME paper with no visible hand/body and writes exactly beneath original question:
+At 1:17 A.M., SAME pen moves across SAME paper with no visible hand/body and writes exactly:
 `NOT THE ONE YOU SHOULD BE AFRAID OF.`
 
-Rules:
-- original `WHO ARE / YOU?` remains unchanged and visible above
-- new reply is visibly different handwriting from Nari's original writing
-- pen tip follows the actual writing path; letters appear only where pen has physically passed
-- no text appears ahead of the moving pen
-- no digital/glowing lettering
-- no extra words/symbols
-- after final period, SAME pen stops and comes to rest at ONE fixed final position on or immediately beside SAME paper
-- this exact paper + both writings + pen final position is the starting authority for Strip 009 next morning
+- original question remains above
+- reply handwriting visibly different from Nari's
+- pen tip follows real writing path; letters appear only after tip passes
+- pen/paper rest on real surface plane; no hovering
+- paper does not slide unless pen force visibly moves it; safest default = paper remains fixed
+- after final period pen stops at one fixed final supported position on/immediately beside paper
 
 ==================================================
 SAME-OBJECT CLOSE-UP / NO DUPLICATION — ABSOLUTE
 ==================================================
 
-Any speaker-stack, paper, pen, knife, cushion, or handwriting detail is a magnified/action view of the SAME physical objects.
-Do not show one pen writing in detail while another identical pen remains resting beside paper in same moment.
-Do not duplicate paper because wide + close-up both show it.
-
-==================================================
-NARRATION DESIGN BY SITUATION — ABSOLUTE
-==================================================
-
-`1:17 A.M.` = compact time-of-night caption with quiet suspense tone, distinct from earlier time transitions but same typography family. It must not look like device UI/top-left production timestamp.
-V36–V38 need no invented narration; rely on action. V40 remains sound/action driven.
+Any cabinet/stockpot/speaker/towel/plug/paper/pen/knife/cushion detail is SAME physical object/state.
+Do not show speaker both counter and pot after pickup, lid both hand/seated, cabinet closed while same-moment insert shows interior, or duplicate pen/paper/knife.
 
 ==================================================
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-`CLUNK`, `SNICK`, `FZZT`, `SCRATCH... SCRATCH...`, narration, and handwriting must not cover:
-- speaker stack action
-- paper/pen pickup/placement route
+`CLUNK`, `SNICK`, `FZZT`, `SCRATCH... SCRATCH...`, narration/handwriting must not cover:
+- cabinet handle/hinge/open-close proof
+- stockpot support plane/fit
+- speaker/cord/plug/towel topology
+- paper/pen route
 - fruit-knife cushion insertion
-- pen tip/writing path
-- original vs supernatural handwriting distinction
+- pen writing path
+
+==================================================
+NARRATION DESIGN — ABSOLUTE
+==================================================
+
+`1:17 A.M.` = compact quiet-suspense time caption, not top-left production marker. No invented narration elsewhere.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Small black gutter between distinct beats. Side-by-side shots use slanted/diagonal black separator. Compact stronger black time divider before `1:17 A.M.`. No large dead bands.
+Small black gutter between distinct beats. Side-by-side views use diagonal divider. Compact stronger black time divider before 1:17 A.M.; no large dead bands.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
 V36 — HIDE SPEAKER
-Complete route/storage action above.
-SFX at final settle:
+Complete cabinet/scale/stack mechanism.
+SFX at final physical settle:
 `CLUNK`
 
 SMALL BLACK GUTTER.
 
-V37 — DESK SOURCE → KITCHEN PAPER QUESTION
-Show kitchen→desk retrieval of ONE blank sheet + ONE pen, return to fixed kitchen/toaster surface, placement, then handwriting:
-line 1 `WHO ARE`
-line 2 `YOU?`
-No digital font.
+V37 — DESK SOURCE → PAPER QUESTION
+Retrieve ONE sheet + ONE pen from desk, return to fixed kitchen/toaster surface, place sheet, handwrite:
+`WHO ARE`
+`YOU?`
 
 SMALL BLACK GUTTER.
 
 V38 — GUARDED FRUIT KNIFE
-Show guard fitted, then Nari physically moves to sofa and places SAME guarded fruit knife beneath ONE cushion through visible lift/insert/return action.
+Fit guard, move to sofa, lift one cushion, insert SAME guarded fruit knife into actual space beneath, return cushion.
 SFX:
 `SNICK`
-No second fruit knife.
 
 COMPACT BLACK TIME TRANSITION.
 
 V39 — 1:17 A.M.
 NARRATION:
 `1:17 A.M.`
-Nari asleep/off-panel. Same hallway lamp one restrained flicker.
+Same hallway lamp restrained flicker.
 SFX:
 `FZZT`
 
-SMALL BLACK GUTTER / SUSPENSE.
+SMALL BLACK GUTTER.
 
 V40 — SAME PEN WRITES EXACT REPLY
-SAME pen moves across SAME note paper.
 SFX:
 `SCRATCH... SCRATCH...`
-It writes exactly:
+SAME pen writes exactly:
 `NOT THE ONE YOU SHOULD BE AFRAID OF.`
-Then pen stops at fixed final position. No hand/body/shadow-person/glowing writing/new device.
+Then rests at fixed supported position.
 
 ==================================================
 END STATE
 ==================================================
 
-- brass key = entry tray
-- binder = kitchen counter
-- speaker = hidden unplugged in exact stack; lid seated; cabinet CLOSED
-- guarded fruit knife = beneath sofa cushion
-- SAME paper = same kitchen/toaster surface with Nari question + exact supernatural reply
-- SAME pen = fixed final rest position on/beside paper
+- key tray
+- binder counter
+- speaker hidden unplugged in physically fitting exact stack; lid seated; cabinet CLOSED
+- fruit knife beneath sofa cushion
+- same paper with both writings
+- same pen final rest position
 
 NO DEAD BOTTOM — ABSOLUTE
-End on exact pen/paper/reply/night atmosphere with compact story gutter only. No giant blank tail.
+End on exact pen/paper/reply/night atmosphere.
 
 SEAM OUT — G / TIME CUT
-Strip 009 begins next morning with SAME paper orientation, both exact writings, SAME pen final position, and same hidden-speaker stack sealed in closed cabinet.
+Strip 009 begins next morning with exact paper/pen state and same hidden speaker stack sealed at same scale/fit.
 
 AUTOMATIC REJECT IF
 - any production label appears
 - attached refs redesigned/mirrored
-- permanent drift propagated over canon
-- speaker teleports to cabinet or old counter position remains occupied
-- speaker replugged/cord/plug disappears/storage topology changes/towel count wrong
-- paper/pen appear at kitchen without visible desk pickup/route/placement
-- extra sheet/pen/notebook appears
-- fruit knife confused with practical blackout knife or placement unproven
-- original note moves/rotates/duplicates without action
-- supernatural reply wording changes, appears digitally/glowing, appears ahead of pen, or extra text appears
-- pen duplicates, has no physical writing path, or lacks fixed final rest state
-- visible hand/body writes reply
-- same-object close-up duplicates paper/pen/speaker/knife
-- `1:17 A.M.` styled like production label
-- text/SFX hides action/writing evidence
+- speaker/stockpot/cabinet/towels/lid scale changes to make fit possible
+- cabinet enlarges, gains shelf/cavity, hinge/handle side flips, or pot/lid clips through cabinet
+- speaker teleports or old counter speaker remains after pickup
+- cord/plug/towels clip through speaker/pot/lid/cabinet, plug floats, or cord exits closed pot
+- towel count not exactly two
+- paper/pen appear without desk route
+- fruit knife clips through cushion/sofa or merges with blackout knife
+- supernatural reply wording changes/appears ahead of pen/digital/glowing
+- pen/paper hover or duplicate
+- same-object close-up creates incompatible states
+- text hides physical fit/contact evidence
 - black separators missing/oversized
 - giant dead bottom appears
 ```
