@@ -17,14 +17,13 @@ The identifiers V01–V07 are production language inside this prompt and MUST NE
 ATTACH — REQUIRED — EXACT TEST SET
 ==================================================
 
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Manhwa/Environment-References/Building-Shared-Areas/rainy-building-entrance-reference.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
-5. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-6. `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-reference.webp`
-7. `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
-8. this current Strip 001 prompt
+1. `nari-canonical-flat2d.webp`
+2. `rainy-building-entrance-reference.webp`
+3. `unit-2407-floor-plan-reference.webp`
+4. `unit-2407-entry-living-wide-reference.webp`
+5. `unit-2407-living-to-kitchen-wide-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `smart-speaker-canonical-reference.webp`
 
 If ANY required canonical WebP is missing, stale, wrong-path, rejected, or not actually attached to the image-generation request: STOP. Do not improvise a substitute.
 
@@ -1315,11 +1314,10 @@ Reject if ANY occurs:
 
 ## Production Thread Attachments — EXACT TEST SET
 
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Manhwa/Environment-References/Building-Shared-Areas/rainy-building-entrance-reference.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
-5. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-6. `Manhwa/Environment-References/Unit-2407/unit-2407-room-angle-atlas-reference.webp`
-7. `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
-8. this Strip 001 prompt
+1. `nari-canonical-flat2d.webp`
+2. `rainy-building-entrance-reference.webp`
+3. `unit-2407-floor-plan-reference.webp`
+4. `unit-2407-entry-living-wide-reference.webp`
+5. `unit-2407-living-to-kitchen-wide-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `smart-speaker-canonical-reference.webp`
