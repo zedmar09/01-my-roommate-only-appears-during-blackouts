@@ -2,9 +2,9 @@
 
 This is the active production package for Chapter 1.
 
-Current prompt/reference status: **SEVENTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+Current prompt/reference status: **EIGHTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
 
-The current Strip 001–032 package has been clean-room re-audited seven times under `manhwa-2d-production-auditor`. The sixth PASS was deliberately not accepted as proof. After seventh repairs, the current Strip 001→032 prompts were read again before this status was assigned. Earlier problematic renders remain rejected.
+The current Strip 001–032 package has been clean-room re-audited eight times under `manhwa-2d-production-auditor`. The seventh PASS was deliberately not accepted as proof. After eighth repairs, every current Strip 001→032 prompt was read again from the beginning before this status was assigned. Earlier problematic renders remain rejected.
 
 ## Chapter Shape
 
@@ -13,9 +13,7 @@ The current Strip 001–032 package has been clean-room re-audited seven times u
 - 32 technical production strips (`001–032`)
 - no reader-visible beat/strip/page numbering
 - begins with Nari moving into Unit 2407
-- ends with the visibly wall-unplugged TV displaying `NEW TENANT CONFIRMED` while Unit 2407 remains powered
-
-Historical P001–P018 mapping is story shorthand only.
+- ends with the wall-unplugged TV displaying `NEW TENANT CONFIRMED` while Unit 2407 remains powered
 
 ## Approved Reusable Visual Authorities
 
@@ -36,7 +34,7 @@ Historical P001–P018 mapping is story shorthand only.
 - `../../Object-References/electrical-operation-guide-canonical-reference.webp`
 - `../../Object-References/brass-backup-key-canonical-reference.webp`
 
-Reference prompts may generate PNG first locally. After approval, manually converted WebP is repository production authority.
+Reference prompts may generate PNG first locally. After approval, the manually converted WebP is repository production authority.
 
 ## Production Authority
 
@@ -44,14 +42,15 @@ Reference prompts may generate PNG first locally. After approval, manually conve
 2. `chapter-01-continuous-scroll-plan.md`
 3. `chapter-01-strip-manifest.md`
 4. current `Production-Strips/strip-###-...md`
-5. current approved character WebPs
+5. approved character WebPs
 6. approved environment/object WebPs
-7. previous approved rendered strip for temporary state/seam only
-8. canon-compatible derived micro-detail only
+7. current global hardening rules/addenda
+8. previous APPROVED rendered strip for temporary state/seam only
+9. canon-compatible derived micro-detail only
 
 Previous strip and derived detail never override permanent canonical WebPs.
 
-Always-binding global rules:
+Always binding:
 - `../../style-guide.md`
 - `../../lettering-sfx-guide.md`
 - `../../seam-continuity-protocol.md`
@@ -59,78 +58,61 @@ Always-binding global rules:
 - `../../generation-workflow.md`
 - `../../production-readiness-gate.md`
 - `../../seventh-hardening-visual-logic-addendum.md`
+- `../../eighth-hardening-presentation-integrity-addendum.md`
 
-A strip may be stricter but never looser.
+## Eighth-Pass Production Locks
 
-## Seventh-Pass Production Locks
+All previous hardening remains binding. The eighth pass adds a presentation-integrity layer:
 
-All previous hardening remains binding. The seventh pass adds another mandatory layer:
+### Perspective / Lens
+- ordinary manhwa perspective only
+- no fisheye/ultra-wide/forced-perspective warping of canonical architecture or body/object proportions
+- dramatic framing cannot change world-space geometry
 
-### Camera Axis / Eyeline
-- same uninterrupted conversation/action preserves world-space sides
-- reverse shots may flip screen-left/right but may not silently exchange physical positions
-- Nari/Mrs. Na/Hyun-woo/Seungjae must look toward the actual story-world speaker/device/object
-- if the 180° axis is crossed, a neutral reorientation view must establish it first
+### Mobile-Scale Proof
+Continuity-critical evidence must be understandable at normal mobile size, not merely technically present. This includes wall-socket proof, key transfer, Section16→18 page proof, tool return, food path, foot/packet contact, chair mechanics, mask hardware, knife fall/impact, wrist contact, cabinet reveal, handwriting and the final TV message.
 
-### Physical Text Planes
-- TV/fridge/tablet/phone/smart-lock text stays inside the actual screen plane
-- binder/note/notebook text stays on the actual physical page plane
-- text follows carrier perspective and cannot float as detached UI/narration in room space
+### Crop / Gutter / Divider Safety
+Decisive contact and enough context must remain safely inside frame. Crop edges, black gutters, diagonal dividers and technical seams may not amputate a critical hand, foot, plug/socket, cord, knife, packet, chair leg, mask/wrist contact, page edge/spine, cabinet hinge, notebook or exact text.
 
-### Reflection / Shadow False-Duplicate Ban
-- no reflected duplicate Nari/Hyun-woo/Mrs. Na/Seungjae/unknown person unless explicitly scripted
-- no shadow-person, reflected face/hand, or duplicate evidence object
-- shadows must correspond to real current light sources
-- after candle-out, candle shadows disappear; fridge pixels do not generate human shadows
+### Lighting / Shadow Direction
+Within one unchanged lighting state, the source direction remains coherent. Candle-derived light ends after `PFF`; fridge/TV/speaker pixels are not room lights; restored powered lighting remains one stable baseline after return; one flicker returns to that baseline.
 
-### Grip / Finger Ergonomics
-- critical grips use physically usable fingers/thumbs
-- plug body, key/ring, knife handle, pen, chopsticks, phone, umbrella/bag handle, mask hardware, cabinet/door handle, packet/lid/tools cannot fuse with or pass through fingers
-- knife is never held by blade; plug never by prongs/cable
+### Top-to-Bottom Reader Order
+Action/dialogue/SFX/device/narration layout must preserve the exact scripted causal order. A result or SFX cannot visually read before its physical cause.
 
-### Worn Item / Strap Attachment
-- scrunchie physically encircles SAME wrist
-- headphones rest physically around Nari's neck/hoodie
-- bag straps follow correct shoulder/body contour
-- watch/earbuds physically occupy same wrist/ears
-- Hyun-woo mask straps/hardware stay on real head/hair route
-- hair/clothing/accessories cannot clip through each other
+### Limb/Object Ownership
+Close-ups keep enough context to prove the hand/foot/plug/knife/page belongs to the same physical body/object and the same anatomical side/route.
 
-### Audio Source Direction
-- speaker voice, cabinet chimes, `SLURP`, appliance sounds and SFX stay at the real story-world source
-- reaction gaze/body direction must turn toward that source
+### Readable In-World Text
+Story-critical exact device/page/note/notebook wording must be legible at intended mobile scale and remain on the actual carrier plane. Use SAME-OBJECT details rather than enlarging the story-world object.
 
-### Weather / Glass Boundary
-- rain remains outside after the building threshold is crossed
-- glass may have restrained environmental sheen but no reflected human doubles
+## Eighth Local Strip Rewrites
 
-## Sixth-Pass Physical Mechanics Remain Binding
+The eighth pass required deterministic local presentation rewrites to:
+- **001** — smart-lock/door/box mobile proof, ordinary perspective, causal SFX order
+- **002** — door/binder/key crop-safe proof and V11 reading order
+- **004** — key/door proof, mobile-readable `19°C`, morning lighting/order
+- **006** — wall-socket proof must clearly show WALL + faceplate + empty socket + plug-body grip + attached appliance cord at mobile size
+- **010** — mobile-readable physical Section16→page turn→Section18 proof
+- **019** — lower-body/STEP FOOT/packet contact ownership and safe framing
+- **020** — mobile-readable seated→chair push→stand mechanics and candle-shadow consistency
+- **023** — complete `PFF → KIIIIII → knife release → fall → CLANG → wrist catch → WARM` order, crop safety and post-candle lighting transition
+- **025** — mobile-readable comparable Hyun-woo presence→absence proof and blackout→powered lighting transition
+- **028** — mobile-readable phone→cabinet→lid→towel→speaker/cord/plug→knife sequence
+- **031** — mobile-readable handwriting/pen release + real wall-socket proof before/with TV activation
+- **032** — exact final message mobile-readable on TV plane, distortion-free hero framing, final reveal order
 
-- orientation/hinge/handle/track cannot flip
-- world-space scale and actual container/support fit remain stable
-- 2D overlap is not contact
-- cords/cloth/loose/falling objects obey gravity and no-clipping
-- STORAGE POT and NOODLE POT remain distinct
-- cabinet lid rests on a real referenced support plane
-- Hyun-woo absence uses comparable space, not a crop that simply excludes him
-- final hero composition preserves real room scale/depth
+The other **20 strips** were re-read under the eighth global rules and did not require a new deterministic local rewrite.
 
 ## Wall-Socket Rule — Absolute
 
-`UNPLUGGED` means plug BODY removed from a WALL-MOUNTED socket while appliance-side cord remains attached.
-Same cord, loose plug and empty socket persist until explicit re-plug.
-Cord route remains physically continuous with believable gravity/slack and no clipping.
+`UNPLUGGED` means plug BODY removed from a **WALL-MOUNTED socket** while appliance-side cord remains attached.
+The wall/faceplate/socket context must be visible enough to prove this is a wall outlet, not an appliance-side port. Same cord, loose plug and empty socket persist until explicit re-plug. Cord remains physically continuous with believable gravity/slack and no clipping.
 
 ## Strict Flat 2D Human-Drawn Style — Absolute
 
-Every canonical, strip, repair and stitched output must visibly comply with `../../style-guide.md`:
-- strict flat 2D human-drawn Korean manhwa/webtoon
-- clean line art
-- flat colors
-- restrained hard-edged cel shading only
-- matte materials
-- stable canonical anatomy/proportions and natural hands
-- no photoreal/semi-photoreal, 3D/CGI, glossy/plastic/wet, painterly, airbrushed, cinematic, DOF, bloom, lens flare, excessive rim light, mirror-like reflection, or AI-polished over-rendering
+Every canonical, strip, repair and stitched output must visibly comply with `../../style-guide.md`: strict flat 2D human-drawn Korean manhwa/webtoon, clean line art, flat colors, restrained hard-edged cel shading, matte materials, stable anatomy and natural hands. Reject photoreal/3D/glossy/cinematic/painterly/airbrushed/bloom/DOF/over-rendered output.
 
 Prompt wording alone does not pass this gate; rendered output must be visually inspected.
 
@@ -138,17 +120,9 @@ Prompt wording alone does not pass this gate; rendered output must be visually i
 
 Missing/stale/wrong-path/unapproved required WebP → STOP before strip generation. Never improvise a substitute.
 
-Approved Chapter 1 character/environment/object WebPs are present. The remaining gate is sequential rendered Strip 001–032 generation and actual visual QA.
-
 ## Existing Approved Strip Rule
 
-A previous strip becomes continuity authority only after it passes the **current seventh-pass visual QA**. Earlier rejected/pre-seventh attempts must not be attached merely because they exist.
-
-Previous-strip temporary state can never override permanent canonical identity, geometry, orientation, scale, text-plane logic, reflection/shadow rules, or recurring object construction.
-
-## No-Dead-Space Rule
-
-Large vertical spacing must perform a real story function. No giant empty tails and no filler text/SFX.
+A previous rendered strip becomes continuity authority only after it passes the **current eighth-pass visual QA**. Earlier rejected/pre-eighth attempts must not be attached merely because they exist.
 
 ## Audit Rule
 
@@ -156,7 +130,7 @@ After every correction, re-audit corrected scope and adjacent dependencies. Afte
 
 ## Current Next Action
 
-1. generate a brand-new Strip 001 using its current seventh-pass prompt + exact approved WebPs
+1. generate a brand-new Strip 001 using its current eighth-pass prompt + exact approved WebPs
 2. deep-audit actual pixels against all current gates
 3. reject/fix/regenerate until Strip 001 passes
 4. only then attach newly APPROVED Strip 001 to Strip 002
