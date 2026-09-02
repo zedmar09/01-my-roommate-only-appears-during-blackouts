@@ -4,59 +4,60 @@ Strip IDs are production-only. Reader sees one continuous chapter.
 
 ## Current Audit Status
 
-**SIXTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+**SEVENTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
 
-The complete `strip-001` through `strip-032` package has now been clean-room audited a SIXTH time under `manhwa-2d-production-auditor`. The fifth PASS was not accepted as proof.
+The complete `strip-001` through `strip-032` package has now been clean-room audited a SEVENTH time under `manhwa-2d-production-auditor`. The sixth PASS was deliberately not accepted as proof.
 
-Sixth-pass focus:
-- story-world orientation / hinge / handle / track consistency
-- stable world-space object scale and real container/surface fit
-- true depth ordering instead of fake 2D overlap
-- real contact proof instead of silhouette overlap
-- gravity, slack, support and no-clipping for cords/cloth/loose/falling objects
-- comparable before/after framing for disappearance evidence
-- preserving previous provenance/topology/anatomical-side/lettering gates
+Seventh-pass focus:
+- 180-degree camera-axis and eyeline continuity
+- in-world text locked to the actual screen/page/object plane
+- reflection/shadow false-duplicate suppression
+- mechanically usable hand/finger grips
+- worn item/strap/body attachment without clipping/floating
+- offscreen/device audio source and reaction direction
+- weather/glass boundary reality
+- occlusion not substituting for physical action proof
 
-After sixth-pass repairs, Strip 001→032 was read again from the current GitHub state. The post-repair clean-room pass found zero additional deterministic prompt defects.
+After seventh repairs, Strip 001→032 was read again from the current GitHub state. That post-repair clean-room pass found zero additional deterministic prompt/canon corrections.
 
 Previously generated attempts remain rejected as continuity authority for retest.
 
 ## Strip Map
 
-| Strip | Read beats | Sixth-hardened main purpose | Seam OUT |
+| Strip | Read beats | Current hardened purpose | Seam OUT |
 |---:|---|---|---|
-| 001 | V01–V07 | move-in / real smart-lock+door / supported box | G |
-| 002 | V08–V11 | Mrs. Na / door orientation / binder-key topology | G |
-| 003 | V12–V15 | hallway-light rule / real lamp direction | A/G |
+| 001 | V01–V07 | move-in / real smart-lock+door / supported box / speaker eyeline | G |
+| 002 | V08–V11 | Mrs. Na / door orientation / binder-key topology and handling | G |
+| 003 | V12–V15 | hallway rule / counter conversation axis / real lamp eyeline | A/G |
 | 004 | V16–V20 | key route / same door mechanics / 19°C micro-detail | G |
-| 005 | V21–V25 | first voice / exact two-stick floor landing | G |
-| 006 | V26–V30 | speaker+TV wall-unplug / real cord gravity and routing | A |
-| 007 | V31–V35 | crouch→stand / unplug carry / fridge/key route | G |
-| 008 | V36–V40 | physically fitting speaker stack / exact paper reply | G |
-| 009 | V41–V45 | note/photo evidence / phone source and return | A/E |
-| 010 | V46–V50 | one bound binder / spine/rings/page-turn 16→18 | G |
+| 005 | V21–V25 | first voice / usable chopstick grip / exact two-stick landing / speaker-source gaze | G |
+| 006 | V26–V30 | wall-unplug / plug-body grip / cord gravity / TV text plane / no reflections | A |
+| 007 | V31–V35 | crouch→stand / key route / TV+fridge text planes / target eyelines | G |
+| 008 | V36–V40 | fitting speaker stack / physical paper handwriting / no hidden-writer shadow | G |
+| 009 | V41–V45 | phone camera grip / captured-image phone plane / evidence gaze | A/E |
+| 010 | V46–V50 | bound-binder page proof / tablet-phone-page text planes | G |
 | 011 | V51–V54 | exact six packets / actual tray capacity+orientation | G |
-| 012 | V55–V59 | real glass-door mechanism / side-identity props | A |
-| 013 | V60–V64 | real elevator mechanism/threshold / private tablet | G |
-| 014 | V65–V67 | powered baseline → true outage | E |
-| 015 | V68–V70 | tool tests → exact original tray orientations | E/G |
-| 016 | V71–V75 | one sheath-mouth/blade axis / route / teaser | A/E |
-| 017 | V76–V80 | dining world-space scale/depth / packet provenance | A/G |
-| 018 | V81–V84 | chopstick rest / actual mask hardware travel | G |
+| 012 | V55–V59 | rain/glass boundary / real entrance / bag-umbrella-phone attachment | A |
+| 013 | V60–V64 | watch/earbud/body attachment / private tablet plane / real elevator threshold | G |
+| 014 | V65–V67 | outage / scrunchie+headphone attachment / real shadow change | E |
+| 015 | V68–V70 | failed tools returned to exact tray orientations | E/G |
+| 016 | V71–V75 | `SLURP` source / usable knife grip / route / no false silhouette | A/E |
+| 017 | V76–V80 | dialogue axis / dining depth / eating grip / mask-strap depth | A/G |
+| 018 | V81–V84 | chopstick rest / mask hardware grip+travel / reveal eyelines | G |
 | 019 | V85–V89 | exactly one STEP FOOT / packet contact | A/G |
-| 020 | V90–V93 | chair push with real floor clearance / rise | A |
-| 021 | V94–V97 | true floor-plan protective block / `YOON NARI` | E |
-| 022 | V98–V102 | stationary topology / tiny contained blue core | A/E |
+| 020 | V90–V93 | chair push with real clearance / seated→standing proof | A |
+| 021 | V94–V97 | true protective block / real eyelines / fridge text plane | E |
+| 022 | V98–V102 | additive fridge text plane / tiny blue core / no false shadows | A/E |
 | 023 | V103–V107 | CANDLE FOOT / unobstructed knife fall / real wrist grip | G |
-| 024 | V108–V112 | real same-wrist release → visible air gap | G/E |
-| 025 | V113–V118 | city→Unit power / comparable presence→absence proof | G |
-| 026 | V119–V123 | evidence route / PHONE HAND / closed-latched `TUG` | G |
-| 027 | V124–V127 | voicemail / closed cabinet chimes / phone state | A/G |
-| 028 | V128–V132 | real cabinet support plane / stack reveal / knife pickup | A |
-| 029 | V133–V137 | STORAGE POT ≠ NOODLE POT / sheath / one bite | G |
-| 030 | V138–V142 | true A5 NOTEBOOK ZONE / crowded-table fit | G |
-| 031 | V143–V145 | WRITING HAND / notebook opening / physical TV cord proof | A/E |
-| 032 | V146 | final message without hero-shot scale/depth reset | END |
+| 024 | V108–V112 | ergonomic same-wrist release / dialogue axis / no false shadows | G/E |
+| 025 | V113–V118 | city→Unit power / comparable absence / no afterimage/reflection/shadow | G |
+| 026 | V119–V123 | evidence route / PHONE HAND / smart-lock+phone planes / closed-latched `TUG` | G |
+| 027 | V124–V127 | voicemail phone plane / exact closed-cabinet chime source | A/G |
+| 028 | V128–V132 | cabinet support / object grips / exact speaker voice source / knife pickup | A |
+| 029 | V133–V137 | STORAGE POT ≠ NOODLE POT / chopstick+food grips / speaker gaze | G |
+| 030 | V138–V142 | speaker silence/source / true A5 NOTEBOOK ZONE / notebook+pen grip | G |
+| 031 | V143–V145 | WRITING HAND / handwriting page plane / TV plane+eyeline / wall-unplug proof | A/E |
+| 032 | V146 | final TV text plane / final eyeline / no reflected doubles / scale-depth conservation | END |
 
 ## Authority Order
 
@@ -65,30 +66,37 @@ Previously generated attempts remain rejected as continuity authority for retest
 3. approved character WebP
 4. approved environment WebP geometry
 5. approved object WebP identity/state
-6. newly APPROVED previous rendered strip temporary state only
-7. canon-compatible derived micro-detail for chapter continuity only
+6. current hardened strip prompt
+7. newly APPROVED previous rendered strip for temporary state only
+8. canon-compatible derived micro-detail only
 
 Previous strip and derived detail never override permanent canon.
 
-## Sixth-Pass Global Gates
+## Seventh-Pass Global Gates
 
-### Orientation / Mechanics
-Preserve door/cabinet/elevator hinges, handles, tracks, opening direction, binder spine/rings, knife/sheath axis, appliance cord origin, pot-handle/cloth side, chair front/back and pushed angle.
+### Camera Axis / Eyeline
+Same uninterrupted dialogue/action preserves physical world sides and gaze targets. Reverse shots may flip screen-left/right but cannot exchange story positions. Silent 180-degree-axis flips are rejected.
 
-### Stable Scale / Fit
-Close-ups may magnify on the page but cannot resize world-space objects. Containers and support planes must physically fit the real objects at canonical/stable sizes.
+### Physical Text Planes
+Device text remains inside its real device screen. Binder/note/notebook writing remains on its real page. Perspective and boundaries follow the physical carrier; no detached floating UI.
 
-### Depth / Real Contact
-A foreground overlap is not contact. Grips, steps, sitting, blocking, mask travel, wrist contact, and threshold crossing must be physically readable in story space.
+### Reflection / Shadow False-Duplicate Ban
+No un-scripted reflected or shadow duplicate person, face, hand, silhouette, or evidence object. Shadows must come only from actual current lights.
 
-### Gravity / No-Clipping
-Loose plug/cord, towels, cloth, paper, packets and falling objects obey gravity/support and cannot pass through solid geometry.
+### Grip / Finger Ergonomics
+Critical object handling must use physically usable hand/finger contact. No fused fingers, object-through-hand, unsafe blade/prong/cable grips, or overlap-only contact.
 
-### Same-Object Representation
-Wide/inset/detail are the same physical object unless a second is explicitly established. State advances once.
+### Worn / Strap Attachment
+Scrunchie, headphones, bags, watch, earbuds and mask straps remain physically attached to the same body/clothing locations without clipping, floating, duplication or side swap.
 
-### Existing Fifth-Pass Gates Remain Binding
-Legal-cut persistence, deterministic action mechanism, anatomical-side continuity, worn-state continuity, prop provenance/topology, evidence-safe lettering, wall-socket semantics, scenario-driven narration and no reader-visible production labels remain fully binding.
+### Audio Source / Reaction Direction
+Speaker audio, cabinet chimes, `SLURP`, appliance sounds and SFX retain the actual story-world source; reaction gaze/body direction follows that source.
+
+### Weather / Glass Boundary
+Exterior rain stays outside after building entry. Glass may show only restrained non-figurative sheen.
+
+### Earlier Gates Remain Fully Binding
+Orientation/hinge/handle/track, stable world-space scale/fit, real depth/contact, gravity/no-clipping, same-object representation, legal-cut persistence, deterministic mechanisms, anatomical-side continuity, prop provenance/topology, evidence-safe lettering, wall-socket semantics, narration design and no reader-visible production labels remain mandatory.
 
 ## Reusable Reference Shorthand
 
@@ -146,25 +154,23 @@ Objects:
 
 `U-ATLAS` is additional only when primary views are insufficient.
 
-## Sixth-Pass High-Risk Handoffs
+## Seventh-Pass Cross-Strip Handoffs
 
-- 002→004: same door orientation and binder/key topology until visible key pickup.
-- 005→006: exact two individual chopsticks, same floor orientation/spacing until time cut.
-- 006→007: TV/speaker unplug state includes one physically plausible no-clipping cord route and loose-plug gravity.
-- 008→009→010: same physically fitting storage stack; exact reply/pen rest; same bound-binder construction/page-turn direction.
-- 011→015→016: tray size + three exact item rest zones/orientations persist; Strip016 draw uses the same sheath mouth/axis.
-- 012→013: same building entrance/elevator mechanisms; real threshold depth.
-- 017→018: stable dining object scale/depth; mask remains same physical hardware.
-- 019→020→021: Nari one-step stance fixed; chair pushes through real clearance; Hyun-woo finishes in true refrigerator→Hyun-woo→Nari floor-plan order.
-- 022→023→024: candle remains fixed; knife falls through clear space and settles one orientation; wrist grip/release is real contact.
-- 024→025: same evidence/geometry allows comparable presence→absence proof.
-- 025→026: front door remains closed/latched during evidence test.
-- 028→032: cabinet lid stays on the same real support plane; STORAGE POT remains cabinet; NOODLE POT remains table.
-- 030→031→032: true A5 notebook footprint/orientation persists; WRITING HAND writes both entries; final hero composition preserves world-space scale/depth.
+- 002→004: same counter conversation geography until visible walk; same door/binder/key orientation.
+- 005→006: exact two-stick floor configuration; same speaker source and Nari source direction.
+- 006→007: same wall-unplug TV/cord/plug/socket state; device text remains on physical planes.
+- 008→010: exact paper/pen evidence, all handwriting/page/device content stays on physical carriers.
+- 012→013: same exterior→lobby→elevator axis, bag/umbrella/phone body attachments, weather outside glass.
+- 014→018: same scrunchie/headphone attachment, blackout shadow logic, knife hand, sound/reveal/dialogue axis.
+- 019→024: one-step/body/evidence topology unchanged; protective block and dialogue eyelines retain world-space truth; no false shadows/reflections.
+- 024→025: same conversation geometry until power; after Unit return no Hyun-woo afterimage/reflection/shadow remains.
+- 026→027: same PHONE HAND and entry geometry; phone/smart-lock content stays on device planes; chimes source from same closed cabinet.
+- 028→030: same open cabinet/speaker source, no physical/reflected Hyun-woo; food and notebook grips remain real.
+- 031→032: same physical notebook handwriting/page, pen rest, Nari→TV eyeline, TV screen plane and wall-unplug state.
 
 ## Current Prompt-Level Gate Counts
 
-After sixth-pass repairs **and the complete second 001→032 post-repair clean-room re-read**:
+After seventh-pass repairs **and the complete second 001→032 post-repair clean-room re-read**:
 - **BLOCKER: 0**
 - **MAJOR: 0 unresolved deterministic prompt/canon issues**
 - **MINOR requiring correction: 0**
@@ -172,4 +178,4 @@ After sixth-pass repairs **and the complete second 001→032 post-repair clean-r
 
 These counts apply only to current textual/reference authority. Rendered visual gates remain pending/unexecuted.
 
-**FINAL CURRENT STATUS: SIXTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+**FINAL CURRENT STATUS: SEVENTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
