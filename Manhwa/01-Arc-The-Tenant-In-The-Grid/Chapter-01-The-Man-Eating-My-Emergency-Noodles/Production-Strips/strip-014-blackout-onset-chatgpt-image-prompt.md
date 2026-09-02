@@ -12,7 +12,7 @@ ATTACH — REQUIRED
 - `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-hallway-reference.webp`
 - `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-- APPROVED Strip 013 for Nari rendering identity only; do not continue lobby location
+- APPROVED Strip 013 for Nari permanent rendering identity only; do not continue lobby location
 - this Strip 014 prompt
 
 Do NOT attach Seungjae or Hyun-woo.
@@ -21,104 +21,108 @@ Do NOT attach Seungjae or Hyun-woo.
 REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached references are binding permanent authority. Preserve Nari's approved face/body/hair, desk geometry, emergency-tray position, hallway/lamp position, apartment axis, and lighting-state logic exactly.
-Never render V65–V67, P9, Strip 014, beat/panel/scene labels, or production metadata anywhere, especially top-left. `12:43 A.M.` is reader-facing narration only because the script explicitly contains it; it must not look like a production V-label.
+Attached references are binding permanent authority. Preserve Nari's approved identity, desk/tray/hallway/lamp geometry, apartment axis and lighting-state logic.
+Never render V65–V67, P9, Strip 014, SCRUNCHIE WRIST or production metadata. `12:43 A.M.` is reader-facing narration only.
+
+==================================================
+NARI NIGHT IDENTITY / BODY TOPOLOGY — NON-NEGOTIABLE
+==================================================
+
+This legal time cut establishes a new HOME OUTFIT state but NOT a new character identity.
+
+Nari remains:
+- Korean woman exactly 30, SAME canonical face/build
+- SAME long dark-plum hair, loose, approximately mid-back with same part/fringe/face-framing layers
+- exactly ONE tiny beauty mark beside anatomical LEFT corner of mouth whenever visible; never mirrored to anatomical right or duplicated
+- SAME dark oversized graphic hoodie, loose black trousers, bare feet for this night sequence
+- SAME yellow scrunchie around one physical wrist; first clear V65 establishes SCRUNCHIE WRIST
+- SAME headphones physically around neck/hoodie
+
+Whole-body topology:
+- exactly two arms/hands and two legs/feet; no duplicate/missing limb, detached hand/foot/ear/hair mass, impossible elbow/knee/wrist/ankle
+- sleeves connect to the correct shoulders/arms
+- bare feet connect to the same legs and remain adult-proportioned
+- hair/headphones/hoodie may occlude each other only with physically plausible front/behind order
+
+BLACKOUT COLOR LOCK:
+- darkness may lower value but must not recolor dark-plum hair to pure black/brown/red/neon purple
+- yellow scrunchie remains yellow when visible, merely darker in low light
+- hoodie/trousers remain same dark clothing, not redesigned into a new outfit
+- skin/hair/clothes remain matte flat-2D, not glossy/cinematic
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
 START:
-- legal later-night cut: Nari already at canonical work desk
-- home state: oversized graphic hoodie, loose black trousers, bare feet
-- SAME headphones rest physically AROUND HER NECK; not ears/desk/floor
-- long dark-plum hair LOOSE at approved mid-back length
-- yellow scrunchie around ONE physical wrist; first clear V65 establishes production-only `SCRUNCHIE WRIST`
-- ordinary Unit 2407 supplied power ON
+- legal later-night cut; Nari at canonical work desk
+- home outfit/worn state above
+- Unit supplied power ON
 - hallway mains lamp visibly ON
 - monitor/room light/purifier/refrigerator powered normally
 - phone desk, screen dark/not story-active
-- emergency tray immediately right of keyboard contains flashlight + radio + practical knife fully sheathed, handle toward chair
+- emergency tray right of keyboard contains flashlight + radio + practical knife fully sheathed, handle toward chair
 - front door closed/latch engaged
 
 ALLOWED CHANGES:
-- one power-loss event cuts ordinary supplied power
+- one supply-loss event cuts ordinary Unit power
 - monitor/light/hallway lamp/purifier/refrigerator stop together
-- Nari turns/reacts; she touches no lamp/switch/phone/tools/knife
-- SCRUNCHIE WRIST/headphones remain physically attached in same body locations
-- camera may cut outside to establish citywide outage
+- Nari turns/reacts; touches no switch/phone/tools/knife
+- body topology, beauty mark, hair, SCRUNCHIE WRIST and headphones remain unchanged
+- camera may cut outside for citywide outage
 
 END:
 - Unit power OFF
 - hallway lamp OFF because supply failed
 - phone dark desk
-- flashlight/radio/sheathed knife untouched tray
-- Nari hair/home outfit unchanged
-- scrunchie SAME wrist; headphones SAME neck
+- tools untouched tray
+- Nari same night identity/outfit/worn state
 - citywide outage confirmed
 
 ==================================================
-SCRUNCHIE / HEADPHONES / HAIR BODY-ATTACHMENT — NON-NEGOTIABLE
+SCRUNCHIE / HEADPHONES / HAIR BODY ATTACHMENT — NON-NEGOTIABLE
 ==================================================
 
-SCRUNCHIE:
-- yellow scrunchie physically encircles SAME wrist with believable contact/compression
-- it does not float beside wrist, sink halfway through arm, move into hair, duplicate, or switch wrists
-- sleeve may partially cover it only with plausible front/behind order
-
-HEADPHONES:
-- SAME headphone band/earcups physically rest around neck/collar/hoodie
-- band/earcups do not pass through Nari's neck, jaw, hair, hoodie, each other, or float off her body
-- long loose hair may fall in front of/behind parts of headphones only with consistent depth; hair cannot cut through headphone band/earcups
-- headphones remain around neck through outage; no movement to ears/surface
-
-These body attachments become continuity authority for the rest of Chapter 1 night sequence.
+SCRUNCHIE physically encircles SAME wrist. It does not float, sink through arm, move to hair, duplicate or switch wrists.
+HEADPHONES band/earcups physically rest around neck/collar/hoodie and do not pass through neck/jaw/hair/hoodie/each other.
+Hair may pass in front/behind headphones only in plausible depth order; no hair mass passes through the band.
+These worn states persist through Chapter 1 night unless visibly changed.
 
 ==================================================
-POWER-LOSS SHADOW / REFLECTION DISCIPLINE — ABSOLUTE
+POWER-LOSS LIGHT / SHADOW / IDENTITY — ABSOLUTE
 ==================================================
 
-V65 powered baseline may have restrained shadows only from real powered lights according to attached lighting reference.
-At V66 when Unit power cuts:
-- shadows/highlights from those powered sources disappear/change consistently with the loss of light
-- do not keep a strong cast shadow from a light that is now OFF
-- do not invent cinematic rim light, moon spotlight, phone glow, or refrigerator/monitor afterglow
-- no shadow-person, mysterious silhouette, reflected figure, face, hand, or Hyun-woo is allowed
-- matte screens/windows/appliances must not show an identifiable reflected duplicate Nari or unknown person
+V65 powered baseline uses real powered sources from lighting reference.
+At V66:
+- those powered light/shadow contributions disappear consistently
+- no rim light, moon spotlight, phone glow, fridge/monitor glow or cinematic outline is invented merely to preserve Nari's face
+- readability must come from flat value separation while preserving the SAME face/hair/body silhouette, not from glowing edges
+- no reflected/shadow duplicate Nari/unknown person/Hyun-woo
 
-V67 city darkness is exterior evidence of same outage, not an excuse for supernatural silhouettes in Unit 2407.
-
-==================================================
-POWER-LOSS MICRO-CONTINUITY — ABSOLUTE
-==================================================
-
-V65 must establish powered baseline clearly enough that V66 is a real state change.
-V66 is ONE simultaneous supply-loss event. Hallway lamp is not already dark in V65 and Nari does not switch it.
-Furniture/props do not move when power cuts. Phone does not light. Knife stays sheathed/tray.
-V67 exterior city darkness is same outage.
+Do not use darkness as permission to simplify away the beauty mark/hair length/headphones/scrunchie when the feature is visible enough to identify.
 
 ==================================================
-CAMERA / EYE-LINE CONTINUITY — ABSOLUTE
+POWER-LOSS MICRO-CONTINUITY / CAMERA — ABSOLUTE
 ==================================================
 
-V65 Nari is oriented to actual desk/monitor work area.
-V66 when power dies, her head/eyes turn toward the real hallway lamp direction to establish she did not switch it off.
-A reverse shot may flip screen-left/right but cannot place the hallway/lamp on the wrong physical side or make her gaze point away from it.
+V65 clearly establishes powered baseline and tray/worn state. V66 is ONE simultaneous supply-loss event; Nari does not switch hallway light. Furniture/props do not move. Phone does not light. Knife stays sheathed.
+V65 Nari oriented to desk/monitor; V66 head/eyes turn toward actual hallway lamp direction. Reverse camera cannot place lamp on wrong physical side.
 
 ==================================================
-NARRATION DESIGN BY SITUATION — ABSOLUTE
+SPEAKING / NARRATION OWNERSHIP — ABSOLUTE
 ==================================================
 
-- `LATER THAT NIGHT — 12:43 A.M.` = compact story time/location caption
-- `EVERYTHING SHUT OFF AT ONCE.` = firmer event-state caption
-- `THEN NARI SAW THE CITY WAS DARK TOO.` = ominous confirmation with breathing room
-Do not force identical narration boxes or top-left V-style tags.
+This strip has narration and SFX only, no human dialogue. Do NOT animate Nari's mouth as though she is speaking narration. Facial reaction may show surprise/tension, but no invented speech.
 
 ==================================================
-TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
+NARRATION / READER ORDER — ABSOLUTE
 ==================================================
 
-Narration/`CLICK` must not cover hallway lamp powered→off proof, tray/tool state, Nari hands, scrunchie/headphone body attachment when shown.
+- `LATER THAT NIGHT — 12:43 A.M.` compact story time/location caption
+- `EVERYTHING SHUT OFF AT ONCE.` firmer event-state caption
+- `THEN NARI SAW THE CITY WAS DARK TOO.` ominous confirmation
+Do not use one identical box/top-left tag.
+Reader order: powered V65 → V66 `CLICK`/power loss → V67 city confirmation.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -127,17 +131,16 @@ VERTICAL STORY FLOW
 V65 — POWERED DESK / WORN STATE
 NARRATION:
 `LATER THAT NIGHT — 12:43 A.M.`
-Hallway lamp clearly ON. Establish headphones physically around neck and scrunchie on SAME wrist.
+Hallway lamp ON. Establish SAME long dark-plum hair, beauty mark if face visible, headphones around neck and SCRUNCHIE WRIST.
 
 SMALL BLACK GUTTER.
 
 V66 — ONE POWER-LOSS EVENT
-Without Nari touching switch, monitor dies, room light cuts, hallway lamp darkens, purifier stops, refrigerator silent. Nari turns toward actual hallway lamp.
-SFX:
+Without Nari touching a switch, monitor/room/hallway/purifier/refrigerator lose power together. Nari turns toward actual hallway lamp.
+SFX at real supply cut:
 `CLICK`
 NARRATION:
 `EVERYTHING SHUT OFF AT ONCE.`
-No invented shadow/reflected figure.
 
 SMALL BLACK GUTTER / DARK TRANSITION.
 
@@ -150,22 +153,23 @@ NARRATION:
 SEAM
 ==================================================
 
-Strip015 returns to same desk/outage. Preserve loose hair, SAME scrunchie wrist, physically attached headphones-at-neck, outfit, tray/tools, blackout shadow state.
+Strip 015 returns to same desk/outage. Preserve Nari face/hair/body topology, SAME beauty-mark side, SCRUNCHIE WRIST, headphones-at-neck, outfit, tray/tools and blackout shadow state.
 
 AUTOMATIC REJECT IF
 - production label appears
-- refs/geometry drift
-- Seungjae/Hyunwoo appears
-- hair tied/shortened
-- scrunchie floats/clips/switches wrist/moves to hair/duplicates
-- headphones float/clip through neck/hair/hoodie, move to ears/surface, or duplicate
+- Nari beauty mark missing/duplicated/moved to anatomical right when visible
+- hair shortens/changes part/color or becomes a different hairstyle
+- Nari face/age/build changes between V65/V66
+- extra/missing/duplicated limb/hand/foot/ear appears or clothing hides impossible body topology
+- scrunchie/headphones float/clip/switch/disappear/duplicate
+- blackout recolors signature hair/scrunchie/outfit rather than only changing value
 - hallway lamp off before outage / Nari switches it
-- phone/screen turns on
-- tools move
-- blackout keeps impossible powered shadows or invents rim light/glow
-- reflected/shadow duplicate Nari/unknown person/Hyunwoo appears
-- Nari gaze points to wrong hallway/lamp direction
-- narration obscures evidence or uses one generic repeated box
+- phone/screen turns on or tools move
+- blackout keeps powered shadows or invents rim/glow
+- reflected/shadow duplicate person appears
+- Nari gaze points to wrong hallway direction
+- Nari appears to speak narration
+- narration obscures evidence or uses generic repeated box
 - black spacing becomes dead void
 ```
 
