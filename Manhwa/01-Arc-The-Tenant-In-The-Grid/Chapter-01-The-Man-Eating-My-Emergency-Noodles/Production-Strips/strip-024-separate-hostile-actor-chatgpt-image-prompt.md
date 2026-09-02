@@ -28,96 +28,90 @@ Never render V/P/strip/temp-state labels.
 START:
 - Nari same post-reach position; STEP FOOT + CANDLE FOOT fixed
 - Hyun-woo same close protective position
-- SAME former-KNIFE-HAND wrist is ACTUALLY held in same physical grip established V107
+- SAME former-KNIFE-HAND wrist ACTUALLY held in same grip established V107
 - SCRUNCHIE WRIST/headphones unchanged
-- SAME knife settled at exact Strip023 floor location AND final orientation
+- SAME knife settled exact floor location/orientation
 - separate packet floor spot
 - candle out; same dining scale/depth/topology
 - fridge hostile state at start; Unit unpowered
 
 ALLOWED CHANGES:
 - V108 first visible instant preserves real grip
-- Hyun-woo then physically releases same wrist through exact disengagement sequence
-- only after a visible air gap exists between hand and wrist does fridge produce `TIK. TIK. TIK.` and go dark
+- Hyun-woo physically releases same wrist through exact disengagement
+- only after visible air gap exists does fridge produce `TIK. TIK. TIK.` and go dark
 - V109–V112 dialogue/head/upper-body/eyeline only
 - no steps, knife movement, candle/topology/power change
 
 END:
 - same proximity, no contact
 - Nari feet/worn state unchanged
-- knife same settled floor location/orientation
+- knife same settled location/orientation
 - packet separate
 - fridge dark/silent; candle out; topology unchanged
 
 ==================================================
-HELD WRIST START CONTACT — NON-NEGOTIABLE
+HELD WRIST START / RELEASE ERGONOMICS — NON-NEGOTIABLE
 ==================================================
 
-Strip024 may NOT begin with two hands separated.
-First readable instant must prove real existing contact:
-- Hyun-woo fingers/thumb visibly wrap around SAME former-KNIFE-HAND wrist/forearm
-- grip matches Strip023 anatomical side and approximate placement
-- hand/wrist depth is physically compatible
-- no fingers pass through arm
+First readable instant must prove real existing grip:
+- Hyun-woo fingers/thumb wrap around SAME former-KNIFE-HAND wrist/forearm
+- finger joints follow a believable grip; no finger passes through wrist/hand
+- grip matches Strip023 anatomical side/placement
 - Nari wrist/hand connects correctly to same arm
 
-A foreground hand silhouette overlapping the wrist without readable wrap/contact does not count.
-
-==================================================
-WRIST RELEASE MECHANICS — NON-NEGOTIABLE
-==================================================
-
-V108 exact release:
+V108 release:
 1. same grip visible
-2. Hyun-woo fingers begin extending/opening
-3. thumb/fingers lose contact one by one/collectively in a believable release
-4. his palm/hand moves away through open space
-5. Nari wrist remains in same position; no arm teleport
-6. a visible air gap appears between hand and wrist
-7. only after gap exists: refrigerator `TIK. TIK. TIK.`
-8. hands remain separate afterward
+2. fingers/thumb visibly extend/open from usable positions
+3. contact is lost physically, not by hand disappearing
+4. Hyun-woo hand moves away through open space
+5. Nari wrist remains same position
+6. visible air gap appears
+7. only then refrigerator clicks
 
-Do not hide release behind dialogue/SFX/close crop. Do not switch to opposite wrist or simply erase Hyun-woo hand between frames.
+Do not switch wrists, melt hands together, or use a foreground overlap as fake grip.
+
+==================================================
+DIALOGUE AXIS / EYE-LINE CONTINUITY — ABSOLUTE
+==================================================
+
+V109–V112 remain one close conversation from the same post-reach positions.
+- Nari and Hyun-woo do not exchange physical sides
+- their eyes/head directions remain toward each other while speaking/listening
+- Nari may glance to actual refrigerator after the clicks, then return to Hyun-woo
+- Hyun-woo's explanation remains directed toward Nari, not camera/wrong wall
+- reverse shots may flip screen-left/right but cannot silently cross the axis so their eyelines no longer meet
+
+A tight close-up may omit environment, but returning views must restore the same world positions and floor evidence.
+
+==================================================
+BLACKOUT SHADOW / REFLECTION BAN — ABSOLUTE
+==================================================
+
+Candle is extinguished. Refrigerator goes dark after clicks.
+Therefore:
+- do not retain candle-cast shadows after flame is out
+- do not let fridge pixels cast room light/shadows after it goes dark
+- no reflected duplicate Nari/Hyun-woo/unknown person in fridge/TV/window/counter
+- no shadow-person, extra hand/face or silhouette appears behind dialogue
+- flat charcoal separation is readability, not an invented light source
 
 ==================================================
 KNIFE SETTLED STATE / FLOOR SUPPORT — ABSOLUTE
 ==================================================
 
-SAME knife remains exactly where Strip023 settled after `CLANG`:
-- same floor point
-- same blade/handle orientation
-- same world-space scale
-- physically supported by floor plane
-- no hovering/rotation/rebound after the settled state
-- clear of STEP FOOT/CANDLE FOOT/packet/chair/table
-
-Nobody touches it until Strip028.
-Close-up of knife floor state cannot create second knife or rotate it.
+SAME knife stays exact Strip023 floor point/orientation/scale, physically supported by floor and clear of feet/packet/chair/table. Nobody touches until Strip028.
 
 ==================================================
-NARI FEET / WORN / TOPOLOGY — ABSOLUTE
+WORN-ITEM ATTACHMENT — ABSOLUTE
 ==================================================
 
-STEP FOOT/CANDLE FOOT fixed. Packet fixed. SCRUNCHIE WRIST/headphones unchanged.
-Dining pot/trivet/handle/cloth/candle/wrapper/chopsticks/chair/table retain stable scale/depth/orientation.
+Scrunchie remains physically encircling SAME wrist. Headphones remain physically around neck/hoodie; no clipping through hair/jaw/neck/clothing and no disappearance/side change.
 
 ==================================================
-SAME-OBJECT INSERT — ABSOLUTE
+SAME-OBJECT INSERT / TEXT SAFETY — ABSOLUTE
 ==================================================
 
-Wrist/fridge/knife/packet/candle details = SAME physical states.
-A later release detail may advance contact once, but cannot show held and released as simultaneous incompatible states.
-
-==================================================
-TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
-==================================================
-
-Dialogue/`TIK. TIK. TIK.` must not cover:
-- real starting grip
-- fingers opening
-- visible hand-wrist separation/gap
-- knife floor orientation
-- fridge display going dark
+Wrist/fridge/knife/packet details are SAME physical states. Dialogue/`TIK. TIK. TIK.` must not cover starting grip, fingers opening, hand-wrist air gap, knife orientation or fridge going dark.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -125,7 +119,7 @@ VERTICAL STORY FLOW
 
 V108 — REAL SAME-WRIST RELEASE
 Begin actual grip. Visibly open/disengage/move hand away until gap.
-Only then fridge:
+Only then refrigerator:
 `TIK. TIK. TIK.`
 Display dark/silent.
 
@@ -164,21 +158,21 @@ HYUN-WOO:
 `BUT IT'S TRYING TO LEARN WHO YOU ARE.`
 
 ==================================================
-POWER / SEAM
+SEAM
 ==================================================
 
-Unit fully unpowered. No candle/phone/flashlight/glow. Strip025 inherits exact feet, settled knife orientation, packet, topological state and separated hands.
+Strip025 inherits exact feet, settled knife orientation, packet, separated hands, conversation positions and no-light shadow state.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - refs/geometry/scale/depth drift
 - wrist already released at start
-- grip is only fake 2D overlap/no readable wrap
-- release happens by hand disappearing/teleporting or before visible gap
-- opposite wrist used
-- fridge clicks before release complete
-- knife moves/rotates/floats/duplicates or changes settled orientation
+- grip/release anatomy impossible, fused/clipping, fake 2D overlap, opposite wrist, or hand vanishes instead of opening
+- fridge clicks before visible release gap
+- dialogue axis flips / eyelines point away from actual other character
+- knife moves/rotates/floats/duplicates
 - feet/worn/packet/topology changes
+- reflected/shadow duplicate human/figure appears or shadows imply nonexistent candle/fridge light
 - power returns early/candle relights
 - text hides grip/release/knife evidence
 - invented narration/system label
