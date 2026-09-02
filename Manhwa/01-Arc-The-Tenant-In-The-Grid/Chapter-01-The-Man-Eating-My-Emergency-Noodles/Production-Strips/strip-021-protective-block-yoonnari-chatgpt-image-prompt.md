@@ -241,12 +241,29 @@ EXACT TEXT ONLY
 `TIK... TIK...`
 `YOON NARI`
 
-No narration or extra text.
+No new narration or extra new text. Inherited physical evidence text elsewhere remains unchanged if visible.
+
+==================================================
+CHAPTER-LONG PERSISTENT UNIT EVIDENCE — ABSOLUTE
+==================================================
+Unless THIS strip explicitly performs a visible change, inherit every non-active Unit 2407 plot state from Strip 020 without reset:
+- SAME original A4-class paper-test sheet remains at established PAPER TEST ZONE with the same physical question/reply
+- SAME original paper-test pen remains at exact final V40 supported rest position
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
+- SAME electrical-operation-guide binder remains at exact inherited state/location
+- SAME brass backup key remains in SAME entry tray
+- SAME front door remains CLOSED/LATCHED
+- SAME phone, tablet, flashlight, radio, and practical-knife sheath keep exact inherited states/locations except for the active practical knife in Nari's hand
+- SAME TV remains physically wall-unplugged/dark
+- SAME hidden smart-speaker/storage stack remains physically wall-unplugged and unchanged
+- no crop, reverse shot, close-up, or focus shift may remove, relocate, duplicate, reconnect, open, reset, or replace these
+- original paper-test sheet + original paper-test pen remain distinct persistent evidence and must never be merged with or replaced by the later A5 notebook + later writing pen
 
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; Nari moves or changes exact Strip 020 foot geometry; packet returns under a foot, is disturbed again, duplicates, disappears, or moves without cause; knife changes hand, rises, moves to create clearance, disappears, or clips Hyun-woo; Hyun-woo route teleports/switches side/clips/crosses table or low knife/blade envelope; final block is fake foreground overlap; relative scale changes; Hyun-woo becomes villainous/romantic; secured mask opens/moves/detaches/redesigns; chopsticks move/duplicate/change support or a separate rest object appears; pantry count changes from exactly five; pushed chair/table/pot/candle/holder/wrapper topology resets; eyelines point wrong target; `YOON NARI` appears before V97 or floats off the refrigerator display; `IDENTITY LOCKING` appears early; whole refrigerator door becomes screen; fridge becomes room light; reflected/shadow humans appear; glossy/cinematic/photoreal/3D style appears; text hides route/block/knife clearance proof; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; Nari moves or changes exact Strip 020 foot geometry; packet returns under a foot, is disturbed again, duplicates, disappears, or moves without cause; knife changes hand, rises, moves to create clearance, disappears, or clips Hyun-woo; Hyun-woo route teleports/switches side/clips/crosses table or low knife/blade envelope; final block is fake foreground overlap; relative scale changes; Hyun-woo becomes villainous/romantic; secured mask opens/moves/detaches/redesigns; chopsticks move/duplicate/change support or a separate rest object appears; pantry count changes from exactly five; pushed chair/table/pot/candle/holder/wrapper topology resets; eyelines point wrong target; `YOON NARI` appears before V97 or floats off the refrigerator display; `IDENTITY LOCKING` appears early; whole refrigerator door becomes screen; fridge becomes room light; reflected/shadow humans appear; any chapter-long persistent Unit evidence silently disappears/resets/moves without scripted cause; glossy/cinematic/photoreal/3D style appears; text hides route/block/knife clearance proof; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET

@@ -224,7 +224,7 @@ EXACT TEXT ONLY
 `THEN WHO ARE YOU?`
 `HYUN-WOO.`
 
-No extra readable text.
+No extra NEW readable text. Inherited physical evidence text elsewhere in Unit 2407, if incidentally visible, remains unchanged and is not new Strip 018 text.
 
 ==================================================
 STATE LEDGER
@@ -246,6 +246,23 @@ DINING:
 all pot/candle/wrapper/packet/chair states unchanged.
 
 ==================================================
+CHAPTER-LONG PERSISTENT UNIT EVIDENCE — ABSOLUTE
+==================================================
+In addition to this strip's active dining/action state, ALL non-active Unit 2407 plot evidence inherited from Strip 017 persists unless THIS strip explicitly performs a visible change:
+- SAME original A4-class paper-test sheet remains at the established PAPER TEST ZONE with Nari's physical question and the supernatural physical reply unchanged
+- SAME original paper-test pen remains at its exact final V40 supported rest position
+- SAME small guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED and untouched
+- SAME electrical-operation-guide binder remains at its exact inherited state/location
+- SAME brass backup key remains in SAME entry tray
+- SAME front door remains CLOSED/LATCHED
+- SAME phone, tablet, flashlight, radio, and practical-knife sheath keep their exact inherited states/locations except for the active practical knife already in Nari's hand
+- SAME TV keeps its exact inherited physically wall-unplugged/dark state
+- SAME smart-speaker/storage stack keeps its exact inherited hidden, physically wall-unplugged state
+- no background crop, close-up, reverse shot, or scene focus is permission to remove, relocate, duplicate, replug, open, reset, or replace any of these
+- the original paper-test sheet + original paper-test pen are distinct permanent evidence and must never be silently converted into, merged with, or replaced by the later A5 notebook + later writing pen
+
+==================================================
 FINAL REJECT
 ==================================================
 
@@ -262,6 +279,7 @@ Reject if:
 - dialogue ownership swaps
 - room/dining scale changes
 - Nari moves/knife changes hand
+- any chapter-long persistent Unit evidence listed above silently disappears/resets/moves without a scripted action
 - glossy/neon/cinematic/photoreal/3D style appears
 - text hides mask/hand mechanics
 - gutters missing/oversized

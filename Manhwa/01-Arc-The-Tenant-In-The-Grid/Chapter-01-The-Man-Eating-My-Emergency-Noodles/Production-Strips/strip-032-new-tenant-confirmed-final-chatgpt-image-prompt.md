@@ -26,18 +26,18 @@ Do NOT attach or depict Hyun-woo. Missing authority = STOP.
 ==================================================
 CURRENT CANON / START STATE
 ==================================================
-Current WebPs permanently control Nari/Unit/speaker/TV. APPROVED Strip 031 temporarily controls exact seated Nari pose/facing, open NOTEBOOK ZONE/base/spine state, exact five-line handwriting, PEN REST SPOT, table/two-pot/two-chopstick evidence, open speaker-storage stack, phone COUNTER SPOT, sheathed knife/failed-tools state, powered lighting, exact TV hostile-start fraction, and physically wall-unplugged TV state.
+Current WebPs permanently control Nari/Unit/speaker/TV. APPROVED Strip 031 temporarily controls exact seated Nari pose/facing, open A5 NOTEBOOK ZONE/base/spine state, exact five-line bug-report handwriting, LATER WRITING PEN REST SPOT, separate original PAPER TEST SYSTEM, table/two-pot/two-chopstick evidence, open speaker-storage stack, phone COUNTER SPOT, sheathed knife/failed-tools state, powered lighting, exact TV hostile-start fraction, and physically wall-unplugged TV state.
 
 CURRENT NARI WEBP WINS:
 - exactly 30
-- same current warm-brown layered hair/face/glasses state
+- same current very-dark warm-brown layered hair/face/glasses state
 - same current night clothing/accessory layer established by approved prior strips
 - BAREFOOT
 - NO retired dark-plum hair
-- NO old mouth beauty mark
+- NO mouth beauty mark
 - NO yellow scrunchie
 - NO headphones-around-neck identity
-- NO retired old outfit design
+- NO retired dark graphic-hoodie/cropped-jacket design
 
 START — EXACT STRIP 031 HANDOFF:
 - Unit supplied mains power remains ON at canonical powered baseline
@@ -51,14 +51,16 @@ START — EXACT STRIP 031 HANDOFF:
 - Nari head/eyes/upper torso are already turned toward actual TV from Strip 031 V145
 - lower body has NOT moved
 - SAME A5 notebook remains OPEN at exact NOTEBOOK ZONE with SAME base location and SAME frozen spine orientation
-- SAME writing page contains EXACT completed five-line bug report:
+- SAME A5 writing page contains EXACT completed five-line bug report:
   `UNIT 2407 — BUG REPORT`
   `OBSERVATION 001:`
   `HYUN-WOO BECAME PHYSICAL DURING THE BLACKOUT.`
   `HYPOTHESIS:`
   `LOSS OF APARTMENT POWER MAY BE THE TRIGGER.`
-- SAME pen remains fully released, stationary, and supported at exact PEN REST SPOT = original Strip 030 pen support position/orientation beside notebook
-- neither Nari hand holds notebook or pen
+- SAME LATER WRITING PEN remains fully released, stationary, and supported at exact PEN REST SPOT = original Strip 030 later-pen support position/orientation beside A5 notebook
+- SAME original A4-class paper-test sheet remains untouched at original PAPER TEST ZONE with same physical question/reply
+- SAME original PAPER-TEST PEN remains at exact final V40 supported rest position
+- neither Nari hand holds any notebook/paper/pen
 - SAME TV remains physically wall-unplugged
 - TV-side power cord remains attached
 - SAME continuous cord route/length/slack remains intact
@@ -82,10 +84,12 @@ START — EXACT STRIP 031 HANDOFF:
 - speaker-side cord remains attached
 - SAME loose speaker wall plug remains visibly/unambiguously unplugged and contained with STORAGE STOCKPOT arrangement
 - speaker wall outlet remains EMPTY
-- SAME phone remains exact Strip 028 kitchen-counter COUNTER SPOT
+- SAME phone remains exact Strip 028 kitchen-counter COUNTER SPOT and remains clear of original PAPER TEST ZONE/original pen/binder
 - SAME practical knife remains fully sheathed at exact Strip 029 V134 desk/tray location/orientation
 - flashlight/radio remain OFF and untouched
 - electrical-operation-guide binder remains CLOSED at established kitchen-counter position
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
 - tablet remains desk-supported/untouched if visible
 - brass backup key remains untouched in entry tray
 - front door remains CLOSED/LATCHED
@@ -99,13 +103,16 @@ END — FINAL CHAPTER STATE:
 - exact canonical powered-lighting direction/intensity baseline has resumed/remains after that brief flicker
 - Nari remains BAREFOOT in SAME chair with SAME hips support and SAME bare-foot floor marks
 - final reaction is controlled dread/stunned recognition only
-- notebook remains OPEN at SAME NOTEBOOK ZONE with exact five-line handwriting unchanged
-- pen remains at exact PEN REST SPOT
+- SAME A5 notebook remains OPEN at SAME NOTEBOOK ZONE with exact five-line handwriting unchanged
+- SAME LATER WRITING PEN remains at exact PEN REST SPOT
+- SAME original A4 paper-test sheet + SAME original PAPER-TEST PEN remain unchanged at original PAPER TEST ZONE
 - NOODLE POT / packet / wrapper / BOTH chopstick pairs / candle / chairs remain unchanged
 - open STORAGE STOCKPOT / cabinet angle / lid / TOWEL2 / visible speaker / speaker cord / loose unplugged speaker plug / empty speaker outlet remain unchanged
 - phone remains exact COUNTER SPOT
 - sheathed knife / flashlight / radio remain exact desk states
 - binder remains CLOSED
+- guarded fruit knife remains under SAME sofa cushion
+- south-wall panel remains CLOSED/untouched
 - tablet/key/door/refrigerator states unchanged
 - pantry remains exactly FIVE unopened packets
 - Hyun-woo remains completely absent
@@ -146,7 +153,8 @@ LOWER BODY — FROZEN:
 - no chair rotation/slide
 
 HANDS — RELEASED-PEN STATE:
-- neither hand grabs notebook or pen
+- neither hand grabs A5 notebook/LATER WRITING PEN
+- neither hand grabs original paper-test sheet/original PAPER-TEST PEN
 - no pointing
 - no covering-mouth gesture
 - no new dramatic hand pose
@@ -162,7 +170,7 @@ Allowed:
 NOT allowed:
 - scream/cry/collapse/flail
 - melodramatic backward throw
-- grabbing table/chair/notebook/pen
+- grabbing table/chair/notebook/pen/paper
 - blush/glamour/chibi expression
 
 Room/TV/Nari scale remains identical to Strip 031. Do not enlarge TV or shrink Nari/table for drama.
@@ -243,29 +251,33 @@ NO:
 A causally paired medium-wide + detail view is allowed if needed, but both must clearly belong to SAME room/moment.
 
 ==================================================
-NOTEBOOK / PEN / INHERITED READABLE TEXT — ABSOLUTE
+TWO PAPER / WRITING SYSTEMS — ABSOLUTE
 ==================================================
-SAME A5 notebook:
-- remains OPEN
-- base remains exact NOTEBOOK ZONE
+ORIGINAL PAPER-TEST SYSTEM:
+- SAME original A4-class paper-test sheet remains at original PAPER TEST ZONE
+- its original physical question + supernatural reply remain exact
+- SAME original PAPER-TEST PEN remains at exact final V40 supported rest
+- no page movement, pen movement, rewriting, pickup, merge, or replacement
+
+A5 BUG-REPORT SYSTEM:
+- SAME A5 notebook remains OPEN at exact NOTEBOOK ZONE
 - same frozen spine orientation
 - no page turn
 - no notebook translation/rotation/resize/duplicate
+- SAME LATER WRITING PEN remains fully released and stationary at exact PEN REST SPOT
+- no hand picks it up
 
-INHERITED READABLE NOTEBOOK TEXT — MUST REMAIN EXACT AND UNCHANGED:
+INHERITED READABLE A5 NOTEBOOK TEXT — MUST REMAIN EXACT AND UNCHANGED:
 `UNIT 2407 — BUG REPORT`
 `OBSERVATION 001:`
 `HYUN-WOO BECAME PHYSICAL DURING THE BLACKOUT.`
 `HYPOTHESIS:`
 `LOSS OF APARTMENT POWER MAY BE THE TRIGGER.`
 
-SAME pen:
-- remains fully released
-- remains stationary at exact PEN REST SPOT
-- does not cover handwriting
-- no hand picks it up
-
-Do NOT erase, corrupt, rewrite, shorten, duplicate, or replace inherited notebook handwriting merely because Strip 032 introduces new TV text.
+ABSOLUTE IDENTITY BAN:
+- original A4 paper-test sheet ≠ A5 notebook
+- original PAPER-TEST PEN ≠ LATER WRITING PEN
+- do not erase, corrupt, rewrite, shorten, duplicate, replace, merge, swap, or silently convert either system for the final composition
 
 ==================================================
 TWO-POT / TWO-CHOPSTICK / TABLE EVIDENCE — ABSOLUTE
@@ -323,6 +335,7 @@ OPEN SPEAKER STATE:
 
 PHONE:
 - SAME phone remains exact COUNTER SPOT
+- remains physically clear of original PAPER TEST ZONE/original paper-test pen/closed binder
 - no movement/activation required
 
 DESK:
@@ -332,6 +345,8 @@ DESK:
 
 OTHER UNIT EVIDENCE:
 - binder remains CLOSED
+- guarded fruit knife remains under SAME sofa cushion
+- south-wall panel remains CLOSED/untouched
 - brass key remains untouched
 - front door remains CLOSED/LATCHED
 - refrigerator remains ordinary powered baseline
@@ -374,7 +389,10 @@ Hyun-woo remains completely absent while power is on.
 ==================================================
 READABLE TEXT CONTROL
 ==================================================
-INHERITED NOTEBOOK TEXT — PRESERVE EXACTLY:
+INHERITED ORIGINAL PAPER-TEST TEXT:
+- preserve exactly as already physically written on SAME original A4 sheet; it is not new Strip 032 text and may remain if incidentally visible
+
+INHERITED A5 NOTEBOOK TEXT — PRESERVE EXACTLY:
 `UNIT 2407 — BUG REPORT`
 `OBSERVATION 001:`
 `HYUN-WOO BECAME PHYSICAL DURING THE BLACKOUT.`
@@ -394,7 +412,7 @@ No title card.
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; canonical smart-speaker reference omitted from production attachments; Strip 032 begins with readable final-message fragment already present; V146 order becomes message → reaction → flicker instead of message → flicker → final reaction; Nari final reaction occurs before `FZZT`; Nari gains shoes/slippers/socks; Nari hips/feet/chair support changes; chair rotates/slides; new dramatic hand gesture grabs notebook/pen; notebook moves/pages turn/handwriting changes or disappears; pen leaves PEN REST SPOT; inherited notebook text is treated as forbidden extra text; NOODLE POT quantity changes; STORAGE STOCKPOT/NOODLE POT merge/swap/duplicate; either chopstick pair moves/merges/duplicates or separate chopstick-rest object appears; packet/wrapper/candle moves; open speaker cabinet/lid/towel/speaker/cord/plug state resets; speaker reconnects/chimes/speaks/reacts; phone leaves COUNTER SPOT; sheathed knife/failed tools/binder/key/door/refrigerator/pantry state resets; final message unreadable/changed/floating off TV; final message disappears after reveal; TV silently replugged; TV-side cord detaches; mandatory continuous-cord + loose-plug + empty-wall-socket proof is absent; second cable/power source appears; fewer/more than exactly ONE `FZZT` occurs; flicker becomes blackout or permanently changes lighting; physical/reflected/shadow/holographic Hyun-woo or other human figure appears; room/TV/Nari scale changes; glossy/neon/cinematic/photoreal/3D style appears; title card/END/TO BE CONTINUED/credits/aftermath panel appears; giant dead bottom or black empty tail appears.
+Reject if production labels render; retired Nari design returns; canonical smart-speaker reference omitted from production attachments; Strip 032 begins with readable final-message fragment already present; V146 order becomes message → reaction → flicker instead of message → flicker → final reaction; Nari final reaction occurs before `FZZT`; Nari gains shoes/slippers/socks; Nari hips/feet/chair support changes; chair rotates/slides; new dramatic hand gesture grabs any notebook/paper/pen; A5 notebook moves/pages turn/handwriting changes or disappears; LATER WRITING PEN leaves PEN REST SPOT; original A4 paper-test sheet/original PAPER-TEST PEN moves/disappears/merges with final A5 system; inherited notebook or original paper-test text is treated as forbidden extra text; NOODLE POT quantity changes; STORAGE STOCKPOT/NOODLE POT merge/swap/duplicate; either chopstick pair moves/merges/duplicates or separate chopstick-rest object appears; packet/wrapper/candle moves; open speaker cabinet/lid/towel/speaker/cord/plug state resets; speaker reconnects/chimes/speaks/reacts; phone leaves COUNTER SPOT or overlaps original paper evidence/binder; guarded fruit knife/south-wall panel/binder/key/door/refrigerator/pantry state resets; sheathed knife/failed tools state resets; final message unreadable/changed/floating off TV; final message disappears after reveal; TV silently replugged; TV-side cord detaches; mandatory continuous-cord + loose-plug + empty-wall-socket proof is absent; second cable/power source appears; fewer/more than exactly ONE `FZZT` occurs; flicker becomes blackout or permanently changes lighting; physical/reflected/shadow/holographic Hyun-woo or other human figure appears; room/TV/Nari scale changes; glossy/neon/cinematic/photoreal/3D style appears; title card/END/TO BE CONTINUED/credits/aftermath panel appears; giant dead bottom or black empty tail appears.
 ```
 
 ## Production Thread Attachments — EXACT SET

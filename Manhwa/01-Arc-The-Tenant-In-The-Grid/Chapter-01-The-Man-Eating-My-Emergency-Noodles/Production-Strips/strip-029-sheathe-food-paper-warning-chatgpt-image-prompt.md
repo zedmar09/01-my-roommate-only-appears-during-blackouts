@@ -38,6 +38,7 @@ START — EXACT STRIP 028 HANDOFF:
 - old V106 knife floor spot is EMPTY after real retrieval
 - SAME empty spicy-seafood outer packet remains at exact floor position unchanged
 - SAME phone remains physically supported at exact V128 kitchen-counter location/orientation, production-only COUNTER SPOT
+- COUNTER SPOT remains physically distinct from and clear of the original PAPER TEST ZONE, original paper-test pen, and closed binder
 - exact lower speaker-storage cabinet remains OPEN at exact V128 hinge angle
 - SAME STORAGE STOCKPOT remains supported on SAME real cabinet support plane
 - SAME lid remains fully supported at exact V129 existing adjacent support location/orientation
@@ -57,8 +58,12 @@ START — EXACT STRIP 028 HANDOFF:
 - pantry contains exactly FIVE unopened emergency noodle packets
 - SAME EMPTY practical-knife sheath remains untouched at exact desk/tray location/orientation
 - flashlight/radio remain OFF and untouched at desk/tray
-- SAME closed A5 notebook + ONE pen remain untouched at work desk
+- SAME CLOSED A5 notebook + ONE separate LATER WRITING PEN remain untouched at work desk
+- SAME original A4-class paper-test sheet remains at established PAPER TEST ZONE with its physical question/reply unchanged
+- SAME original PAPER-TEST PEN remains at exact final V40 supported rest position
 - electrical-operation-guide binder remains CLOSED at its established kitchen-counter position
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
 - tablet remains desk-supported/untouched if visible
 - brass backup key remains untouched in entry tray
 - front door remains CLOSED/LATCHED
@@ -69,7 +74,7 @@ END — EXACT STRIP 030 HANDOFF:
 - Nari remains BAREFOOT and seated with real seat support in SAME previously untouched burgundy chair
 - SAME practical knife is fully inserted in SAME sheath and the complete sheathed assembly is physically supported at one exact desk/tray location/orientation established in V134
 - Nari is no longer holding knife or sheath
-- SAME phone remains at exact COUNTER SPOT
+- SAME phone remains at exact COUNTER SPOT, still clear of PAPER TEST ZONE/original paper-test pen/binder
 - exact lower speaker-storage cabinet remains OPEN at exact V128 angle
 - STORAGE STOCKPOT remains same support plane
 - lid remains exact V129 adjacent supported position/orientation
@@ -87,8 +92,11 @@ END — EXACT STRIP 030 HANDOFF:
 - candle remains fully extinguished
 - pantry remains exactly FIVE unopened packets
 - flashlight/radio remain OFF and untouched
-- SAME closed A5 notebook + ONE pen remain untouched at desk
+- SAME CLOSED A5 notebook + SAME LATER WRITING PEN remain untouched at desk
+- SAME original paper-test sheet + SAME original PAPER-TEST PEN remain unchanged at PAPER TEST ZONE
 - binder remains CLOSED at established counter position
+- guarded fruit knife remains under SAME sofa cushion
+- south-wall panel remains CLOSED/untouched
 - tablet/key/door/TV/refrigerator states unchanged
 - Unit remains canonical powered baseline
 - no physical/reflected/shadow Hyun-woo appears
@@ -133,12 +141,33 @@ TOTAL:
 - NO separate chopstick-rest utensil/object exists anywhere
 
 ==================================================
+TWO PAPER / WRITING SYSTEMS — ABSOLUTE
+==================================================
+ORIGINAL PAPER-TEST SYSTEM:
+- SAME one A4-class loose sheet created in Strip 008
+- remains at SAME established PAPER TEST ZONE
+- retains SAME Nari question and SAME supernatural physical reply
+- SAME original PAPER-TEST PEN remains at exact final V40 supported rest position
+- neither sheet nor original pen moves in Strip 029
+
+LATER BUG-REPORT SYSTEM:
+- SAME one CLOSED A5 notebook remains at work desk
+- SAME one separate LATER WRITING PEN remains beside/near that notebook at the exact inherited desk support state
+- these are not used until Strip 030/031
+
+IDENTITY BAN:
+- original paper-test sheet is NOT the A5 notebook
+- original PAPER-TEST PEN is NOT the LATER WRITING PEN
+- do not merge, swap, replace, duplicate, teleport, or silently convert either system
+- V137's `WRITE THINGS DOWN. PAPER ONLY.` is dialogue/instruction only; it does NOT move either paper system in Strip 029
+
+==================================================
 PERSISTENCE LOCKS — V133–V137
 ==================================================
 NARI / FOOTWEAR / ROUTES
 - Nari remains BAREFOOT throughout
 - every walk uses real Unit floor-plan geometry
-- routes clear packet, chairs, table, NOODLE POT, candle/holder, wrapper, chopsticks, cabinet, phone COUNTER SPOT, and fixed furniture
+- routes clear packet, chairs, table, NOODLE POT, candle/holder, wrapper, chopsticks, cabinet, phone COUNTER SPOT, PAPER TEST ZONE, binder, and fixed furniture
 - no teleport, clipping, or unexplained position reset
 
 OPEN SPEAKER-CABINET STATE
@@ -154,11 +183,14 @@ OPEN SPEAKER-CABINET STATE
 - no physical/reflected/shadow/holographic Hyun-woo
 
 PHONE / DESK / DEVICES
-- phone remains exact COUNTER SPOT throughout
+- phone remains exact COUNTER SPOT throughout and remains clear of old PAPER TEST ZONE/original pen/binder
 - EMPTY sheath may move only through real V134 knife insertion/support mechanics; once final sheathed assembly is supported, it remains there
 - flashlight/radio remain OFF and untouched
-- closed A5 notebook + one pen remain untouched
+- CLOSED A5 notebook + LATER WRITING PEN remain untouched
+- original paper-test sheet + original PAPER-TEST PEN remain untouched
 - binder remains closed
+- guarded fruit knife remains under same sofa cushion
+- south-wall panel remains closed/untouched
 - tablet/key/door/TV/refrigerator states remain unchanged
 
 MEAL QUANTITY
@@ -199,7 +231,7 @@ CAMERA:
 
 ROUTE:
 - walk a real evidence-safe path to desk
-- clear packet, pushed chair, untouched chair, table, NOODLE POT, candle/holder, wrapper, used chopsticks, phone COUNTER SPOT, open speaker cabinet, and fixed furniture
+- clear packet, pushed chair, untouched chair, table, NOODLE POT, candle/holder, wrapper, used chopsticks, phone COUNTER SPOT, open speaker cabinet, PAPER TEST ZONE/binder and fixed furniture
 - no contact with evidence
 
 KNIFE:
@@ -209,7 +241,7 @@ KNIFE:
 - no attack/slash pose
 
 PERSISTENCE:
-- cabinet/phone/dining states remain behind unchanged
+- cabinet/phone/dining/paper-test states remain behind unchanged
 
 NO TEXT.
 
@@ -242,7 +274,7 @@ END:
 - SAME practical knife fully and genuinely sheathed
 - complete sheathed assembly supported at exact desk/tray state
 - Nari hands empty
-- flashlight/radio/notebook/pen/tablet remain untouched
+- flashlight/radio/A5 notebook/LATER WRITING PEN/tablet remain untouched
 
 REJECT IF KNIFE HAND switches, knife is held by blade, sheath duplicates/teleports, blade overlaps sheath exterior instead of entering opening, exposed blade remains after insertion, or sheathed assembly floats/moves without support.
 
@@ -304,7 +336,7 @@ A. CLEAN CHOPSTICK SOURCE
 
 B. REAL ROUTE TO OTHER CHAIR
 - Nari carries only the clean pair toward dining table
-- barefoot route avoids packet/wrapper, pushed chair, NOODLE POT, candle, used chopsticks, and fixed evidence
+- barefoot route avoids packet/wrapper, pushed chair, NOODLE POT, candle, used chopsticks, PAPER TEST ZONE/counter evidence and fixed evidence
 
 C. CHAIR — OTHER UNTOUCHED BURGUNDY CHAIR ONLY
 1. Nari approaches SAME previously untouched burgundy chair
@@ -373,9 +405,9 @@ SOURCE:
 - no physical/reflected/shadow/holographic Hyun-woo
 
 STATE:
-- Nari does not stand, eat again, move packet, touch chopsticks, retrieve binder, notebook, or pen
+- Nari does not stand, eat again, move packet, touch chopsticks, retrieve binder, A5 notebook, LATER WRITING PEN, original paper-test sheet, or original PAPER-TEST PEN
 - NOODLE POT remains exact post-one-additional-bite quantity
-- open speaker stack / phone COUNTER SPOT / sheathed knife desk / dining evidence remain fixed
+- open speaker stack / phone COUNTER SPOT / sheathed knife desk / dining evidence / old paper evidence remain fixed
 
 END / EXACT SEAM INTO STRIP 030:
 - Unit supplied mains ON at canonical powered baseline
@@ -395,11 +427,14 @@ END / EXACT SEAM INTO STRIP 030:
 - speaker-side cord attached
 - loose wall plug remains unplugged/contained; outlet empty
 - SAME speaker remains sole Hyun-woo voice source
-- SAME phone remains exact COUNTER SPOT
+- SAME phone remains exact COUNTER SPOT and clear of old paper evidence/binder
 - practical knife remains fully sheathed and supported at exact V134 desk/tray position/orientation
 - flashlight/radio remain OFF and untouched
-- SAME closed A5 notebook + ONE pen remain untouched at work desk
+- SAME CLOSED A5 notebook + SAME LATER WRITING PEN remain untouched at work desk
+- SAME original A4 paper-test sheet + SAME original PAPER-TEST PEN remain untouched at PAPER TEST ZONE
 - electrical-operation-guide binder remains CLOSED at established kitchen-counter position
+- guarded fruit knife remains under SAME sofa cushion
+- south-wall panel remains CLOSED/untouched
 - tablet remains desk-supported/untouched if visible
 - brass backup key remains untouched in entry tray
 - front door remains CLOSED/LATCHED
@@ -409,7 +444,7 @@ END / EXACT SEAM INTO STRIP 030:
 - pantry remains exactly FIVE unopened packets
 - no physical/reflected/shadow Hyun-woo
 
-Strip 030 must begin from this exact seated-chair + two-pot + packet/wrapper + two-chopstick-pair + open-speaker-stack + phone COUNTER SPOT + sheathed-knife/failed-tools + closed-notebook/pen + closed-binder + powered evidence state.
+Strip 030 must begin from this exact seated-chair + two-pot + packet/wrapper + two-chopstick-pair + open-speaker-stack + phone COUNTER SPOT + sheathed-knife/failed-tools + separate CLOSED-A5-notebook/LATER-WRITING-PEN + persistent original-paper-test-system + closed-binder + powered evidence state.
 
 ==================================================
 EXACT TEXT ONLY
@@ -421,12 +456,12 @@ EXACT TEXT ONLY
 `THE PANEL IN THE BINDER?`
 `YES.`
 
-No extra readable text.
+No extra NEW readable text. Inherited physical paper-test evidence text remains unchanged if incidentally visible.
 
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; Strip 028 KNIFE HAND switches before/during sheathing; practical knife held by blade; real sheath insertion/support mechanics fail; sheath/knife duplicate or teleport; packet teleports/duplicates or old floor spot stays occupied after pickup; packet table placement moves wrapper/food/candle/chopsticks; STORAGE STOCKPOT and NOODLE POT merge/swap/resize/duplicate or third pot appears; retired `pot rest`/separate chopstick-rest object appears; SAME used chopstick pair moves or changes support; clean pair comes from speaker-storage cabinet; new exterior utensil furniture is invented; utensil drawer/door remains open after retrieval; fewer/more than exactly TWO chopstick pairs exist after V136; sticks duplicate/disappear/merge; Nari uses or resets pushed chair; Nari's seating lacks real support; NOODLE POT visually refills/resets before bite; more than exactly ONE additional Nari bite occurs; food path clips; open cabinet/lid/towel/speaker/cord/plug state resets; loose plug reconnects; phone leaves COUNTER SPOT; Hyun-woo voice comes from wrong place or physical/reflected/shadow figure appears; notebook/pen/binder move early; room/object scale drifts; glossy/neon/cinematic/photoreal/3D style appears; text hides sheath/food/source proof; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; Strip 028 KNIFE HAND switches before/during sheathing; practical knife held by blade; real sheath insertion/support mechanics fail; sheath/knife duplicate or teleport; packet teleports/duplicates or old floor spot stays occupied after pickup; packet table placement moves wrapper/food/candle/chopsticks; STORAGE STOCKPOT and NOODLE POT merge/swap/resize/duplicate or third pot appears; retired `pot rest`/separate chopstick-rest object appears; SAME used chopstick pair moves or changes support; clean pair comes from speaker-storage cabinet; new exterior utensil furniture is invented; utensil drawer/door remains open after retrieval; fewer/more than exactly TWO chopstick pairs exist after V136; sticks duplicate/disappear/merge; Nari uses or resets pushed chair; Nari's seating lacks real support; NOODLE POT visually refills/resets before bite; more than exactly ONE additional Nari bite occurs; food path clips; open cabinet/lid/towel/speaker/cord/plug state resets; loose plug reconnects; phone leaves COUNTER SPOT or overlaps old paper evidence/binder; original paper-test sheet/pen move/disappear/merge with A5 notebook/later pen; A5 notebook/later pen move early; guarded fruit knife/south-wall panel/binder persistent state resets; Hyun-woo voice comes from wrong place or physical/reflected/shadow figure appears; room/object scale drifts; glossy/neon/cinematic/photoreal/3D style appears; text hides sheath/food/source proof; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET

@@ -57,10 +57,16 @@ START — EXACT STRIP 027 HANDOFF:
 - pantry contains exactly FIVE unopened emergency noodle packets
 - EMPTY practical-knife sheath remains untouched at desk/tray
 - tablet/flashlight/radio/key/door/TV/refrigerator states remain as established
+- SAME original paper-test sheet remains at the established PAPER TEST ZONE with its physical question/reply unchanged
+- SAME original paper-test pen remains at exact final V40 supported rest position
+- SAME electrical-operation-guide binder remains CLOSED at its established kitchen-counter location
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
 
 END — EXACT STRIP 029 HANDOFF:
 - Nari remains BAREFOOT
 - SAME phone rests at one exact real canonical kitchen counter location/orientation established in V128, production-only COUNTER SPOT
+- COUNTER SPOT is distinct from and does NOT overlap the persistent PAPER TEST ZONE, original paper-test pen, or closed binder
 - exact lower speaker-storage cabinet remains OPEN at its V128 hinge angle
 - SAME STORAGE STOCKPOT remains on SAME cabinet support plane
 - SAME lid remains fully supported at one exact existing adjacent support plane established in V129
@@ -74,6 +80,10 @@ END — EXACT STRIP 029 HANDOFF:
 - packet remains at exact floor position unchanged
 - NOODLE POT / used chopsticks / pushed chair / untouched chair / seasoning wrapper / candle / pantry states unchanged
 - EMPTY sheath remains at desk ready for Strip 029 V134
+- original paper-test sheet + original paper-test pen remain unchanged at PAPER TEST ZONE
+- binder remains CLOSED at its established counter location
+- guarded fruit knife remains under SAME sofa cushion
+- south-wall panel remains CLOSED/untouched
 - Unit remains canonical powered baseline
 - no physical/reflected/shadow Hyun-woo appears
 
@@ -128,6 +138,14 @@ PHONE
 - once released at COUNTER SPOT, phone remains there untouched through V132 and Strip 029 start
 - no phone switch, duplicate, float, pocket, or second release
 
+PAPER-TEST ZONE / BINDER NON-INTERFERENCE — NON-NEGOTIABLE
+- SAME original paper-test sheet and SAME original paper-test pen remain at their established PAPER TEST ZONE; Strip 028 does NOT move them
+- SAME electrical-operation-guide binder remains CLOSED at its established kitchen-counter location; Strip 028 does NOT move it
+- the new phone COUNTER SPOT MUST use a DIFFERENT existing clear counter area
+- COUNTER SPOT must not overlap, cover, replace, slide, rotate, bump, hide, or displace the paper-test sheet, original paper-test pen, or closed binder
+- all four counter-supported objects/sets must retain independent real support and readable physical separation where in frame
+- do NOT erase old evidence to make room for the phone
+
 SPEAKER / POWER
 - speaker remains physically wall-unplugged throughout Strip 028
 - attached speaker-side cord remains attached
@@ -147,6 +165,19 @@ PRE-REVEAL AUDIO SILENCE
 - NO Hyun-woo spoken voice while STORAGE STOCKPOT lid remains seated
 - NO Hyun-woo spoken voice while TOWEL2 still fully covers speaker
 - first Hyun-woo spoken voice occurs ONLY AFTER TOWEL2 is folded back and actual speaker body + attached cord + loose unplugged plug are visibly revealed in V129
+
+==================================================
+CHAPTER-LONG PERSISTENT UNIT EVIDENCE — ABSOLUTE
+==================================================
+Unless THIS strip explicitly performs a visible change, all non-active Unit 2407 evidence inherited from Strip 027 persists:
+- original paper-test sheet + original paper-test pen remain exact
+- guarded fruit knife remains under SAME sofa cushion
+- south-wall panel remains CLOSED/untouched
+- binder remains CLOSED at established counter location
+- key/front door/tablet/flashlight/radio/sheath/TV states remain exact
+- hidden speaker state changes ONLY through the scripted V128–V129 cabinet/lid/towel reveal mechanics; its unplugged electrical state never changes
+- no camera crop or new COUNTER SPOT may silently erase, relocate, duplicate, reconnect, open, reset, or replace persistent evidence
+- original paper-test sheet + original paper-test pen remain distinct from the later A5 notebook + later writing pen
 
 ==================================================
 HEIGHT / WORLD SCALE / ORDER
@@ -187,14 +218,20 @@ A. REAL EVIDENCE-SAFE BAREFOOT ROUTE
 B. PHONE RELEASE — ESTABLISH COUNTER SPOT
 1. SAME phone remains supported in SAME PHONE HAND throughout approach
 2. phone lowers toward a REAL EXISTING canonical kitchen counter plane
-3. phone makes full physical support contact with counter
-4. establish one exact stable counter location/orientation, production-only COUNTER SPOT
-5. only after support exists do fingers release
-6. old hand becomes free
-7. phone remains supported at exact COUNTER SPOT through V129–V132
-8. persistent PHONE HAND obligation ends only after real release
+3. choose one exact stable clear counter location/orientation, production-only COUNTER SPOT
+4. COUNTER SPOT MUST be physically distinct from and collision-free with:
+   - SAME original paper-test sheet at PAPER TEST ZONE
+   - SAME original paper-test pen at exact V40 rest
+   - SAME CLOSED electrical-operation-guide binder at its established counter position
+5. phone may NOT overlap, cover, replace, push, slide, rotate, bump, obscure, or displace any of those persistent objects
+6. phone makes full physical support contact with the chosen clear counter area
+7. only after support exists do fingers release
+8. old hand becomes free
+9. phone remains supported at exact COUNTER SPOT through V129–V132 and Strip 029 start
+10. persistent PHONE HAND obligation ends only after real release
 
 Do NOT invent a new counter, shelf, floating ledge, tray, or support.
+Do NOT erase or silently reset the PAPER TEST ZONE, original pen, or binder to manufacture phone space.
 
 C. CABINET ACTION — ONLY AFTER PHONE RELEASE
 - Nari physically transitions into a believable kneel/crouch at SAME lower speaker-storage cabinet
@@ -216,13 +253,13 @@ CABINET INTERIOR AT FIRST OPEN:
 - NO third chime
 
 END:
-- phone at exact COUNTER SPOT
+- phone at exact COUNTER SPOT, clear of persistent PAPER TEST ZONE/original pen/binder
 - Nari kneeling/crouched
 - cabinet open at exact established angle
 - STORAGE STOCKPOT/lid intact
 - NOODLE POT/evidence untouched elsewhere
 
-REJECT V128 IF phone remains magically in hand during cabinet mechanics, COUNTER SPOT floats/invents new furniture, route contacts evidence, cabinet hinge flips, speaker becomes visible early, third chime occurs, or Hyun-woo speaks before reveal.
+REJECT V128 IF phone remains magically in hand during cabinet mechanics, COUNTER SPOT overlaps/moves old paper evidence or binder, COUNTER SPOT floats/invents new furniture, route contacts evidence, cabinet hinge flips, speaker becomes visible early, third chime occurs, or Hyun-woo speaks before reveal.
 
 SMALL BLACK GUTTER.
 
@@ -384,7 +421,7 @@ END / EXACT SEAM INTO STRIP 029:
 - Nari remains BAREFOOT holding SAME practical knife by HANDLE in SAME persistent KNIFE HAND
 - old V106 knife floor spot empty
 - packet exact floor position unchanged
-- phone exact V128 COUNTER SPOT unchanged
+- phone exact V128 COUNTER SPOT unchanged and clear of PAPER TEST ZONE/original pen/binder
 - lower speaker-storage cabinet OPEN at exact V128 angle
 - STORAGE STOCKPOT same support plane
 - lid exact V129 adjacent supported location/orientation
@@ -401,9 +438,13 @@ END / EXACT SEAM INTO STRIP 029:
 - candle remains fully extinguished
 - pantry remains exactly FIVE unopened packets
 - EMPTY knife sheath remains untouched at desk/tray
+- SAME original paper-test sheet + SAME original paper-test pen remain unchanged at PAPER TEST ZONE
+- SAME binder remains CLOSED at established counter location
+- guarded fruit knife remains under SAME sofa cushion
+- south-wall panel remains CLOSED/untouched
 - Unit remains canonical powered baseline
 
-Strip 029 must begin from this exact KNIFE HAND + phone COUNTER SPOT + open STORAGE STOCKPOT speaker reveal + distinct NOODLE POT + unchanged evidence state.
+Strip 029 must begin from this exact KNIFE HAND + phone COUNTER SPOT + open STORAGE STOCKPOT speaker reveal + distinct NOODLE POT + unchanged persistent Unit evidence state.
 
 ==================================================
 EXACT TEXT ONLY
@@ -416,12 +457,12 @@ EXACT TEXT ONLY
 `IS THAT SAFE?`
 `NO.`
 
-No extra readable text.
+No extra NEW readable text. Inherited physical evidence text remains unchanged if visible.
 
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; V128 does not begin from exact ENTRY MARK; Nari teleports or route crosses/moves knife/packet/chairs/table/NOODLE POT/candle/wrapper/chopsticks evidence; STORAGE STOCKPOT and NOODLE POT merge/swap/resize/duplicate or third pot appears; used chopsticks move/change support or separate chopstick-rest object appears; phone not physically released before cabinet work; phone moves after COUNTER SPOT established; new counter/shelf/cabinet geometry invented; cabinet hinge flips or angle resets; speaker/cord/plug becomes visible before lid/towel mechanics permit; third `MFF-CHIME` occurs; Hyun-woo voice appears before speaker + cord + loose unplugged plug reveal; voice comes from wrong source; lid support floats or uses invented shelf; towel count not exactly two; TOWEL2 resets or folds more than once; cord/plug disappear/clip/float/reconnect; outlet not empty; non-canonical indicator/LED invented; speaker/cabinet becomes magical room light; physical/reflected/shadow/holographic Hyun-woo appears; V132 closes/resets cabinet or stack while Nari leaves; phone/stack evidence teleports; knife pickup uses blade or wrong knife; old knife floor spot remains occupied after pickup; packet moves; KNIFE HAND switches invisibly; action order reverses; glossy/neon/cinematic/photoreal/3D style appears; text hides reveal/grip/source proof; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; V128 does not begin from exact ENTRY MARK; Nari teleports or route crosses/moves knife/packet/chairs/table/NOODLE POT/candle/wrapper/chopsticks evidence; STORAGE STOCKPOT and NOODLE POT merge/swap/resize/duplicate or third pot appears; used chopsticks move/change support or separate chopstick-rest object appears; phone not physically released before cabinet work; phone moves after COUNTER SPOT established; COUNTER SPOT overlaps/replaces/moves PAPER TEST ZONE/original pen/binder; old paper-test evidence disappears; new counter/shelf/cabinet geometry invented; cabinet hinge flips or angle resets; speaker/cord/plug becomes visible before lid/towel mechanics permit; third `MFF-CHIME` occurs; Hyun-woo voice appears before speaker + cord + loose unplugged plug reveal; voice comes from wrong source; lid support floats or uses invented shelf; towel count not exactly two; TOWEL2 resets or folds more than once; cord/plug disappear/clip/float/reconnect; outlet not empty; non-canonical indicator/LED invented; speaker/cabinet becomes magical room light; physical/reflected/shadow/holographic Hyun-woo appears; V132 closes/resets cabinet or stack while Nari leaves; phone/stack evidence teleports; knife pickup uses blade or wrong knife; old knife floor spot remains occupied after pickup; packet moves; KNIFE HAND switches invisibly; persistent fruit knife/south-wall panel/binder/key/door/device state resets; action order reverses; glossy/neon/cinematic/photoreal/3D style appears; text hides reveal/grip/source proof; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET

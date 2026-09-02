@@ -62,6 +62,9 @@ START — EXACT STRIP 025 V118 HANDOFF:
 - lower speaker-storage cabinet remains CLOSED
 - hidden speaker-storage stack remains unchanged and invisible: TOWEL1 liner → SAME smart speaker physically wall-unplugged with attached cord + loose wall plug contained inside stockpot → TOWEL2 cover → lid seated; wall outlet remains empty
 - hidden speaker remains dormant/silent; no chime/voice/light yet
+- SAME original paper-test sheet + SAME original paper-test pen remain untouched at the established PAPER TEST ZONE
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
 
 END — EXACT STRIP 027 HANDOFF:
 - Nari remains at one fixed entry-side stop mark established in V120, production-only ENTRY MARK
@@ -76,6 +79,9 @@ END — EXACT STRIP 027 HANDOFF:
 - refrigerator remains ordinary powered baseline
 - lower speaker-storage cabinet remains CLOSED
 - hidden wall-unplugged speaker stack remains exact, invisible, dormant, and silent
+- original paper-test sheet + original paper-test pen remain unchanged at PAPER TEST ZONE
+- guarded fruit knife remains under SAME sofa cushion
+- south-wall panel remains CLOSED/untouched
 - NO cabinet chime has occurred yet; first cabinet chime belongs only to Strip 027 V126
 - Hyun-woo remains completely absent
 
@@ -112,6 +118,23 @@ HIDDEN SPEAKER
 - smart speaker remains physically wall-unplugged, attached cord intact, loose plug inside stockpot, outlet empty
 - speaker emits NO chime, voice, light, motion, or other anomaly in Strip 026
 - first cabinet chime belongs only to Strip 027 V126
+
+==================================================
+CHAPTER-LONG PERSISTENT UNIT EVIDENCE — ABSOLUTE
+==================================================
+Unless THIS strip explicitly performs a visible change, all non-active Unit 2407 evidence inherited from Strip 025 persists:
+- SAME original paper-test sheet remains at established PAPER TEST ZONE with its physical question/reply unchanged
+- SAME original paper-test pen remains at exact final V40 supported rest position
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
+- SAME electrical-operation-guide binder remains at exact inherited kitchen-counter state/location
+- SAME brass backup key remains in SAME entry tray
+- SAME front door remains CLOSED/LATCHED
+- SAME phone/tablet/flashlight/radio/sheath states persist except the explicitly scripted V120 phone pickup
+- SAME TV remains physically wall-unplugged/dark
+- SAME hidden smart-speaker/storage stack remains physically wall-unplugged, closed, dormant, and unchanged
+- no security/device close-up or entry-area framing may silently erase, relocate, duplicate, reconnect, open, reset, or replace any of these
+- original paper-test sheet + original paper-test pen remain distinct from the later A5 notebook + later writing pen
 
 ==================================================
 ROUTE / SCALE / HEIGHT MAP
@@ -309,10 +332,13 @@ END / EXACT SEAM INTO STRIP 027:
 - refrigerator ordinary powered baseline
 - lower speaker-storage cabinet CLOSED
 - hidden stockpot/towel/lid/speaker/cord/plug stack unchanged, invisible, wall-unplugged, dormant, silent
+- SAME original paper-test sheet + SAME original paper-test pen remain unchanged at PAPER TEST ZONE
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
 - NO cabinet chime has occurred yet
 - Hyun-woo remains completely absent
 
-Strip 027 must begin from this exact powered ENTRY MARK + persistent PHONE HAND + completed-security-call + closed-door/key + untouched evidence + closed/silent speaker-cabinet state.
+Strip 027 must begin from this exact powered ENTRY MARK + persistent PHONE HAND + completed-security-call + closed-door/key + untouched evidence + closed/silent speaker-cabinet + persistent-paper/fruit-knife/panel state.
 
 ==================================================
 EXACT TEXT ONLY
@@ -329,12 +355,12 @@ EXACT TEXT ONLY
 `NO, MA'AM. THE ELEVATORS WERE DOWN THE ENTIRE TIME.`
 `WE DIDN'T GET ANY REPORTS FROM YOUR FLOOR EITHER.`
 
-No extra readable text.
+No extra NEW readable text. Inherited physical evidence text remains unchanged if visible.
 
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; any historical Strip 025 Hyun-woo body/mask/hair/tattoo/reflection/shadow/silhouette/screen figure reappears; V119 does not begin from exact V118 position; Nari route crosses/moves knife/packet/chair/table/pot/candle/wrapper/chopstick evidence; knife moves/rotates/slides/duplicates/disappears; packet moves/duplicates/disappears; chopsticks move/change support or separate chopstick-rest object appears; pantry count changes; phone teleports/duplicates/switches hands after pickup; tablet/sheath/flashlight/radio move; door handle/latch is actuated; latch retracts; door opens or gains any gap; threshold is crossed; ENTRY MARK shifts after V120; smart-lock/phone text floats off screens; archive shows Hyun-woo or any invented human silhouette; key moves; TV wall-unplug state resets; refrigerator hostile behavior returns; speaker cabinet opens or hidden contents become visible; hidden speaker reconnects/activates/chimes/voices before Strip 027 V126; security call overlaps with Mrs. Na voicemail; room scale/geometry changes; glossy/cinematic/photoreal/3D style appears; text hides latch/device/evidence proof; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; any historical Strip 025 Hyun-woo body/mask/hair/tattoo/reflection/shadow/silhouette/screen figure reappears; V119 does not begin from exact V118 position; Nari route crosses/moves knife/packet/chair/table/pot/candle/wrapper/chopstick evidence; knife moves/rotates/slides/duplicates/disappears; packet moves/duplicates/disappears; chopsticks move/change support or separate chopstick-rest object appears; pantry count changes; phone teleports/duplicates/switches hands after pickup; tablet/sheath/flashlight/radio move; door handle/latch is actuated; latch retracts; door opens or gains any gap; threshold is crossed; ENTRY MARK shifts after V120; smart-lock/phone text floats off screens; archive shows Hyun-woo or any invented human silhouette; key moves; TV wall-unplug state resets; refrigerator hostile behavior returns; speaker cabinet opens or hidden contents become visible; hidden speaker reconnects/activates/chimes/voices before Strip 027 V126; security call overlaps with Mrs. Na voicemail; paper-test evidence/fruit knife/south-wall panel resets/disappears; room scale/geometry changes; glossy/cinematic/photoreal/3D style appears; text hides latch/device/evidence proof; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET

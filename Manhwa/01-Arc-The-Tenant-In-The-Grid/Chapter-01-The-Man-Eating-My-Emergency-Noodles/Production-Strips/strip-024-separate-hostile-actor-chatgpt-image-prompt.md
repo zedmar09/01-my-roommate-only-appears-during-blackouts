@@ -280,12 +280,29 @@ EXACT TEXT ONLY
 `I DON'T KNOW WHAT IT WANTS.`
 `BUT IT'S TRYING TO LEARN WHO YOU ARE.`
 
-No narration or extra readable text.
+No new narration or extra new readable text. Inherited physical evidence text elsewhere remains unchanged if visible.
+
+==================================================
+CHAPTER-LONG PERSISTENT UNIT EVIDENCE — ABSOLUTE
+==================================================
+Unless THIS strip explicitly performs a visible change, inherit every non-active Unit 2407 plot state from Strip 023 without reset:
+- SAME original A4-class paper-test sheet remains at established PAPER TEST ZONE with same physical question/reply
+- SAME original paper-test pen remains exact final V40 supported rest
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
+- SAME electrical-operation-guide binder remains at exact inherited state/location
+- SAME brass backup key remains in SAME entry tray
+- SAME front door remains CLOSED/LATCHED
+- SAME phone, tablet, flashlight, radio, and practical-knife sheath keep exact inherited states/locations; SAME practical knife remains at scripted V106 floor spot
+- SAME TV remains physically wall-unplugged/dark
+- SAME hidden smart-speaker/storage stack remains physically wall-unplugged and unchanged
+- no close dialogue framing or hostile-device focus may erase, relocate, duplicate, reconnect, open, reset, or replace these
+- original paper-test sheet + original paper-test pen remain distinct from all later A5 notebook/writing-pen objects
 
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; held wrist already released at first readable V108 instant; wrong wrist/arm/tattoo side; hand disappears rather than physically releasing; renewed contact occurs after air gap; fridge clicks/blanks/dims/goes dark before visible air gap; either `YOON NARI` or `IDENTITY LOCKING` is missing at V108 start; hostile text persists after shutdown; characters move feet or reset proximity; Hyun-woo changes blocking mark; secured mask opens/moves/detaches/redesigns; knife moves/rotates/slides/duplicates/disappears from exact V106 floor state; packet moves/returns under a foot/duplicates/disappears; pushed chair resets/moves; chopsticks move, duplicate, return to a hand, change support position, or a separate chopstick-rest object appears; pantry count changes from exactly five; candle relights or shows blue core/ember/glow/afterglow; fridge remains glowing/room-light source; dialogue axis/ownership swaps; reflected/shadow humans appear; glossy/neon/cinematic/photoreal/3D style appears; text hides release proof; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; held wrist already released at first readable V108 instant; wrong wrist/arm/tattoo side; hand disappears rather than physically releasing; renewed contact occurs after air gap; fridge clicks/blanks/dims/goes dark before visible air gap; either `YOON NARI` or `IDENTITY LOCKING` is missing at V108 start; hostile text persists after shutdown; characters move feet or reset proximity; Hyun-woo changes blocking mark; secured mask opens/moves/detaches/redesigns; knife moves/rotates/slides/duplicates/disappears from exact V106 floor state; packet moves/returns under a foot/duplicates/disappears; pushed chair resets/moves; chopsticks move, duplicate, return to a hand, change support position, or a separate chopstick-rest object appears; pantry count changes from exactly five; candle relights or shows blue core/ember/glow/afterglow; fridge remains glowing/room-light source; dialogue axis/ownership swaps; reflected/shadow humans appear; any chapter-long persistent Unit evidence silently disappears/resets/moves without scripted cause; glossy/neon/cinematic/photoreal/3D style appears; text hides release proof; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET

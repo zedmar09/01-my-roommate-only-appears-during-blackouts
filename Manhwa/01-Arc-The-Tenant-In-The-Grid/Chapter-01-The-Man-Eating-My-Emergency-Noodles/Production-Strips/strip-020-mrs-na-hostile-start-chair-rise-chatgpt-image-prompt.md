@@ -230,12 +230,29 @@ EXACT TEXT ONLY
 `KZZT`
 `SKRRK`
 
-No narration or extra readable text.
+No new narration or extra new readable text. Inherited physical evidence text, if incidentally visible, remains unchanged.
+
+==================================================
+CHAPTER-LONG PERSISTENT UNIT EVIDENCE — ABSOLUTE
+==================================================
+Unless THIS strip explicitly performs a visible change, inherit every non-active Unit 2407 plot state from Strip 019 without reset:
+- SAME original A4-class paper-test sheet remains at established PAPER TEST ZONE with the same physical question/reply
+- SAME original paper-test pen remains at exact final V40 supported rest position
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
+- SAME electrical-operation-guide binder remains at exact inherited state/location
+- SAME brass backup key remains in SAME entry tray
+- SAME front door remains CLOSED/LATCHED
+- SAME phone, tablet, flashlight, radio, and practical-knife sheath keep exact inherited states/locations except for the active practical knife in Nari's hand
+- SAME TV remains physically wall-unplugged/dark
+- SAME hidden smart-speaker/storage stack remains physically wall-unplugged and unchanged
+- no crop, reverse shot, close-up, or focus shift may remove, relocate, duplicate, reconnect, open, reset, or replace these
+- original paper-test sheet + original paper-test pen remain distinct persistent evidence and must never be merged with or replaced by the later A5 notebook + later writing pen
 
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; Nari moves or changes the Strip 019 one-step-closer foot geometry; packet returns under a foot, is stepped on again, duplicates, disappears, or moves without cause; knife changes hand or rises into attack pose; Hyun-woo identity/scale drifts; Hyun-woo stands before V93; secured mask reopens/moves/detaches/redesigns; chopsticks move, duplicate, return to a hand, change support position, or a separate chopstick-rest object appears; pantry count changes from exactly five; chair teleports/duplicates/floats/clips/changes scale/orientation; hostile fridge words appear early; fridge becomes room light; `SKRRK` precedes real chair friction; relative height is faked by perspective; dining topology resets; glossy/cinematic/photoreal/3D style appears; text hides chair mechanics; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; Nari moves or changes the Strip 019 one-step-closer foot geometry; packet returns under a foot, is stepped on again, duplicates, disappears, or moves without cause; knife changes hand or rises into attack pose; Hyun-woo identity/scale drifts; Hyun-woo stands before V93; secured mask reopens/moves/detaches/redesigns; chopsticks move, duplicate, return to a hand, change support position, or a separate chopstick-rest object appears; pantry count changes from exactly five; chair teleports/duplicates/floats/clips/changes scale/orientation; hostile fridge words appear early; fridge becomes room light; `SKRRK` precedes real chair friction; relative height is faked by perspective; dining topology resets; any chapter-long persistent Unit evidence silently disappears/resets/moves without scripted cause; glossy/cinematic/photoreal/3D style appears; text hides chair mechanics; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET

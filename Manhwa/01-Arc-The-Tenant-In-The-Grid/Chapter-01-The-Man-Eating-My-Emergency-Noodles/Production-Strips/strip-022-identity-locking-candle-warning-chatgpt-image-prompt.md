@@ -261,12 +261,29 @@ EXACT TEXT ONLY
 `THAT CANDLE IS HELPING IT FIND YOU.`
 `NOW.`
 
-No narration or extra readable text.
+No new narration or extra new readable text. Inherited physical evidence text elsewhere remains unchanged if visible.
+
+==================================================
+CHAPTER-LONG PERSISTENT UNIT EVIDENCE — ABSOLUTE
+==================================================
+Unless THIS strip explicitly performs a visible change, inherit every non-active Unit 2407 plot state from Strip 021 without reset:
+- SAME original A4-class paper-test sheet remains at established PAPER TEST ZONE with same physical question/reply
+- SAME original paper-test pen remains exact final V40 rest
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
+- SAME electrical-operation-guide binder remains at exact inherited state/location
+- SAME brass backup key remains in SAME entry tray
+- SAME front door remains CLOSED/LATCHED
+- SAME phone, tablet, flashlight, radio, and practical-knife sheath keep exact inherited states/locations except for active practical knife in Nari's hand
+- SAME TV remains physically wall-unplugged/dark
+- SAME hidden smart-speaker/storage stack remains physically wall-unplugged and unchanged
+- no camera crop or active-threat focus may erase, relocate, duplicate, reconnect, open, reset, or replace any of these
+- original paper-test sheet + original paper-test pen remain distinct from all later A5 notebook/writing-pen objects
 
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; Nari positions/feet change or trailing foot half-steps before Strip 023; packet moves, returns under a foot, duplicates, disappears, or is contacted again; knife changes hand/rises/reaches/drops early; Hyun-woo changes blocking mark; secured mask opens/moves/detaches/redesigns; pushed chair resets/moves; chopsticks move, duplicate, return to a hand, change support position, or a separate chopstick-rest object appears; pantry count changes from exactly five; `YOON NARI` disappears when `IDENTITY LOCKING` appears; either refrigerator line disappears/resets after V99; third readable refrigerator text appears; fridge text leaves narrow display; refrigerator door becomes giant screen; blue core becomes a second flame, aura, room wash, or second light source; candle/holder moves; reflected/shadow humans appear; camera axis/eyelines swap; reach/blow/knife-drop/wrist event begins early; dining topology changes; glossy/cinematic/photoreal/3D style appears; text hides display/candle proof; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; Nari positions/feet change or trailing foot half-steps before Strip 023; packet moves, returns under a foot, duplicates, disappears, or is contacted again; knife changes hand/rises/reaches/drops early; Hyun-woo changes blocking mark; secured mask opens/moves/detaches/redesigns; pushed chair resets/moves; chopsticks move, duplicate, return to a hand, change support position, or a separate chopstick-rest object appears; pantry count changes from exactly five; `YOON NARI` disappears when `IDENTITY LOCKING` appears; either refrigerator line disappears/resets after V99; third readable refrigerator text appears; fridge text leaves narrow display; refrigerator door becomes giant screen; blue core becomes a second flame, aura, room wash, or second light source; candle/holder moves; reflected/shadow humans appear; camera axis/eyelines swap; reach/blow/knife-drop/wrist event begins early; dining topology changes; any chapter-long persistent Unit evidence silently disappears/resets/moves without scripted cause; glossy/cinematic/photoreal/3D style appears; text hides display/candle proof; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET

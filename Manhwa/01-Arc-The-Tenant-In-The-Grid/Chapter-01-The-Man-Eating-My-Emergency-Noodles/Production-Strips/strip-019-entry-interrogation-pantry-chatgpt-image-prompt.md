@@ -154,12 +154,29 @@ EXACT TEXT ONLY
 `AND YOU'VE BEEN USING MY PANTRY.`
 `I WAS HUNGRY.`
 
-No narration or extra text.
+No new narration or extra new text. Inherited readable physical evidence elsewhere in Unit 2407, if incidentally visible, remains unchanged.
+
+==================================================
+CHAPTER-LONG PERSISTENT UNIT EVIDENCE — ABSOLUTE
+==================================================
+Unless THIS strip explicitly performs a visible change, inherit every non-active Unit 2407 plot state from Strip 018 without reset:
+- SAME original A4-class paper-test sheet remains at established PAPER TEST ZONE with the same physical question/reply
+- SAME original paper-test pen remains at exact final V40 supported rest position
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
+- SAME electrical-operation-guide binder remains at exact inherited state/location
+- SAME brass backup key remains in SAME entry tray
+- SAME front door remains CLOSED/LATCHED
+- SAME phone, tablet, flashlight, radio, and practical-knife sheath keep exact inherited states/locations except for the active practical knife in Nari's hand
+- SAME TV remains physically wall-unplugged/dark
+- SAME hidden smart-speaker/storage stack remains physically wall-unplugged and unchanged
+- no crop, reverse shot, close-up, or focus shift may remove, relocate, duplicate, reconnect, open, reset, or replace these
+- original paper-test sheet + original paper-test pen are distinct persistent evidence and must never be merged with or replaced by the later A5 notebook + later writing pen
 
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; room/axis/scale drifts; Nari moves before V88 or takes >1 step; packet duplicates/disappears/wrong provenance; foot ownership/contact proof fails; Hyun-woo moves/stands; pantry count changes; chopsticks no longer match the same existing pot-rim / adjacent table-support position inherited from Strip 018; a new separate chopstick-rest object appears; chopstick/pot/candle topology changes; knife changes hand; shoes/slippers/socks/other footwear appear on Nari; glossy/cinematic/photoreal/3D style appears; text hides contact; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; room/axis/scale drifts; Nari moves before V88 or takes >1 step; packet duplicates/disappears/wrong provenance; foot ownership/contact proof fails; Hyun-woo moves/stands; pantry count changes; chopsticks no longer match the same existing pot-rim / adjacent table-support position inherited from Strip 018; a new separate chopstick-rest object appears; chopstick/pot/candle topology changes; knife changes hand; shoes/slippers/socks/other footwear appear on Nari; any chapter-long persistent Unit evidence silently disappears/resets/moves without scripted cause; glossy/cinematic/photoreal/3D style appears; text hides contact; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET

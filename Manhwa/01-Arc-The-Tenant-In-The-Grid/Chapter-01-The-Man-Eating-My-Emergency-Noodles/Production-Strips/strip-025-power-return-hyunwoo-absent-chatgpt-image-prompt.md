@@ -56,6 +56,9 @@ START — EXACT STRIP 024 HANDOFF:
 - TV remains physically wall-unplugged and dark/inactive
 - lower speaker-storage cabinet remains CLOSED
 - hidden speaker-storage stack remains unchanged and invisible: TOWEL1 liner → SAME smart speaker physically wall-unplugged with attached cord and loose wall plug contained inside stockpot → TOWEL2 cover → lid seated; wall outlet remains empty
+- SAME original paper-test sheet + SAME original paper-test pen remain untouched at the established PAPER TEST ZONE
+- SAME small guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED and untouched
 
 END — EXACT V118 POWERED STATE:
 - Unit supplied mains power ON at canonical powered baseline
@@ -70,6 +73,9 @@ END — EXACT V118 POWERED STATE:
 - front door remains CLOSED/LATCHED
 - TV remains wall-unplugged and dark/inactive despite mains restoration
 - lower speaker-storage cabinet remains CLOSED; hidden speaker remains physically wall-unplugged and dormant with exact hidden stack unchanged
+- original paper-test sheet + original pen remain unchanged at PAPER TEST ZONE
+- guarded fruit knife remains under SAME sofa cushion
+- south-wall panel remains CLOSED/untouched
 
 ==================================================
 PERSISTENCE LOCKS — V113–V118 ABSOLUTE
@@ -118,6 +124,23 @@ REFRIGERATOR
 - hostile state ended in Strip 024 and does NOT restart
 - V117 onward: refrigerator may return only to its ordinary canonical powered baseline state according to reference
 - NO `YOON NARI`, NO `IDENTITY LOCKING`, NO broken glyphs, NO hostile pixels, NO room-light glow
+
+==================================================
+CHAPTER-LONG PERSISTENT UNIT EVIDENCE — ABSOLUTE
+==================================================
+Unless THIS strip explicitly performs a visible change, all non-active Unit 2407 evidence inherited from Strip 024 persists through the mains transition without reset:
+- SAME original A4-class paper-test sheet remains at established PAPER TEST ZONE with same physical question/reply
+- SAME original paper-test pen remains at exact final V40 supported rest
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
+- SAME electrical-operation-guide binder remains at exact inherited state/location
+- SAME brass backup key remains in SAME entry tray
+- SAME front door remains CLOSED/LATCHED
+- SAME phone, tablet, flashlight, radio, and practical-knife sheath retain exact inherited states/locations; practical knife remains V106 floor evidence
+- SAME TV remains physically wall-unplugged/dark through power return
+- SAME hidden smart-speaker/storage stack remains physically wall-unplugged, closed, dormant, and unchanged through power return
+- power restoration is NOT permission to clean up, remove, relocate, reconnect, open, or replace any evidence
+- original paper-test sheet + original paper-test pen remain distinct persistent evidence from the later A5 notebook + later writing pen
 
 ==================================================
 POWER SEPARATION / PERFORMANCE / HEIGHT MAP
@@ -259,6 +282,7 @@ POWERED EVIDENCE:
 - phone remains desk-supported
 - brass key remains tray-supported
 - door remains closed/latched
+- paper-test evidence, guarded fruit knife, and closed south-wall panel remain unchanged
 
 END:
 - Unit at canonical powered baseline
@@ -291,6 +315,9 @@ MANDATORY:
 - front door still closed/latched
 - TV still wall-unplugged/dark
 - hidden speaker cabinet still closed; speaker remains physically unplugged and dormant
+- original paper-test sheet + original paper-test pen unchanged at PAPER TEST ZONE
+- guarded fruit knife unchanged under SAME sofa cushion
+- south-wall panel CLOSED/untouched
 
 PERFORMANCE:
 - stunned, unsettled realization
@@ -319,8 +346,11 @@ END / EXACT SEAM INTO STRIP 026:
 - TV remains physically wall-unplugged and dark/inactive
 - lower speaker-storage cabinet remains CLOSED
 - hidden speaker stack unchanged/invisible; SAME smart speaker remains physically wall-unplugged with attached cord and loose plug contained inside stockpot, dormant and silent
+- SAME original paper-test sheet + SAME original paper-test pen remain unchanged at established PAPER TEST ZONE
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
 
-Strip 026 must begin from this exact powered Nari + evidence + phone-desk + key-tray + closed-door + unplugged-TV + closed-speaker-cabinet state.
+Strip 026 must begin from this exact powered Nari + evidence + phone-desk + key-tray + closed-door + unplugged-TV + closed-speaker-cabinet + persistent-paper/fruit-knife/panel state.
 
 ==================================================
 EXACT TEXT ONLY
@@ -332,12 +362,12 @@ EXACT TEXT ONLY
 `I CAN'T ANSWER THAT.`
 `VZZT`
 
-No narration or extra text.
+No new narration or extra new readable text. Inherited physical evidence text remains unchanged if visible.
 
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; city return and Unit mains return collapse; Unit/device states change before V117 because of exterior city recovery; Hyun-woo disappears before V117; Hyun-woo is visible in any powered V117/V118 interior instant; farewell/fade/dissolve/transparency/transition effect appears; detached Hyun-woo mask/hair/clothing/tattoo/reflection/shadow remains after power return; Hyun-woo moves from blocking mark before disappearance; secured mask changes while he is visible; V116/V118 camera geometry changes enough to make absence ambiguous; Nari moves feet/hips during shielding or V118; knife moves/rotates/slides/duplicates/disappears; packet moves/returns under a foot/duplicates/disappears; pushed chair resets/moves; chopsticks move/duplicate/change support or separate chopstick-rest object appears; pantry count changes from exactly five; candle relights or gains blue core/glow; refrigerator hostile text/glitch returns; phone leaves desk before Strip 026; key leaves tray; front door opens/unlatches; TV reconnects/powers on; hidden speaker/cabinet stack changes, cabinet opens, plug reconnects, or speaker activates/chimes/voices in Strip 025; powered baseline retains blackout lighting or uses cinematic bloom; glossy/neon/cinematic/photoreal/3D style appears; text hides presence/absence proof; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; city return and Unit mains return collapse; Unit/device states change before V117 because of exterior city recovery; Hyun-woo disappears before V117; Hyun-woo is visible in any powered V117/V118 interior instant; farewell/fade/dissolve/transparency/transition effect appears; detached Hyun-woo mask/hair/clothing/tattoo/reflection/shadow remains after power return; Hyun-woo moves from blocking mark before disappearance; secured mask changes while he is visible; V116/V118 camera geometry changes enough to make absence ambiguous; Nari moves feet/hips during shielding or V118; knife moves/rotates/slides/duplicates/disappears; packet moves/returns under a foot/duplicates/disappears; pushed chair resets/moves; chopsticks move/duplicate/change support or separate chopstick-rest object appears; pantry count changes from exactly five; candle relights or gains blue core/glow; refrigerator hostile text/glitch returns; phone leaves desk before Strip 026; key leaves tray; front door opens/unlatches; TV reconnects/powers on; hidden speaker/cabinet stack changes, cabinet opens, plug reconnects, or speaker activates/chimes/voices in Strip 025; paper-test evidence/fruit knife/south-wall panel resets or disappears; powered baseline retains blackout lighting or uses cinematic bloom; glossy/neon/cinematic/photoreal/3D style appears; text hides presence/absence proof; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET

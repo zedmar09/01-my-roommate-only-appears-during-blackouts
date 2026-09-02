@@ -327,12 +327,29 @@ EXACT TEXT ONLY
 `WARM.`
 `STAY IN THE DARK UNTIL THE POWER'S BACK.`
 
-No extra readable text.
+No extra NEW readable text. Inherited physical evidence text elsewhere remains unchanged if visible.
+
+==================================================
+CHAPTER-LONG PERSISTENT UNIT EVIDENCE — ABSOLUTE
+==================================================
+Unless THIS strip explicitly performs a visible change, inherit every non-active Unit 2407 plot state from Strip 022 without reset:
+- SAME original A4-class paper-test sheet remains at established PAPER TEST ZONE with same physical question/reply
+- SAME original paper-test pen remains exact final V40 supported rest
+- SAME guarded fruit knife remains under SAME sofa cushion
+- SAME south-wall panel remains CLOSED/untouched
+- SAME electrical-operation-guide binder remains at exact inherited state/location
+- SAME brass backup key remains in SAME entry tray
+- SAME front door remains CLOSED/LATCHED
+- SAME phone, tablet, flashlight, radio, and practical-knife sheath keep exact inherited states/locations; after V106 the practical knife itself is at the exact scripted floor spot
+- SAME TV remains physically wall-unplugged/dark
+- SAME hidden smart-speaker/storage stack remains physically wall-unplugged and unchanged
+- no active-threat framing or camera crop may erase, relocate, duplicate, reconnect, open, reset, or replace these
+- original paper-test sheet + original paper-test pen remain distinct from all later A5 notebook/writing-pen objects
 
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; wrong/multiple feet move; previously advanced foot moves; former trailing foot takes more than one half-step; packet moves, returns under a foot, duplicates, disappears, or is contacted again; Hyun-woo changes protective blocking foot position; secured mask opens/moves/detaches/redesigns; pushed chair resets/moves; chopsticks move, duplicate, return to a hand, change support position, or a separate chopstick-rest object appears; pantry count changes from exactly five; either `YOON NARI` or `IDENTITY LOCKING` disappears before Strip 024 V108; refrigerator goes dark/silent early; third readable refrigerator text appears; candle light/blue core/afterglow persists after `PFF`; fridge becomes room light; knife-hand ear reaction points blade toward/clips Nari's face/neck/body/free hand or Hyun-woo; knife fall teleports/clips/duplicates; knife impact spot overlaps packet/feet; wrist catch occurs before floor impact; opposite wrist caught; hidden Hyun-woo step/teleport occurs for catch; extra/missing/duplicated limbs/hands appear; `WARM.` is spoken; glossy/neon/cinematic/photoreal/3D style appears; text hides action sequence; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; wrong/multiple feet move; previously advanced foot moves; former trailing foot takes more than one half-step; packet moves, returns under a foot, duplicates, disappears, or is contacted again; Hyun-woo changes protective blocking foot position; secured mask opens/moves/detaches/redesigns; pushed chair resets/moves; chopsticks move, duplicate, return to a hand, change support position, or a separate chopstick-rest object appears; pantry count changes from exactly five; either `YOON NARI` or `IDENTITY LOCKING` disappears before Strip 024 V108; refrigerator goes dark/silent early; third readable refrigerator text appears; candle light/blue core/afterglow persists after `PFF`; fridge becomes room light; knife-hand ear reaction points blade toward/clips Nari's face/neck/body/free hand or Hyun-woo; knife fall teleports/clips/duplicates; knife impact spot overlaps packet/feet; wrist catch occurs before floor impact; opposite wrist caught; hidden Hyun-woo step/teleport occurs for catch; extra/missing/duplicated limbs/hands appear; `WARM.` is spoken; any chapter-long persistent Unit evidence silently disappears/resets/moves without scripted cause; glossy/neon/cinematic/photoreal/3D style appears; text hides action sequence; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET
