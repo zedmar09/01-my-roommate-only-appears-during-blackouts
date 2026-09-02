@@ -1,439 +1,388 @@
-# Chapter 1 — `manhwa-2d-production-auditor` Fifth Full Deep-Hardening Audit
+# Chapter 1 — `manhwa-2d-production-auditor` Sixth Full Deep-Hardening Audit
 
-Status: **FIFTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
+Status: **SIXTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
 
-This record supersedes the first, second, third, and fourth hardening audits as the current prompt/preproduction authority.
+This record supersedes the first, second, third, fourth, and fifth hardening audits as the current prompt/preproduction authority.
 
-The fourth PASS was deliberately **not accepted as proof**. A fifth clean-room pass re-read Strip 001 through Strip 032, every high-risk handoff, the current attachments, and the reusable workflow/template/layout/lettering/readiness rules.
+The fifth PASS was deliberately **not accepted as proof**. A sixth clean-room pass re-read Strip 001 through Strip 032 and the reusable workflow/template/layout/readiness rules.
 
-The fifth-pass failure question was:
+The sixth-pass failure question was:
 
-> Can the generator still obey the words literally while creating two copies of the same object through an inset, hiding the decisive action under lettering, resetting a worn/anatomical side across a reverse shot, using a time cut to erase evidence, choosing contradictory body mechanics, or forcing new objects into an already occupied physical space?
+> Can the generator obey all current continuity words while still producing the wrong physical object orientation, a mirrored hinge/handle/track, a hidden scale change, impossible container fit, fake contact created by 2D overlap, impossible foreground/background depth, floating/clipping cords or cloth, or a falling object that passes through solid geometry?
 
-Where yes, the prompt/control files were repaired again.
+Where yes, the prompt/control files were repaired again. After repair, a second complete Strip 001→032 clean-room read was performed from the current GitHub files.
 
-# Fifth-Pass Audit Focus
+# Sixth-Pass Audit Focus
 
-The fifth pass checked:
-- same-object wide/close-up/inset semantics
-- text/balloon/SFX overlap with contact/action proof
-- legal-time-cut persistence of plot evidence
-- contradictory alternative mechanisms inside one strip
-- hidden crouch→stand / closed→open / held→placed resets
-- temporary anatomical-side continuity across reverse shots
-- worn accessory persistence
-- exact paper/pen/phone provenance and resting states
-- packet distance vs exactly-one-step mechanics
-- exact foot identities through candle reach
-- floor obstacle/evidence route clearance
-- continuous phone-hand identity across multiple strips
-- final-table collision geometry for notebook/pen
-- final TV unplug proof as same physical TV/cord/plug/socket
+The sixth pass audited:
+- permanent and temporary object orientation
+- front-door/cabinet/glass-door/elevator hinge/handle/track mechanics
+- binder spine/rings/page-turn direction
+- knife/sheath mouth/blade axis
+- appliance cord-origin and wall-plug routing
+- object world-space scale across close-ups
+- cabinet/stockpot/towel/speaker physical fit
+- emergency-tray capacity and item orientation
+- notebook A5-like footprint on a crowded table
+- real body/object contact vs silhouette overlap
+- true protective blocking depth in floor-plan space
+- real threshold crossings
+- gravity/slack/support of loose cords/plugs/towels/cloth/paper/packets
+- unobstructed falling-object trajectories
+- comparable framing for presence→absence evidence
+- final hero composition preserving the same room depth/scale
+- all earlier canon/provenance/topology/side/worn-state/narration/no-label gates
 
-# Fifth-Pass Findings And Repairs
+# Sixth-Pass Findings And Repairs
 
-## 1. Global — Same-Object Inserts Could Create Physical Duplicates
+## 1 — Strip 002: Door And Binder/Key Orientation Could Still Drift
 
-### Finding
-A wide plus a close-up could visually produce two keys, plugs, phones, knives, binders, notebooks, or even two apparent copies of one character while technically following each local instruction.
+The correct objects existed, but reverse views could flip the Unit door hinge/handle/smart-lock side or change binder/key orientation.
 
-### Repair
-Added **Same-Object Representation / Insert Rule** globally:
-- a close-up/inset/device/page detail is another representation of the SAME physical object/person unless script establishes another
-- same-moment states must agree
-- sequential action may advance state exactly once
-- reject incompatible inserted/loose, hand/floor, open/closed, hand/surface states shown simultaneously
-
-Applied locally to high-risk strips.
-
-**PASS after repair.**
-
-## 2. Global — Reader Text Could Hide The Very Action Proof Required By The Prompt
-
-### Finding
-Speech balloons, tails, narration, SFX, device text, or handwriting could cover plug/socket, key transfer, knife fall, chair movement, cabinet hinge, packet contact, food path, or notebook placement.
-
-### Repair
-Added **Lettering / Balloon / SFX Evidence Safety** to lettering, workflow, layout, template, readiness, and key strips.
-If text conflicts with proof, reflow lettering/art composition; never hide or move the mechanism.
+Repair:
+- front-door hinge/handle/lock/opening mechanics frozen to canon
+- binder spine/ring orientation fixed
+- key placed at one fixed distinct counter position beside binder
+- binder/key scale/support/depth frozen through Strip 004
 
 **PASS after repair.**
 
-## 3. Global — Legal Time Cuts Could Still Be Used As An Evidence Reset
+## 2 — Strip 004: Thermostat Could Become New Permanent Architecture
 
-### Finding
-A legal cut can change mundane clutter, but some prompts were not explicit about which plot evidence must survive.
-
-### Repair
-Added Legal Time/Location Cut gate:
-- noncritical clutter may change
-- plot evidence needed afterward must persist or receive one explicit plausible post-cut location
-- cuts cannot duplicate evidence or reset canon
+Repair:
+- exact 19°C remains required
+- use canonical control if visible
+- otherwise only smallest canon-subordinate wall/control micro-detail inside existing canonical geometry
+- no giant smart panel/hologram/new wall architecture
+- door exit/close reuses exact hinge/handle/lock construction
 
 **PASS after repair.**
 
-## 4. Global — Multiple Alternative Mechanics Could Contradict Each Other
+## 3 — Strip 005: Two Chopsticks Could Re-Land Between Adjacent Slices
 
-### Finding
-Some hardening text allowed several “acceptable” physical methods whose end states differed.
-
-### Repair
-Added **Deterministic Single-Mechanism Rule**: one continuity-critical action gets one authoritative physical solution when alternatives would change hand/body/object state.
-
-**PASS after repair.**
-
-## 5. Strip 005 — Interrupted Chopstick Tidying Still Invited New Storage Furniture
-
-### Finding
-Even though no food was allowed, the phrase “putting chopsticks away” could encourage an invented drawer/caddy/cabinet.
-
-### Repair
-- one clean dry pair is simply being carried during ordinary tidying
-- interruption occurs before any storage interaction
-- no new utensil-storage object/furniture may be generated
+Repair:
+- exactly two sticks
+- real hand release and gravity fall
+- both settle on same floor plane
+- final relative angle/spacing/tip orientation frozen through V25→Strip006 V26
 
 **PASS after repair.**
 
-## 6. Strips 006→007 — Nari Could Silently Crouch→Stand At The TV Outlet
+## 4 — Strip 006: Wall-Unplugged Cord Could Still Be Physically Impossible
 
-### Finding
-Strip 006 V29 established a crouch, but V30 allowed “crouched/standing,” and Strip 007 could begin walking.
-
-### Repair
-- Strip 006 V30 ends in SAME crouch at outlet
-- Strip 007 starts in exact crouch
-- visible crouch→stand body chain occurs before first walking step
-- same-object TV/plug/socket detail cannot create duplicate plugged/unplugged states
+Repair:
+- one continuous appliance-side cord origin
+- same cord length/route family
+- loose plug obeys gravity and slack
+- cord cannot clip through TV stand, wall, cabinet, counter, furniture, TV/speaker body
+- same-object plug/socket proof cannot duplicate cable/plug/outlet
 
 **PASS after repair.**
 
-## 7. Strip 008 — Paper / Pen Had No Real Source And Reply Was Not Fully Locked
+## 5 — Strip 008: Speaker Stack Could Fit Only By Hidden Resizing
 
-### Finding
-Plot-critical paper/pen could appear at kitchen without source, and V40 only said the pen moved rather than locking the exact reply.
-
-### Repair
-- added desk-zone environment attachment
-- Nari physically walks to work desk, retrieves ONE blank sheet + ONE pen, returns and places them at fixed kitchen/toaster surface
-- writes `WHO ARE` / `YOU?`
-- at 1:17 A.M. SAME pen writes exact reply:
-  `NOT THE ONE YOU SHOULD BE AFRAID OF.`
-- letters appear only along physical pen path
-- pen stops at one fixed final rest position
+Repair:
+- real cabinet interior volume binding
+- speaker, cord, plug, stockpot, lid and two towels keep stable world-space scale
+- stockpot rests on real support plane
+- no cabinet enlargement/new cavity/shelf
+- no cord/towel/lid/speaker solid-volume intersection
+- cabinet must still physically close
 
 **PASS after repair.**
 
-## 8. Strips 009→010 — Exact Pen Rest State Could Weaken After The Overnight Cut
+## 6 — Strip 010: Binder Could Mirror Its Binding Or Turn Pages From The Wrong Side
 
-### Finding
-Strip 008 now froze a precise pen position, but later wording reduced it to generic “beside/on note area.”
-
-### Repair
-Strip 009:
-- exact paper + both writings + exact V40 pen rest position persist
-- SAME phone receives one separate clear morning surface spot near but not overlapping paper/pen
-- visible phone pickup→two photos→return
-
-Strip 010:
-- note/pen stay completely untouched at exact state while phone is retrieved and binder investigation happens
-- same-object binder/page/phone/note details cannot duplicate
+Repair:
+- same spine/ring side, top/bottom orientation and reading direction
+- binder surface-supported at stable scale
+- Section16→real page edge contact→page pivot around same binding→Section18
+- no floating/unbound/simultaneous fake pages
 
 **PASS after repair.**
 
-## 9. Strip 011 — Shopping-Bag Rule Contained Contradictory Support Options
+## 7 — Strip 011: Emergency Tray Could Fit Through Tool Resizing Or Overlap
 
-### Finding
-Earlier prompt required two bags “in hands” while also permitting a bag to be braced/set down for the lock.
-
-### Repair
-One authoritative sequence only:
-`BAG A supported → BAG B set/released on corridor floor → smart lock/door → BAG B picked back up → BAG A+B cross threshold → both bags set inside`
-
-No alternate hidden support method.
+Repair:
+- tray real footprint/depth fixed
+- flashlight, radio and sheathed knife retain stable scale
+- three distinct non-overlapping rest zones/orientations
+- knife fully sheathed, handle toward chair
+- this exact tray layout becomes the later-night authority
 
 **PASS after repair.**
 
-## 10. Strips 012–013 — Bag / Umbrella / Pocket Could Swap Anatomical Side
+## 8 — Strip 012: Building Entrance Could Change Door Mechanism
 
-### Finding
-Counts were correct, but reverse shots could switch the bag shoulder, umbrella hand, or phone pocket.
-
-### Repair
-Strip 012 first clear view establishes production-only:
-- `BAG SHOULDER`
-- `UMBRELLA HAND`
-- `PHONE POCKET`
-
-Strip 013 inherits them exactly. One specific earbud is removed/checked/reinserted into SAME ear; no case/second pair.
+Repair:
+- actual reference controls panel count, hinge/track/pivot behavior and threshold
+- exterior→lobby crossing must happen through a real opening
+- `THUNK` belongs to actual door closing/settling mechanism
+- no body clipping through glass/frame
 
 **PASS after repair.**
 
-## 11. Strips 014–032 — Scrunchie / Headphones Could Disappear Or Switch Body Location
+## 9 — Strip 013: Elevator Entry Could Be Faked By 2D Layering
 
-### Finding
-Strip 014 established headphones around neck and scrunchie on one wrist, but later prompts did not consistently track them.
-
-### Repair
-- Strip 014 establishes production-only `SCRUNCHIE WRIST`
-- SAME headphones remain around neck
-- no Chapter 1 removal/transfer is scripted
-- both persist through Strip 032
-- reverse shots cannot switch wrist; partial occlusion is not disappearance
+Repair:
+- exact reference elevator door panel/track mechanism
+- real opening before entry
+- Nari physically crosses lobby→cab threshold
+- Seungjae remains lobby-side
+- no door panel/body/bag clipping
 
 **PASS after repair.**
 
-## 12. Strips 016–024 — KNIFE HAND Now Integrates With Full Worn-State Continuity
+## 10 — Strip 015: Returned Tools Could Rotate/Reset Inside Tray
 
-### Repair
-- KNIFE HAND remains same anatomical hand from visible draw to release
-- SCRUNCHIE WRIST + headphones-at-neck persist simultaneously
-- same-hand/worn-state details cannot duplicate or side-swap in close-ups
-
-**PASS after repair.**
-
-## 13. Strips 017–019 — Packet Needed Exact Distance For Exactly One Step
-
-### Finding
-Packet was “on/near” future path but could be under Nari's feet or too far away for one cautious step.
-
-### Repair
-Strip 017 fixes packet:
-- ahead/diagonally ahead of entrance stance
-- reachable by ONE short cautious step
-- not touching either current foot
-- not blocked by furniture
-- not future knife-impact point
-
-Strip 019 establishes anatomical `STEP FOOT`, which performs the one short step and packet contact; trailing foot does not take a second stride.
+Repair:
+- flashlight returns exact Strip011 zone/orientation
+- radio returns exact Strip011 zone/orientation
+- knife/sheath remains exact third tray state
+- no tool shrink/overlap/float
 
 **PASS after repair.**
 
-## 14. Strips 020–022 — Stationary Nari Could Still Reset Foot/Hand/Worn State
+## 11 — Strip 016: Knife Could Emerge Through The Sheath Side
 
-### Repair
-While Nari does not move:
-- STEP FOOT/trailing-foot marks fixed
-- KNIFE HAND fixed
-- SCRUNCHIE WRIST fixed
-- headphones remain neck
-- packet relation fixed
-
-Strip 021 Hyun-woo route explicitly avoids Nari's feet and packet.
+Repair:
+- one stable sheath-mouth/blade axis
+- blade exits through actual sheath mouth only
+- no clipping through sheath wall, hand, tray, flashlight, radio, keyboard, desk or body
+- stable knife/sheath scale before/after draw
+- real fingers visibly grip handle
 
 **PASS after repair.**
 
-## 15. Strip 023 — Candle Reach Needed Exact Foot Identity
+## 12 — Strip 017: Dining Props Were Side-Locked But Not Scale/Depth-Locked
 
-### Finding
-“half-step/lean” did not say which foot moved.
-
-### Repair
-- STEP FOOT remains planted near packet
-- former trailing/support foot makes ONE short half-step and becomes `CANDLE FOOT`
-- then Nari leans and blows
-- packet, STEP FOOT, CANDLE FOOT, and later knife impact remain spatially distinct
-- knife impact is clear of packet and both feet
+Repair:
+- stable world-space pot/trivet/handle/cloth/candle/wrapper/table/chair/packet scale
+- pot-handle direction fixed
+- cloth remains same hot-handle side without clipping
+- reverse views cannot change real table depth/order
 
 **PASS after repair.**
 
-## 16. Strips 024–025 — Exact Post-Candle Foot / Worn State Needed Persistence
+## 13 — Strip 018: Mask Reseat Could Be A Hand-Over-Face Illusion
 
-### Repair
-- STEP FOOT/CANDLE FOOT remain exact marks through wrist release and power return
-- scrunchie/headphones unchanged
-- knife + packet remain separate floor spots
-- power snap changes light/arms only
-
-**PASS after repair.**
-
-## 17. Strips 026–028 — Phone Could Switch Hands Across Security / Voicemail / Cabinet Approach
-
-### Finding
-One phone persisted, but reverse shots could swap the physical hand.
-
-### Repair
-Strip 026 desk pickup establishes production-only `PHONE HAND`.
-- same anatomical hand carries phone through security and Strip 027 voicemail
-- free other hand handles latch/smart lock
-- Strip 028 PHONE HAND physically places phone on counter → contact → release
-- PHONE HAND expires only after release; cabinet interaction begins afterward
+Repair:
+- real finger contact on mask edge/hardware
+- same mask body and strap/hardware travel through physically possible path
+- no clipping through face/hair/ears/head/hand
+- `TCHK` only after actual full seating/secure state
 
 **PASS after repair.**
 
-## 18. Strip 028 — Same-Object Cabinet / Knife Proof Strengthened
+## 14 — Strip 020: Chair Push Could Cross Solid Geometry
 
-### Repair
-- phone must be released before cabinet handling
-- cabinet/lid/towel/speaker/plug details all represent SAME stack
-- knife route avoids outer packet
-- knife pickup empties old knife floor spot
-- worn state persists
-
-**PASS after repair.**
-
-## 19. Strip 029 — Same-Object Food / Evidence And Worn State Hardened
-
-### Repair
-- knife/sheath, packet/wrapper, Pair A/Pair B, bite, cabinet close-ups are SAME objects
-- no same-moment packet floor+table duplication
-- Pair B source remains canon-subordinate existing cabinetry only
-- SCRUNCHIE WRIST/headphones persist
+Repair:
+- one real backward floor-clearance path
+- chair avoids table, Nari, packet, refrigerator, wall and other chair
+- chair legs stay on floor
+- chair scale/front/back/leg spacing stable
+- real hips-on-seat start and body-clear-of-seat standing end
 
 **PASS after repair.**
 
-## 20. Strip 030 — Final Table Had No Guaranteed Space For Notebook / Pen
+## 15 — Strip 021: Hyun-woo Could Look Protective Without Actually Blocking
 
-### Finding
-Pot, wrapper, packet, two chopstick pairs, candle, and evidence already occupied the table. “Bring notebook to table” could force overlap or move evidence.
-
-### Repair
-Strip 030 establishes production-only **NOTEBOOK ZONE**:
-- actual clear Nari-side tabletop space
-- clear of pot/trivet/cloth/wrapper/packet/Pair A/Pair B/candle/table edge
-- existing evidence does NOT move
-- SAME CLOSED notebook placed/released flat there
-- SAME pen placed/released beside it
-- no writing yet
+Repair:
+- true story-space order required: `refrigerator → Hyun-woo → Nari`
+- feet/body occupy a real open floor point intercepting that line
+- camera overlap alone insufficient
+- Hyun-woo cannot enlarge in world space to fake blocking
 
 **PASS after repair.**
 
-## 21. Strip 031 — Notebook Could Start Magically Open / Pen In Hand
+## 16 — Strip 023: Knife Could Pass Through The Scene During Its Fall
 
-### Repair
-- starts CLOSED notebook + pen beside it in NOTEBOOK ZONE
-- visible notebook opening in place
-- visible pen pickup
-- exact observation/hypothesis writing
-- visible pen rest/release on open notebook
-- only then Nari turns to TV
-- same-object notebook/TV/plug/socket details cannot duplicate
+Repair:
+- one unobstructed gravity trajectory
+- no intersection with Nari, Hyun-woo, table, chair, pot, candle, packet, fridge, wall
+- real floor contact before `CLANG`
+- one settled final knife orientation/location through Strip028
+- wrist catch requires readable finger/thumb wrap
 
 **PASS after repair.**
 
-## 22. Strip 032 — Final Hero Composition Could Reset Notebook / Worn / Unplug State
+## 17 — Strip 024: Release Could Occur By Deleting The Hand Between Frames
 
-### Repair
-Final reveal preserves:
-- SAME NOTEBOOK ZONE/open notebook/pen rest
-- SCRUNCHIE WRIST/headphones-at-neck
-- table/cabinet topology
-- SAME TV/cord/loose plug/empty socket state
-- one `FZZT` only; not a blackout
-- same-object close-ups cannot create duplicate TV/plug/notebook/pen/Nari states
+Repair:
+- same real wrist grip at strip start
+- fingers/thumb open/disengage
+- hand moves away
+- visible air gap exists
+- only then refrigerator clicks
+- knife retains settled floor orientation/support
 
 **PASS after repair.**
 
-# Fifth Clean-Room Strip 001→032 Re-Audit
+## 18 — Strip 025: Hyun-woo Could Be “Gone” Only Because The Camera Cropped Him Away
+
+Repair:
+- V116 establishes interior comparison geometry with him present
+- V118 deliberately shows same/closely comparable former world-space region empty
+- no radical crop that merely excludes his position
+- no visible disappearance effect
+
+**PASS after repair.**
+
+## 19 — Strip 026: Evidence `TUG` Could Accidentally Open The Door
+
+Repair:
+- front door remains CLOSED/LATCHED
+- actual handle/latch contact
+- restrained tug resistance only
+- no passable opening, unlatching, corridor crossing or changed hinge/handle/lock orientation
+
+**PASS after repair.**
+
+## 20 — Strip 028: “Shelf Beside Pot” Could Invent A Cabinet Shelf
+
+Repair:
+- lid must rest on an ACTUAL existing cabinet base/shelf support plane from the reference
+- if no shelf exists, use clear cabinet-base area
+- no invented shelf
+- lid fully supported, no floating/clipping
+- cabinet/pot/speaker/towels retain stable scale/fit
+
+**PASS after repair.**
+
+## 21 — Strip 029: Storage Pot And Noodle Pot Could Collapse Into One Generic Pot
+
+Repair:
+- STORAGE POT = cabinet, speaker/towels/cord/plug
+- NOODLE POT = dining table, noodles/broth/trivet/cloth/chopsticks/food evidence
+- no merging/swap/teleport/third pot
+- environment/topology makes identity unambiguous
+
+**PASS after repair.**
+
+## 22 — Strip 030: Notebook Could Shrink To Fit The Crowded Table
+
+Repair:
+- approximately A5 physical footprint remains binding
+- notebook fully supported inside NOTEBOOK ZONE
+- does not overlap pot/trivet/packet/wrapper/chopsticks/candle/table edge
+- existing evidence cannot move to create space
+
+**PASS after repair.**
+
+## 23 — Strip 031: Writing Hand And Final Cord Physics Were Still Open To Drift
+
+Repair:
+- one anatomical WRITING HAND writes all observation/hypothesis text until pen release
+- same notebook physically opens around same spine
+- text appears along pen-tip path
+- TV cord retains one attached origin, same length/slack, no clipping, believable loose-plug gravity
+
+**PASS after repair.**
+
+## 24 — Strip 032: Final Hero Composition Could Redesign Room Scale/Depth
+
+Repair:
+- TV cannot enlarge to fill room
+- Nari/table/notebook/pots/cabinet cannot shrink/move
+- room depth cannot collapse into poster collage
+- final dominance comes from camera framing, not world-space redesign
+- final cord gravity/support and cabinet lid support remain unchanged
+
+**PASS after repair.**
+
+# Sixth Post-Repair Clean-Room Strip 001→032 Re-Audit
+
+After all sixth repairs, the current files were re-read again from Strip 001 through Strip 032.
 
 ## 001–004
-- move-in box support and door mechanics remain valid
-- Mrs. Na hand occupancy remains valid
-- hallway rule remains physically grounded
-- key transfer and final door close remain explicit
+Door/lock mechanics, binder/key topology, departure/door close and thermostat micro-detail remain internally coherent.
 
-**PASS at fifth-hardened prompt level.**
+**PASS at sixth-hardened prompt level.**
 
-## 005–010
-- Strip 005 no food and no invented utensil storage
-- Strip 006 wall-unplug ends in stable crouch; Strip 007 visibly rises
-- same-object plug/socket proof cannot duplicate state
-- Strip 008 paper/pen have desk source and exact supernatural reply
-- Strip 009 exact pen rest survives overnight; phone clear separate start/pickup/return
-- Strip 010 preserves paper/pen and same physical binder through page proof
+## 005–007
+Two-stick landing geometry, wall-unplug cord physics, crouch→stand and key/fridge route remain coherent.
 
-**PASS at fifth-hardened prompt level.**
+**PASS.**
+
+## 008–010
+Speaker-stack scale/fit, exact paper/pen reply state, photo evidence and one-bound-binder page mechanics remain coherent.
+
+**PASS.**
 
 ## 011–013
-- one deterministic BAG A/B entry chain
-- exactly six noodle packets
-- BAG SHOULDER / UMBRELLA HAND / PHONE POCKET fixed across reverse shots
-- one specific earbud removed/returned same ear
+Tray capacity/orientation, bag entry, glass-door mechanics, elevator door/threshold and item-side identities remain coherent.
 
-**PASS at fifth-hardened prompt level.**
+**PASS.**
 
 ## 014–018
-- outage/worn state locked
-- SCRUNCHIE WRIST + headphones-at-neck persist
-- failed tools return exactly
-- KNIFE HAND established
-- packet future-step distance valid
-- chopstick/mask close-ups remain same physical objects
+Power transition, exact tray returns, one knife/sheath axis, dining scale/depth and real mask-hardware reseat remain coherent.
 
-**PASS at fifth-hardened prompt level.**
+**PASS.**
 
-## 019–024
-- STEP FOOT one-step mechanics exact
-- stationary foot/hand/worn state preserved
-- Hyun-woo route avoids packet/Nari
-- tiny candle blue core contained
-- CANDLE FOOT exact half-step mechanics
-- knife/packet/feet distinct
-- same-wrist release exact
+## 019–021
+One STEP FOOT, chair floor-clearance push and true refrigerator→Hyun-woo→Nari blocking depth remain coherent.
 
-**PASS at fifth-hardened prompt level.**
+**PASS.**
 
-## 025–028
-- exact feet/worn/floor evidence survives power return
-- static foot labels expire only after visible walking begins
-- PHONE HAND remains same anatomical hand through security/voicemail
-- phone release completes before cabinet interaction
-- stack and knife pickup remain real/packet-safe
+## 022–024
+Tiny contained blue core, CANDLE FOOT, clear knife trajectory, real wrist grip and release remain coherent.
 
-**PASS at fifth-hardened prompt level.**
+**PASS.**
 
-## 029–032
-- packet/food/chopstick evidence same-object and topology-safe
-- NOTEBOOK ZONE added without moving evidence
-- notebook closed→open→write→pen-rest is physically shown
-- final TV proof remains same TV/cord/plug/socket inside canonical geometry
-- final worn/table/cabinet/notebook state persists
+## 025–027
+Comparable presence→absence framing, evidence route, closed-latched door test, PHONE HAND voicemail and closed-cabinet chimes remain coherent.
 
-**PASS at fifth-hardened prompt level.**
+**PASS.**
 
-# Narration / Production Metadata Fifth Re-Audit
+## 028–032
+Real cabinet support plane, two-pot identity, true A5 notebook fit, WRITING HAND, final TV cord physics and no hero-shot scale reset remain coherent.
 
-Narration wording remains exact with scenario-driven treatment and placement. Reader text may not cover continuity evidence.
+**PASS.**
 
-All V/P/strip/beat/panel/scene/shot/QA and temporary-state labels (`KNIFE HAND`, `PHONE HAND`, `STEP FOOT`, `NOTEBOOK ZONE`, etc.) are production-only and automatic reject if rendered.
+No new deterministic prompt/canon defect was found during the second post-repair full read.
+
+# Narration / Production Metadata Sixth Re-Audit
+
+Scenario-driven narration placement remains binding. No reader-visible V/P/strip/beat/panel/scene/shot/temp-state labels are allowed. Lettering may not hide orientation/scale/depth/contact evidence.
 
 **PASS at instruction level; actual rendered typography remains pending.**
 
-# Fifth-Pass Prompt Gate Counts
+# Sixth-Pass Prompt Gate Counts
 
-After all fifth-pass repairs and full 001→032 clean-room re-read:
+After sixth repairs and the complete post-repair 001→032 re-audit:
 - **BLOCKER: 0**
 - **MAJOR: 0 unresolved deterministic prompt/canon issues**
 - **MINOR requiring correction: 0**
 - **WARNING requiring explanation: 0**
 
-These counts apply ONLY to the current textual/reference authority package, not rendered artwork.
+These counts apply ONLY to textual/reference preproduction authority, not rendered artwork.
 
 # Rendered Visual Status
 
 Earlier problematic renders remain rejected for the intended retest.
 
 Still **PENDING / UNEXECUTED** until new images are inspected:
-- actual canonical reference fidelity
-- actual same-object inset/close-up correctness
-- actual anatomical-side/worn-state continuity
-- actual hand/body/contact mechanics
+- actual canonical identity/reference fidelity
+- actual hinge/handle/track orientation
+- actual world-space scale and container fit
+- actual depth/contact anatomy
+- actual cord/towel/cloth gravity and no-clipping
 - actual wall-socket unplug rendering
-- actual evidence/floor/table topology
-- actual paper/pen/food/chopstick persistence
-- actual lighting containment
-- actual narration/lettering evidence visibility
+- actual hand/foot/wrist/shoulder/pocket side continuity
+- actual food/prop persistence and two-pot distinction
+- actual narration typography/placement
 - actual no-production-label compliance
-- actual strict flat-2D human-drawn style
-- seam/dead-space/mobile readability
-- final stitched clean-room audit
+- actual strict flat 2D pixel style
+- lettering/SFX/seams/dead-space/mobile readability
+- stitched final clean-room audit
 
 # Final Current Verdict
 
-**FIFTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
+**SIXTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
 
 Next production action:
-1. generate NEW Strip 001 using exact fifth-pass prompt + exact approved WebPs
-2. audit actual pixels against current gates
+1. generate NEW Strip 001 using exact sixth-pass prompt + exact approved WebPs
+2. audit actual pixels
 3. reject/fix/regenerate until PASS
 4. only then use it as APPROVED previous-strip authority for Strip 002
 5. continue sequentially through Strip 032
