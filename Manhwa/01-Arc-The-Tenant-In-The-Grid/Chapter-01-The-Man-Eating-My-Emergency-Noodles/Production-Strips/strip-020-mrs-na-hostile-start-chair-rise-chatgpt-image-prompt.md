@@ -27,22 +27,62 @@ Missing authority = STOP.
 ==================================================
 CURRENT CANON / START STATE
 ==================================================
-Current WebPs permanently control both characters/refrigerator/environment. APPROVED Strip 019 temporarily controls Nari's exact one-step-closer stance, packet position, knife hand, Hyun-woo chair position, dining topology, and candle lighting.
+Current WebPs permanently control both characters/refrigerator/environment. APPROVED Strip 019 temporarily controls Nari's exact one-step-closer stance, anatomical step-foot result, packet position, knife hand, Hyun-woo chair position, fully secured mask, chopstick support position, dining topology, pantry count, and candle lighting.
 
 CURRENT NARI WEBP WINS; never restore retired dark-plum/beauty-mark/yellow-scrunchie/headphones identity.
 
-START:
-- Nari exact one-step-closer stance; packet slightly nudged near advancing foot; knife LOW same hand
+START — EXACT STRIP 019 HANDOFF:
+- Nari exact one-step-closer stance from V89
+- SAME advancing anatomical foot planted on exposed floor at the new closer mark
+- Nari remains BAREFOOT; no shoes, slippers, socks, or other footwear
+- trailing/support foot remains behind; no second stride occurred
+- SAME empty spicy-seafood outer packet is slightly nudged beside/near the advancing foot, fully floor-supported, clear of the planted foot, and under no active foot pressure
+- SAME practical knife remains LOW in SAME anatomical hand
 - Hyun-woo fully seated in SAME chair closest kitchen/refrigerator
-- same pot/trivet/cloth/candle/wrapper/chopsticks/pantry topology
-- refrigerator display dark
-- Unit unpowered
+- SAME canonical technical mask remains fully seated/secured after Strip 018 and stays secured unless this prompt explicitly changes it; Strip 020 contains NO mask action
+- SAME chopstick pair remains fixed together at the SAME existing pot-rim / adjacent table-support position inherited from Strip 018/019
+- no separate chopstick-rest utensil/object exists
+- SAME pot/trivet-or-cloth/candle/holder/seasoning-wrapper/table/two-chair topology remains unchanged
+- pantry contains exactly FIVE unopened emergency noodle packets
+- refrigerator normal display remains dark at start
+- Unit supplied mains power remains OFF
 
 END:
-- Nari unchanged
-- Hyun-woo standing immediately beside SAME pushed-back chair
-- chair fixed one displaced position/angle
+- Nari unchanged at exact one-step-closer stance
+- advancing bare foot still planted on exposed floor
+- packet remains slightly nudged beside/near that foot, fully clear and floor-supported
+- knife remains LOW in SAME hand
+- Hyun-woo standing immediately beside/just forward of SAME pushed-back chair
+- SAME canonical mask remains fully secured
+- chopsticks remain at SAME existing pot-rim / adjacent table-support position; no separate rest object
+- pantry remains exactly FIVE unopened packets
+- chair fixed at one displaced position/angle
 - refrigerator hostile activity begun, no readable words yet
+- all other dining/unit topology unchanged
+
+==================================================
+PERSISTENCE LOCKS — V90–V93 ABSOLUTE
+==================================================
+NARI / PACKET
+- Nari takes ZERO additional steps in Strip 020
+- both feet preserve Strip 019 world-space relation throughout
+- advancing foot stays on exposed floor, never on top of packet
+- packet never slides back under either foot, duplicates, disappears, rotates wildly, or gets kicked again
+- Nari remains barefoot throughout
+- knife remains LOW in SAME anatomical hand
+
+HYUN-WOO / MASK
+- Hyun-woo remains seated through V90, V91, and ALL of V92
+- first standing movement occurs only in V93
+- SAME fully secured canonical mask state persists V90–V93
+- no mask touch, opening, eating configuration, removal, redesign, or duplicate mask
+
+CHOPSTICKS / DINING
+- SAME chopstick pair remains fixed together at SAME existing pot-rim / adjacent table-support position throughout
+- no hand picks them up
+- no separate chopstick-rest object may appear
+- pot/trivet-or-cloth/candle/holder/wrapper/table/second chair do not move
+- pantry remains exactly FIVE unopened packets
 
 ==================================================
 PERFORMANCE / RELATIVE SCALE / HEIGHT MAP
@@ -60,7 +100,14 @@ NARI:
 `WHO ELSE KNOWS YOU'RE HERE?`
 HYUN-WOO:
 `MRS. NA.`
-No movement; Hyun-woo remains seated.
+
+STATE:
+- Nari zero movement; same one-step-closer barefoot stance
+- packet remains clear beside/near advancing foot
+- knife low same hand
+- Hyun-woo remains seated
+- mask secured
+- chopsticks/support/pantry/dining topology unchanged
 
 SMALL BLACK GUTTER.
 
@@ -75,7 +122,11 @@ NARI:
 `THEN WHY DIDN'T SHE TELL ME?`
 HYUN-WOO:
 `ASK HER.`
-No step/prop movement.
+
+STATE:
+- no step/prop movement
+- Hyun-woo remains seated
+- Nari/packet/knife/mask/chopsticks/pantry states unchanged
 
 SMALL BLACK GUTTER.
 
@@ -89,6 +140,7 @@ EVENT:
 - narrow refrigerator display begins contained hostile black-pixel/broken-glyph activity
 - NO readable words yet
 - fridge pixels do NOT light the room
+- no other powered appliance/display activates
 
 SFX:
 `KZZT`
@@ -96,13 +148,18 @@ SFX:
 HYUN-WOO:
 - attention snaps to actual fridge
 - focused/protective alertness
-- REMAINS SEATED through this beat
+- REMAINS SEATED through the entire beat
+- mask remains fully secured
 
 NARI:
-- tension increases at same fixed stance
+- tension increases at same fixed one-step-closer stance
+- no foot movement
+- packet remains clear beside/near advancing bare foot
+- knife remains low same hand
 
 END:
 - threat source established; no body reposition yet
+- dining/chopstick/pantry topology unchanged
 
 SMALL BLACK GUTTER.
 
@@ -112,7 +169,8 @@ V93 — REAL CHAIR PUSH / RISE — FULL BLUEPRINT
 This is the mechanical master beat.
 
 CLEARANCE:
-Before movement, the chair's backward path must visibly clear table, Nari/packet, candle/pot, refrigerator/counter/wall, and other chair.
+Before movement, the chair's backward path must visibly clear table, Nari, the already-nudged packet, candle/pot, refrigerator/counter/wall, and other chair.
+Nari and the packet do NOT move to manufacture clearance.
 
 SEQUENCE:
 1. Hyun-woo hips visibly supported by SAME seat
@@ -120,13 +178,17 @@ SEQUENCE:
 3. torso leans/loads feet
 4. SAME chair begins sliding BACK on floor plane
 5. chair legs stay on floor
-6. only at real leg/floor friction: `SKRRK`
+6. only at real chair-leg/floor friction: `SKRRK`
 7. chair moves only enough for standing clearance
 8. hips clear seat
 9. knees/hips extend
 10. torso rises
 11. final standing body is immediately beside/just forward of SAME displaced chair
 12. chair freezes exact displaced position/angle
+13. Nari remains fixed throughout
+14. packet remains fully clear beside/near Nari's planted advancing foot
+15. mask remains fully secured
+16. chopsticks remain untouched at SAME existing support position
 
 SFX:
 `SKRRK`
@@ -140,8 +202,21 @@ PERFORMANCE:
 - focused protective urgency, not intimidation/rage/romance pose
 - no invented fists/pointing/grab
 
-END / SEAM:
-Strip 021 begins from exact standing + pushed-chair state.
+END / SEAM INTO STRIP 021:
+- Hyun-woo exact standing mark immediately beside/just forward of SAME pushed-back chair
+- chair fixed at exact displaced position/angle
+- Nari exact Strip 019 one-step-closer barefoot stance unchanged
+- advancing foot planted on exposed floor
+- packet slightly nudged beside/near advancing foot, fully clear and floor-supported
+- knife low same anatomical hand
+- Hyun-woo mask fully secured
+- chopsticks fixed together at SAME existing pot-rim / adjacent table-support position; no separate chopstick-rest object
+- pantry exactly FIVE unopened packets
+- same pot/candle/holder/wrapper/table/second-chair topology
+- refrigerator hostile pixel/broken-glyph activity active but NO readable words yet
+- Unit mains OFF
+
+Strip 021 must begin from this exact standing + pushed-chair + Nari-foot/packet + knife + mask + chopstick-support + pantry + refrigerator state.
 
 ==================================================
 EXACT TEXT ONLY
@@ -160,7 +235,7 @@ No narration or extra readable text.
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; Hyun-woo identity/scale drifts; Nari moves; Hyun-woo stands before V93; chair teleports/duplicates/floats/clips/changes scale/orientation; hostile fridge words appear early; fridge becomes room light; `SKRRK` precedes chair motion; relative height is faked by perspective; dining topology resets; glossy/cinematic/photoreal/3D style appears; text hides chair mechanics; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; Nari moves or changes the Strip 019 one-step-closer foot geometry; packet returns under a foot, is stepped on again, duplicates, disappears, or moves without cause; knife changes hand or rises into attack pose; Hyun-woo identity/scale drifts; Hyun-woo stands before V93; secured mask reopens/moves/detaches/redesigns; chopsticks move, duplicate, return to a hand, change support position, or a separate chopstick-rest object appears; pantry count changes from exactly five; chair teleports/duplicates/floats/clips/changes scale/orientation; hostile fridge words appear early; fridge becomes room light; `SKRRK` precedes real chair friction; relative height is faked by perspective; dining topology resets; glossy/cinematic/photoreal/3D style appears; text hides chair mechanics; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET
