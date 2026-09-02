@@ -33,14 +33,14 @@ START:
 - Nari exact entrance mark, several feet away; knife low SAME KNIFE HAND; worn state unchanged
 - Hyun-woo seated in canonical chair closest kitchen/refrigerator
 - SAME noodle cooking pot on SAME trivet at one fixed world-space table position
-- SAME pot handle orientation fixed; SAME folded cloth at same hot-handle side, physically resting against/near handle without clipping
+- SAME pot handle orientation fixed; SAME folded cloth at same hot-handle side
 - SAME short pillar candle + ceramic holder at one fixed distinct table position
 - SAME chopstick pair in Hyun-woo hand
 - pantry exactly five unopened packets
-- ONE empty spicy-seafood outer packet at one fixed one-short-step floor spot ahead of Nari, not under current feet/furniture
+- ONE empty spicy-seafood outer packet at one fixed one-short-step floor spot ahead of Nari
 - ONE seasoning wrapper at one fixed table spot near pot
 - Unit power absent
-- SAME mask attached, mouth cleared for eating
+- SAME mask attached, mouth cleared for eating; same straps/hardware follow canonical head/hair route
 
 ALLOWED CHANGES:
 - one small visible `SLURP`/bite in V76
@@ -58,99 +58,111 @@ END:
 - exact dining scale/depth/topology unchanged
 
 ==================================================
+DIALOGUE CAMERA AXIS / EYE-LINE — NON-NEGOTIABLE
+==================================================
+
+V76–V80 are one continuous guarded conversation across the dining entrance/table.
+- Nari remains entrance-side; Hyun-woo remains table-side in his chair
+- preserve one readable conversation/action axis through the exchange
+- reverse shots may flip screen-left/right but cannot place Nari on Hyun-woo's table side or Hyun-woo on Nari's entrance side
+- Nari eyes/head aim toward the actual seated Hyun-woo position when speaking/listening
+- Hyun-woo eyes/head aim toward Nari when replying while body remains seated
+- if either glances to pot/chopsticks, gaze must point toward the real pot location, then return naturally
+- do not silently cross the 180° axis and make their gazes point away from each other
+
+A neutral establishing view may reorient the axis if absolutely needed, but no world position changes.
+
+==================================================
 DINING OBJECT SCALE / DEPTH / SUPPORT — NON-NEGOTIABLE
 ==================================================
 
-Freeze the dining evidence at stable real-world scale:
-- cooking pot retains same diameter/height relative to table/Hyun-woo hands
-- trivet fits beneath pot and does not grow/shrink
-- folded cloth remains plausible cloth thickness, does not pass through pot/handle/table
-- candle/holder retain stable scale; holder rests on tabletop support plane
-- seasoning wrapper/outer packet retain ordinary packet scale
-- dining chairs/table retain canonical dimensions relative to both adults
-
-Do not enlarge pot for food close-up, shrink it for table composition, enlarge candle for drama, or shrink packets to disappear.
-Perspective may change apparent size only.
+Freeze stable real-world scale for cooking pot, trivet, cloth, candle/holder, wrapper/outer packet, table/chairs and both adults. Perspective may change apparent size only.
 
 ==================================================
 DINING DEPTH-ORDER / TOPOLOGY — ABSOLUTE
 ==================================================
 
-The table is a real 3D story-space plane.
-Freeze:
+Real tabletop/floor space:
 - Hyun-woo chair nearest kitchen/refrigerator side
-- pot/trivet one exact tabletop position
-- pot handle points one fixed story-world direction
-- cloth remains same physical hot-handle side
-- candle/holder at a separate fixed table position and does not overlap pot/trivet/wrapper
-- wrapper at separate table spot
-- outer packet on floor, not tabletop
+- pot/trivet exact table position
+- pot handle fixed story-world direction
+- cloth same hot-handle side
+- candle/holder separate fixed table position
+- wrapper separate table spot
+- outer packet floor only
 - five unopened packets pantry
-
-Reverse shots may flip screen-left/right but cannot change near/far depth, table side, handle direction, or move candle behind/in front of pot in a way that changes actual world position.
-Foreground occlusion may hide an object temporarily but cannot relocate it.
+Reverse shots cannot swap near/far depth or story-world sides.
 
 ==================================================
-SIX-PACKET / STEP-PACKET PROVENANCE — ABSOLUTE
+NOODLE / CHOPSTICK GRIP / EATING PATH — ABSOLUTE
 ==================================================
 
-Six-packet reconciliation:
-- five unopened pantry
-- one used/empty spicy-seafood outer packet floor
-- separate seasoning wrapper table
-
-Outer packet must be reachable by ONE short cautious step from Nari, not touching her current feet, not under furniture, and not at future knife impact point.
-
-==================================================
-NOODLE / CHOPSTICK / MASK MECHANICS — ABSOLUTE
-==================================================
-
-If noodles visibly lifted:
-- actual strand path pot→chopsticks→mouth must complete through eating or lowering before next state
-- strands cannot pass through mask/pot/hand/hair
-- pot contents reduce only by the visible bite
-- chopsticks stay one pair in Hyun-woo's hand through V80
-
-Mask remains attached by same hardware/straps and only mouth-cleared enough to eat. No removal/replacement/duplicate mask.
+Hyun-woo holds one chopstick pair with a believable eating grip:
+- fingers contact both sticks in usable orientation
+- sticks do not fuse with fingers/palm
+- no third stick
+- if noodles lift, actual strand path pot→chopsticks→mouth completes through visible bite/lowering
+- strands cannot pass through mask, hand, hair, pot rim or face
+- pot contents reduce only by visible bite
 
 ==================================================
-NARI BODY / DISTANCE — ABSOLUTE
+MASK STRAP / HAIR / FACE DEPTH — ABSOLUTE
 ==================================================
 
-Nari takes ZERO steps. Camera closeness is not movement. Knife stays low SAME KNIFE HAND. SCRUNCHIE WRIST/headphones unchanged. Her depth remains entrance-side, not suddenly at table.
+Mask remains attached by SAME canonical hardware/straps while mouth is cleared for eating.
+- straps/hardware stay physically routed around correct head/ear/hair regions
+- no strap passes through ear, skull, hair mass or neck
+- long low-tied hair remains behind/in front of straps only in physically plausible order
+- mask body remains a real object in front of lower face, not face paint
+- lower face remains concealed by angle/action/shadow; no reflection reveals it
+- no second mask or detached loose strap
+
+Strip018 performs actual reseat; do not finish it here.
+
+==================================================
+CANDLE SHADOW / REFLECTION DISCIPLINE — ABSOLUTE
+==================================================
+
+The small candle is the only local active interior light source in this confrontation.
+- light remains small/local matte amber
+- any cast shadow must correspond to actual Nari/Hyunwoo/table objects and candle direction
+- no giant wall shadow-person, extra silhouette, reflected face/figure in fridge/TV/window/counter
+- no reflection may reveal Hyun-woo's hidden lower face or create a second Nari/Hyun-woo
+- do not add cinematic rim light/bloom
+
+==================================================
+NARI BODY / WORN ATTACHMENT — ABSOLUTE
+==================================================
+
+Nari takes ZERO steps. Knife stays low SAME KNIFE HAND with usable handle grip. Scrunchie physically encircles SAME wrist. Headphones physically rest around neck/hoodie and do not clip through hair/neck/knife arm.
 
 ==================================================
 SAME-OBJECT INSERT / NO DUPLICATION — ABSOLUTE
 ==================================================
 
-Pot/noodle/chopstick/packet/wrapper/candle close-up = SAME physical object/state. Do not create duplicate pot/packet/wrapper/candle/chopsticks or incompatible positions.
+Pot/noodle/chopstick/packet/wrapper/candle/mask close-up = SAME physical object/state. No duplicate pot/packet/wrapper/candle/chopsticks/mask.
 
 ==================================================
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Narration/dialogue/`SLURP` cannot cover:
-- noodle path
-- mask mouth-clear state
-- pot/handle/cloth/candle topology
-- Nari feet/one-step packet relation
-- pantry five-packet proof
+Narration/dialogue/`SLURP` cannot cover noodle path, chopstick grip, mask mouth-clear/strap state, Nari knife/worn state, feet/packet relation, pantry proof or table topology.
 
 ==================================================
 NARRATION
 ==================================================
 
-V76 narration, sparse uncanny realization:
+V76 narration:
 `NARI HADN'T LIT THAT CANDLE.`
 `SHE HADN'T COOKED THE NOODLES.`
-No invented narration V77–V80.
+Sparse uncanny realization, not fake UI/top-left tag. No invented narration V77–V80.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
 V76 — HIDDEN EATER / EVIDENCE
-Show stable dining scale/depth, five pantry packets, one floor outer packet, separate table wrapper.
+Show stable dining scale/depth, five pantry packets, one floor outer packet, separate wrapper.
 SFX:
 `SLURP`
 Complete visible noodle action.
@@ -185,25 +197,22 @@ HYUN-WOO:
 Chopsticks lower near SAME pot but remain in hand.
 
 ==================================================
-POWER / SEAM
+SEAM
 ==================================================
 
-Unit unpowered; candle small local matte amber only, no cinematic glow.
-Strip018 inherits exact dining world-space scale/depth/orientation and Nari position/worn/knife state.
+Strip018 inherits exact world-space positions, conversation axis, dining scale/depth/orientation, chopstick grip/rest-start state, mask straps/hair route and Nari worn/knife state.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - attached geometry redesigned/mirrored
-- Nari moves/knife changes hand/worn state changes
-- pot/trivet/cloth/candle/table/chair/packet changes world-space scale
-- pot handle/cloth side flips or objects swap near/far/table positions
-- cloth/candle/packet/pot clip through solids or hover
-- packet beyond one short step/under feet/furniture/overlaps future knife zone
-- six-packet provenance fails
-- noodles vanish/pass through mask/object
-- duplicate pot/chopsticks/packet/wrapper/candle via close-up
-- mask removed/reseated early/redesigned
-- text hides food/topology evidence
+- dialogue axis silently flips / characters exchange physical sides / eyelines point away from actual speaker
+- Nari moves/knife changes hand/worn items float/clip/swap
+- pot/trivet/cloth/candle/table/chair/packet scale or depth changes
+- pot handle/cloth side flips
+- chopstick grip impossible/fused/third stick or noodle path clips/vanishes
+- mask straps/hardware clip through head/ear/hair/neck, duplicate/detach, or lower face is revealed via reflection
+- reflected/shadow duplicate person/figure appears or candle casts impossible giant shadow
+- text hides food/mask/topology evidence
 - black dividers missing/oversized
 ```
 
