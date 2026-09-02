@@ -2,9 +2,9 @@
 
 This is the active production package for Chapter 1.
 
-Current prompt/reference status: **EIGHTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
+Current prompt/reference status: **NINTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE.**
 
-The current Strip 001–032 package has been clean-room re-audited eight times under `manhwa-2d-production-auditor`. The seventh PASS was deliberately not accepted as proof. After eighth repairs, every current Strip 001→032 prompt was read again from the beginning before this status was assigned. Earlier problematic renders remain rejected.
+The current Strip 001–032 package has been clean-room re-audited nine times under `manhwa-2d-production-auditor`. The eighth PASS was deliberately not accepted as proof. The ninth pass found a new character-topology/identity failure class, repaired it, then re-read the current post-repair Strip 001→032 package again before this status was assigned. Earlier problematic renders remain rejected.
 
 ## Chapter Shape
 
@@ -59,51 +59,64 @@ Always binding:
 - `../../production-readiness-gate.md`
 - `../../seventh-hardening-visual-logic-addendum.md`
 - `../../eighth-hardening-presentation-integrity-addendum.md`
+- `../../ninth-hardening-character-topology-identity-addendum.md`
 
-## Eighth-Pass Production Locks
+## Ninth-Pass Production Locks
 
-All previous hardening remains binding. The eighth pass adds a presentation-integrity layer:
+All previous hardening remains binding. The ninth pass adds another mandatory character-identity layer.
 
-### Perspective / Lens
-- ordinary manhwa perspective only
-- no fisheye/ultra-wide/forced-perspective warping of canonical architecture or body/object proportions
-- dramatic framing cannot change world-space geometry
+### Whole-Body Anatomical Topology
+- one coherent human body per character
+- no extra/missing/duplicated arms, hands, legs, feet, ears, fingers or detached body parts
+- close-up limbs must physically connect to the same character body shown in adjacent views
+- impossible elbow/knee/wrist/ankle/shoulder/hip topology is blocking
 
-### Mobile-Scale Proof
-Continuity-critical evidence must be understandable at normal mobile size, not merely technically present. This includes wall-socket proof, key transfer, Section16→18 page proof, tool return, food path, foot/packet contact, chair mechanics, mask hardware, knife fall/impact, wrist contact, cabinet reveal, handwriting and the final TV message.
+### Limb Ownership / Anatomical Side
+- a close-up hand/wrist/foot/arm/leg remains the SAME character and SAME physical side
+- reverse shots may flip screen-left/right but may not switch anatomical ownership
+- sleeve/glove/tattoo/scrunchie/body cues must remain compatible with ownership when continuity depends on them
 
-### Crop / Gutter / Divider Safety
-Decisive contact and enough context must remain safely inside frame. Crop edges, black gutters, diagonal dividers and technical seams may not amputate a critical hand, foot, plug/socket, cord, knife, packet, chair leg, mask/wrist contact, page edge/spine, cabinet hinge, notebook or exact text.
+### Permanent Character Landmarks
+- **Nari:** exactly one beauty mark beside the anatomical LEFT corner of her mouth; long dark-plum mid-back hair remains stable
+- **Hyun-woo:** same anatomical tattoo-map relationships, same matte-black technical mask construction, same long low-tied black hair
+- **Mrs. Na:** same jade earrings, same analog-watch wrist, same dark gloves unless explicitly removed
+- **Seungjae:** exactly age 30, same medium-brown hair part/silhouette, same watch wrist and earbud-ear identities
 
-### Lighting / Shadow Direction
-Within one unchanged lighting state, the source direction remains coherent. Candle-derived light ends after `PFF`; fridge/TV/speaker pixels are not room lights; restored powered lighting remains one stable baseline after return; one flicker returns to that baseline.
+### Face / Age / Build / Hair
+Expressions, darkness, close-ups and reverse shots cannot recast a character. Nari cannot revert to short hair; Hyun-woo cannot slim/shorten hair/change mask/tattoos; Mrs. Na cannot become young/glamorous; Seungjae cannot age into a paternal/executive/middle-aged man.
 
-### Top-to-Bottom Reader Order
-Action/dialogue/SFX/device/narration layout must preserve the exact scripted causal order. A result or SFX cannot visually read before its physical cause.
+### Wardrobe / Local Color / Material
+Within a continuous scene, wardrobe construction and signature local colors remain stable. Lighting may change value, not identity hue/material. Character rendering remains flat matte—no glossy skin/hair/mask/jewelry close-up or neon tattoo drift.
 
-### Limb/Object Ownership
-Close-ups keep enough context to prove the hand/foot/plug/knife/page belongs to the same physical body/object and the same anatomical side/route.
+### Clothing / Body Occlusion
+Sleeves, trousers, coat, hoodie, hair, headphones, bags and straps must attach to one continuous body. Occlusion cannot hide an extra/missing limb or impossible body connection.
 
-### Readable In-World Text
-Story-critical exact device/page/note/notebook wording must be legible at intended mobile scale and remain on the actual carrier plane. Use SAME-OBJECT details rather than enlarging the story-world object.
+### Speaking / Listening / Mouth State
+Visible acting must agree with source ownership. Listeners cannot mouth another character's line. Narration, internal thought, device text and speaker audio do not become visible human speech. Masked Hyun-woo's lower face is not exposed merely to show dialogue.
 
-## Eighth Local Strip Rewrites
+## Ninth Local Strip Rewrites
 
-The eighth pass required deterministic local presentation rewrites to:
-- **001** — smart-lock/door/box mobile proof, ordinary perspective, causal SFX order
-- **002** — door/binder/key crop-safe proof and V11 reading order
-- **004** — key/door proof, mobile-readable `19°C`, morning lighting/order
-- **006** — wall-socket proof must clearly show WALL + faceplate + empty socket + plug-body grip + attached appliance cord at mobile size
-- **010** — mobile-readable physical Section16→page turn→Section18 proof
-- **019** — lower-body/STEP FOOT/packet contact ownership and safe framing
-- **020** — mobile-readable seated→chair push→stand mechanics and candle-shadow consistency
-- **023** — complete `PFF → KIIIIII → knife release → fall → CLANG → wrist catch → WARM` order, crop safety and post-candle lighting transition
-- **025** — mobile-readable comparable Hyun-woo presence→absence proof and blackout→powered lighting transition
-- **028** — mobile-readable phone→cabinet→lid→towel→speaker/cord/plug→knife sequence
-- **031** — mobile-readable handwriting/pen release + real wall-socket proof before/with TV activation
-- **032** — exact final message mobile-readable on TV plane, distortion-free hero framing, final reveal order
+The ninth pass required deterministic local rewrites to **12 strips**:
+- **001** — first-image Nari identity/body topology, anatomical-left beauty mark, box-support vs smart-lock hand ownership, narration/audio mouth-state
+- **002** — Mrs. Na dark gloves/watch/jade earrings/body ownership during binder/key-ring/key handling; Nari landmark lock
+- **006** — Nari unplugging-hand ownership connected to same body, beauty mark/hair identity, no generic detached wall-plug hand
+- **012–013** — Seungjae exactly age 30, youthful face/hair/outfit, watch/earbud/umbrella/phone limb ownership and speaking-state logic
+- **014** — Nari identity/body topology/local colors preserved through blackout rather than redrawn by darkness
+- **017–018** — Hyun-woo broad build, anatomical tattoo map, mask hardware, long low-tied hair and same-body chopstick→mask hand continuity
+- **023–024** — Nari FREE HAND/KNIFE HAND/feet ownership and Hyun-woo connected catching-arm/tattoo-side ownership through wrist catch/release
+- **031–032** — Nari writing/reaction anatomy, no third writing/stabilizing hand, beauty-mark/hair identity, device/written text not mouthed
 
-The other **20 strips** were re-read under the eighth global rules and did not require a new deterministic local rewrite.
+The other **20 strips** were re-read under the ninth global rules and required no additional deterministic local rewrite.
+
+## Previous Eighth-Pass Presentation Gates Remain Binding
+
+- ordinary non-fisheye perspective
+- mobile-readable physical proof
+- crop/gutter/divider safe margins
+- stable lighting-source/shadow direction
+- exact top-to-bottom causal reading order
+- close-up ownership context
+- readable exact in-world text
 
 ## Wall-Socket Rule — Absolute
 
@@ -112,7 +125,8 @@ The wall/faceplate/socket context must be visible enough to prove this is a wall
 
 ## Strict Flat 2D Human-Drawn Style — Absolute
 
-Every canonical, strip, repair and stitched output must visibly comply with `../../style-guide.md`: strict flat 2D human-drawn Korean manhwa/webtoon, clean line art, flat colors, restrained hard-edged cel shading, matte materials, stable anatomy and natural hands. Reject photoreal/3D/glossy/cinematic/painterly/airbrushed/bloom/DOF/over-rendered output.
+Every canonical, strip, repair and stitched output must visibly comply with `../../style-guide.md`: strict flat 2D human-drawn Korean manhwa/webtoon, clean line art, flat colors, restrained hard-edged cel shading, matte materials, stable character topology/identity and natural hands.
+Reject photoreal/3D/glossy/cinematic/painterly/airbrushed/bloom/DOF/over-rendered output.
 
 Prompt wording alone does not pass this gate; rendered output must be visually inspected.
 
@@ -122,7 +136,7 @@ Missing/stale/wrong-path/unapproved required WebP → STOP before strip generati
 
 ## Existing Approved Strip Rule
 
-A previous rendered strip becomes continuity authority only after it passes the **current eighth-pass visual QA**. Earlier rejected/pre-eighth attempts must not be attached merely because they exist.
+A previous rendered strip becomes continuity authority only after it passes the **current ninth-pass visual QA**. Earlier rejected/pre-ninth attempts must not be attached merely because they exist.
 
 ## Audit Rule
 
@@ -130,7 +144,7 @@ After every correction, re-audit corrected scope and adjacent dependencies. Afte
 
 ## Current Next Action
 
-1. generate a brand-new Strip 001 using its current eighth-pass prompt + exact approved WebPs
+1. generate a brand-new Strip 001 using its current ninth-pass prompt + exact approved WebPs
 2. deep-audit actual pixels against all current gates
 3. reject/fix/regenerate until Strip 001 passes
 4. only then attach newly APPROVED Strip 001 to Strip 002
