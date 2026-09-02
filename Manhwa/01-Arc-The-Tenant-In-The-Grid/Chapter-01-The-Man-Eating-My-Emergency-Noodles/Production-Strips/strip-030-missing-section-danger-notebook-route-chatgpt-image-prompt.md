@@ -21,32 +21,155 @@ ATTACH — REQUIRED — EXACT SET
 8. `tv-canonical-reference.webp`
 9. APPROVED rendered Strip 029 image
 
-Do NOT attach Hyun-woo; voice-only. Missing authority = STOP.
+Do NOT attach Hyun-woo; voice-only through the visible speaker. Missing authority = STOP.
 
 ==================================================
 CURRENT CANON / START STATE
 ==================================================
-Current WebPs permanently control Nari/Unit/speaker/TV. APPROVED Strip 029 temporarily controls exact Nari chair, table food/evidence, open storage cabinet, speaker source, phone counter, sheathed knife/failed tools desk, and powered lighting.
+Current WebPs permanently control Nari/Unit/speaker/TV. APPROVED Strip 029 temporarily controls exact Nari chair/body position, post-one-additional-bite meal quantity, packet/wrapper positions, BOTH chopstick-pair identities, open speaker-storage cabinet stack, phone COUNTER SPOT, sheathed knife/failed-tools desk state, closed notebook/pen, closed binder, and powered lighting.
 
 CURRENT NARI WEBP WINS. Never restore retired old-Nari dark-plum hair, mouth beauty mark, yellow scrunchie, headphones-around-neck identity, or old outfit design.
 
-START:
-- Nari seated untouched burgundy chair
-- NOODLE POT table with one-bite reduction, trivet/cloth unchanged
-- packet + seasoning wrapper table
-- Hyun-woo used chopsticks pot rest; Nari clean pair fixed table spot
-- STORAGE POT open cabinet state exact Strip 029 with speaker visible, cord/plug/towels/lid states unchanged
-- phone counter; key tray; binder counter
-- sheathed practical knife + failed flashlight/radio at desk
-- SAME closed A5 notebook + ONE pen at work desk
-- TV inactive wall-unplugged
+START — EXACT STRIP 029 HANDOFF:
+- Unit supplied mains power ON at canonical powered baseline
+- Hyun-woo completely absent physically; no reflected/shadow/silhouette/holographic/body trace
+- Nari remains BAREFOOT and seated with real seat support in SAME previously untouched burgundy chair used in Strip 029 V136/V137
+- both bare feet remain supported on real floor at the same seated position
+- SAME pushed-back Hyun-woo burgundy chair remains at exact displaced position/angle and is NOT Nari's chair
+- SAME NOODLE COOKING POT remains on SAME trivet/heat-safe cloth at dining table
+- NOODLE POT quantity is the exact Strip 029 post-V136 state: CURRENT inherited post-Hyun-woo quantity minus exactly ONE additional small Nari bite; do NOT refill/reset/regenerate food
+- SAME empty spicy-seafood outer packet remains table-supported at exact established position beside/near SAME seasoning wrapper
+- SAME used chopstick pair remains fixed together at SAME existing NOODLE POT-rim / adjacent table-support position
+- SAME clean Nari chopstick pair remains fixed together at exact Nari-side table-support position established in Strip 029 V136
+- exactly TWO chopstick pairs total exist in the scene = FOUR sticks total
+- NO separate chopstick-rest utensil/object exists
+- SAME candle/ceramic holder remain fixed and fully extinguished
+- pantry remains exactly FIVE unopened emergency noodle packets
+- exact lower speaker-storage cabinet remains OPEN at exact Strip 028 V128 hinge angle
+- SAME STORAGE STOCKPOT remains supported on SAME cabinet support plane
+- SAME lid remains fully supported at exact Strip 028 V129 adjacent support position/orientation
+- TOWEL2 remains folded back exactly ONCE
+- SAME canonical speaker remains visibly supported on TOWEL1
+- speaker-side cord remains attached
+- SAME loose wall plug remains visibly/unambiguously unplugged and contained with STORAGE STOCKPOT arrangement; wall outlet remains EMPTY
+- SAME visible speaker remains sole source of Hyun-woo voice while Unit power is on
+- SAME phone remains physically supported at exact Strip 028 V128 kitchen-counter COUNTER SPOT
+- SAME practical knife remains fully sheathed and physically supported at exact Strip 029 V134 desk/tray position/orientation
+- flashlight/radio remain OFF and untouched at desk/tray
+- SAME CLOSED A5 notebook remains fully desk-supported at exact established work-desk position/orientation
+- exactly ONE pen remains separately desk-supported beside/near notebook
+- electrical-operation-guide binder remains CLOSED at established kitchen-counter position
+- tablet remains desk-supported/untouched if visible
+- brass backup key remains untouched in entry tray
+- front door remains CLOSED/LATCHED
+- TV remains physically wall-unplugged and dark/inactive
+- refrigerator remains ordinary canonical powered baseline with NO hostile text/glitch behavior
 
-END:
-- Nari back in SAME untouched chair
-- SAME CLOSED A5 notebook flat at a collision-free Nari-side table zone
-- SAME pen beside notebook
-- no writing/opening yet
-- every prior food/cabinet/TV/phone/knife state unchanged
+END — EXACT STRIP 031 HANDOFF:
+- Unit remains at canonical powered baseline
+- Nari remains BAREFOOT and seated with real seat support in SAME formerly untouched burgundy chair
+- both bare feet floor-supported
+- pushed Hyun-woo chair remains exact displaced position/angle
+- SAME CLOSED A5 notebook lies flat and fully supported at one exact collision-free Nari-side table location/orientation established in V142, production-only NOTEBOOK ZONE
+- notebook top/bottom/spine orientation is frozen for Strip 031
+- SAME ONE pen remains fully supported at one exact adjacent clear position/orientation beside notebook
+- no notebook opening and NO writing have occurred yet
+- NOODLE POT remains exact post-one-additional-Nari-bite quantity
+- packet + seasoning wrapper remain exact table-supported positions
+- SAME used chopstick pair remains fixed at SAME existing NOODLE POT-rim / adjacent table-support position
+- SAME clean Nari pair remains fixed at exact Nari-side table position
+- exactly TWO chopstick pairs total; NO separate chopstick-rest object
+- candle remains fully extinguished
+- pantry remains exactly FIVE unopened packets
+- open speaker-storage cabinet remains exact angle
+- STORAGE STOCKPOT / lid / TOWEL2 fold / speaker / attached cord / loose unplugged plug / empty outlet remain unchanged
+- SAME speaker remains sole Hyun-woo voice source
+- phone remains exact COUNTER SPOT
+- practical knife remains fully sheathed at exact V134 desk/tray state
+- flashlight/radio remain OFF and untouched
+- binder remains CLOSED at established counter position
+- tablet/key/door/TV/refrigerator states unchanged
+- no physical/reflected/shadow/holographic Hyun-woo appears
+
+==================================================
+TWO-POT IDENTITY LOCK — ABSOLUTE
+==================================================
+STORAGE STOCKPOT:
+- cabinet speaker-storage object only
+- remains inside OPEN lower speaker-storage cabinet
+- contains/sustains TOWEL1 + visible speaker/attached cord/loose unplugged plug + TOWEL2 folded back once
+- lid remains supported adjacent, not on STORAGE STOCKPOT
+- never contains noodles/broth
+
+NOODLE COOKING POT:
+- dining-table food object only
+- remains on SAME trivet/heat-safe cloth
+- contains exact current post-one-additional-Nari-bite broth/noodle quantity
+- SAME used chopstick pair remains at SAME existing pot-rim / adjacent table-support position
+
+Never merge, swap, resize, duplicate, teleport, or invent a third pot.
+
+==================================================
+TWO-CHOPSTICK-PAIR IDENTITY LOCK — ABSOLUTE
+==================================================
+USED HYUN-WOO PAIR:
+- exactly ONE pair = exactly TWO sticks
+- remains fixed together at SAME existing NOODLE POT-rim / adjacent table-support position
+- no hand touches, lifts, moves, reuses, or relocates this pair in Strip 030
+
+CLEAN NARI PAIR:
+- exactly ONE pair = exactly TWO sticks
+- remains fixed together at exact Nari-side table-support position established in Strip 029 V136
+- no hand touches, lifts, moves, reuses, or relocates this pair in Strip 030
+
+TOTAL:
+- exactly TWO chopstick pairs total = FOUR sticks total
+- no third pair
+- no missing/duplicated sticks
+- pairs do not merge
+- NO separate chopstick-rest utensil/object exists anywhere
+
+==================================================
+PERSISTENCE LOCKS — V138–V142
+==================================================
+NARI / FOOTWEAR / CHAIR
+- Nari remains BAREFOOT throughout Strip 030
+- V138–V139: Nari remains seated in SAME formerly untouched chair
+- pushed Hyun-woo chair remains exact displaced position and is never used/reset
+- V140: Nari physically stands from SAME chair
+- V142: Nari physically returns to and sits in SAME chair
+- no chair identity swap or teleport
+
+MEAL / TABLE EVIDENCE
+- NOODLE POT quantity does NOT change in Strip 030
+- no eating, drinking, stirring, serving, or food removal
+- packet/wrapper positions remain fixed
+- both chopstick pairs remain fixed
+- candle remains fully extinguished
+- no food/table evidence may be moved to manufacture notebook space
+
+OPEN SPEAKER-CABINET STATE
+- cabinet remains OPEN at exact V128 angle throughout
+- STORAGE STOCKPOT remains same support plane
+- lid remains exact V129 adjacent support position
+- TOWEL2 remains folded back once
+- speaker stays visible on TOWEL1
+- attached cord remains attached
+- loose plug remains unplugged; outlet empty
+- no cabinet close/reset, lid return, towel reset, speaker disappearance, reconnection, or relocation
+- Hyun-woo voice comes ONLY from SAME visible speaker
+- no physical/reflected/shadow/holographic Hyun-woo
+
+PHONE / DESK / DEVICES
+- phone remains exact COUNTER SPOT throughout
+- sheathed knife remains exact V134 desk/tray position throughout
+- flashlight/radio remain OFF and untouched
+- binder remains CLOSED
+- tablet remains untouched
+- key remains tray-supported
+- front door remains closed/latched
+- TV remains physically wall-unplugged/dark
+- refrigerator remains ordinary powered baseline
 
 ==================================================
 HEIGHT / SCALE / VOICE SOURCE
@@ -54,28 +177,39 @@ HEIGHT / SCALE / VOICE SOURCE
 Approximate height:
 V138 18% | V139 18% | V140 17% | V141 20% | V142 27% — LARGEST.
 
-Notebook remains true A5-scale; pen ordinary size. Do not move food/evidence to make room. Hyun-woo audio remains sourced only from the same visible speaker in open STORAGE POT.
+Notebook remains true A5 scale; pen ordinary size. Do not move food/evidence to make room.
+
+Hyun-woo audio remains sourced ONLY from SAME visible speaker in open STORAGE STOCKPOT.
 
 ==================================================
 V138 — MISSING SECTION QUESTION / PURPOSEFUL SILENCE — FULL BLUEPRINT
 ==================================================
-CAMERA: Nari seated at table oriented toward actual open cabinet/speaker; same room anchors.
+CAMERA:
+- Nari seated in SAME chair at table
+- oriented toward actual visible speaker in open cabinet
+- preserve dining/open-cabinet/room anchors
 
 NARI:
 `THE MISSING SECTION WAS ABOUT THAT PANEL, WASN'T IT?`
 
-NO ANSWER:
-- no speaker response
-- no indicator reply
+PURPOSEFUL SILENCE — NON-NEGOTIABLE:
+- SAME speaker gives NO audio response
 - no SFX
-- no floating ellipsis
-- no human silhouette/reflection
+- no floating ellipsis or silence text
+- no physical/reflected/shadow/holographic Hyun-woo
+- do NOT invent a new indicator/LED/light response
+- if canonical smart-speaker reference contains an indicator, it does not newly blink/change/pulse as a response to this question
+- if canonical reference does NOT contain an indicator, render NO invented indicator
+- no cabinet/light/object movement is used as a substitute response
+- silence must read as a brief real pause in the same scene
 
-After purposeful silence:
+ONLY AFTER that purposeful silence:
 NARI:
 `HYUN-WOO?`
 
-Gaze remains on same speaker source.
+STATE:
+- gaze remains on SAME visible speaker
+- Nari does not stand/reach/eat/move table evidence
 
 SMALL BLACK GUTTER.
 
@@ -85,81 +219,177 @@ V139 — `ARE YOU DANGEROUS?` — FULL BLUEPRINT
 NARI:
 `ARE YOU DANGEROUS?`
 
-HYUN-WOO VOICE FROM SAME SPEAKER:
+HYUN-WOO VOICE FROM SAME VISIBLE SPEAKER:
 `I CAN'T PROMISE I'M NOT.`
 
-PERFORMANCE:
+SOURCE:
+- voice comes from SAME visible speaker in STORAGE STOCKPOT
+- not phone, TV, refrigerator, cabinet wall, ceiling, or generic offscreen source
+
+PERFORMANCE / STATE:
 - Nari wary/shaken but functional
-- no physical Hyun-woo
+- remains seated in SAME chair
+- no physical/reflected/shadow/holographic Hyun-woo
+- no food/evidence movement
 
 SMALL BLACK GUTTER.
 
 ==================================================
-V140 — REAL TABLE→DESK STAND/WALK — FULL BLUEPRINT
+V140 — REAL SAME-CHAIR STAND / EVIDENCE-SAFE TABLE→DESK WALK — FULL BLUEPRINT
 ==================================================
-ACTION:
-1. Nari begins seated in untouched chair
-2. feet gain floor support
-3. hips rise clear of seat
-4. chair remains same location/orientation
-5. Nari walks canonical dining→desk route
-6. table evidence remains untouched
+START:
+- Nari begins seated in SAME formerly untouched burgundy chair
+- both bare feet are ALREADY supported on real floor
+- chair is physically supporting hips/body
+
+STAND MECHANICS:
+1. Nari plants/maintains both bare feet on real floor
+2. weight transfers through feet/legs
+3. torso inclines only as needed for a real stand
+4. hips rise clear of SAME seat
+5. chair remains at exact location/orientation; no push/reset/teleport
+6. Nari reaches stable standing balance
+
+ROUTE:
+- only after standing, Nari walks a real dining→desk path using canonical Unit geometry
+- route clears SAME pushed chair, Nari chair, dining table, NOODLE POT/trivet/cloth, packet, seasoning wrapper, BOTH chopstick pairs, candle/holder, open speaker-storage cabinet zone, phone COUNTER SPOT, and fixed furniture
+- no foot, leg, clothing, or hand contacts/moves any evidence
+- no teleport/clipping
 
 NO TEXT.
 
 END:
-- Nari at desk
+- Nari arrives at canonical work desk
+- table/chair/cabinet/phone states unchanged behind her
 
 SMALL BLACK GUTTER.
 
 ==================================================
-V141 — PICK SAME CLOSED A5 NOTEBOOK + ONE PEN — FULL BLUEPRINT
+V141 — REAL SAME CLOSED A5 NOTEBOOK + ONE PEN PICKUP — FULL BLUEPRINT
 ==================================================
-DESK:
-- same sheathed practical knife/flashlight/radio stay in place
-- SAME closed A5 notebook + ONE pen are the only objects picked up
+START DESK STATE:
+- SAME CLOSED A5 notebook is visibly fully desk-supported at exact inherited location/orientation
+- SAME ONE pen is separately desk-supported beside/near notebook
+- same fully sheathed practical knife remains at exact V134 desk/tray position
+- flashlight/radio remain OFF and untouched
+- tablet remains untouched if visible
 
-GRIP:
-- notebook supported by real hand/edge/spine/body
-- pen separately held by physically possible fingers/other hand
+NOTEBOOK PICKUP:
+1. one real Nari hand reaches SAME notebook
+2. fingers grip usable notebook edge/spine/body
+3. notebook physically leaves desk support
+4. old notebook support area becomes visibly empty
+5. notebook remains CLOSED
+
+PEN PICKUP:
+1. SAME ONE pen begins visibly desk-supported
+2. other hand or physically possible separate fingers reach/grip SAME pen
+3. pen physically leaves desk support
+4. old pen support spot becomes visibly empty
+5. no second pen/pencil/writing tool appears
+
+HAND / OBJECT COUNT:
+- exactly TWO Nari hands total
+- notebook and pen remain physically separate objects
 - no fusion/floating
-- no extra writing tool
+- no hand/arm duplication
+- do NOT touch/move sheathed knife, flashlight, radio, tablet, or other desk evidence
 
 NO writing/opening.
 
 END:
-- Nari holds notebook + pen only
+- Nari holds SAME CLOSED A5 notebook + SAME ONE pen only
+- all other desk evidence remains fixed
 
 SMALL BLACK GUTTER.
 
 ==================================================
-V142 — RETURN / SAME CHAIR / ESTABLISH NOTEBOOK ZONE — FULL BLUEPRINT
+V142 — REAL DESK→DINING RETURN / SAME CHAIR / COLLISION-FREE NOTEBOOK ZONE — FULL BLUEPRINT
 ==================================================
-A. ROUTE
-- Nari walks desk→dining without disturbing evidence
+A. REAL RETURN ROUTE
+- Nari carries SAME CLOSED A5 notebook + SAME pen
+- walks canonical desk→dining route
+- route clears all fixed evidence and furniture
+- no teleport or prop contact
 
-B. SAME CHAIR
-- approaches untouched chair
-- turns/lowers hips through real sitting mechanics
-- feet floor-supported
+B. SAME CHAIR RETURN
+1. Nari approaches SAME formerly untouched burgundy chair used in Strip 029/V138–V139
+2. pushed Hyun-woo chair remains untouched at exact displaced position
+3. Nari turns/positions body naturally
+4. knees/hips lower through real sitting mechanics
+5. hips make actual seat contact/support
+6. both bare feet become/remain floor-supported
+7. chair remains same location/orientation
 
-C. NOTEBOOK PLACEMENT
-- choose a real clear Nari-side tabletop area within reach
-- must fit true A5 notebook + pen without moving NOODLE POT/trivet/handle/cloth, packet/wrapper, used/clean chopsticks, table edge
-- notebook contacts table flat
-- fully supported
-- fingers release
+C. ESTABLISH NOTEBOOK ZONE — COLLISION TEST
+- choose ONE real clear Nari-side tabletop area within comfortable reach
+- true A5 notebook + pen MUST fit without moving, overlapping, clipping, covering, or displacing:
+  1. NOODLE POT
+  2. trivet/heat-safe cloth
+  3. pot handle/hot-handle cloth side
+  4. packet
+  5. seasoning wrapper
+  6. SAME used chopstick pair
+  7. SAME clean Nari chopstick pair
+  8. candle
+  9. ceramic candle holder
+  10. table edge
+- do NOT slide food/evidence aside to manufacture room
 
-D. PEN PLACEMENT
-- same pen contacts table beside notebook
-- fingers release
+D. NOTEBOOK PLACEMENT
+1. SAME CLOSED A5 notebook lowers to chosen clear area
+2. notebook base makes real tabletop contact
+3. notebook becomes fully supported and lies flat
+4. establish exact location/orientation, production-only NOTEBOOK ZONE
+5. freeze notebook top/bottom/spine orientation for Strip 031
+6. fingers release only after support exists
+7. notebook remains CLOSED
 
-ORIENTATION:
-- freeze notebook top/bottom/spine orientation for Strip 031
-- keep CLOSED
+E. PEN PLACEMENT
+1. SAME pen lowers to a real clear adjacent support position beside notebook
+2. pen contacts tabletop and becomes fully supported
+3. establish exact pen position/orientation
+4. fingers release only after support exists
 
-END / SEAM:
-Strip 031 begins exact closed notebook/pen/table/cabinet/TV states.
+NO notebook opening.
+NO writing.
+NO page text yet.
+
+END / EXACT SEAM INTO STRIP 031:
+- Unit supplied mains ON at canonical powered baseline
+- Nari BAREFOOT and seated in SAME formerly untouched burgundy chair with real seat support
+- both bare feet floor-supported
+- pushed Hyun-woo chair remains exact displaced position/angle
+- SAME CLOSED A5 notebook lies flat at exact NOTEBOOK ZONE with frozen top/bottom/spine orientation
+- SAME ONE pen lies fully supported at exact adjacent clear table position/orientation
+- NO writing/opening has occurred
+- NOODLE POT remains exact post-one-additional-Nari-bite quantity on same trivet/cloth
+- packet + seasoning wrapper remain exact positions
+- SAME used chopstick pair remains fixed at SAME existing NOODLE POT-rim / adjacent table-support position
+- SAME clean Nari pair remains fixed at exact Nari-side table position
+- exactly TWO chopstick pairs total; NO separate chopstick-rest object
+- candle remains fully extinguished
+- pantry remains exactly FIVE unopened packets
+- open speaker-storage cabinet remains exact V128 angle
+- STORAGE STOCKPOT same support plane
+- lid exact V129 adjacent supported position/orientation
+- TOWEL2 folded back once
+- SAME speaker visible on TOWEL1
+- attached cord intact
+- loose wall plug remains unplugged/contained; outlet empty
+- SAME speaker remains sole Hyun-woo voice source
+- SAME phone remains exact COUNTER SPOT
+- practical knife remains fully sheathed at exact V134 desk/tray position
+- flashlight/radio remain OFF and untouched
+- binder remains CLOSED at established counter position
+- tablet remains untouched if visible
+- brass key untouched in entry tray
+- front door CLOSED/LATCHED
+- TV remains physically wall-unplugged and inactive
+- refrigerator remains ordinary powered baseline
+- no physical/reflected/shadow/holographic Hyun-woo
+
+Strip 031 must begin from this exact SAME-chair + CLOSED NOTEBOOK ZONE + pen + table evidence + two-pot/two-chopstick + open-speaker-stack + phone COUNTER SPOT + sheathed-knife/failed-tools + wall-unplugged-TV powered state.
 
 ==================================================
 EXACT TEXT ONLY
@@ -174,7 +404,7 @@ No narration, no silence text, no extra readable text.
 ==================================================
 FINAL REJECT
 ==================================================
-Reject if production labels render; retired Nari design returns; speaker voice/silence source moves; physical/reflected/shadow Hyun-woo appears; notebook/pen resize/fuse/float; table evidence moved to create space; wrong/pushed chair used; stand/sit/route teleports; STORAGE POT/NOODLE POT merge; open cabinet/TV states reset; notebook opens/writing begins early; room scale changes; glossy/cinematic/photoreal/3D style appears; text hides source/placement proof; gutters missing/oversized; dead bottom appears.
+Reject if production labels render; retired Nari design returns; Nari gains shoes/slippers/socks/other footwear; retired `pot rest` wording is realized as a separate chopstick-rest object; either chopstick pair moves/merges/duplicates or third pair appears; STORAGE STOCKPOT/NOODLE POT merge/swap/resize/duplicate; NOODLE POT quantity resets/refills/changes; speaker silence/voice source moves; new/non-canonical indicator response appears; physical/reflected/shadow/holographic Hyun-woo appears; V140 claims feet gain support from unsupported state or uses teleport stand mechanics; wrong/pushed chair used; dining→desk or desk→dining route contacts/moves evidence; notebook/pen resize/fuse/float/duplicate; notebook/pen pickup lacks real support transfer; sheathed knife/flashlight/radio/tablet move during pickup; extra writing tool appears; table evidence/candle moves to create notebook space; notebook overlaps food/packet/wrapper/chopsticks/candle/table edge; notebook opens or writing begins early; NOTEBOOK ZONE location/orientation resets; open cabinet/lid/towel/speaker/cord/plug state resets or loose plug reconnects; phone leaves COUNTER SPOT; binder opens/moves; TV wall-unplug state resets; room/object scale changes; glossy/neon/cinematic/photoreal/3D style appears; text hides silence/route/placement proof; gutters missing/oversized; dead bottom appears.
 ```
 
 ## Production Thread Attachments — EXACT SET
