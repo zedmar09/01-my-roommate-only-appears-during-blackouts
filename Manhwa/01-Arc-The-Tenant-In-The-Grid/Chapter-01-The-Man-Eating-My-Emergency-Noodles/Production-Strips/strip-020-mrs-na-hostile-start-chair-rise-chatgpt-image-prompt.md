@@ -46,6 +46,33 @@ END:
 - no table/packet/prop movement
 
 ==================================================
+FINAL PERFORMANCE / RELATIVE-HEIGHT LOCK — NON-NEGOTIABLE
+==================================================
+
+V90–V91 continue the same interrogation tone from Strip 019:
+- Nari = wary, skeptical, defensive, but controlled; knife remains low rather than thrust forward
+- Hyun-woo = guarded/calm/dry while seated; not smiling smugly, raging, threatening theatrically, or acting romantically dominant
+- dialogue alone does not reset shoulders/hips/feet or invent new gestures
+
+V92 hostile refrigerator onset:
+- this is the CAUSE for Hyun-woo's performance change
+- Hyun-woo's attention sharpens toward the actual fridge; expression/eyes become alert/protective
+- Nari registers the same environmental threat with increased tension but remains at her fixed mark
+- neither character performs a full-body reposition before V93
+
+V93 rise:
+- Hyun-woo rises because the hostile event has become dangerous, not to intimidate Nari
+- performance = focused protective urgency, not villain rage, aggressive lunge, chest-puff dominance or dramatic combat pose
+- arms/hands remain in a plausible neutral/protective-ready state unless the prompt explicitly assigns a later action; do not invent fist-clenching, pointing or grabbing
+
+RELATIVE HEIGHT / BUILD:
+- while seated, Hyun-woo's broad canonical build is already visible relative to chair/table
+- as he physically stands, his canonical TALLER/BROADER relation to medium-height/slim Nari becomes clear on the SAME floor plane
+- do not artificially enlarge his head/torso/shoulders in V93; the apparent change comes from seated→standing mechanics only
+- do not shrink Nari or chair to exaggerate him
+- once both are upright, preserve this same world-space height/build relationship through Strips 021–025 until Hyun-woo disappears
+
+==================================================
 CHAIR PUSH CLEARANCE / FLOOR MECHANICS — NON-NEGOTIABLE
 ==================================================
 
@@ -100,7 +127,7 @@ SAFE MARGIN:
 A chair technically present but too tiny to verify seated→push→stand mechanics = automatic rejection.
 
 ==================================================
-PERSPECTIVE / FLOOR-PLANE INTEGRITY — ABSOLUTE
+PERSPECTIVE / FLOOR-PLANE / BODY-FACING INTEGRITY — ABSOLUTE
 ==================================================
 
 Use ordinary non-fisheye manhwa perspective.
@@ -108,6 +135,8 @@ Use ordinary non-fisheye manhwa perspective.
 - do not enlarge Hyun-woo's upper body while shrinking chair/legs to fake a rise
 - chair legs and both characters' feet remain on the same consistent floor plane
 - camera angle may change, but world-space chair displacement remains the same
+- Hyun-woo seated torso orientation remains compatible with the chair; his rise does not silently spin him 180°
+- Nari shoulders/hips/feet remain at the same mark and facing relationship; head/eyes may react to fridge/Hyun-woo without a full-body turn
 
 ==================================================
 SEATED / STANDING DEPTH PROOF — ABSOLUTE
@@ -121,7 +150,7 @@ Close-ups cannot create a duplicate chair or show chair already displaced while 
 NARI STATIONARY STATE — ABSOLUTE
 ==================================================
 
-STEP FOOT/trailing foot remain same marks; packet remains near STEP FOOT. Knife low same hand; worn state unchanged. Reverse shots may not swap anatomical side or move Nari to make room for chair.
+STEP FOOT/trailing foot remain same marks; packet remains near STEP FOOT. Knife low same hand; worn state unchanged. Reverse shots may not swap anatomical side, emotional state or move Nari to make room for chair.
 
 ==================================================
 DINING SCALE / TOPOLOGY — ABSOLUTE
@@ -153,7 +182,7 @@ Within V93, `SKRRK` visually belongs to chair-leg movement, not after he is alre
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Dialogue, `KZZT`, `SKRRK` must not cover seated-seat contact, chair leg path, floor clearance, chair final position, Nari packet/foot relation, or fridge source.
+Dialogue, `KZZT`, `SKRRK` must not cover seated-seat contact, chair leg path, floor clearance, chair final position, Nari packet/foot relation, fridge source or relative-height proof.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -188,7 +217,7 @@ Hyun-woo notices; remains seated.
 SMALL BLACK GUTTER.
 
 V93 — REAL CHAIR PUSH / RISE
-Execute exact clearance/body mechanics.
+Execute exact clearance/body mechanics and preserve canon-compatible tall/broad relation without forced scale change.
 SFX at real chair-leg/floor motion:
 `SKRRK`
 No movement around table yet.
@@ -197,11 +226,15 @@ No movement around table yet.
 SEAM
 ==================================================
 
-Strip021 begins Hyun-woo standing immediately beside exact pushed-back chair, Nari unchanged, dining topology stable.
+Strip021 begins Hyun-woo standing immediately beside exact pushed-back chair with SAME tall/broad world-space relation to Nari, focused protective urgency, Nari unchanged at her mark, dining topology stable.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - refs/geometry/scale drift
+- Nari emotional state/pose resets or moves without cause
+- Hyun-woo performance flips to villain rage/smug dominance/romantic looming instead of focused protective urgency
+- Hyun-woo relative height/build changes through camera scaling rather than physical rise
+- Nari is shrunk to exaggerate Hyun-woo
 - fisheye/forced perspective bends dining geometry or fakes chair displacement/body proportions
 - Nari moves
 - Hyunwoo stands before V93
@@ -212,7 +245,7 @@ AUTOMATIC REJECT IF
 - `SKRRK` reads before chair motion or after the rise is already complete
 - candle/light shadow direction jumps without physical cause or fridge becomes a room light
 - readable fridge words early
-- text hides chair mechanics
+- text hides chair mechanics/relative-scale proof
 - invented narration
 ```
 
