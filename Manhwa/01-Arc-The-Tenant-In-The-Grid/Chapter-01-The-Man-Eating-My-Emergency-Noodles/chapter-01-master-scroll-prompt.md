@@ -24,6 +24,9 @@ CANONICAL CONTINUITY STACK
 4. approved reusable environment WebP(s)
 5. approved reusable object WebP(s)
 6. previous approved rendered strip temporary state
+7. canon-compatible derived micro-detail for chapter continuity only
+
+Previous rendered strip and derived micro-detail never override permanent canonical WebPs.
 
 REUSABLE REFERENCES
 Environment: `Manhwa/Environment-References/Unit-2407/`, `Manhwa/Environment-References/Building-Shared-Areas/`.
@@ -52,7 +55,20 @@ Blackout, candle, rain, and device effects remain controlled flat shapes/contain
 A previous strip may control temporary continuity but may NEVER propagate style drift against `Manhwa/style-guide.md`.
 
 REAL-SCENARIO CONTINUITY
-All movement, carried-object routes, prop counts, room axes, device states, power states, and dialogue/SFX ownership must remain physically coherent across all 32 strips. Follow `chapter-01-real-scenario-continuity-audit.md` and generation checklist.
+All movement, carried-object routes, prop counts, room axes, device states, power states, anatomical-side identities, worn accessories, and dialogue/SFX ownership must remain physically coherent across all 32 strips. Follow `chapter-01-real-scenario-continuity-audit.md` and generation checklist.
+
+SAME-OBJECT REPRESENTATION
+Close-ups/insets/device/page/plug details are views of the SAME physical object unless the script establishes another object. Same-moment wide/detail states must agree. Do not create duplicate keys, plugs, phones, knives, binders, notebooks, props, or characters through representational inserts.
+
+LEGAL TIME CUTS
+Time passage may change mundane noncritical clutter, but story-critical evidence required afterward must persist or receive one explicit plausible post-cut state. A time cut never resets canon or creates a second copy.
+
+ANATOMICAL-SIDE / WORN-STATE CONTINUITY
+When a strip defines a temporary production-only side identity such as KNIFE HAND, PHONE HAND, SCRUNCHIE WRIST, STEP FOOT, CANDLE FOOT, BAG SHOULDER, UMBRELLA HAND, or PHONE POCKET, preserve that physical anatomical side across reverse shots until visible transfer/release/expiry. These labels never render.
+Established worn accessories remain on the same body location unless visibly moved.
+
+LETTERING EVIDENCE SAFETY
+Speech balloons/tails, narration, device text, handwriting, and SFX must never cover the physical evidence required to understand contact/action continuity. Reflow lettering/composition rather than hide plug/socket, key, knife, chair, cabinet, candle, food, packet, phone/notebook, or route evidence.
 
 SFX / LETTERING
 For every sound verify PHYSICAL SOURCE → ACTION → SOUND → TIMING → PLACEMENT and any state change/consequence. Preserve exact scripted wording/source/type. Never invent filler SFX and never print production metadata.
@@ -70,17 +86,23 @@ FINAL APPROVAL RULE
 Do not declare Chapter 1 production-complete from prompts/reference availability alone. Final approval requires all 32 rendered strips, sequential visual QA, seam/stitch QA, and a fresh clean-room visual audit proving strict flat 2D human-drawn compliance with zero unresolved mandatory defects.
 ```
 
-## Deep-Hardening Binding Note — Absolute
+## Fifth Deep-Hardening Binding Note — Absolute
 
-The current Strip 001–032 prompts have been rewritten under the full `manhwa-2d-production-auditor` hardening pass. Their stricter per-strip rules are binding and override any looser generic wording above.
+The current Strip 001–032 prompts have been rewritten and clean-room audited through the **fifth** `manhwa-2d-production-auditor` hardening pass. Their stricter per-strip rules are binding and override any looser generic wording above.
 
-In particular, production must obey all of the following:
-- attached approved WebPs are binding identity / geometry / object authorities, never loose inspiration
-- every strip's `START / ALLOWED CHANGE / END` state ledger is mandatory
-- adjacent vertical slices preserve hands, held objects, food/noodles, chopsticks, props, chair state, power state, and other micro-continuity unless a visible action changes them
-- `unplugged` means the electrical plug is removed from the **wall-mounted socket/outlet** while the appliance-side cord stays attached; the loose plug and empty wall socket remain physically consistent until an explicit re-plug action
-- narration treatment must follow the current scenario/event function rather than reuse one identical box design everywhere
-- `V01`, `V-01`, P numbers, strip/beat/panel/scene/shot labels, and all other production metadata are forbidden in reader-facing art, especially at the top-left of a vertical slice
-- if a desired camera/action conflicts with an attached reference, recompose the camera/action; never modify canon to make generation easier
+Production must obey all of the following:
+- attached approved WebPs are permanent identity / geometry / object authorities, never loose inspiration
+- previous approved strip controls temporary state only; derived micro-details are temporary chapter continuity only; neither overrides canon
+- every strip's `START / ALLOWED CHANGE / END` ledger is mandatory
+- every continuity-critical action uses one physically coherent mechanism and must visibly prove its contact/action/result
+- adjacent slices preserve hands, anatomical side, worn accessories, held objects, food/noodles, chopsticks, props, feet, chair state, power state, and other micro-continuity unless a visible/legal change occurs
+- a close-up/inset is the SAME object/person, not an additional physical copy; same-moment states must agree
+- `unplugged` means plug BODY removed from the wall-mounted socket while appliance-side cord stays attached; loose plug + empty socket persist until explicit re-plug
+- derived outlet/storage details remain subordinate to canonical environment geometry
+- legal time cuts cannot erase story-critical evidence needed by the following scene
+- narration treatment follows scenario/event function rather than one repeated box design
+- reader-facing text cannot cover continuity-critical evidence/action proof
+- `V01`, `V-01`, P numbers, strip/beat/panel/scene/shot/QA IDs, and temporary-state labels such as `KNIFE HAND`, `STEP FOOT`, or `NOTEBOOK ZONE` are forbidden in reader-facing art
+- if desired camera/action conflicts with an attached reference, recompose; never modify canon to make generation easier
 
-Previously rejected or unhardened rendered attempts are not approved previous-strip continuity authorities. Retesting begins from Strip 001 under the current hardened prompt package.
+Previously rejected or pre-fifth rendered attempts are not approved previous-strip continuity authorities. Retesting begins from Strip 001 under the current fifth-pass package.
