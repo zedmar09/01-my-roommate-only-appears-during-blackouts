@@ -39,24 +39,22 @@ REFERENCE PRIORITY
 Current user instruction > story/current strip > approved character > approved environment > approved object > current hardened prompt > previous approved strip temporary state > canon-compatible derived micro-detail.
 
 LEGAL TIME / LOCATION CUT — ABSOLUTE
-State what a cut may change and what evidence/identity persists. Time passage never resets permanent character identity/canon.
+State what a cut may change and what evidence/identity persists. A legal cut may establish a new temporary pose or clothing-layer state, but never resets permanent canon/evidence.
 
 START STATE — ABSOLUTE
-List exact character pose/facing/feet/hands, worn accessories + side, body/wardrobe identity, object locations/counts/orientation/scale, food/props, cords/plugs/sockets, doors/cabinets, chairs/support, power/light/device state and previous seam state.
+List exact character pose/facing/feet/hands, emotional intensity, gesture, relative character scale, clothing-layer state, worn accessories + side, body/wardrobe identity, object locations/counts/orientation/scale, food/props, cords/plugs/sockets, doors/cabinets, chairs/support, power/light/device state and previous seam state.
 
 ALLOWED CHANGES — ABSOLUTE
-List only physical changes allowed. Anything not listed stays unchanged.
+List only physical/performance changes allowed. Anything not listed stays unchanged.
 
 DETERMINISTIC SINGLE-MECHANISM — ABSOLUTE
 Choose ONE physically authoritative solution for each continuity-critical action.
 
 END STATE — ABSOLUTE
-List exact state carried to next strip.
+List exact physical + performance state carried to next strip.
 
 WHOLE-BODY ANATOMICAL TOPOLOGY — ABSOLUTE
-Every character is one physically coherent human body.
-Reject extra/missing/duplicated limbs/body parts, detached hands/feet/ears/hair masses, impossible joints, impossible shoulder/arm or pelvis/leg connection, or close-up limb incompatible with adjacent wide-shot body.
-Partial occlusion is allowed only when hidden connections remain physically possible.
+Every character is one physically coherent human body. Reject extra/missing/duplicated limbs/body parts, detached hands/feet/ears/hair masses, impossible joints, impossible shoulder/arm or pelvis/leg connection, or close-up limb incompatible with adjacent wide-shot body. Partial occlusion is allowed only when hidden connections remain physically possible.
 
 LIMB OWNERSHIP / ANATOMICAL SIDE — ABSOLUTE
 A close-up hand/wrist/foot/arm/leg belongs to the SAME character and SAME physical side established by adjacent views. Preserve sleeve/glove/tattoo/scrunchie/body cues when ownership matters. Reverse shot may flip screen side; anatomical ownership may not.
@@ -73,6 +71,29 @@ Never mirror a permanent landmark because the camera reverses.
 FACE / AGE / BUILD / HAIR IDENTITY — ABSOLUTE
 Close-ups/expressions/lighting may not recast the character. Preserve canonical face proportions, age, hair length/part/tie/fringe, height/build and permanent marks/accessories.
 
+POSE-STATE CONSERVATION — ABSOLUTE
+A camera cut is not a pose reset.
+Track standing/seated/crouched/kneeling/walking/leaning/shielding state, weight-bearing legs, shoulders/hips/torso facing, head orientation, elbow/arm/hand gesture, spine lean, feet and center of mass.
+If only head/eyes turn, shoulders/hips/feet remain. A new full-body turn, stance or gesture must be visibly staged or occur at a legal cut.
+
+BODY-FACING / SHOULDER-HIP AXIS — ABSOLUTE
+Stationary dialogue/action preserves story-world shoulder/sternum/hip/foot direction. Reverse shots may flip the page but not silently rotate the body. Head rotation may differ within believable neck range only. If a turn needs re-planted feet/chair support, show it.
+
+RELATIVE HEIGHT / BUILD — ABSOLUTE
+Preserve canon-compatible world-space relationships on the same floor plane. Perspective changes apparent screen size only. Do not resize one character for romance, intimidation, comedy or dramatic framing.
+
+EXPRESSION / EMOTION CONTINUITY — ABSOLUTE
+Carry emotional intensity through adjacent slices/seams unless the story creates a real cause for change. Avoid random smile/panic/anger/blank resets, unscripted tears/screams/chibi shock/villain smirks/romantic glamour. Use grounded adult performance matching the event.
+
+GESTURE CONTINUITY — ABSOLUTE
+Pointing, shielding, phone hold, hand-to-ear, knife-low, object-contact, notebook/pen and similar gestures remain until visibly changed/released. Never invent a gesture that conflicts with occupied hands or fixed props.
+
+CLOTHING-LAYER / CLOSURE STATE — ABSOLUTE
+Within one continuous scene preserve jacket/coat present/absent, open/closed state where visible, hood up/down, sleeve state, bag worn/removed, headphones position, mask seated/lowered state. Reverse shots cannot silently alter them.
+
+HAIR / GARMENT MOTION — ABSOLUTE
+Flexible motion may sway hair/clothing naturally but cannot redesign length/part/tie/volume or garment construction. Motion cannot hide an unperformed body turn.
+
 WARDROBE / LOCAL-COLOR / MATERIAL IDENTITY — ABSOLUTE
 Within one continuous scene preserve clothing construction, signature colors and matte material identity unless a scripted/legal wardrobe change says otherwise. Lighting can change value, not identity hue/material.
 
@@ -84,7 +105,7 @@ Visible acting must agree with line ownership. Listener does not mouth speaker's
 
 MICRO-CONTINUITY — ABSOLUTE
 Visible story state persists slice X→X+1 unless visible/legal change occurs. Occlusion is not disappearance.
-Track hands, feet, body topology, facial landmarks, hair/wardrobe, worn accessories, food/noodles, pots/chopsticks/packets, cords/plugs/sockets, key/manual/note/pen/notebook, phone/tablet/bag/pockets, knife/sheath, candle, chair, cabinet/stockpot/lid/towels/speaker, facing/distance/depth/power/device state.
+Track hands, feet, pose/facing, emotion/gesture, relative character scale, clothing-layer state, body topology, facial landmarks, hair/wardrobe, worn accessories, food/noodles, pots/chopsticks/packets, cords/plugs/sockets, key/manual/note/pen/notebook, phone/tablet/bag/pockets, knife/sheath, candle, chair, cabinet/stockpot/lid/towels/speaker, distance/depth/power/device state.
 
 TEMPORARY ANATOMICAL-SIDE IDENTITY — WHEN APPLICABLE
 Use production-only identities such as KNIFE HAND / PHONE HAND / WRITING HAND / SCRUNCHIE WRIST / STEP FOOT / CANDLE FOOT / BAG SHOULDER / UMBRELLA HAND / PHONE POCKET where reverse-shot drift could break continuity. Never render labels.
@@ -156,7 +177,7 @@ WALL-SOCKET RULE — WHEN APPLICABLE
 `unplug` = plug BODY removed from WALL-MOUNTED outlet; appliance-side cord remains attached. Proof includes enough wall context and same continuous cord; loose plug obeys gravity/no-clipping.
 
 LETTERING / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
-Reader-facing text cannot cover proof, character identity landmarks/body topology, or reorder causal events.
+Reader-facing text cannot cover proof, character identity/pose landmarks or reorder causal events.
 
 STRICT FLAT 2D HUMAN-DRAWN STYLE — ABSOLUTE
 Strict flat 2D human-drawn Korean manhwa/webtoon. Clean line art, flat colors, restrained hard-edged cel shading, matte materials, stable anatomy and mobile readability. No photoreal/3D/glossy/cinematic/painterly/airbrushed/over-rendered output.
@@ -165,7 +186,7 @@ NARRATION DESIGN BY SCENARIO — ABSOLUTE
 Keep wording exact; treatment/placement follows beat function, not one repeated top-left box. Narration is not mouthed as dialogue.
 
 SEAM IN
-State exact continuing anchors.
+State exact continuing anchors, including pose/facing/emotional intensity/relative scale/clothing-layer state when applicable.
 
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 Every distinct vertical slice gets small black gutter; side-by-side views use diagonal/slanted divider. Nothing important crosses slash. No giant filler band.
@@ -183,7 +204,7 @@ NO DEAD BOTTOM — ABSOLUTE
 No giant unused tail or invented filler.
 
 SEAM OUT
-Define exact next-strip state.
+Define exact next-strip physical + performance state.
 
 AUTOMATIC REJECT IF
 - wrong/missing/unapproved attachment
@@ -192,6 +213,13 @@ AUTOMATIC REJECT IF
 - contradictory physical alternatives
 - teleporting movement/object transfer
 - adjacent state disappears
+- pose/body-facing silently resets at camera cut
+- relative character height/build changes without physical/perspective cause
+- emotional intensity resets/jumps without story cause
+- gesture changes/disappears without visible release/change
+- clothing-layer/hood/sleeve/bag/mask state changes without action/legal cut
+- hair/garment motion becomes a redesign
+- strip seam forgets inherited pose/facing/emotional state
 - extra/missing/duplicated limb/body part or impossible joint/body connection
 - close-up limb belongs to wrong character/side or cannot connect to adjacent body
 - permanent face mark/tattoo/accessory landmark mirrors/migrates/disappears
@@ -218,7 +246,7 @@ AUTOMATIC REJECT IF
 - offscreen audio wrong source
 - prop topology swaps
 - impossible route/support/collision
-- lettering hides evidence/identity
+- lettering hides evidence/identity/pose
 - appliance-side cable removed instead of wall plug
 - silent re-plug
 - any production/temp-state label appears
