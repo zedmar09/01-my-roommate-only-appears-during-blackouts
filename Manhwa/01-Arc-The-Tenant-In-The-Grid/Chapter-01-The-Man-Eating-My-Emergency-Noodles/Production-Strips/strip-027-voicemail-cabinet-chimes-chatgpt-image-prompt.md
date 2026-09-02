@@ -1,166 +1,174 @@
-# Strip 027 — Mrs. Na Voicemail / Cabinet Chimes
+# Strip 027 — Mrs. Na Voicemail / Cabinet Chimes — FINAL DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing SAME powered entry-area sequence from APPROVED Strip 026.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME powered entry-area sequence from the APPROVED rendered Strip 026.
+
+THIS IS NOT A PAGE. Never render V124–V127, Strip 027, PHONE HAND labels, filenames, QA notes, or production metadata.
 
 PRODUCTION SCOPE
-V124–V127. Historical P16 mapping only.
-
-ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-- `Manhwa/Object-References/tv-canonical-reference.webp`
-- APPROVED Strip 026
-- this Strip 027 prompt
-
-Do NOT attach Hyun-woo.
+V124–V127 only.
 
 ==================================================
-REFERENCE / START STATE — ABSOLUTE
+ATTACH — REQUIRED — EXACT SET
 ==================================================
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-entry-living-wide-reference.webp`
+4. `unit-2407-fridge-cabinet-zone-detail-reference.webp`
+5. `unit-2407-lighting-state-sheet-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `tv-canonical-reference.webp`
+8. APPROVED rendered Strip 026 image
 
-Attached canonical WebPs permanent authority. APPROVED Strip026 controls temporary Nari/PHONE HAND/evidence/worn state only.
-Preserve powered Unit geometry, entry→kitchen depth, PHONE HAND, SCRUNCHIE WRIST, headphones, same phone, lower speaker-storage cabinet location/door, TV/evidence states.
-Never render V124–V127/P16/Strip027/temp-state labels.
+Do NOT attach Hyun-woo. Missing authority = STOP.
+
+==================================================
+CURRENT CANON / START STATE
+==================================================
+Current WebPs permanently control Nari/Unit/TV. APPROVED Strip 026 temporarily controls Nari's exact entry-side position, persistent phone hand, closed door, evidence states, and powered lighting.
+
+CURRENT NARI WEBP WINS. Never restore retired old-Nari dark-plum hair, mouth beauty mark, yellow scrunchie, headphones-around-neck identity, or old outfit design.
 
 START:
 - Nari entry-side after security call
-- SAME phone SAME PHONE HAND
-- worn state unchanged
-- SAME lower speaker-storage cabinet CLOSED
-- hidden pot/towels/unplugged speaker inside/invisible
+- same phone in same persistent hand
+- same current night clothing/accessory state
+- lower speaker-storage cabinet CLOSED
+- hidden pot/towels/unplugged speaker inside and invisible
 - TV wall-unplugged
 - encounter evidence unchanged
 
-ALLOWED CHANGES:
-- voicemail system audio + Nari message on SAME phone
-- after message ends, exactly two `MFF-CHIME` sounds from SAME CLOSED lower cabinet
-- Nari freezes/turns/orients toward actual cabinet direction, but does not cross room/kneel/touch/open
-- PHONE HAND keeps phone
-
 END:
-- Nari entry-side/oriented kitchen
-- phone SAME PHONE HAND
-- cabinet CLOSED; speaker invisible
-- second chime completed; evidence/power unchanged
+- Nari still entry-side, body/head oriented toward kitchen/cabinet
+- phone same hand
+- cabinet CLOSED
+- exactly two chimes completed from same source
+- speaker still invisible
 
 ==================================================
-PHONE GRIP / PHONE SCREEN PLANE — ABSOLUTE
+HEIGHT / SOURCE DIRECTION / WORLD SCALE
 ==================================================
+Approximate height:
+V124 voicemail system 18% | V125 Nari message 22% | V126 first chime 29% | V127 second chime/reaction 31%.
 
-SAME phone remains supported by PHONE HAND with a usable palm/finger grip; no floating/fused fingers or hand transfer.
-Any voicemail/call UI exists only on the SAME physical phone screen and follows its screen plane/perspective. Do not float voicemail graphics/text over the room.
-
-==================================================
-CABINET CHIME SOURCE DIRECTION — NON-NEGOTIABLE
-==================================================
-
-Both `MFF-CHIME` sounds originate from the SAME physical closed lower cabinet.
-
-Sequence:
-1. voicemail/audio ends
-2. first chime originates at actual cabinet story-world position
-3. SFX placement/direction points to that cabinet, not phone/fridge/TV/wall/ceiling
-4. Nari's head/eyes/upper torso turn toward the real cabinet direction while feet remain entry-side
-5. second chime comes from SAME cabinet/source position
-6. Nari's gaze stays toward that real cabinet
-
-Reverse camera may flip screen-left/right but cannot move the sound source to another wall/cabinet or make Nari look away from the actual cabinet.
-Do not center `MFF-CHIME` ambiguously in the page without spatial source cues.
+- cabinet remains normal lower-cabinet scale/location
+- phone remains handheld scale
+- sound direction must map entry-side Nari → actual kitchen/fridge cabinet zone
+- no Nari teleport toward cabinet in this strip
 
 ==================================================
-CLOSED-CABINET / OCCLUSION RULE — ABSOLUTE
+V124 — VOICEMAIL SYSTEM — FULL BLUEPRINT
 ==================================================
+CAMERA: entry-side Nari with same phone held naturally; door/entry anchors preserve location.
 
-Cabinet door remains CLOSED throughout Strip027.
-- interior speaker/stockpot/towels/plug are physically occluded and must NOT appear through door as X-ray/transparency
-- a cabinet close-up is the SAME closed cabinet, not a cutaway exposing contents
-- no reflected speaker/person appears on cabinet surface
-- the chime is audio evidence only; it does not authorize visible interior contents
-
-==================================================
-REFLECTION / FALSE-FIGURE BAN — ABSOLUTE
-==================================================
-
-Phone, TV, windows/cabinet/appliance surfaces may not show reflected Hyun-woo, Nari duplicate, unknown face/hand/silhouette or visible hidden speaker through reflection.
-No physical Hyun-woo appears while power is on.
-
-==================================================
-BODY / WORN ATTACHMENT — ABSOLUTE
-==================================================
-
-Nari may rotate head/torso only. Scrunchie physically encircles SAME wrist; headphones physically rest around neck/hoodie without clipping/floating. Feet do not teleport cabinet-side.
-
-==================================================
-TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
-==================================================
-
-Phone audio/text, `BEEP`, `MFF-CHIME` must not cover PHONE HAND ownership, closed cabinet door/hinge/source direction or entry→kitchen geometry.
-
-==================================================
-VERTICAL STORY FLOW
-==================================================
-
-V124 — VOICEMAIL
 PHONE SYSTEM AUDIO:
 `PLEASE LEAVE A MESSAGE AFTER THE TONE.`
-SFX at same phone:
+
+SFX at SAME phone:
 `BEEP`
+
+RULES:
+- voicemail/call UI only on actual phone screen if visible
+- no floating voicemail card
+- same persistent hand grip
+
+END:
+- tone complete; Nari begins message
 
 SMALL BLACK GUTTER.
 
-V125 — NARI MESSAGE
+==================================================
+V125 — NARI VOICEMAIL MESSAGE — FULL BLUEPRINT
+==================================================
 NARI:
 `MRS. NA, CALL ME BACK.`
 NARI:
 `I NEED TO KNOW WHAT'S GOING ON IN THIS APARTMENT.`
 
+PERFORMANCE:
+- shaken but functional, urgent
+- speaking into same phone
+- feet remain entry-side
+
+END:
+- message finishes before any cabinet sound
+
 SMALL BLACK GUTTER.
 
-V126 — FIRST CABINET CHIME
-After message ends, from SAME CLOSED cabinet:
+==================================================
+V126 — FIRST SAME-CABINET CHIME — FULL BLUEPRINT
+==================================================
+SOUND SOURCE:
+- exact CLOSED lower speaker-storage cabinet in canonical fridge/cabinet zone
+- NOT phone, fridge display, TV, wall, ceiling, or generic offscreen void
+
+SFX:
 `MFF-CHIME`
-Nari turns toward actual cabinet direction. Phone remains PHONE HAND.
+
+NARI REACTION:
+- phone remains same hand
+- head/eyes/upper torso turn toward actual cabinet direction
+- feet stay entry-side
+- no kneel/walk/reach yet
+
+CABINET:
+- remains visibly CLOSED if shown
+- no X-ray/cutaway/transparency
+- hidden speaker/pot/towels/plug remain completely occluded
+
+END:
+- Nari frozen toward same source
 
 SMALL BLACK GUTTER.
 
-V127 — SECOND SAME-SOURCE CHIME
-From SAME CLOSED cabinet:
+==================================================
+V127 — SECOND SAME-SOURCE CHIME / `...NO.` — FULL BLUEPRINT
+==================================================
+SFX from EXACT SAME CLOSED cabinet position:
 `MFF-CHIME`
+
 NARI:
 `...NO.`
-No kneel/open yet.
+
+CAMERA:
+- preserve entry→kitchen depth so reader can understand where the sound came from
+- Nari gaze remains on actual cabinet direction
+- no close-up that makes source spatially ambiguous unless paired with environment anchor
+
+NO:
+- cabinet opening
+- speaker visible through door
+- physical Hyun-woo
+- kneeling/reaching/walking yet
+
+END / SEAM:
+Strip 028 begins from same orientation and must show real approach → phone release → kneel → cabinet opening.
 
 ==================================================
-SEAM
+EXACT TEXT ONLY
 ==================================================
+`PLEASE LEAVE A MESSAGE AFTER THE TONE.`
+`BEEP`
+`MRS. NA, CALL ME BACK.`
+`I NEED TO KNOW WHAT'S GOING ON IN THIS APARTMENT.`
+`MFF-CHIME`
+`MFF-CHIME`
+`...NO.`
 
-Strip028 begins same orientation with phone PHONE HAND and must show approach→phone release→kneel→cabinet open. Worn/TV/evidence states persist.
+No narration or extra readable text.
 
-AUTOMATIC REJECT IF
-- production/temp-state label appears
-- refs/geometry drift
-- phone grip impossible/floating or screen UI floats off phone
-- cabinet opens/speaker/stockpot appears through closed door or cutaway/X-ray
-- first/second chime comes from different source or wrong device/wall
-- Nari gaze points away from actual cabinet / source moves between reverse shots
-- Nari teleports/kneels/reaches cabinet early
-- reflected/shadow duplicate human/hidden speaker appears
-- worn state clips/floats/changes
-- TV/evidence resets
-- text hides phone/cabinet-source evidence
-- invented narration/explanatory label
+==================================================
+FINAL REJECT
+==================================================
+Reject if production labels render; retired Nari design returns; phone switches hand/floats/duplicates; cabinet opens early; hidden contents visible through closed door; chimes come from different/wrong sources; Nari teleports/kneels/reaches cabinet early; gaze points wrong direction; Hyun-woo/reflected/shadow figure appears; TV/evidence state resets; room geometry/scale changes; glossy/cinematic/photoreal/3D style appears; text hides source evidence; gutters missing/oversized; dead bottom appears.
 ```
 
-## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-entry-living-wide-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-fridge-cabinet-zone-detail-reference.webp`
-5. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-6. `Manhwa/Object-References/tv-canonical-reference.webp`
-7. APPROVED Strip 026
-8. this Strip 027 prompt
+## Production Thread Attachments — EXACT SET
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-entry-living-wide-reference.webp`
+4. `unit-2407-fridge-cabinet-zone-detail-reference.webp`
+5. `unit-2407-lighting-state-sheet-reference.webp`
+6. `unit-2407-room-angle-atlas-reference.webp`
+7. `tv-canonical-reference.webp`
+8. APPROVED rendered Strip 026 image
