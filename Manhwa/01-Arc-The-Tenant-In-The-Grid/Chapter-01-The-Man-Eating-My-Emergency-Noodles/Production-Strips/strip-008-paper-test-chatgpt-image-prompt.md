@@ -57,132 +57,112 @@ END:
 CABINET / STOCKPOT / SPEAKER SCALE-AND-FIT — NON-NEGOTIABLE
 ==================================================
 
-Do NOT resize objects or cabinet to make the hiding action work.
-
-Use stable world-space sizes from attached references:
-- speaker retains canonical body height/diameter
-- cord/plug retain canonical thickness/plug size
-- stockpot retains ordinary established size
-- lid matches same pot diameter
-- two towels retain believable dish-towel thickness
-- cabinet retains exact referenced opening/interior volume; no expansion/deeper hidden cavity/new shelf
-
-Before committing the composition, verify the actual open cabinet volume can physically contain the SAME stockpot at stable scale and allow cabinet door to close. The stockpot must fit without clipping through cabinet wall/door/counter.
-Inside pot, speaker + cord + plug + two towels must fit beneath the matching lid without shrinking speaker, flattening plug, making towels paper-thin, enlarging pot, or letting solids occupy same volume.
-If one camera makes fit unclear, use detail/wide combination; do not alter scale.
+Do NOT resize objects or cabinet to make hiding work.
+Speaker, cord/plug, stockpot, lid, two towels, and cabinet keep stable referenced scale/volume. Pot rests on real cabinet support plane; lid must seat normally; speaker/cord/plug/towels must fit without clipping or occupying same solid volume.
 
 ==================================================
-CABINET HINGE / HANDLE / SUPPORT ORIENTATION — ABSOLUTE
+CABINET HINGE / HANDLE / GRIP — ABSOLUTE
 ==================================================
 
-The lower cabinet is the SAME canonical cabinet:
-- same physical door
-- same hinge side
-- same handle position
-- same opening direction/arc
-- same cabinet interior base/support planes
-
-Reverse camera may flip screen-left/right but may not reverse hinge or handle.
-Nari hand must contact the actual handle/edge before door opens.
-The stockpot rests on a real cabinet interior base/support plane; it cannot float or clip through cabinet.
-When cabinet closes, door follows same hinge arc and clears pot/lid physically.
+Same cabinet door, hinge side, handle position and opening arc throughout.
+Nari's fingers must contact a usable handle/edge; they may not simply overlap the cabinet panel or penetrate the handle. Door opens only after that contact.
+Reverse shot may flip screen direction but not hinge/handle side.
 
 ==================================================
 EXACT SPEAKER / STOCKPOT / TOWEL / CORD STACK — ABSOLUTE
 ==================================================
 
-Frozen later-reveal topology, BOTTOM → TOP:
-1. SAME storage stockpot body resting on real cabinet support plane
-2. TOWEL 1 bottom liner with believable folds/thickness
-3. SAME canonical speaker body on liner at unchanged scale
+BOTTOM → TOP:
+1. SAME storage stockpot body on real support plane
+2. TOWEL 1 bottom liner
+3. SAME speaker body on liner at canonical scale
 4. SAME speaker-side cord attached
-5. SAME cord loosely/neatly coiled within available pot volume; no impossible knots/intersections
-6. SAME loose wall-end plug attached and physically inside pot, not plugged anywhere
-7. TOWEL 2 top cover draped over speaker/cord/plug without occupying same solid volume
-8. SAME stockpot lid seated normally on rim
+5. SAME cord loosely/neatly coiled within pot
+6. SAME loose wall-end plug physically inside pot, not plugged
+7. TOWEL 2 top cover
+8. SAME stockpot lid seated normally
 
-Exactly TWO towels total.
-Cord/towels cannot pass through speaker, pot wall, lid or each other impossibly. Loose plug cannot penetrate speaker/towel/pot wall.
-No cord exits beneath a fully seated lid.
-Strip 028 must reveal exact stack in reverse at same scale.
-
-==================================================
-SPEAKER / STOCKPOT ACTION-PROOF — ABSOLUTE
-==================================================
-
-V36 visibly proves:
-1. entry→kitchen walk
-2. hand reaches SAME unplugged speaker counter
-3. speaker leaves counter; old position empty
-4. hand contacts SAME cabinet handle; door opens on correct hinge
-5. SAME stockpot is on real support plane
-6. TOWEL1 placed as liner
-7. SAME speaker/attached cord/plug physically placed inside without clipping
-8. cord/plug arranged within real pot volume
-9. TOWEL2 laid over
-10. lid contacts pot rim and seats
-11. cabinet door closes on same hinge without intersecting pot
-
-`CLUNK` is not a substitute for any mechanism.
+Exactly TWO towels. Cord/towels/plug cannot pass through speaker/pot/lid/cabinet or float.
+Strip 028 must reveal exact stack in reverse.
 
 ==================================================
 PAPER / PEN SOURCE ROUTE — NON-NEGOTIABLE
 ==================================================
 
 After speaker storage:
-1. Nari walks canonical kitchen→desk route
-2. one blank sheet + one pen visible as mundane supplies
+1. Nari walks kitchen→desk
+2. one blank sheet + one pen visible as ordinary supplies
 3. hand contacts/picks exactly those two
-4. old desk positions become empty of those exact items
+4. old desk positions empty of those exact items
 5. walks desk→kitchen/toaster area
-6. same sheet placed flat on one real surface and released
+6. same sheet contacts real surface plane and is released flat
 7. same pen writes original question
 
 No notebook/second sheet/second pen/sticky pad/clipboard/digital note.
 
 ==================================================
-NOTE / PEN / FRUIT-KNIFE MICRO-CONTINUITY — ABSOLUTE
+PEN GRIP / HANDWRITING PLANE — ABSOLUTE
 ==================================================
 
-V37 exact handwriting:
+Nari's original writing at V37 must use a believable writing grip:
+- pen supported by fingers/thumb in a normal writable orientation
+- fingers do not pass through pen or paper
+- pen tip physically contacts SAME paper plane
+- letters appear only where pen tip has passed
+- handwriting follows the actual paper perspective/orientation; it is not a perfectly front-facing digital overlay floating over an oblique sheet
+
+V37 exact original handwriting:
 line 1 `WHO ARE`
 line 2 `YOU?`
-Paper orientation/surface and pen identity locked.
-
-V38: fitted guard + ONE small fruit knife physically moves to sofa. Cushion lifts, knife enters real gap beneath cushion, cushion returns; knife does not clip through cushion/sofa.
 
 ==================================================
-V40 EXACT SUPERNATURAL WRITING — ABSOLUTE
+FRUIT-KNIFE / CUSHION CONTACT REALITY — ABSOLUTE
+==================================================
+
+V38:
+- one guard physically fits ONE small fruit knife
+- grip is on handle/guardable body, never blade
+- Nari lifts ONE sofa cushion enough to create a real gap
+- SAME guarded fruit knife physically enters that gap
+- knife does not pass through cushion/sofa fabric/seat base
+- cushion returns to supported state above it
+- no second knife/guard
+
+==================================================
+V40 EXACT SUPERNATURAL WRITING / PHYSICAL TEXT PLANE — ABSOLUTE
 ==================================================
 
 At 1:17 A.M., SAME pen moves across SAME paper with no visible hand/body and writes exactly:
 `NOT THE ONE YOU SHOULD BE AFRAID OF.`
 
-- original question remains above
+Rules:
+- original question remains unchanged above
 - reply handwriting visibly different from Nari's
-- pen tip follows real writing path; letters appear only after tip passes
-- pen/paper rest on real surface plane; no hovering
-- paper does not slide unless pen force visibly moves it; safest default = paper remains fixed
-- after final period pen stops at one fixed final supported position on/immediately beside paper
+- pen tip follows actual writing path; letters appear only after tip passes
+- supernatural handwriting still belongs to the physical paper plane; it follows the same page perspective and may not float upright over the room
+- no digital/glowing lettering, caption box, hologram, or detached text layer
+- paper stays supported on real surface; safest default no sliding
+- after final period SAME pen stops at one fixed supported rest position on/immediately beside paper
+
+==================================================
+REFLECTION / SHADOW FALSE-FIGURE BAN — ABSOLUTE
+==================================================
+
+No hand/body/shadow-person/reflected figure may be invented as the writer of the supernatural reply.
+At V40 the pen is the only moving physical agent. Do not show a human-shaped shadow, face, fingers, reflection in window/appliance, or silhouette that implies a hidden person.
+Any ordinary shadows must come from actual objects and real current lights only.
 
 ==================================================
 SAME-OBJECT CLOSE-UP / NO DUPLICATION — ABSOLUTE
 ==================================================
 
-Any cabinet/stockpot/speaker/towel/plug/paper/pen/knife/cushion detail is SAME physical object/state.
-Do not show speaker both counter and pot after pickup, lid both hand/seated, cabinet closed while same-moment insert shows interior, or duplicate pen/paper/knife.
+Any cabinet/stockpot/speaker/towel/plug/paper/pen/knife/cushion detail is SAME physical object/state. Do not show speaker both counter/pot, lid both hand/seated, cabinet closed while same-moment inset shows interior, or duplicate pen/paper/knife.
 
 ==================================================
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-`CLUNK`, `SNICK`, `FZZT`, `SCRATCH... SCRATCH...`, narration/handwriting must not cover:
-- cabinet handle/hinge/open-close proof
-- stockpot support plane/fit
-- speaker/cord/plug/towel topology
-- paper/pen route
-- fruit-knife cushion insertion
-- pen writing path
+`CLUNK`, `SNICK`, `FZZT`, `SCRATCH... SCRATCH...`, narration/handwriting must not cover cabinet contact, speaker stack, paper/pen route, fruit-knife insertion, pen tip/writing path or physical text-plane proof.
 
 ==================================================
 NARRATION DESIGN — ABSOLUTE
@@ -191,31 +171,25 @@ NARRATION DESIGN — ABSOLUTE
 `1:17 A.M.` = compact quiet-suspense time caption, not top-left production marker. No invented narration elsewhere.
 
 ==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
-==================================================
-
-Small black gutter between distinct beats. Side-by-side views use diagonal divider. Compact stronger black time divider before 1:17 A.M.; no large dead bands.
-
-==================================================
 VERTICAL STORY FLOW
 ==================================================
 
 V36 — HIDE SPEAKER
 Complete cabinet/scale/stack mechanism.
-SFX at final physical settle:
+SFX:
 `CLUNK`
 
 SMALL BLACK GUTTER.
 
 V37 — DESK SOURCE → PAPER QUESTION
-Retrieve ONE sheet + ONE pen from desk, return to fixed kitchen/toaster surface, place sheet, handwrite:
+Retrieve ONE sheet + ONE pen, return to fixed surface, physically write:
 `WHO ARE`
 `YOU?`
 
 SMALL BLACK GUTTER.
 
 V38 — GUARDED FRUIT KNIFE
-Fit guard, move to sofa, lift one cushion, insert SAME guarded fruit knife into actual space beneath, return cushion.
+Fit guard, lift one cushion, insert SAME guarded knife into real gap, return cushion.
 SFX:
 `SNICK`
 
@@ -233,41 +207,34 @@ SMALL BLACK GUTTER.
 V40 — SAME PEN WRITES EXACT REPLY
 SFX:
 `SCRATCH... SCRATCH...`
-SAME pen writes exactly:
+SAME pen writes exactly on SAME paper plane:
 `NOT THE ONE YOU SHOULD BE AFRAID OF.`
 Then rests at fixed supported position.
 
 ==================================================
-END STATE
+END / SEAM
 ==================================================
 
 - key tray
 - binder counter
-- speaker hidden unplugged in physically fitting exact stack; lid seated; cabinet CLOSED
+- speaker hidden unplugged in exact closed stack
 - fruit knife beneath sofa cushion
 - same paper with both writings
 - same pen final rest position
-
-NO DEAD BOTTOM — ABSOLUTE
-End on exact pen/paper/reply/night atmosphere.
-
-SEAM OUT — G / TIME CUT
-Strip 009 begins next morning with exact paper/pen state and same hidden speaker stack sealed at same scale/fit.
+Strip 009 begins next morning with exact paper/pen state and no hidden writer figure.
 
 AUTOMATIC REJECT IF
-- any production label appears
-- attached refs redesigned/mirrored
-- speaker/stockpot/cabinet/towels/lid scale changes to make fit possible
-- cabinet enlarges, gains shelf/cavity, hinge/handle side flips, or pot/lid clips through cabinet
-- speaker teleports or old counter speaker remains after pickup
-- cord/plug/towels clip through speaker/pot/lid/cabinet, plug floats, or cord exits closed pot
-- towel count not exactly two
+- production label appears
+- refs redesigned/mirrored
+- cabinet hinge/handle flips or grip is fake overlap
+- stack scale/fit changes, cord/plug/towels clip/float, towel count wrong
 - paper/pen appear without desk route
+- original or supernatural handwriting floats off physical paper plane/ignores perspective or becomes digital UI
+- pen grip impossible/fused, writing appears ahead of tip, wording changes
+- reflected/shadow human/hand/face/silhouette appears as hidden writer
 - fruit knife clips through cushion/sofa or merges with blackout knife
-- supernatural reply wording changes/appears ahead of pen/digital/glowing
-- pen/paper hover or duplicate
-- same-object close-up creates incompatible states
-- text hides physical fit/contact evidence
+- same-object close-up creates incompatible duplicates
+- text hides contact/writing evidence
 - black separators missing/oversized
 - giant dead bottom appears
 ```
