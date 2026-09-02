@@ -27,132 +27,111 @@ Attached refs permanent. Preserve Nari/worn state, desk/tray/sheath, dining chai
 Never render V/P/strip/temp-state labels.
 
 START:
-- Nari holds SAME practical knife
+- Nari holds SAME practical knife by handle
 - phone counter
 - cabinet OPEN
-- STORAGE POT = SAME speaker-storage stockpot inside cabinet on real support plane; lid on exact real support plane beside it; TOWEL1/speaker/cord/plug/TOWEL2 open state
+- STORAGE POT = SAME speaker-storage stockpot inside cabinet with exact open state
 - NOODLE POT = different cooking pot on dining-table trivet with broth/noodles, cloth hot-handle side, Pair A at pot rest
 - outer packet floor; seasoning wrapper table
-- Hyunwoo chair pushed; other chair untouched
+- Hyun-woo chair pushed; other chair untouched
 - candle out; five pantry packets
 
 ALLOWED CHANGES:
 - V133 walk knife→desk
 - V134 real blade/sheath insertion; leave sheathed knife desk; return empty-handed
-- visibly pick outer packet from floor and carry to dining table; old floor spot empty
+- visibly pick outer packet floor→table
 - inspect packet/wrapper/NOODLE POT; place packet beside wrapper
 - retrieve one clean Pair B from canonical/canon-subordinate existing cabinetry
-- sit in untouched chair
+- sit untouched chair
 - one complete bite from NOODLE POT with Pair B
-- release Pair B at fixed Nari-side table spot
+- release Pair B fixed Nari-side table spot
 - dialogue toward open speaker cabinet
 
 END:
 - sheathed knife desk
 - Nari seated untouched chair
-- STORAGE POT remains open cabinet state, no food inside
+- STORAGE POT remains open cabinet state
 - NOODLE POT remains dining table with plausible one-bite reduction
 - packet + wrapper table; Pair A pot rest; Pair B Nari-side table spot
 - phone/cabinet/worn states unchanged
 
 ==================================================
-TWO DIFFERENT POTS — NON-NEGOTIABLE IDENTITY LOCK
+TWO DIFFERENT POTS — NON-NEGOTIABLE
 ==================================================
 
-There are TWO separate physical pots in this scene. They must NEVER merge.
-
-A. STORAGE POT — SPEAKER STOCKPOT
-- location: inside open lower cabinet near refrigerator
-- purpose: hides SAME smart speaker
-- contents: TOWEL1 liner + speaker + attached cord/loose plug + TOWEL2 folded back
-- lid: removed and resting on same real cabinet support plane established Strip028
-- no noodles/broth/food/trivet/seasoning wrapper
-- stays inside cabinet; Nari does not move it in Strip029
-
-B. NOODLE POT — DINING COOKING POT
-- location: dining table
-- purpose: contains cooked emergency noodles/broth
-- rests on SAME trivet
-- folded cloth at SAME hot-handle side
-- Pair A used chopsticks at fixed rest point
-- seasoning wrapper/outer packet belong to this food event
-- no speaker, towels, electrical cord/plug or storage lid inside/around it
-
-Use stable distinct scale/shape/location cues. If the two pots look similar as ordinary cookware, their environment/topology MUST make identity unmistakable.
-Never show one pot teleporting cabinet→table or table→cabinet.
-A close-up of one pot cannot be mistaken for/replace the other.
+STORAGE POT = cabinet/speaker/towels/cord/plug/lid context only.
+NOODLE POT = dining table/noodles/broth/trivet/cloth/chopsticks/food context only.
+Never merge/swap/teleport or create third pot.
 
 ==================================================
-STORAGE POT / CABINET FIT PERSISTENCE — ABSOLUTE
+KNIFE / SHEATH GRIP — ABSOLUTE
 ==================================================
 
-Keep Strip028 exact open state:
-- stockpot same cabinet support plane
-- lid same real support plane beside it, not invented shelf
-- TOWEL1 liner
-- speaker canonical scale
-- attached cord/plug gravity/fit
-- TOWEL2 folded back
-No clipping/floating/scale changes/repacking.
+Nari keeps a usable handle grip until sheathing.
+At desk blade aligns with actual sheath mouth; fingers do not grip blade or pass through handle/sheath.
+`SHK` occurs during real insertion. Fully sheathed knife remains desk tray.
 
 ==================================================
-KNIFE / SHEATH ORIENTATION — ABSOLUTE
+PACKET GRIP / FLOOR→TABLE — ABSOLUTE
 ==================================================
 
-At desk:
-- SAME sheath exact Strip016/desk orientation
-- SAME knife blade/handle orientation stable
-- blade aligns with actual sheath mouth; no side entry/clipping
-- `SHK` during real insertion
-- fully sheathed knife left at stable tray scale/orientation
+Nari bends to SAME floor packet; fingers grasp a real edge/body of flexible packet without passing through it. Packet may crinkle/deform naturally but does not fuse with hand or float.
+Old floor spot becomes empty after pickup. Packet remains physically supported by hand until it contacts table and is released beside wrapper.
 
 ==================================================
-PACKET FLOOR→TABLE — ABSOLUTE
+PAIR A / PAIR B IDENTITY AND GRIP — NON-NEGOTIABLE
 ==================================================
 
-1. after knife sheathed Nari returns empty-handed
-2. bends to SAME floor packet
-3. fingers contact/grip
-4. packet leaves floor; old spot empty
-5. carry to table
-6. inspect with wrapper/NOODLE POT
-7. place/release beside wrapper
+PAIR A = Hyun-woo used pair at fixed NOODLE POT rest point. Nari never uses.
+PAIR B = exactly one clean pair from existing/canon-subordinate ordinary utensil storage, never speaker cabinet.
 
-Packet follows gravity/support; does not float/clamp through hand/table.
-
-==================================================
-PAIR A / PAIR B — ABSOLUTE
-==================================================
-
-PAIR A = Hyun-woo used pair, fixed NOODLE POT rest point; Nari never uses.
-PAIR B = exactly one clean pair from real existing/canon-subordinate utensil storage within EXISTING cabinetry only; never speaker cabinet.
-At least one view distinguishes both pairs.
-After one bite Pair B released together at fixed Nari-side table spot.
+For Pair B pickup/eating:
+- Nari's fingers hold BOTH sticks in a believable eating grip
+- no stick passes through fingers/palm
+- no third stick appears
+- Pair A remains visibly/logically separate
+- Pair B tips enter/approach NOODLE POT through open space without clipping pot rim/table/Pair A
+- a small noodle portion is grasped by the actual Pair B tips
+- food path pot→chopsticks→mouth completes physically
+- after swallow, SAME Pair B is placed together on table and fingers release
 
 ==================================================
-FOOD BITE / DEPTH — ABSOLUTE
+FOOD / MOUTH / HEADPHONES NO-CLIPPING — ABSOLUTE
 ==================================================
 
-Pair B contacts noodles in NOODLE POT; small portion lifts along clear path to mouth, one bite completes, strand swallowed/lowered visibly. Chopsticks/noodles cannot pass through pot rim, hand, face, headphones, table, balloon.
-Only plausible small reduction.
+Noodle strand/portion cannot pass through Nari's face, lips, hair, headphones, hoodie, hand, chopsticks or pot rim.
+Headphones remain physically around neck/hoodie and do not intersect the food path.
+Only one cautious bite; only plausible small pot reduction.
 
 ==================================================
-CHAIR / BODY SCALE — ABSOLUTE
+CHAIR / BODY / WORN ATTACHMENT — ABSOLUTE
 ==================================================
 
-Nari sits ONLY untouched burgundy chair. Stable chair/table/adult scale. Show real approach→turn→hips/knees lower→seat support→feet floor. No seat clipping or chair resizing.
+Nari sits ONLY untouched burgundy chair via real approach→turn→hips/knees lower→seat support→feet floor.
+Scrunchie physically encircles SAME wrist. Headphones physically rest around neck/hoodie without clipping/floating through hair/jaw/neck.
 
 ==================================================
-SAME-OBJECT INSERT — ABSOLUTE
+SPEAKER AUDIO SOURCE / EYE-LINE — NON-NEGOTIABLE
 ==================================================
 
-Knife/sheath, packet/wrapper, Pair A/B, NOODLE POT, STORAGE POT/cabinet details = SAME specific objects. Never create third pot/chopstick pair/packet/knife.
+Hyun-woo's V137 lines are AUDIO from the SAME screenless speaker physically visible in the open STORAGE POT/cabinet.
+- audio source cannot migrate to ceiling/fridge/TV/phone/NOODLE POT
+- Nari's head/eyes orient toward the actual open cabinet/speaker when talking/listening
+- reverse shots cannot move the speaker source or make her look toward a wrong wall
+- no physical/reflected/shadow Hyun-woo appears
+
+==================================================
+REFLECTION / FALSE-FIGURE BAN — ABSOLUTE
+==================================================
+
+TV/fridge/window/counter/pot surfaces must not show an identifiable reflected Nari duplicate, Hyun-woo, unknown figure, face or hand.
+Open speaker cabinet remains an object source only; do not generate a human-shaped shadow from the speaker.
 
 ==================================================
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Dialogue/`SHK` cannot cover blade/sheath insertion, packet pickup, two-pot distinction, Pair A/B distinction, bite path or sitting contact.
+Dialogue/`SHK` must not cover blade/sheath insertion, packet pickup, Pair A/B grips, visible bite path, chair contact or actual speaker source.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -170,19 +149,19 @@ Leave sheathed knife desk. Return empty-handed.
 SMALL BLACK GUTTER.
 
 V135 — PACKET PICKUP / FOOD INSPECTION
-Pick SAME floor packet, old spot empty, carry to table. Inspect packet + wrapper + SAME NOODLE POT/broth. Place packet beside wrapper. No eating.
+Pick SAME floor packet, old spot empty, carry/place table. Inspect packet + wrapper + SAME NOODLE POT/broth. No eating.
 
 SMALL BLACK GUTTER.
 
 V136 — CLEAN PAIR / OTHER CHAIR / ONE BITE
-Retrieve one Pair B, Pair A stays NOODLE POT. Sit untouched chair. Complete one bite. Release Pair B at fixed table spot.
+Retrieve Pair B, Pair A stays NOODLE POT. Sit untouched chair. Use real Pair B grip for one complete bite. Release Pair B fixed table spot.
 
 SMALL BLACK GUTTER.
 
 V137
-NARI:
+NARI, toward open speaker cabinet:
 `TELL ME WHAT I NEED TO KNOW.`
-HYUN-WOO voice from speaker in STORAGE POT/cabinet:
+HYUN-WOO voice from SAME speaker:
 `WRITE THINGS DOWN. PAPER ONLY.`
 HYUN-WOO voice:
 `AND STAY AWAY FROM THE SOUTH-WALL PANEL.`
@@ -195,21 +174,19 @@ HYUN-WOO voice:
 SEAM
 ==================================================
 
-Strip030 inherits STORAGE POT cabinet state and separate NOODLE POT/table state, packet/wrapper, two chopstick pairs, chair states, sheathed knife desk, phone counter.
+Strip030 inherits STORAGE POT cabinet state, separate NOODLE POT/table state, packet/wrapper, Pair A/B, chair states, sheathed knife desk, phone counter and SAME speaker voice-source geography.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
 - refs/geometry/scale drift
-- STORAGE POT and NOODLE POT merge/swap/teleport or a third pot appears
-- speaker/towels/cord appear in noodle pot or noodles/trivet appear in storage pot
-- storage lid/support plane moves/resets
-- knife/sheath orientation flips/clips/teleports
-- packet duplicates/old floor packet remains
-- Pair A/B merge/third pair appears
-- bite path clips/vanishes
-- Nari uses pushed chair or chair/body scale changes
-- text hides two-pot/action evidence
-- physical Hyunwoo appears
+- STORAGE POT/NOODLE POT merge/swap/teleport
+- knife/packet/chopstick grips impossible/fused/floating or knife held by blade
+- Pair A/B merge/third pair appears or noodle path clips through face/hair/headphones/pot
+- Nari uses pushed chair / chair contact fake
+- speaker voice comes from wrong location or Nari looks away from actual speaker
+- physical/reflected/shadow Hyunwoo appears
+- worn items clip/float/change side
+- text hides grip/food/source evidence
 ```
 
 ## Production Thread Attachments
