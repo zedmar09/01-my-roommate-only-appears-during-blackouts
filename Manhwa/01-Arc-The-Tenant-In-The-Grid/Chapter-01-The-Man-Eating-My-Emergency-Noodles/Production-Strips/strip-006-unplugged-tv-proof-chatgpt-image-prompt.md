@@ -1,270 +1,372 @@
-# Strip 006 — Speaker Unplug / Unplugged TV Proof
+# Strip 006 — Speaker Unplug / Unplugged TV Proof — FINAL DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing Chapter 1.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing directly from the APPROVED rendered Strip 005.
+
+THIS IS NOT A PAGE.
+Never render V26–V30, Strip 006, panel/scene/shot/reference labels, filenames, QA notes, or production metadata.
 
 PRODUCTION SCOPE
-V26–V30. Historical P3→P4 mapping only.
+V26–V30 only.
 
-ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
-- `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
-- `Manhwa/Object-References/tv-canonical-reference.webp`
-- APPROVED Strip 005
-- this Strip 006 prompt
+==================================================
+ATTACH — REQUIRED — EXACT SET
+==================================================
+
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-living-to-kitchen-wide-reference.webp`
+4. `unit-2407-kitchen-to-living-wide-reference.webp`
+5. `unit-2407-room-angle-atlas-reference.webp`
+6. `smart-speaker-canonical-reference.webp`
+7. `tv-canonical-reference.webp`
+8. APPROVED rendered Strip 005 image
 
 Do NOT attach or depict Hyun-woo.
+Missing authority = STOP.
 
 ==================================================
-REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
+CURRENT CANON / PREVIOUS STRIP ROLE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 005 controls temporary Nari/chopstick state only; permanent drift must be corrected back to canon.
-Preserve Nari identity, TV body/stand/bezel/cord-origin, speaker body/cord-origin, room axis, walls, outlet zones, furniture/appliance placement, object scale and powered-light baseline.
-Never render V/P/strip/beat/panel/scene/temp-state labels.
+Current WebPs permanently control Nari, Unit 2407, speaker, and TV.
+APPROVED Strip 005 temporarily controls:
+- Nari's current approved story rendering
+- exact speaker location
+- exact two-chopstick floor configuration at V25
+- kitchen/open-plan scale and lighting
+
+CURRENT NARI WEBP WINS.
+Do NOT restore retired dark-plum hair, mouth beauty mark, yellow scrunchie, headphones-around-neck identity, or old dark-hoodie/utility-jacket design. Preserve the current warm-brown-haired game-developer Nari from the WebP/approved render.
 
 ==================================================
-NARI CHARACTER TOPOLOGY / IDENTITY — NON-NEGOTIABLE
+ABSOLUTE WALL-UNPLUG RULE
 ==================================================
 
-Every Nari view and unplug close-up belongs to the SAME canonical 30-year-old body.
-- long dark-plum hair remains the same length/part/fringe; no short-hair reversion and no black/brown/red/neon recolor
-- exactly ONE tiny beauty mark stays beside the anatomical LEFT corner of her mouth whenever the face is visible; reverse shot may change screen side, never anatomical side
-- same adult face/build; no age/face recast between wide and outlet detail
-- no extra/missing/duplicated arm, forearm, hand, leg, foot, ear or fingers
-- plug-hand close-up must connect plausibly to Nari's actual shoulder/arm/wrist from the adjacent body view; do not generate a generic disembodied hand
-- sleeves/clothing wrap the same arm; no sleeve that terminates in a different/extra hand
-- skin/hair/clothes remain matte flat-2D; no glossy close-up treatment
+**UNPLUG = THE ELECTRICAL PLUG BODY PHYSICALLY LEAVES A WALL-MOUNTED SOCKET.**
 
-When Nari speaks `WHO SAID THAT?`, visible mouth/acting belongs to Nari only. The later TV text is device text and must not make Nari visibly mouth it.
+NEVER:
+- detach the cable from the speaker body
+- detach the cable from the TV body
+- use an appliance-side power port as unplug proof
+- pull only the cable
+- leave the plug secretly in the wall
+
+Required unplug proof:
+WALL → faceplate/socket → hand gripping PLUG BODY → plug physically clears socket → SAME cord remains attached to appliance → socket visibly EMPTY → loose plug remains attached to same cord.
 
 ==================================================
-START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
+START / TIME CUT / END
 ==================================================
 
 START V26:
-- powered kitchen state inherited from Strip 005
-- SAME two clean dry chopsticks remain at exact V24/V25 floor location/configuration
-- speaker canonical kitchen counter, plugged into wall power
-- Nari near kitchen/open-plan
+- powered kitchen from Strip 005
+- same two chopsticks exact floor configuration
+- same speaker on same canonical counter
+- Nari in same wary post-voice state
 
-ALLOWED BEFORE TIME CUT:
+V26:
 - Nari asks `WHO SAID THAT?`
-- Nari physically removes speaker WALL-END plug from its WALL socket once
-- speaker-side cord remains attached
-- loose plug/cord obey gravity/no-clipping
-- chopsticks remain exact floor configuration until legal time cut
+- no response
+- Nari unplugs SAME speaker from WALL once
 
-AFTER `TWO NIGHTS LATER` CUT:
-- Unit normally powered
-- speaker remains wall-unplugged on counter; no silent reconnect/hide
-- prior chopsticks may be cleaned only because of the explicit time cut
-- TV in canonical location, initially plugged before V29
-- Nari is away from TV outlet in V27/V28
+LEGAL CUT:
+`TWO NIGHTS LATER`
+- chopsticks may have been cleaned during elapsed time
+- speaker remains wall-unplugged; no silent replug
+- Unit otherwise powered
 
-TV CHANGES:
-- TV activates while plugged
-- Nari walks real route to TV/outlet zone
-- Nari crouches, grips PLUG BODY at WALL socket and removes it once
-- TV-side cord remains attached
-- SAME cord connects TV to SAME loose plug
-- loose plug/socket/cord settle physically
-- TV remains impossibly ON
-- Nari remains CROUCHED through V30
+V27/V28:
+- TV initially still plugged
+- Nari not already at outlet
+
+V29:
+- Nari physically walks to TV outlet zone and crouches
+- removes SAME TV wall plug once
 
 END V30:
-- TV ON
-- TV-side cord attached
-- wall-end plug loose outside same EMPTY wall socket
-- cord continuous/collision-free
-- Nari crouched at same outlet zone
-- Unit supplied power ON
-- speaker still wall-unplugged counter
+- TV remains impossibly ON
+- TV-side cord still attached
+- same loose wall plug outside same EMPTY wall socket
+- Nari still crouched
+- speaker still wall-unplugged on canonical counter
 
 ==================================================
-WALL-SOCKET UNPLUGGING — NON-NEGOTIABLE
+WORLD SCALE / SAME ROOM / CORD REALITY
 ==================================================
 
-**UNPLUG = REMOVE ELECTRICAL PLUG BODY FROM WALL-MOUNTED SOCKET. NEVER DETACH THE CABLE FROM THE APPLIANCE BODY.**
-
-For speaker V26 and TV V29:
-1. show real wall
-2. show outlet/faceplate mounted on that wall
-3. show one continuous appliance cord
-4. appliance-side attachment stays fixed
-5. Nari's SAME physically connected arm/hand reaches the wall plug
-6. fingers/thumb grip PLUG BODY, never cable/prongs
-7. plug physically clears socket
-8. `YANK` occurs at plug/socket action
-9. SAME loose plug remains attached to SAME cord
-10. socket visibly EMPTY
-11. state persists
+- Unit geometry/scale stays consistent with approved Strip 005 and environment refs
+- TV remains same real-world size/body/stand/bezel
+- speaker remains small countertop device
+- outlet/plug remain ordinary household electrical scale
+- close-up magnification never enlarges wall plug/socket in world space
+- cords keep believable thickness/length/slack/gravity
+- cords cannot pass through wall, counter, TV stand, furniture, appliance, or body
+- no invented giant outlet panel
 
 ==================================================
-MOBILE WALL-UNPLUG PROOF / BODY OWNERSHIP — ABSOLUTE
+VERTICAL HEIGHT MAP
 ==================================================
 
-Normal mobile viewing must clearly distinguish wall, faceplate, socket opening, Nari fingers on plug body, plug clearing socket, continuous cord, loose plug, and appliance-side attachment.
+Approximate story-art allocation:
+- V26 speaker unplug: 28%
+- V27 two-nights-later setup: 13%
+- V28 TV activation/message: 18%
+- V29 TV wall-unplug mechanics: 25%
+- V30 impossible unplugged-TV proof: 16%
 
-If a wide shot is insufficient, use adjacent SAME-EVENT views:
-A. Nari body/arm reaching the actual wall outlet with enough torso/shoulder context to prove which arm owns the hand
-B. close detail of the SAME hand gripping the SAME plug body at the SAME wall socket
-C. resulting SAME appliance + continuous cord + loose plug + empty socket
-
-Never show an isolated floating hand with no plausible arm ownership. A reverse/detail view may not switch to the opposite anatomical arm mid-action.
-
-Keep fingers, wrist, socket, plug, cord and wall context safely inside crop/gutter/divider edges.
+V26 and V29 are mechanical action beats and must be large enough for mobile-readable wall/socket/plug/body ownership.
 
 ==================================================
-PLUG GRIP / FINGER / LIMB ERGONOMICS — ABSOLUTE
+V26 — WHO SAID THAT? / SPEAKER WALL-UNPLUG — FULL BLUEPRINT
 ==================================================
 
-- believable finger count/joints
-- fingers wrap usable sides of plug body
-- no extra thumb/finger, fused digits, missing palm or detached wrist
-- hand connects to same forearm/upper arm/body
-- wrist angle is reachable from actual crouch/standing pose
-- no hand through TV stand/wall/furniture
-- after release, plug orientation may rotate naturally with gravity but hand/body identity stays unchanged
+CAMERA START:
+- same kitchen/open-plan state as Strip 005 V25
+- same speaker position
+- same two chopsticks on floor
+- Nari still oriented toward speaker
 
-==================================================
-LOCAL WALL-OUTLET CONTINUITY — CANON-SUBORDINATE
-==================================================
-
-If canonical refs show outlet, use exactly. If not, derive smallest plausible outlet inside existing canonical wall/appliance geometry. Never move/add architecture. Once approved, chapter-local location/height/orientation/cord-route family persists, subordinate to WebPs.
-
-==================================================
-PERSPECTIVE / CORD / GRAVITY — ABSOLUTE
-==================================================
-
-Use ordinary non-fisheye manhwa perspective. Do not distort Nari's hand/body, TV, wall, socket or plug proportions.
-Speaker/TV cords remain continuous with believable length/slack/gravity. No floating plug, cable through wall/stand/cabinet/furniture/appliance, instant coiling, growing/shrinking cable or flipped appliance-side origin.
-
-==================================================
-TV DEVICE TEXT / READABILITY — ABSOLUTE
-==================================================
-
-V28 exact TV text:
-`YOUR PATCH NOTES ARE TOO LONG.`
-
-It is clean helpful DEVICE TEXT on the actual TV screen plane only, fully inside bezel and readable at mobile size. It may not become narration/speech/floating UI.
-
-==================================================
-REFLECTION / FALSE FIGURE — ABSOLUTE
-==================================================
-
-No reflected/shadow Nari duplicate, Hyun-woo, unknown person, face, hand or silhouette in TV/windows/fridge/counters. Matte screen remains non-mirror-like.
-
-==================================================
-MICRO-CONTINUITY / POWER / LIGHT — ABSOLUTE
-==================================================
-
-V26 chopsticks remain exact Strip 005 configuration until time cut. Nari does not pick them up.
-V27/V28 Nari remains away from TV outlet.
-V28→V29 show real route.
-V29→V30 same crouched body/arm/outlet state.
-Powered room-light direction stays the same through V27–V30; TV does not become a room light.
-
-==================================================
-TOP-TO-BOTTOM ORDER — ABSOLUTE
-==================================================
-
-TV sequence reads:
-1. TV activates while plugged
-2. helpful text
-3. Nari moves to outlet
-4. SAME body crouches/reaches
-5. SAME arm/hand grips wall plug body
-6. plug leaves wall socket / `YANK`
-7. empty socket + loose plug
-8. TV still ON
-
-Do not show V30 proof before V29 action or `YANK` before contact.
-
-==================================================
-VERTICAL STORY FLOW
-==================================================
-
-V26 — SPEAKER WALL-UNPLUG
 NARI:
+- current canonical identity
+- wary/disbelieving, controlled
+
+DIALOGUE:
 `WHO SAID THAT?`
+
 No response.
-Physically remove SAME speaker plug from WALL socket.
-SFX at plug/socket:
-`YANK`
-Show empty socket + attached cord/loose plug. Speaker remains counter.
+
+ACTION SEQUENCE:
+A. establish Nari + speaker + wall-power route
+B. Nari reaches actual speaker wall-end plug
+C. enough arm/torso context proves the hand belongs to Nari
+D. fingers/thumb grip PLUG BODY, not prongs/cable
+E. plug leaves WALL socket
+F. `YANK` at physical removal
+G. SAME speaker-side cord remains attached
+H. SAME loose plug hangs/rests naturally from SAME cord
+I. wall socket visibly EMPTY
+
+If one composition is too small, use adjacent same-event subviews separated by diagonal black divider:
+1. body/arm reaching wall
+2. plug-body removal detail
+3. result: same speaker + cord + loose plug + empty wall socket
+
+CHOPSTICKS:
+- remain exact Strip 005 floor configuration
+- Nari does not pick them up in this beat
+
+END:
+- speaker wall-unplugged
+- Unit otherwise powered
+
+REJECT IF:
+- appliance-side cable detached
+- plug/socket proof ambiguous
+- wall context cropped away
+- floating detached hand
+- chopsticks move/disappear
+- old Nari design returns
 
 COMPACT BLACK TIME TRANSITION.
 
-V27
+==================================================
+V27 — TWO NIGHTS LATER / PATCH-NOTES SETUP — FULL BLUEPRINT
+==================================================
+
 NARRATION:
 `TWO NIGHTS LATER`
+
 NARRATION:
 `TEN MINUTES EARLIER, NARI HAD READ HER PATCH NOTES OUT LOUD.`
-Speaker remains wall-unplugged if visible.
+
+CAMERA:
+- normal powered Unit 2407 interior
+- use same world scale/geometry
+- Nari away from TV wall outlet
+- speaker remains visibly/unambiguously wall-unplugged if in frame
+
+IMPORTANT:
+- do not show Nari already crouching at TV
+- do not reactivate/replug speaker
+- no hostile effect
+
+END:
+- setup for TV activation
 
 SMALL BLACK GUTTER.
 
-V28 — TV ACTIVATION
-SFX at TV:
+==================================================
+V28 — TV ACTIVATION / CLEAN HELPFUL MESSAGE — FULL BLUEPRINT
+==================================================
+
+CAMERA:
+- canonical TV/living zone
+- SAME TV body/stand/cable identity
+- Nari remains at ordinary viewing distance, NOT already at outlet
+- TV still physically plugged before V29
+
+SFX AT TV:
 `CLICK`
-TV SCREEN:
+
+TV SCREEN — EXACT DEVICE TEXT:
 `YOUR PATCH NOTES ARE TOO LONG.`
-Nari remains away from outlet.
+
+TEXT RULE:
+- fully inside actual TV screen plane/bezel
+- clean helpful communication styling
+- mobile-readable
+- not speech balloon
+- not narration
+- not floating wall text
+- no hostile black-pixel corruption yet
+
+NARI:
+- stunned/annoyed disbelief, controlled
+- eyes on real TV
+
+END:
+- TV ON, still wall-plugged
+- Nari decides to test it
 
 SMALL BLACK GUTTER.
 
-V29 — TV WALL-SOCKET UNPLUG
-Nari walks/crouches, SAME connected arm/hand grips SAME TV plug BODY at SAME WALL-MOUNTED socket and removes it.
+==================================================
+V29 — WALK / CROUCH / TV WALL-UNPLUG — FULL BLUEPRINT
+==================================================
+
+STORY PURPOSE:
+The reader must SEE Nari physically test the impossible TV.
+
+A. ROUTE
+- Nari walks real living-zone route to actual TV outlet
+- no teleport
+
+B. CROUCH
+- real body support/feet/floor
+- same current Nari identity
+
+C. PLUG GRIP
+- SAME connected arm/hand reaches WALL socket
+- grip actual TV PLUG BODY
+- no generic detached hand
+
+D. REMOVAL
+- plug physically clears wall socket
+- `YANK` at removal
+- appliance-side TV cord remains attached
+- same continuous cord leads to loose plug
+- wall socket visibly EMPTY
+
+E. RESULT
+- cord/plug settle with gravity
+- TV remains ON
+
 SFX:
 `YANK`
-Show wall/faceplate/socket, fingers/plug removal, TV-side cord still attached, loose plug and believable slack.
+
+END:
+- Nari stays crouched
+- exact unplug state freezes for V30/Strip 007
+
+REJECT IF:
+- Nari jumps directly to crouch with no route
+- wrong cord/plug
+- TV-side connection removed
+- cable pulled instead of plug body
+- empty socket not readable
+- TV turns off
 
 SMALL BLACK GUTTER.
 
-V30 — UNPLUGGED TV PROOF
-Large mobile-readable proof: SAME TV ON + SAME TV-side cord attached + continuous cord + SAME loose plug outside SAME EMPTY WALL SOCKET. Nari remains CROUCHED. No text.
-
 ==================================================
-SEAM OUT — A
+V30 — IMPOSSIBLE UNPLUGGED-TV PROOF — FULL BLUEPRINT
 ==================================================
 
-Strip 007 begins SAME active-TV scene with SAME Nari crouched body, exact TV/cord/plug/socket state and no identity/anatomy reset.
+This is a large clean proof composition, not a reaction portrait.
 
-AUTOMATIC REJECT IF
-- production label appears
-- Nari beauty mark missing/duplicated/moved to anatomical right
-- Nari hair/face/build/local color changes between wide and close-up
-- unplug hand is detached/generic, belongs to opposite arm, duplicates, or body has extra/missing limb/fingers
-- sleeve/arm/hand topology is impossible
-- appliance-side cable detached
-- cable pulled instead of plug body
-- fingers grip prongs/cable or fuse with plug
-- outlet moved/reinvented against canon
-- wall context cropped so unplug resembles appliance-side disconnect
-- plug/socket/cord proof microscopic/cropped/divider-cut
-- speaker hidden/replugged early
-- cord floats/clips/changes length/origin
-- TV text floats off screen or becomes human speech
-- reflected/shadow figure appears
-- Nari silently stands before Strip 007
-- TV helpful text uses hostile styling
-- fridge hostile state appears early
-- causal reading order reverses
-- text/SFX hides unplug/body ownership proof
-- black separators missing/oversized
-- giant dead bottom appears
+MANDATORY SAME-FRAME OR CAUSALLY ADJACENT EVIDENCE:
+- SAME TV visibly ON
+- SAME TV-side cord attached
+- continuous SAME cord
+- SAME loose plug outside wall socket
+- SAME wall faceplate/socket visibly EMPTY
+- Nari still crouched at same outlet zone
+- Unit room lighting remains normally powered
+
+NO TEXT.
+
+Do NOT solve V30 with:
+- only Nari face
+- only TV screen
+- only plug close-up without appliance relationship
+- cable detached from TV
+
+END / SEAM:
+Strip 007 begins from this exact crouched TV/cord/socket state.
+
+==================================================
+EXACT TEXT ONLY
+==================================================
+
+`WHO SAID THAT?`
+`YANK`
+`TWO NIGHTS LATER`
+`TEN MINUTES EARLIER, NARI HAD READ HER PATCH NOTES OUT LOUD.`
+`CLICK`
+`YOUR PATCH NOTES ARE TOO LONG.`
+`YANK`
+
+No other readable text.
+
+==================================================
+STATE LEDGER
+==================================================
+
+SPEAKER:
+V26 plugged → real wall unplug → remains wall-unplugged V27–V30.
+
+CHOPSTICKS:
+exact Strip 005 configuration through V26 → may be cleaned only across explicit two-night cut.
+
+TV:
+V27/V28 plugged → V29 wall plug removed → V30 ON while wall-unplugged.
+
+NARI:
+V25 wary standing → V26 speaker test → time cut → V28 viewing distance → V29 real route/crouch/unplug → V30 stays crouched.
+
+ROOM:
+same Unit geometry/scale, powered-light baseline except TV's impossible state.
+
+==================================================
+FINAL REJECT
+==================================================
+
+Reject if:
+- production labels render
+- retired Nari design returns
+- room/TV/speaker redesigns
+- wall unplug means appliance-side disconnect
+- plug/socket/wall evidence missing or microscopic
+- Nari unplug hand lacks body ownership
+- cord floats/clips/changes origin/length
+- speaker silently replugged
+- TV helpful text floats off screen
+- hostile fridge state appears early
+- reflected/shadow human appears
+- V29/V30 order reverses
+- glossy/cinematic/photoreal/3D style appears
+- black gutters missing/oversized
+- dead bottom appears
 ```
 
-## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
-5. `Manhwa/Object-References/smart-speaker-canonical-reference.webp`
-6. `Manhwa/Object-References/tv-canonical-reference.webp`
-7. APPROVED Strip 005
-8. this Strip 006 prompt
+## Production Thread Attachments — EXACT SET
+
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-living-to-kitchen-wide-reference.webp`
+4. `unit-2407-kitchen-to-living-wide-reference.webp`
+5. `unit-2407-room-angle-atlas-reference.webp`
+6. `smart-speaker-canonical-reference.webp`
+7. `tv-canonical-reference.webp`
+8. APPROVED rendered Strip 005 image
