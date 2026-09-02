@@ -45,6 +45,37 @@ SEUNGJAE:
 Lighting/rain may alter value slightly but may not recolor Nari's hair/scrunchie or Seungjae's hair/outfit identity. Character surfaces remain matte, not wet/glossy beauty rendering.
 
 ==================================================
+FINAL SOCIAL PERFORMANCE / RELATIVE-SCALE CONTINUITY — NON-NEGOTIABLE
+==================================================
+
+This sequence is ordinary after-work social warmth interrupted by a strange device failure. It is NOT a sinister-romance, villain-introduction or melodramatic confession scene.
+
+RELATIVE BODY SCALE:
+- Nari and Seungjae remain believable same-generation adult coworkers on the same floor plane
+- preserve their canon-compatible relative height/build established in the first shared V55 standing view throughout V55–V59
+- Seungjae stays lean-to-average and less broad/intimidating than Hyun-woo; do not enlarge shoulders/height for romantic dominance or threat
+- camera perspective may change screen size but not world-space body proportions
+
+V55/V56:
+- Seungjae = practiced friendly, socially confident, slightly awkwardly hopeful; NOT smug villain, predatory, domineering, paternal or chaebol-romance pose
+- Nari = tired after work but comfortable enough around him to listen; ordinary adult social posture
+- both shoulders/hips remain oriented naturally along the walking route, with head turns toward each other as needed; do not make them stop/pose like a promotional couple unless the script actually stops them
+
+V57:
+- Nari's `YEAH. I'D LIKE THAT.` = genuine but restrained warmth, possibly mild natural shyness; no extreme blush, hearts, sparkles, glamour close-up or teenage-romance acting
+- Seungjae response remains warm/pleased rather than triumphant/smug
+
+V58:
+- crossing/folding umbrella becomes practical movement; emotional state remains ordinary/warm
+- do not reset either character to blank mannequin expressions simply because the camera changes to the entrance mechanics
+
+V59:
+- phone death changes Seungjae from warm social ease to **confused/mildly concerned**, not panic or horror
+- Nari may register the failure with mild concern; she does not become terrified before Strip 013's wider device pattern develops
+
+The emotional state and walking-body facing carry directly into Strip 013. No random smile→anger→fear→smirk resets between reverse shots.
+
+==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
@@ -71,6 +102,7 @@ END:
 - folded umbrella SAME UMBRELLA HAND; other hand free
 - Nari bag SAME BAG SHOULDER; tablet inside
 - both walking inward
+- shared social performance shifts only to mild device concern
 
 ==================================================
 WEATHER / GLASS BOUNDARY — NON-NEGOTIABLE
@@ -98,12 +130,14 @@ PHONE POCKET is a real pocket; phone cannot appear through opaque fabric. V59 fr
 All hands/arms must remain connected to the correct shoulder/body. A phone/umbrella close-up may not invent an extra arm or switch prop ownership.
 
 ==================================================
-CAMERA AXIS / TRAVEL / EXPRESSION OWNERSHIP — ABSOLUTE
+CAMERA AXIS / TRAVEL / BODY-FACING CONTINUITY — ABSOLUTE
 ==================================================
 
 World route remains exterior → entrance → lobby → elevator. Reverse shots cannot reverse travel.
 During dialogue both remain oriented naturally toward each other while walking.
-Seungjae's speaking face must remain the SAME age-30 face; Nari must not visibly mouth his dialogue and vice versa.
+- head turns may redirect attention without silently reversing shoulder/hip/foot travel orientation
+- if either character fully turns, that turn must be physically staged and may not interrupt the forward route without script cause
+- Seungjae's speaking face remains SAME age-30 face; Nari must not visibly mouth his dialogue and vice versa
 
 ==================================================
 TEMPORARY SIDE IDENTITIES — ABSOLUTE
@@ -114,6 +148,13 @@ Freeze from first clear V55:
 - Seungjae UMBRELLA HAND
 - Seungjae PHONE POCKET
 Reverse camera may flip screen side; anatomical side does not change.
+
+==================================================
+CLOTHING-LAYER STATE — ABSOLUTE
+==================================================
+
+The outside/work clothing layer visible in V55 remains the SAME physical layer through V59.
+Do not zip/unzip, open/close, raise/lower hood, roll sleeves, remove bag, alter collar/overshirt state, or restyle Seungjae's outfit between reverse shots unless a visible action does so. Rain may add small plausible dampness only; it does not redesign garments or hair.
 
 ==================================================
 OBJECT SCALE / SUPPORT / PRESENTATION — ABSOLUTE
@@ -137,7 +178,7 @@ VERTICAL STORY FLOW
 V55 — RAINY CANOPY
 NARRATION:
 `TWO DAYS LATER — AFTER WORK`
-Establish Nari/Seungjae canonical identities, BAG SHOULDER, UMBRELLA HAND, PHONE POCKET and real entrance geometry.
+Establish Nari/Seungjae canonical identities, shared relative scale, ordinary walking posture, BAG SHOULDER, UMBRELLA HAND, PHONE POCKET and real entrance geometry.
 
 SMALL BLACK GUTTER.
 
@@ -170,12 +211,17 @@ Return SAME phone to SAME pocket.
 SEAM
 ==================================================
 
-Strip 013 inherits same lobby depth, Nari/Seungjae identity, BAG SHOULDER, UMBRELLA HAND, PHONE POCKET, watch/earbuds state and outfit construction.
+Strip 013 inherits same lobby depth, shared relative scale, mild-concern emotional state, walking/body-facing continuity, Nari/Seungjae identity, BAG SHOULDER, UMBRELLA HAND, PHONE POCKET, watch/earbuds state and clothing-layer construction.
 
 AUTOMATIC REJECT IF
 - production/temp-side label appears
 - Nari beauty mark missing/duplicated/moved to anatomical right, hair becomes short/wrong color, or face/body recasts
 - Seungjae appears older than 30, middle-aged, paternal, executive, gray/receding-haired, bearded/stubbled, or resembles Hyun-woo
+- Seungjae becomes unnaturally tall/broad/dominating relative to Nari without perspective explanation
+- social scene becomes sinister, predatory, melodramatic romance, extreme blushing/hearts/sparkles, or villain-smirk acting
+- emotional state resets/jumps between adjacent reverse shots without event cause
+- shoulders/hips/feet silently reverse travel orientation while only the head should turn
+- clothing-layer/hood/sleeve/bag state changes without action
 - Seungjae hair part/color/outfit construction changes between slices
 - extra/missing/duplicated limb/hand/foot/ear appears or close-up limb cannot connect to same body
 - watch changes wrist/disappears, earbuds duplicate/change, umbrella/phone duplicate or change owner
