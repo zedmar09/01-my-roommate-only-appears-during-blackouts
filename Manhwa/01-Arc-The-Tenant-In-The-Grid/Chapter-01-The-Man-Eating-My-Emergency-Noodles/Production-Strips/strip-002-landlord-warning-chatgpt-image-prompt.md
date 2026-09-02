@@ -61,19 +61,25 @@ END:
 - speaker unchanged; room geometry canonical
 
 ==================================================
-FRONT-DOOR ORIENTATION / THRESHOLD REALITY — ABSOLUTE
+CHARACTER TOPOLOGY / PERMANENT IDENTITY LANDMARKS — NON-NEGOTIABLE
 ==================================================
 
-The front door is the SAME canonical door from Strip 001.
-Preserve:
-- same hinge side
-- same handle/smart-lock side
-- same inward/outward story-world face
-- same opening arc/clearance
-- same entry shelf relationship
+NARI:
+- SAME 30-year-old canonical face/body across doorway, walk and counter views
+- SAME long dark-plum mid-back hair/part/fringe; no short-hair reversion and no black/brown/red/neon-purple recolor
+- exactly ONE beauty mark remains beside the anatomical LEFT corner of her mouth; reverse camera may move it to the opposite SCREEN side but never to anatomical right
+- no extra/missing arm, hand, leg, foot, ear or duplicated body part during door handling/reaction
 
-Reverse camera shots may flip screen-left/right but may NOT reverse the hinge/handle/lock side or turn the door into a different construction.
-V09→V10 must show a real open doorway with enough clearance for Mrs. Na and her carried props; nobody passes through a closed door or clips through shelf/boxes/wall.
+MRS. NA:
+- SAME late-60s mature face, SAME silver practical twist, SAME muted-mauve coat and practical older-adult build
+- SAME pair of square jade earrings remains attached at the ears when visible; no missing/third earring
+- SAME analog wristwatch remains on the SAME canonical wrist
+- SAME dark gloves remain on both hands through binder/key-ring/key handling; do NOT silently replace a glove with a bare generic hand for dexterity
+- handbag remains the SAME physical handbag and supported on the SAME body side established in the first clear view
+- prop close-ups must preserve enough glove/sleeve/body cues to prove the hand belongs to Mrs. Na
+- no extra/missing/duplicated limb; glove/coat/handbag occlusion cannot hide impossible arm topology
+
+Character local colors/materials stay matte and canonical. Jade/watch/gloves/hair must not become glossy, glowing, metallic-neon or differently colored in close-ups.
 
 ==================================================
 MRS. NA HAND / PROP OCCUPANCY — NON-NEGOTIABLE
@@ -81,15 +87,24 @@ MRS. NA HAND / PROP OCCUPANCY — NON-NEGOTIABLE
 
 Required carriage logic:
 1. handbag stays physically supported by shoulder/forearm/body; no floating bag
-2. binder occupies one hand while walking
-3. key ring occupies other hand
+2. binder occupies one GLOVED hand while walking
+3. key ring occupies other GLOVED hand
 4. binder physically contacts counter and is released FIRST
-5. freed binder hand then assists ring hand
-6. fingers visibly detach ONE brass key from SAME ring
+5. freed gloved binder hand then assists ring-holding gloved hand
+6. gloved fingers visibly detach ONE brass key from SAME ring without key/ring/fingers fusing
 7. ordinary ring remains physically accounted for
 8. detached key is placed on counter
 
-Do not show binder, ring, detached key, handbag all simultaneously gripped by impossible fingers/hands.
+Do not show binder, ring, detached key, handbag all simultaneously gripped by impossible fingers/hands. Do not remove a glove or create a third hand to make detachment easier.
+
+==================================================
+FRONT-DOOR ORIENTATION / THRESHOLD REALITY — ABSOLUTE
+==================================================
+
+The front door is the SAME canonical door from Strip 001.
+Preserve same hinge side, same handle/smart-lock side, same inward/outward story-world face, same opening arc/clearance, same entry shelf relationship.
+Reverse shots may flip screen-left/right but may NOT reverse physical construction.
+V09→V10 must show a real open doorway with enough clearance for Mrs. Na and her carried props.
 
 ==================================================
 BINDER / KEY COUNTER TOPOLOGY — ABSOLUTE
@@ -97,48 +112,33 @@ BINDER / KEY COUNTER TOPOLOGY — ABSOLUTE
 
 V11 establishes one stable local arrangement:
 - SAME binder lies flat on SAME counter
-- binder spine/ring side/orientation follows canonical object construction; reverse camera does not mirror the physical binder
+- binder spine/ring side/orientation follows canonical object construction
 - SAME brass key rests BESIDE binder at a distinct fixed counter spot
-- key blade/bow orientation stays recognizable and cannot flip into a different notch/bow construction
-- key does not lie on top of/under the binder
+- key blade/bow orientation stays recognizable
+- key does not lie on top of/under binder
 - no duplicate key remains on ring/counter/hand
 
-This exact binder/key relative arrangement persists unchanged through Strip 003 and into Strip 004 until Nari's visible key pickup.
-A close-up of binder/key is the SAME physical objects, not duplicates.
+This exact binder/key relative arrangement persists unchanged through Strip 003 and into Strip 004 until Nari's visible key pickup. A close-up of binder/key is the SAME physical objects, not duplicates.
 
 ==================================================
 PERSPECTIVE / MOBILE PROOF / CROP SAFETY — ABSOLUTE
 ==================================================
 
-Use ordinary non-fisheye manhwa perspective from the attached corridor/entry/open-plan references.
-- do not curve door/counter/floor lines or distort Mrs. Na/Nari/binder/key proportions with ultra-wide/forced perspective
-- close-ups may magnify the key/binder but may not make them world-space larger
-
-At normal mobile reading size, the reader must be able to verify:
-- Nari opening the real door before Mrs. Na crosses
-- Mrs. Na's carried binder/key-ring state before placement
-- binder contacting/releasing on the counter BEFORE key detachment
-- one brass key visibly leaving the ring
-- the same key visibly contacting the counter beside the binder
-- binder title `UNIT 2407 / ELECTRICAL OPERATION GUIDE` as physical readable cover text when shown
-
-Keep the door handle/threshold, binder contact, ring/key fingers and final binder↔key arrangement away from crop edges, black gutters and diagonal dividers. If the key detachment is too small in the wide shot, use an adjacent SAME-OBJECT detail with enough hand/ring context to prove ownership rather than an isolated floating key.
+Use ordinary non-fisheye manhwa perspective from attached corridor/entry/open-plan references. Do not distort character/prop proportions.
+At normal mobile size the reader must verify door opening, Mrs. Na carried binder/key-ring state, binder release before key detachment, one brass key leaving ring, key contacting counter, and binder title when shown.
+Keep door handle/threshold, gloved binder contact, gloved ring/key fingers and final binder↔key arrangement away from crop/gutter/divider edges. A key detail must retain enough gloved-hand/ring context to prove ownership.
 
 ==================================================
 SCALE / SUPPORT / DEPTH — ABSOLUTE
 ==================================================
 
-Binder, brass key, key ring, handbag and counter keep real-world scale from attached references.
-Do not enlarge the key for readability in a way that changes world-space size; use a close-up instead.
-Do not shrink binder to fit one hand unnaturally or let it hover above counter after release.
-Mrs. Na's props must occupy believable depth: handbag supported on body; binder/ring in hands before placement; key actually resting on counter surface after `CLINK`.
+Binder, brass key, key ring, handbag and counter keep real-world scale. Do not enlarge key in world space or shrink binder unnaturally. Mrs. Na's props occupy believable depth and support.
 
 ==================================================
 HAND / OBJECT / ENVIRONMENT MICRO-CONTINUITY — ABSOLUTE
 ==================================================
 
-Track Mrs. Na hands/props corridor → threshold → walk → counter. Binder/key/handbag/ring cannot teleport between hands or duplicate. If framing hides an object, state remains unchanged.
-For V11, binder placement must finish before it rests flat. Key detachment must show key leaving ring before counter placement.
+Track Mrs. Na hands/props corridor → threshold → walk → counter. Binder/key/handbag/ring/gloves/watch cannot teleport, duplicate or change body ownership. If framing hides an object or limb, state remains unchanged.
 
 ==================================================
 NARRATION DESIGN BY SITUATION — ABSOLUTE
@@ -151,31 +151,20 @@ TOP-TO-BOTTOM READER ORDER — ABSOLUTE
 ==================================================
 
 Reader order must be V08→V09→V10→V11.
-Inside V11 the physical/text sequence is also strict:
+Inside V11:
 1. binder contact/release + `THUMP`
 2. key detachment from ring
 3. key contact/release + `CLINK`
 4. binder title/readable object state
 5. Nari's question
 6. Mrs. Na's answer
-
-Do not place `CLINK` or dialogue visually above/before the binder release if that makes the causal order read backward. Balloon tails must not cross so the answer reads before the question.
+Do not invert this sequence with text placement.
 
 ==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Place SMALL BLACK GUTTER between distinct vertical slices. Two separate shots sharing one row use DIAGONAL / SLANTED BLACK DIVIDER. Nothing important crosses slash. Keep all continuity-critical proof safely clear of dividers. No giant dead gap.
-
-==================================================
-MOVEMENT / GEOGRAPHY LOCK
-==================================================
-
-V08: Nari inside; Mrs. Na rings from corridor.
-V09: Nari physically opens SAME canonical front door.
-V10: Nari steps aside and Mrs. Na crosses threshold ONCE, then both walk canonical entry→open-plan→kitchen route.
-V11: arrive at SAME kitchen counter before binder/key placement.
-No teleport from doorway to counter. No second entrance crossing.
+Place SMALL BLACK GUTTER between distinct vertical slices. Two separate shots sharing one row use DIAGONAL / SLANTED BLACK DIVIDER. Keep continuity-critical proof clear of dividers.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -190,22 +179,22 @@ SFX outside closed door:
 SMALL BLACK GUTTER.
 
 V09 — DOOR OPEN
-Mrs. Na stands corridor-side with handbag supported, canonical binder one hand, key ring other.
+Mrs. Na stands corridor-side with SAME mauve coat, jade earrings, analog watch, dark gloves, handbag supported, canonical binder one gloved hand, key ring other gloved hand.
 MRS. NA:
 `I BROUGHT THE APARTMENT GUIDE.`
 
 SMALL BLACK GUTTER.
 
 V10 — THRESHOLD / WALK
-Nari steps aside; Mrs. Na enters through SAME correctly oriented door. Show physical entry→kitchen route. Preserve prop occupancy. No dialogue.
+Nari steps aside; Mrs. Na enters through SAME correctly oriented door. Show physical entry→kitchen route. Preserve prop/body/accessory occupancy. No dialogue.
 
 SMALL BLACK GUTTER.
 
 V11 — BINDER / KEY AT COUNTER
-Mrs. Na sets SAME canonical binder flat on counter and releases it.
+Mrs. Na sets SAME canonical binder flat on counter with a GLOVED hand and releases it.
 SFX at binder:
 `THUMP`
-With hand now free, visibly detach SAME brass backup key from ordinary ring, then place detached key at the fixed separate spot beside binder.
+With that hand now free, visibly detach SAME brass backup key from ordinary ring using the same gloved hands, then place detached key at fixed separate spot beside binder.
 SFX at key/counter:
 `CLINK`
 Printed binder title:
@@ -219,45 +208,37 @@ MRS. NA:
 TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Narration/dialogue/`THUMP`/`CLINK` must not cover:
-- door handle/hinge/opening proof
-- binder contact/release
-- key detachment from ring
-- key counter placement and distinct binder↔key topology
+Narration/dialogue/`THUMP`/`CLINK` must not cover door proof, binder contact/release, key detachment, glove/hand ownership, or final binder↔key topology.
 
-==================================================
 NO DEAD BOTTOM — ABSOLUTE
-==================================================
-
-End on same kitchen-counter conversation with canonical binder/key readable and hallway/open-plan depth behind them. No giant white tail.
+End on same kitchen-counter conversation with canonical binder/key readable and hallway/open-plan depth behind them.
 
 SEAM OUT — G / SAME CONVERSATION
-Strip 003 begins immediately at same counter. Preserve body positions, binder orientation/position, key fixed position beside binder, wardrobe, lighting, hallway lamp geography, room axis.
+Strip 003 begins immediately at same counter. Preserve body positions, Mrs. Na permanent identity/accessories, binder orientation/position, key fixed position, lighting, hallway geography and room axis.
 
 AUTOMATIC REJECT IF
 - any production label appears
 - attached identity/geometry/object construction changes
-- previous-strip permanent drift propagated over canon
-- fisheye/ultra-wide perspective bends entry/counter geometry or distorts character/prop proportions
-- front door hinge/handle/lock/opening direction flips or geometry is mirrored
+- Nari beauty mark missing/duplicated/moved to anatomical right, hair length/color changes, or Nari body gains/loses a limb
+- Mrs. Na face/age/silver twist/mauve coat identity drifts
+- Mrs. Na dark gloves disappear/become bare hands/change hands without action
+- Mrs. Na watch switches wrist/disappears or jade earrings disappear/duplicate/change identity
+- close-up gloved hand cannot belong to Mrs. Na's same arm/body
+- extra/missing/duplicated hand/arm/leg appears
+- front door construction flips
 - Mrs. Na teleports to kitchen
 - handbag/binder/key ring/key require impossible extra hands or float
 - duplicated binder/key/handbag/ring appears
-- binder/key world-space scale changes to fit shot
-- binder orientation/spine/ring side flips between views
+- binder/key scale/orientation drifts
 - key appears both ring and counter after detachment
-- key/binder swap physical sides or overlap without action
-- binder rests on counter before visible placement
-- key detachment before binder frees required hand
-- binder/key contact proof is microscopic, cropped at canvas/gutter/divider edge, or ownership becomes ambiguous in close-up
-- required binder title is unreadable when story composition depends on it
-- V11 text/SFX/balloon layout reads causal order backward
+- binder rests before placement / key detaches before binder frees required hand
+- binder/key proof microscopic/cropped/ownership-ambiguous
+- V11 causal reading order reverses
 - key shape/material drifts
-- brass key already in entry tray
-- room axis flips
-- narration uses generic repeated/top-left technical-tag treatment
-- text hides door/binder/key action proof
-- black divider missing/oversized or cuts critical evidence
+- brass key already entry tray
+- narration becomes generic technical tag
+- text hides action proof
+- black divider missing/oversized/cuts critical evidence
 - giant bottom space appears
 ```
 
