@@ -8,6 +8,7 @@ Always-binding hardening authorities where adopted by the active chapter:
 - `Manhwa/seventh-hardening-visual-logic-addendum.md`
 - `Manhwa/eighth-hardening-presentation-integrity-addendum.md`
 - `Manhwa/ninth-hardening-character-topology-identity-addendum.md`
+- `Manhwa/tenth-hardening-pose-performance-continuity-addendum.md`
 
 ## Mandatory Gates
 
@@ -53,107 +54,142 @@ Always-binding hardening authorities where adopted by the active chapter:
 40. top-to-bottom action/dialogue/SFX/device/narration order matches scripted causal order
 41. critical close-ups retain enough limb/object context to prove ownership and orientation
 42. story-critical exact in-world text remains readable at intended mobile size
-43. **whole-body anatomical topology remains one coherent human body with no extra/missing/duplicated limbs or impossible joints**
-44. **close-up limb ownership remains the same character and same anatomical side as adjacent views**
-45. **permanent character landmark side and pattern relationships do not mirror under reverse cameras**
-46. **face/age/build/hair identity remains canonical through close-ups, expressions, darkness and lighting changes**
-47. **wardrobe construction and signature local colors/materials remain stable within a continuous scene**
-48. **clothing/hair/accessory occlusion does not hide impossible body topology**
-49. **speaking/listening/mouth-state acting agrees with dialogue/thought/device/audio ownership**
-50. wall unplugging removes plug BODY from WALL socket; appliance-side cord remains attached
-51. locally derived outlet remains subordinate to canonical geometry
-52. character↔environment interaction physically believable
-53. lettering/balloons/SFX never hide critical proof
-54. narration design+placement follows scenario, not repeated box/top-left tag
-55. NO reader-visible production/temp-state metadata
-56. every technical strip generated/approved sequentially
-57. strict flat 2D human-drawn style passes actual pixel inspection
-58. power/light/candle/rain/device states coherent/contained
-59. helpful/hostile signatures correct
-60. black read-slice + diagonal-divider grammar correct
-61. no purposeless dead bottom/double-gap seams
-62. mobile lettering readable
-63. stitched chapter has no seams/duplicates/state/topology/orientation/scale/depth/axis/perspective/light/identity/power jumps
-64. final ending matches locked script exactly
-65. fresh final clean-room audit finds zero unresolved mandatory findings
+43. whole-body anatomical topology remains one coherent human body with no extra/missing/duplicated limbs or impossible joints
+44. close-up limb ownership remains the same character and same anatomical side as adjacent views
+45. permanent character landmark side and pattern relationships do not mirror under reverse cameras
+46. face/age/build/hair identity remains canonical through close-ups, expressions, darkness and lighting changes
+47. wardrobe construction and signature local colors/materials remain stable within a continuous scene
+48. clothing/hair/accessory occlusion does not hide impossible body topology
+49. speaking/listening/mouth-state acting agrees with dialogue/thought/device/audio ownership
+50. **pose state persists across adjacent views until a visible action/legal cut changes it**
+51. **shoulder/hip/torso/feet facing remains story-world coherent and does not reset at reverse shots**
+52. **relative character height/build remains stable on the same floor plane**
+53. **emotion intensity progresses only from real scripted causes and does not reset/jump at camera cuts**
+54. **temporary gestures persist until visibly released/changed and never violate hand occupancy**
+55. **clothing-layer/closure/hood/sleeve/bag/mask wear state remains stable within a continuous scene**
+56. **hair/garment motion responds to movement without becoming a redesign**
+57. **strip boundaries inherit pose/facing/relative-scale/emotional state unless a legal cut or first scripted action changes them**
+58. wall unplugging removes plug BODY from WALL socket; appliance-side cord remains attached
+59. locally derived outlet remains subordinate to canonical geometry
+60. character↔environment interaction physically believable
+61. lettering/balloons/SFX never hide critical proof
+62. narration design+placement follows scenario, not repeated box/top-left tag
+63. NO reader-visible production/temp-state metadata
+64. every technical strip generated/approved sequentially
+65. strict flat 2D human-drawn style passes actual pixel inspection
+66. power/light/candle/rain/device states coherent/contained
+67. helpful/hostile signatures correct
+68. black read-slice + diagonal-divider grammar correct
+69. no purposeless dead bottom/double-gap seams
+70. mobile lettering readable
+71. stitched chapter has no seams/duplicates/state/topology/orientation/scale/depth/axis/perspective/light/identity/pose/performance/power jumps
+72. final ending matches locked script exactly
+73. fresh final clean-room audit finds zero unresolved mandatory findings
+
+## Pose-State / Body-Facing Failure — BLOCKING
+
+Reject if a camera cut or reverse shot silently changes:
+- standing/seated/crouched/kneeling/walking/leaning/shielding state
+- weight-bearing leg or feet placement
+- shoulder/hip/torso facing
+- head-vs-torso orientation beyond believable neck range
+- arm/hand gesture
+- spine lean or center of mass
+
+If only head/eyes turn, the rest of the body remains. If a full-body turn or new stance is required, show it physically.
+
+## Relative Height / Build Failure — BLOCKING
+
+Reject world-space character resizing used for composition or drama.
+- Hyun-woo remains clearly taller/broader than Nari when both are upright on the same floor plane
+- Seungjae remains lean-to-average, same-generation peer to Nari and clearly less broad/intimidating than Hyun-woo
+- Mrs. Na retains stable older-adult proportions
+- Nari is not shrunk in final TV shots or enlarged in close-ups
+
+Perspective may change apparent screen size, not body canon.
+
+## Expression / Emotion Continuity Failure — BLOCKING
+
+Reject emotional resets/jumps without story cause.
+Examples:
+- smile → panic → neutral → anger between adjacent dialogue views with no stimulus
+- Nari screaming/crying/collapsing when the script calls for controlled unease or dread
+- Hyun-woo becoming villainous/raging/seductive when the scene calls for guarded/protective calm
+- Seungjae becoming sinister/dominant rather than ordinary confident coworker
+- exaggerated chibi shock, romance sparkle/blush, villain smirk or glamour reaction inserted without script support
+
+The same emotional beat may use multiple camera views; it remains the same continuing performance.
+
+## Gesture Continuity Failure — BLOCKING
+
+Reject a pointing, shielding, phone-holding, hand-to-ear, knife-low, object-contact, notebook/pen or other temporary gesture changing/disappearing without visible release/change or legal cut.
+Do not invent expressive gestures that conflict with already occupied hands or fixed props.
+
+## Clothing-Layer / Closure-State Failure — BLOCKING
+
+Within one continuous scene reject unexplained changes to:
+- jacket/coat present/absent
+- open/closed/fastened state where visible
+- hood up/down
+- sleeve rolled/unrolled
+- bag worn/removed
+- headphones neck position
+- mask seated/lowered state
+
+A legal time/location cut may establish a new layer state, which then becomes stable for that scene.
+
+## Hair / Garment Motion Failure — BLOCKING
+
+Reject flexible motion becoming redesign:
+- Nari long hair changes length/part/volume or ties itself without action
+- Hyun-woo low-tied hair becomes loose/short/bun or changes tail construction
+- Mrs. Na silver twist loosens because camera changes
+- Seungjae hair part/silhouette changes during rain/lobby reverse shots
+- garment/hair motion hides an unperformed torso/pose change
+
+## Emotional / Pose Seam Failure — BLOCKING
+
+Every strip boundary inherits the previous approved strip's last:
+- body support/pose
+- shoulder/hip facing
+- head orientation where relevant
+- gesture/held posture
+- relative distance/height/build relationship
+- emotional intensity
+- clothing-layer state
+
+The next strip changes those only by a legal cut or explicitly visible first action.
 
 ## Character Whole-Body Topology Failure — BLOCKING
 
-Reject:
-- extra/missing/duplicated arms, forearms, hands, legs, feet, ears, fingers or other body parts
-- detached/floating hand, foot, ear, hair mass, jaw, shoulder or limb
-- impossible elbow/knee/wrist/ankle direction
-- shoulder/arm or pelvis/leg connection that cannot connect to the visible torso
-- close-up limb incompatible with adjacent wide-shot pose/body
-- clothing occlusion used to hide an impossible limb count or body connection
-
-Partial occlusion is allowed only when the hidden anatomy remains physically possible.
+Reject extra/missing/duplicated limbs/body parts, detached hands/feet/ears/hair masses, impossible joints/body connections, or close-up limbs incompatible with adjacent body pose.
 
 ## Limb Ownership / Anatomical-Side Failure — BLOCKING
 
-Reject close-up hand/wrist/foot/arm/leg that:
-- belongs to the wrong character
-- switches anatomical side under a reverse shot
-- loses sleeve/glove/tattoo/scrunchie/body cues needed to prove ownership when ownership matters
-- duplicates a hand/foot that still exists elsewhere in the same state
-
-Production-only side identities such as KNIFE HAND, PHONE HAND, WRITING HAND, STEP FOOT and CANDLE FOOT remain binding.
+Reject a close-up limb belonging to the wrong character/side, losing required ownership cues, or duplicating a limb still present elsewhere in the same state.
 
 ## Permanent Character Landmark Failure — BLOCKING
 
-### Yoon Nari
-Reject if the single beauty mark beside the anatomical LEFT corner of her mouth is missing, duplicated, moved to anatomical right or relocated elsewhere when the face is visible.
-
-### Hyun-woo
-Reject mirrored/migrated/changed tattoo coverage or pattern relationships, changed technical-mask construction/attachment, or changed low-tied-hair construction.
-
-### Mrs. Na
-Reject unexplained loss/swap of square jade earrings, analog watch wrist or dark gloves.
-
-### Seungjae
-Reject watch-wrist change, earbud-ear identity change, or medium-brown hair part/silhouette drift.
+- Nari: single beauty mark remains anatomical LEFT when visible.
+- Hyun-woo: tattoo map/mask/low-tied hair construction remains anatomical/canonical.
+- Mrs. Na: jade earrings/watch wrist/dark gloves remain stable.
+- Seungjae: watch wrist/earbud ears/hair silhouette remain stable and he remains exactly age 30.
 
 ## Face / Age / Build / Hair Identity Failure — BLOCKING
 
-Reject a close-up/expression/lighting change that recasts a character:
-- Nari becomes teenage/doll-like/short-haired/wrong-hair-color or a different woman
-- Hyun-woo becomes slim/short-haired/small-bun/unmasked/different-mask/different tattoo-map man
-- Mrs. Na becomes young/glamorous/frail/witch-like or changes silver-twist identity
-- Seungjae appears older than 30, paternal/executive/middle-aged, gray/receding-haired, bearded/stubbled, or resembles Hyun-woo
-
-Expression changes occur on the SAME face.
+Reject any close-up/expression/lighting state that recasts the character from the attached canonical WebP.
 
 ## Wardrobe / Local-Color / Character-Material Failure — BLOCKING
 
-Within a continuous scene reject unexplained changes to clothing construction, signature color or material identity.
-Examples:
-- Nari dark-plum hair becomes pure black/brown/red/neon; yellow scrunchie changes color; hoodie/trousers redesign
-- Hyun-woo tattoo/mask/top changes pattern/material or tattoos become neon/glowing
-- Mrs. Na mauve coat/jade earrings/dark gloves change palette/construction
-- Seungjae hair/outfit changes between reverse shots
-- one character close-up suddenly becomes glossy/wet/cinematic while adjacent views are matte flat 2D
-
-Lighting may alter value/saturation naturally, not identity hue/material.
+Reject unexplained continuous-scene changes to clothing construction, signature local color or matte character material.
 
 ## Clothing / Body Occlusion Failure — BLOCKING
 
-Reject sleeves, trousers, coat, hoodie, hair, headphones, bag straps or mask straps that:
-- attach to the wrong limb/body side
-- create/hide an extra/missing limb
-- clip through body in a way that changes topology
-- expose tattoos through opaque clothing
-- make a detached hand/foot appear to emerge from clothing with no body connection
+Reject clothing/hair/accessory occlusion that attaches to the wrong body side, creates/hides an extra/missing limb, or exposes tattoos through opaque clothing.
 
 ## Speaking / Listening / Mouth-State Failure — BLOCKING
 
-Reject visible acting that contradicts text ownership:
-- listener visibly mouths the speaker's line
-- two characters appear to speak the same single line simultaneously without scripted overlap
-- narration/internal thought/device text/smart-speaker audio is acted as spoken human dialogue
-- powered voice-only Hyun-woo causes a physical human mouth/body to appear
-- masked Hyun-woo's lower face is exposed/redrawn merely to show speech
-
-Mouth animation is optional; source ownership must remain unambiguous.
+Reject visible acting that contradicts text ownership. Narration/internal thought/device/smart-speaker audio is not human spoken dialogue; masked Hyun-woo does not expose his lower face to show speech.
 
 ## Attached-Reference Failure — BLOCKING
 
@@ -161,47 +197,23 @@ Reject permanent canonical drift: mirrored apartment, recast character, redesign
 
 ## Legal-Time-Cut Failure — BLOCKING
 
-Time/location cuts may change ordinary noncritical clutter but cannot erase evidence required afterward, duplicate objects, or reset canon. A legal wardrobe change changes temporary outfit state only, never face/age/body identity.
+Time/location cuts may change ordinary noncritical clutter and may establish a new temporary pose/wardrobe layer, but cannot erase evidence, duplicate objects, or reset permanent canon.
 
-## Deterministic-Mechanism Failure — BLOCKING
+## Deterministic-Mechanism / Action-Proof / Same-Object Failure — BLOCKING
 
-Reject mutually incompatible physical solutions for one critical action. Pick one authoritative sequence.
+Reject contradictory physical solutions, hidden/implied critical mechanisms, fake 2D contact, or close-up/inset duplicates/incompatible same-moment states.
 
-## Action-Proof / Real-Contact Failure — BLOCKING
+## Camera / Text / Reflection / Grip / Worn / Audio Failure — BLOCKING
 
-Reject any continuity-critical event whose decisive mechanism is hidden, cropped, only implied by SFX/result, or represented only by 2D overlap.
-
-## Same-Object Representation Failure — BLOCKING
-
-Wide + close-up/inset must remain one physical object/person with compatible state. Reject duplicate key/plug/knife/phone/binder/notebook/person or incompatible same-moment states.
-
-## Camera-Axis / Eyeline Failure — BLOCKING
-
-Reject continuous conversation/action that silently crosses the 180-degree axis, exchanges physical sides, or points eyes/head/body toward the wrong target.
-
-## Physical Text-Plane / Readability Failure — BLOCKING
-
-Reject in-world text detached from its carrier plane or story-critical exact text that is microscopic, decorative gibberish, crop-truncated or destroyed by hostile distortion.
-
-## Reflection / Shadow False-Duplicate Failure — BLOCKING
-
-Unless explicitly scripted, reject reflected duplicate people/objects, shadow-persons, unknown faces/hands/silhouettes, Hyun-woo afterimages after power return, or shadows requiring nonexistent light.
-
-## Grip / Finger Ergonomics Failure — BLOCKING
-
-Reject unsafe/impossible grips, fingers through/fused with handled objects, generic floating hands, or a grip-hand close-up that cannot connect to the correct arm/body.
-
-## Worn Item / Strap Attachment Failure — BLOCKING
-
-Reject scrunchie/headphones/bag/watch/earbuds/mask straps that float, clip, switch side, duplicate, or move without action.
+All seventh/ninth visual-logic gates remain binding: coherent axis/eyelines, physical text planes, no false reflected/shadow people, usable grips, physically attached worn items, correct audio-source/reaction direction, and correct weather/glass boundaries.
 
 ## Perspective / Mobile / Crop / Lighting / Reader-Order Failures — BLOCKING
 
-All eighth-pass gates remain binding: no lens warping, microscopic proof, crop/divider amputation, inconsistent light/shadow source, ambiguous close-up ownership, or top-to-bottom causal-order inversion.
+All eighth-pass presentation gates remain binding: no lens warping, microscopic proof, crop/divider amputation, inconsistent light/shadow source, ambiguous ownership, or top-to-bottom causal-order inversion.
 
 ## Orientation / Scale / Depth / Gravity / Route Failures — BLOCKING
 
-All sixth-pass physical gates remain binding: orientation/hinges/tracks, stable scale/container fit, true depth/contact, gravity/no-clipping, hand occupancy, provenance/topology, route/collision, and wall-socket semantics.
+All physical gates remain binding: orientation/hinges/tracks, stable object scale/container fit, true depth/contact, gravity/no-clipping, hand occupancy, provenance/topology, route/collision, and wall-socket semantics.
 
 ## Wall-Socket / Cord Failure — BLOCKING
 
@@ -232,7 +244,7 @@ Required WebP missing/stale/wrong-path/unapproved → STOP; no improvised substi
 Use `PRODUCTION COMPLETE` only after all mandatory rendered/stitch/final-audit gates pass.
 
 Accurate intermediate statuses include:
-- `NINTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST STRIP GENERATION`
+- `TENTH / FINAL FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST STRIP GENERATION`
 - `VISUAL QA FAILED — REPAIR / REGENERATE BEFORE NEXT STRIP`
 - `VISUAL QA IN PROGRESS — NOT PRODUCTION COMPLETE`
 - `BLOCKED — REQUIRED CANONICAL VISUAL AUTHORITY MISSING`
