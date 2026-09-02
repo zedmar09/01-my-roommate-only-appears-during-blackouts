@@ -1,222 +1,209 @@
-# Chapter 1 — `manhwa-2d-production-auditor` Ninth Full Deep-Hardening Audit
+# Chapter 1 — `manhwa-2d-production-auditor` Tenth / Final Full Deep-Hardening Audit
 
-Status: **NINTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
+Status: **TENTH / FINAL FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
 
-This record supersedes the first through eighth hardening audits as the current prompt/preproduction authority.
+This record supersedes the first through ninth hardening audits as the current prompt/preproduction authority.
 
-The eighth PASS was deliberately **not accepted as proof**. A ninth clean-room pass challenged Strip 001 through Strip 032 for a new failure class rather than rechecking only known action/topology/presentation problems.
+The ninth PASS was deliberately **not accepted as proof**. A tenth and final clean-room pass challenged Strip 001 through Strip 032 for the final residual failure class rather than repeating the earlier audits.
 
-The ninth-pass failure question was:
+The final-pass question was:
 
-> Can the generator obey the story, references, wall-socket rules, cause/action continuity, object topology, scale/depth, camera axis, text plane, grips, perspective, mobile proof and reading order while still rendering the wrong person through broken body anatomy, wrong limb ownership, mirrored permanent landmarks, age/face/hair recasting, wardrobe/local-color drift, impossible clothing occlusion, or visible mouth acting that contradicts the actual dialogue/thought/device/audio source?
+> Can the generator obey the story, exact references, wall-socket mechanics, real-world causality, object persistence, anatomy, character identity, perspective, mobile proof, text ownership and reading order while still making the same character visibly reset pose, body facing, relative scale, gesture, emotional performance, clothing-layer state or hair/garment motion between adjacent views?
 
 Where yes, the prompt/control files were repaired again.
 
-A new binding authority was added:
-`Manhwa/ninth-hardening-character-topology-identity-addendum.md`
+A final binding authority was added:
+`Manhwa/tenth-hardening-pose-performance-continuity-addendum.md`
 
-After the initial ninth repairs, the current Strip 001→032 package was re-read. That re-read found one additional defect in Strip 001—the first strip did not explicitly establish Nari's permanent landmark/body topology strongly enough when no previous approved strip exists. Strip 001 was repaired, then the current package was rechecked under the ninth gates before this verdict was assigned.
+After all tenth repairs, the complete current Strip 001→032 package was re-read from the current GitHub state. That post-repair clean-room pass found zero additional deterministic prompt/canon defects.
 
-# Ninth-Pass Audit Focus
+# Tenth / Final Audit Focus
 
-The ninth pass audited:
-- whole-body limb/body-part count and anatomical connectivity
-- close-up hand/wrist/foot/arm/leg ownership
-- anatomical side across reverse shots
-- permanent facial marks and tattoo-pattern side
-- character age presentation
-- face/build/hair silhouette continuity
-- wardrobe construction and local-color identity
-- matte character material continuity
-- clothing/hair/accessory/body occlusion topology
-- speaking/listening/mouth-state ownership
-- all earlier reference/wall-socket/causality/topology/orientation/scale/depth/visual-logic/presentation gates
+The final pass audited:
+- standing/seated/crouched/walking/leaning/shielding pose persistence
+- weight-bearing feet and center-of-mass continuity
+- shoulder/hip/torso/foot story-world facing
+- head-vs-torso turn realism
+- temporary gesture persistence
+- relative height/build continuity on the same floor plane
+- emotional intensity/progression from actual story causes
+- clothing-layer/closure/hood/sleeve/bag/headphones/mask wear state
+- hair/garment movement without redesign
+- strip-boundary pose/facing/relative-scale/emotion carryover
+- all nine previous hardening layers
 
-# Ninth-Pass Findings And Repairs
+# Tenth / Final Local Repairs
 
-## 1 — Strip 001: First Nari Render Needed Direct Identity/Body Lock
+## Strip 005 — First Human Voice
 
-There is no previous strip, so generic “use canonical Nari” wording still left too much generation freedom.
+Problem: the physical continuity was strong, but the generator could still jump from ordinary domestic annoyance directly into screaming horror or reset Nari's pose between the chopstick drop and the male voice.
 
 Repair:
-- age-30 canonical face/build
-- long dark-plum mid-back hair; no short-hair reversion
-- exactly one beauty mark beside anatomical LEFT mouth corner
-- exactly two arms/hands and two legs/feet
-- box-support forearm and smart-lock/door hand are the same two real arms; no third hand
-- hand close-up must connect to same body
-- narration/speaker audio cannot be visibly mouthed by Nari
+- V21 dry practical irritation only
+- V22 ordinary relaxed tidying
+- V23 mild annoyance/confusion
+- V24 short localized startle caused by flicker/drop
+- V25 still, wary, disbelieving freeze toward the actual speaker
+- no panic/crying/combat/romance reaction
+- post-drop body/performance carries into Strip 006
 
 **PASS after repair.**
 
-## 2 — Strip 002: Mrs. Na Accessories Could Disappear During Key Handling
+## Strip 009 — Morning Evidence Investigation
 
-The correct binder/key sequence could still be shown with a bare generic hand or altered character accessories.
+Problem: Nari could alternate between panic, blank calm and anger across note/phone/tablet close-ups while all props remained correct.
 
 Repair:
-- same mature face/silver twist/mauve coat
-- same square jade earrings
-- same analog-watch wrist
-- dark gloves remain on both hands through binder/key-ring/key handling
-- gloved close-ups must connect to Mrs. Na's same arm/body
-- Nari beauty-mark/hair/body identity also locked
+- discovery = brief startled disbelief
+- inspection = focused attention
+- photo tests = controlled analytical experiment
+- failed second test = increased unease but still functional
+- tablet test = deliberate continuation of investigation
+- body facing follows note/phone/desk targets without silent torso reset
 
 **PASS after repair.**
 
-## 3 — Strip 006: Correct Wall-Unplug Could Still Use A Generic Detached Hand
+## Strip 012 — Seungjae Social Scene
+
+Problem: correct age/props could still be presented as sinister dominance or exaggerated romance; shared body scale could drift.
 
 Repair:
-- plug-gripping hand/forearm/upper arm must connect to Nari's actual body
-- no opposite-arm switch or third hand between body/detail views
-- Nari beauty-mark/hair/face/build/local color remains canonical
-- existing mandatory WALL + faceplate + socket + plug body + attached cord proof remains unchanged
+- first shared V55 standing view freezes canon-compatible relative scale
+- Seungjae remains lean-to-average and less broad/intimidating than Hyun-woo
+- invitation = practiced friendly/hopeful, not predatory/smug/chaebol dominance
+- Nari answer = restrained genuine warmth, not teenage-romance glamour
+- phone failure = mild confusion/concern only
+- walking facing and clothing-layer state persist
 
 **PASS after repair.**
 
-## 4 — Strip 012: Seungjae Could Age/Recast While Prop Logic Stayed Correct
+## Strip 016 — Blackout Approach
+
+Problem: the approach could switch between listening, screaming fear and action-hero knife poses.
 
 Repair:
-- exactly age 30, same-generation peer to Nari
-- same youthful face, medium-brown hair/full youthful hairline, office-casual outfit and lean-to-average build
-- reject beard/stubble, deep age lines, gray/receding hair, paternal/executive look or Hyun-woo resemblance
-- watch/umbrella/phone close-up limbs must connect to same body
-- Nari identity also locked
+- controlled listening from Strip 015
+- `SLURP` causes small wary freeze/head turn only
+- knife draw is practical self-protection
+- knife remains LOW
+- route = slow deliberate guarded walk
+- final teaser = stunned guarded observation, no scream/collapse/back leap/romance/combat lunge
+- body facing progresses through the real desk→hallway→dining route
 
 **PASS after repair.**
 
-## 5 — Strip 013: Wearable Close-Ups Could Lose Body Ownership
+## Strip 017 — First Full Hyun-woo Exchange
+
+Problem: correct anatomy/identity could still turn the exchange into villain theater or romantic dominance and distort relative scale.
 
 Repair:
-- watch remains same wrist
-- exactly one earbud per ear; removed earbud returns same ear
-- umbrella remains same hand
-- no detached generic hand/ear, extra limb or body-side swap
-- visible acting must agree with actual speaker ownership
+- Nari = wary defensive caution while thinking clearly
+- Hyun-woo = guarded, calm, dry, observant
+- `I CAN SEE THAT.` reads as understatement rather than villain mockery
+- Nari keeps knife LOW and zero steps
+- stable body facing and shared world-space proportions
+- Hyun-woo remains canonically broad/tall without shrinking or monster enlargement
 
 **PASS after repair.**
 
-## 6 — Strip 014: Darkness Could Re-Design Nari
+## Strip 020 — Hostile Start / Chair Rise
+
+Problem: Hyun-woo could become suddenly villainous or be camera-enlarged when he stands.
 
 Repair:
-- same face/build, long dark-plum hair and anatomical-left beauty mark through powered→blackout state
-- same hoodie/trousers/bare feet, yellow scrunchie and neck headphones
-- exactly two arms/hands + two legs/feet
-- darkness changes value only, not identity color/material
-- narration is not visibly spoken by Nari
+- V90–V91 continue guarded interrogation
+- V92 hostile refrigerator is the actual cause of performance escalation
+- V93 rise = focused protective urgency
+- no invented fist/point/grab/aggressive-lunge gesture
+- canonical taller/broader relation becomes visible through physical seated→standing action only
+- Nari is not shrunk for dramatic contrast
 
 **PASS after repair.**
 
-## 7 — Strip 017: First Full Hyun-woo Appearance Needed A Permanent Body-Surface Lock
+## Strip 021 — Protective Crossing
+
+Problem: true blocking geometry could still be acted as domineering/romantic/villainous looming.
 
 Repair:
-- same broad athletic/engineer build
-- same long black low-tied hair construction
-- same matte-black technical mask
-- same anatomical tattoo coverage/pattern relationships on neck/collarbones/shoulders/arms
-- no mirrored/migrated/duplicated/neon tattoo map
-- chopstick-hand close-up connects to same tattooed forearm/arm/shoulder/body
-- masked dialogue does not expose/redraw lower face
+- route = efficient protective repositioning
+- final body orientation protects against refrigerator while still allowing Hyun-woo to address Nari
+- `NARI. LOOK AT ME.` = firm grounding/protective urgency
+- Nari remains tense but controlled
+- relative height/build remains physical, never foreground trickery
 
 **PASS after repair.**
 
-## 8 — Strip 018: Chopstick Hand Could Become A Different Mask Hand
+## Strip 025 — Power Return / Absence
+
+Problem: the return could invent a sentimental farewell, reaching gesture or panic reset.
 
 Repair:
-- SAME tattooed hand/arm releases chopsticks
-- SAME hand becomes empty
-- SAME hand/forearm/arm travels to mask hardware
-- no extra hand, opposite-arm swap or tattoo-map change
-- same mask/hair/build/body through the name reveal
+- V113–V116 same restrained tense conversation
+- Hyun-woo remains calm/direct, no wave/touch/embrace/reaching/fade
+- Nari concern increases without moving feet
+- V117 eye shielding = functional reflex from same fixed body
+- absence has no farewell/disappearance performance
+- V118 = stunned, unsettled, functional realization that carries into Strip 026
 
 **PASS after repair.**
 
-## 9 — Strip 023: Correct Climax Timing Could Still Break Limb Ownership
+## Strip 032 — Final Reveal
+
+Problem: a correct TV message could still produce an entirely new hero/horror pose or melodramatic reaction.
 
 Repair:
-- Nari FREE HAND and KNIFE HAND remain exactly two real hands
-- STEP FOOT/CANDLE FOOT remain correct legs
-- former-KNIFE-HAND wrist remains same connected arm after knife release
-- Hyun-woo catching hand/forearm/elbow/upper arm connects to his same body from the real blocking position
-- catching-arm tattoo side stays correct
-- no generic detached/third hand
-- `WARM.` remains internal thought, never spoken
+- exact seated Strip 031 body state persists
+- message causes controlled dread / stunned recognition
+- only subtle face/head/upper-torso reaction allowed
+- no stand/jump/chair turn/cover-mouth/notebook grab/point/scream/cry/collapse/flailing/chibi/romantic glamour
+- one `FZZT` does not create a second pose reset
+- ending power comes from stillness + message + continuity
 
 **PASS after repair.**
 
-## 10 — Strip 024: Wrist Release Could Switch Arm/Side
+# Other 23 Strips
 
-Repair:
-- exact same former-KNIFE-HAND wrist remains held at start
-- exact same Hyun-woo catching arm/tattoo side remains connected to his body
-- fingers open/disengage; hand moves away; no arm/hand deletion or swap
+The other 23 strips were re-read under the tenth/final pose-performance addendum:
+`001, 002, 003, 004, 006, 007, 008, 010, 011, 013, 014, 015, 018, 019, 022, 023, 024, 026, 027, 028, 029, 030, 031`.
 
-**PASS after repair.**
+Their existing hardened prompts, seams and legal time cuts were compatible with the final rules. No additional deterministic local rewrite was justified.
 
-## 11 — Strip 031: Writing Could Create A Third Hand Or Recast Nari
+**PASS at tenth/final hardened prompt level.**
 
-Repair:
-- exactly two Nari hands total
-- SAME WRITING HAND writes both notebook entries
-- non-writing hand, if used, is the other real connected arm only
-- no third stabilizing hand
-- Nari beauty mark/hair/face/outfit identity preserved through writing→TV turn
-- notebook text is written, not mouthed; TV content is device text, not Nari speech
+# Final Post-Repair Clean-Room Strip 001→032 Re-Audit
 
-**PASS after repair.**
-
-## 12 — Strip 032: Final Hero Composition Could Duplicate/Recast Nari
-
-Repair:
-- same face/hair/beauty-mark/body/worn state as Strip 031
-- no extra reaction arm/torso/body duplicate
-- `NEW TENANT CONFIRMED` remains device text; Nari reacts silently and does not mouth it
-- `FZZT` changes light value briefly, not character identity color/material
-
-**PASS after repair.**
-
-# Other 20 Strips
-
-The other 20 strips were re-read under the ninth character-topology/identity gates:
-`003, 004, 005, 007, 008, 009, 010, 011, 015, 016, 019, 020, 021, 022, 025, 026, 027, 028, 029, 030`.
-
-Their existing hardened prompts plus attached canonical character WebPs and the new global ninth addendum were sufficient. No additional deterministic local rewrite was justified.
-
-**PASS at ninth-hardened prompt level.**
-
-# Ninth Post-Repair Clean-Room Strip 001→032 Re-Audit
-
-After all ninth repairs—including the additional Strip 001 correction found during the post-repair sweep—the current package was rechecked under the complete ninth gate stack.
+After all tenth/final repairs, the complete current package was re-read from Strip 001 through Strip 032.
 
 ## 001–004
-Nari first identity lock, Mrs. Na accessories/body ownership, hallway conversation and departure/time-cut continuity remain coherent.
+Move-in, Mrs. Na arrival, hallway warning and departure/time cut preserve legal pose/performance transitions and permanent canon.
 
 **PASS.**
 
 ## 005–010
-First voice/chopsticks, wall-unplug body ownership, TV/fridge/key route, paper/photo evidence and missing-section proof remain coherent.
+First human voice, wall-unplug proof, TV/fridge/key route, supernatural paper/photo evidence and binder investigation preserve physical and emotional progression.
 
 **PASS.**
 
 ## 011–016
-Kit/tray, Seungjae age/body/wearables, blackout Nari identity, failed tools and knife-draw/teaser remain coherent.
+Blackout kit, Seungjae social/device sequence, legal later-night home-state cut, outage, failed tools and guarded approach preserve pose/facing/relative scale/performance.
 
 **PASS.**
 
 ## 017–024
-Hyun-woo canonical body/tattoos/mask/hair, chopstick→mask hand continuity, interrogation/step/chair/block/candle, knife fall and same-arm wrist release remain coherent.
+Hyun-woo reveal, mask reseat, interrogation, one step, protective rise/block, candle warning, knife fall and wrist release preserve guarded→protective→acute-shock progression without pose resets.
 
 **PASS.**
 
 ## 025–032
-Power return, evidence devices, cabinet/speaker aftermath, food/notebook routing, Nari writing anatomy and final Nari/TV state remain coherent.
+Power return, evidence checks, cabinet/speaker aftermath, cautious food, notebook route, writing/TV activation and final message preserve stunned→investigative→controlled-dread progression and exact body-state seams.
 
 **PASS.**
 
 No additional deterministic prompt/canon defect remains in the current textual/reference package.
 
-# Ninth-Pass Prompt Gate Counts
+# Final Prompt-Level Gate Counts
 
-After ninth repairs and the completed post-repair 001→032 clean-room audit:
+After tenth/final repairs and the completed post-repair 001→032 clean-room audit:
 - **BLOCKER: 0**
 - **MAJOR: 0 unresolved deterministic prompt/canon issues**
 - **MINOR requiring correction: 0**
@@ -228,30 +215,25 @@ These counts apply ONLY to textual/reference preproduction authority, not render
 
 Earlier problematic renders remain rejected.
 
-New images still require actual pixel inspection for:
-- canonical face/age/build/hair identity
-- whole-body anatomical topology / exact limb count
-- close-up limb ownership/anatomical side
-- Nari's anatomical-left beauty mark
-- Hyun-woo tattoo-map/mask/low-tied-hair fidelity
-- Mrs. Na gloves/watch/jade earrings
-- Seungjae age-30/hair/outfit identity
-- wardrobe/local-color/material continuity
-- speaking/listening/mouth-state ownership
-- real wall-socket unplugging
-- perspective/mobile/crop integrity
+The new images still require actual pixel inspection for all gates, especially:
+- exact attached-reference fidelity
+- plug removed from WALL socket, appliance cord still attached
+- vertical-to-vertical object persistence
+- character anatomy/limb ownership and permanent landmarks
+- pose/facing/relative-height-build continuity
+- emotion/gesture/clothing-layer/hair-motion continuity
+- environment/object topology and routes
 - camera-axis/eyelines
+- perspective/mobile/crop safety
+- lighting/shadow direction
 - physical text planes + exact text readability
 - real grips/body support/worn-item attachment
-- lighting/shadow direction
-- reflection/shadow false duplicates
-- food/prop continuity
 - strict flat 2D matte human-drawn style
-- lettering/SFX/read order
+- narration/lettering/SFX/read order
 - seams/dead-space/stitching/mobile readability
 
 # Final Current Verdict
 
-**NINTH FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
+**TENTH / FINAL FULL HARDENED PREPRODUCTION GATE PASS — READY TO RETEST FROM STRIP 001 — NOT PRODUCTION COMPLETE**
 
-Next production action remains a brand-new Strip 001 followed by actual-image visual audit before Strip 002 is allowed.
+This is the final prompt/reference hardening audit. The next valid step is a brand-new Strip 001 followed by actual-image visual QA. No rendered strip is certified by this textual PASS.
