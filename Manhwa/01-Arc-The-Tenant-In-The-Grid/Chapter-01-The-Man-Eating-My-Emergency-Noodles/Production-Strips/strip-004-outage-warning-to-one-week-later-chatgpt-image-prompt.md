@@ -31,8 +31,8 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
 START:
-- exact Strip 003 counter positions
-- SAME binder + SAME brass key remain in exact Strip 002–003 counter topology: binder flat, key at fixed distinct spot beside it
+- exact Strip 003 counter positions and conversation axis
+- SAME binder + SAME brass key remain exact Strip 002–003 counter topology: binder flat, key at fixed distinct spot beside it
 - hallway lamp normally powered
 - Mrs. Na still inside; front door CLOSED at canonical hinge/handle/smart-lock orientation
 
@@ -46,7 +46,7 @@ ALLOWED CHANGES:
 - Mrs. Na crosses threshold outward ONCE and clears doorway
 - only after Mrs. Na fully outside, Nari physically closes SAME door on SAME canonical hinge; no re-entry
 - legal `ONE WEEK LATER` cut permits changed Nari pose/blanket and temporary automation state, but not changed architecture or permanent prop identities
-- V20 may show the exact scripted thermostat value 19°C; if a thermostat control is not clearly modeled in attached canon, derive only the smallest ordinary temporary control detail inside existing canonical wall geometry under global Derived Micro-Detail rule
+- V20 may show exact scripted thermostat value 19°C; if a thermostat control is not clearly modeled in attached canon, derive only the smallest ordinary temporary control detail inside existing canonical wall geometry under global Derived Micro-Detail rule
 
 END:
 - binder = kitchen counter at same orientation/scale
@@ -95,6 +95,17 @@ The closed front-door end state must be caused on-page before time cut:
 Reverse camera may flip screen-left/right but cannot move hinge/handle/smart lock to opposite physical door edge or turn the door into a different mechanism.
 
 ==================================================
+PERSPECTIVE / CROP-SAFE ACTION PROOF — ABSOLUTE
+==================================================
+
+Use ordinary non-fisheye perspective throughout the counter→entry movement.
+- no ultra-wide bending of counter, hallway, door frame, floor lines or bodies
+- do not use extreme foreground hands/key that distort Nari/key proportions or hide the real counter/entry relationship
+
+Key pickup, key/tray placement, Mrs. Na threshold clearance, and Nari's door-close hand/door edge must be fully inside the readable frame with safe margins from canvas edges, black gutters and diagonal dividers.
+A close-up of the key must retain enough hand/counter/tray context to prove source/destination rather than becoming an isolated floating object.
+
+==================================================
 MICRO-CONTINUITY / ROUTE REALISM — ABSOLUTE
 ==================================================
 
@@ -102,7 +113,7 @@ Both women physically traverse canonical counter→entry path without crossing f
 After time cut permanent architecture/furniture/appliance bodies remain exact; only temporary pose/clutter/automation may change believably.
 
 ==================================================
-THERMOSTAT 19°C — CANON-SUBORDINATE MICRO-DETAIL
+THERMOSTAT 19°C — CANON-SUBORDINATE / MOBILE-READABLE
 ==================================================
 
 `THE THERMOSTAT KEPT RESETTING TO 19°C.` requires readable 19°C evidence but does NOT authorize new permanent wall architecture.
@@ -113,7 +124,20 @@ Rules:
 - do not add/move wall, doorway, cabinet, light, appliance, furniture, or wiring to make room
 - do not render a giant futuristic control panel, hologram, tablet, or smart-home UI floating in room
 - derived control remains temporary Chapter 1 visual micro-detail only, subordinate to canonical environment WebPs
-- 19°C must be readable without enlarging the device to unrealistic world-space scale
+- exact `19°C` must be genuinely readable at normal mobile scale
+- if the canonical wide makes the digits too small, use a SAME-OBJECT detail of the actual thermostat rather than enlarging the thermostat in world space
+- thermostat and `19°C` must stay clear of crop/gutter/divider edges
+
+==================================================
+ONE-WEEK-LATER LIGHTING CONTINUITY — ABSOLUTE
+==================================================
+
+V19/V20 are ordinary powered morning/indoor scenes, not supernatural lighting.
+- curtain opening may admit plausible daylight from the canonical window direction
+- adjacent morning shots must keep that daylight/powered-light direction coherent
+- do not move the dominant window light to the opposite side between V19 and V20 without a real camera/reorientation explanation
+- no horror shadow, rim light, bloom or device glow
+- dry-comedy cold/blanket feeling comes from pose/expression and normal lighting, not blue cinematic grading
 
 ==================================================
 NARRATION DESIGN BY SITUATION — ABSOLUTE
@@ -126,10 +150,18 @@ Do not use one narration design/default top-left placement:
 Keep one publication typography family; never mimic device UI/technical labels.
 
 ==================================================
+TOP-TO-BOTTOM DIALOGUE / ACTION ORDER — ABSOLUTE
+==================================================
+
+V16→V18 dialogue must read in the scripted order without balloon-tail crossings that invert speakers.
+Within V18, the physical key transfer/`CLINK`, doorway dialogue, Mrs. Na exit, and Nari door close must read in that actual sequence. Do not place the door-close image above the exit dialogue or place `CLINK` so early that it reads before key/tray contact.
+After the door is visibly closed, THEN the `ONE WEEK LATER` transition begins.
+
+==================================================
 BLACK READ-SLICE DIVIDER — ABSOLUTE
 ==================================================
 
-Every distinct vertical story slice gets SMALL BLACK GUTTER. Side-by-side separate camera slices get DIAGONAL / SLANTED BLACK DIVIDER. The one-week cut may use slightly stronger compact black band, never dead space.
+Every distinct vertical story slice gets SMALL BLACK GUTTER. Side-by-side separate camera slices get DIAGONAL / SLANTED BLACK DIVIDER. The one-week cut may use slightly stronger compact black band, never dead space. Keep continuity-critical proof safely clear of divider/crop edges.
 
 ==================================================
 V16–V18 SAME CONVERSATION / PHYSICAL ROUTE
@@ -187,7 +219,7 @@ Unit geometry unchanged.
 SMALL BLACK GUTTER.
 
 V20 — THERMOSTAT
-Thermostat/control reads exactly 19°C at canonical or canon-subordinate micro-detail location. Nari blanket-wrapped/annoyed.
+Thermostat/control reads exactly `19°C` at canonical or canon-subordinate micro-detail location. Nari blanket-wrapped/annoyed.
 NARRATION:
 `THE THERMOSTAT KEPT RESETTING TO 19°C.`
 
@@ -222,21 +254,24 @@ AUTOMATIC REJECT IF
 - any production label appears
 - attached references redesigned/mirrored
 - permanent drift previous strip propagated over canon
+- fisheye/ultra-wide perspective distorts door/counter/route or character/key proportions
 - binder/key starting topology differs from Strip 002–003 without action
-- key pickup/tray contact hidden; key teleports/duplicates
+- key pickup/tray contact hidden, microscopic, edge-cropped, divider-cut, teleported or duplicated
 - binder moves/rotates/mirrors while Nari takes key
 - Mrs. Na carries binder away
 - door hinge/handle/smart-lock side/opening direction flips
 - Mrs. Na exits through closed door/remains half-inside at closure
 - thermostat/control invents new permanent architecture or oversized futuristic UI
-- 19°C missing/changed/unreadable
+- exact 19°C missing/changed/unreadable/microscopic or thermostat detail is edge-cropped
+- morning lighting direction contradicts canonical windows/powered sources between V19/V20
 - manual/key scale/orientation drifts
 - Mrs. Na remains inside after V18
 - apartment geometry changes after time cut
+- dialogue/action layout reads exit/door close/time cut out of sequence
 - generic narration/top-left tag forced across contexts
 - supernatural screen effect appears early
 - text hides physical action/evidence
-- black separators missing/oversized
+- black separators missing/oversized or cut critical proof
 - giant dead bottom appears
 ```
 
