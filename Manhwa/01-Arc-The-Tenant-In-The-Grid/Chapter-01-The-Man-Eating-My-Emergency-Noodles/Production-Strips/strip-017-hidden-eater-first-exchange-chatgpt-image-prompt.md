@@ -21,9 +21,30 @@ ATTACH — REQUIRED
 REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached WebPs are permanent authority. APPROVED Strip 016 controls temporary Nari threshold/KNIFE HAND/worn state and teaser only.
-Preserve identities, dining/refrigerator geometry, table/chair scale, pot/trivet/cloth/candle scale/orientation/depth, pantry, blackout lighting, entrance distance, KNIFE HAND, SCRUNCHIE WRIST, headphones.
+Attached WebPs are permanent authority. APPROVED Strip 016 controls temporary Nari threshold/KNIFE HAND/worn state and Hyun-woo teaser position only.
+Preserve identities, dining/refrigerator geometry, table/chair scale, pot/trivet/cloth/candle topology, pantry, blackout lighting and entrance distance.
 Never render V76–V80/P10/P11/Strip017/temp-state labels.
+
+==================================================
+CHARACTER TOPOLOGY / PERMANENT IDENTITY — NON-NEGOTIABLE
+==================================================
+
+NARI:
+- SAME age-30 canonical face/build, long dark-plum hair and anatomical-LEFT mouth beauty mark
+- knife remains SAME KNIFE HAND; SCRUNCHIE WRIST/headphones remain same body locations
+- no extra/missing/duplicated limb or close-up limb that cannot connect to same body
+
+HYUN-WOO — THIS IS THE FIRST FULL PHYSICAL IDENTITY LOCK:
+- SAME tall broad athletic/engineer build from canonical card; do NOT slim, shorten, recast as generic lean man or exaggerate bodybuilder proportions
+- SAME long BLACK hair tied LOW at nape/back of neck with same gathered tail/mass and loose front/temple strands; no short hair, undercut or tiny bun
+- SAME matte-black sleeveless top, dark utility trousers and canonical adult body proportions
+- SAME matte-black technical lower-face mask construction/side hardware/straps; eating state temporarily clears mouth only as scripted without redesigning mask
+- SAME permanent tattoo coverage/pattern relationships across neck/collarbones/shoulders/both arms; reverse camera may flip screen side but tattoo anatomy may NOT mirror, migrate, vanish, duplicate or redraw into different symbols
+- tattoos remain matte-black circuit-sigil ink with only restrained canonical accents; no neon/glowing veins
+- exposed shoulders/arms remain one coherent body: exactly two arms/hands, no extra/missing forearm, fused shoulder, duplicated tattooed limb or impossible elbow/wrist
+- mask straps/hair/tattoos/clothing respect physical front/behind order
+
+Character close-ups must still look like the SAME people. Candle darkness may lower value but cannot recolor Hyun-woo hair/mask/tattoos or Nari hair/scrunchie into new identity colors.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
@@ -32,15 +53,13 @@ START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 START:
 - Nari exact entrance mark, several feet away; knife low SAME KNIFE HAND; worn state unchanged
 - Hyun-woo seated in canonical chair closest kitchen/refrigerator
-- SAME noodle cooking pot on SAME trivet at one fixed world-space table position
-- SAME pot handle orientation fixed; SAME folded cloth at same hot-handle side
-- SAME short pillar candle + ceramic holder at one fixed distinct table position
+- SAME noodle cooking pot/trivet/cloth/candle topology
 - SAME chopstick pair in Hyun-woo hand
 - pantry exactly five unopened packets
-- ONE empty spicy-seafood outer packet at one fixed one-short-step floor spot ahead of Nari
-- ONE seasoning wrapper at one fixed table spot near pot
+- ONE empty spicy-seafood outer packet fixed one-short-step floor spot ahead of Nari
+- ONE seasoning wrapper fixed table spot
 - Unit power absent
-- SAME mask attached, mouth cleared for eating; same straps/hardware follow canonical head/hair route
+- SAME mask attached, mouth cleared for eating; straps/hardware remain connected
 
 ALLOWED CHANGES:
 - one small visible `SLURP`/bite in V76
@@ -53,116 +72,82 @@ ALLOWED CHANGES:
 END:
 - same positions/distance
 - chopsticks still Hyun-woo hand, lowered near pot
-- mask eating state
+- mask same eating state
 - five pantry packets; packet floor spot; wrapper table spot
-- exact dining scale/depth/topology unchanged
+- character identity/tattoo/hair/mask/body topology unchanged
 
 ==================================================
-DIALOGUE CAMERA AXIS / EYE-LINE — NON-NEGOTIABLE
+DIALOGUE CAMERA AXIS / SPEAKING-STATE LOGIC — ABSOLUTE
 ==================================================
 
-V76–V80 are one continuous guarded conversation across the dining entrance/table.
-- Nari remains entrance-side; Hyun-woo remains table-side in his chair
-- preserve one readable conversation/action axis through the exchange
-- reverse shots may flip screen-left/right but cannot place Nari on Hyun-woo's table side or Hyun-woo on Nari's entrance side
-- Nari eyes/head aim toward the actual seated Hyun-woo position when speaking/listening
-- Hyun-woo eyes/head aim toward Nari when replying while body remains seated
-- if either glances to pot/chopsticks, gaze must point toward the real pot location, then return naturally
-- do not silently cross the 180° axis and make their gazes point away from each other
+V76–V80 are one continuous guarded conversation.
+Nari remains entrance-side; Hyun-woo remains seated table-side.
+Eyelines meet across one readable axis.
 
-A neutral establishing view may reorient the axis if absolutely needed, but no world position changes.
+Dialogue ownership:
+- V77 Nari speaks; Hyun-woo listens
+- V78 Hyun-woo speaks through/behind SAME mask/eating configuration without exposing a redesigned lower face
+- V79 Nari and Hyun-woo alternate exactly as scripted; do not make both mouths/heads act as if speaking the same line
+- V80 Hyun-woo speaks; Nari listens
+- mask coverage means visible mouth animation is not required for Hyun-woo and must never expose lower face merely to show speech
 
-==================================================
-DINING OBJECT SCALE / DEPTH / SUPPORT — NON-NEGOTIABLE
-==================================================
-
-Freeze stable real-world scale for cooking pot, trivet, cloth, candle/holder, wrapper/outer packet, table/chairs and both adults. Perspective may change apparent size only.
+Balloon tails cannot compensate for wrong speaking/listening body language.
 
 ==================================================
-DINING DEPTH-ORDER / TOPOLOGY — ABSOLUTE
+DINING SCALE / TOPOLOGY — ABSOLUTE
 ==================================================
 
-Real tabletop/floor space:
-- Hyun-woo chair nearest kitchen/refrigerator side
-- pot/trivet exact table position
-- pot handle fixed story-world direction
-- cloth same hot-handle side
-- candle/holder separate fixed table position
-- wrapper separate table spot
-- outer packet floor only
-- five unopened packets pantry
-Reverse shots cannot swap near/far depth or story-world sides.
+Freeze pot/trivet/handle/cloth/candle/wrapper/outer packet/table/chairs/adult scale and real near/far order. Reverse shots cannot swap story-world positions.
 
 ==================================================
-NOODLE / CHOPSTICK GRIP / EATING PATH — ABSOLUTE
+NOODLE / CHOPSTICK / HAND ANATOMY — ABSOLUTE
 ==================================================
 
-Hyun-woo holds one chopstick pair with a believable eating grip:
-- fingers contact both sticks in usable orientation
-- sticks do not fuse with fingers/palm
-- no third stick
-- if noodles lift, actual strand path pot→chopsticks→mouth completes through visible bite/lowering
-- strands cannot pass through mask, hand, hair, pot rim or face
+Hyun-woo uses ONE chopstick pair with a believable eating grip.
+- correct finger count/joints
+- sticks contact usable fingers, no fusion/third stick
+- hand connects to the same tattooed forearm/arm/shoulder from wide view
+- tattoo markings continue correctly onto that same anatomical arm; close-up may not switch to the opposite tattoo map
+- noodle path pot→chopsticks→mouth completes visibly through bite/lowering and cannot pass through mask/hand/hair/pot rim/face
 - pot contents reduce only by visible bite
 
 ==================================================
-MASK STRAP / HAIR / FACE DEPTH — ABSOLUTE
+MASK / HAIR / TATTOO DEPTH — ABSOLUTE
 ==================================================
 
-Mask remains attached by SAME canonical hardware/straps while mouth is cleared for eating.
-- straps/hardware stay physically routed around correct head/ear/hair regions
-- no strap passes through ear, skull, hair mass or neck
-- long low-tied hair remains behind/in front of straps only in physically plausible order
-- mask body remains a real object in front of lower face, not face paint
-- lower face remains concealed by angle/action/shadow; no reflection reveals it
-- no second mask or detached loose strap
-
-Strip018 performs actual reseat; do not finish it here.
+Mask remains one physical engineered object. Straps/hardware stay routed around correct head/ear/hair regions. Long low-tied hair remains physically behind/in front only as construction allows.
+Tattoo ink stays on exposed skin only and cannot appear through opaque mask/top/trousers.
+No second mask, detached strap, duplicate hair tail, mirrored tattoo sleeve or reflected lower face.
+Strip 018 performs actual reseat; do not finish it here.
 
 ==================================================
-CANDLE SHADOW / REFLECTION DISCIPLINE — ABSOLUTE
+CANDLE LIGHT / LOCAL-COLOR CONTINUITY — ABSOLUTE
 ==================================================
 
-The small candle is the only local active interior light source in this confrontation.
-- light remains small/local matte amber
-- any cast shadow must correspond to actual Nari/Hyunwoo/table objects and candle direction
-- no giant wall shadow-person, extra silhouette, reflected face/figure in fridge/TV/window/counter
-- no reflection may reveal Hyun-woo's hidden lower face or create a second Nari/Hyun-woo
-- do not add cinematic rim light/bloom
+Small candle is the only local active interior light. Keep matte amber, physically sourced shadows and stable character local colors. No giant silhouette, rim light, neon tattoo glow or glossy skin/mask/hair.
 
 ==================================================
-NARI BODY / WORN ATTACHMENT — ABSOLUTE
+SAME-OBJECT / SAME-BODY INSERTS — ABSOLUTE
 ==================================================
 
-Nari takes ZERO steps. Knife stays low SAME KNIFE HAND with usable handle grip. Scrunchie physically encircles SAME wrist. Headphones physically rest around neck/hoodie and do not clip through hair/neck/knife arm.
-
-==================================================
-SAME-OBJECT INSERT / NO DUPLICATION — ABSOLUTE
-==================================================
-
-Pot/noodle/chopstick/packet/wrapper/candle/mask close-up = SAME physical object/state. No duplicate pot/packet/wrapper/candle/chopsticks/mask.
+Pot/noodle/chopstick/packet/wrapper/candle/mask/hand/tattoo close-up = SAME physical object/body state.
+Do not create a second tattooed arm, second mask, extra hand, duplicate Hyun-woo body or alternate face.
 
 ==================================================
 TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Narration/dialogue/`SLURP` cannot cover noodle path, chopstick grip, mask mouth-clear/strap state, Nari knife/worn state, feet/packet relation, pantry proof or table topology.
+Narration/dialogue/`SLURP` cannot cover noodle path, hand ownership, mask hardware, tattoos needed for identity, Nari knife/worn state, packet/pantry or table topology.
 
 ==================================================
-NARRATION
+NARRATION / VERTICAL STORY FLOW
 ==================================================
 
-V76 narration:
+V76
+NARRATION:
 `NARI HADN'T LIT THAT CANDLE.`
 `SHE HADN'T COOKED THE NOODLES.`
-Sparse uncanny realization, not fake UI/top-left tag. No invented narration V77–V80.
-
-==================================================
-VERTICAL STORY FLOW
-==================================================
-
-V76 — HIDDEN EATER / EVIDENCE
-Show stable dining scale/depth, five pantry packets, one floor outer packet, separate wrapper.
+Show five pantry packets, one floor packet, wrapper, SAME canonical Hyun-woo body/hair/mask/tattoo identity.
 SFX:
 `SLURP`
 Complete visible noodle action.
@@ -194,25 +179,29 @@ SMALL BLACK GUTTER.
 V80
 HYUN-WOO:
 `YOU'VE BEEN TALKING TO ME FOR DAYS.`
-Chopsticks lower near SAME pot but remain in hand.
+Chopsticks lower near SAME pot but remain in SAME tattooed hand/arm.
 
 ==================================================
 SEAM
 ==================================================
 
-Strip018 inherits exact world-space positions, conversation axis, dining scale/depth/orientation, chopstick grip/rest-start state, mask straps/hair route and Nari worn/knife state.
+Strip 018 inherits exact positions/axis, dining topology, chopstick hand, SAME Hyun-woo tattoo map/mask/hair/body identity and Nari identity/worn/knife state.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
-- attached geometry redesigned/mirrored
-- dialogue axis silently flips / characters exchange physical sides / eyelines point away from actual speaker
-- Nari moves/knife changes hand/worn items float/clip/swap
-- pot/trivet/cloth/candle/table/chair/packet scale or depth changes
-- pot handle/cloth side flips
-- chopstick grip impossible/fused/third stick or noodle path clips/vanishes
-- mask straps/hardware clip through head/ear/hair/neck, duplicate/detach, or lower face is revealed via reflection
-- reflected/shadow duplicate person/figure appears or candle casts impossible giant shadow
-- text hides food/mask/topology evidence
+- Nari beauty mark/hair/body identity drifts or extra/missing limb appears
+- Hyun-woo build slims/changes, hair shortens/bun changes, mask redesigns or lower face is exposed
+- Hyun-woo tattoo coverage/pattern mirrors, migrates, disappears, duplicates, changes symbols/colors or glows neon
+- extra/missing/duplicated Hyun-woo limb/hand/foot/ear/hair tail appears
+- chopstick close-up hand cannot connect to same tattooed arm/body or switches anatomical tattoo map
+- characters exchange physical sides/eyelines fail
+- listener appears to mouth another character's line or Hyun-woo lower face is exposed to show speech
+- pot/table/chair/packet scale/depth changes
+- noodle path clips/vanishes
+- mask straps/hair/tattoos clip through body/clothing or tattoo shows through opaque fabric
+- reflected/shadow duplicate person/lower face appears
+- candle creates cinematic/glossy/neon character rendering
+- text hides identity/food/topology evidence
 - black dividers missing/oversized
 ```
 
