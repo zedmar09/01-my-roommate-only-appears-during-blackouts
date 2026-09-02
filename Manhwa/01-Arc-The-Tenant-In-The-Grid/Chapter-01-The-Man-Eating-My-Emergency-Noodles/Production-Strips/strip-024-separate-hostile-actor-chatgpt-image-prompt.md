@@ -4,7 +4,7 @@
 Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing seconds after APPROVED Strip 023.
 
 PRODUCTION SCOPE
-V108–V112. Historical P15 mapping only.
+V108–V112.
 
 ATTACH — REQUIRED
 - `Character-References/nari-canonical-flat2d.webp`
@@ -19,135 +19,115 @@ ATTACH — REQUIRED
 - this Strip 024 prompt
 
 ==================================================
-REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE / START STATE — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 023 controls temporary same-wrist/contact/knife/candle/table/foot/worn state only; correct permanent drift to canon rather than propagating it.
-Preserve exact post-candle body geometry, SAME former-KNIFE-HAND wrist contact, SAME STEP FOOT/CANDLE FOOT marks, SAME SCRUNCHIE WRIST, SAME headphones around neck, knife floor spot, separate packet floor spot, extinguished candle, pushed chair, full dining topology, fridge body/display, blackout state.
-Never render V108–V112, P15, Strip 024, KNIFE HAND, SCRUNCHIE WRIST, STEP FOOT, CANDLE FOOT, beat/panel/scene labels, or production metadata anywhere, especially top-left.
-
-==================================================
-START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
-==================================================
+Attached refs permanent. APPROVED Strip023 controls temporary grip/feet/knife/candle/topology/worn state only.
+Never render V/P/strip/temp-state labels.
 
 START:
-- Nari = SAME table-edge-adjacent post-reach position
-- STEP FOOT = SAME planted mark from Strip 023
-- CANDLE FOOT = SAME half-step-forward mark from Strip 023
-- Hyun-woo = SAME close protective position and STILL holding wrist of SAME former KNIFE HAND arm from V107
-- SCRUNCHIE WRIST unchanged; SAME headphones around neck
-- SAME knife = exact `CLANG` floor spot, separate from both feet and packet
-- SAME empty spicy-seafood outer packet = separate nudged floor spot near STEP FOOT
-- candle = extinguished same holder/table
-- full dining topology unchanged: pot/trivet, cloth hot-handle side, Pair A chopsticks rest point, seasoning wrapper, pushed chair, five pantry packets
-- fridge display prior hostile state at strip start
-- Unit power absent
+- Nari same post-reach position; STEP FOOT + CANDLE FOOT fixed
+- Hyun-woo same close protective position
+- SAME former-KNIFE-HAND wrist is ACTUALLY held in same physical grip established V107
+- SCRUNCHIE WRIST/headphones unchanged
+- SAME knife settled at exact Strip023 floor location AND final orientation
+- separate packet floor spot
+- candle out; same dining scale/depth/topology
+- fridge hostile state at start; Unit unpowered
 
 ALLOWED CHANGES:
-- V108 Hyun-woo visibly releases THAT SAME former-KNIFE-HAND wrist FIRST
-- only after fingers/hand disengage and hands separate, fridge produces exactly `TIK. TIK. TIK.`
-- display becomes dark/silent after clicks
-- V109–V112 dialogue with natural head/upper-body/eyeline changes only
-- Nari takes ZERO steps; STEP FOOT/CANDLE FOOT marks do not change
-- no room crossing, knife pickup, candle relight, prop topology movement, headphone/scrunchie movement, power return
+- V108 first visible instant preserves real grip
+- Hyun-woo then physically releases same wrist through exact disengagement sequence
+- only after a visible air gap exists between hand and wrist does fridge produce `TIK. TIK. TIK.` and go dark
+- V109–V112 dialogue/head/upper-body/eyeline only
+- no steps, knife movement, candle/topology/power change
 
 END:
-- Nari + Hyun-woo same post-reach proximity, no contact
-- STEP FOOT/CANDLE FOOT marks unchanged
-- SCRUNCHIE WRIST/headphones unchanged
-- knife same distinct floor spot
-- packet same separate floor spot
-- fridge dark/silent
-- candle extinguished
-- full dining topology unchanged
-- Unit fully unpowered
+- same proximity, no contact
+- Nari feet/worn state unchanged
+- knife same settled floor location/orientation
+- packet separate
+- fridge dark/silent; candle out; topology unchanged
 
 ==================================================
-SAME-WRIST RELEASE — NON-NEGOTIABLE
+HELD WRIST START CONTACT — NON-NEGOTIABLE
 ==================================================
 
-First visible instant MUST show SAME former-KNIFE-HAND wrist still held. Do not begin separated.
+Strip024 may NOT begin with two hands separated.
+First readable instant must prove real existing contact:
+- Hyun-woo fingers/thumb visibly wrap around SAME former-KNIFE-HAND wrist/forearm
+- grip matches Strip023 anatomical side and approximate placement
+- hand/wrist depth is physically compatible
+- no fingers pass through arm
+- Nari wrist/hand connects correctly to same arm
 
-V108:
-1. Hyun-woo fingers remain on same wrist at start
-2. fingers visibly open/disengage
-3. his hand moves away
-4. Nari's same wrist/hand visibly free
-5. only THEN refrigerator clicks
-
-No glow, hand teleport, or switch to opposite wrist/arm.
-
-==================================================
-NARI FOOT / WORN-STATE LOCK — ABSOLUTE
-==================================================
-
-Nari does not walk in Strip 024.
-- STEP FOOT stays exact old planted mark
-- CANDLE FOOT stays exact half-step-forward mark
-- packet remains separate near STEP FOOT
-- knife remains separate from both feet/packet
-- SCRUNCHIE WRIST same physical wrist
-- SAME headphones remain around neck
-
-Reverse shots may flip screen-left/right but cannot swap anatomical foot/wrist or silently remove headphones.
+A foreground hand silhouette overlapping the wrist without readable wrap/contact does not count.
 
 ==================================================
-SAME-OBJECT CLOSE-UP / NO DUPLICATION — ABSOLUTE
+WRIST RELEASE MECHANICS — NON-NEGOTIABLE
 ==================================================
 
-Any wrist, fridge, knife-floor, packet, or candle detail is a close-up of the SAME physical object/state.
-Do not show one wrist already released in a detail while the same-moment wide still shows it held unless reading order clearly advances through the release.
-Do not duplicate knife/packet/candle/fridge because of inserts.
+V108 exact release:
+1. same grip visible
+2. Hyun-woo fingers begin extending/opening
+3. thumb/fingers lose contact one by one/collectively in a believable release
+4. his palm/hand moves away through open space
+5. Nari wrist remains in same position; no arm teleport
+6. a visible air gap appears between hand and wrist
+7. only after gap exists: refrigerator `TIK. TIK. TIK.`
+8. hands remain separate afterward
+
+Do not hide release behind dialogue/SFX/close crop. Do not switch to opposite wrist or simply erase Hyun-woo hand between frames.
 
 ==================================================
-KNIFE / FULL PROP TOPOLOGY PERSISTENCE — ABSOLUTE
+KNIFE SETTLED STATE / FLOOR SUPPORT — ABSOLUTE
 ==================================================
 
-Knife remains exact Strip 023 floor spot; nobody touches until Strip 028.
-Extinguished candle unlit.
-Across all close-ups/reverse shots preserve:
-- pot/trivet same location
-- cloth same hot-handle side
-- Pair A used chopsticks same pot rest point
-- seasoning wrapper same table spot
-- pushed chair same location
-- five pantry packets
-- SAME packet separate floor spot near STEP FOOT
-- SAME knife separate floor spot clear of both feet
+SAME knife remains exactly where Strip023 settled after `CLANG`:
+- same floor point
+- same blade/handle orientation
+- same world-space scale
+- physically supported by floor plane
+- no hovering/rotation/rebound after the settled state
+- clear of STEP FOOT/CANDLE FOOT/packet/chair/table
 
-Reverse shots cannot swap physical sides/order.
-No phone/flashlight/hallway lamp/device supplies normal room light.
+Nobody touches it until Strip028.
+Close-up of knife floor state cannot create second knife or rotate it.
 
 ==================================================
-TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
+NARI FEET / WORN / TOPOLOGY — ABSOLUTE
 ==================================================
 
-Dialogue balloons/tails and `TIK. TIK. TIK.` must not cover:
-- held→released wrist contact
-- STEP FOOT/CANDLE FOOT/packet/knife separation when shown
+STEP FOOT/CANDLE FOOT fixed. Packet fixed. SCRUNCHIE WRIST/headphones unchanged.
+Dining pot/trivet/handle/cloth/candle/wrapper/chopsticks/chair/table retain stable scale/depth/orientation.
+
+==================================================
+SAME-OBJECT INSERT — ABSOLUTE
+==================================================
+
+Wrist/fridge/knife/packet/candle details = SAME physical states.
+A later release detail may advance contact once, but cannot show held and released as simultaneous incompatible states.
+
+==================================================
+TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
+==================================================
+
+Dialogue/`TIK. TIK. TIK.` must not cover:
+- real starting grip
+- fingers opening
+- visible hand-wrist separation/gap
+- knife floor orientation
 - fridge display going dark
-
-==================================================
-TEXT / NARRATION DESIGN — ABSOLUTE
-==================================================
-
-No narration scripted. `TIK. TIK. TIK.` refrigerator SFX only. Human lines speech. No `HOSTILE ACTOR` labels/system explanation captions/V-numbers.
-
-==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
-==================================================
-
-Small black gutter between release/device-click/dialogue slices. Side-by-side close-ups use diagonal black divider. Dark field separators compact, not empty slabs.
 
 ==================================================
 VERTICAL STORY FLOW
 ==================================================
 
-V108 — SAME-WRIST RELEASE / FRIDGE QUIETS
-Begin SAME wrist held. Visibly release SAME wrist. Only after separation:
-SFX at refrigerator:
+V108 — REAL SAME-WRIST RELEASE
+Begin actual grip. Visibly open/disengage/move hand away until gap.
+Only then fridge:
 `TIK. TIK. TIK.`
-Display becomes silent/dark.
+Display dark/silent.
 
 SMALL BLACK GUTTER.
 
@@ -183,37 +163,25 @@ HYUN-WOO:
 HYUN-WOO:
 `BUT IT'S TRYING TO LEARN WHO YOU ARE.`
 
-No room crossing; natural head/upper-body shifts only. Feet remain fixed.
-
 ==================================================
-POWER / NO DEAD BOTTOM
+POWER / SEAM
 ==================================================
 
-Unit remains fully unpowered; city not visibly returned yet. No candle/phone/flashlight/glow.
-Use dialogue + separate knife/packet floor evidence + dark room depth through lower canvas.
-
-SEAM OUT — G/E
-Strip 025 continues SAME STEP FOOT/CANDLE FOOT marks, SCRUNCHIE WRIST/headphones, positions/knife/candle/chair/table topology while city power begins returning outside first.
+Unit fully unpowered. No candle/phone/flashlight/glow. Strip025 inherits exact feet, settled knife orientation, packet, topological state and separated hands.
 
 AUTOMATIC REJECT IF
-- any production/KNIFE HAND/SCRUNCHIE WRIST/STEP FOOT/CANDLE FOOT label appears
-- attached refs/geometry drift
-- permanent drift previous strip propagated over canon
-- wrist already released at start/release skipped/opposite wrist used
-- STEP FOOT/CANDLE FOOT marks drift or Nari steps
-- SCRUNCHIE WRIST/headphones change
-- knife/packet move/disappear/duplicate/merge
-- Nari/Hyun-woo reset positions or cross room
-- fridge clicks before same-wrist release
-- fridge text remains after V108
-- same-object detail creates incompatible held/released state
-- candle relights
-- topology disappears/swaps
-- power returns early
-- text hides release/floor evidence
+- production/temp-state label appears
+- refs/geometry/scale/depth drift
+- wrist already released at start
+- grip is only fake 2D overlap/no readable wrap
+- release happens by hand disappearing/teleporting or before visible gap
+- opposite wrist used
+- fridge clicks before release complete
+- knife moves/rotates/floats/duplicates or changes settled orientation
+- feet/worn/packet/topology changes
+- power returns early/candle relights
+- text hides grip/release/knife evidence
 - invented narration/system label
-- dialogue ownership wrong
-- black separators missing/oversized
 ```
 
 ## Production Thread Attachments
