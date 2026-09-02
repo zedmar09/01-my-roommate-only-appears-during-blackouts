@@ -80,6 +80,29 @@ PHONE V50:
 - no floating chat bubbles detached from phone unless they are actual character speech, which these are not
 
 ==================================================
+MOBILE PAGE-PROOF LEGIBILITY / SAFE MARGINS — ABSOLUTE
+==================================================
+
+The missing-section proof must be understandable at normal mobile reading scale, not merely described by the prompt.
+
+At least one causally continuous view must clearly show each of these states:
+- SAME physical binder/spine/rings/page context
+- readable `SECTION 16`
+- Nari's fingers physically contacting the actual page edge/tab
+- the real page lifting/turning around the SAME binding
+- readable `SECTION 18` after the turn
+- enough binder/tab context to show that a normal `SECTION 17` is genuinely absent rather than simply cropped off
+
+If a wide shot makes the headers/rings/page edge too small, use immediately adjacent SAME-BINDER detail slices. Do not enlarge the binder in world space.
+
+SAFE MARGIN:
+- binder spine/rings, page edge, fingers, Section headers and south-wall handwriting must stay fully inside the image area
+- no critical page-turn mechanism may sit exactly on a crop edge, gutter or diagonal divider
+- do not let a divider cut the page or make the Section 16/18 states look like two different binders
+
+A tiny unreadable `16`/`18`, decorative glyph noise, or cropped page that forces the reader to trust Nari's dialogue instead of seeing the evidence = automatic rejection.
+
+==================================================
 NOTE / PEN NON-INTERFERENCE — ABSOLUTE
 ==================================================
 
@@ -123,6 +146,16 @@ V48 sequence:
 Reverse camera cannot switch spine/ring/page-turn direction.
 
 ==================================================
+PERSPECTIVE / BINDER PLANE INTEGRITY — ABSOLUTE
+==================================================
+
+Use ordinary perspective without fisheye/forced distortion.
+- binder remains a planar bound object resting on the inspection surface
+- close-ups may rotate camera around the binder but cannot make page/rings/spine geometry warp or reverse
+- phone/binder cannot be stretched by perspective so their relative sizes become inconsistent
+- page text follows the actual page plane; do not flatten an oblique binder into a floating front-facing card while hands remain in another perspective
+
+==================================================
 CAMERA AXIS / EYE-LINE / EVIDENCE GAZE — ABSOLUTE
 ==================================================
 
@@ -142,10 +175,10 @@ Tablet/phone screens, binder glossy hardware, windows/appliances may not show a 
 This sequence's supernatural information comes from text/evidence only.
 
 ==================================================
-V48 MULTI-SLICE PHYSICAL ROUTE — MANDATORY
+V48 MULTI-SLICE PHYSICAL ROUTE / READER ORDER — MANDATORY
 ==================================================
 
-Use unlabeled consecutive sub-slices:
+Use unlabeled consecutive sub-slices in this exact top-to-bottom order:
 A desk→note movement; tablet remains desk
 B hand picks phone; note/pen untouched
 C counter: other hand picks SAME binder
@@ -153,8 +186,10 @@ D inspection surface: binder set/released; phone beside it
 E cover opens; actual page `SECTION 16`
 F finger/page-edge contact and real page turn
 G actual page `SECTION 18`; no Section17
-H only after proof spoken line
+H only after proof spoken line `SECTION SEVENTEEN IS MISSING.`
 Never render A/B/H.
+
+The V48 dialogue may not be placed above the page-turn proof. A Section 18 close-up may not visually read before the Section 16 state/page-turn. If side-by-side details are used, their reading order must remain unmistakable.
 
 ==================================================
 SAME-OBJECT CLOSE-UP / NO DUPLICATION — ABSOLUTE
@@ -169,7 +204,7 @@ TEXT / EVIDENCE SAFETY — ABSOLUTE
 Text must not cover phone pickup, note/pen state, binder support/spine/rings, page-edge contact/page turn, Section16/18 headers, south-wall handwriting, phone/binder return actions.
 
 ==================================================
-TEXT TYPES — ABSOLUTE
+TEXT TYPES / MOBILE LEGIBILITY — ABSOLUTE
 ==================================================
 
 No narration.
@@ -178,6 +213,8 @@ No narration.
 - south-wall warning = physical handwriting on binder page
 - phone exchange = phone screen UI
 - Nari line = speech
+
+All story-critical exact text must be legible at intended mobile size. Do not turn `SECTION 16`, `SECTION 18`, the south-wall warning, tablet warning, or phone exchange into unreadable decorative glyphs. Use SAME-OBJECT detail views when necessary rather than changing carrier world-space scale.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -235,12 +272,16 @@ Strip011 later that day. Note/pen remain evidence; binder closed counter; phone 
 AUTOMATIC REJECT IF
 - production label appears
 - binder geometry/spine/ring/page orientation mirrors/changes
+- fisheye/forced perspective distorts binder/page/ring geometry or phone/binder scale
 - tablet/phone/binder text floats off its physical carrier plane, ignores perspective/boundaries, or becomes narration/speech
+- required Section 16/18/south-wall/device text is microscopic, unreadable, or decorative gibberish
 - page text remains floating after page turn
 - phone/binder scale/grip impossible or fingers clip/fuse
 - duplicate binder/phone/tablet/note/pen appears
 - note/pen move during phone pickup
 - V48 collapses/skips mechanism
+- page-turn/contact/header proof is edge-cropped, gutter/divider-cut, or too small to understand
+- Section18/detail/dialogue reads before Section16→page-turn in the vertical reading order
 - Section16/18 shown as floating cards/unbound simultaneous sheets
 - normal Section17 appears
 - actual wall panel opens
@@ -248,7 +289,7 @@ AUTOMATIC REJECT IF
 - Nari eyeline points to wrong target or inspection-surface sides swap without movement
 - text hides binding/page/contact proof
 - physical Mrs. Na appears
-- black dividers missing/oversized
+- black dividers missing/oversized or cut evidence
 - giant dead bottom appears
 ```
 
