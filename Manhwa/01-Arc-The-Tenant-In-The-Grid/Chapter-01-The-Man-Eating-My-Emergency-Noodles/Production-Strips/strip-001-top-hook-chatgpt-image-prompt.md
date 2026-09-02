@@ -4,7 +4,7 @@
 Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP for Chapter 1 of "My Roommate Only Appears During Blackouts".
 
 THIS IS THE FIRST STRIP. THERE IS NO PREVIOUS-STRIP CONTINUITY AUTHORITY.
-Therefore this prompt must establish the first approved story rendering of Nari, Unit 2407, the move-in box, the entry route, the normal powered atmosphere, and the smart speaker.
+Therefore this prompt must establish the first approved story rendering of Nari, Unit 2407, the move-in box, the entry route, the normal powered atmosphere, the smart speaker, and the world-scale/proportion baseline that every later strip will inherit.
 
 THIS IS NOT A PAGE.
 Never draw page numbers, circled panel numbers, strip IDs, beat IDs, V-labels, panel labels, headers, footers, crop guides, QA marks, production notes, reference labels, or any reader-visible technical metadata.
@@ -33,7 +33,7 @@ ATTACHMENT ROLE MAP — WHAT EACH ATTACHMENT CONTROLS
 ==================================================
 
 ### 1. NARI CANONICAL WEBP — CHARACTER AUTHORITY
-Use `nari-canonical-flat2d.webp` to copy Nari's actual identity, not merely her general vibe.
+Use `nari-canonical-flat2d.webp` to reproduce Nari's actual identity, not merely her general vibe.
 It controls:
 - exactly 30-year-old Korean adult woman
 - medium-height slim healthy adult build
@@ -74,10 +74,11 @@ Use `unit-2407-floor-plan-reference.webp` to control all story-world relationshi
 - hallway/bedroom route behind the open-plan area
 - corner windows / city-view relationship
 - real circulation clearance from front door into open-plan living/dining/kitchen
+- believable modern Seoul two-bedroom residential scale
 
 Never mirror this floor plan.
 
-### 4. ENTRY / LIVING WIDE WEBP — V03–V04 ENTRY CAMERA AUTHORITY
+### 4. ENTRY / LIVING WIDE WEBP — V03–V04 ENTRY CAMERA + HUMAN-SCALE AUTHORITY
 Use `unit-2407-entry-living-wide-reference.webp` to control:
 - interior face and physical size of the SAME front door
 - entry shelf / shallow brass-key tray location
@@ -86,10 +87,11 @@ Use `unit-2407-entry-living-wide-reference.webp` to control:
 - readable TV/living side
 - dining table and exactly TWO burgundy chairs
 - enough kitchen/refrigerator and hallway anchors to keep orientation truthful
+- normal residential clearances around entry furniture and walking paths
 
 The exterior/corridor face of the door in V02/V03 must remain the SAME physical door dimensions and same handle/lock edge; do not invent a different door on the corridor side.
 
-### 5. LIVING → DINING → KITCHEN WIDE WEBP — V04–V07 OPEN-PLAN AUTHORITY
+### 5. LIVING → DINING → KITCHEN WIDE WEBP — V04–V07 OPEN-PLAN + FURNITURE-SCALE AUTHORITY
 Use `unit-2407-living-to-kitchen-wide-reference.webp` to control:
 - matte-black TV/living zone on established side
 - pale-gray dining table in center
@@ -99,20 +101,22 @@ Use `unit-2407-living-to-kitchen-wide-reference.webp` to control:
 - hallway/bedroom route behind
 - corner-window/city-view relationship
 - normal residential world-space scale
+- normal human/furniture proportions
 
 Do NOT invent an island if the reference does not have one.
 Do NOT merge dining table with kitchen counter.
 
-### 6. ROOM ANGLE ATLAS — CAMERA TRUTH AUTHORITY
+### 6. ROOM ANGLE ATLAS — CAMERA TRUTH + SCALE CONSERVATION AUTHORITY
 Use `unit-2407-room-angle-atlas-reference.webp` to keep every camera angle physically derivable from the SAME apartment.
 For Strip 001 specifically:
 - use atlas view A logic for entry looking inward
 - use atlas view C logic for living/open-plan looking across dining toward kitchen
 - use atlas view D logic only when looking from kitchen/speaker side back toward living/entry
 
-Story art must NOT render the atlas letters A–H.
+Every angle must preserve the SAME fixed furniture, door, windows, counters, chair count, appliance bodies, room depth and world-space scale.
+Story art must NOT render atlas letters A–H.
 
-### 7. SMART SPEAKER WEBP — V05–V07 OBJECT AUTHORITY
+### 7. SMART SPEAKER WEBP — V05–V07 OBJECT + SCALE AUTHORITY
 Use `smart-speaker-canonical-reference.webp` exactly:
 - small ordinary household-scale screenless cylinder
 - matte charcoal body
@@ -125,6 +129,7 @@ Use `smart-speaker-canonical-reference.webp` exactly:
 - no hostile black pixels
 - no room-flooding glow
 
+The speaker must remain a SMALL COUNTERTOP OBJECT relative to Nari, the kitchen counter and refrigerator.
 `WELCOME HOME, YOON NARI.` is AUDIO from this speaker, never text printed on its body.
 
 ==================================================
@@ -142,6 +147,8 @@ Required:
 - ordinary non-fisheye perspective
 - readable mobile composition
 - matte walls, floor, furniture, appliances, windows, clothing, skin and hair
+- believable modern residential scale
+- consistent character/object/environment proportion across all seven verticals
 
 Reject:
 - photorealism
@@ -158,6 +165,9 @@ Reject:
 - dramatic movie-poster lighting
 - hyper-detailed textures
 - AI-polished beauty-ad finish
+- fisheye or ultra-wide geometry warping
+- dollhouse/miniature apartment scale
+- luxury-loft/penthouse inflation
 
 ==================================================
 STRIP-WIDE TEMPORARY STORY LOCKS
@@ -200,6 +210,11 @@ Define it once and never redesign it:
 - large enough to require torso/forearm support but not so large it hides Nari's entire face/legs
 - stable size in every view
 
+REFERENCE-SUBORDINATE REAL-WORLD SIZE ENVELOPE:
+- approximately a normal one-person moving box, roughly 45–55 cm wide, 30–40 cm deep, 30–40 cm tall if the attached human proportions do not dictate otherwise
+- do NOT treat these numbers as higher authority than the attached character/environment refs; they exist only to stop extreme scale drift
+- box should read roughly from Nari's lower chest/upper waist down toward hip/upper-thigh region when carried, not from shoulders to knees
+
 BOX STATE:
 - V01: carried
 - V02: carried above corridor floor
@@ -217,6 +232,11 @@ The SAME physical Unit 2407 front door is used V02→V04.
 - same opening arc
 - no door redesign between corridor and interior views
 
+REFERENCE-SUBORDINATE REAL-WORLD SCALE ENVELOPE:
+- residential door height should read around normal adult-apartment scale, approximately 2.0–2.1 m if not contradicted by the approved WebPs
+- handle/smart-lock height must be naturally reachable by an adult standing at the door
+- smart lock remains palm/forearm-scale hardware, never tablet-sized or wall-panel-sized
+
 ### APARTMENT STATE
 Before V06:
 - no supernatural effect
@@ -224,6 +244,95 @@ Before V06:
 - no human voice
 - smart speaker plugged and physically present at canonical kitchen-counter location
 - speaker inactive before V06
+
+==================================================
+WORLD-SCALE / PROPORTION / FIT — ABSOLUTE
+==================================================
+
+This section is as mandatory as character identity and room geometry.
+A render can use the correct references and still FAIL if the proportions are wrong.
+
+### A. CHARACTER ↔ ENVIRONMENT PROPORTION
+Nari must read as a normal medium-height adult woman inside a believable modern Seoul apartment.
+
+Required:
+- Nari's body scale relative to the front door must remain ordinary residential human scale
+- Nari's head must not approach an exaggeratedly low ceiling
+- Nari must not look miniature inside a cavernous room
+- Nari must not look oversized beside the dining table, kitchen counter, refrigerator, hallway opening or windows
+- corridor, doorway and apartment circulation must plausibly fit one adult carrying one medium box
+- the open-plan area is desirable and comfortable, but still recognizably a normal two-bedroom apartment rather than a penthouse, luxury loft, hotel suite, office showroom or mansion
+
+### B. OBJECT ↔ CHARACTER PROPORTION
+MOVING BOX:
+- large enough to require torso + forearm support
+- small enough that one free hand can safely operate smart lock and door
+- not shoebox-sized
+- not refrigerator-carton-sized
+- must not hide all of Nari's torso, face or legs
+
+SMART LOCK:
+- ordinary residential lock relative to Nari's hand
+- not oversized sci-fi hardware
+- hand/finger should fit the control naturally
+
+SMART SPEAKER:
+- small countertop device relative to Nari
+- clearly much smaller than the moving box
+- one adult hand could plausibly grasp/lift it later in the story
+- never blender-sized, tower-speaker-sized, robot-sized or appliance-sized
+
+### C. OBJECT ↔ ENVIRONMENT PROPORTION
+- moving box occupies believable floor area near entry/open-plan transition and does not block the entire route
+- speaker occupies only a small fraction of the kitchen counter
+- dining table fits exactly two normal adult dining chairs without being miniature or banquet-sized
+- chairs have normal seat/back/leg scale relative to Nari
+- refrigerator has normal full-height residential appliance scale relative to Nari/counter
+- counter height/depth remains normal adult kitchen scale
+- TV/living, dining, kitchen and hallway distances preserve the attached references rather than being stretched for dramatic framing
+
+### D. REFERENCE-SUBORDINATE HOUSEHOLD SCALE ENVELOPES
+Use these only as anti-drift cues when the approved WebPs do not make exact dimensions obvious:
+- kitchen counter height: ordinary adult worktop, approximately 85–95 cm
+- dining-table height: approximately 72–76 cm
+- dining-chair seat height: approximately 43–47 cm
+- full-height residential refrigerator: approximately 170–190 cm
+- smart speaker: compact countertop device, roughly 15–20 cm tall / similarly modest footprint unless the object WebP establishes another exact size
+- moving box: roughly 45–55 cm wide, 30–40 cm deep, 30–40 cm tall
+
+CANONICAL WEBPs ALWAYS WIN over these approximate ranges.
+Never resize canonical geometry simply to match the numeric cue.
+
+### E. SHOT-TO-SHOT SCALE CONSERVATION
+- Nari's story-world body height/build remains constant V01–V07
+- SAME box remains same physical dimensions V01–V07
+- SAME front door remains same physical dimensions V02–V04
+- SAME dining table/chairs remain same size V03–V07
+- SAME kitchen counter/refrigerator remain same scale V03–V07
+- SAME smart speaker remains same scale V05–V07
+- apartment does not enlarge between threshold view and V04 reveal
+- apartment does not shrink in V06/V07 reaction shots
+- close-up magnification is CAMERA MAGNIFICATION ONLY, never story-world enlargement
+
+### F. PERSPECTIVE TRUTH
+- foreground objects may appear larger due to perspective, but the camera must retain enough anchors to read the true world scale
+- do not use extreme foreground hand, speaker or box sizes that imply false proportions
+- no fisheye/ultra-wide stretching of door, furniture, Nari or room
+- no compressed telephoto trick that makes room depth collapse unnaturally
+- V04 is the main world-scale authority view; later V05–V07 must reconcile with it
+
+### G. WORLD-SCALE FALSEHOOD BAN
+AUTOMATIC FAIL if:
+- room inflation makes Unit 2407 feel mansion/loft/penthouse-sized
+- room shrinkage makes it feel like a miniature set
+- Nari is too large or too small for door/furniture/counter
+- box changes size to fit a shot
+- door changes size to let box pass
+- table/chairs shrink or enlarge
+- refrigerator changes height relative to counter/Nari
+- speaker becomes oversized in its close-up
+- V04 has one room scale and V05–V07 imply another
+- close-up reads as a physically larger object rather than a magnified view
 
 ==================================================
 FULL STRIP VERTICAL COMPOSITION MAP
@@ -238,7 +347,7 @@ Recommended visual-weight hierarchy:
 - V01 = medium-large exterior establishing slice
 - V02 = medium corridor/action slice with one close action detail if needed
 - V03 = medium threshold/action slice
-- V04 = LARGEST interior apartment-reveal slice
+- V04 = LARGEST interior apartment-reveal + world-scale authority slice
 - V05 = medium smart-home observation slice
 - V06 = compact object-focused speaker activation slice
 - V07 = medium reaction/seam-out slice
@@ -266,7 +375,7 @@ EXACT VISUAL CONTENT:
 - same canopy proportions/material family
 - same glass entrance-door design
 - dry late-afternoon sidewalk/pavement
-- restrained neighboring Seoul residential context at the edges only: neighboring facades, utility-free clean streetscape, a few non-branded parked cars or distant pedestrians only if composition needs scale
+- restrained neighboring Seoul residential context at the edges only: neighboring facades, clean streetscape, a few non-branded parked cars or distant pedestrians only if composition needs scale
 - no commercial storefront
 - no billboard
 - no logo
@@ -274,6 +383,16 @@ EXACT VISUAL CONTENT:
 - no rain
 - no puddle reflections
 - no neon
+
+V01 SCALE / PROPORTION / FIT — ABSOLUTE:
+- building must dominate the frame as a real multi-storey residential structure
+- approved entrance remains human-scale at the tower base
+- Nari must be SMALL relative to the overall tower but correctly scaled to the entrance doors/canopy/sidewalk
+- Nari must not be so tiny that she reads like miniature scenery; her adult silhouette + box must remain readable
+- the box must still read as a medium one-person moving box, not a tiny parcel, even in the wide shot
+- glass entry doors must read as normal adult entry doors, not giant hotel doors
+- parked cars/distant pedestrians, if used, are scale references only and must agree with the building/Nari scale
+- upper tower may rise out of frame; do not shrink floors/windows just to show the entire building
 
 NARI IN V01:
 Show Nari as a small but readable figure in the LOWER portion approaching the approved entrance with the SAME one moving box.
@@ -283,7 +402,7 @@ Show Nari as a small but readable figure in the LOWER portion approaching the ap
 - normal walking posture
 - no dramatic pose
 - no visible phone/tablet/bag
-- her detailed facial landmark does NOT need to be readable at this distance; V02 becomes first clear identity view
+- detailed facial landmark does NOT need to be readable at this distance; V02 becomes first clear identity view
 
 LIGHTING:
 - dry late-afternoon diffuse daylight
@@ -303,6 +422,7 @@ NARRATION DESIGN / PLACEMENT:
 
 V01 END STATE:
 - Nari is clearly entering/approaching the same residential building with the one box
+- building/Nari/box scale is established truthfully
 - next beat may use an ordinary implied elevator/time transit to the 24th-floor corridor; no additional narration needed
 
 AUTOMATIC REJECT V01 IF:
@@ -311,6 +431,9 @@ AUTOMATIC REJECT V01 IF:
 - exterior becomes glossy/cinematic/luxury-hotel-like
 - Nari has bag/tablet/second box
 - high-rise is distorted by extreme low-angle/fisheye perspective
+- Nari is giant relative to entrance or microscopic relative to doors
+- entry doors become hotel-scale
+- box becomes tiny-parcel scale
 - production label appears
 
 SMALL BLACK GUTTER.
@@ -342,6 +465,17 @@ MAIN CAMERA:
 - show enough floor to prove the box remains above the corridor floor
 - show enough door edge to understand smart-lock/handle side
 - use ordinary lens; no huge foreground hand
+
+V02 SCALE / PROPORTION / FIT — ABSOLUTE:
+- Nari must read as a normal adult next to a normal residential door
+- top of door must remain comfortably above her head; do not compress door height
+- smart lock must be palm/hand-scale hardware at natural adult reach height
+- lock must not become tablet-sized or giant wall control
+- box must occupy a believable portion of Nari's torso: substantial but not torso-dominating
+- box must remain narrow enough to clear the eventual doorway without resizing
+- corridor width must plausibly allow Nari + the box to stand and turn at the door
+- corridor must not read as a hotel ballroom or narrow impossible closet passage
+- no object may be enlarged in the close detail; the detail is camera magnification only
 
 NARI — FIRST CLEAR IDENTITY VIEW:
 This is the first close enough view where the generator MUST prove the canonical character.
@@ -377,6 +511,7 @@ If the main view is too small to prove contact, add ONE adjacent SAME-MOMENT det
 - show same sleeve/wrist/hand connected to Nari's arm
 - finger touching the actual lock surface
 - enough door/lock context to prove this is the Unit 2407 smart lock
+- keep the lock's STORY-WORLD SIZE unchanged; this is only a magnified camera detail
 - do NOT create a detached floating hand
 - do NOT show a second box or second Nari
 
@@ -398,6 +533,7 @@ V02 END STATE:
 - Nari still carries SAME box above floor
 - SAME free hand remains available to move from lock to door handle/edge in V03
 - body remains immediately outside threshold
+- Nari/door/box scale is now a continuity anchor for V03
 
 AUTOMATIC REJECT V02 IF:
 - box touches corridor floor
@@ -407,6 +543,9 @@ AUTOMATIC REJECT V02 IF:
 - Nari face/hair/outfit drifts from canonical
 - beauty mark moves to anatomical right or duplicates
 - smart lock changes side/position from door reference
+- smart lock appears oversized relative to hand/door
+- door appears too small/huge relative to Nari
+- box is so large the scripted lock action is impossible or so small it no longer needs support
 - BEEP floats far from lock
 - Nari is frightened before any supernatural event
 
@@ -424,6 +563,16 @@ CAMERA:
 - use entry/living reference + floor plan
 - doorway must frame recognizable apartment anchors beyond it
 - enough lower-body view to prove threshold crossing
+
+V03 SCALE / PROPORTION / FIT — ABSOLUTE:
+- SAME door retains V02 physical size; do not widen or heighten it to fit the box
+- SAME box retains V01/V02 dimensions; do not shrink it for threshold clearance
+- Nari retains same body scale relative to door and box
+- actual door opening must provide believable human + box clearance using normal movement/orientation, not resized geometry
+- box must not fill the entire doorway
+- door frame thickness, threshold and corridor/apartment floor relation remain normal residential scale
+- visible apartment beyond the doorway must already match the V04 scale; do not show a tiny apartment through the door and a huge apartment in V04
+- dining table/chairs visible in depth must be correctly proportioned, not toy-sized due to forced perspective
 
 DOOR MECHANICS:
 - SAME door as V02
@@ -471,13 +620,18 @@ V03 END STATE:
 - Nari fully crosses into apartment with SAME box still carried
 - door remains open/partly open behind her
 - box has still never touched floor
+- door/Nari/box/apartment scale remains consistent with V02 and ready for V04
 
 AUTOMATIC REJECT V03 IF:
 - door geometry flips
+- door changes size from V02
 - Nari enters through a closed door
 - feet/body/box clip through frame
 - box is suddenly on floor or duplicated
+- box shrinks to clear doorway
+- doorway is enlarged unnaturally to fit the box
 - room beyond doorway is mirrored
+- apartment beyond door is miniature or oversized relative to V04
 - more than two burgundy dining chairs appear
 - apartment layout cannot be reconciled with floor plan
 
@@ -488,8 +642,9 @@ V04 — FIRST BOX FLOOR CONTACT + DOMINANT APARTMENT REVEAL — FULL VISUAL BLUE
 ==================================================
 
 STORY PURPOSE:
-This is the first major visual reward: Unit 2407 is genuinely spacious and desirable, explaining why the rent feels suspiciously good.
+This is the first major visual reward: Unit 2407 is genuinely desirable and surprisingly good for the rent, but it must remain a BELIEVABLE MODERN SEOUL TWO-BEDROOM APARTMENT.
 V04 must be the LARGEST and clearest environment composition in Strip 001.
+V04 is the PRIMARY WORLD-SCALE AUTHORITY SHOT for later Unit 2407 story art.
 
 CAMERA / COMPOSITION:
 - use the attached entry/living wide + living→kitchen wide + atlas A/C logic
@@ -497,6 +652,8 @@ CAMERA / COMPOSITION:
 - ordinary human-eye perspective
 - enough foreground floor for the moving-box contact
 - enough midground/background to read the complete open-plan relationships
+- avoid overly high ceiling emphasis
+- avoid extreme ultra-wide lens that makes walls recede unnaturally
 
 ROOM GEOGRAPHY — MUST ALL READ:
 - foreground/near entry route
@@ -512,6 +669,35 @@ ROOM GEOGRAPHY — MUST ALL READ:
 - eucalyptus lower cabinets
 - pale-gray counters
 - matte materials
+
+V04 WORLD-SCALE / PROPORTION — PRIMARY AUTHORITY:
+NARI ↔ ROOM:
+- Nari remains a normal medium-height adult; she should fit naturally under a standard residential ceiling with substantial but not cavernous headroom
+- her body should be correctly proportioned to front door, kitchen counter, refrigerator, table, chairs and hallway opening
+- do not shrink Nari just to make the room look larger
+
+DINING:
+- pale-gray dining table must read as a normal compact adult dining table for exactly two chairs, not a tiny side table and not banquet-sized
+- chair seats should sit around normal adult knee/lower-thigh height relative to Nari
+- chair backs should rise to believable lower/mid-torso region when compared in similar depth
+- exactly TWO burgundy chairs; both retain normal human seating scale
+
+KITCHEN:
+- counter height must read around Nari's hip/waist region as expected for a real kitchen worktop
+- refrigerator must read as a full-height residential appliance, approximately adult-height or somewhat taller, never waist-high and never giant commercial-fridge scale
+- counter depth/sink/cooktop/pantry must remain residential, not restaurant-sized
+
+MOVING BOX:
+- SAME medium box remains visibly substantial but clearly much smaller than refrigerator/dining table
+- when placed on floor it should occupy a modest footprint near entry, not block the whole circulation route
+- box height should remain around lower-shin/knee-ish floor presence depending exact perspective, consistent with carried dimensions
+
+OPEN-PLAN SIZE:
+- room is desirable but compact/normal enough that Nari can visually relate to all major zones
+- do not create giant unused floor expanses
+- do not stretch TV↔dining↔kitchen distance into luxury-loft scale
+- corner windows should be believable apartment windows, not double-height penthouse curtain walls unless canonical ref explicitly shows otherwise
+- hallway opening remains normal residential width
 
 MOVING BOX ACTION — FIRST FLOOR CONTACT:
 1. Nari arrives just inside carrying SAME box
@@ -556,7 +742,7 @@ SFX:
 V04 END STATE:
 - SAME box fully supported on interior floor at fixed location
 - Nari has released it and is beginning to straighten beside it
-- room geometry fully established for the rest of the chapter
+- room geometry AND world-scale baseline fully established for V05–V07 and later Unit 2407 scenes
 
 AUTOMATIC REJECT V04 IF:
 - room is mirrored
@@ -565,6 +751,11 @@ AUTOMATIC REJECT V04 IF:
 - chair count is not exactly two
 - box floor contact is hidden or box lands somewhere impossible
 - Nari/box scale changes
+- Nari becomes miniature in the room
+- ceiling/room becomes penthouse/cavernous
+- dining furniture becomes toy-sized or oversized
+- counter/refrigerator scale is wrong relative to Nari
+- open-plan distances are inflated beyond the references
 - apartment becomes glossy/luxury/cinematic/3D
 - captions hide the actual apartment reveal
 
@@ -583,6 +774,17 @@ CAMERA / COMPOSITION:
 - Nari stands beside/near the SAME floor-resting box from V04 after naturally finishing her straightening motion
 - camera shows enough of the apartment to keep front-door/living/dining/kitchen relationships legible
 - speaker may be visible as a small inactive object at its canonical kitchen-counter location but must NOT activate yet
+
+V05 SCALE / PROPORTION / FIT — ABSOLUTE:
+- inherit V04 world scale exactly
+- Nari retains same size relative to dining table, chairs, counter and refrigerator
+- box retains same exact dimensions and floor footprint
+- furniture/appliances retain same sizes; no camera cut may shrink/enlarge them
+- smart lock remains normal lock scale if visible
+- ceiling light fixtures remain ordinary residential fixtures, not giant architectural features
+- any climate-control detail, if visible from canonical refs, remains small wall-control scale; DO NOT invent oversized thermostat/display
+- smart speaker, if visible, must already read as a small countertop cylinder taking only a small fraction of the counter
+- camera may change angle/shot size but must not make the room more luxurious/cavernous than V04
 
 NARI POSE / PERFORMANCE:
 - standing normally after setting box down
@@ -621,13 +823,16 @@ V05 END STATE:
 - Nari standing near box, attention moving toward the kitchen side
 - speaker still canonical kitchen counter, plugged and inactive
 - apartment remains ordinary and powered
+- V04 world-scale baseline remains unchanged
 
 AUTOMATIC REJECT V05 IF:
 - futuristic holograms/floating UI invented
 - giant thermostat invented
 - speaker already speaks/glows hostile before V06
 - Nari teleports away from box
-- room geometry changes from V04
+- Nari/furniture/appliance scale changes from V04
+- room appears larger/smaller than V04
+- smart fixtures become oversized
 - captions look like production labels
 
 SMALL BLACK GUTTER.
@@ -642,8 +847,19 @@ The smart speaker becomes the first device to address Nari. It should still feel
 CAMERA / COMPOSITION:
 - compact object-focused medium-close shot of the EXACT speaker at its canonical kitchen-counter location
 - use living→kitchen reference / atlas C logic so the speaker is still clearly in the SAME kitchen, not on an invented shelf/table
-- include enough nearby counter/cabinet/refrigerator or dining depth to prove location
+- include enough nearby counter/cabinet/refrigerator or dining depth to prove location AND true scale
 - no shallow depth-of-field blur
+
+V06 SCALE / PROPORTION / FIT — ABSOLUTE:
+- speaker must remain a SMALL household countertop object
+- it should occupy only a small fraction of the visible counter depth/width
+- speaker height/footprint should remain plausibly hand-liftable, approximately 15–20 cm class unless canonical WebP dictates otherwise
+- speaker must be dramatically smaller than refrigerator and moving box
+- counter retains normal adult kitchen height/depth from V04/V05
+- if Nari appears in background, her body size relative to counter/refrigerator must match V04/V05
+- a close-up of speaker is CAMERA MAGNIFICATION ONLY; do not make it appear appliance-sized in world space
+- include counter edge, backsplash/wall, nearby fixture or refrigerator/dining anchor so the viewer can infer actual compact size
+- cord thickness/plug remain normal household electrical scale; do not enlarge cord like industrial cable
 
 SPEAKER — EXACT:
 - small screenless matte-charcoal cylinder
@@ -678,17 +894,22 @@ AUDIO LETTERING / PLACEMENT:
 NARI:
 May be visible only as a small clear background/midground figure beginning to turn toward the speaker, OR omitted if the speaker shot is cleaner. If visible:
 - same outfit/hair
+- same scale relative to counter/environment
 - same box remains floor at V04 location
 - no fear expression yet
 
 V06 END STATE:
 - speaker has spoken once
 - speaker remains plugged
+- speaker remains same compact world-space size
 - Nari's attention is now directed toward the real speaker location
 
 AUTOMATIC REJECT V06 IF:
 - speaker changes shape/scale/location
 - speaker gains screen/logo/text
+- speaker becomes blender/tower-speaker/appliance-sized
+- counter/refrigerator scale changes to accommodate speaker close-up
+- cord/plug become industrially thick/large
 - cord is missing or detached
 - audio is printed on the body
 - hostile effect appears
@@ -710,6 +931,16 @@ Preferred camera: use atlas D logic from the kitchen/speaker side looking back t
 - show part of kitchen/speaker-side foreground or counter edge if helpful
 - SAME moving box remains at fixed V04 floor position in midground/background if naturally visible
 - entry/living/dining geometry must remain truthful
+
+V07 SCALE / PROPORTION / FIT — ABSOLUTE:
+- Nari remains SAME world-space adult size from V02–V06
+- medium/medium-close framing is camera proximity only; do not enlarge her body relative to room anchors
+- if counter edge/chair/table/door is visible, their proportions must reconcile with V04 world-scale authority
+- speaker remains at actual small-countertop scale even if only implied off-camera by eyeline
+- do not move Nari close to the speaker merely to make a two-shot
+- preserve actual distance from V05/V06: Nari near box/open-plan transition, speaker on kitchen counter
+- background must not become a giant blurred loft; maintain readable residential anchors with flat 2D depth
+- moving box, if visible, retains exact V04 size
 
 NARI SHOT SIZE:
 - medium or medium-close 3/4 view
@@ -748,9 +979,9 @@ V07 END STATE / SEAM OUT:
 - Nari remains inside Unit 2407 in the established move-in outfit
 - SAME box rests at V04 floor location
 - smart speaker remains at canonical kitchen counter, plugged in, ordinary inactive/just-finished state
-- Unit geometry is now established
+- Unit geometry AND world-scale baseline are now established
 - no supernatural visual evidence exists yet
-- later time passage before Strip 002 may allow Nari to close the front door / shift ordinary move-in pose, but cannot change permanent character/environment/object canon
+- later time passage before Strip 002 may allow Nari to close the front door / shift ordinary move-in pose, but cannot change permanent character/environment/object canon or scale relationships
 
 AUTOMATIC REJECT V07 IF:
 - Nari is a different face/hair/outfit
@@ -758,7 +989,10 @@ AUTOMATIC REJECT V07 IF:
 - Nari looks toward wrong wall/device
 - reaction becomes fear/horror/romance/glamour
 - speaker is relocated to make eyeline easier
-- box disappears from a view where its established location should naturally be visible without occlusion
+- Nari is moved/scaled closer/larger merely to force speaker proximity
+- room scale no longer matches V04
+- counter/table/chair/background proportions drift
+- box changes size or disappears from a naturally visible location without occlusion
 - dialogue bubble points to speaker instead of Nari
 - room is mirrored
 
@@ -810,24 +1044,69 @@ STRIP 001 STATE LEDGER — MUST REMAIN TRUE
 
 NARI:
 V01 small exterior figure → V02 clear corridor identity → V03 threshold crossing → V04 box placement → V05 standing scan → V06 attention to speaker → V07 dry reaction.
-Same person, same outfit, same hair, same accessories throughout.
+Same person, same outfit, same hair, same accessories, same world-space adult body scale throughout.
 
 MOVING BOX:
 V01 carried → V02 carried → V03 carried → V04 first interior floor contact/release → V05/V06/V07 same fixed floor location if visible.
 Exactly one box.
+Same dimensions throughout.
 
 FRONT DOOR:
 V02 closed/unlocked → V03 physically opens → V04 remains open/partly open behind entry if visible.
 No silent hinge/handle flip.
+No size change.
 
 UNIT GEOMETRY:
 Never changes.
 TV/living established side → dining center → kitchen/refrigerator established side → hallway behind → corner windows.
 Exactly two burgundy chairs.
+V04 is primary world-scale authority.
 
 SPEAKER:
 V01–V04 physically exists offscreen/at canonical counter → V05 visible/inactive if composition shows it → V06 same object plugged/BLIP/audio → V07 same location/state.
 No supernatural state.
+Same compact countertop scale throughout.
+
+==================================================
+STRIP 001 WORLD-SCALE LEDGER — MUST REMAIN TRUE
+==================================================
+
+BUILDING:
+- ordinary modern residential high-rise
+- entrance remains human scale
+- no hotel/commercial/luxury inflation
+
+NARI:
+- normal medium-height adult scale
+- same body scale in every story-world shot
+- camera closeness never changes her real dimensions
+
+DOOR / CORRIDOR:
+- one normal residential door scale V02–V04
+- corridor and threshold remain physically capable of Nari + medium box without resizing
+
+MOVING BOX:
+- same medium single-person moving-box scale V01–V07
+- not tiny parcel, not appliance carton
+
+APARTMENT:
+- one believable modern Seoul two-bedroom scale
+- desirable but not mansion/penthouse/loft scale
+- no world-space expansion between V03, V04, V05, V06, V07
+
+DINING:
+- one pale-gray compact adult dining table
+- exactly two normal adult burgundy dining chairs
+- scale constant V03–V07
+
+KITCHEN:
+- counter, refrigerator and fixtures remain normal residential human scale
+- scale constant V03–V07
+
+SPEAKER:
+- small ordinary countertop cylinder
+- always much smaller than moving box/refrigerator
+- close-up does not enlarge world-space size
 
 ==================================================
 FINAL AUTOMATIC REJECT — STRIP 001
@@ -840,7 +1119,7 @@ Reject the generated Strip 001 if ANY of the following occurs:
 - two beats are merged so one scripted action/text event disappears
 - order changes
 - extra story beat is invented
-- one beat is just vague decorative art without the required concrete state/action
+- one beat is vague decorative art without the required concrete state/action
 
 ### Attachments / canon
 - building entrance architecture ignored in V01
@@ -848,10 +1127,28 @@ Reject the generated Strip 001 if ANY of the following occurs:
 - Unit 2407 layout mirrors or changes
 - speaker redesigns/moves/gains screen/logo
 
+### Proportion / world scale
+- Nari is too large or too small relative to door/furniture/counter/refrigerator
+- building entrance scale conflicts with Nari
+- room reads as luxury loft/penthouse/mansion or miniature set
+- V03 doorway-view apartment scale does not match V04 reveal
+- V04 room scale is inflated by ultra-wide perspective
+- dining table/chairs change size or feel toy-sized/oversized
+- refrigerator/counter scale is wrong relative to Nari
+- moving box changes dimensions between verticals
+- moving box is too large for one-person carry + free-hand lock action
+- moving box is too small to require support
+- door is enlarged/shrunk to accommodate box
+- speaker is oversized or appliance-sized
+- speaker close-up falsely changes story-world size
+- V05/V06/V07 imply a different apartment scale than V04
+- foreground magnification is mistaken for world-space enlargement
+
 ### V01
 - rain copied from rainy reference
 - building becomes luxury/cinematic/photoreal
 - Nari has extra bag/tablet/second box
+- Nari/entrance/tower proportions are implausible
 
 ### V02
 - box touches corridor floor
@@ -859,12 +1156,16 @@ Reject the generated Strip 001 if ANY of the following occurs:
 - generic detached hand
 - extra hand/arm
 - smart-lock side changes
+- smart lock oversized relative to hand/door
+- door/box/Nari scale incompatible
 
 ### V03
 - door mechanics flip
+- door changes dimensions
 - Nari/box clips through frame
 - threshold crossing omitted
 - box silently appears inside
+- box shrinks or door grows for clearance
 
 ### V04
 - box contact/release omitted
@@ -872,23 +1173,29 @@ Reject the generated Strip 001 if ANY of the following occurs:
 - not exactly two burgundy chairs
 - TV/kitchen sides wrong
 - table/counter merge
+- Nari becomes miniature/oversized
+- room/furniture/appliance proportions fail real residential scale
 
 ### V05
 - futuristic UI/hologram invented
 - Nari teleports
 - supernatural effect starts early
+- smart-home fixtures become oversized
+- room scale changes from V04
 
 ### V06
 - speaker body text used for audio
 - cord/plug missing or unplugged early
 - hostile styling/glow appears
-- speaker wrong location/scale
+- speaker wrong location
+- speaker wrong scale relative to counter/refrigerator
 
 ### V07
 - Nari reaction wrong emotion
 - eyeline targets wrong location
 - dialogue ownership wrong
 - face/hair/beauty-mark drift
+- Nari/room scale resets in reaction shot
 
 ### Global
 - any V/P/strip/panel/production label appears anywhere
