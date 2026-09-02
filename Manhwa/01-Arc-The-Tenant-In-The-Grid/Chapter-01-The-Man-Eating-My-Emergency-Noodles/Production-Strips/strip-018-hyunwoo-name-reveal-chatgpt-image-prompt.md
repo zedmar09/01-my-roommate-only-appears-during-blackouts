@@ -18,130 +18,126 @@ ATTACH — REQUIRED
 - this Strip 018 prompt
 
 ==================================================
-REFERENCE OBEDIENCE / PREVIOUS-STRIP LIMIT / NO TECHNICAL LABELS — ABSOLUTE
+REFERENCE OBEDIENCE / NO TECHNICAL LABELS — ABSOLUTE
 ==================================================
 
-Attached canonical WebPs are permanent authority. APPROVED Strip 017 controls temporary table/food/mask/packet/Nari-worn state only; correct permanent character/room drift to canon rather than propagating it.
-Preserve exact character identities, chair/table/refrigerator axis, pot/trivet/cloth/candle, packet/wrapper topology, chopsticks, mask hardware, tattoo map, blackout lighting, SAME KNIFE HAND, SAME SCRUNCHIE WRIST, and SAME headphones around neck.
-Never render V81–V84, P11, Strip 018, KNIFE HAND, SCRUNCHIE WRIST, beat/panel/scene labels, or production metadata anywhere, especially top-left.
+Attached WebPs are permanent authority. APPROVED Strip017 controls temporary table/food/mask/Nari state only.
+Preserve exact identities, dining scale/depth/topology, mask hardware/strap routes, tattoos/hair, KNIFE HAND, SCRUNCHIE WRIST, headphones.
+Never render V81–V84/P11/Strip018/temp-state labels.
 
 ==================================================
 START / ALLOWED CHANGE / END LEDGER — ABSOLUTE
 ==================================================
 
 START:
-- Nari = SAME entrance position from Strip 017, zero steps, drawn practical knife low in SAME KNIFE HAND
-- SCRUNCHIE WRIST unchanged; SAME headphones around neck
-- Hyun-woo = SAME seated chair closest kitchen/refrigerator
-- SAME mask = attached, temporarily lowered/disengaged enough to clear mouth
-- SAME chopstick pair = still in Hyun-woo's hand, lowered near SAME pot from Strip 017
-- SAME noodle pot/broth/noodle contents, trivet, folded cloth at SAME hot-handle side, candle/holder, seasoning wrapper remain same table topology
-- pantry still exactly FIVE unopened packets
-- SAME empty spicy-seafood outer packet remains at SAME fixed one-short-step floor spot ahead of Nari; it is not touching either current foot
+- Nari same entrance mark, zero steps; knife low SAME KNIFE HAND; worn state unchanged
+- Hyun-woo same seated chair
+- SAME mask attached, temporarily lowered/disengaged enough to clear mouth; same straps/hardware remain physically connected
+- SAME chopstick pair in Hyun-woo hand lowered near same pot
+- dining scale/depth/topology exactly Strip017
+- pantry five packets; same outer packet one-step floor spot
 - Unit power absent
 
 ALLOWED CHANGES:
-- V81 dialogue only; no position change
-- V82 Hyun-woo visibly stops eating; if food remains between chopsticks/mouth resolve/lower it, then SAME chopsticks move from his hand to ONE fixed rest point against/in SAME pot; only after fingers release chopsticks is that hand free
-- free hand raises/reseats SAME attached mask, then secures it with `TCHK`
-- after mask reseat, no further eating
-- V83/V84 dialogue/reveal only; no seat/distance change
-- all table/floor packet topology remains fixed
-- Nari KNIFE HAND/SCRUNCHIE WRIST/headphones state unchanged
+- V81 dialogue only
+- V82: eating ends → any visible noodle resolves → SAME chopsticks move to SAME fixed pot rest point → real contact/release → hand becomes free
+- that free hand then contacts SAME mask/hardware and physically guides SAME mask along its actual attached path back into canonical full-cover position
+- strap/hardware relationship remains continuous; mask does not teleport through face/hair
+- only after mask is fully seated/secured: `TCHK`
+- V83/V84 dialogue/reveal only
 
 END:
-- Nari = same entrance mark, knife low in SAME KNIFE HAND
-- SCRUNCHIE WRIST unchanged; headphones still around neck
-- Hyun-woo = same seated chair
-- mask = canonical fully covering nose/mouth/jaw, same hardware
-- SAME used chopsticks = released/resting at ONE fixed rest point against/in SAME pot; not in hand/mouth
-- pot/broth/noodles/trivet/cloth/candle/seasoning-wrapper topology unchanged
-- five unopened pantry packets unchanged
-- empty outer packet unchanged at SAME one-short-step floor spot
-- no lower-face identity exposed
+- Nari same entrance/knife/worn state
+- Hyun-woo same seated chair
+- SAME mask fully canonical, same straps/hardware secured
+- SAME chopsticks released at fixed pot rest point
+- dining/floor topology unchanged
 
 ==================================================
-MASK RESEAT / CHOPSTICK REST CAUSAL CHAIN — NON-NEGOTIABLE
+CHOPSTICK REST → FREE HAND — NON-NEGOTIABLE
 ==================================================
 
-V82 MUST visibly read in this order:
 1. eating ends
-2. any visible noodle between chopsticks/mouth is finished/lowered
-3. SAME chopsticks move away from mouth while still held
-4. SAME chopsticks physically contact ONE fixed rest point against/in SAME pot
-5. Hyun-woo's fingers release SAME chopsticks
-6. chopsticks remain resting there; hand now visibly empty/free
-7. free hand reaches SAME attached mask
-8. mask physically rises from temporary eating position
-9. mask settles into canonical full-cover position
-10. ONLY AFTER full seating: `TCHK`
-11. mask remains fully seated thereafter
+2. visible noodle resolves through bite/lowering
+3. SAME chopsticks move away from mouth
+4. physically contact fixed pot rest point
+5. fingers visibly release
+6. chopsticks remain supported by pot/rest geometry
+7. hand is visibly empty before it touches mask
 
-Do not skip from eating to sealed mask. Do not let noodles pass through mask. Do not remove mask from straps/hardware. Do not show chopsticks simultaneously in hand/resting after release.
+Do not let chopsticks float, clip through pot, remain simultaneously in hand/rest, or vanish.
 
 ==================================================
-SAME-OBJECT DETAIL / NO DUPLICATION — ABSOLUTE
+MASK HARDWARE TRAVEL / CONTACT PROOF — NON-NEGOTIABLE
 ==================================================
 
-Any V82 close-up/inset is a magnified view of the SAME physical chopstick pair, SAME pot, and SAME attached mask during one continuous action chain.
+A hand drawn over Hyun-woo's lower face is NOT sufficient proof of reseating.
+The action must show the SAME mask and SAME hardware actually move.
 
-Never show:
-- one pair still in Hyun-woo's hand while another identical pair already rests at pot in the same moment
-- one mask lowered in wide while a second mask is already sealed in detail at the same moment
-- a duplicate pot or packet created by an insert
+Preserve canonical mask construction:
+- same mask body size/shape
+- same strap/attachment points
+- same side hardware/fastener positions
+- same relationship to ears/head/hair/neck
 
-If multiple details are used, reading order must advance one state at a time: held chopsticks → released chopsticks → hand free → mask raised → mask seated → `TCHK`.
+Required reseat:
+1. free hand reaches an actual graspable mask edge/hardware point
+2. fingers visibly contact/grip the SAME mask—not just overlap the face silhouette
+3. mask body physically travels upward/back into covering position while remaining attached by same hardware
+4. straps/hardware deform/shift only as their construction permits
+5. mask cannot pass through chin, nose, hair, ears, hand, or head
+6. full-cover mask seats against lower-face region at canonical location
+7. actual securing/settling point is readable
+8. ONLY then `TCHK` at mask/hardware source
+9. hand may release after secure state
 
-==================================================
-DINING / FLOOR PROP TOPOLOGY — ABSOLUTE
-==================================================
-
-Reverse shots may change screen direction but NOT physical relationships.
-Preserve:
-- Hyun-woo chair closest kitchen/refrigerator
-- pot same trivet/table location
-- cloth same hot-handle side
-- candle/holder same table position relative pot
-- seasoning wrapper same table spot near pot
-- used chopsticks after V82 at one fixed pot rest point
-- five unopened packets pantry
-- empty outer packet SAME fixed one-short-step floor location ahead of Nari
-
-Do not swap sides/order because camera reverses.
+Do not remove/recreate the mask, spawn a second mask, detach straps, reverse strap side, or use a jump cut from lowered to sealed without motion.
 
 ==================================================
-NARI / KNIFE / WORN-STATE CONTINUITY — ABSOLUTE
+MASK / FACE DEPTH — ABSOLUTE
 ==================================================
 
-Nari remains at entrance, zero steps. Knife stays low in SAME KNIFE HAND. No hand switch, sheath return, vanish, table/floor placement.
-SCRUNCHIE WRIST remains same physical wrist. SAME headphones remain around neck; no removal/movement/duplication.
-Hyun-woo does not slide chair, stand, or lean across table.
+Mask must occupy real depth in front of lower face and beneath/around correct hair/strap relationships.
+A close-up cannot flatten mask into face paint or place hand in front while mask itself never moves.
+Exposed lower face remains concealed by angle/action/shadow; no clear lower-face identity reveal.
 
 ==================================================
-TEXT / BALLOON / SFX EVIDENCE SAFETY — ABSOLUTE
+DINING SCALE / TOPOLOGY — ABSOLUTE
 ==================================================
 
-Speech balloons and `TCHK` must not cover:
-- chopstick contact/release at pot
-- free-hand transition
-- mask lift/seating contact
-- Nari knife hand/state
-- packet one-step spatial evidence
+Keep Strip017 world-space scale/depth:
+- same pot/trivet/handle/cloth
+- candle/holder separate fixed table spot
+- wrapper table spot
+- five pantry packets
+- outer packet one-step floor spot
+- chair/table dimensions stable
 
-`TCHK` sits at mask hardware only after full seating. Balloon tails remain unambiguous.
-
-==================================================
-NARRATION / REVEAL DESIGN — ABSOLUTE
-==================================================
-
-No narration scripted; do not invent any. V83→V84 reveal delay comes from composition, small black pacing interval, eye/face framing, canonical detail—not generic narration, production label, cinematic title card, or glowing name graphic.
-`HYUN-WOO.` is Hyun-woo spoken dialogue only.
+Reverse shots do not swap world-space sides/depth.
 
 ==================================================
-BLACK READ-SLICE DIVIDER — ABSOLUTE
+SAME-OBJECT CLOSE-UP — ABSOLUTE
 ==================================================
 
-Small black gutter between each reveal slice. If seated-wide + detail close-up share a row, split with diagonal black divider. Separators narrow, not printed-page grid.
+V82 details are SAME physical chopsticks/pot/mask/hardware in one continuous chain.
+Do not show mask lowered in wide while duplicate sealed mask appears in same-moment detail. State advances once: chopsticks held→rested→hand free→mask moves→mask seated→TCHK.
+
+==================================================
+NARI STATE — ABSOLUTE
+==================================================
+
+Zero steps. Knife low SAME KNIFE HAND. SCRUNCHIE WRIST/headphones unchanged. No distance/contact change.
+
+==================================================
+TEXT / SFX EVIDENCE SAFETY — ABSOLUTE
+==================================================
+
+Speech/`TCHK` cannot cover:
+- chopstick rest/release
+- hand becoming free
+- mask edge/hardware grip
+- actual mask travel/seating
+- final hardware source
 
 ==================================================
 VERTICAL STORY FLOW
@@ -155,8 +151,8 @@ HYUN-WOO:
 
 SMALL BLACK GUTTER.
 
-V82 — CHOPSTICKS REST / MASK RESEAT
-Execute exact causal chain above: resolve food → SAME chopsticks contact/release fixed pot rest point → hand free → SAME mask reseat → only then:
+V82 — REST CHOPSTICKS / REAL MASK RESEAT
+Execute exact chain. After full secure state:
 `TCHK`
 
 SMALL BLACK GUTTER.
@@ -167,41 +163,31 @@ NARI:
 
 SMALL BLACK GUTTER / REVEAL DELAY.
 
-V84 — DOMINANT CANONICAL REVEAL
-From SAME seated position, reveal readable canonical upper face/eyes, fully reseated technical lower-face mask, tattoos, hair, broad body while table/candle/pot/packet anchors prove no relocation.
+V84 — CANONICAL REVEAL
+Same seated position, canonical upper face/eyes, fully seated technical mask, tattoos, hair/body.
 HYUN-WOO:
 `HYUN-WOO.`
 
 ==================================================
-POWER / NO DEAD BOTTOM
+POWER / SEAM
 ==================================================
 
-Unit power absent, candle small matte source. No glow-heavy reveal.
-V84 uses lower canvas fully; no giant tail beneath name.
-
-SEAM OUT — G
-Strip 019 begins immediate interrogation at same distance/chair/mask/table topology, SAME used chopsticks at fixed pot rest point, SAME empty outer packet one-short-step floor spot, SAME KNIFE HAND/SCRUNCHIE WRIST/headphones-at-neck.
+Unit power absent; candle small matte source only. Strip019 inherits same positions, stable dining scale/depth, chopstick rest, mask secure, Nari state, packet spot.
 
 AUTOMATIC REJECT IF
-- any production/KNIFE HAND/SCRUNCHIE WRIST label appears
-- attached refs/room geometry redesigned/mirrored
-- permanent drift previous strip propagated over canon
-- either character changes story-world position
-- SCRUNCHIE WRIST/headphones state changes without action
-- empty floor packet/seasoning wrapper/pot/candle/cloth topology changes or packet moves from one-short-step spot
-- noodles/chopsticks disappear without completed action
-- close-up creates duplicate chopstick pair/mask/pot or incompatible simultaneous states
-- chopsticks already resting before visible placement/release or remain in hand after release
-- Hyun-woo eats through full mask
-- mask jumps directly to sealed state without visible reseat
-- `TCHK` before mask fully seated
-- exposed lower face clearly revealed
-- mask/tattoo/hair redesigns
-- Nari knife physical hand/state changes
-- text hides action proof
-- invented narration/title card appears
+- production/temp-state label appears
+- refs/room geometry drift
+- character position changes
+- chopsticks float/clip/duplicate/remain in hand after release
+- mask action is only a hand-over-face overlap with no readable mask movement/contact
+- mask/straps/hardware teleport, duplicate, detach, reverse side, clip through head/hair/hand, or change scale
+- TCHK before actual seating/secure state
+- lower face clearly revealed
+- dining scale/depth/topology changes
+- Nari knife/worn state changes
+- text hides mask/chopstick mechanics
+- invented narration/title card
 - black separator missing/oversized
-- giant dead bottom appears
 ```
 
 ## Production Thread Attachments
