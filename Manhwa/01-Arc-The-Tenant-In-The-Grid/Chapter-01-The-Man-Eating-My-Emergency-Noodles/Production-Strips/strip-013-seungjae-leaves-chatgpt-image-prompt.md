@@ -49,86 +49,83 @@ END:
 - umbrella same hand
 
 ==================================================
-TEMPORARY SIDE / DEVICE CHAIN — ABSOLUTE
+WATCH / EARBUD / UMBRELLA BODY ATTACHMENT — NON-NEGOTIABLE
 ==================================================
 
-BAG SHOULDER, UMBRELLA HAND, PHONE POCKET remain same physical sides.
-V60:
-1. umbrella hand keeps umbrella
-2. phone stays pocket
-3. both earbuds begin worn
-4. free hand checks watch ON wrist
-5. free hand leaves watch
-6. removes ONE specific earbud from one established ear
-7. opposite earbud stays in opposite ear
-8. checks SAME removed earbud
-9. reinserts SAME earbud into SAME ear
-10. free hand free again
+WATCH:
+- SAME smartwatch physically wraps the same wrist; it does not float beside or sink into the arm
+- free hand contacts actual watch face/body for the check; fingers do not pass through wrist/watch
 
-No case/second pair/extra hand.
+EARBUDS:
+- one physical earbud sits in each ear at start
+- free hand removes ONE specific earbud from one established ear using a usable fingertip grip on the earbud body
+- opposite earbud remains seated in opposite ear
+- removed earbud does not pass through hair/ear/fingers
+- SAME earbud returns to SAME ear and is visibly seated again
+- no case/second pair
+
+UMBRELLA:
+- remains in SAME UMBRELLA HAND using a real handle/shaft grip; it does not fuse with palm or float
+
+==================================================
+BAG / TABLET PHYSICAL ATTACHMENT — ABSOLUTE
+==================================================
+
+Bag remains on SAME BAG SHOULDER at stable scale.
+- strap follows shoulder/torso contour and may pass behind hair/clothing only with believable depth
+- strap cannot cut through neck/arm/hair/clothing
+- bag body hangs from strap and does not float
+
+Tablet remains physically INSIDE bag.
+To see screen, Nari parts/angles the actual bag opening enough to create a real sightline. No X-ray visibility through opaque fabric.
+Her hand/body must support the bag while opening it; no extra hand or floating bag flap.
+
+==================================================
+TABLET SCREEN PHYSICAL-PLANE LOCK — ABSOLUTE
+==================================================
+
+`HE SHOULD GO.` and `ONLY FOR A MINUTE.` exist only on the SAME tablet screen physically inside the bag.
+- text stays inside tablet screen boundary
+- if tablet is oblique inside bag, text follows tablet screen plane/perspective
+- a close-up may make text readable but represents SAME tablet, not a floating UI card outside the bag
+- text does not project through closed fabric or remain floating after the screen is occluded
+- Seungjae must not have a clear angle to read the content
+
+==================================================
+CAMERA AXIS / PRIVATE EYE-LINE CONTINUITY — ABSOLUTE
+==================================================
+
+Preserve entrance-behind / elevator-ahead world axis until V64.
+- Nari's eyes/head angle down/inward toward the actual tablet opening when reading it
+- Seungjae's gaze remains on Nari/conversation/lobby path, not magically aligned with the private tablet screen
+- Nari may glance back to Seungjae for speech without changing bag/tablet world position
+- reverse shots may flip screen direction but cannot switch BAG SHOULDER/UMBRELLA HAND/PHONE POCKET or make Seungjae suddenly stand on the screen-reading side of the bag
 
 ==================================================
 ELEVATOR DOOR MECHANISM / THRESHOLD DEPTH — NON-NEGOTIABLE
 ==================================================
 
-The elevator bank/door is permanent architecture controlled by `building-lobby-elevator-reference.webp`.
-
-Preserve:
-- same elevator opening location
-- same door-panel count and proportions
-- same sliding/track mechanism or other exact mechanism visible in reference
-- same jamb/frame/threshold
-- same lobby side vs cab-interior side
-
-Do NOT change sliding doors into hinged doors, reverse panel travel, invent a different elevator portal, widen/narrow doorway unrealistically, or move elevator bank.
-
-V64 must prove actual arrival/entry:
-1. both are lobby-side before arrival
-2. SAME elevator door panels physically open along their real mechanism
-3. a real clear opening exists
-4. Nari approaches threshold with feet aligned to floor
-5. her leading foot/body crosses lobby→cab threshold through the open doorway
-6. bag remains on BAG SHOULDER and clears door frame
-7. Seungjae remains on lobby floor outside cab
-8. no door panel passes through Nari/bag/body
-9. Nari is not shown fully inside before the door opens
-
-Depth order must make Nari crossing into the cab readable; do not fake entry by merely drawing her over an elevator background.
+Preserve exact elevator opening location, door-panel count/proportions, sliding/track mechanism or exact reference mechanism, jamb/frame/threshold, lobby side vs cab interior.
+V64: doors physically open first; Nari leading foot/body crosses lobby→cab threshold; bag clears frame; Seungjae remains lobby-side. No door panel passes through Nari/bag.
 
 ==================================================
-BAG / TABLET CONTACT / DEPTH — ABSOLUTE
+REFLECTION / GLASS FALSE-DUPLICATE BAN — ABSOLUTE
 ==================================================
 
-Bag stays BAG SHOULDER at stable scale.
-Tablet remains physically inside bag. To read screen, Nari must part/angle real opening enough; no X-ray visibility.
-Her hands/body must support bag realistically; close-up is SAME bag/tablet.
-Seungjae must not have clear reading angle.
+Elevator/lobby metal/glass surfaces may have restrained non-figurative sheen only.
+Do not create reflected duplicates of Nari, Seungjae, bag/tablet, a third person, face, hand or silhouette in elevator doors/glass/walls.
 
 ==================================================
 SAME-OBJECT INSERT / SCALE — ABSOLUTE
 ==================================================
 
-Watch/earbud/bag/tablet/elevator detail views are SAME physical items/architecture.
-Do not enlarge tablet as world-space object for close-up, create second watch/earbud/bag, or show elevator doors in incompatible open/closed states in same moment.
+Watch/earbud/bag/tablet/elevator details are SAME physical items/architecture. No second watch/earbud/bag/tablet. World-space scale stays stable.
 
 ==================================================
 TEXT / EVIDENCE SAFETY — ABSOLUTE
 ==================================================
 
-Speech/`BIP`/tablet text must not cover:
-- watch contact
-- earbud removal/reinsert
-- bag opening/tablet inside
-- elevator door opening/threshold crossing
-- Nari vs Seungjae depth separation at V64
-
-==================================================
-TEXT OWNERSHIP
-==================================================
-
-No narration.
-`HE SHOULD GO.` / `ONLY FOR A MINUTE.` = tablet screen only, clean helpful cyan-white.
-Human lines speech. `BIP` at device source.
+Speech/`BIP`/tablet text must not cover watch contact, earbud removal/reinsert, bag strap/opening/tablet inside, elevator door opening/threshold or Nari/Seungjae depth separation.
 
 ==================================================
 VERTICAL STORY FLOW
@@ -139,7 +136,7 @@ SFX:
 `BIP`
 SEUNGJAE:
 `MY WATCH TOO?`
-Execute exact sequential check.
+Execute sequential physical check.
 
 SMALL BLACK GUTTER.
 
@@ -150,8 +147,8 @@ SEUNGJAE:
 SMALL BLACK GUTTER.
 
 V62 — ELEVATOR BANK / TABLET
-Nari opens SAME bag enough to see tablet inside.
-TABLET:
+Nari opens SAME bag enough to see SAME tablet inside.
+TABLET SCREEN:
 `HE SHOULD GO.`
 
 SMALL BLACK GUTTER.
@@ -159,7 +156,7 @@ SMALL BLACK GUTTER.
 V63
 NARI:
 `YOU DID THAT?`
-TABLET:
+TABLET SCREEN:
 `ONLY FOR A MINUTE.`
 NARI:
 `DON'T TOUCH HIS STUFF.`
@@ -167,7 +164,7 @@ NARI:
 SMALL BLACK GUTTER.
 
 V64 — ELEVATOR ARRIVES / REAL THRESHOLD CROSSING
-Show SAME elevator doors physically open according to reference before Nari steps in alone.
+Show doors physically open before Nari steps in alone.
 Seungjae turns toward entrance only now.
 SEUNGJAE:
 `I'M GOING TO HEAD OUT BEFORE ANYTHING ELSE DIES.`
@@ -179,22 +176,22 @@ Reading order Seungjae then Nari.
 NO DEAD BOTTOM / SEAM
 ==================================================
 
-Use elevator separation composition through lower canvas. Strip 014 legal later-night cut.
+Use elevator separation composition through lower canvas. Strip014 legal later-night cut.
 
 AUTOMATIC REJECT IF
 - production/temp-state label appears
-- reference lobby/elevator geometry redesigned
-- elevator door panel count/track/opening mechanism changes
-- Nari appears inside before doors open or clips through panel/frame
-- Nari/Seungjae depth makes both appear inside cab or both outside after entry beat
-- BAG SHOULDER/UMBRELLA HAND/PHONE POCKET changes
-- tablet leaves bag/X-ray visibility/duplicate bag or tablet
-- earbud case/second pair appears or checked earbud wrong ear
+- reference lobby/elevator geometry redesigns
+- watch floats/changes wrist or check hand clips through watch/wrist
+- earbud removal/reinsertion clips/fuses, returns wrong ear, duplicates, or case appears
+- umbrella grip impossible/floating or changes hand
+- bag strap clips/floats/switches shoulder; tablet leaves bag/X-ray visibility
+- tablet text floats outside screen/bag or ignores screen perspective
+- Seungjae gains clear reading angle to private tablet
+- elevator door mechanism changes or Nari enters before open/clips through panel
+- reflection creates duplicate person/device/bag/unknown figure
 - item world-space scale changes
-- Seungjae reads tablet
-- Seungjae turns exit before V64
-- text hides elevator/device contact proof
-- lobby axis flips
+- travel axis/elevator geography flips
+- text hides contact/threshold proof
 - giant dead bottom appears
 ```
 
