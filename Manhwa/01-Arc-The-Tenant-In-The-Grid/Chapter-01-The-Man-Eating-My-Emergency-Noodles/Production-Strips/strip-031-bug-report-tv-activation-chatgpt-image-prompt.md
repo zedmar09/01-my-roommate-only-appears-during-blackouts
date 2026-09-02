@@ -1,202 +1,185 @@
-# Strip 031 — Bug Report / Unplugged TV Activation
+# Strip 031 — Bug Report / Unplugged TV Activation — FINAL DETERMINISTIC GENERATION PROMPT
 
 ```text
-Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing SAME normally powered ending sequence from APPROVED Strip 030.
+Create exactly ONE tall full-color 2D manhwa TECHNICAL STRIP continuing the SAME normally powered ending sequence from the APPROVED rendered Strip 030.
+
+THIS IS NOT A PAGE. Never render V143–V145, Strip 031, WRITING HAND/NOTEBOOK ZONE labels, filenames, QA notes, or production metadata.
 
 PRODUCTION SCOPE
-V143–V145.
-
-ATTACH — REQUIRED
-- `Character-References/nari-canonical-flat2d.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-- `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-- `Manhwa/Object-References/tv-canonical-reference.webp`
-- APPROVED Strip 030
-- this Strip 031 prompt
-
-Do NOT attach or depict Hyun-woo.
+V143–V145 only.
 
 ==================================================
-START / AUTHORITY — ABSOLUTE
+ATTACH — REQUIRED — EXACT SET
 ==================================================
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-living-to-kitchen-wide-reference.webp`
+4. `unit-2407-kitchen-to-living-wide-reference.webp`
+5. `unit-2407-desk-zone-detail-reference.webp`
+6. `unit-2407-lighting-state-sheet-reference.webp`
+7. `unit-2407-room-angle-atlas-reference.webp`
+8. `tv-canonical-reference.webp`
+9. APPROVED rendered Strip 030 image
 
-Attached refs permanent. Preserve Nari identity/worn state, untouched chair, true-scale NOTEBOOK ZONE, table/cabinet/two-pot topology and TV wall-unplug state.
-Never render V/P/strip/NOTEBOOK ZONE/WRITING HAND/temp-state labels.
+Do NOT attach or depict Hyun-woo. Missing authority = STOP.
+
+==================================================
+CURRENT CANON / START STATE
+==================================================
+Current WebPs permanently control Nari/Unit/TV. APPROVED Strip 030 temporarily controls exact Nari chair, closed notebook/pen placement, table/cabinet/two-pot topology, phone/knife states, and TV wall-unplug state.
+
+CURRENT NARI WEBP WINS. Never restore retired old-Nari dark-plum hair, mouth beauty mark, yellow scrunchie, headphones-around-neck identity, or old clothing design.
 
 START:
-- Nari SAME untouched chair
-- SAME closed A5 notebook flat SAME NOTEBOOK ZONE
+- Nari seated SAME untouched chair
+- SAME closed A5 notebook flat same Nari-side clear table zone
 - SAME pen beside notebook
 - NOODLE POT/table evidence unchanged
-- STORAGE POT/open cabinet unchanged
-- TV inactive but wall-unplugged
-- Unit powered
-
-ALLOWED CHANGES:
-- Nari opens SAME notebook in place
-- physical hand picking SAME pen becomes WRITING HAND
-- WRITING HAND writes V143/V144 exact text; same anatomical hand throughout
-- after final word same hand lowers/releases pen onto page/margin
-- only after release Nari turns head/upper body toward TV
-- SAME wall-unplugged TV begins hostile activation `KZZT`
+- STORAGE POT/open-cabinet speaker state unchanged
+- TV inactive but STILL wall-unplugged
+- Unit powered baseline
 
 END:
-- Nari same chair, turned toward TV
-- notebook open, exact writing, pen released
-- TV hostile activation, still wall-unplugged
-- table/cabinet/worn state unchanged
+- Nari same chair, head/upper torso turned toward TV
+- notebook open with exact bug-report writing
+- pen physically released/supporting on page or clear margin
+- TV hostile activation begun, still wall-unplugged
+- final `NEW TENANT CONFIRMED` NOT shown yet
 
 ==================================================
-NARI CHARACTER IDENTITY / WHOLE-BODY TOPOLOGY — NON-NEGOTIABLE
+WRITING / HAND / SCALE / HEIGHT MAP
 ==================================================
+Exactly two Nari hands total. The hand that picks up the pen becomes the persistent writing hand through all writing; the other hand may stabilize the notebook only if physically connected and not duplicating.
 
-Nari remains the SAME canonical 30-year-old woman in every writing/TV/reaction view:
-- long dark-plum mid-back hair with same part/fringe; no short-hair reversion or hue change
-- exactly ONE tiny beauty mark beside anatomical LEFT corner of mouth whenever visible; never mirrored to anatomical right or duplicated
-- SAME dark hoodie, loose black trousers, bare feet, SAME yellow SCRUNCHIE WRIST and SAME headphones around neck
-- same adult face/build; no beautification/teen recast or different woman in TV-reaction close-up
-- exactly two arms/hands; exactly two legs/feet; no extra/missing/duplicated limb/finger/ear
-- WRITING HAND and non-writing hand must both connect to the correct shoulders/arms/body; do not generate a third stabilizing hand
-- a hand close-up must preserve sleeve/scrunchie/skin/body context needed to identify which physical hand it is
-- no sleeve that ends in a detached or opposite-side hand
+Notebook stays true A5 scale. Text belongs to actual page plane. TV remains canonical size; unplug proof remains wall-side, never appliance-side.
 
-Powered light may change value only; hair/scrunchie/clothing identity colors remain stable and matte.
+Approximate height:
+V143 observation writing 38% | V144 hypothesis + pen release 34% | V145 TV activation 28%.
+Writing beats need enough page/hand visibility for mobile readability.
 
 ==================================================
-WRITING HAND / NON-WRITING HAND OCCUPANCY — ABSOLUTE
+V143 — OPEN NOTEBOOK / WRITE OBSERVATION — FULL BLUEPRINT
 ==================================================
+A. NOTEBOOK OPEN
+- same notebook remains in exact table zone/orientation
+- cover/pages rotate around same spine
+- no duplicate notebook
 
-The physical hand that picks up the pen becomes WRITING HAND.
-- SAME anatomical hand writes ALL observation/hypothesis text
-- fingers/thumb use believable writing grip
-- pen tip contacts page
-- non-writing hand may stabilize the notebook only if visibly connected to the other real arm; it may not hold another pen or appear as an extra hand
-- total visible/implied Nari hands remains exactly two
-- reverse shot cannot switch WRITING HAND
-- after final word WRITING HAND lowers pen, pen contacts page/margin, fingers release, pen stays supported
+B. PEN PICKUP
+1. SAME pen starts table-supported beside notebook
+2. one real hand grips pen with usable writing grip
+3. pen leaves table; old spot empty
+4. this same hand remains writing hand
 
-Do not crop a writing-hand detail so tightly that the arm/body side becomes ambiguous if a neighboring view cannot prove ownership.
+C. WRITE ON SAME PAGE
+Pen tip physically contacts page. Letters appear progressively only along tip path.
 
-==================================================
-NOTEBOOK PAGE / HANDWRITING — NON-NEGOTIABLE
-==================================================
-
-V143 exact text:
+EXACT WRITTEN TEXT:
 `UNIT 2407 — BUG REPORT`
 `OBSERVATION 001:`
 `HYUN-WOO BECAME PHYSICAL DURING THE BLACKOUT.`
 
-V144 exact text:
+RULES:
+- text inside actual notebook page boundaries
+- follows page perspective
+- mobile-readable
+- no floating caption/typed overlay
+- Nari does NOT mouth written text
+
+END:
+- observation complete; pen still same hand
+
+SMALL BLACK GUTTER.
+
+==================================================
+V144 — WRITE HYPOTHESIS / COMPLETE / RELEASE PEN — FULL BLUEPRINT
+==================================================
+START:
+- same open notebook/page
+- same writing hand/pen
+
+WRITE EXACT:
 `HYPOTHESIS:`
 `LOSS OF APARTMENT POWER MAY BE THE TRIGGER.`
 
-All text belongs to SAME physical notebook page, follows page perspective, appears only along pen-tip path, stays inside page boundaries and remains readable at mobile scale. No duplicate/floating bug-report graphic.
+ORDER:
+1. pen-tip writing progresses to final period
+2. final word/period complete
+3. same hand lowers pen
+4. pen contacts real page/margin or adjacent clear table zone specified by composition
+5. fingers release
+6. pen remains fully supported
+7. writing hand visibly empty
 
-==================================================
-SPEAKING / THOUGHT / DEVICE OWNERSHIP — ABSOLUTE
-==================================================
+No TV activation before step 6.
 
-The notebook text is WRITTEN, not spoken; Nari must not visibly mouth the written sentences while penning them.
-V145 TV hostile fragments are DEVICE content only; Nari must not visibly mouth them.
-Nari's visible reaction after pen release is silent unless scripted otherwise.
-No physical/reflected/shadow Hyun-woo appears or mouths anything while Unit power is on.
-
-==================================================
-NARI→TV EYE-LINE / CHAIR BODY SUPPORT — ABSOLUTE
-==================================================
-
-Only after pen release, Nari turns head/eyes/upper torso toward actual TV while hips remain supported by SAME chair and feet remain on real floor. No extra torso/arm generated during turn; notebook zone remains in place.
-
-==================================================
-MOBILE WRITING / PEN-RELEASE PROOF — ABSOLUTE
-==================================================
-
-Show closed notebook→open, pen pickup by SAME connected WRITING HAND, pen-tip writing, final-word completion, pen lowering/contact/release, then TV turn. Keep hand, page, spine and release point mobile-readable/crop-safe.
-
-==================================================
-TV WALL-UNPLUG / SCREEN / PRESENTATION — ABSOLUTE
-==================================================
-
-V145 hostile field belongs only to SAME TV screen. Final message not yet present.
-Wall-unplug proof remains: TV-side cord attached → continuous cord → loose wall plug → EMPTY wall socket with wall context. No appliance-side disconnect, cable duplication or clipping. Use ordinary perspective and powered-light baseline; TV does not become room light.
-
-==================================================
-REFLECTION / LOCAL-MATERIAL CONTINUITY — ABSOLUTE
-==================================================
-
-No reflected Nari duplicate/Hyun-woo/unknown figure. Nari skin/hair/headphones/scrunchie/clothes remain matte; no glossy beauty close-up. TV hostile effect stays screen-contained.
-
-==================================================
-TOP-TO-BOTTOM ORDER — ABSOLUTE
-==================================================
-
-1. notebook opens
-2. WRITING HAND picks pen
-3. observation written
-4. hypothesis written
-5. final word complete
-6. pen contacts page/margin
-7. fingers release
-8. Nari turns toward TV
-9. `KZZT`
-10. hostile TV activation + wall-unplug proof
-
-Never show TV activation before pen release.
-
-==================================================
-VERTICAL STORY FLOW
-==================================================
-
-V143 — OPEN / WRITE OBSERVATION
-Open SAME notebook. SAME connected WRITING HAND picks pen and writes exact observation.
+END:
+- exact bug report complete
+- pen released
 
 SMALL BLACK GUTTER.
 
-V144 — WRITE HYPOTHESIS / RELEASE
-SAME WRITING HAND writes exact hypothesis. Then lower/release SAME pen horizontally on page/margin.
+==================================================
+V145 — ONLY AFTER PEN RELEASE: TURN TO SAME WALL-UNPLUGGED TV / HOSTILE START — FULL BLUEPRINT
+==================================================
+A. NARI TURN
+- hips remain seated on SAME chair
+- feet remain floor-supported
+- only head/eyes/upper torso turn toward actual TV
+- no standing/teleport/new gesture
 
-SMALL BLACK GUTTER.
-
-V145 — TV ACTIVATION
-Only after pen release, Nari turns toward ACTUAL TV.
+B. TV ACTIVATION
 SFX at actual TV:
 `KZZT`
-Hostile takeover begins on screen; no final message yet.
-Mandatory mobile-readable wall-unplug proof remains physically valid.
+
+SCREEN:
+- hostile takeover begins on SAME TV screen only
+- broken/doubled white glyph/pixel interference family may start
+- NO final `NEW TENANT CONFIRMED` yet
+- TV effect does not light entire room
+
+C. WALL-UNPLUG CONTINUITY
+Where composition can prove it without destroying readability:
+- TV-side cord attached
+- continuous same cord
+- same loose wall-end plug
+- SAME empty wall socket/faceplate with wall context
+- no second cable/replug
+
+If outlet is off-frame, nothing may contradict the established wall-unplug state.
+
+NARI:
+- silent alert reaction
+- does not mouth device content
+
+END / SEAM:
+Strip 032 begins immediate same hostile-TV fraction, same seated Nari, same notebook/pen/table/cabinet/TV states.
 
 ==================================================
-SEAM
+EXACT TEXT ONLY
 ==================================================
+`UNIT 2407 — BUG REPORT`
+`OBSERVATION 001:`
+`HYUN-WOO BECAME PHYSICAL DURING THE BLACKOUT.`
+`HYPOTHESIS:`
+`LOSS OF APARTMENT POWER MAY BE THE TRIGGER.`
+`KZZT`
 
-Strip 032 inherits exact Nari face/hair/beauty-mark/worn/body topology, notebook writing/pen rest, table/cabinet/two-pot state and TV cord/plug/socket state.
+No extra readable text. No final message yet.
 
-AUTOMATIC REJECT IF
-- production/temp-state label appears
-- Nari beauty mark missing/duplicated/moved to anatomical right
-- hair/face/age/build/outfit/local colors change between writing/TV views
-- extra/missing/duplicated hand/arm/leg/foot/finger appears, WRITING HAND switches, or close-up hand cannot connect to same body
-- third stabilizing hand appears
-- handwriting is mouthed/spoken, appears ahead of pen, floats off page, changes wording or is unreadable
-- pen release skipped or TV activation reads before release
-- TV device content is mouthed by Nari or floats outside screen
-- wall-unplug proof contradicts state or looks appliance-side
-- Nari leaves chair/turn anatomy impossible
-- reflected/shadow human appears
-- character materials become glossy/cinematic
-- table/two-pot/cabinet topology resets
-- text hides writing/anatomy/outlet proof
+==================================================
+FINAL REJECT
+==================================================
+Reject if production labels render; retired Nari design returns; extra/third writing hand appears; writing hand switches; text floats off notebook/changes wording/unreadable; pen release skipped; TV activates before pen release; Nari mouths written/device text; Nari leaves chair; TV silently replugged/appliance-side cable detached; wall-unplug proof contradicts established state; physical/reflected/shadow Hyun-woo appears; table/two-pot/cabinet topology resets; glossy/cinematic/photoreal/3D style appears; text hides writing/outlet proof; gutters missing/oversized; dead bottom appears.
 ```
 
-## Production Thread Attachments
-1. `Character-References/nari-canonical-flat2d.webp`
-2. `Manhwa/Environment-References/Unit-2407/unit-2407-floor-plan-reference.webp`
-3. `Manhwa/Environment-References/Unit-2407/unit-2407-living-to-kitchen-wide-reference.webp`
-4. `Manhwa/Environment-References/Unit-2407/unit-2407-kitchen-to-living-wide-reference.webp`
-5. `Manhwa/Environment-References/Unit-2407/unit-2407-desk-zone-detail-reference.webp`
-6. `Manhwa/Environment-References/Unit-2407/unit-2407-lighting-state-sheet-reference.webp`
-7. `Manhwa/Object-References/tv-canonical-reference.webp`
-8. APPROVED Strip 030
-9. this Strip 031 prompt
+## Production Thread Attachments — EXACT SET
+1. `nari-canonical-flat2d.webp`
+2. `unit-2407-floor-plan-reference.webp`
+3. `unit-2407-living-to-kitchen-wide-reference.webp`
+4. `unit-2407-kitchen-to-living-wide-reference.webp`
+5. `unit-2407-desk-zone-detail-reference.webp`
+6. `unit-2407-lighting-state-sheet-reference.webp`
+7. `unit-2407-room-angle-atlas-reference.webp`
+8. `tv-canonical-reference.webp`
+9. APPROVED rendered Strip 030 image
