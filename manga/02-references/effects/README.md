@@ -2,23 +2,22 @@
 
 Use effect canonicals only for recurring visual phenomena that need recognizable continuity, such as supernatural marks, electrical/blackout manifestations, recurring impact language, or special transformation states.
 
+Effect folders store semantic authorities:
+
 ```text
-<effect-id>/
+effects/<effect-id>/
 ├── canon.md
-├── <effect-id>-reference-generation-prompt.md
-└── <effect-id>-atlas.webp
+└── <effect-id>-reference-generation-prompt.md
 ```
 
-## Generation Format
+Approved final effect WebPs are centralized in:
 
-ChatGPT/image generation should first create:
+`manga/02-references/approved-webp/`
 
-`<effect-id>-atlas.png`
-
-That PNG is the review candidate only. After visual approval, the user manually converts that exact PNG to:
+Typical name:
 
 `<effect-id>-atlas.webp`
 
-Only the approved WebP becomes repository visual authority.
-
 Effects must remain black-and-white manga language: ink, white negative space, screentone, hatching, speed/impact lines, and controlled graphic distortion rather than colored glow or cinematic VFX.
+
+Generate PNG first, review it, then manually convert the exact approved PNG to the centralized WebP. Consult `generation-attachment-map.md` for exact prerequisite WebPs.
