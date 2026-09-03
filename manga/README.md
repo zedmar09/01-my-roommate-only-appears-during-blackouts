@@ -1,31 +1,31 @@
-# Manga Production
+# Manga Production Root
 
-This folder is the black-and-white manga adaptation workspace for **My Roommate Only Appears During Blackouts**.
+`manga/` is the only active production root for **My Roommate Only Appears During Blackouts**.
 
-## Production goal
+## Format Lock
 
-- Convert the existing full-color vertical manhwa chapter into traditional black-and-white manga pages.
-- Generate **one complete multi-panel manga page per image generation** instead of generating each panel separately.
-- Preserve story canon, character identity, environment geometry, object identity, dialogue, and event order from the existing repository.
-- Use reusable canonical reference sheets to reduce regeneration and visual drift.
+- black-and-white manga
+- human-drawn pencil/ink impression
+- line-weight variation
+- screentones and hatching
+- solid blacks where composition requires them
+- expressive manga simplification when appropriate
+- conventional page storytelling rather than vertical webtoon strips
+- variable panel count, panel size, panel shape, and density according to story rhythm
+- no fixed per-page panel template
+- no color pipeline
+- no glossy, cinematic, CGI, 3D-rendered, photoreal, painterly, or webtoon-strip look
 
-## Visual contract
+Canonical source pages should use one publication page specification once that specification is approved. The dramatic variation comes from panel composition, not from randomly changing the source-page canvas. Long stitched previews may be exported separately later.
 
-- Black and white only.
-- Fully hand-drawn manga appearance.
-- Clean pencil/ink line work with visible human-drawn character.
-- Screen tones, hatching, cross-hatching, solid blacks, and white negative space are allowed.
-- No color.
-- No photorealism.
-- No 3D/CGI rendering.
-- No glossy skin, hair, walls, furniture, or objects.
-- No cinematic grading, bloom, lens flare, volumetric light, depth-of-field blur, or polished game-render finish.
-- Page composition should resemble a professionally drawn printed manga page: multiple readable panels in one page image, varied panel sizes, clear gutters, speech balloons, narration boxes, and SFX where required.
+## Authority Order
 
-## Reference hierarchy
+1. current user instruction
+2. `00-series/` canon and continuity
+3. current approved chapter story files under `03-story/`
+4. `01-style/` visual rules
+5. approved reference atlases under `02-references/`
+6. current page blueprint under `04-production/`
+7. immediately previous approved page only for local seam/pose/prop continuity
 
-- `character-references/` — manga-form canonical character sheets.
-- `environment-references/` — manga-form canonical locations, room layouts, and angle sheets.
-- `object-references/` — manga-form canonical props and recurring objects.
-
-Existing story/manhwa canon remains authoritative. Manga references are translation references for black-and-white rendering, not permission to redesign canon.
+The retired Manhwa files and Git history are never active visual or narrative authority unless a specific premise-level idea is deliberately re-approved into `00-series/`.
