@@ -2,18 +2,27 @@
 
 ## Status
 
-**TEXT APPROVED — PNG VISUAL CANDIDATE READY TO GENERATE.**
+**TEXT + VISUAL APPROVED.**
 
 This is the semantic authority for Nari's recurring workplace.
 
-Approved rendering authorities to attach:
-
-- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-
-Planned centralized final visual authority after approval/manual conversion:
+Approved visual authority:
 
 `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
+
+## Story-Page Attachment Policy
+
+When this workplace is visible on a story page, attach the approved workplace atlas when required by the page-production MD.
+
+Do **not** automatically attach Style A/B for story-page generation.
+
+Style A/B remain reference-development assets and may be used when rebuilding environment reference packages, but final story-page rendering follows:
+
+- `manga/01-style/manga-style-lock.md`
+- the exact current page-production MD
+- `manga/02-references/generation-attachment-map.md`
+
+The workplace atlas controls geometry/design, not final rendering finish.
 
 ## Workplace Identity
 
@@ -73,39 +82,29 @@ The cold open must establish Nari at this office clearly enough that the reader 
 
 The environment atlas itself does not encode story timestamps or named story characters.
 
-## Manga Rendering
+## Final Story-Page Manga Rendering
 
-Use both approved style authorities:
+When this environment appears in final pages:
 
-- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-
-Generic environments visible inside those style sheets are rendering references only and must not be copied as this workplace geometry.
-
-Requirements:
-
-- finished black-and-white manga ink
-- screentone/hatching
-- clear human-drawn perspective
+- finished black-and-white 2D manga ink
+- clean perspective linework
+- screentone/hatching as appropriate
+- flat solid-black ink shapes where useful
 - detailed enough for establishing shots
 - simplifiable for dialogue/reaction pages
-- no glossy reflective office surfaces
-- no cinematic bloom
+- no rough construction-sketch residue
+- no glossy reflective/cinematic treatment
+- no photoreal, painterly or 3D look
 
 ## Automatic Reject
 
-Reject a generated PNG candidate if:
+Reject if:
 
-- it copies a style-sheet environment instead of this canon
 - office becomes software/game/engineering workspace
-- screens dominate every view and manuscripts/books disappear
+- screens dominate and manuscripts/books disappear
 - Nari's desk moves between views
 - review area geometry changes
-- daytime and late-night versions redesign the room
+- daytime/late-night versions redesign the room
 - fake readable publishing logos/titles appear prominently
 - environment becomes luxury/futuristic/cyberpunk
-- rendering is color, glossy, photoreal, CGI/3D, painterly, cinematic or rough unfinished sketch
-
-After approval, manually convert the exact accepted PNG to:
-
-`manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
+- final story-page rendering is rough unfinished sketch, color, glossy, photoreal, CGI/3D, painterly or cinematic
