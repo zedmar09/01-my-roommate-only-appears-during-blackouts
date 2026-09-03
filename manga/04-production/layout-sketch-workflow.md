@@ -46,7 +46,9 @@ manga/04-production/arc-01/chapter-001/
 
 ## Stage A Visual Goal
 
-The sketch must look like a real manga artist's production rough / name / layout drawing.
+The sketch must look like a real manga artist's production rough / `name` / storyboard layout drawing.
+
+**A layout sketch is not an empty panel template.** It must contain rough readable story content inside the panels.
 
 Required:
 
@@ -54,18 +56,42 @@ Required:
 - organic rough pencil/ink lines
 - visible human line variation
 - simplified but readable anatomy
+- rough faces and expressions sufficient to understand acting
+- rough character poses, facing direction and gestures
+- rough hand positions where an action depends on the hands
 - conventional manga gutters
 - clear right-to-left panel order
 - clear character blocking
-- major prop/environment placement
-- speech-balloon placement
+- rough camera/framing visible from the actual drawings
+- simplified but readable environment perspective
+- major furniture / object / prop placement
+- speech-balloon shapes and approximate placement
 - white paper dominant
 - no polished key-art rendering
 - no cinematic lighting
 - no heavy digital shading
 - no glossy finish
 
-The purpose is **composition**, not final rendering.
+The sketch should be detailed enough that the final-art stage does not need to invent new panel content, poses, camera angles, major prop placement or balloon positions.
+
+The purpose is **composition and storytelling lock**, not final rendering.
+
+---
+
+## What A Layout Sketch Is NOT
+
+Automatically reject Stage A if it is only:
+
+- blank panel rectangles
+- wireframe boxes
+- abstract panel geometry
+- stick-figure placeholders with no readable staging
+- empty speech-balloon placeholders without characters/action
+- a clean template waiting for content later
+
+Likewise reject the opposite failure: a polished final illustration disguised as a sketch.
+
+The correct middle ground is a **content-filled rough manga page**.
 
 ---
 
@@ -88,13 +114,16 @@ For Chapter 001 story pages, `series-manga-style-reference-a.webp` and `series-m
 
 Approve a layout sketch only when:
 
+- every panel contains rough readable story content
 - panel count/order works
 - page rhythm works
 - reading direction is clear
-- camera/framing works as manga, not cinema
-- character blocking works
+- camera/framing is readable from the rough drawings
+- character blocking and poses work
 - major environment geometry is correct
+- major props are placed
 - dialogue balloons have usable positions
+- expression/acting is readable enough for final art
 - page has convincing human-drawn sketch character
 - no glossy/cinematic/heavy-black drift appears
 
@@ -133,6 +162,7 @@ The layout sketch controls:
 - reading flow
 - camera/framing
 - character blocking
+- poses/gestures
 - major object placement
 - negative-space structure
 - balloon-placement intent
@@ -188,4 +218,4 @@ If a page production file declares a layout sketch required and the correspondin
 
 **STOP FINAL PAGE GENERATION.**
 
-Generate, review, approve, convert and commit the layout sketch first.
+Generate, review, approve, convert and commit the content-filled layout sketch first.
