@@ -2,26 +2,26 @@
 
 Create environment references only for locations that need recurring spatial continuity.
 
-Typical package:
+Environment folders store semantic authorities:
 
 ```text
-<location-id>/
+environments/<location-id>/
 ├── canon.md
 ├── <location-id>-reference-generation-prompt.md
-├── <location-id>-master-atlas.webp
-├── <location-id>-floor-plan.webp   # optional
-└── details/                        # optional
+└── details/   # optional text/detail authorities
 ```
 
-## Generation Format
+Approved final environment WebPs are centralized in:
 
-ChatGPT/image generation should first create PNG review candidates:
+`manga/02-references/approved-webp/`
 
-```text
-<location-id>-master-atlas.png
-<location-id>-floor-plan.png        # only when separately generated
-```
+Typical names:
 
-The PNG files are intermediate review artifacts only. After approval, the user manually converts the exact accepted PNG(s) to the final WebP paths shown above. Only those approved WebPs are stored as repository visual authority.
+- `<location-id>-master-atlas.webp`
+- `<location-id>-floor-plan.webp` — optional only when a separate floor-plan authority is needed
 
 Use one strong multi-angle atlas whenever possible to reduce image-generation count. Repeated manga pages may change camera, crop, lighting state, and character blocking without changing canonical geometry.
+
+Generate PNG first, review it, then manually convert the exact approved PNG to the centralized WebP.
+
+Before generating an environment, consult `manga/02-references/generation-attachment-map.md` for the exact approved WebPs to attach.
