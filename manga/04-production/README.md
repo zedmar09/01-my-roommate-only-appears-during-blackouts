@@ -1,30 +1,52 @@
 # Manga Production
 
-Final story-page production uses **finished 2D black-and-white manga** and an optional separate layout-reference stage.
+Final story-page production uses **direct generation from one page-production Markdown** and targets finished 2D black-and-white manga.
 
 See:
 
 - `manga/04-production/page-production-standard.md`
-- `manga/04-production/layout-reference-workflow.md`
 - `manga/01-style/manga-style-lock.md`
 - `manga/01-style/reader-visible-language-lock.md`
+- `manga/04-production/layout-reference-workflow.md` — optional troubleshooting only
 
-## Structure
+## Normal Structure
 
 ```text
 04-production/
 ├── page-production-standard.md
-├── layout-reference-workflow.md
+├── layout-reference-workflow.md          # optional fallback only
 └── arc-01/
     └── chapter-001/
-        ├── page-001-layout-production.md   # pre-production composition authority generator
-        ├── page-001-layout-reference.webp # approved composition authority
-        ├── page-001-production.md          # final page authority
-        ├── page-001.webp                   # final approved page
+        ├── page-001-production.md        # complete direct final-page authority
+        ├── page-001.webp                 # final approved page
+        ├── page-002-production.md
+        ├── page-002.webp
         └── ...
 ```
 
-Layout production is separate from final story-page production.
+Normal page sequence:
+
+`page-###-production.md → page-###.png → review → page-###.webp`
+
+A separate layout reference is **not required by default**.
+
+---
+
+## Page 001
+
+Page 001 is generated directly from:
+
+1. `page-001-production.md`
+2. `nari-canonical.webp`
+3. `nari-workplace-master-atlas.webp`
+
+Do not attach:
+
+- Style A/B
+- `page-001-layout-production.md`
+- `page-001-layout-reference.webp`
+
+The old Page 001 layout-production file remains only as a deprecated troubleshooting pointer.
 
 ---
 
@@ -34,18 +56,11 @@ All final story pages use **English only** for reader-visible text unless the us
 
 This includes dialogue, captions, thoughts, SFX, signs, labels, notes and UI.
 
-Layout-reference images are **text-free by default**:
+Each final page-production MD must list exact permitted English wording.
 
-- speech balloons empty
-- caption boxes empty
-- no SFX text
-- no readable signs/labels/documents/UI
-- no Japanese/Korean/Chinese/other scripts
-- no English placeholder words
+Background text default: **none**.
 
-Final English wording comes only from the final `page-###-production.md`.
-
-Any non-English or invented reader-visible text is a regeneration failure.
+Any non-English, translated, invented or fake readable text is a regeneration failure.
 
 ---
 
@@ -60,7 +75,7 @@ For Chapter 001, default story-page generation omits:
 
 because they can visually overpower page-specific Markdown.
 
-The page production Markdown controls final story-page rendering and exact English lettering. Canonical character/environment WebPs control identity and geometry only.
+The page-production Markdown controls final composition, rendering and exact English lettering. Canonical character/environment WebPs control identity and geometry only.
 
 ---
 
@@ -80,16 +95,22 @@ Reject rough sketch final pages, cinematic lighting, glossy/painterly rendering,
 
 ---
 
+## Optional Layout-Reference Troubleshooting
+
+Use `layout-reference-workflow.md` only when direct generation repeatedly fails panel composition, blocking or story-critical temporary geometry.
+
+If invoked, the layout reference is text-free and controls composition only. It does not replace the final page-production MD.
+
+Do not add this stage merely because it exists.
+
+---
+
 ## PNG → WebP Workflow
 
-1. generate PNG review candidate
+1. generate final PNG review candidate
 2. visually audit
 3. user manually converts exact accepted PNG to WebP
 4. commit approved WebP
-
-Layout reference:
-
-`page-###-layout-reference.png` → approve → `page-###-layout-reference.webp`
 
 Final page:
 
