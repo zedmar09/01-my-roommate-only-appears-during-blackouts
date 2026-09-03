@@ -2,23 +2,24 @@
 
 ## Audit Result
 
-**HOLD — DO NOT GENERATE THE MINIMAL REFERENCE SET YET.**
+**PASS — CORE TEXT BASELINES APPROVED.**
 
-The Chapter 001 story direction is approved and stable enough to define reference scope, but several visual/continuity authorities are still unresolved. Generating character/environment canonicals before these items are locked risks wasting image generations or creating references that immediately become obsolete.
+The Chapter 001 story direction, Nari baseline, apartment spatial baseline, neighbor relationship, workplace identity, and style-reference concept are now approved for reference preparation.
+
+**Important generation gate:** the first image generation must be the original series manga style-reference image. Nari and environment WebPs remain blocked until that style image is visually approved.
 
 ## Story / Reveal Audit
 
 **PASS.** Chapter 001 has a locked event order and reveal ceiling:
 
-- Nari is verifiably away while activity is heard from her apartment.
+- Nari is verifiably at her publishing-company workplace while activity is heard from her apartment.
+- The complaint comes from the resident **directly below Nari**.
 - The neighbor complaint creates the first contradiction.
 - Ordinary access/security logic does not resolve it.
-- The dining chair becomes the physical continuity marker.
+- The second dining chair becomes the physical continuity marker.
 - The reader alone receives the final chair movement.
 - Hyun-woo is not shown, heard, named, silhouetted, or attached as a Chapter 001 reference.
 - No reader-facing blackout explanation appears.
-
-The current story scope is safe for reference planning.
 
 ## Minimal Reference Scope Audit
 
@@ -29,141 +30,149 @@ The current story scope is safe for reference planning.
 3. Nari apartment environment package
 4. Nari workplace environment package
 
-### Required environmental coverage, preferably merged rather than multiplied
+### Environmental coverage
 
-- Nari apartment interior
-- apartment front-door / immediate corridor relationship
-- elevator/common route used by the morning complaint
-- dining chair exact design/count/reference position
+The Nari apartment master atlas should cover:
 
-Prefer covering the immediate common route inside the apartment/building master environment atlas when readability remains strong. Create a separate common-area package only if one atlas becomes too crowded or spatially ambiguous.
+- apartment interior
+- front-door relationship
+- immediate corridor
+- elevator/common route
+- dining table and exact two-chair configuration
+- second-chair known/reference position
 
-### Conditional references
+Prefer one coherent apartment/building package rather than multiplying environment references.
 
-- Koo Hyejin canonical — only if she is formally retained as the visible recurring coworker/friend.
-- neighbor canonical — not required as a full reusable package for Chapter 001; preserve short-scene identity through sequential approved-page continuity unless the neighbor becomes recurring.
+### Conditional reference
 
-### Explicitly not required for Chapter 001
+- Koo Hyejin canonical — only after her rebuilt non-technical role/design is separately approved and only if Chapter 001 visibly uses her.
+
+### Explicitly deferred for Chapter 001
 
 - Hyun-woo canonical
 - building service/electrical-area atlas
 - blackout visual-language atlas
 - separate dining-chair object canonical
 - separate smartphone canonical
-- separate smart-lock canonical unless later story mechanics make the exact hardware plot-critical
+- separate smart-lock canonical
+- full neighbor character atlas unless the neighbor becomes recurring
 
-## Blocking Decisions Before Reference Image Generation
+## Resolved Decision 1 — Nari Chapter 001 Baseline
 
-### BLOCKER 1 — Nari final Chapter 001 baseline
+**APPROVED.**
 
-Must be locked before `nari-canonical.webp` generation:
+- Korean woman, age 30
+- editor at a mid-sized publishing company
+- approximately 165 cm
+- natural slim-average adult build
+- mature but approachable adult face
+- expressive eyes; slightly tired resting expression when overworked
+- dark mid-back hair with restrained natural wave
+- hair normally loose; simple low tie acceptable during concentrated work
+- no permanent glasses
+- practical publishing-office workwear: blouse/knit, cardigan/simple jacket, straight slacks, simple shoes
+- relaxed home clothing: loose T-shirt/long-sleeve + lounge pants
+- grounded, observant, dry humor, low-glamour everyday presentation
+- no automatic carryover of retired Manhwa accessories/design
 
-- exact age or approved age range
-- final occupation / workplace function
-- body-height/build identity
-- face/hair design
-- glasses/no-glasses decision
-- primary work outfit
-- primary home outfit or whether one canonical outfit can cover the chapter
-- permanent identifiers/accessories
-- expression baseline
+Semantic authority: `manga/02-references/characters/nari/canon.md`.
 
-Do not inherit the retired Manhwa design automatically.
+## Resolved Decision 2 — Nari Apartment Spatial Baseline
 
-### BLOCKER 2 — Nari apartment spatial canon
+**APPROVED.**
 
-Must be locked before apartment atlas/floor-plan generation:
+- modest modern Seoul one-bedroom apartment
+- approximately 40–45 m²
+- ordinary working-adult rental, neither luxury nor horror-run-down
+- short entry hall with readable sightline to living/dining
+- compact bathroom near entry
+- compact kitchen adjoining dining zone
+- separate bedroom/private-room route
+- main living area at exterior/window side
+- home work/activity zone within living area
+- small rectangular dining table
+- exactly two matching chairs
+- second chair is Chapter 001 continuity chair
+- second chair known state: fully tucked at designated side, back parallel to table edge, legs aligned to clear floor/table geometry
+- immediate corridor/elevator/common route merged into master atlas when possible
 
-- apartment class / approximate size
-- room count
-- entry-door position and opening relationship
-- living/dining/kitchen geometry
-- work area
-- bedroom/private-area route used at Chapter 001 end
-- window positions
-- major fixed furniture
-- dining table and exact chair count/design
-- one exact normal/known chair position that can be reproduced page to page
-- immediate corridor/elevator/common-route coverage strategy
+Semantic authority: `manga/02-references/environments/nari-apartment/canon.md`.
 
-### BLOCKER 3 — Neighbor spatial relationship
+## Resolved Decision 3 — Neighbor Relationship
 
-Choose one and keep it permanent:
+**APPROVED: directly below Nari.**
 
-- **unit directly below Nari**; or
-- adjacent unit.
+This gives Chapter 001 a straightforward physical sound path for footsteps and chair scraping without requiring special shared-wall acoustics.
 
-Recommendation for Chapter 001 continuity: **directly below**, because footsteps and chair scraping have a simple physical sound path and do not require inventing a shared-wall explanation.
+Do not revert to an adjacent-unit interpretation unless story continuity is deliberately revised later.
 
-Do not encode either option into an environment reference until approved.
+## Resolved Decision 4 — Nari Workplace Identity
 
-### BLOCKER 4 — Nari workplace identity
+**APPROVED.**
 
-The chapter already uses the workplace in the cold open and daytime scenes, so the final occupation must be known before generating the workplace atlas.
+Nari works as an editor at a mid-sized publishing company.
 
-Lock:
+The workplace must support:
 
-- Nari's occupation
-- workplace type
-- recurring desk/work zone
-- whether late-night work in the opening naturally fits that job
-- minimum background coworkers/equipment required
+- normal editorial desk work
+- manuscripts and printed proofs
+- reference/bookshelves
+- coworker desks
+- small review/meeting space
+- normal daytime activity
+- quiet late-night deadline work
 
-The opening should use the same workplace rather than introducing a separate one-off late-night location unless the story is intentionally changed.
+The Chapter 001 cold open uses the same publishing office; no separate late-night work location is needed.
 
-### BLOCKER 5 — Original manga style-reference generation package
+Semantic authority: `manga/02-references/environments/nari-workplace/canon.md`.
 
-The textual style lock is usable, but no approved style-reference WebP currently exists.
+## Resolved Decision 5 — Original Manga Style Reference
 
-Before generating Nari or environments, create and approve one **original** style-reference image derived only from the broad black-and-white hand-drawn manga language:
+**TEXT SPEC APPROVED / IMAGE NOT YET GENERATED.**
 
-- ink/sketch character rendering
+Create one original black-and-white manga visual-language calibration image before any story-character/environment image.
+
+It should establish:
+
+- hand-drawn ink/sketch character rendering
 - variable line weight
 - screentone density
 - hatching/cross-hatching behavior
 - solid-black usage
 - background-detail balance
 - panel-border feeling
+- simplified reaction rendering
 - printed-manga texture
 
-Do not copy the attached reference's characters, dialogue, logos, exact panels, or exact composition.
+Use only generic original subjects. Do not copy a reference manga's characters, dialogue, logos, exact panels, or exact composition.
 
-The approved style reference becomes the visual style authority for later reference generations.
+Generation authority: `manga/01-style/reference-style/series-manga-style-reference-generation-prompt.md`.
 
-## Non-Blocking Decisions That May Wait Until Page Production
+## Page Format Decision
 
-These do not need to delay the first reference packages:
+Reference generation only needs the **portrait manga-page family** locked at this stage.
 
-- final Chapter 001 title
-- exact 36-page count versus a small refinement
-- final dialogue wording
-- exact per-page panel geometry
-- exact page pixel dimensions / aspect ratio
-- final reading direction
-- exact late-night clock times
-- exact smart-lock app UI
+Exact production pixels, final page aspect ratio, safe margins, and reading direction remain page-production decisions and must be approved before `page-001-production.md` is compiled.
 
-However, page canvas dimensions and reading direction must be locked before `page-001-production.md` is compiled.
+## Generation Order
 
-## Continuity Risk Found During Audit
-
-The series-level world-rule document still says several blackout mechanics must be defined before Chapter 1 locks, while Chapter 1 is now story-locked without showing the mechanic directly. The correct gate is before the first page that visibly depends on direct manifestation/power-restoration mechanics. Chapter 001 may keep its off-panel creator-only brief supplied-power interruption without explaining or visually depicting the rule.
-
-## Required Order From Here
-
-**Do not start with character image generation.**
-
-First lock the five blocking decisions above. Then prepare the semantic Markdown + synchronized generation prompt for each reference package. Generate the original style-reference image first. Only after that style image is approved should Nari and environment reference images be generated.
+1. Generate `series-manga-style-reference.webp`.
+2. Review it. If rejected, do not proceed to story references.
+3. After style approval, generate Nari canonical.
+4. Then generate apartment master atlas and floor plan.
+5. Then generate workplace master atlas.
+6. Add Hyejin only after her rebuilt role/design is separately approved if Chapter 001 visibly uses her.
 
 ## Audit Gate
 
-Reference image generation becomes **READY** only when:
+### READY NOW
 
-- Nari baseline = approved
-- apartment spatial canon = approved
-- neighbor relationship = approved
-- workplace/occupation = approved
-- original manga style-reference prompt/spec = approved
-- reference register contains the planned packages
+- **series manga style-reference image generation**
 
-Until then, status remains **HOLD**.
+### WAITING FOR STYLE WEBP APPROVAL
+
+- Nari canonical image generation
+- Nari apartment image generation
+- Nari workplace image generation
+
+The reference register should move each package from `TEXT APPROVED` → `VISUAL REVIEW` → `APPROVED` only after the corresponding visual is generated and reviewed.
