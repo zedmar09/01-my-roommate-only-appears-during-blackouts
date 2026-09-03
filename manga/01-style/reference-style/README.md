@@ -8,4 +8,6 @@ A style reference controls broad visual language only: hand-drawn ink/sketch cha
 
 It does **not** override story canon, character identity, environment geometry, prop identity, dialogue, or page-specific composition.
 
-When a page uses a style-reference image, the exact repository path must be listed in that page's `page-###-reference-manifest.md`.
+When a page uses a style-reference image, the exact repository path must be listed inside that page's single `page-###-production.md` under its required attachments/references section.
+
+Do not recreate a separate page reference-manifest Markdown file.
