@@ -9,25 +9,26 @@ Exact clock times and final dialogue remain adjustable. Event order and reveal c
 ## Scene 01 — Previous Night / Two Places At Once
 
 **Time:** late evening, previous night  
-**Locations:** Nari's workplace or another clearly identifiable place away from home / apartment building  
+**Locations:** Nari's publishing-company workplace / neighbor's unit directly below Nari  
 **Threads:** A — Nari ordinary life; B — unexplained apartment activity  
-**Characters:** Nari; neighbor; optional coworker background
+**Characters:** Nari; neighbor; optional coworker background  
 
 ### Entry State
 
-- Nari is away from home and can later prove it through normal context/timestamps.
+- Nari is at her mid-sized publishing-company office and can later prove she was away from home through normal work context/timestamps.
 - Nari believes the apartment is empty.
-- Neighbor is at home.
+- The downstairs neighbor is at home.
 
 ### Action
 
 Intercut between locations.
 
-At Nari's location:
-- Nari works late / completes an ordinary task.
+At Nari's workplace:
+- Nari works late on ordinary editorial material such as manuscripts, proofs, revisions, or corrections.
+- environment clearly establishes a normal publishing office rather than a technical workplace.
 
 At the building:
-- neighbor hears footsteps or human-weight movement from Nari's apartment
+- the neighbor directly below hears footsteps or human-weight floor movement through the ceiling from Nari's apartment
 - a chair/furniture scrape follows
 - neighbor checks the time because the disturbance is irritating
 
@@ -37,7 +38,7 @@ Never show the inside source of the apartment noise.
 
 ### Exit State
 
-Reader knows Nari was not home when the noise occurred. Nari does not yet know a complaint is coming.
+Reader knows Nari was at the publishing office when the noise occurred. Nari does not yet know a complaint is coming.
 
 ---
 
@@ -46,7 +47,7 @@ Reader knows Nari was not home when the noise occurred. Nari does not yet know a
 **Time:** next morning  
 **Location:** apartment corridor / elevator / common route  
 **Thread:** A + B  
-**Characters:** Nari; neighbor
+**Characters:** Nari; downstairs neighbor  
 
 ### Goal
 
@@ -56,12 +57,12 @@ Nari leaves for her ordinary day. Neighbor wants the late-night noise to stop.
 
 Neighbor gives the approximate time of the disturbance.
 
-Nari realizes she was still away from home.
+Nari realizes she was still at the publishing office.
 
 ### Exit State
 
 - Nari is confused, not frightened.
-- Neighbor believes the noise came from Nari's unit.
+- Neighbor believes the noise came from Nari's unit directly overhead.
 - No supernatural explanation is proposed.
 
 ---
@@ -69,17 +70,17 @@ Nari realizes she was still away from home.
 ## Scene 03 — Workday / Normal Life Continues
 
 **Time:** daytime  
-**Location:** Nari's workplace  
+**Location:** Nari's publishing-company workplace  
 **Thread:** A — ordinary life; optional D — external human anchor  
-**Characters:** Nari; optional trusted coworker/friend
+**Characters:** Nari; optional trusted coworker/friend  
 
 ### Goal
 
-Handle normal work while deciding whether the complaint deserves attention.
+Handle normal editorial work while deciding whether the complaint deserves attention.
 
 ### Action
 
-Nari checks ordinary access information for the apartment.
+Nari returns to manuscripts/proofs/revisions and checks ordinary access information for the apartment during a natural break.
 
 ### Turn
 
@@ -95,7 +96,7 @@ No ordinary lock/door entry appears during the relevant window between her depar
 
 ### Exit State
 
-Security question remains open. Nari does not accept a supernatural theory.
+Security question remains open. Nari does not accept a supernatural theory. Ordinary publishing work continues to compete for her attention.
 
 ---
 
@@ -104,7 +105,7 @@ Security question remains open. Nari does not accept a supernatural theory.
 **Time:** evening  
 **Location:** Nari's apartment  
 **Thread:** A + B  
-**Characters:** Nari
+**Characters:** Nari  
 
 ### Goal
 
@@ -122,7 +123,9 @@ Nothing obvious is missing or damaged.
 
 ### Turn
 
-Dining chair is slightly out of the position Nari thinks she normally leaves it.
+The second dining chair is slightly out of the position Nari thinks she normally leaves it.
+
+The apartment has exactly two matching dining chairs; this second chair is the continuity marker.
 
 The clue is too weak to trust because Nari cannot prove she did not move it herself.
 
@@ -137,7 +140,7 @@ Nari decides to create a known state rather than guess.
 **Time:** continuous  
 **Location:** dining/living area  
 **Thread:** B — physical continuity marker  
-**Characters:** Nari
+**Characters:** Nari  
 
 ### Goal
 
@@ -145,7 +148,11 @@ Remove self-doubt about the chair.
 
 ### Action
 
-Nari places the chair in one precise, visually readable position relative to the table/floor geometry.
+Nari places the second chair in the locked known state:
+
+- fully tucked at its designated side of the table
+- chair back parallel to table edge
+- legs aligned to stable floor/table geometry
 
 ### Rule
 
@@ -162,17 +169,17 @@ Nari can later know whether the chair changed.
 **Time:** evening into late night  
 **Location:** Nari's apartment  
 **Thread:** A — ordinary life  
-**Characters:** Nari; optional friend by phone/voice
+**Characters:** Nari; optional friend by phone/voice  
 
 ### Goal
 
-Eat, work, decompress, and eventually sleep.
+Eat, read/work/decompress, and eventually sleep.
 
 ### Rule
 
 The apartment must feel like a normal home. Do not sustain horror framing continuously.
 
-Whenever the chair is visible, it remains in the deliberate known position.
+Whenever the second chair is visible, it remains in the deliberate known position.
 
 ### Exit State
 
@@ -183,9 +190,9 @@ Nari has no new proof and is tired enough to stop thinking about the complaint.
 ## Scene 07 — Bedtime / Living Area Left Empty
 
 **Time:** late night  
-**Location:** apartment living/dining area → bedroom/other private area  
+**Location:** apartment living/dining area → separate bedroom/private area  
 **Thread:** A → B  
-**Characters:** Nari
+**Characters:** Nari  
 
 ### Action
 
@@ -193,7 +200,7 @@ Nari finishes her night and leaves the living/dining area.
 
 Before the scene releases her, visually confirm:
 - no person is visible
-- chair remains in known position
+- second chair remains in known position
 - room appears ordinary and empty
 
 Nari becomes unaware of the living area.
@@ -209,7 +216,7 @@ Reader is left watching an apparently empty room.
 **Time:** later that night  
 **Location:** empty living/dining area  
 **Thread:** B — unexplained activity  
-**Characters visible:** none
+**Characters visible:** none  
 
 ### Action
 
@@ -217,7 +224,7 @@ Hold on stillness first.
 
 Then:
 - restrained chair scrape `SKRRR`, or
-- silent cut showing the chair has shifted from its precise known position
+- silent cut showing the second chair has shifted from its precise known position
 
 Prefer the scrape plus a final changed-position image if page rhythm supports it.
 
@@ -241,7 +248,7 @@ A brief genuine supplied-power interruption may occur off-panel during this fina
 
 ### Exit State — Chapter 001
 
-- Nari is unaware the chair moved.
+- Nari is unaware the second chair moved.
 - reader knows the apartment activity is not simply Nari forgetting her own actions.
 - no human presence has been visually or verbally confirmed.
 - Chapter 002 continues the unauthorized-activity/security mystery rather than immediately explaining the roommate premise.
