@@ -6,11 +6,21 @@
 
 This is the first image that should be generated for the new manga reference pipeline.
 
-Planned approved output:
+## Output Format Workflow
+
+ChatGPT/image generation should produce this first candidate as:
+
+`series-manga-style-reference.png`
+
+The PNG is an intermediate review artifact only.
+
+After the PNG is visually approved, the user manually converts that exact approved image to the final repository authority:
 
 `manga/01-style/reference-style/series-manga-style-reference.webp`
 
-The generated candidate is not production authority until visually reviewed and marked `APPROVED` in `manga/02-references/reference-register.md`.
+Do **not** ask the image generator to output WebP directly. The WebP becomes authority only after manual conversion of the approved PNG and repository commit.
+
+See `manga/02-references/image-format-workflow.md`.
 
 ## Purpose
 
@@ -47,6 +57,9 @@ Do not use retired Manhwa reference images as visual authority.
 
 ```text
 Create exactly ONE original BLACK-AND-WHITE MANGA VISUAL-LANGUAGE CALIBRATION SHEET in a portrait manga-page family.
+
+OUTPUT FORMAT
+Return/generate the first review candidate as PNG. Do not treat the PNG as final repository canon and do not convert it to WebP inside generation. The user will manually convert the exact approved PNG to WebP after visual approval.
 
 This is NOT a story page and must NOT depict any character or location from "My Roommate Only Appears During Blackouts". Use only generic original adult human subjects and generic original interiors/exteriors.
 
@@ -104,12 +117,12 @@ ABSOLUTELY REJECT
 - copied copyrighted character or recognizable manga panel
 
 FINAL GOAL
-A single original portrait-oriented visual calibration sheet that can be attached to every later manga character/environment reference generation to stabilize linework, screentone, hatching, black placement, anatomy, background detail, and overall traditional black-and-white manga feeling.
+A single original portrait-oriented PNG review candidate that can become the reusable style authority after approval and manual conversion to WebP, stabilizing linework, screentone, hatching, black placement, anatomy, background detail, and overall traditional black-and-white manga feeling.
 ```
 
 ## Acceptance Gate
 
-Approve only if the image can function as a reusable style authority without accidentally becoming a story reference.
+Approve only if the PNG can function as the exact visual source to be manually converted into the reusable WebP style authority without accidentally becoming a story reference.
 
 Reject if:
 
@@ -120,3 +133,5 @@ Reject if:
 - adult anatomy/hands are poor
 - all panels use the same density/detail level
 - the sheet contains invented text/logos/labels
+
+After approval: manually convert the accepted PNG to `series-manga-style-reference.webp`, commit that WebP, then mark the style package `APPROVED` in `manga/02-references/reference-register.md`.
