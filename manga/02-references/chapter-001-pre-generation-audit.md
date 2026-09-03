@@ -2,7 +2,7 @@
 
 ## Current Audit Result
 
-**PASS — CORE CHAPTER 001 REFERENCES ARE APPROVED.**
+**PASS — CORE CHAPTER 001 REFERENCES ARE APPROVED; REVISED NARI IDENTITY IS ACTIVE.**
 
 Approved reusable WebPs:
 
@@ -16,21 +16,50 @@ Reference approval does **not** mean every approved WebP should be attached to e
 
 ---
 
+## Nari Reference Revision — Active
+
+Active identity reference:
+
+`manga/02-references/approved-webp/nari-canonical.webp`
+
+Status: **APPROVED**
+
+The revised Nari canonical locks:
+
+- distinctive mature adult face
+- expressive grounded eyes
+- short-to-medium layered dark hair
+- age read
+- proportions
+- visual recognizability
+
+Production must **not** inherit these incidental source-image elements:
+
+- headphones as a default story accessory
+- techwear/cyberpunk wardrobe
+- neon lighting
+- glowing tattoos/circuitry
+- hacker/gamer worldbuilding
+- cinematic poster presentation
+- source-image environment/title treatment
+
+Nari remains a grounded publishing-company editor and final pages remain finished 2D black-and-white manga.
+
+---
+
 ## Story-Page Attachment Policy
 
 Before generation, use:
 
 `manga/02-references/generation-attachment-map.md`
 
-For Chapter 001 story-page layout references and final pages:
+For Chapter 001 final story pages:
 
 - Style A/B are **not default attachments**
 - Nari canonical is attached when Nari is visible
 - apartment/workplace atlas is attached when that canonical environment is visible
-- approved page layout reference is attached when the final page requires one
 - previous approved page is used only for local seam continuity when needed
-
-Style A/B remain useful reference-development assets, but repeated page-generation testing showed that they may overpower exact Markdown instructions.
+- layout-reference generation is optional troubleshooting, not a normal prerequisite
 
 ---
 
@@ -67,21 +96,19 @@ Reject cinematic/movie-still, glossy, painterly, photoreal or 3D output.
 
 ## Page 001 Production Readiness
 
-Page 001 uses a **separate layout-reference production step**.
+Page 001 is **READY FOR DIRECT FINAL-PAGE GENERATION**.
 
-Layout pre-production:
-
-`manga/04-production/arc-01/chapter-001/page-001-layout-production.md`
-
-Expected approved composition authority:
-
-`manga/04-production/arc-01/chapter-001/page-001-layout-reference.webp`
-
-Final production:
+Use:
 
 `manga/04-production/arc-01/chapter-001/page-001-production.md`
 
-The user will generate the layout reference separately. Final Page 001 remains blocked until that approved WebP exists.
+Attach exactly:
+
+1. `page-001-production.md`
+2. revised `nari-canonical.webp`
+3. `nari-workplace-master-atlas.webp`
+
+Do not attach Style A/B or a layout-reference image.
 
 ---
 
@@ -111,4 +138,4 @@ All generated visual authorities still follow:
 4. commit approved WebP to its documented location
 5. downstream production uses only the approved WebP
 
-Current audit status: **READY FOR PAGE-SPECIFIC LAYOUT-REFERENCE / FINAL-PAGE PRODUCTION.**
+Current audit status: **READY FOR DIRECT PAGE PRODUCTION WITH REVISED NARI CANONICAL.**
