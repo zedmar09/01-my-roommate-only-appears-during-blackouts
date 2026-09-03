@@ -8,25 +8,26 @@ Chapter 001 uses simultaneity to prove that the reported apartment activity cann
 
 ## Core Parallel Window — Previous Night
 
-### Event A — Nari Away From Home
+### Event A — Nari At Publishing Office
 
 **Time:** late evening, exact clock time still adjustable  
-**Location:** Nari's workplace or another clearly identifiable location away from the apartment  
+**Location:** Nari's mid-sized publishing-company workplace  
 
 Required facts:
 
-- Nari is physically away from home
-- ordinary contextual evidence later supports this: work activity, messages, file timestamps, coworker presence, transit timing, or another natural proof
+- Nari is physically away from home and still at the publishing office
+- ordinary contextual evidence later supports this: manuscript/proof work, coworker presence, messages, file/revision timestamps, office context, transit timing, or another natural proof
 - she does not know anything is happening at the apartment
+- the workplace must read as ordinary publishing/editorial work, not a technical company
 
-### Event B — Neighbor Hears Activity
+### Event B — Downstairs Neighbor Hears Activity
 
 **Time:** overlaps Event A  
-**Location:** unit below / adjacent to Nari's apartment  
+**Location:** unit directly below Nari's apartment  
 
 Required facts:
 
-- neighbor hears one or more human-weight footsteps / floor movements from Nari's apartment
+- neighbor hears one or more human-weight footsteps / floor movements through the ceiling from Nari's apartment above
 - a chair or furniture scrape follows
 - neighbor checks the time because the noise is disturbing
 - no source is shown inside Nari's apartment
@@ -35,29 +36,29 @@ Required facts:
 
 ## Morning Convergence
 
-The next morning, Event A and Event B collide through conversation.
+The next morning, Event A and Event B collide through conversation in the corridor/elevator/common route.
 
-Neighbor complains about the late-night noise.
+The downstairs neighbor complains about the late-night noise from above.
 
-Nari asks when it happened and realizes she was still away from home.
+Nari asks when it happened and realizes she was still at the publishing office.
 
 That is the chapter's first explicit contradiction.
 
 ## Daytime Information Check
 
-At work, Nari checks normal access information.
+At the publishing office, Nari checks normal access information while continuing her editorial workday.
 
 The access record does not show an ordinary entry during the relevant absence window.
 
-This remains ambiguous because app data, maintenance access, acoustics, or memory may still be wrong.
+This remains ambiguous because app data, maintenance/master access, acoustics, or memory may still be wrong.
 
 ## Final-Night Creator-Only Event
 
-After Nari has deliberately placed the dining chair in a known position and later left the living area:
+After Nari has deliberately placed the second dining chair in its known position and later left the living area:
 
 - Nari becomes unaware of the room
 - a brief genuine supplied-power interruption may occur off-panel during the final-night window
-- during/around that unseen window, the dining chair changes position
+- during/around that unseen window, the second dining chair changes position
 - reader receives only the chair scrape / changed chair
 - Nari does not witness it
 
@@ -70,3 +71,5 @@ Story chronology and reader reveal order are different:
 - creator continuity may know a genuine power-loss condition occurred
 - reader only knows the chair moved while Nari was not watching
 - Nari ends Chapter 001 knowing only about the earlier complaint/security contradiction, not the final chair movement
+
+The neighbor relationship is locked as **directly below**, not adjacent. Do not change the sound path without an explicit canon revision.
