@@ -2,64 +2,71 @@
 
 ## Status
 
-**DRAFT FOR USER REVIEW — NOT YET CANON-LOCKED.**
+**APPROVED STORY DIRECTION.**
 
-Chapter 001 uses parallel events sparingly. The main story stays with Nari; the building electrical thread appears only enough to establish that the blackout has a physical-world footprint.
+Chapter 001 uses simultaneity to prove that the reported apartment activity cannot be explained by Nari simply forgetting what she did.
 
-## Timeline
+## Core Parallel Window — Previous Night
 
-### 07:10 — Nari's Apartment
+### Event A — Nari Away From Home
 
-Nari notices a reset clock after an earlier brief power irregularity.
+**Time:** late evening, exact clock time still adjustable  
+**Location:** Nari's workplace or another clearly identifiable location away from the apartment  
 
-She does not know exactly when the interruption occurred.
+Required facts:
 
-### 09:20–12:30 — Nari's Workplace
+- Nari is physically away from home
+- ordinary contextual evidence later supports this: work activity, messages, file timestamps, coworker presence, transit timing, or another natural proof
+- she does not know anything is happening at the apartment
 
-Nari works normally. Hyejin may learn only that Nari's new apartment has had annoying clock/power resets.
+### Event B — Neighbor Hears Activity
 
-### 13:05 — Building Service Area
+**Time:** overlaps Event A  
+**Location:** unit below / adjacent to Nari's apartment  
 
-A worker encounters a mundane repeat electrical/service irregularity.
+Required facts:
 
-This scene must not contain any supernatural explanation, sinister system message, symbol, or direct statement that Unit 2407 / Nari is the cause.
+- neighbor hears one or more human-weight footsteps / floor movements from Nari's apartment
+- a chair or furniture scrape follows
+- neighbor checks the time because the noise is disturbing
+- no source is shown inside Nari's apartment
+- no voice is heard
+- neighbor has no supernatural interpretation
 
-Its function is only:
+## Morning Convergence
 
-- confirm the building has real electrical behavior worth maintaining
-- establish a separate world continuing while Nari is elsewhere
-- seed a thread that can matter later
+The next morning, Event A and Event B collide through conversation.
 
-### 20:30 — Nari Returns Home
+Neighbor complains about the late-night noise.
 
-The main narrative returns fully to Nari.
+Nari asks when it happened and realizes she was still away from home.
 
-### 23:35–00:10 — Nari's Apartment / Hyejin Remote Conversation
+That is the chapter's first explicit contradiction.
 
-Nari and Hyejin have a normal call/chat while the building is otherwise functioning.
+## Daytime Information Check
 
-### 00:18 — Simultaneous Event Window
+At work, Nari checks normal access information.
 
-**Event A — Nari's Apartment**
+The access record does not show an ordinary entry during the relevant absence window.
 
-- ordinary supplied power fails
-- mains lights/devices shut down
-- Nari reacts and reaches for her phone
-- dining chair moves
-- Hyun-woo becomes an undeniable physical presence on-page
+This remains ambiguous because app data, maintenance access, acoustics, or memory may still be wrong.
 
-**Event B — Building Service / Electrical System**
+## Final-Night Creator-Only Event
 
-Optional one-panel or one-page intercut immediately before or at outage onset:
+After Nari has deliberately placed the dining chair in a known position and later left the living area:
 
-- a relay drops / indicator goes dark / ordinary physical switching event occurs
-- no worker needs to understand why
-- no supernatural UI or text
+- Nari becomes unaware of the room
+- a brief genuine supplied-power interruption may occur off-panel during the final-night window
+- during/around that unseen window, the dining chair changes position
+- reader receives only the chair scrape / changed chair
+- Nari does not witness it
 
-The intercut may be omitted if the page rhythm is stronger without it. If used, Event B must not reveal anything Nari cannot know yet.
+The manga must **not** tell the reader in Chapter 001 that a power interruption caused or enabled the movement.
 
 ## Continuity Rule
 
-The final blackout event must read as one continuous real-world occurrence. Do not create contradictory times where the building is shown fully powered after Nari's apartment has already lost the relevant supplied power unless the story later deliberately establishes a local-unit outage.
+Story chronology and reader reveal order are different:
 
-For this draft, treat the Chapter 001 event as a **genuine building/service power-loss event sufficient to satisfy the premise-level blackout condition**. Exact geographic extent remains undefined.
+- creator continuity may know a genuine power-loss condition occurred
+- reader only knows the chair moved while Nari was not watching
+- Nari ends Chapter 001 knowing only about the earlier complaint/security contradiction, not the final chair movement
