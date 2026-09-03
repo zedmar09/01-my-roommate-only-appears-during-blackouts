@@ -2,335 +2,260 @@
 
 ## Status
 
-**DRAFT FOR USER REVIEW — NOT YET CANON-LOCKED.**
+**APPROVED STORY DIRECTION — PAGE RHYTHM DRAFT.**
 
 Current target: **36 pages**.
 
-The page count is adjustable after review. Panel counts below are rhythm guidance only and may shift during final page production.
+Panel counts are pacing guidance only. Exact compositions will be finalized later in each `page-###-production.md`.
 
-The external page canvas and final reading direction will be locked separately in the manga style/production system. This file controls story rhythm, not print publication.
+The chapter must preserve the reveal ceiling: **no Hyun-woo visual, no voice, no name, no roommate claim, no reader-facing blackout explanation.**
 
 ---
 
-## PAGES 001–003 — MORNING / DISMISSIBLE IRREGULARITY
+## PAGES 001–005 — PREVIOUS NIGHT / TWO PLACES AT ONCE
 
 ### Page 001
-
-**Purpose:** quiet opening; establish adult routine rather than supernatural spectacle  
-**Scene:** Morning Reset  
+**Purpose:** open on ordinary adult life, not horror  
+**Location:** Nari's workplace / late-night task  
 **Panels:** ~4  
-**Dominant image:** Nari waking in a believable lived-in apartment  
-**Dialogue:** minimal  
-**Key beat:** a powered clock shows a reset state / wrong time  
-**Turn:** Nari notices rather than panics  
-**Exit:** apartment feels ordinary
+**Key beat:** Nari is clearly still away from home late at night  
+**Exit:** time/location proof established
 
 ### Page 002
-
-**Purpose:** plant the chair motif without explaining it  
-**Panels:** ~5  
-**Dominant image:** dining/living space during morning movement  
-**Dialogue:** `Again?` or none  
-**Key beat:** chair is slightly out of Nari's preferred alignment  
-**Exit:** Nari casually fixes or passes it
+**Purpose:** introduce simultaneous second location  
+**Location:** apartment building / neighbor's unit  
+**Panels:** ~4–5  
+**Key beat:** neighbor hears a dull footstep or weight shift overhead/adjacent  
+**Rule:** do not show inside Nari's apartment
 
 ### Page 003
-
-**Purpose:** leave the apartment in a known state  
+**Purpose:** make the noise specific enough to become a complaint  
 **Panels:** ~4  
-**Dialogue:** very low  
-**Key beat:** Nari exits for work; door closes/locks normally  
-**Continuity exit:** chair position and empty apartment visually established
-
----
-
-## PAGES 004–009 — WORK / NARI AS A PERSON BEFORE THE MYSTERY
+**SFX:** restrained `THUMP` / floor movement  
+**Exit:** neighbor looks toward ceiling/wall
 
 ### Page 004
-
-**Purpose:** transition into ordinary Seoul/workday life  
-**Panels:** ~3–4  
-**Dominant image:** commute / city / workplace arrival  
-**Dialogue:** low  
-**Exit:** supernatural tone recedes
+**Purpose:** chair motif first appearance through sound only  
+**Panels:** ~3  
+**SFX:** `SKRRR`  
+**Key beat:** neighbor checks the time  
+**Intercut:** Nari remains visibly elsewhere
 
 ### Page 005
+**Purpose:** close the cold-open contradiction  
+**Panels:** ~3–4  
+**Dominant beat:** Nari finishes/leaves work substantially after the reported noise time  
+**Exit:** reader knows she could not have caused the sound
 
-**Purpose:** workplace establishing page  
-**Panels:** ~5  
-**Key beat:** Nari is actively solving a normal work problem  
-**Dialogue:** medium  
-**Exit:** competent adult baseline
+---
+
+## PAGES 006–010 — MORNING COMPLAINT
 
 ### Page 006
-
-**Purpose:** introduce Hyejin working candidate through behavior  
-**Panels:** ~6  
-**Dialogue:** medium/high  
-**Core exchange:** `You look worse than yesterday.` / `Yesterday had the advantage of being over.`  
-**Exit:** friendship rhythm established
+**Purpose:** next-morning normalcy  
+**Location:** apartment corridor/elevator/common route  
+**Panels:** ~4  
+**Key beat:** Nari crosses paths with neighbor
 
 ### Page 007
-
-**Purpose:** mention apartment electrical annoyance naturally  
+**Purpose:** complaint begins as mundane neighbor friction  
 **Panels:** ~5  
-**Dialogue:** medium  
-**Core information:** clocks have reset more than once; Nari has not filed a maintenance ticket  
-**Rule:** no supernatural speculation  
-**Exit:** Hyejin only thinks the apartment sounds annoying
+**Dialogue:** `Could you keep it down after midnight?`  
+**Exit:** Nari confused
 
 ### Page 008
-
-**Purpose:** keep the story grounded in work rather than using the office only for exposition  
-**Panels:** ~5–6  
-**Dialogue:** medium  
-**Key beat:** Nari handles/finishes a work problem  
-**Exit:** she is tired but effective
+**Purpose:** specify the sound  
+**Panels:** ~5  
+**Information:** chair/furniture scraping + walking  
+**Tone:** awkward, ordinary, not ominous
 
 ### Page 009
-
-**Purpose:** small social future hook / housewarming option  
-**Panels:** ~4–5  
-**Dialogue:** medium  
-**Optional exchange:** boxes / housewarming  
-**Exit:** reinforces that apartment is relatively new without showing move-in
-
----
-
-## PAGE 010 — PARALLEL MAINTENANCE THREAD
+**Purpose:** establish exact contradiction  
+**Panels:** ~4  
+**Dialogue:** Nari asks approximate time  
+**Page-turn setup:** neighbor answers
 
 ### Page 010
-
-**Purpose:** first brief proof the world has an independent electrical thread  
-**Scene:** Maintenance Micro-Event  
-**Panels:** ~4  
-**Dialogue:** almost none  
-**Key beat:** ordinary relay/reset/service irregularity; worker: `Again?`  
-**Rule:** no sinister UI, no symbol, no explanation, no direct Nari callout  
-**Exit:** treated as mundane maintenance
+**Purpose:** first chapter hook  
+**Panels:** 2–3, sparse  
+**Dominant beat:** Nari realizes the timeline  
+**Dialogue:** `I wasn't home.`  
+**Exit:** no explanation supplied
 
 ---
 
-## PAGES 011–18 — EVENING RETURN / CHAIR BECOMES A CONSCIOUS FACT
+## PAGES 011–18 — WORKDAY / ORDINARY SECURITY LOGIC
 
 ### Page 011
-
-**Purpose:** evening transition  
-**Panels:** ~3  
-**Dominant image:** Nari leaving work / city evening  
-**Dialogue:** low
+**Purpose:** keep Nari's normal life alive  
+**Location:** workplace  
+**Panels:** ~4  
+**Key beat:** she handles ordinary work despite distraction
 
 ### Page 012
-
-**Purpose:** corridor / return-home normalcy  
-**Panels:** ~5  
-**Key beat:** ordinary entry; lock/door appears undisturbed  
-**Exit:** Nari expects empty apartment
+**Purpose:** optional trusted coworker/friend scene  
+**Panels:** ~5–6  
+**Tone:** dry humor  
+**Rule:** no supernatural theory treated as serious
 
 ### Page 013
-
-**Purpose:** let home feel quiet and safe  
+**Purpose:** Nari checks her own timeline  
 **Panels:** ~4  
-**Dialogue:** none/minimal  
-**Key beat:** routine shoes/bag/coat movement; apartment geography begins to register
+**Key beat:** message/work/file/photo/time evidence confirms she was away when noise occurred
 
 ### Page 014
-
-**Purpose:** second chair irregularity  
-**Panels:** ~3  
-**Dominant image:** chair visibly out of alignment  
-**Dialogue:** none  
-**Page-turn function:** Nari stops rather than passes it
+**Purpose:** check ordinary access  
+**Panels:** ~5  
+**Key beat:** smart-lock/access history opened
 
 ### Page 015
-
-**Purpose:** Nari verifies her own memory rather than jumping to fear  
-**Panels:** ~5  
-**Dialogue:** optional `I really need sleep.`  
-**Key beat:** she deliberately pushes the chair into a precise known position  
-**Continuity:** this position becomes proof later
+**Purpose:** security contradiction  
+**Panels:** ~3–4  
+**Dominant information:** no ordinary entry between Nari's departure and later return  
+**Dialogue:** optional `No entry.`
 
 ### Page 016
-
-**Purpose:** release tension back into normal domestic life  
+**Purpose:** offer mundane explanations  
 **Panels:** ~5  
-**Key beat:** simple dinner / cleanup / ordinary home behavior  
-**Dialogue:** low
+**Possible thoughts/conversation:** wrong unit, building acoustics, stale app data, maintenance access
 
 ### Page 017
-
-**Purpose:** establish she is alone and comfortable enough to work  
-**Panels:** ~4  
-**Key beat:** Nari sets up at desk/table; powered environment normal
+**Purpose:** prevent over-investigation  
+**Panels:** ~5  
+**Key beat:** work problem demands Nari's attention again
 
 ### Page 018
-
-**Purpose:** visual continuity lock on chair  
-**Panels:** ~4  
-**Key beat:** chair remains exactly where Nari put it while she works elsewhere in room  
-**Dialogue:** none
+**Purpose:** transition home  
+**Panels:** ~3–4  
+**Exit:** Nari chooses to inspect the apartment herself that evening
 
 ---
 
-## PAGES 019–23 — LATE-NIGHT HUMAN RHYTHM
+## PAGES 019–26 — EVENING RETURN / KNOWN STATE
 
 ### Page 019
-
-**Purpose:** begin Hyejin call/chat  
-**Panels:** ~6  
-**Dialogue:** medium  
-**Tone:** comfortable adult friendship
+**Purpose:** ordinary return-home staging  
+**Panels:** ~4  
+**Key beat:** front door/lock appears normal
 
 ### Page 020
-
-**Purpose:** comedy through Nari's work habits  
-**Panels:** ~6–7  
-**Dialogue:** medium/high  
-**Core:** `Go to sleep.` / `I am going to sleep.` / `You're sharing your screen.`
+**Purpose:** practical inspection  
+**Panels:** ~5  
+**Actions:** windows, entry, obvious valuables, simple room check
 
 ### Page 021
-
-**Purpose:** let ordinary conversation breathe  
-**Panels:** ~5  
-**Dialogue:** medium  
-**Rule:** no supernatural topic
+**Purpose:** nothing dramatic found  
+**Panels:** ~4  
+**Tone:** tension releases rather than escalates continuously
 
 ### Page 022
-
-**Purpose:** end the call  
-**Panels:** ~5  
-**Core:** `Finish that one thing. Then stop.` / `That's the plan.`  
-**Exit:** Hyejin gone from scene; Nari alone
+**Purpose:** introduce visual chair clue to Nari  
+**Panels:** ~3  
+**Dominant image:** dining chair slightly out of Nari's expected position
 
 ### Page 023
-
-**Purpose:** abrupt contrast after conversation ends  
-**Panels:** ~3  
-**Dominant image:** quiet room / Nari working  
-**Dialogue:** none  
-**Exit:** silence becomes noticeable
-
----
-
-## PAGES 024–29 — QUIET SUSPENSE BEFORE THE OUTAGE
+**Purpose:** self-doubt  
+**Panels:** ~5  
+**Key beat:** Nari cannot prove she did not leave it that way
 
 ### Page 024
-
-**Purpose:** passage of late-night time  
-**Panels:** ~4–5  
-**Key beat:** work continues; clock advances  
-**Dialogue:** none/minimal
+**Purpose:** deliberate continuity test  
+**Panels:** ~4  
+**Action:** Nari aligns chair precisely with table/floor geometry
 
 ### Page 025
-
-**Purpose:** re-show chair as stable  
+**Purpose:** make known position visually unmistakable  
 **Panels:** ~3  
-**Key beat:** chair has not moved while power is normal  
-**Exit:** reader now has visual expectation
+**Dominant image:** chair in exact reference position  
+**Rule:** this position is binding through Page 034
 
 ### Page 026
-
-**Purpose:** small electrical foreshadowing  
+**Purpose:** return to normal life  
 **Panels:** ~5  
-**Key beat:** brief light/monitor flicker that immediately recovers  
-**Nari reaction:** annoyance, not fear  
-**Dialogue:** optional small sigh/mutter
-
-### Page 027
-
-**Purpose:** Nari decides to keep working rather than investigate  
-**Panels:** ~4  
-**Tone:** ordinary fatigue
-
-### Page 028
-
-**Purpose:** optional simultaneous electrical-system beat  
-**Panels:** ~3–4  
-**Location:** service/electrical area  
-**Key beat:** relay/indicator behavior immediately before main outage  
-**Dialogue:** none  
-**Rule:** still mundane-looking
-
-### Page 029
-
-**Purpose:** final powered moment  
-**Panels:** ~3  
-**Dominant composition:** Nari in normal light with apartment depth visible  
-**Continuity:** chair in known position; phone within reach; all relevant mains devices powered  
-**Page-turn setup:** stillness before cut
+**Key beat:** Nari starts dinner/work/ordinary evening
 
 ---
 
-## PAGES 030–36 — BLACKOUT / FIRST PRESENCE
+## PAGES 027–32 — ORDINARY NIGHT / HOME MUST FEEL LIVED IN
+
+### Page 027
+**Purpose:** domestic rhythm  
+**Panels:** ~5–6  
+**Key beat:** meal/cleanup/normal task  
+**Chair:** unchanged if visible
+
+### Page 028
+**Purpose:** optional call/chat with trusted friend  
+**Panels:** ~6  
+**Tone:** comfortable, slightly funny  
+**Rule:** apartment mystery is not the only thing they talk about
+
+### Page 029
+**Purpose:** let conversation move away from mystery  
+**Panels:** ~5  
+**Exit:** Nari emotionally de-escalates
 
 ### Page 030
-
-**Purpose:** blackout onset as a major visual turn  
-**Panels:** 1–3, sparse  
-**Dominant image:** powered apartment goes dark  
-**SFX:** restrained power cut `TK` or environmental silence  
-**Dialogue:** `...Perfect.`  
-**Page-turn:** from visible room to near-darkness
+**Purpose:** late-night quiet  
+**Panels:** ~4  
+**Key beat:** Nari finishes a final task  
+**Chair:** still known position
 
 ### Page 031
-
-**Purpose:** sensory reorientation  
-**Panels:** ~4  
-**Key beat:** mains devices dead; phone remains battery-powered  
-**Nari action:** reach for phone  
-**Dialogue:** none
+**Purpose:** bedtime transition  
+**Panels:** ~4–5  
+**Action:** shut down, wash up, prepare to sleep
 
 ### Page 032
+**Purpose:** leave living area in a verified state  
+**Panels:** ~3  
+**Dominant composition:** empty living/dining area, no person visible, chair exact  
+**Exit:** Nari leaves / bedroom door closes / living space unobserved
 
-**Purpose:** build suspense without showing a person  
-**Panels:** ~5  
-**Key beat:** Nari's thumb/hand moves toward phone light; room remains dark  
-**Exit:** chair still not yet heard moving
+---
+
+## PAGES 033–36 — READER-ONLY ENDING
 
 ### Page 033
-
-**Purpose:** convert earlier clue into undeniable present action  
-**Panels:** ~3  
-**Dominant event:** chair scrapes across floor  
-**SFX:** `SKRRR`  
-**Nari:** freezes  
-**Rule:** do not show Hyun-woo yet
+**Purpose:** hold stillness  
+**Panels:** ~2–3  
+**Visual:** empty room  
+**Dialogue:** none  
+**Chair:** unchanged
 
 ### Page 034
-
-**Purpose:** prove human presence through sound  
-**Panels:** ~5  
-**Key beats:** breath/fabric/weight shift; Nari challenges dark  
-**Dialogue:** `Who's there?` / bluff about security  
-**Exit:** unseen male voice answers
+**Purpose:** extend silence enough for reader expectation  
+**Panels:** ~2  
+**Visual:** ordinary fixed environment details  
+**Rule:** no silhouette/shadow-person/body fragment
 
 ### Page 035
-
-**Purpose:** first exchange without identity dump  
-**Panels:** ~4–5  
-**Dialogue:** `No, you didn't.` / `Then give me a reason not to.` / `Who are you?`  
-**Visual:** low phone light begins defining only part of a human silhouette  
-**Page-turn setup:** Nari asks why he is in her apartment
+**Purpose:** unexplained movement  
+**Panels:** ~2–3  
+**SFX:** restrained `SKRRR`  
+**Rule:** source remains completely off-panel/unseen  
+**Creator-only:** a brief genuine supplied-power interruption may occur within this final-night window off-panel; do not make it a reader-facing clue yet
 
 ### Page 036
+**Purpose:** final proof to reader  
+**Panels:** 1 large panel or 2 sparse panels  
+**Dominant image:** the dining chair is visibly no longer in the exact position Nari established  
+**Dialogue/narration:** none  
+**End state:** Nari does not know it moved
 
-**Purpose:** Chapter 001 hook / premise collision  
-**Panels:** 1 large reveal panel or 2 panels with dominant final image  
-**Visual:** tall adult male silhouette physically occupying the living/dining space; face/details withheld  
-**Final dialogue:** `You moved into my apartment.`  
-**End state:** power still out; confrontation unresolved
+**END CHAPTER 001.**
 
 ---
 
 ## Chapter Rhythm Summary
 
-- Pages 001–010: ordinary life with dismissible anomalies
-- Pages 011–23: home routine and conscious chair continuity
-- Pages 024–29: suspense compression
-- Pages 030–36: blackout and first undeniable presence
-
-Approximately **80% of the chapter occurs before the full premise collision**, but those pages must remain active through character, routine, comedy, and planted continuity rather than filler.
+- Pages 001–005: impossible noise established through simultaneity
+- Pages 006–010: mundane complaint becomes personal contradiction
+- Pages 011–18: security logic fails without supernatural confirmation
+- Pages 019–26: Nari creates a known physical state
+- Pages 027–32: ordinary domestic life prevents horror monotony
+- Pages 033–36: reader-only physical change
 
 ## Chapter 002 Seam
 
-Chapter 002 starts immediately from Page 036's confrontation while power is still out. Do not insert a time skip before Nari's first real response to the stranger's claim.
+Chapter 002 begins with Nari still unaware that the chair moved after she went to sleep. It should continue the **unauthorized activity / security explanation** phase rather than jumping directly to a blackout encounter or Hyun-woo reveal.
