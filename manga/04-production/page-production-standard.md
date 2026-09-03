@@ -12,13 +12,29 @@ page-002-production.md
 page-003-production.md
 ```
 
-Approved output images use the matching basename without `-production`:
+## Image Format Workflow
+
+Every manga page is generated as PNG first.
+
+```text
+page-001.png
+page-002.png
+page-003.png
+```
+
+These PNGs are intermediate visual-review candidates only.
+
+After a PNG passes page QA, the user manually converts that exact approved PNG to the final repository authority:
 
 ```text
 page-001.webp
 page-002.webp
 page-003.webp
 ```
+
+Only the final WebP becomes canonical page/continuity authority. Do not ask image generation to output WebP directly.
+
+See `manga/02-references/image-format-workflow.md`.
 
 Do not create separate page prompt, blueprint, reference-manifest, dialogue, script, or QA Markdown files.
 
@@ -35,8 +51,9 @@ Specify:
 - chapter
 - page number
 - page title/working label if useful
-- production status: `BLOCKED`, `READY`, `GENERATED`, `APPROVED`, or `RETIRED`
-- exact approved output filename
+- production status: `BLOCKED`, `READY`, `GENERATED`, `VISUAL REVIEW`, `APPROVED`, or `RETIRED`
+- exact PNG generation candidate filename: `page-###.png`
+- exact final WebP authority filename: `page-###.webp`
 
 ### 2. Source Authority
 
@@ -89,7 +106,7 @@ Missing required reference = **STOP GENERATION**.
 
 ### 4. Page Canvas / Size Lock
 
-Specify exact production geometry for the page:
+Specify exact production geometry for the PNG generation candidate:
 
 - orientation
 - pixel width
@@ -99,7 +116,7 @@ Specify exact production geometry for the page:
 - reading direction once series reading direction is approved
 - whether artwork may bleed to page edge
 
-The external page canvas remains consistent with the approved series page specification. Story variation comes from panel composition inside the page.
+The manual PNG → WebP conversion must preserve the approved page geometry. The external page canvas remains consistent with the approved series page specification. Story variation comes from panel composition inside the page.
 
 ### 5. Page Purpose / Scenario
 
@@ -198,7 +215,7 @@ Restate only page-relevant character requirements that cannot be safely inferred
 - carried/held items
 - interaction rules
 
-Canonical identity still comes from the approved character `.md` + `.webp` package.
+Canonical identity still comes from the approved character `.md` + final `.webp` package. PNG reference candidates are not valid production attachments.
 
 ### 11. Environment / Object / Effect Requirements
 
@@ -238,7 +255,7 @@ At minimum enforce:
 
 ### 13. Complete Generation Instruction
 
-Provide one final deterministic instruction that tells the image generator to create **exactly one complete manga page** using the page canvas, attached references, panel architecture, script, actions, scenario, continuity, and visual rules defined above.
+Provide one final deterministic instruction that tells the image generator to create **exactly one complete manga page as PNG** using the page canvas, attached approved WebP references, panel architecture, script, actions, scenario, continuity, and visual rules defined above.
 
 The generation instruction must not leave essential story decisions to the image model.
 
@@ -278,7 +295,8 @@ Freeze the state at page end for the next page:
 
 The same page-production MD also holds its QA result. Record:
 
-- generated candidate reviewed
+- PNG candidate generated
+- PNG candidate reviewed
 - script/text accuracy
 - panel architecture accuracy
 - reference adherence
@@ -289,14 +307,17 @@ The same page-production MD also holds its QA result. Record:
 - anatomy/hands
 - page readability
 - continuity seam
+- PNG final visual decision: accepted/rejected
+- manual PNG → WebP conversion completed
+- final WebP repository path verified
 - final status
 
-Once approved, the matching `page-###.webp` becomes the page visual authority for downstream local continuity.
+Only after the PNG passes QA and the user manually converts that exact PNG to WebP does the matching `page-###.webp` become the page visual authority for downstream local continuity.
 
 ---
 
 ## Production Rule Summary
 
-**One manga page = one production Markdown + one approved WebP.**
+**One manga page = one production Markdown + one PNG review candidate + one manually converted approved WebP authority.**
 
-The Markdown contains everything needed to generate that page. The WebP is created only after the page passes visual and continuity review.
+The Markdown contains everything needed to generate and audit the page. ChatGPT/image generation gives PNG first. The WebP is created manually by the user only after the PNG passes visual and continuity review.
