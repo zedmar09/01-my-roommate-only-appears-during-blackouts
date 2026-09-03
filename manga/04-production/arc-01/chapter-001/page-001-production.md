@@ -11,9 +11,60 @@
 - first review output: `page-001.png`
 - final approved repository output after manual conversion: `page-001.webp`
 
-## 2. Source Authority
+---
 
-Compile this page from:
+## 2. USER GENERATION CHECKLIST — ATTACH THESE FILES
+
+When asking ChatGPT/image generation to create **Page 001**, attach exactly these **5 files total**:
+
+### A. Production instruction MD — ATTACH
+
+1. `manga/04-production/arc-01/chapter-001/page-001-production.md`
+
+This is the complete instruction for the page. The image generator should follow this file as the page-specific production authority.
+
+### B. Approved WebP visual references — ATTACH
+
+2. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+3. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+4. `manga/02-references/approved-webp/nari-canonical.webp`
+5. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
+
+### DO NOT ATTACH for Page 001
+
+Do **not** attach any additional source-authority Markdown files listed later in this document. They are used to build/audit this production file, but their requirements have already been compiled into `page-001-production.md`.
+
+Specifically, you do **not** need to attach:
+
+- `story-concept.md`
+- `continuity-ledger.md`
+- `narrative-rules.md`
+- `manga-style-lock.md`
+- `page-composition-rules.md`
+- `panel-language.md`
+- `screentone-and-hatching-guide.md`
+- `chapter-outline.md`
+- `scene-sequence.md`
+- `dialogue-script.md`
+- `page-map.md`
+- `reference-register.md`
+- `chapter-001-pages-generation-guide.md`
+- Nari `canon.md`
+- workplace `canon.md`
+
+**Simple rule:** for Page 001, upload **this production MD + the four WebPs above and nothing else**.
+
+There is no previous approved page to attach because this is Page 001.
+
+---
+
+## 3. Source Authority — INTERNAL COMPILATION / AUDIT ONLY
+
+**These files are NOT image-generation attachments.**
+
+They are the repository sources from which this self-contained page-production file was compiled. They are useful when the production MD itself needs to be audited or revised, but the user does not need to upload them when generating the page image.
+
+Internal source authorities:
 
 - `manga/00-series/story-concept.md`
 - `manga/00-series/continuity-ledger.md`
@@ -28,37 +79,47 @@ Compile this page from:
 - `manga/03-story/arc-01/chapter-001/page-map.md`
 - `manga/02-references/reference-register.md`
 - `manga/04-production/arc-01/chapter-001/chapter-001-pages-generation-guide.md`
+- `manga/02-references/characters/nari/canon.md`
+- `manga/02-references/environments/nari-workplace/canon.md`
 
 This page may compile and tighten approved story material but may not alter the Chapter 001 reveal ceiling.
 
-## 3. Exact Required Attachments / References
+---
 
-### REQUIRED WEBP ATTACHMENTS
+## 4. Required WebP Attachment Roles
 
-STYLE
+These are the **four image files the generator must visually use**.
+
+### STYLE — ATTACH BOTH
 
 1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+   - controls finished manga ink quality, anatomy, hands, line weight, blacks, hatching and general rendering discipline
+   - does **not** control character identity
 
-CHARACTER
+2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+   - controls adult everyday manga rendering, female-expression language, ordinary environments, quiet domestic/professional tone and restrained suspense language
+   - does **not** control Nari's identity
+
+### CHARACTER — ATTACH
 
 3. `manga/02-references/approved-webp/nari-canonical.webp`
+   - absolute visual identity authority for Yoon Nari
+   - controls face, hair, adult age read, proportions, approved work outfit and hand identity
+   - if Style A/B generic people conflict with Nari, **Nari canonical wins**
 
-ENVIRONMENT
+### ENVIRONMENT — ATTACH
 
 4. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
-
-### REQUIRED TEXT AUTHORITIES
-
-- `manga/02-references/characters/nari/canon.md`
-- `manga/02-references/environments/nari-workplace/canon.md`
-- `manga/01-style/manga-style-lock.md`
+   - absolute visual environment authority for Nari's publishing workplace
+   - controls office geometry, Nari desk placement, editorial materials, furniture relationships and recurring spatial identity
 
 ### LOCAL CONTINUITY
 
 None. This is the first manga page.
 
-## 4. Page Canvas / Size Lock
+---
+
+## 5. Page Canvas / Size Lock
 
 - orientation: portrait
 - width: **1024 px**
@@ -71,7 +132,7 @@ None. This is the first manga page.
 - no vertical-webtoon spacing
 - no color
 
-## 5. Page Purpose / Scenario
+## 6. Page Purpose / Scenario
 
 ### Narrative purpose
 
@@ -105,7 +166,7 @@ Ordinary supplied power. No visible supernatural activity. No ominous electrical
 
 The next page cuts away to the downstairs neighbor hearing something from Nari's apartment. Page 001 therefore needs to make Nari's physical location unmistakable.
 
-## 6. Continuity Input
+## 7. Continuity Input
 
 Opening state:
 
@@ -119,7 +180,7 @@ Opening state:
 - no apartment mystery has been mentioned to Nari yet
 - no supernatural clue exists in Nari's awareness
 
-## 7. Page Composition / Panel Architecture
+## 8. Page Composition / Panel Architecture
 
 Total panels: **4**
 
@@ -134,7 +195,7 @@ Reading order: right-to-left / top-to-bottom.
 
 The page should feel conventional and readable, not like a rigid four-box grid. Slightly varied borders/spacing are allowed while maintaining clean order.
 
-## 8. Complete Panel-by-Panel Blueprint
+## 9. Complete Panel-by-Panel Blueprint
 
 ### Panel 1 — Late-Night Publishing Office Establishing
 
@@ -226,7 +287,7 @@ NARI: `Just one more pass.`
 
 **Exit state:** the reader has clear visual proof Nari is away from her apartment during the late-night window.
 
-## 9. Exact Script / Lettering
+## 10. Exact Script / Lettering
 
 Panel 1: silence / no reader-visible text required.
 
@@ -242,7 +303,7 @@ Panel 4: silence.
 
 Do not invent company names, manuscript text, book titles, logos, captions, or additional dialogue.
 
-## 10. Character Requirements
+## 11. Character Requirements
 
 ### Nari
 
@@ -262,7 +323,7 @@ Do not invent company names, manuscript text, book titles, logos, captions, or a
 - no visual feature that implies future importance
 - do not make coworker resemble Nari or either generic style-reference subject too closely
 
-## 11. Environment / Object / Effect Requirements
+## 12. Environment / Object / Effect Requirements
 
 ### Workplace
 
@@ -283,7 +344,7 @@ Do not invent company names, manuscript text, book titles, logos, captions, or a
 
 None.
 
-## 12. Page-Wide Manga Style Lock
+## 13. Page-Wide Manga Style Lock
 
 - finished traditional black-and-white manga inks
 - variable human-drawn line weight
@@ -302,11 +363,25 @@ None.
 - no cinematic bloom, volumetric light, depth-of-field blur, lens flare, or film-still composition
 - no unfinished sketch/construction lines
 
-## 13. Complete Generation Instruction
+## 14. Complete Generation Instruction
+
+### Files that must be present in the generation request
+
+Upload exactly:
+
+1. `page-001-production.md`
+2. `series-manga-style-reference-a.webp`
+3. `series-manga-style-reference-b.webp`
+4. `nari-canonical.webp`
+5. `nari-workplace-master-atlas.webp`
+
+Do not upload the Source Authority Markdown files. This page-production MD already contains the compiled instructions required for image generation.
+
+### Image-generation instruction
 
 Create exactly **ONE 1024×1536 portrait black-and-white manga page** for Chapter 001 Page 001, read right-to-left.
 
-Use all required attached WebPs as strict authorities: Style A + Style B for broad finished manga rendering language, Nari canonical for Nari's identity/anatomy/outfit, and the workplace master atlas for all office geometry and editorial-environment identity.
+Follow the attached `page-001-production.md` as the page-specific instruction authority. Use the four attached approved WebPs as strict visual authorities: Style A + Style B for broad finished manga rendering language, Nari canonical for Nari's identity/anatomy/outfit, and the workplace master atlas for all office geometry and editorial-environment identity.
 
 Render exactly four panels using the architecture defined above. The page opens on an ordinary late-night publishing office. Nari is clearly still at her approved recurring desk after midnight, reviewing printed proofs while most coworkers have left. One unnamed adult coworker asks `You're still here?`; Nari responds `Just one more pass.` while continuing to work. End on a quiet lower panel that visually confirms Nari remains at the office around 12:25–12:30 a.m. through ordinary late-night cues rather than exposition.
 
@@ -316,7 +391,7 @@ Use finished published-manga ink quality, varied line weight, selective screento
 
 Return the review candidate as **PNG** named conceptually `page-001.png`. The user will manually convert the exact approved PNG to `page-001.webp` after review.
 
-## 14. Automatic Rejection Conditions
+## 15. Automatic Rejection Conditions
 
 Reject/regenerate if:
 
@@ -336,7 +411,7 @@ Reject/regenerate if:
 - hands/anatomy are malformed
 - output is not portrait 1024×1536
 
-## 15. Continuity Output
+## 16. Continuity Output
 
 At page end:
 
@@ -348,10 +423,16 @@ At page end:
 - reader understands she is physically away from home in the relevant late-night window
 - Page 002 cuts to the downstairs neighbor's unit and should not require pose continuity from Nari
 
-## 16. QA / Approval Record
+## 17. QA / Approval Record
 
 Before approval verify:
 
+- [ ] generation request included `page-001-production.md`
+- [ ] generation request included Style A WebP
+- [ ] generation request included Style B WebP
+- [ ] generation request included Nari canonical WebP
+- [ ] generation request included workplace master atlas WebP
+- [ ] no Source Authority MD was required as an image-generation attachment
 - [ ] 1024×1536 portrait PNG
 - [ ] exactly 4 panels
 - [ ] clear right-to-left reading order
