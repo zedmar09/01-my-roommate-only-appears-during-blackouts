@@ -2,15 +2,15 @@
 
 ## Status
 
-**TEXT APPROVED — PNG VISUAL CANDIDATE PENDING / FINAL WEBP PENDING.**
+**TEXT + VISUAL APPROVED.**
 
-This file is the semantic authority for Nari's new manga reference. The retired Manhwa character design is not active authority.
+This file is the semantic authority for Nari's manga identity. The retired Manhwa design is not active authority.
 
-Generation/repository workflow:
+Approved visual authority:
 
-- first ChatGPT/image-generation candidate: `nari-canonical.png`
-- after visual approval, user manually converts that exact PNG to final authority: `manga/02-references/characters/nari/nari-canonical.webp`
-- only the final WebP is repository canon
+`manga/02-references/approved-webp/nari-canonical.webp`
+
+The approved WebP controls Nari's exact face/hair/body/outfit identity. Style references control rendering language only.
 
 ## Identity
 
@@ -51,57 +51,53 @@ Late-night editorial work during deadlines is normal enough to support Chapter 0
 
 ## Face / Hair Baseline
 
+The exact approved visual geometry is defined by `nari-canonical.webp`.
+
+Semantic constraints:
+
 - mature but approachable Korean adult face
 - expressive eyes
 - slightly tired resting expression when overworked
-- natural brows and features; avoid doll-like or hyper-glamorous face design
+- natural brows/features; avoid doll-like or hyper-glamorous drift
 - dark hair, approximately mid-back length
 - restrained natural wave toward the ends
 - normally worn loose
-- simple low tie is allowed during concentrated work/home tasks
+- simple low tie allowed during concentrated work/home tasks
 - no permanent glasses
-- no legacy signature scrunchie or retired Manhwa accessory unless explicitly re-approved later
-
-The final exact face geometry becomes visually binding only after the generated PNG candidate is approved, manually converted, and `nari-canonical.webp` is committed as the visual authority.
+- no retired Manhwa signature accessory unless deliberately re-approved
 
 ## Body / Hands
 
 - natural adult proportions
 - slim-average, not fragile and not exaggerated curvy/bodybuilder
 - shoulders/limbs consistent from every angle
-- hands must read naturally during:
-  - holding manuscripts/proofs
-  - writing/marking pages
-  - phone use
-  - smart-lock/access checking
-  - moving the dining chair
-  - cooking/household tasks
+- hands must remain natural during manuscripts/proofs, writing, phone use, access checking, chair movement, cooking and household tasks
 
 ## Primary Work Outfit — Chapter 001 Baseline
 
-Practical publishing-office clothing:
+Follow the approved canonical atlas:
 
-- simple blouse or knit top
-- cardigan or understated practical jacket depending on scene
+- simple blouse
+- understated cardigan
 - straight-cut slacks
-- simple practical shoes
+- practical dark shoes
 - no loud branding/logos
 - no high-fashion office costume
 - no glossy fabrics
 
-The model sheet should establish one main work outfit clearly enough to reproduce garment shape and proportions.
-
 ## Primary Home Outfit — Chapter 001 Baseline
 
-- loose T-shirt or comfortable long-sleeve top
+Follow the approved canonical atlas:
+
+- loose comfortable top
 - relaxed lounge pants
 - ordinary home presentation
 - no fan-service styling
 - no elaborate jewelry/accessories
 
-## Expression Set Needed
+## Expression Range
 
-At minimum:
+Approved identity must support:
 
 - neutral / composed
 - editorial focus
@@ -112,19 +108,24 @@ At minimum:
 - self-doubt / trying to remember
 - concerned
 - alert / guarded
-- genuine fear kept grounded rather than exaggerated horror-face
+- grounded fear
 
-## Manga Visual Authority
+## Required Manga Style Attachments
 
-Once approved, the series style reference WebP must be attached to Nari reference generation:
+When Nari appears in generation, use the approved rendering authorities as needed:
 
-`manga/01-style/reference-style/series-manga-style-reference.webp`
+- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
 
-Nari must remain black-and-white manga line/tone art. Do not encode color-dependent identity features.
+For Nari identity itself, always attach:
+
+- `manga/02-references/approved-webp/nari-canonical.webp`
+
+Style A/B must never override or replace Nari's canonical identity.
 
 ## Continuity Rules
 
-The final canonical WebP controls:
+The canonical WebP controls:
 
 - face identity
 - hair length/shape
@@ -138,22 +139,20 @@ Page production controls temporary:
 - pose
 - expression
 - hair tied/loose state
-- outfit switch between approved work/home baselines
+- work/home outfit state
 - fatigue level
 - carried objects
 - story-specific damage/wetness/injury
 
 ## Automatic Reject
 
-Reject the generated PNG character candidate if:
+Reject generated Nari art if:
 
+- face/hair/body visibly drifts from `nari-canonical.webp`
 - she looks teen/school-age
-- hair length/face/body changes between views
-- she becomes glamorous/model-like rather than grounded adult
+- hair length changes
 - permanent glasses are added
+- she becomes significantly more glamorous/model-like than the canonical atlas
 - retired Manhwa accessories/design are silently reintroduced
 - work outfit becomes futuristic/technical/game-studio/cyberpunk
-- hands/feet are missing from required full-body views
-- rendering is color, glossy, cinematic, photoreal, painterly, CGI, or 3D-like
-
-Only after the PNG passes this gate should it be manually converted to WebP.
+- rendering becomes color, glossy, cinematic, photoreal, painterly, CGI or 3D-like
