@@ -69,10 +69,26 @@ Do **not** attach:
 ### Attachment roles
 
 - `page-001-production.md` — page composition, story, final rendering, balloon and exact English-text authority
-- `nari-canonical.webp` — Nari identity only
+- `nari-canonical.webp` — Nari face/hair/age/proportion identity only
 - `nari-workplace-master-atlas.webp` — workplace geometry/design only
 
 Canonical image references must not override this MD's composition, text or finished-manga rules.
+
+### Nari canonical transfer limit
+
+The revised `nari-canonical.webp` controls Nari's **face, short layered hair silhouette, age read, proportions, and recognizability only**.
+
+Do not inherit from the canonical source image:
+
+- headphones as default story wardrobe
+- techwear/cyberpunk clothing
+- neon lighting
+- glowing circuitry/tattoos
+- hacker/gamer styling
+- cinematic poster mood
+- source-image environment
+
+For Page 001, Nari remains a grounded publishing-company editor in the approved practical work outfit.
 
 ---
 
@@ -153,7 +169,7 @@ The next page cuts away to activity heard from Nari's apartment. Page 001 must m
 
 - Nari is age 30 and matches `nari-canonical.webp`
 - approved practical publishing-office work outfit
-- dark hair loose by default
+- short-to-medium layered dark hair with a distinctive slightly tousled silhouette
 - tired but composed
 - working at her recurring desk from the workplace atlas
 - one unnamed ordinary coworker may briefly appear
@@ -348,15 +364,21 @@ Balloon rules:
 
 ### Nari
 
-- exact identity from `nari-canonical.webp`
+- exact face/hair/age/proportion identity from `nari-canonical.webp`
 - adult Korean woman, age 30
-- approved work outfit
-- loose dark hair
+- visually distinctive and immediately recognizable
+- mature, slightly sharper adult facial structure
+- expressive but grounded eyes
+- short-to-medium layered dark hair
+- slightly tousled natural styling with a recognizable silhouette
+- approved grounded publishing-office work outfit from semantic canon/page production
 - natural adult proportions
 - readable hands
 - tired but composed
 - not teen-coded
 - not glamorous/fashion-editorial
+- not cyberpunk-styled in-story
+- do not copy headphones, techwear, neon, glowing tattoos/circuitry, or source-image accessories unless explicitly page-approved
 - not frightened or suspicious
 - no cinematic heroine posing/lighting
 
@@ -461,7 +483,7 @@ Do not attach or imitate Style A/B and do not use a layout-reference image.
 
 Generate exactly four stacked manga panels following the hierarchy and panel-by-panel blueprint in this MD.
 
-Render the office as Nari's publishing/editorial workplace, keep Nari's canonical identity stable, and show her still working after midnight.
+Render the office as Nari's publishing/editorial workplace, keep Nari's revised canonical face and short layered hair identity stable, and show her still working after midnight. Keep her wardrobe grounded and ordinary; do not copy headphones/techwear/cyberpunk source elements.
 
 **All reader-visible text must be English only. Put exactly `You're still here?` in the single Panel 2 coworker balloon and exactly `Just one more pass.` in the single Panel 3 Nari balloon. Generate no other readable words anywhere. Do not translate either line. Do not generate Japanese, Korean, Chinese, labels, signs, document text, fake writing, UI text, captions, narration or SFX.**
 
@@ -478,7 +500,9 @@ Reject/regenerate if:
 - output does not contain exactly 4 panels
 - panel hierarchy materially departs from Sections 8–9
 - reading flow is unclear
-- Nari identity drifts
+- Nari face drifts from `nari-canonical.webp`
+- revised short layered hair becomes long or loses its recognizable silhouette
+- headphones/techwear/neon/cyberpunk source elements appear without explicit page approval
 - workplace geometry/identity drifts
 - office reads as software/game/engineering workplace
 - editorial materials disappear
@@ -504,7 +528,7 @@ Reject/regenerate if:
 At page end:
 
 - Nari remains at the publishing office
-- work outfit and loose hair remain consistent
+- approved work outfit and revised short layered hair remain consistent
 - she is tired/focused but normal
 - ordinary supplied power is on
 - no apartment mystery is known to her
@@ -517,7 +541,7 @@ At page end:
 Before approval verify:
 
 - [ ] `page-001-production.md` attached
-- [ ] Nari canonical attached
+- [ ] revised Nari canonical attached
 - [ ] workplace atlas attached
 - [ ] no layout-reference attached
 - [ ] Style A/B NOT attached
@@ -525,7 +549,8 @@ Before approval verify:
 - [ ] exactly 4 panels
 - [ ] panel hierarchy matches production blueprint
 - [ ] right-to-left manga reading is clear
-- [ ] Nari identity matched
+- [ ] Nari face/short-layered-hair identity matched
+- [ ] no source-image headphones/techwear/neon/cyberpunk drift
 - [ ] workplace geometry matched
 - [ ] publishing/editorial identity clear
 - [ ] exactly 2 speech balloons total
