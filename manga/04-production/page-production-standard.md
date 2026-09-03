@@ -2,36 +2,61 @@
 
 ## Purpose
 
-Final manga pages use one final-page production Markdown:
+The normal manga production model is **direct final-page generation from one self-contained page-production Markdown**:
 
 `page-###-production.md`
 
-When composition must be established separately, a second **pre-production-only** Markdown is allowed:
+Default sequence:
 
-`page-###-layout-production.md`
+`page-production MD → final PNG review candidate → approval → final WebP`
 
-This layout-production file generates an approved `page-###-layout-reference.webp` used only as composition authority.
+A separate layout-reference workflow exists only as an **optional troubleshooting exception** when direct generation repeatedly fails to hold composition or temporary geometry.
 
 See:
 
 - `manga/04-production/layout-reference-workflow.md`
+- `manga/01-style/manga-style-lock.md`
 - `manga/01-style/reader-visible-language-lock.md`
 
 ---
 
-## File Model
-
-Example:
+## Normal File Model
 
 ```text
-page-001-layout-production.md      # separate composition pre-production
-page-001-layout-reference.webp     # approved composition authority
-page-001-production.md             # final story-page generation authority
-page-001.png                       # final-page review candidate
-page-001.webp                      # final approved page authority
+page-001-production.md
+page-001.png
+page-001.webp
 ```
 
-A layout production file is not required for every page. Use it where composition drift, blocking, continuity geometry, or page rhythm needs an explicit visual lock.
+The page-production MD must contain everything required to generate the final page directly:
+
+- exact attachments
+- panel architecture
+- framing
+- blocking
+- poses/actions
+- environment/object state
+- exact English lettering
+- final 2D manga rendering rules
+- rejection conditions
+- continuity and QA
+
+---
+
+## Optional Troubleshooting Layout Model
+
+Only when direct page generation repeatedly fails, the user may explicitly invoke:
+
+```text
+page-###-layout-production.md
+page-###-layout-reference.webp
+```
+
+This is **not normal production** and must not be treated as a required gate unless the current page-production MD explicitly says so.
+
+A troubleshooting layout reference controls composition only. The final `page-###-production.md` remains the authority for story facts, exact English text and final rendering.
+
+Page 001 currently does **not** require a layout reference.
 
 ---
 
@@ -62,45 +87,7 @@ Do not translate, paraphrase, localize, romanize or substitute approved wording.
 
 Do not generate Japanese, Korean, Chinese, other non-English scripts, fake multilingual glyphs or unapproved readable background text.
 
-### Layout-reference lettering rule
-
-Layout references use:
-
-- **EMPTY speech balloons**
-- empty thought balloons/caption boxes when placement must be locked
-- no SFX text
-- no readable background text
-- no signs/labels/UI/document text
-
-The layout reference locks lettering **placement only**. Exact English wording is added during final page generation.
-
-A user-approved page-specific exception may override this only when explicitly stated before generation.
-
----
-
-## Final Page Gate
-
-If `page-###-production.md` declares a layout reference required, final-page generation is blocked until:
-
-`page-###-layout-reference.webp`
-
-exists and is approved.
-
-Missing required layout reference = **STOP FINAL PAGE GENERATION**.
-
-The approved layout reference controls:
-
-- panel count/order
-- panel boundaries/proportions
-- reading flow
-- camera/framing
-- character blocking
-- poses/gestures
-- major object placement
-- negative space
-- balloon-placement intent
-
-The final generator must not redesign, beautify into a different composition, or cinematicize the approved layout reference.
+Background text default: **none**.
 
 ---
 
@@ -113,17 +100,18 @@ For Chapter 001, default final story-page generation omits:
 - `series-manga-style-reference-a.webp`
 - `series-manga-style-reference-b.webp`
 
-Reason: those broad visual sheets can overpower the exact page Markdown and canonical character/environment authorities.
+Reason: broad visual sheets can overpower the exact page Markdown and canonical character/environment authorities.
 
 The rendering authority for story pages is:
 
 1. `manga/01-style/manga-style-lock.md`
 2. `manga/01-style/reader-visible-language-lock.md`
 3. current `page-###-production.md`
-4. approved layout reference for composition only
-5. canonical WebPs for identity/geometry only
+4. canonical WebPs for identity/geometry only
+5. previous approved page only for local seam continuity when needed
+6. optional layout reference only if explicitly invoked
 
-Style A/B may be explicitly opted in only after page-specific testing proves they help without causing drift.
+Style A/B may be opted in only after page-specific testing proves they help without causing drift.
 
 ---
 
@@ -144,12 +132,10 @@ Required:
 - integrated speech balloons
 - clean final-page readability
 
-Do not require roughness, pencil residue, construction lines or visible sketch marks in the final page.
-
 Reject:
 
 - rough unfinished sketch output
-- empty/storyboard-only art
+- storyboard-only art
 - cinematic lighting
 - movie-still look
 - glossy webtoon rendering
@@ -163,31 +149,35 @@ Solid black is allowed as flat manga ink; reject only when black behaves like ci
 
 ---
 
-## Required Structure of Every Final `page-###-production.md`
+## Required Structure of Every `page-###-production.md`
 
 ### 1. Page Identity / Status
 
-Specify series, arc, chapter, page, label, status, final PNG filename and final WebP filename.
+Specify series, arc, chapter, page, working label, status, final PNG filename and final WebP filename.
 
-### 2. Production Gate
+Normal status should be `READY FOR DIRECT FINAL-PAGE GENERATION` once canon/reference requirements are satisfied.
 
-State whether an approved layout reference is required. If required, list its exact repository path.
+### 2. Direct Production Rule
+
+State that the page is generated directly from the production MD and exact listed references.
+
+If the page is one of the rare exceptions requiring a layout reference, say so explicitly. Otherwise, no layout-reference gate exists.
 
 ### 3. Exact Final-Generation Attachments
 
 List only files needed for the final page:
 
 - current `page-###-production.md`
-- approved `page-###-layout-reference.webp` when required
 - canonical character WebP(s)
 - canonical environment/object/effect WebP(s)
-- previous approved page WebP only when local seam continuity needs it
+- previous approved page WebP only when local continuity materially requires it
+- optional approved layout reference only if explicitly invoked
 
-Do not include layout-generation instructions here.
+Do not automatically attach Style A/B.
 
 ### 4. Source Authority
 
-List story/canon/style documents used internally to compile the final page.
+List story/canon/style documents used internally to compile the page. They are not generation attachments unless explicitly listed in Section 3.
 
 ### 5. Page Canvas / Size Lock
 
@@ -201,13 +191,25 @@ Specify narrative function, chronology/time, location, power/supernatural state,
 
 Freeze character/environment/object/knowledge state entering the page.
 
-### 8. Page Composition Authority
+### 8. Exact Page Composition Authority
 
-If an approved layout reference exists, state that it is binding for composition. Otherwise define exact panel architecture in the production MD.
+Define directly inside the MD:
+
+- exact/target panel count
+- panel hierarchy
+- reading flow
+- panel proportions/roles
+- camera/framing intent
+- character blocking
+- pose/facing direction
+- major environment/object placement
+- balloon-placement requirements
+
+The image generator must not invent a materially different composition.
 
 ### 9. Panel-by-Panel Blueprint
 
-For every panel specify beat, framing, blocking, expression, actions/hands, props, environment anchors and continuity output.
+For every panel specify beat, framing, blocking, expression, actions/hands, props, environment anchors, text/balloon state and continuity output.
 
 ### 10. Exact Script / Lettering
 
@@ -217,52 +219,62 @@ Required statement:
 
 **Reader-visible language: ENGLISH ONLY.**
 
-Do not allow generated paraphrasing, translation or invented text.
+Also specify the exact permitted reader-visible words and explicitly prohibit all others.
 
-Also state which background text is allowed. Default: **none**.
+Background text default: **none**.
 
-### 11. Character Requirements
+### 11. Balloon Requirements
+
+When dialogue exists, specify:
+
+- exact total balloon count when practical
+- balloon type
+- which panel each balloon belongs to
+- correct speaker/tail
+- exact English text
+
+### 12. Character Requirements
 
 Canonical WebPs control identity. Page production controls temporary pose/expression/wardrobe state.
 
-### 12. Environment / Object / Effect Requirements
+### 13. Environment / Object / Effect Requirements
 
 Canonical WebPs control reusable design/geometry. The page MD controls temporary story state.
 
-### 13. Finished 2D Manga Style Lock
+### 14. Finished 2D Manga Style Lock
 
 Restate page-relevant final quality requirements from `manga-style-lock.md` and the English-only language lock.
 
-### 14. Complete Final Generation Instruction
+### 15. Complete Final Generation Instruction
 
-Provide one deterministic instruction for generating exactly one final manga page PNG. Explicitly require exact English lettering and prohibit all unapproved readable text.
+Provide one deterministic instruction for generating exactly one final manga page PNG directly from the listed attachments.
 
-### 15. Automatic Rejection Conditions
+### 16. Automatic Rejection Conditions
 
 Include:
 
-- layout drift
+- panel/composition drift
 - identity/geometry drift
 - approved English text changed or translated
 - non-English text
 - fake/gibberish readable text
 - unapproved background labels/UI/documents
+- incorrect balloon count/ownership when specified
 - anatomy failure
 - wrong dimensions
 - unfinished-sketch output
 - cinematic/digital-render drift
 
-### 16. Continuity Output
+### 17. Continuity Output
 
-Freeze state for the next page.
+Freeze page-end state for the next page.
 
-### 17. QA / Approval Record
+### 18. QA / Approval Record
 
 Verify:
 
-- required layout reference present when applicable
-- exact canonical attachments used
-- layout adherence
+- exact attachment set used
+- exact panel/composition requirements followed
 - exact English script accuracy
 - no non-English text
 - no invented readable background text
@@ -274,32 +286,29 @@ Verify:
 
 ---
 
-## Separate Layout Production Standard
+## Optional Layout-Reference Troubleshooting Standard
 
-A `page-###-layout-production.md` exists only to create the optional/required composition authority.
+A `page-###-layout-production.md` may be created or used only when the user explicitly chooses the fallback because direct generation repeatedly fails composition or geometry.
 
-It should specify:
+If used:
 
-- layout-reference PNG/WebP filenames
-- exact canonical attachments required for staging
-- panel beats
-- empty balloon/caption placement
-- **zero readable text by default**
-- clean content-filled 2D manga layout-reference quality
-- composition QA
+- layout reference is composition authority only
+- it contains zero readable text by default
+- dialogue balloons remain empty
+- final page production still adds exact approved English
+- final `page-###-production.md` remains the story and rendering authority
+- Style A/B are not automatically attached
 
-The exact final English script may be documented inside the layout MD for planning, but the generated layout image must keep balloons empty and must not render those words.
-
-It must **not** become a second competing story authority.
-
-The final `page-###-production.md` wins for story facts and exact final English lettering.
+Do not add this extra stage merely because it is available.
 
 ---
 
 ## Production Rule Summary
 
-When a layout reference is required:
+Normal:
 
-**layout production MD → approved text-free layout-reference WebP → final page-production MD → exact-English final PNG review → approved final WebP.**
+**one manga page = one production MD + one PNG review candidate + one approved final WebP.**
 
-The layout reference is generated separately. The final page is finished 2D manga, not a rough-sketch cleanup pass.
+Fallback only when genuinely needed:
+
+**optional layout reference → final page-production MD → final PNG → final WebP.**
