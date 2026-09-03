@@ -10,6 +10,10 @@ For layout-reference production, see:
 
 `manga/04-production/layout-reference-workflow.md`
 
+For all reader-visible language, see:
+
+`manga/01-style/reader-visible-language-lock.md`
+
 ---
 
 ## Core Rule — Do Not Attach Everything
@@ -17,6 +21,25 @@ For layout-reference production, see:
 More image references are not automatically better.
 
 Attach only files that directly control something visible or structurally important in the requested output.
+
+---
+
+## Global Language Rule
+
+Story-page production is **English only** for reader-visible text.
+
+Layout-reference generation is **text-free by default**:
+
+- empty balloons
+- no SFX lettering
+- no signs/labels/UI/document text
+- no Japanese/Korean/Chinese/other scripts
+- no English placeholder text
+- no fake readable writing
+
+Final story-page generation may add only the exact approved English text from the current `page-###-production.md`.
+
+Visual reference images may contain incidental text inside the reference itself, but that text must **never be copied into story-page or layout-reference output** unless the production MD explicitly approves exact English wording.
 
 ---
 
@@ -34,6 +57,7 @@ For Chapter 001 layout references and final story pages, default to **NOT attach
 Final story-page rendering is controlled by:
 
 - `manga/01-style/manga-style-lock.md`
+- `manga/01-style/reader-visible-language-lock.md`
 - the exact current page-production MD
 
 Style A/B may be used only if a specific production MD explicitly opts them in after successful page-specific testing.
@@ -60,7 +84,9 @@ Use when the approved apartment/common-route environment is visible. It controls
 
 Use when Nari's publishing workplace is visible. It controls geometry/design.
 
-Canonical WebPs do not control cinematic lighting or final rendering finish.
+Canonical WebPs do not control final rendering finish or reader-visible language.
+
+**Do not copy readable text from canonical WebPs into generated manga pages.**
 
 ---
 
@@ -87,9 +113,11 @@ The layout reference controls:
 - poses/gestures
 - major prop/environment placement
 - negative space
-- speech-balloon placement
+- empty speech-balloon placement
 
 It should be a clean content-filled 2D manga layout draft/reference — not empty boxes and not a rough scribble sketch.
+
+It should contain **zero readable text** unless the user explicitly approves a page-specific exception.
 
 ---
 
@@ -102,6 +130,8 @@ It should be a clean content-filled 2D manga layout draft/reference — not empt
 
 Do not automatically attach Style A/B.
 
+Do not reproduce text found in attached canonical images.
+
 ---
 
 ## Typical Final Story-Page Attachments
@@ -113,6 +143,8 @@ Do not automatically attach Style A/B.
 5. immediately previous approved page WebP only when local seam continuity requires it
 
 Do not automatically attach Style A/B.
+
+Final lettering must remain exact approved English.
 
 ---
 
@@ -134,6 +166,12 @@ Generate/review:
 
 `page-001-layout-reference.png`
 
+Required text state:
+
+- Panel 2 balloon EMPTY
+- Panel 3 balloon EMPTY
+- no readable text anywhere else
+
 After approval, manually convert and commit:
 
 `manga/04-production/arc-01/chapter-001/page-001-layout-reference.webp`
@@ -150,6 +188,13 @@ Only after the approved layout reference exists, attach exactly:
 4. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
 
 Do not attach Style A/B.
+
+Permitted reader-visible text only:
+
+- `You're still here?`
+- `Just one more pass.`
+
+No other readable words are permitted.
 
 ---
 
@@ -215,7 +260,7 @@ Previous approved page art is local seam authority only for:
 - Chair B exact position
 - ongoing motion/action
 
-It never overrides current page production, approved layout reference, or canonical character/environment design.
+It never overrides current page production, approved layout reference, canonical character/environment design, or the English-only language lock.
 
 ---
 
