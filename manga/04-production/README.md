@@ -1,106 +1,111 @@
 # Manga Production
 
-Production remains **single-authority Markdown per manga page**, with an optional/required approved layout-sketch visual authority.
+Production is page-based and supports a **separate layout-reference pre-production step** when composition needs to be locked before final art.
 
 See:
 
 - `manga/04-production/page-production-standard.md`
-- `manga/04-production/layout-sketch-workflow.md`
+- `manga/04-production/layout-reference-workflow.md`
 
 ## Structure
 
 ```text
 04-production/
 ├── page-production-standard.md
-├── layout-sketch-workflow.md
+├── layout-reference-workflow.md
 └── arc-01/
     └── chapter-001/
+        ├── page-001-layout-production.md
+        ├── page-001-layout-reference.webp
         ├── page-001-production.md
-        ├── page-001-layout-sketch.webp   # approved composition authority when required
-        ├── page-001.webp                 # final approved page authority
-        ├── page-002-production.md
+        ├── page-001.webp
         └── ...
 ```
 
-There is still exactly one page-specific production Markdown per manga page.
+The layout-production MD is optional pre-production used only when a page requires a visual composition lock.
 
-The optional/required `page-###-layout-sketch.webp` is a visual composition authority, not a second textual blueprint.
+The final `page-###-production.md` remains the final story-page generation authority.
 
 ---
 
-## Sketch-First Workflow
+## Separate Layout-Reference Workflow
 
-When a page production MD marks a layout sketch required:
+When a page requires a layout reference:
 
-1. generate `page-###-layout-sketch.png`
-2. review its panel rhythm, blocking, framing and human-drawn manga quality
-3. manually convert the exact approved sketch PNG to `page-###-layout-sketch.webp`
-4. commit that WebP beside the page production MD
-5. only then generate the final `page-###.png`
-6. review the final page against the approved sketch
-7. manually convert the accepted final PNG to `page-###.webp`
+1. use `page-###-layout-production.md`
+2. generate `page-###-layout-reference.png`
+3. review composition/blocking/framing
+4. manually convert the accepted PNG to `page-###-layout-reference.webp`
+5. commit it beside the page production files
+6. use the separate final `page-###-production.md`
+7. generate final `page-###.png`
+8. review against the approved layout reference
+9. manually convert the accepted final PNG to `page-###.webp`
 
-Missing required layout sketch = **STOP FINAL PAGE GENERATION**.
+A layout reference is a clean content-filled 2D manga layout draft, not empty boxes and not a rough scribble sketch.
 
 ---
 
 ## Story-Page Style Rule
 
-Broad reusable Style A/B images are not automatic story-page attachments.
+Broad reusable Style A/B images are not automatic layout-reference or final-story-page attachments.
 
-For Chapter 001, default story-page generation omits:
+For Chapter 001, default story-page production omits:
 
 - `series-manga-style-reference-a.webp`
 - `series-manga-style-reference-b.webp`
 
-because they can visually overpower page-specific Markdown and cause polished/cinematic/heavy-black drift.
+because they may visually overpower page-specific Markdown.
 
-The page production Markdown controls story-page rendering. Canonical character/environment WebPs control identity and geometry only.
+Canonical character/environment WebPs control identity/geometry only.
 
----
-
-## Human-Drawn Requirement
-
-Story pages must remain visibly human-drawn manga:
-
-- organic pencil/ink line variation
-- white paper
-- restrained blacks
-- light screentone/hatching
-- natural anatomy
-- conventional manga page construction
-
-Reject cinematic, glossy, poster-like, noir, painterly, photoreal, CGI/3D or plastic/vector-clean rendering.
+The final rendering authority is the written manga style lock plus the exact final page-production MD.
 
 ---
 
-## One-Page / One-MD Rule
+## Final Manga Quality
 
-A `page-###-production.md` must contain everything needed to:
+Final story pages are **finished 2D hand-drawn black-and-white manga**, not sketch output.
 
-- generate the optional/required layout sketch
-- approve the layout
-- generate the final page
-- verify script/reference adherence
-- record QA and continuity
+Required:
 
-Do not split a page into separate prompt, blueprint, dialogue or QA Markdown files.
+- clean finished ink lines
+- line-weight variation
+- screentone
+- hatching where useful
+- flat graphic solid blacks where appropriate
+- refined anatomy/hands
+- clean manga backgrounds
+- conventional manga panel and balloon construction
+
+Reject rough construction art, cinematic/movie-still rendering, glossy webtoon finish, painterly grayscale, photorealism and CGI/3D.
+
+---
+
+## Production Authority Rule
+
+A separate layout-production MD does not compete with story authority.
+
+- `page-###-layout-production.md` = composition pre-production only
+- `page-###-layout-reference.webp` = approved composition authority
+- `page-###-production.md` = final story/page generation authority
+- `page-###.webp` = final approved page visual authority
 
 ---
 
 ## Artwork Storage
 
-Intermediate review candidates:
+Review candidates:
 
 ```text
-page-001-layout-sketch.png
+page-001-layout-reference.png
 page-001.png
 ```
 
-Approved repository authorities:
+Approved production visuals:
 
 ```text
-page-001-layout-sketch.webp
+page-001-layout-reference.webp
 page-001.webp
 ```
 
