@@ -40,6 +40,32 @@ Do not create separate page prompt, blueprint, reference-manifest, dialogue, scr
 
 ---
 
+## Global Human-Drawn Manga Rule — ABSOLUTE
+
+Every page must visibly read as a **human-drawn black-and-white manga page**.
+
+Default visual priority:
+
+1. organic pencil/ink linework
+2. white paper / negative space
+3. restrained screentone
+4. hand hatching/cross-hatching
+5. sparse spot blacks only where genuinely needed
+
+Do not optimize pages toward cinematic polish. More dramatic, more solid, more glossy, or more “finished” is not automatically better.
+
+Reject any page that looks like a movie still, cinematic storyboard, key art, poster, digital concept illustration, glossy webtoon/manhwa panel, photoreal/3D-derived frame, or high-contrast noir image when that treatment is not explicitly story-required.
+
+The global style authority is:
+
+`manga/01-style/manga-style-lock.md`
+
+The tone/value authority is:
+
+`manga/01-style/screentone-and-hatching-guide.md`
+
+---
+
 ## Required Structure of Every `page-###-production.md`
 
 ### 1. Page Identity / Status
@@ -57,7 +83,7 @@ Specify:
 
 ### 2. Source Authority
 
-List the exact approved story and canon files from which this page is compiled. At minimum include the relevant current authorities under:
+List the exact approved story and canon files from which this page is compiled. At minimum include relevant authorities under:
 
 - `manga/00-series/`
 - `manga/03-story/arc-##/chapter-###/`
@@ -86,7 +112,6 @@ CHARACTERS
 ENVIRONMENTS
 - .../canon.md
 - .../master-atlas.webp
-- .../floor-plan.webp          # when required
 
 OBJECTS
 - .../canon.md
@@ -97,12 +122,29 @@ EFFECTS
 - .../atlas.webp
 
 LOCAL CONTINUITY
-- previous approved page WebP  # when needed
+- previous approved page WebP
 ```
 
 Every required reusable WebP must be `APPROVED` in `manga/02-references/reference-register.md`.
 
 Missing required reference = **STOP GENERATION**.
+
+#### User-supplied page sketch / thumbnail
+
+If the user supplies or has approved a page-specific sketch/thumbnail/layout image for the page, the production MD must explicitly state that it is the highest composition authority for that generation.
+
+The supplied sketch controls:
+
+- panel geometry/proportions
+- panel order
+- camera/framing intent
+- character blocking
+- major prop placement
+- negative space
+- balloon-placement intent
+- rough manga-page rhythm
+
+Do not redesign, beautify, cinematicize, or “improve” an approved sketch. Character/environment canon still controls identity and reusable geometry.
 
 ### 4. Page Canvas / Size Lock
 
@@ -113,10 +155,10 @@ Specify exact production geometry for the PNG generation candidate:
 - pixel height
 - aspect ratio
 - trim/border/safe-area rules if applicable
-- reading direction once series reading direction is approved
+- reading direction
 - whether artwork may bleed to page edge
 
-The manual PNG → WebP conversion must preserve the approved page geometry. The external page canvas remains consistent with the approved series page specification. Story variation comes from panel composition inside the page.
+The manual PNG → WebP conversion must preserve the approved page geometry.
 
 ### 5. Page Purpose / Scenario
 
@@ -153,9 +195,9 @@ Freeze all inherited state that matters when the page begins:
 
 Specify:
 
-- total panel count
+- total panel count or target count
 - reading order
-- approximate panel dimensions or relative percentages
+- approximate panel dimensions or relative percentages when no approved sketch exists
 - row/column relationship where useful
 - dominant panel(s)
 - inset/reaction panels
@@ -164,28 +206,30 @@ Specify:
 - bleed panels if any
 - intentional blank/negative space
 
-Panel count and panel sizes are **not fixed** across pages. They must follow the story rhythm.
+Panel count and panel sizes are not fixed across pages. They follow story rhythm.
+
+If an approved page sketch is supplied, it overrides fallback textual layout percentages for composition.
 
 ### 8. Complete Panel-by-Panel Blueprint
 
-For **every panel**, specify all applicable details:
+For every panel, specify all applicable details:
 
 - panel number
 - narrative beat
 - approximate panel size / hierarchy
 - camera framing and angle
-- lens/perspective intent without photographic/cinematic styling
 - environment/location anchors
 - character(s) present
-- exact pose, blocking, gaze, expression, hand action, body direction
+- pose, blocking, gaze, expression, hand action, body direction
 - object/prop position and state
 - supernatural/effect state
-- action sequence
-- reaction sequence
+- action/reaction sequence
 - required foreground/background details
 - what must remain outside the crop
 - continuity inherited from previous panel
 - continuity state passed to next panel
+
+Do not describe ordinary panels with film-language that encourages cinematic rendering. Prefer manga terms such as wide establishing panel, medium character panel, close-up, cut-in, reaction panel, dominant panel, and quiet atmosphere panel.
 
 ### 9. Exact Script / Lettering
 
@@ -204,7 +248,7 @@ Do not let image generation invent or paraphrase dialogue.
 
 ### 10. Character Requirements
 
-Restate only page-relevant character requirements that cannot be safely inferred from the attached canon:
+Restate only page-relevant character requirements that cannot be safely inferred from attached canon:
 
 - temporary wardrobe
 - temporary hairstyle state
@@ -215,7 +259,7 @@ Restate only page-relevant character requirements that cannot be safely inferred
 - carried/held items
 - interaction rules
 
-Canonical identity still comes from the approved character `.md` + final `.webp` package. PNG reference candidates are not valid production attachments.
+Canonical identity comes from the approved character package.
 
 ### 11. Environment / Object / Effect Requirements
 
@@ -238,9 +282,15 @@ References control design. The page file controls temporary story state.
 At minimum enforce:
 
 - black-and-white manga only
-- hand-drawn pencil/ink impression
-- intentional variable line weight
-- screentone, hatching, cross-hatching, and solid blacks as appropriate
+- **visibly human-drawn pencil/ink character**
+- organic, non-uniform line weight
+- slight natural line imperfection allowed
+- subtle pencil/sketch residue allowed when intentional and readable
+- line-driven form rather than shadow-driven digital modeling
+- substantial white-paper areas
+- restrained screentone
+- hand-drawn hatching/cross-hatching as appropriate
+- sparse controlled spot blacks rather than large default black masses
 - natural anatomy and readable hands
 - detailed backgrounds when storytelling needs them
 - simplified backgrounds when emotion/dialogue benefits from reduction
@@ -250,12 +300,28 @@ At minimum enforce:
 - no photorealism
 - no CGI/3D render look
 - no painterly/airbrushed rendering
-- no cinematic grading, bloom, lens flare, volumetric light, or depth-of-field blur
+- no vector-clean/plastic AI ink finish
+- no cinematic grading
+- no cinematic rim/back lighting unless explicitly story-required
+- no bloom, lens flare, volumetric light, bokeh, or depth-of-field blur
+- no film-still, poster, key-art, or cinematic-storyboard composition drift
+- no giant black vignette / noir treatment on ordinary scenes
 - no production labels, panel IDs, filenames, crop guides, QA notes, or metadata inside reader-facing artwork
+
+For ordinary-life scenes, **white + line art must dominate**.
 
 ### 13. Complete Generation Instruction
 
-Provide one final deterministic instruction that tells the image generator to create **exactly one complete manga page as PNG** using the page canvas, attached approved WebP references, panel architecture, script, actions, scenario, continuity, and visual rules defined above.
+Provide one final deterministic instruction that tells the image generator to create exactly one complete manga page as PNG using the page canvas, attached approved references, panel architecture, script, actions, scenario, continuity, and visual rules defined above.
+
+Every final generation instruction must explicitly repeat:
+
+- `THIS MUST LOOK VISIBLY HUMAN-DRAWN.`
+- not cinematic
+- not poster/key art
+- not glossy digital illustration
+- restrained solid blacks
+- white paper + organic linework + light tone/hatching first
 
 The generation instruction must not leave essential story decisions to the image model.
 
@@ -264,6 +330,7 @@ The generation instruction must not leave essential story decisions to the image
 List page-specific failures that require regeneration, including as applicable:
 
 - wrong panel count/order
+- approved page sketch materially ignored/redesigned
 - missing/extra character
 - character identity drift
 - environment mirroring/redesign
@@ -275,7 +342,13 @@ List page-specific failures that require regeneration, including as applicable:
 - missing reveal
 - anatomy/hand failure
 - incorrect page dimensions
-- color/glossy/3D/cinematic drift
+- color/glossy/3D/photoreal/painterly drift
+- cinematic lighting/value/composition drift
+- poster/key-art/film-still appearance
+- vector-clean/plastic AI linework
+- excessive solid-black masses
+- ordinary scene rendered as noir/high-contrast drama
+- page does not visibly read as human-drawn manga
 - unreadable composition
 
 ### 15. Continuity Output
@@ -299,10 +372,14 @@ The same page-production MD also holds its QA result. Record:
 - PNG candidate reviewed
 - script/text accuracy
 - panel architecture accuracy
+- approved sketch adherence when applicable
 - reference adherence
 - character continuity
 - environment continuity
 - object/effect continuity
+- visibly human-drawn linework
+- restrained solid-black use
+- no cinematic/poster/key-art drift
 - style compliance
 - anatomy/hands
 - page readability
@@ -320,4 +397,4 @@ Only after the PNG passes QA and the user manually converts that exact PNG to We
 
 **One manga page = one production Markdown + one PNG review candidate + one manually converted approved WebP authority.**
 
-The Markdown contains everything needed to generate and audit the page. ChatGPT/image generation gives PNG first. The WebP is created manually by the user only after the PNG passes visual and continuity review.
+The Markdown contains everything needed to generate and audit the page. The default visual target is a **real human-drawn black-and-white manga page**, never cinematic digital illustration unless a specific story page explicitly earns and authorizes a stronger treatment.
