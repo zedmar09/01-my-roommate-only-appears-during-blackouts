@@ -2,13 +2,15 @@
 
 ## Status
 
-**TEXT APPROVED — VISUAL WEBP PENDING.**
+**TEXT APPROVED — PNG VISUAL CANDIDATE PENDING / FINAL WEBP PENDING.**
 
 This file is the semantic authority for Nari's new manga reference. The retired Manhwa character design is not active authority.
 
-Planned visual authority after approval:
+Generation/repository workflow:
 
-`manga/02-references/characters/nari/nari-canonical.webp`
+- first ChatGPT/image-generation candidate: `nari-canonical.png`
+- after visual approval, user manually converts that exact PNG to final authority: `manga/02-references/characters/nari/nari-canonical.webp`
+- only the final WebP is repository canon
 
 ## Identity
 
@@ -60,7 +62,7 @@ Late-night editorial work during deadlines is normal enough to support Chapter 0
 - no permanent glasses
 - no legacy signature scrunchie or retired Manhwa accessory unless explicitly re-approved later
 
-The final exact face geometry becomes visually binding only after `nari-canonical.webp` is approved.
+The final exact face geometry becomes visually binding only after the generated PNG candidate is approved, manually converted, and `nari-canonical.webp` is committed as the visual authority.
 
 ## Body / Hands
 
@@ -114,7 +116,7 @@ At minimum:
 
 ## Manga Visual Authority
 
-Once approved, the series style reference must be attached to Nari reference generation:
+Once approved, the series style reference WebP must be attached to Nari reference generation:
 
 `manga/01-style/reference-style/series-manga-style-reference.webp`
 
@@ -122,7 +124,7 @@ Nari must remain black-and-white manga line/tone art. Do not encode color-depend
 
 ## Continuity Rules
 
-The canonical reference controls:
+The final canonical WebP controls:
 
 - face identity
 - hair length/shape
@@ -143,7 +145,7 @@ Page production controls temporary:
 
 ## Automatic Reject
 
-Reject the character reference if:
+Reject the generated PNG character candidate if:
 
 - she looks teen/school-age
 - hair length/face/body changes between views
@@ -153,3 +155,5 @@ Reject the character reference if:
 - work outfit becomes futuristic/technical/game-studio/cyberpunk
 - hands/feet are missing from required full-body views
 - rendering is color, glossy, cinematic, photoreal, painterly, CGI, or 3D-like
+
+Only after the PNG passes this gate should it be manually converted to WebP.
