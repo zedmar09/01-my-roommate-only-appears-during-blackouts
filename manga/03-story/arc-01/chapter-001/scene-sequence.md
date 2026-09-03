@@ -2,268 +2,246 @@
 
 ## Status
 
-**DRAFT FOR USER REVIEW — NOT YET CANON-LOCKED.**
+**APPROVED STORY DIRECTION — SCENE ORDER LOCKED.**
 
-The exact calendar date remains open. Use one ordinary weekday.
+Exact clock times and final dialogue remain adjustable. Event order and reveal ceiling are binding.
 
-## Scene 01 — Morning Reset
+## Scene 01 — Previous Night / Two Places At Once
 
-**Time:** approximately 07:10  
-**Location:** Nari's apartment  
-**Thread:** A — Nari ordinary life / C — electrical irregularity  
-**Characters:** Nari  
+**Time:** late evening, previous night  
+**Locations:** Nari's workplace or another clearly identifiable place away from home / apartment building  
+**Threads:** A — Nari ordinary life; B — unexplained apartment activity  
+**Characters:** Nari; neighbor; optional coworker background
 
 ### Entry State
 
-- Nari is asleep / waking.
-- Apartment is powered normally at scene start.
-- She believes she lives alone.
-- Dining chair is slightly misaligned from her preferred position.
-- One powered clock displays a reset state from an earlier interruption.
+- Nari is away from home and can later prove it through normal context/timestamps.
+- Nari believes the apartment is empty.
+- Neighbor is at home.
 
-### Goal
+### Action
 
-Nari gets ready for work.
+Intercut between locations.
 
-### Turn
+At Nari's location:
+- Nari works late / completes an ordinary task.
 
-She notices the reset clock and reacts as if it is a minor recurring annoyance.
+At the building:
+- neighbor hears footsteps or human-weight movement from Nari's apartment
+- a chair/furniture scrape follows
+- neighbor checks the time because the disturbance is irritating
 
-The chair is corrected casually or remains unnoticed until she passes it.
+### Rule
+
+Never show the inside source of the apartment noise.
 
 ### Exit State
 
-- Nari leaves for work.
-- Apartment is locked and apparently empty.
-- Reader has only dismissible irregularities.
+Reader knows Nari was not home when the noise occurred. Nari does not yet know a complaint is coming.
 
 ---
 
-## Scene 02 — Workday / Human Baseline
+## Scene 02 — Morning Complaint
 
-**Time:** approximately 09:20–12:30  
+**Time:** next morning  
+**Location:** apartment corridor / elevator / common route  
+**Thread:** A + B  
+**Characters:** Nari; neighbor
+
+### Goal
+
+Nari leaves for her ordinary day. Neighbor wants the late-night noise to stop.
+
+### Turn
+
+Neighbor gives the approximate time of the disturbance.
+
+Nari realizes she was still away from home.
+
+### Exit State
+
+- Nari is confused, not frightened.
+- Neighbor believes the noise came from Nari's unit.
+- No supernatural explanation is proposed.
+
+---
+
+## Scene 03 — Workday / Normal Life Continues
+
+**Time:** daytime  
 **Location:** Nari's workplace  
-**Thread:** A — Nari ordinary life / D — external human anchor  
-**Characters:** Nari; working candidate Koo Hyejin; background coworkers as needed  
-
-### Entry State
-
-Nari is tired but functioning normally.
+**Thread:** A — ordinary life; optional D — external human anchor  
+**Characters:** Nari; optional trusted coworker/friend
 
 ### Goal
 
-Solve a normal work problem / finish an ordinary professional task.
+Handle normal work while deciding whether the complaint deserves attention.
 
-### Conflict
+### Action
 
-Deadline pressure and fatigue; Hyejin notices Nari looks worse than usual.
-
-### Turn
-
-A short conversation establishes that Nari's apartment is still relatively new and has had annoying power/clock resets, but Nari has not made them important.
-
-### Exit State
-
-- Nari remains grounded in normal life.
-- Hyejin knows only that Nari is tired and the apartment has annoying electrical quirks.
-- No supernatural theory exists.
-
----
-
-## Scene 03 — Maintenance Micro-Event
-
-**Time:** approximately 13:05  
-**Location:** building service/electrical area  
-**Thread:** C — building electrical irregularity / E — wider pattern seed  
-**Characters:** unnamed maintenance worker or service staff  
-
-### Entry State
-
-Ordinary building operations.
-
-### Goal
-
-Worker checks a routine electrical/service issue.
+Nari checks ordinary access information for the apartment.
 
 ### Turn
 
-A relay/reset/brief interruption has happened again, but there is no dramatic failure and no reason to escalate beyond ordinary maintenance.
+No ordinary lock/door entry appears during the relevant window between her departure and return.
 
-Possible line: `Again?`
+### Nari's Working Explanations
 
-### Exit State
-
-The worker treats it as a nuisance rather than a supernatural event.
-
-No direct connection to Nari is spoken.
-
----
-
-## Scene 04 — Return Home
-
-**Time:** approximately 20:30  
-**Location:** apartment corridor → Nari's apartment  
-**Thread:** A — Nari ordinary life / B — hidden-presence residue  
-**Characters:** Nari  
-
-### Entry State
-
-- Apartment is locked.
-- Power is normal.
-- Nari expects an empty home.
-
-### Goal
-
-Eat, decompress, and finish remaining work.
-
-### Turn
-
-Nari notices the dining chair is slightly out of alignment again.
-
-She visibly checks it this time, then decides she must be misremembering her own habit.
-
-She deliberately pushes it back into place.
+- neighbor heard the wrong apartment
+- building acoustics
+- smart-lock/app data may be incomplete
+- maintenance or master access
+- her memory of exact timing may be wrong
 
 ### Exit State
 
-- Chair position is now consciously known to Nari.
-- This creates a continuity proof for later.
-- No other obvious sign of another person is present.
+Security question remains open. Nari does not accept a supernatural theory.
 
 ---
 
-## Scene 05 — Late-Night Normalcy
+## Scene 04 — Evening Return / Practical Inspection
 
-**Time:** approximately 23:35–00:10  
+**Time:** evening  
 **Location:** Nari's apartment  
-**Thread:** A — ordinary life / D — external human anchor  
-**Characters:** Nari; Hyejin by phone/voice only if approved  
-
-### Entry State
-
-- Power normal.
-- Chair remains where Nari deliberately placed it.
-- Nari works alone.
+**Thread:** A + B  
+**Characters:** Nari
 
 ### Goal
 
-Finish one last task and go to sleep.
-
-### Conflict
-
-Nari keeps extending the work session; Hyejin tells her to stop.
-
-### Turn
-
-Call ends. Human chatter disappears. The apartment becomes quiet enough for small sounds to matter.
-
-### Exit State
-
-- Nari is alone from her perspective.
-- Phone is nearby and charged enough to use.
-- Powered lights/work equipment remain on.
-
----
-
-## Scene 06 — Blackout
-
-**Time:** approximately 00:18  
-**Location:** Nari's apartment / simultaneous building service beat optional  
-**Thread:** C — electrical irregularity → B — hidden presence  
-**Characters:** Nari; unseen Hyun-woo  
-
-### Entry State
-
-Normal power and ordinary powered devices are active.
+Confirm the home is secure and get on with her evening.
 
 ### Action
 
-A genuine supplied-power loss occurs.
+Nari checks:
+- entry/lock condition
+- windows
+- obvious signs of disturbance
+- important belongings
 
-- room lights die
-- work screen / mains devices die
-- ordinary powered ambience stops
-- Nari's battery phone remains available
-
-### Goal
-
-Nari wants to understand whether this is another brief interruption and get a light.
+Nothing obvious is missing or damaged.
 
 ### Turn
 
-Before she activates a phone light, the dining chair scrapes across the floor.
+Dining chair is slightly out of the position Nari thinks she normally leaves it.
 
-This cannot be dismissed as a remembered earlier position because Nari personally set it in place.
-
-### Exit State
-
-Nari changes from annoyed to alert/fearful and assumes an intruder is present.
-
----
-
-## Scene 07 — Human Sound
-
-**Time:** continuous, seconds later  
-**Location:** same apartment  
-**Thread:** B — hidden presence  
-**Characters:** Nari; unseen Hyun-woo  
-
-### Entry State
-
-Nari is holding/activating her phone and listening.
-
-### Goal
-
-Identify the intruder and protect herself.
-
-### Action
-
-A second unmistakably human sound occurs: breath, fabric movement, or weight shifting.
-
-Nari challenges the darkness.
-
-### Turn
-
-A male voice answers from inside the apartment.
-
-Do not identify him by name.
+The clue is too weak to trust because Nari cannot prove she did not move it herself.
 
 ### Exit State
 
-Nari knows someone is physically present.
+Nari decides to create a known state rather than guess.
 
 ---
 
-## Scene 08 — Claim / Chapter End
+## Scene 05 — Deliberate Chair Position
 
 **Time:** continuous  
-**Location:** apartment living/dining threshold  
-**Thread:** B — Hyun-woo presence / A — Nari home-control conflict  
-**Characters:** Nari; Hyun-woo as obscured silhouette only  
-
-### Entry State
-
-Nari believes an intruder is in her locked home.
+**Location:** dining/living area  
+**Thread:** B — physical continuity marker  
+**Characters:** Nari
 
 ### Goal
 
-Demand identity and explanation.
+Remove self-doubt about the chair.
 
-### Turn
+### Action
 
-Low phone light defines only enough of a tall adult male silhouette to prove a real person is there.
+Nari places the chair in one precise, visually readable position relative to the table/floor geometry.
 
-Nari demands to know who he is / why he is inside her home.
+### Rule
 
-The stranger answers:
+This position becomes continuity authority for the rest of Chapter 001 until the final reader-only movement.
 
-`YOU MOVED INTO MY APARTMENT.`
+### Exit State
+
+Nari can later know whether the chair changed.
+
+---
+
+## Scene 06 — Ordinary Night
+
+**Time:** evening into late night  
+**Location:** Nari's apartment  
+**Thread:** A — ordinary life  
+**Characters:** Nari; optional friend by phone/voice
+
+### Goal
+
+Eat, work, decompress, and eventually sleep.
+
+### Rule
+
+The apartment must feel like a normal home. Do not sustain horror framing continuously.
+
+Whenever the chair is visible, it remains in the deliberate known position.
+
+### Exit State
+
+Nari has no new proof and is tired enough to stop thinking about the complaint.
+
+---
+
+## Scene 07 — Bedtime / Living Area Left Empty
+
+**Time:** late night  
+**Location:** apartment living/dining area → bedroom/other private area  
+**Thread:** A → B  
+**Characters:** Nari
+
+### Action
+
+Nari finishes her night and leaves the living/dining area.
+
+Before the scene releases her, visually confirm:
+- no person is visible
+- chair remains in known position
+- room appears ordinary and empty
+
+Nari becomes unaware of the living area.
+
+### Exit State
+
+Reader is left watching an apparently empty room.
+
+---
+
+## Scene 08 — Reader-Only Movement / Chapter End
+
+**Time:** later that night  
+**Location:** empty living/dining area  
+**Thread:** B — unexplained activity  
+**Characters visible:** none
+
+### Action
+
+Hold on stillness first.
+
+Then:
+- restrained chair scrape `SKRRR`, or
+- silent cut showing the chair has shifted from its precise known position
+
+Prefer the scrape plus a final changed-position image if page rhythm supports it.
+
+### Absolute Reveal Ban
+
+Do not show:
+- Hyun-woo
+- a silhouette
+- hand/foot/body fragment
+- face
+- human shadow
+- speech balloon
+- name
+- roommate claim
+- visible supernatural effect
+- dramatic blackout explanation
+
+### Creator-Only Continuity
+
+A brief genuine supplied-power interruption may occur off-panel during this final-night window so the premise-level physical rule remains internally consistent. The reader is not told that the interruption matters.
 
 ### Exit State — Chapter 001
 
-- Nari: frightened/angry, treating him as an intruder.
-- Hyun-woo: physically present, identity/origin withheld.
-- Power: still out.
-- Door/entry explanation: unresolved.
-- Reader: first undeniable presence confirmed.
-- Chapter 002 must begin from this exact unresolved encounter; do not skip ahead past the immediate confrontation.
+- Nari is unaware the chair moved.
+- reader knows the apartment activity is not simply Nari forgetting her own actions.
+- no human presence has been visually or verbally confirmed.
+- Chapter 002 continues the unauthorized-activity/security mystery rather than immediately explaining the roommate premise.
