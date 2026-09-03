@@ -2,7 +2,7 @@
 
 ## Canon Status
 
-**CORE PREMISE ACTIVE / STORY DESIGN IN PROGRESS.** The retired Manhwa chapter sequence is not canon.
+**CORE PREMISE ACTIVE / OPENING DIRECTION APPROVED.** The retired Manhwa chapter sequence is not canon.
 
 ## Retained Core
 
@@ -30,7 +30,7 @@ The target is **not** to delay information for its own sake. Every chapter must 
 
 ## Working Character Carryovers
 
-The names **Yoon Nari** and **Joo Hyun-woo** are retained as working core identities because they are integral to the existing premise, but their introductions, visual designs, scene order, relationship progression, exact occupations, backstories, and supernatural mechanics may be revised during the rebuild.
+The names **Yoon Nari** and **Joo Hyun-woo** are retained as working core identities because they are integral to the existing premise, but their visual designs, exact occupations, backstories, and deeper supernatural mechanics may still be revised during the rebuild.
 
 Supporting cast from the retired version is not automatically canon. Each returning character must earn a role in the new structure.
 
@@ -54,6 +54,24 @@ The following legacy material is retired and must not be copied into the new Cha
 
 Build the story like a serialized manga: multiple active event threads, controlled reveals, character goals independent of exposition, scene changes across locations, simultaneous events when useful, quiet pages beside dense pages, strong page turns, and chapter endings that create forward pressure.
 
+## Approved Opening Philosophy
+
+The manga does **not** immediately dramatize the title premise.
+
+Chapter 001 opens as an ordinary apartment-security mystery:
+
+- Nari is away from home
+- a neighbor hears footsteps / furniture movement from Nari's apartment
+- ordinary access history does not show a clean entry explanation
+- Nari deliberately establishes a known dining-chair position
+- reader-only ending proves the chair later moved while Nari was not watching
+
+Chapter 001 does not show or identify Hyun-woo and does not explain the blackout connection.
+
+The early Arc 01 reveal sequence is deliberately gradual:
+
+**unexplained activity → security contradiction → physical-state contradiction → electrical correlation → unseen human presence → voice → human reveal → condition testing → coexistence**
+
 ## Decisions Still Open
 
 - final Arc 01 title
@@ -61,4 +79,7 @@ Build the story like a serialized manga: multiple active event threads, controll
 - final supporting cast for Arc 01
 - long-range antagonist structure
 - final Chapter 001 title
+- final Chapter 001 page count if pacing review changes the 34–36 page target
+- Nari's final occupation/design
+- Hyun-woo's final occupation/design
 - final visual designs and reusable reference packages
