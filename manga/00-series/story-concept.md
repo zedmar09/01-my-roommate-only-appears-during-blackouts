@@ -2,7 +2,7 @@
 
 ## Canon Status
 
-**RESET IN PROGRESS.** This file is the new premise-level authority. The retired Manhwa chapter sequence is not canon.
+**CORE PREMISE ACTIVE / STORY DESIGN IN PROGRESS.** The retired Manhwa chapter sequence is not canon.
 
 ## Retained Core
 
@@ -11,6 +11,22 @@
 - The central impossible relationship is between an ordinary adult protagonist and a mysterious roommate whose physical presence is tied to genuine blackouts / loss of ordinary supplied power.
 - The mystery should expand beyond a single haunted-room gimmick into a larger question about identity, records, memory, infrastructure, and why this person cannot exist normally.
 - Ordinary domestic life and unsettling supernatural events should coexist.
+
+## Long-Form Target — Locked Direction
+
+The manga is designed to sustain **100+ chapters** without rushing the central mystery or artificially padding scenes.
+
+Long-form pacing must come from:
+
+- layered mysteries that answer smaller questions before larger ones
+- relationship development through repeated shared experiences rather than immediate romance
+- multiple active event threads across characters and locations
+- ordinary-life consequences that continue while the supernatural mystery grows
+- arc-level local resolutions that open deeper questions
+- new situations created by previous choices rather than repeated haunted-apartment incidents
+- controlled reveal budgets so early chapters do not spend late-story answers
+
+The target is **not** to delay information for its own sake. Every chapter must move character, situation, relationship, investigation, or consequence forward.
 
 ## Working Character Carryovers
 
@@ -40,12 +56,9 @@ Build the story like a serialized manga: multiple active event threads, controll
 
 ## Decisions Still Open
 
-- exact opening scene and viewpoint
-- when Nari and Hyun-woo first meet on-page
-- whether Chapter 1 starts before, during, or after Nari's arrival at the key location
-- which parallel event thread opens the series
-- exact supernatural thresholds and costs
-- final supporting cast for Arc 1
-- Arc 1 antagonist structure
-- Chapter 1 page count and title
-- first-page composition
+- final Arc 01 title
+- exact supernatural thresholds and costs beyond the premise-level blackout link
+- final supporting cast for Arc 01
+- long-range antagonist structure
+- final Chapter 001 title
+- final visual designs and reusable reference packages
