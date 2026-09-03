@@ -9,7 +9,7 @@ There is no book/volume publication layer. Story organization is intentionally s
 - **Series** — the complete long-form story and canon
 - **Arc** — a major narrative problem, mystery phase, or relationship movement
 - **Chapter** — one serialized installment inside an arc
-- **Page** — the visual storytelling unit used for manga generation
+- **Page** — the visual storytelling and generation unit
 
 The active project root is `manga/`.
 
@@ -19,24 +19,28 @@ The active project root is `manga/`.
 2. `manga/01-style/` — black-and-white manga visual grammar and style references
 3. `manga/02-references/` — approved character, environment, object, and effect canon packages (`.md` + `.webp`)
 4. `manga/03-story/` — arcs and their chapters
-5. `manga/04-production/` — one self-contained master production Markdown per chapter plus approved final manga page WebPs
+5. `manga/04-production/` — one self-contained production Markdown per manga page plus approved final page WebPs
 
-## Single-File Chapter Production
+## One Page = One Production Markdown
 
-Every production chapter uses exactly one generation-authority Markdown file:
+Production is page-based, not one giant chapter prompt.
+
+Example:
 
 ```text
 manga/04-production/arc-01/chapter-001/
-├── chapter-001-production.md
-└── pages/
-    ├── page-001.webp
-    ├── page-002.webp
-    └── ...
+├── page-001-production.md
+├── page-001.webp
+├── page-002-production.md
+├── page-002.webp
+└── ...
 ```
 
-`chapter-001-production.md` contains the complete chapter-generation package: requirements, approved reference paths, complete generation-ready script, page map, panel instructions, per-page attach sets, complete image-generation prompts, continuity rules, QA gates, and approval status.
+Each `page-###-production.md` contains everything required to generate that exact page: required attachments and exact repository paths, page dimensions/aspect ratio, scenario, chronology, event thread, continuity, panel layout/sizes, character blocking, actions, reactions, environments, objects, effects, exact dialogue/narration/SFX, full deterministic generation instructions, rejection conditions, QA, and approval status.
 
-No separate page prompt/blueprint/manifest/QA Markdown files are used. The `pages/` folder contains approved page images only.
+One page must not be split into separate blueprint, prompt, manifest, script, or QA Markdown files.
+
+The approved `.webp` sits beside its page-production MD and becomes local visual continuity authority for the next page.
 
 ## Canon Reset
 
