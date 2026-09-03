@@ -19,9 +19,25 @@
 
 Page 001 must be produced in two separate generation stages.
 
-### STAGE A — HUMAN-DRAWN PAGE LAYOUT SKETCH
+### STAGE A — HUMAN-DRAWN CONTENT-FILLED MANGA LAYOUT SKETCH
 
 Generate and approve the manga page layout sketch first.
+
+**Important:** this is **NOT** an empty panel template, wireframe, or page of blank boxes. The sketch must contain rough readable story content inside every panel, like a real manga artist's `name` / storyboard rough.
+
+The Stage A sketch must already show, in simplified rough form:
+
+- panel borders and reading flow
+- rough camera framing
+- Nari's rough placement, pose, facing direction and hand action
+- coworker placement and gesture
+- rough office perspective / desk / books / proof-page placement
+- major props needed to understand each shot
+- rough facial acting sufficient to read the beat
+- speech-balloon shapes and approximate placement
+- the late-night/time-proof idea in Panel 4
+
+The Stage A sketch does **not** need final anatomy, clean ink, detailed textures, final screentone, polished backgrounds or finished rendering. Its purpose is to lock storytelling, staging and composition with enough inside-panel content that Stage B has nothing major left to invent.
 
 Output review candidate:
 
@@ -185,11 +201,15 @@ Target: **4 panels**, read right-to-left / top-to-bottom.
 
 The Stage A sketch must establish a clear real-manga page rhythm rather than a rigid four-equal-box template.
 
+**Every panel must contain rough readable interior content. Empty rectangles are an automatic reject.**
+
 ### Panel 1 — Office Establishing
 
 - dominant upper establishing panel
-- Nari clearly visible at her recurring desk
-- editorial workplace is immediately readable
+- rough office perspective visible inside the panel
+- Nari clearly sketched at her recurring desk
+- rough desk, printed proofs, books/reference material and neighboring desks visible
+- editorial workplace is immediately readable even at rough-sketch level
 - manuscripts/proofs/books are more important than computer screens
 - some desks already empty
 - ordinary night visible through windows only if consistent with workplace atlas
@@ -198,30 +218,38 @@ The Stage A sketch must establish a clear real-manga page rhythm rather than a r
 ### Panel 2 — Coworker Check-In
 
 - smaller dialogue panel on the right side of the middle reading band
-- unnamed coworker near Nari's desk, preparing to leave
+- unnamed coworker roughly drawn near Nari's desk, preparing to leave
+- readable body gesture / bag-or-coat cue
+- Nari's spatial relationship to coworker remains understandable
 - ordinary adult workplace interaction
+- rough speech balloon placed in composition
 - dialogue: `You're still here?`
 
 ### Panel 3 — Nari Working
 
 - larger character/work panel to the left of Panel 2
 - medium-close or equivalent natural manga framing
+- rough but readable Nari face, hair, shoulders, arms and hands
 - Nari continues handling printed proofs
+- one hand marks/holds proof pages; other stabilizes pages naturally
 - expression tired, composed and mildly resigned
+- rough speech balloon placed before final art
 - dialogue: `Just one more pass.`
 
 ### Panel 4 — Time / Location Proof
 
 - lower quiet atmosphere panel with breathing room
-- Nari still working
+- rough office environment and Nari still working are both visible
 - surrounding office mostly quiet/empty
 - ordinary non-text cues make it clear that it is after midnight
-- an analog wall clock may indicate approximately 12:25–12:30
+- an analog wall clock may be roughly placed to indicate approximately 12:25–12:30
 - no dialogue
 
 ### Stage A composition rule
 
 The sketch may adjust exact panel percentages to achieve a natural manga page, but it must preserve the four narrative beats and right-to-left readability above.
+
+The sketch must be **content-filled but rough**: it should be possible to understand the entire page without imagining missing characters, poses, props, camera angles or balloon positions.
 
 Once Stage A is approved, **its exact panel shapes, relative sizes, shot placement, character blocking, major prop placement, negative space and balloon placement become locked for Stage B**.
 
@@ -312,13 +340,24 @@ The most important visual requirement is that the page looks **drawn by a human 
 
 ### Stage A specifically
 
-The layout sketch must look like a genuine manga artist's production sketch / name / rough page:
+The layout sketch must look like a genuine manga artist's production sketch / `name` / rough page.
+
+It is **not panel-only layout**. Inside the panels, include rough content:
+
+- simplified heads/faces and body masses
+- readable poses and gestures
+- rough hand positions where story-relevant
+- simplified office perspective and furniture
+- rough manuscripts/books/desk props
+- speech-balloon shapes and placement
+- enough expression to read each beat
+
+Keep all of that intentionally rough:
 
 - rough confident pencils or light rough inks
 - simplified but readable anatomy
 - clear panel borders
 - clear staging
-- balloon placement visible
 - no polished rendering
 - no finished cinematic shading
 - no dramatic value painting
@@ -368,13 +407,17 @@ Do not use:
 
 ## 14. STAGE A GENERATION INSTRUCTION
 
-Create exactly **ONE 1024×1536 portrait black-and-white HUMAN-DRAWN MANGA PAGE LAYOUT SKETCH** for Chapter 001 Page 001.
+Create exactly **ONE 1024×1536 portrait black-and-white CONTENT-FILLED HUMAN-DRAWN MANGA PAGE LAYOUT SKETCH** for Chapter 001 Page 001.
 
-This is not the final illustration. It is a manga artist's page-production sketch / rough page used to lock panel composition before final art.
+This is not the final illustration, and it is not an empty panel template. It is a manga artist's page-production `name` / storyboard rough used to lock the page before final art.
+
+**Draw rough story content inside every panel.** Show the rough characters, poses, gestures, office perspective, desks, printed proof pages, major props, facial acting and speech-balloon placement described above. Keep those elements simplified and sketchy, but do not leave any panel as an empty box or abstract placeholder.
 
 Use the attached Nari canonical only to keep Nari recognizable and the workplace atlas only to keep the office spatially correct. Do not reproduce their polished rendering. Do not attach or imitate Style A/B.
 
-Draw exactly the four story beats defined in this production file. Use organic rough pencil/ink lines, simple readable staging, conventional manga gutters, right-to-left reading order and visible balloon placement. Keep white paper dominant. Do not render cinematic lighting, glossy shading, dramatic black masses or finished key-art detail.
+Draw exactly the four story beats defined in this production file. Use organic rough pencil/ink lines, simplified readable anatomy, conventional manga gutters, right-to-left reading order and visible balloon placement. Keep white paper dominant. Do not render cinematic lighting, glossy shading, dramatic black masses or finished key-art detail.
+
+The sketch is successful when a manga artist could use it directly as the staging/composition blueprint for final inks without inventing new framing, poses, panel content or balloon locations.
 
 Output conceptually as:
 
@@ -388,6 +431,11 @@ The PNG must be reviewed before conversion to `page-001-layout-sketch.webp`.
 
 Reject/regenerate the layout sketch if:
 
+- any panel is only an empty box / wireframe / placeholder
+- characters or story action are missing inside panels
+- camera/framing is not readable from the rough content
+- major office/desk/prop placement is absent
+- rough speech-balloon locations are absent in dialogue panels
 - it looks like finished key art instead of a manga production sketch
 - panel order is unclear or left-to-right
 - four core story beats are not present
@@ -395,7 +443,6 @@ Reject/regenerate the layout sketch if:
 - workplace no longer reads as publishing/editorial
 - composition is rigid or cinematic rather than manga-page-like
 - heavy black/cinematic shading dominates
-- balloon locations are missing or unreadable
 - anatomy/blocking cannot support final art
 - output is not 1024×1536 portrait
 
@@ -468,12 +515,15 @@ At page end:
 - [ ] workplace atlas attached
 - [ ] Style A/B NOT attached
 - [ ] `page-001-layout-sketch.png` generated
+- [ ] every panel contains rough readable story content
+- [ ] no panel is only an empty box / wireframe placeholder
+- [ ] rough character poses/blocking are readable
+- [ ] rough office/prop placement is readable
+- [ ] rough balloon placement is visible
 - [ ] human-drawn manga production-sketch look confirmed
 - [ ] four beats present
 - [ ] right-to-left flow confirmed
 - [ ] panel composition approved
-- [ ] blocking approved
-- [ ] balloons approved
 - [ ] no cinematic/heavy-black drift
 - [ ] exact approved PNG manually converted to `page-001-layout-sketch.webp`
 - [ ] approved sketch committed under production folder
