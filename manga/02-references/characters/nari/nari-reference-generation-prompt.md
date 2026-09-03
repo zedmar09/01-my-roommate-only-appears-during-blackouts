@@ -2,29 +2,41 @@
 
 ## Status
 
-**TEXT APPROVED — WAITING FOR SERIES STYLE WEBP APPROVAL.**
+**VISUAL APPROVED — CANONICAL WEBP EXISTS.**
 
-Do not generate Nari until this final approved style authority exists:
+Approved final visual authority:
 
-`manga/01-style/reference-style/series-manga-style-reference.webp`
+`manga/02-references/approved-webp/nari-canonical.webp`
 
-## Output Format Workflow
+The original PNG review candidate was approved and manually converted to this WebP.
 
-ChatGPT/image generation should first create the review candidate as:
+## Required WebP Attachments For Any Future Regeneration
 
-`nari-canonical.png`
+Attach exactly:
 
-The PNG is intermediate only. After visual approval, the user manually converts that exact approved PNG to the final repository authority:
+1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
 
-`manga/02-references/characters/nari/nari-canonical.webp`
-
-Do not ask the image generator to output WebP directly.
-
-## Required Attachments / Authorities
+Also consult:
 
 - `manga/02-references/characters/nari/canon.md`
 - `manga/01-style/manga-style-lock.md`
-- approved `manga/01-style/reference-style/series-manga-style-reference.webp`
+
+**Authority rule:** `canon.md` controls who Nari is. Style A/B control only how manga art is rendered. Do not copy the generic subjects from either style sheet into Nari's identity.
+
+See `manga/02-references/generation-attachment-map.md` before regeneration.
+
+## Output Format Workflow
+
+If Nari must ever be regenerated, ChatGPT/image generation first produces:
+
+`nari-canonical.png`
+
+The PNG is review-only. After visual approval, the user manually converts that exact accepted PNG to:
+
+`manga/02-references/approved-webp/nari-canonical.webp`
+
+Do not ask the image generator to output WebP directly.
 
 ## Generation Instruction
 
@@ -33,6 +45,12 @@ Create exactly ONE reusable BLACK-AND-WHITE MANGA CHARACTER MODEL SHEET / ATLAS 
 
 OUTPUT FORMAT
 Return/generate the first review candidate as PNG. The user will manually convert the exact approved PNG to WebP after visual review. Do not treat the PNG as final repository canon.
+
+ATTACHED VISUAL AUTHORITIES
+- Style Reference A controls broad finished-manga character/anatomy/ink/hatching language.
+- Style Reference B complements it with adult-female, ordinary-life, domestic and restrained-expression rendering language.
+- Neither style reference defines Nari's face, hairstyle, body identity, outfit identity, or personality.
+- Nari's canon MD is the identity authority.
 
 This is a production reference sheet, NOT a manga story page, cover, splash illustration, or colored character art.
 
@@ -91,10 +109,11 @@ D. Hand/action detail insets: holding/marking a manuscript or proof, holding pho
 E. One home-outfit full-body/inset and one simple low-tie hair variation. These are the same woman, not alternate identities.
 
 MANGA STYLE
-Follow the attached approved series manga style reference:
+Follow both attached approved series manga style references:
 - black-and-white ink only
 - natural human-drawn line variation
 - selective screentone/hatching
+- finished published-manga inks, not rough construction sketch
 - clean white background for model-sheet readability
 - no glossy highlights
 - no cinematic lighting
@@ -114,6 +133,7 @@ AUTOMATIC REJECT IF
 - face/hair/body changes between angles
 - hair becomes short or changes length
 - glasses appear as permanent design
+- Style B's generic woman is copied as Nari rather than following Nari canon
 - legacy colored-Manhwa accessory styling appears
 - workwear reads as tech/game/cyber office costume
 - home outfit is sexualized/glamorous
@@ -121,9 +141,13 @@ AUTOMATIC REJECT IF
 - any color/glossy/cinematic/photoreal/3D/painterly rendering appears
 
 FINAL GOAL
-A stable reusable black-and-white manga PNG review candidate for Nari. After approval and manual conversion to WebP, it becomes the identity authority supporting ordinary publishing-office scenes, home life, subtle comedy, skeptical investigation, and later supernatural tension without making her look like a technical specialist or action heroine.
+A stable reusable black-and-white manga PNG review candidate for Nari. After approval and manual conversion to WebP, it becomes the identity authority supporting ordinary publishing-office scenes, home life, subtle comedy, skeptical investigation, and later supernatural tension.
 ```
 
 ## Approval Gate
 
-After PNG generation, mark `VISUAL REVIEW` first. Only move to `APPROVED` after verifying identity consistency, adult age, hair geometry, body proportions, work/home outfits, hand quality, and match to the series manga style reference; then manually convert that exact approved PNG to `nari-canonical.webp` and commit the WebP.
+Current approved authority:
+
+`manga/02-references/approved-webp/nari-canonical.webp`
+
+Do not replace it unless a deliberate regeneration passes the same identity/style/continuity audit and the replacement is explicitly approved.
