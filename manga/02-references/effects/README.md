@@ -1,13 +1,12 @@
-# Effects References
+# Effect References
 
-Define reusable manga treatment for supernatural and high-energy effects only after new world mechanics are approved.
+Use effect canonicals only for recurring visual phenomena that need recognizable continuity, such as supernatural marks, electrical/blackout manifestations, recurring impact language, or special transformation states.
 
-Possible future sheets:
+```text
+<effect-id>/
+├── canon.md
+├── <effect-id>-reference-generation-prompt.md
+└── <effect-id>-atlas.webp
+```
 
-- supernatural manifestation atlas
-- electrical disturbance atlas
-- blackout atmosphere values
-- motion / impact vocabulary
-- memory or distortion effects
-
-Effects must remain black-and-white manga language: ink, negative space, screentone, hatching, distortion, speed/impact lines—not neon color or CGI glow.
+Effects must remain black-and-white manga language: ink, white negative space, screentone, hatching, speed/impact lines, and controlled graphic distortion rather than colored glow or cinematic VFX.

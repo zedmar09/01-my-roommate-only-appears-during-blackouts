@@ -1,7 +1,18 @@
-# 02-references
+# Canonical Manga References
 
-Demand-driven visual canon for manga production.
+This directory stores reusable visual authorities required for stable manga generation.
 
-Do **not** generate a large reference library before the rewritten story requires it. Create references only when a recurring character, environment, object, or effect appears in an approved story plan.
+References are **demand-driven**. Do not generate a character, location, object, or effect package until an approved story/chapter actually needs it.
 
-Prefer atlas sheets that solve several continuity needs in one generation.
+## Reference Types
+
+- `characters/`
+- `environments/`
+- `objects/`
+- `effects/`
+
+Every recurring reference package combines text canon (`.md`) with one or more approved black-and-white visual authorities (`.webp`). See `reference-package-standard.md`.
+
+`reference-register.md` records which references are approved and safe for production.
+
+A production page may reference only files whose status is APPROVED. Exact repository paths must be copied into the page reference manifest; never rely on a vague character/location name.

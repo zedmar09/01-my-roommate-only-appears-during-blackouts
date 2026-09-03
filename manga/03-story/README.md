@@ -1,18 +1,25 @@
-# 03-story
+# Story Architecture
 
-Narrative construction only. This layer decides what happens before page-generation prompts exist.
+The story hierarchy is intentionally limited to **arcs and chapters**. There is no volume/publication layer.
 
-Order of work:
+```text
+03-story/
+├── arc-01/
+│   ├── arc-bible.md
+│   ├── arc-outline.md
+│   ├── event-thread-map.md
+│   ├── mystery-progression.md
+│   └── chapter-001/
+│       ├── chapter-outline.md
+│       ├── scene-sequence.md
+│       ├── parallel-events.md
+│       ├── dialogue-script.md
+│       ├── page-map.md
+│       └── reference-needs.md
+└── arc-02/
+    └── ...
+```
 
-1. volume purpose
-2. arc purpose
-3. event-thread map
-4. chapter purpose
-5. chapter outline
-6. scene sequence
-7. parallel-event map
-8. dialogue script
-9. page map
-10. handoff to `04-production/`
+`03-story/` decides **what happens and why**. It does not contain image-generation prompts or rendered pages.
 
-Do not skip directly from premise to image prompt.
+An arc may contain as many chapters as the story needs. Chapter length and page count are story-driven, not fixed quotas.

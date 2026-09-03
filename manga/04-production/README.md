@@ -1,22 +1,16 @@
-# 04-production
+# Manga Page Production
 
-Page-generation packages live here only after story approval.
-
-Recommended structure:
+`04-production/` contains generation-ready packages and approved rendered manga pages. It mirrors the story's arc/chapter organization and has **no volume layer**.
 
 ```text
-volume-01/
-  chapter-001/
-    README.md
-    page-001/
-      page-001-blueprint.md
-      page-001-image-prompt.md
-      page-001.png
-      page-001-qc.md
+04-production/
+└── arc-01/
+    └── chapter-001/
+        ├── chapter-production.md
+        ├── chapter-reference-manifest.md
+        └── pages/
 ```
 
-## Sequential Authority
+The normal generation unit is **one complete manga page**, containing however many panels the approved page map requires. Do not force a fixed panel count.
 
-A page may use the immediately previous **approved** page for local continuity, but it must never override series canon, story files, style rules, or approved reference atlases.
-
-No old vertical strips are valid production inputs.
+Every page is blocked until its exact reference manifest is complete. See `generation-standard.md` and `page-package-standard.md`.

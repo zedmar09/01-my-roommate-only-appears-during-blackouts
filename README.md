@@ -1,30 +1,30 @@
 # My Roommate Only Appears During Blackouts
 
-This repository is undergoing a full production reset from the retired full-color vertical Manhwa pipeline to a page-based black-and-white manga pipeline.
+This repository is the active **black-and-white manga** version of the project.
 
-## Active Format
+## Active Story Model
 
-**Manga only.**
+There is no book/volume publication layer. Story organization is intentionally simple:
+
+- **Series** — the complete long-form story and canon
+- **Arc** — a major narrative problem, mystery phase, or relationship movement
+- **Chapter** — one serialized installment inside an arc
+- **Page** — the visual storytelling unit used for manga generation
 
 The active project root is `manga/`.
 
-The previous `Manhwa/`, root `Character-References/`, root `Covers/`, legacy strip prompts, full-color flat-2D canonicals, old Chapter 1 production flow, and previous arc/chapter production plans are retired from active canon. They remain recoverable through Git history only and must not be used as current production authority.
+## Production Stack
 
-## Premise Status
+1. `manga/00-series/` — series concept, world rules, continuity, chronology, relationships, and arc roadmap
+2. `manga/01-style/` — black-and-white manga visual grammar and style references
+3. `manga/02-references/` — approved character, environment, object, and effect canon packages (`.md` + `.webp`)
+4. `manga/03-story/` — arcs and their chapters
+5. `manga/04-production/` — chapter/page generation packages, exact reference manifests, prompts, rendered pages, and QA
 
-The title and core supernatural concept are retained: an adult urban mystery/romance centered on a roommate whose physical presence is tied to real blackouts or loss of ordinary supplied power.
+## Canon Reset
 
-Everything about how the story begins is being rebuilt. The old Chapter 1 is non-canon: its move-in sequence, exact first meeting, landlord-warning order, noodle encounter, device demonstrations, dialogue, reveal timing, scene order, and strip rhythm must not be inherited automatically.
+The previous full-color vertical Manhwa production is retired and recoverable only through Git history. The old Chapter 1 sequence is not canon. The title and premise-level supernatural relationship remain, but the story flow, character entrances, reveals, dialogue, and chapter structure are being rebuilt for manga from the beginning.
 
-## New Production Stack
+## Visual Lock
 
-1. `manga/00-series/` — series concept, canon, continuity, timelines, long-form architecture
-2. `manga/01-style/` — black-and-white manga visual grammar
-3. `manga/02-references/` — demand-driven character, environment, object, and effect atlases
-4. `manga/03-story/` — volume, arc, chapter, scene, dialogue, parallel-event, and page maps
-5. `manga/04-production/` — page-by-page generation packages and QA
-6. `manga/05-covers/` — volume and chapter cover production
-
-## Reset Principle
-
-This is not a redraw of the old webtoon chapter. It is a new manga canon built from the premise level upward.
+Black-and-white only: hand-drawn pencil/ink impression, variable line weight, screentones, hatching, solid blacks, expressive manga simplification, and story-driven variable panel composition. No full-color webtoon rendering, glossy finish, cinematic grading, photorealism, CGI, or 3D-render look.

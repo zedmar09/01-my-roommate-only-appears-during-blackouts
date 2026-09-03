@@ -1,16 +1,16 @@
 # Environment References
 
-Create an environment atlas only after the new story requires a recurring location.
+Create environment references only for locations that need recurring spatial continuity.
 
-Preferred pack:
+Typical package:
 
-- simple layout/floor relationship
-- primary establishing view
-- reverse view
-- two or more useful scene angles
-- critical doors/windows/fixtures
-- scale anchors
+```text
+<location-id>/
+├── canon.md
+├── <location-id>-reference-generation-prompt.md
+├── <location-id>-master-atlas.webp
+├── <location-id>-floor-plan.webp   # optional
+└── details/                        # optional
+```
 
-The goal is to reduce repeated image generation while preventing geography drift.
-
-Do not automatically recreate Unit 2407 exactly as it existed in the retired Manhwa version; its design may be rebuilt with the new story.
+Use one strong multi-angle atlas whenever possible to reduce image-generation count. Repeated manga pages may change camera, crop, lighting state, and character blocking without changing canonical geometry.

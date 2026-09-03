@@ -1,7 +1,11 @@
-# Reference Style
+# Style Reference Images
 
-Store only approved project-owned or properly usable visual-style references here if they are later committed.
+Store only approved **black-and-white manga style-reference images** here.
 
-The current directional reference supplied in conversation establishes medium-level goals only: black-and-white manga, hand-drawn ink/sketch feeling, screentone/hatching, varied panel sizes, compact reaction panels, larger scene panels, and conventional page storytelling.
+Preferred repository format: lossless or visually lossless `.webp`.
 
-Never copy specific characters, dialogue, logos, or exact panel layouts from another manga.
+A style reference controls broad visual language only: hand-drawn ink/sketch character rendering, screentone density, hatching behavior, solid-black usage, background-detail balance, panel-border character, and printed-manga feeling.
+
+It does **not** override story canon, character identity, environment geometry, prop identity, dialogue, or page-specific composition.
+
+When a page uses a style-reference image, the exact repository path must be listed in that page's `page-###-reference-manifest.md`.

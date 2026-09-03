@@ -1,7 +1,12 @@
 # Object References
 
-Use shared prop atlases for ordinary recurring objects. Give an object its own canonical sheet only if story continuity truly depends on exact identity or mechanics.
+Create individual object packages only for recurring or plot-critical props whose design must stay stable.
 
-Possible atlas entries may include phones, keys, breakers, flashlights, bags, appliances, tools, cups, notebooks, or other recurring props once the rewritten story needs them.
+```text
+<object-id>/
+├── canon.md
+├── <object-id>-reference-generation-prompt.md
+└── <object-id>-canonical.webp
+```
 
-Old Manhwa object canonicals are retired.
+Minor related props should be grouped into a single approved black-and-white prop atlas when that reduces generation work without harming continuity.
