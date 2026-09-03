@@ -12,7 +12,7 @@ Dialogue must stay economical. Chapter 001 is a security mystery, not a supernat
 
 Prefer almost no dialogue from the apartment-building side.
 
-At Nari's workplace, use ordinary work chatter only if needed to prove she is still away from home.
+At Nari's publishing-company workplace, use ordinary editorial work chatter only if needed to prove she is still away from home.
 
 Example optional line:
 
@@ -20,7 +20,9 @@ Example optional line:
 `You're still here?`
 
 **NARI**  
-`Unfortunately, so is the bug.`
+`Unfortunately, so are the proofs.`
+
+The desk/background may show manuscripts, page proofs, correction notes, reference books, or other ordinary publishing work. Do not turn the scene into technical-computer exposition.
 
 Do not mention the apartment mystery yet.
 
@@ -32,7 +34,7 @@ Beat.
 
 `SKRRR`
 
-The neighbor checks the time.
+The neighbor directly below checks the time.
 
 No voice from inside Nari's apartment.
 
@@ -152,7 +154,7 @@ Example:
 **NARI**  
 `I regret telling you anything.`
 
-The conversation may end on an unrelated work/social topic so the chapter is not tonally trapped in suspense.
+The conversation may end on an unrelated manuscript, deadline, meal, weekend, or social topic so the chapter is not tonally trapped in suspense.
 
 ---
 
@@ -181,7 +183,7 @@ After stillness:
 
 `SKRRR`
 
-Final visual: the dining chair is no longer in the precise position Nari deliberately established.
+Final visual: the second dining chair is no longer in the precise position Nari deliberately established.
 
 **END CHAPTER 001.**
 
