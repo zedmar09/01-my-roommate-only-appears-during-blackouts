@@ -10,7 +10,25 @@ Approved visual authority:
 
 `manga/02-references/approved-webp/nari-canonical.webp`
 
-The approved WebP controls Nari's exact face/hair/body/outfit identity. Style references control rendering language only.
+The approved WebP controls Nari's exact face/hair/body/outfit identity.
+
+## Story-Page Attachment Policy
+
+When Nari is visible on a story page, attach:
+
+`manga/02-references/approved-webp/nari-canonical.webp`
+
+unless the exact page-production MD states otherwise.
+
+Do **not** automatically attach Style A/B merely because Nari appears.
+
+Story-page rendering follows:
+
+- `manga/01-style/manga-style-lock.md`
+- the exact current page-production MD
+- `manga/02-references/generation-attachment-map.md`
+
+Style A/B remain reference-development assets and may be used for rebuilding reference packages when explicitly requested, but they are not required Nari story-page attachments.
 
 ## Identity
 
@@ -110,19 +128,6 @@ Approved identity must support:
 - alert / guarded
 - grounded fear
 
-## Required Manga Style Attachments
-
-When Nari appears in generation, use the approved rendering authorities as needed:
-
-- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-
-For Nari identity itself, always attach:
-
-- `manga/02-references/approved-webp/nari-canonical.webp`
-
-Style A/B must never override or replace Nari's canonical identity.
-
 ## Continuity Rules
 
 The canonical WebP controls:
@@ -144,6 +149,18 @@ Page production controls temporary:
 - carried objects
 - story-specific damage/wetness/injury
 
+## Final Manga Rendering Rule
+
+Nari's final story-page appearance must be rendered as finished 2D black-and-white manga:
+
+- clean inks
+- natural line-weight variation
+- screentone/hatching as appropriate
+- flat graphic blacks where appropriate
+- no construction-sketch residue
+- no cinematic lighting
+- no glossy/painterly/photoreal/3D treatment
+
 ## Automatic Reject
 
 Reject generated Nari art if:
@@ -155,4 +172,4 @@ Reject generated Nari art if:
 - she becomes significantly more glamorous/model-like than the canonical atlas
 - retired Manhwa accessories/design are silently reintroduced
 - work outfit becomes futuristic/technical/game-studio/cyberpunk
-- rendering becomes color, glossy, cinematic, photoreal, painterly, CGI or 3D-like
+- final story-page rendering becomes rough unfinished sketch, color, glossy, cinematic, photoreal, painterly, CGI or 3D-like
