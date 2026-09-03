@@ -17,15 +17,35 @@ The active project root is `manga/`.
 
 1. `manga/00-series/` — series concept, world rules, continuity, chronology, relationships, and arc roadmap
 2. `manga/01-style/` — black-and-white manga visual grammar and style references
-3. `manga/02-references/` — approved character, environment, object, and effect canon packages (`.md` + `.webp`)
+3. `manga/02-references/` — character, environment, object, and effect canon packages (`.md` + final approved `.webp` authorities)
 4. `manga/03-story/` — arcs and their chapters
-5. `manga/04-production/` — one self-contained production Markdown per manga page plus approved final page WebPs
+5. `manga/04-production/` — one self-contained production Markdown per manga page plus final approved page WebPs
+
+## Image Format Workflow
+
+**ChatGPT/image generation always gives PNG first.**
+
+The project workflow is:
+
+1. generate a `.png` candidate
+2. visually review that PNG
+3. if approved, the user manually converts that exact PNG to `.webp`
+4. only the WebP is stored/committed as final visual authority
+
+So:
+
+- PNG = generated review candidate
+- WebP = approved final repository authority
+
+Do not ask image generation to output WebP directly.
+
+See `manga/02-references/image-format-workflow.md`.
 
 ## One Page = One Production Markdown
 
 Production is page-based, not one giant chapter prompt.
 
-Example:
+Final repository structure example:
 
 ```text
 manga/04-production/arc-01/chapter-001/
@@ -36,11 +56,13 @@ manga/04-production/arc-01/chapter-001/
 └── ...
 ```
 
-Each `page-###-production.md` contains everything required to generate that exact page: required attachments and exact repository paths, page dimensions/aspect ratio, scenario, chronology, event thread, continuity, panel layout/sizes, character blocking, actions, reactions, environments, objects, effects, exact dialogue/narration/SFX, full deterministic generation instructions, rejection conditions, QA, and approval status.
+Before those WebPs exist, ChatGPT/image generation produces `page-001.png`, `page-002.png`, etc. for review. The user manually converts only the accepted PNGs to the matching WebPs.
+
+Each `page-###-production.md` contains everything required to generate that exact page: required attachments and exact repository paths, PNG candidate filename, final WebP filename, page dimensions/aspect ratio, scenario, chronology, event thread, continuity, panel layout/sizes, character blocking, actions, reactions, environments, objects, effects, exact dialogue/narration/SFX, full deterministic generation instructions, rejection conditions, QA, and approval status.
 
 One page must not be split into separate blueprint, prompt, manifest, script, or QA Markdown files.
 
-The approved `.webp` sits beside its page-production MD and becomes local visual continuity authority for the next page.
+The final approved `.webp` sits beside its page-production MD and becomes local visual continuity authority for the next page.
 
 ## Canon Reset
 
