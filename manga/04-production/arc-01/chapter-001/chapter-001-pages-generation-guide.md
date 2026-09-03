@@ -2,15 +2,20 @@
 
 ## Status
 
-**APPROVED PRODUCTION GUIDE — SEPARATE LAYOUT-REFERENCE + FINAL 2D MANGA WORKFLOW.**
+**APPROVED PRODUCTION GUIDE — DIRECT FINAL-PAGE WORKFLOW.**
 
-This file controls production workflow for all 36 Chapter 001 pages. Story authority remains under `manga/03-story/`.
+Chapter 001 story pages are generated directly from their exact `page-###-production.md` files plus only the canonical visual references needed for that page.
+
+A separate layout-reference step is **not part of the normal workflow**.
+
+Story authority remains under `manga/03-story/`.
 
 See also:
 
-- `manga/04-production/layout-reference-workflow.md`
 - `manga/04-production/page-production-standard.md`
+- `manga/01-style/manga-style-lock.md`
 - `manga/01-style/reader-visible-language-lock.md`
+- `manga/02-references/generation-attachment-map.md`
 
 ---
 
@@ -24,41 +29,17 @@ The chapter must not reveal Hyun-woo, a roommate claim, the blackout rule or the
 
 ---
 
-## Global Reader-Visible Language Lock — ENGLISH ONLY
+## Normal Production Sequence
 
-Every Chapter 001 final page uses **English only** for all reader-visible text.
+For every page, the default sequence is:
 
-This includes:
+`page-###-production.md → final page PNG → visual review → approved final WebP`
 
-- dialogue
-- thoughts
-- narration/captions
-- SFX
-- story-required signs/labels/UI/notes
+Do not generate an additional layout-reference image unless direct generation has repeatedly failed and the user explicitly chooses the troubleshooting workflow.
 
-Rules:
+Final approved page example:
 
-- copy exact English wording from the approved story/dialogue authorities into each final `page-###-production.md`
-- never translate English dialogue into Japanese, Korean, Chinese or another language
-- never invent non-English lettering or fake multilingual glyphs
-- never invent readable background text
-- omit readable books, binders, documents, signs, screens and notes unless story-required
-- when story-required background text exists, it must be exact approved English
-- English/Latin-letter SFX only, matching the exact page script
-
-### Layout-reference rule
-
-All Chapter 001 layout-reference images use **zero readable text by default**:
-
-- dialogue balloons EMPTY
-- thought balloons EMPTY
-- caption boxes empty if placement is needed
-- no SFX letters
-- no readable signs/labels/documents/UI
-
-A layout reference locks placement only. Exact English wording is added during final page generation.
-
-Any non-English reader-visible text = **AUTOMATIC REJECT**.
+`page-001.png` → approve → manually convert exact accepted PNG → `page-001.webp`
 
 ---
 
@@ -73,6 +54,36 @@ All final story pages use:
 - black-and-white only
 - conventional manga page gutters
 - no vertical-webtoon dead space
+
+---
+
+## Global Reader-Visible Language Lock — ENGLISH ONLY
+
+Every Chapter 001 final page uses **English only** for reader-visible text.
+
+This includes:
+
+- dialogue
+- thoughts
+- narration/captions
+- SFX
+- story-required signs/labels/UI/notes
+
+Rules:
+
+- exact English wording must be copied into each final `page-###-production.md`
+- never translate approved English into Japanese, Korean, Chinese or another language
+- never invent pseudo-foreign glyphs or fake multilingual text
+- never invent readable background text
+- documents/books/binders/screens/signs are unreadable by default
+- story-required background text must be exact approved English
+- SFX use exact approved English/Latin-letter forms such as `THUMP` and `SKRRR`
+
+Any non-English reader-visible text = **AUTOMATIC REJECT**.
+
+Global authority:
+
+`manga/01-style/reader-visible-language-lock.md`
 
 ---
 
@@ -115,11 +126,11 @@ These remain approved reference-development assets:
 - `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
 - `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
 
-They are **not default Chapter 001 layout-reference or final-page attachments**.
+They are **not default Chapter 001 story-page attachments**.
 
-Default: **omit Style A/B from story-page production**.
+Default: **omit Style A/B from story-page generation**.
 
-Only opt them into a specific page if that page's production MD explicitly requires them after successful testing.
+Only opt them into a specific page if the exact page-production MD explicitly requires them after successful testing.
 
 ---
 
@@ -143,103 +154,53 @@ Attach when the approved apartment/common-route environment is visible.
 
 Attach when the publishing workplace is visible.
 
-Canonical images control identity/geometry, not final page rendering finish or language.
+Canonical images control identity/geometry, not final page composition, rendering finish or reader-visible language.
+
+Do not copy incidental readable text from canonical images into generated story pages.
 
 ---
 
-## Separate Layout Reference Production
+## Page 001 — Direct Final-Page Production
 
-A page may use a separate:
-
-`page-###-layout-production.md`
-
-when composition needs a visual lock.
-
-That file generates:
-
-`page-###-layout-reference.png`
-
-After approval, manually convert the exact accepted PNG to:
-
-`page-###-layout-reference.webp`
-
-The layout reference should be a clean, content-filled 2D manga draft/reference — not empty boxes, wireframes, stick figures or rough scribble sketches.
-
-It locks:
-
-- panel geometry
-- framing
-- blocking
-- pose direction
-- major props/environment
-- negative space
-- empty balloon placement
-
-**It should not render dialogue or other readable text.**
-
-Final page production occurs separately using `page-###-production.md`.
-
----
-
-## Page 001 — Mandatory Separate Layout Reference
-
-Page 001 requires an approved layout reference before final generation.
-
-### Layout-reference production
+Page 001 does **not** require a layout reference.
 
 Use:
-
-`manga/04-production/arc-01/chapter-001/page-001-layout-production.md`
-
-Attach exactly:
-
-1. `page-001-layout-production.md`
-2. `nari-canonical.webp`
-3. `nari-workplace-master-atlas.webp`
-
-Do not attach Style A/B.
-
-Generate/review:
-
-`page-001-layout-reference.png`
-
-Required lettering state:
-
-- Panel 2 balloon EMPTY
-- Panel 3 balloon EMPTY
-- zero readable background text
-
-After approval, manually convert and commit:
-
-`manga/04-production/arc-01/chapter-001/page-001-layout-reference.webp`
-
-### Final Page 001 production
-
-Only after the approved layout reference exists, use:
 
 `manga/04-production/arc-01/chapter-001/page-001-production.md`
 
 Attach exactly:
 
 1. `page-001-production.md`
-2. `page-001-layout-reference.webp`
-3. `nari-canonical.webp`
-4. `nari-workplace-master-atlas.webp`
+2. `nari-canonical.webp`
+3. `nari-workplace-master-atlas.webp`
 
-Do not attach Style A/B.
+Do not attach:
 
-Final Page 001 uses exactly these English lines and no other reader-visible words:
+- Style A
+- Style B
+- `page-001-layout-reference.webp`
+- `page-001-layout-production.md`
+
+Generate directly:
+
+`page-001.png`
+
+Page 001 reader-visible text is limited to exactly:
 
 - `You're still here?`
 - `Just one more pass.`
 
-Final Page 001 must be finished 2D manga quality, not a sketch-cleanup look.
+No other readable words are permitted.
+
+After approval, manually convert the exact accepted PNG to:
+
+`page-001.webp`
 
 ---
 
 ## Previous-Page Continuity
 
-Use the immediately previous approved page WebP only when it materially helps:
+Starting with Page 002, use the immediately previous approved page WebP only when it materially helps:
 
 - pose/facing direction
 - chapter-local neighbor identity
@@ -250,11 +211,35 @@ Use the immediately previous approved page WebP only when it materially helps:
 
 Previous-page art never overrides:
 
-1. current final page-production MD
-2. approved layout reference
-3. character canonical
-4. environment canonical
+1. current `page-###-production.md`
+2. character canonical
+3. environment canonical
+4. global manga-style lock
 5. English-only language lock
+
+---
+
+## Optional Layout-Reference Troubleshooting — EXCEPTION ONLY
+
+A separate `page-###-layout-production.md` / `page-###-layout-reference.webp` workflow is available only when:
+
+- direct generation repeatedly changes panel structure,
+- precise temporary geometry cannot be held,
+- blocking/camera continuity repeatedly fails,
+- or the user explicitly decides a page needs a composition lock.
+
+It is **not a default production requirement**.
+
+If used:
+
+- layout output is text-free with empty balloons
+- the final `page-###-production.md` remains the story/lettering/rendering authority
+- the layout reference controls composition only
+- Style A/B remain omitted unless explicitly opted in
+
+Page 001's old layout-production file is deprecated and should not be used normally.
+
+Pages 024–036 may benefit from this fallback if Chair B geometry repeatedly drifts, but it is not mandatory.
 
 ---
 
@@ -282,11 +267,11 @@ Pages 024–025 establish the known position.
 
 Pages 025–034 must preserve it whenever visible.
 
-Page 035 contains restrained English/Latin-letter SFX `SKRRR` with source unseen.
+Page 035 contains restrained `SKRRR` with source unseen.
 
 Page 036 shows Chair B displaced.
 
-Pages 024–036 should strongly consider separate layout references because exact room/chair geometry is story-critical.
+For Pages 024–036, use the previous approved page aggressively for local Chair B continuity. Only invoke an optional layout-reference fallback if direct production still cannot preserve the geometry reliably.
 
 ---
 
@@ -298,48 +283,48 @@ Legend:
 - `APT` = apartment atlas
 - `WORK` = workplace atlas
 - `PREV` = previous approved page
-- `LAYOUT` = approved page-specific layout reference when required
+- `LAYOUT*` = optional troubleshooting layout reference only if explicitly invoked
 
 Style A/B are intentionally omitted.
 
 | Page | Panels Guide | Core Beat | Canonical Visual Refs | Local Continuity |
 |---|---:|---|---|---|
-| 001 | ~4 | late-night publishing office; Nari still away from home | N, WORK, LAYOUT mandatory | none |
-| 002 | ~4–5 | neighbor hears first human-weight movement | LAYOUT if required | none |
-| 003 | ~4 | footsteps / `THUMP`; neighbor reacts | LAYOUT if required | PREV required |
-| 004 | ~3 | `SKRRR`; neighbor checks time; Nari intercut | N, WORK + LAYOUT if required | PREV useful |
-| 005 | ~3–4 | Nari finishes/leaves after noise time | N, WORK + LAYOUT if required | PREV useful |
-| 006 | ~4 | morning corridor/elevator neighbor encounter | N, APT + LAYOUT if required | none |
-| 007 | ~5 | complaint begins | N, APT + LAYOUT if required | PREV required |
-| 008 | ~5 | walking + chair scrape specified | N, APT + LAYOUT if required | PREV required |
-| 009 | ~4 | Nari asks what time | N, APT + LAYOUT if required | PREV required |
-| 010 | 2–3 | `I wasn't home.` | N, APT + LAYOUT recommended | PREV required |
-| 011 | ~4 | publishing work resumes | N, WORK + LAYOUT if required | none |
-| 012 | ~5–6 | ordinary coworker/dry humor | N, WORK + LAYOUT if required | PREV required |
-| 013 | ~4 | timestamp evidence | N, WORK + LAYOUT if required | PREV useful |
-| 014 | ~5 | access history opened | N, WORK + LAYOUT if required | PREV useful |
-| 015 | ~3–4 | no ordinary entry | N, WORK + LAYOUT recommended | PREV useful |
-| 016 | ~5 | mundane explanations | N, WORK + LAYOUT if required | PREV useful |
-| 017 | ~5 | work interrupts investigation | N, WORK + LAYOUT if required | PREV useful |
-| 018 | ~3–4 | Nari decides to inspect home | N, WORK + LAYOUT if required | PREV useful |
-| 019 | ~4 | ordinary return home | N, APT + LAYOUT if required | none |
-| 020 | ~5 | practical inspection | N, APT + LAYOUT if required | PREV required |
-| 021 | ~4 | nothing dramatic found | N, APT + LAYOUT if required | PREV required |
-| 022 | ~3 | Chair B slightly displaced | N, APT + LAYOUT recommended | PREV required |
-| 023 | ~5 | self-doubt | N, APT + LAYOUT if required | PREV required |
-| 024 | ~4 | deliberately align Chair B | N, APT + LAYOUT strongly recommended | PREV required |
-| 025 | ~3 | exact known Chair B position | N, APT + LAYOUT strongly recommended | PREV required |
-| 026 | ~5 | normal home routine | N, APT + LAYOUT if required | PREV required |
-| 027 | ~5–6 | meal/cleanup/domestic rhythm | N, APT + LAYOUT if required | PREV required |
-| 028 | ~6 | optional offscreen call | N, APT + LAYOUT if required | PREV required |
-| 029 | ~5 | conversation moves away from mystery | N, APT + LAYOUT if required | PREV required |
-| 030 | ~4 | late-night quiet | N, APT + LAYOUT if required | PREV required |
-| 031 | ~4–5 | bedtime preparation | N, APT + LAYOUT if required | PREV required |
-| 032 | ~3 | final verified empty-room state | N, APT + LAYOUT recommended | PREV required |
-| 033 | ~2–3 | empty room; Chair B unchanged | APT + LAYOUT recommended | PREV required |
-| 034 | ~2 | extend stillness | APT + LAYOUT recommended | PREV required |
-| 035 | ~2–3 | restrained `SKRRR`; source unseen | APT + LAYOUT strongly recommended | PREV required |
-| 036 | 1–2 | Chair B visibly displaced | APT + LAYOUT strongly recommended | PREV required |
+| 001 | ~4 | late-night publishing office; Nari still away from home | N, WORK | none |
+| 002 | ~4–5 | neighbor hears first human-weight movement | page production MD | none |
+| 003 | ~4 | footsteps / `THUMP`; neighbor reacts | page production MD | PREV required |
+| 004 | ~3 | `SKRRR`; neighbor checks time; Nari intercut | N, WORK | PREV useful |
+| 005 | ~3–4 | Nari finishes/leaves after noise time | N, WORK | PREV useful |
+| 006 | ~4 | morning corridor/elevator neighbor encounter | N, APT | none |
+| 007 | ~5 | complaint begins | N, APT | PREV required |
+| 008 | ~5 | walking + chair scrape specified | N, APT | PREV required |
+| 009 | ~4 | Nari asks what time | N, APT | PREV required |
+| 010 | 2–3 | `I wasn't home.` | N, APT | PREV required |
+| 011 | ~4 | publishing work resumes | N, WORK | none |
+| 012 | ~5–6 | ordinary coworker/dry humor | N, WORK | PREV required |
+| 013 | ~4 | timestamp evidence | N, WORK | PREV useful |
+| 014 | ~5 | access history opened | N, WORK | PREV useful |
+| 015 | ~3–4 | no ordinary entry | N, WORK | PREV useful |
+| 016 | ~5 | mundane explanations | N, WORK | PREV useful |
+| 017 | ~5 | work interrupts investigation | N, WORK | PREV useful |
+| 018 | ~3–4 | Nari decides to inspect home | N, WORK | PREV useful |
+| 019 | ~4 | ordinary return home | N, APT | none |
+| 020 | ~5 | practical inspection | N, APT | PREV required |
+| 021 | ~4 | nothing dramatic found | N, APT | PREV required |
+| 022 | ~3 | Chair B slightly displaced | N, APT | PREV required |
+| 023 | ~5 | self-doubt | N, APT | PREV required |
+| 024 | ~4 | deliberately align Chair B | N, APT | PREV required; LAYOUT* only if needed |
+| 025 | ~3 | exact known Chair B position | N, APT | PREV required; LAYOUT* only if needed |
+| 026 | ~5 | normal home routine | N, APT | PREV required |
+| 027 | ~5–6 | meal/cleanup/domestic rhythm | N, APT | PREV required |
+| 028 | ~6 | optional offscreen call | N, APT | PREV required |
+| 029 | ~5 | conversation moves away from mystery | N, APT | PREV required |
+| 030 | ~4 | late-night quiet | N, APT | PREV required |
+| 031 | ~4–5 | bedtime preparation | N, APT | PREV required |
+| 032 | ~3 | final verified empty-room state | N, APT | PREV required; LAYOUT* if geometry fails |
+| 033 | ~2–3 | empty room; Chair B unchanged | APT | PREV required; LAYOUT* if geometry fails |
+| 034 | ~2 | extend stillness | APT | PREV required; LAYOUT* if geometry fails |
+| 035 | ~2–3 | restrained `SKRRR`; source unseen | APT | PREV required; LAYOUT* if geometry fails |
+| 036 | 1–2 | Chair B visibly displaced | APT | PREV required; LAYOUT* if geometry fails |
 
 ---
 
@@ -375,19 +360,19 @@ Reject any final page that introduces:
 - glossy/painterly/photoreal/CGI treatment
 - smooth digital gradient lighting
 
-If an approved layout reference is required, also reject material composition departure from it.
-
 ---
 
 ## Generation Sequence
 
-When a layout reference is required:
+Normal:
 
-`layout-production MD → text-free layout-reference PNG → review → approved layout-reference WebP → final page-production MD → exact-English final page PNG → review → final page WebP`
+`page-production MD → final PNG → review → final WebP`
 
-The user may generate layout references separately before final-page production.
+Optional troubleshooting only:
 
-Do not batch-generate final pages blindly.
+`layout-production MD → text-free layout-reference → final page-production MD → final PNG`
+
+Do not batch-generate the chapter blindly.
 
 ---
 
@@ -402,7 +387,7 @@ Verify:
 - exact English scripts/SFX are preserved
 - no fake/non-English background text appears
 - Style A/B were not attached unless explicitly opted in
-- required layout references were approved before final pages
+- layout-reference generation was used only when genuinely needed
 - Page 025 establishes Chair B known state clearly
 - Chair B remains unchanged through Page 034 whenever visible
 - Page 035 keeps movement source unseen
