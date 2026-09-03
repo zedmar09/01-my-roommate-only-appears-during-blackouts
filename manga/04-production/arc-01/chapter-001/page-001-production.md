@@ -7,59 +7,106 @@
 - chapter: `Chapter 001`
 - page: `001`
 - working label: `Still At Work`
-- production status: **READY**
-- first review output: `page-001.png`
+- production status: **LAYOUT SKETCH REQUIRED**
+- Stage A sketch review candidate: `page-001-layout-sketch.png`
+- Stage A approved sketch authority: `page-001-layout-sketch.webp`
+- Stage B final-page review candidate: `page-001.png`
 - final approved repository output after manual conversion: `page-001.webp`
 
 ---
 
-## 2. USER GENERATION CHECKLIST — ATTACH THESE FILES
+## 2. TWO-STAGE PRODUCTION RULE — ABSOLUTE
 
-When asking ChatGPT/image generation to create **Page 001**, attach these required files:
+Page 001 must be produced in two separate generation stages.
 
-### A. Production instruction MD — ATTACH
+### STAGE A — HUMAN-DRAWN PAGE LAYOUT SKETCH
 
-1. `manga/04-production/arc-01/chapter-001/page-001-production.md`
+Generate and approve the manga page layout sketch first.
 
-This is the complete page-specific production authority.
+Output review candidate:
 
-### B. Approved WebP visual references — ATTACH ALL FOUR
+`page-001-layout-sketch.png`
 
-2. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-3. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-4. `manga/02-references/approved-webp/nari-canonical.webp`
-5. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
+After visual approval, manually convert that exact PNG to:
 
-### C. USER-SUPPLIED PAGE SKETCH / THUMBNAIL — ATTACH WHEN REGENERATING FROM ONE
+`manga/04-production/arc-01/chapter-001/page-001-layout-sketch.webp`
 
-If the user has already supplied or approved a Page 001 sketch/thumbnail/layout image, attach that image too.
+The approved sketch becomes the **highest visual authority for Page 001 composition**.
 
-For that generation request, the supplied sketch becomes the **highest visual authority for composition** and controls:
+### STAGE B — FINAL MANGA PAGE
 
-- panel geometry and proportions
-- panel order
-- camera/framing intent
-- character blocking
-- major object placement
-- negative space
-- balloon-placement intent
-- overall rough manga-page rhythm
+Do **not** generate the final Page 001 artwork until the approved file below exists:
 
-Do **not** redesign, beautify, cinematicize, or “improve” an approved sketch. Preserve it.
+`manga/04-production/arc-01/chapter-001/page-001-layout-sketch.webp`
 
-A supplied sketch controls composition only. `nari-canonical.webp` still controls Nari identity, and `nari-workplace-master-atlas.webp` still controls workplace geometry.
+Missing approved layout sketch = **STOP. DO NOT GENERATE THE FINAL PAGE.**
 
-### DO NOT ATTACH additional source-authority Markdown files
-
-The source-authority Markdown files listed later are used to build/audit this production file but are not needed as separate image-generation attachments.
-
-There is no previous approved manga page to attach because this is Page 001.
+Stage B must preserve the approved sketch rather than inventing, redesigning, beautifying, cinematicizing, or re-staging it.
 
 ---
 
-## 3. Source Authority — INTERNAL COMPILATION / AUDIT ONLY
+## 3. STYLE SHEET ATTACHMENT BAN FOR STORY-PAGE GENERATION
 
-Internal source authorities:
+Do **not** attach these files when generating either the Page 001 layout sketch or the final Page 001 manga page:
+
+- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+
+Reason:
+
+The paired style sheets are reusable reference-development assets, but for story-page generation they can visually overpower the page-specific Markdown and pull output toward polished, heavy-black, cinematic, or key-art rendering.
+
+For Page 001, the **written human-drawn manga style lock in this file is the rendering authority**.
+
+Style A/B must not be used as page composition, lighting, contrast, or finish authorities.
+
+---
+
+## 4. STAGE A — EXACT ATTACHMENTS
+
+When generating `page-001-layout-sketch.png`, attach exactly:
+
+1. `manga/04-production/arc-01/chapter-001/page-001-production.md`
+2. `manga/02-references/approved-webp/nari-canonical.webp`
+3. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
+
+Do not attach Style A or Style B.
+
+### Stage A attachment roles
+
+- `page-001-production.md` controls story, composition intent, panel rhythm, sketch style, dialogue placement and anti-cinematic rules.
+- `nari-canonical.webp` controls Nari's identity only.
+- `nari-workplace-master-atlas.webp` controls workplace geometry only.
+
+Neither Nari canonical nor the workplace atlas may override the required rough human-drawn manga-sketch treatment.
+
+---
+
+## 5. STAGE B — EXACT ATTACHMENTS
+
+After `page-001-layout-sketch.webp` has been approved and committed, generate `page-001.png` using exactly:
+
+1. `manga/04-production/arc-01/chapter-001/page-001-production.md`
+2. `manga/04-production/arc-01/chapter-001/page-001-layout-sketch.webp`
+3. `manga/02-references/approved-webp/nari-canonical.webp`
+4. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
+
+Do not attach Style A or Style B.
+
+### Stage B authority priority
+
+1. `page-001-production.md` — story and written production authority
+2. `page-001-layout-sketch.webp` — **absolute composition authority**
+3. `nari-canonical.webp` — Nari identity authority
+4. `nari-workplace-master-atlas.webp` — workplace geometry authority
+
+If a canonical reference visually encourages polished/cinematic rendering, ignore that rendering characteristic and preserve the hand-drawn manga treatment defined here.
+
+---
+
+## 6. Source Authority — INTERNAL AUDIT ONLY
+
+Internal story/canon authorities:
 
 - `manga/00-series/story-concept.md`
 - `manga/00-series/continuity-ledger.md`
@@ -72,38 +119,17 @@ Internal source authorities:
 - `manga/03-story/arc-01/chapter-001/scene-sequence.md`
 - `manga/03-story/arc-01/chapter-001/dialogue-script.md`
 - `manga/03-story/arc-01/chapter-001/page-map.md`
-- `manga/02-references/reference-register.md`
 - `manga/04-production/arc-01/chapter-001/chapter-001-pages-generation-guide.md`
 - `manga/02-references/characters/nari/canon.md`
 - `manga/02-references/environments/nari-workplace/canon.md`
 
-This page may compile and tighten approved story material but may not alter the Chapter 001 reveal ceiling.
+These are not image-generation attachments.
 
 ---
 
-## 4. Visual Authority Priority
+## 7. Page Canvas / Size Lock
 
-Use this exact priority order:
-
-1. **Any attached user-approved Page 001 sketch/thumbnail** — page composition, panel geometry, blocking, framing, rough manga-page rhythm
-2. `nari-canonical.webp` — Nari face, hair, age read, anatomy, proportions, approved work outfit
-3. `nari-workplace-master-atlas.webp` — office geometry, desk position, furniture relationships, editorial-environment identity
-4. Style A + Style B — broad hand-drawn manga rendering language only
-5. this production MD — story, script, continuity, page-specific requirements and anti-drift rules
-
-### Critical reference interpretation rule
-
-Style A and Style B are **not permission to make the page darker, more polished, more solid, more cinematic, or more illustration-like**.
-
-Extract from them only the useful manga drawing language: anatomy, line character, facial construction, hands, hatching, screentone, ordinary adult-life rendering and manga page discipline.
-
-If a style reference contains a heavily black or highly rendered area, do not automatically copy that darkness onto this ordinary office page.
-
-If there is a conflict between “cinematic/polished” and “visibly human-drawn manga,” choose **visibly human-drawn manga**.
-
----
-
-## 5. Page Canvas / Size Lock
+For both Stage A and Stage B:
 
 - orientation: portrait
 - width: **1024 px**
@@ -113,176 +139,93 @@ If there is a conflict between “cinematic/polished” and “visibly human-dra
 - one complete manga page only
 - clean outer page margin
 - conventional manga gutters
-- no vertical-webtoon spacing
 - black-and-white only
+- no webtoon spacing
 
 ---
 
-## 6. Page Purpose / Scenario
+## 8. Page Purpose / Scenario
 
 ### Narrative purpose
 
-Open the series on **ordinary adult life**, not supernatural horror.
+Open the series on ordinary adult life, not supernatural horror.
 
-The reader must understand that Nari is still physically at her publishing-company workplace late after midnight. This becomes the first half of the simultaneity proof used by Pages 002–005.
+The reader must clearly understand that Nari is physically at her publishing-company workplace after midnight. This establishes the first half of the later simultaneity contradiction.
 
 ### Story time
 
 Previous night, approximately **12:25–12:30 a.m.**
 
-The exact minute is not reader-critical, but the page should communicate that it is clearly after midnight.
-
 ### Location
 
 Nari's approved publishing-company editorial office.
 
-### Power / supernatural state
-
-Ordinary supplied power. No visible supernatural activity. No ominous electrical behavior.
-
 ### Emotional tone
 
-- normal deadline fatigue
-- mildly dry humor
-- professional routine
-- calm and grounded
-- absolutely no horror framing
-- absolutely no cinematic drama
+- ordinary deadline fatigue
+- grounded adult routine
+- dry work humor
+- calm professional atmosphere
+- no horror framing
+- no cinematic drama
 
-### Page-turn function
+### Power / supernatural state
 
-The next page cuts away to the downstairs neighbor hearing something from Nari's apartment. Page 001 therefore needs to make Nari's physical location unmistakable.
-
----
-
-## 7. Continuity Input
-
-Opening state:
-
-- Nari is age 30 and matches `nari-canonical.webp` exactly
-- Nari wears her approved practical publishing-office work outfit
-- hair loose unless the canonical sheet's work-state low tie is explicitly used consistently across the page; default here = loose
-- she is tired but composed
-- she is at her approved recurring desk in the workplace atlas
-- a small number of ordinary coworkers may still be present/leaving
-- no named supporting character appears
-- no apartment mystery has been mentioned to Nari yet
-- no supernatural clue exists in Nari's awareness
+Ordinary supplied power. No supernatural activity is visible.
 
 ---
 
-## 8. Page Composition / Panel Architecture
+## 9. Page Composition / Layout Sketch Blueprint
 
-Target panels: **4**.
+Target: **4 panels**, read right-to-left / top-to-bottom.
 
-Reading order: right-to-left / top-to-bottom.
+The Stage A sketch must establish a clear real-manga page rhythm rather than a rigid four-equal-box template.
 
-### If a user-approved page sketch is attached
+### Panel 1 — Office Establishing
 
-Follow the sketch closely. The sketch overrides the fallback percentages below for panel geometry, framing, blocking, negative space and balloon-placement intent.
-
-Do not reinterpret an approved sketch into a more cinematic composition.
-
-### Fallback layout only when no page sketch is attached
-
-- **Panel 1:** full-width upper establishing panel, approximately 30% of page height
-- **Panel 2:** middle-right smaller dialogue/reaction panel, approximately 35% of page width and 25% of page height
-- **Panel 3:** middle-left larger character/work panel, approximately 65% of page width and 25% of page height
-- **Panel 4:** full-width lower atmosphere/proof panel, approximately 35% of page height
-
-The page should feel conventional and handmade, not like a rigid digital template.
-
----
-
-## 9. Complete Panel-by-Panel Blueprint
-
-### Panel 1 — Late-Night Publishing Office Establishing
-
-**Narrative beat:** establish ordinary workplace and late hour.
-
-**Camera/framing:** follow an attached approved sketch when present. Otherwise use a readable medium-wide establishing view with normal manga perspective. Do not use a film-still or dramatic cinematic camera.
-
-**Environment anchors:**
-
-- use the approved workplace geometry
-- Nari's recurring desk location must match the workplace atlas
-- manuscripts / printed proofs / reference books visibly identify editorial work
-- ordinary monitors are secondary
+- dominant upper establishing panel
+- Nari clearly visible at her recurring desk
+- editorial workplace is immediately readable
+- manuscripts/proofs/books are more important than computer screens
 - some desks already empty
-- dark night may be visible through windows, but the interior must remain readable and mostly light on the page
+- ordinary night visible through windows only if consistent with workplace atlas
+- no dramatic shadow design
 
-**Characters:**
+### Panel 2 — Coworker Check-In
 
-- Nari clearly visible at her desk
-- one or two generic unnamed coworkers may be leaving in the distance
+- smaller dialogue panel on the right side of the middle reading band
+- unnamed coworker near Nari's desk, preparing to leave
+- ordinary adult workplace interaction
+- dialogue: `You're still here?`
 
-**Nari action:** seated, reviewing/marking printed proofs with focused but tired posture.
+### Panel 3 — Nari Working
 
-**Expression:** editorial concentration, mild fatigue.
+- larger character/work panel to the left of Panel 2
+- medium-close or equivalent natural manga framing
+- Nari continues handling printed proofs
+- expression tired, composed and mildly resigned
+- dialogue: `Just one more pass.`
 
-**Text:** none required.
+### Panel 4 — Time / Location Proof
 
-**Do not show:** supernatural effects, dramatic shadows, black vignette, noir contrast, horror framing, unknown figure.
+- lower quiet atmosphere panel with breathing room
+- Nari still working
+- surrounding office mostly quiet/empty
+- ordinary non-text cues make it clear that it is after midnight
+- an analog wall clock may indicate approximately 12:25–12:30
+- no dialogue
 
-### Panel 2 — Coworker Checks On Nari
+### Stage A composition rule
 
-**Narrative beat:** ordinary social proof that Nari is still at work late.
+The sketch may adjust exact panel percentages to achieve a natural manga page, but it must preserve the four narrative beats and right-to-left readability above.
 
-**Camera/framing:** follow the attached page sketch if present. Otherwise use an ordinary medium manga shot of one unnamed coworker near Nari's desk zone, bag/coat ready to leave.
-
-**Coworker identity:** generic adult office worker, ordinary and non-distinctive; do not resemble Nari. This character is not canonical.
-
-**Dialogue:**
-
-COWORKER: `You're still here?`
-
-**Balloon:** normal conversational balloon, compact, placed for right-to-left reading without covering faces or important anchors.
-
-### Panel 3 — Nari Answers While Working
-
-**Narrative beat:** characterize Nari through dry work focus.
-
-**Camera/framing:** follow the attached page sketch if present. Otherwise use a normal medium-close 3/4 manga view, not a cinematic portrait.
-
-**Action:** one hand marks or holds a proof/manuscript; other hand stabilizes pages or rests naturally.
-
-**Expression:** tired, composed, faintly resigned; not smiling broadly.
-
-**Dialogue:**
-
-NARI: `Just one more pass.`
-
-**Balloon:** normal understated balloon.
-
-**Reference priority:** Nari face/hair/hand identity must come from `nari-canonical.webp`, not from generic Style A/B subjects.
-
-### Panel 4 — Location / Time Proof
-
-**Narrative beat:** visually confirm Nari remains in the office after midnight.
-
-**Camera/framing:** follow the attached page sketch if present. Otherwise use a quiet readable medium-wide manga angle consistent with the workplace atlas.
-
-**Required visual information:**
-
-- Nari still seated/working
-- most surrounding desks quiet/empty
-- ordinary late-night office atmosphere
-- an analog wall clock or simple non-text time cue may indicate approximately 12:25–12:30 a.m.; avoid relying on generated readable digital text
-- dark exterior/night context if visible from workplace atlas
-
-**Dialogue:** none.
-
-**Narration:** none.
-
-**SFX:** none.
-
-**Exit state:** the reader has clear visual proof Nari is away from her apartment during the late-night window.
+Once Stage A is approved, **its exact panel shapes, relative sizes, shot placement, character blocking, major prop placement, negative space and balloon placement become locked for Stage B**.
 
 ---
 
 ## 10. Exact Script / Lettering
 
-Panel 1: silence / no reader-visible text required.
+Panel 1: silence.
 
 Panel 2:
 
@@ -294,7 +237,7 @@ NARI: `Just one more pass.`
 
 Panel 4: silence.
 
-Do not invent company names, manuscript text, book titles, logos, captions, labels, fake UI or additional dialogue.
+Do not invent company names, manuscript text, logos, captions, labels, fake UI or additional dialogue.
 
 ---
 
@@ -302,242 +245,251 @@ Do not invent company names, manuscript text, book titles, logos, captions, labe
 
 ### Nari
 
-- match canonical face, hair length/volume and adult proportions
-- approved work outfit construction
-- no permanent glasses
-- grounded age-30 presentation
-- hands anatomically readable
-- fatigue subtle, not exaggerated comedy
+- match `nari-canonical.webp` identity
+- adult Korean woman, age 30
+- approved practical publishing-office work outfit
+- hair loose by default
+- tired but composed
+- not teen-coded
 - not glamorous/fashion-editorial
-- not frightened or suspicious
-- not lit or posed like a cinematic heroine/key-art subject
+- not frightened
+- readable natural hands
+- never posed or lit like key art, a movie heroine, or a fashion illustration
 
 ### Unnamed coworker
 
 - ordinary adult office worker
-- generic chapter-local identity
-- no visual feature that implies future importance
-- do not make coworker resemble Nari or a generic style-reference subject too closely
-- do not give the coworker dramatic lighting or mystery emphasis
+- generic and non-canonical
+- no mystery emphasis
+- no dramatic lighting
+- must not visually compete with Nari
 
 ---
 
-## 12. Environment / Object / Effect Requirements
+## 12. Environment / Object Requirements
 
 ### Workplace
 
-- exact approved publishing-office identity
-- preserve Nari desk placement/orientation
-- visible manuscripts/proofs/books so workplace does not read as a software company
-- same architecture/furniture as `nari-workplace-master-atlas.webp`
-- late-night state changes occupancy only; do not redesign the office
-- late night does **not** mean dark cinematic lighting
+- preserve `nari-workplace-master-atlas.webp` spatial identity
+- maintain Nari's recurring desk location/orientation
+- visible publishing/editorial materials
+- ordinary computers remain secondary
+- late-night state changes occupancy only
+- no office redesign
+- no cinematic late-night transformation
 
 ### Objects
 
 - printed proofs/manuscript pages
 - ordinary pen/pencil
-- optional simple bag/coat for departing coworker
-- no plot-critical object introduced
-
-### Effects
-
-None.
+- optional simple bag/coat for coworker
+- no new plot-critical object
 
 ---
 
-## 13. Page-Wide Human-Drawn Manga Sketch Lock — ABSOLUTE
+## 13. HUMAN-DRAWN MANGA SKETCH / INK LOCK — ABSOLUTE
 
-This is the most important visual rule for Page 001.
+The most important visual requirement is that the page looks **drawn by a human manga artist**, not rendered by a cinematic image model.
 
-The page must look like a **real human-drawn black-and-white manga page with visible pencil/ink drawing character**, not a cinematic digital illustration.
+### Required drawing character
 
-### REQUIRED
+- organic pencil/ink linework
+- visible pressure variation
+- slight natural line wobble
+- human imperfection
+- line-driven forms
+- substantial white paper
+- restrained black fills
+- light screentone where useful
+- irregular hand hatching where useful
+- faces and clothing remain drawing-first rather than shading-first
+- environments are constructed with hand-drawn perspective lines
+- ordinary manga-panel readability
 
-- organic hand-drawn manga linework
-- visible pressure variation and natural imperfect edges
-- slight human line wobble is good
-- confident but not plastic-clean contours
-- subtle pencil/sketch residue is allowed if it helps the page feel genuinely drawn by hand
-- line-driven forms; do not model everything with heavy shadows
-- substantial white paper / clean negative space
-- restrained light screentone
-- hand hatching/cross-hatching where useful
-- hatching must look drawn, not digitally gradient-masked
-- spot blacks used sparingly
-- readable faces, hands and workplace details
-- conventional manga page feel
+### Stage A specifically
 
-### BLACK / SHADOW LIMIT
+The layout sketch must look like a genuine manga artist's production sketch / name / rough page:
 
-For this ordinary office page:
+- rough confident pencils or light rough inks
+- simplified but readable anatomy
+- clear panel borders
+- clear staging
+- balloon placement visible
+- no polished rendering
+- no finished cinematic shading
+- no dramatic value painting
+- no key-art finish
 
-- white + line art must dominate
-- use light tones/hatching before solid black
-- do not fill large wall/background areas with black
-- do not create black cinematic vignettes
-- do not cast dramatic shadow wedges across Nari's face
-- do not make the night office look noir
-- do not use heavy chiaroscuro
-- do not turn hair/clothes/furniture into giant black graphic masses unless the canonical design genuinely requires it
+### Stage B specifically
 
-### ABSOLUTELY FORBIDDEN
+The final page may clean the Stage A lines but must retain human-drawn character:
 
-- cinematic look
-- film-still composition
-- cinematic storyboard rendering
-- poster/key-art finish
-- glossy webtoon/manhwa finish
-- dramatic concept-art finish
-- over-polished AI illustration
-- plastic-clean digital ink
-- vector-like uniform lines
-- heavy solid-black rendering
-- black-background dominance
+- do not erase all natural irregularity
+- do not turn sketch lines into vector-clean contours
+- use tone/hatching sparingly
+- preserve white-space structure from the sketch
+- preserve the exact approved layout
+
+### Absolute anti-cinematic ban
+
+Reject any output resembling:
+
+- movie still
+- cinematic storyboard
+- poster
+- key art
+- glossy illustration
+- noir frame
+- painterly concept art
+- 3D/CG render converted to manga
+
+Do not use:
+
 - rim lighting
 - dramatic backlighting
-- bloom
 - volumetric light
+- bloom
 - lens flare
 - depth-of-field blur
-- bokeh
-- cinematic value grading
-- photographic grayscale
-- smooth airbrush gradients
-- painterly grayscale
-- photorealism
-- CGI / 3D
-- color
+- photographic bokeh
+- heavy cinematic vignette
+- airbrushed gradients
+- smooth digital shadow masses
+- large unnecessary black backgrounds
+- theatrical chiaroscuro on faces
 
-### DECISION RULE
-
-If a generated result looks “cooler,” “more dramatic,” “more solid,” “more polished,” or “more cinematic” but less like a human-drawn manga page, **reject it**.
-
-Human-drawn manga appearance is more important than cinematic polish.
+**If an output looks more polished/cinematic but less human-drawn, it is automatically wrong.**
 
 ---
 
-## 14. Complete Generation Instruction
+## 14. STAGE A GENERATION INSTRUCTION
 
-### Files that must be present
+Create exactly **ONE 1024×1536 portrait black-and-white HUMAN-DRAWN MANGA PAGE LAYOUT SKETCH** for Chapter 001 Page 001.
 
-Required:
+This is not the final illustration. It is a manga artist's page-production sketch / rough page used to lock panel composition before final art.
 
-1. `page-001-production.md`
-2. `series-manga-style-reference-a.webp`
-3. `series-manga-style-reference-b.webp`
-4. `nari-canonical.webp`
-5. `nari-workplace-master-atlas.webp`
+Use the attached Nari canonical only to keep Nari recognizable and the workplace atlas only to keep the office spatially correct. Do not reproduce their polished rendering. Do not attach or imitate Style A/B.
 
-If the user has supplied/approved a Page 001 sketch or thumbnail, attach it additionally and treat it as the highest composition authority.
+Draw exactly the four story beats defined in this production file. Use organic rough pencil/ink lines, simple readable staging, conventional manga gutters, right-to-left reading order and visible balloon placement. Keep white paper dominant. Do not render cinematic lighting, glossy shading, dramatic black masses or finished key-art detail.
 
-### Image-generation instruction
+Output conceptually as:
 
-Create exactly **ONE 1024×1536 portrait black-and-white manga page** for Chapter 001 Page 001, read right-to-left.
+`page-001-layout-sketch.png`
 
-**THIS MUST LOOK VISIBLY HUMAN-DRAWN.** Render it as a real manga artist's pencil/ink page: organic line variation, slight natural imperfection, line-driven forms, large clean white areas, restrained light screentone, hand-drawn hatching, and only sparse spot blacks.
-
-Do **not** render it as a cinematic illustration, film still, poster, key art, glossy webtoon image, polished digital concept art, noir frame, or 3D-derived image.
-
-If a user-approved Page 001 sketch/thumbnail is attached, preserve its panel geometry, framing, blocking, negative space and balloon-placement intent closely. Do not redesign or cinematicize it.
-
-Use `nari-canonical.webp` strictly for Nari's identity and `nari-workplace-master-atlas.webp` strictly for workplace spatial identity. Use Style A + Style B only for broad hand-drawn manga language; never use them as permission to add cinematic darkness or heavy black coverage.
-
-Render the approved four-beat page: an ordinary late-night publishing office; Nari still at her recurring desk reviewing printed proofs while most coworkers have left; one unnamed coworker asks `You're still here?`; Nari responds `Just one more pass.` while continuing to work; the final quiet panel confirms she remains at the office around 12:25–12:30 a.m.
-
-Keep everything mundane, adult and lightly tired. No horror framing. No supernatural imagery. No dramatic light. No mystery silhouettes. No apartment imagery. No extra text.
-
-Return the review candidate as PNG conceptually named `page-001.png`.
+The PNG must be reviewed before conversion to `page-001-layout-sketch.webp`.
 
 ---
 
-## 15. Automatic Rejection Conditions
+## 15. STAGE A SKETCH REJECTION CONDITIONS
 
-Reject/regenerate if **any** of these occur:
+Reject/regenerate the layout sketch if:
 
-### Composition
-
-- an attached user-approved page sketch is materially ignored or redesigned
-- reading order is ambiguous or left-to-right
-- fallback generation without a sketch does not contain the intended four beats/panels
-
-### Character/environment
-
-- Nari identity drifts from canonical reference
-- Nari looks teen-coded or overly glamorous
-- office reads as software/game/engineering workplace
-- workplace geometry is redesigned
-- manuscripts/proofs/editorial materials are absent while screens dominate
-- coworker becomes visually prominent/mysterious
-
-### Script
-
-- dialogue differs from the exact two approved lines
-- invented readable text/logos/captions appear
-
-### Style — HARD REJECT
-
-- image looks cinematic
-- image looks like a film still/storyboard
-- image looks like poster/key art
-- image looks glossy/polished rather than hand-drawn manga
-- linework is vector-clean/plastic/uniform
-- large solid-black masses dominate the page
-- ordinary office becomes noir/high-contrast
-- dramatic rim/back lighting appears
-- cinematic vignette appears
-- bloom/volumetric light/lens flare/depth-of-field/bokeh appears
-- smooth photographic/airbrushed shading appears
-- color/painterly/photoreal/CGI/3D rendering appears
-- page does not visibly read as human-drawn manga
-
-### Technical
-
-- hands/anatomy are malformed
-- output is not portrait 1024×1536
+- it looks like finished key art instead of a manga production sketch
+- panel order is unclear or left-to-right
+- four core story beats are not present
+- Nari is not recognizable
+- workplace no longer reads as publishing/editorial
+- composition is rigid or cinematic rather than manga-page-like
+- heavy black/cinematic shading dominates
+- balloon locations are missing or unreadable
+- anatomy/blocking cannot support final art
+- output is not 1024×1536 portrait
 
 ---
 
-## 16. Continuity Output
+## 16. STAGE B FINAL-PAGE GENERATION INSTRUCTION
+
+Only after `page-001-layout-sketch.webp` exists and is attached:
+
+Create exactly **ONE 1024×1536 portrait black-and-white human-drawn manga page** for Chapter 001 Page 001.
+
+Follow the attached approved sketch as the absolute composition authority. Preserve its panel boundaries, relative panel sizes, camera framing, character blocking, major object placement, negative space and balloon positions.
+
+Do not redesign, improve, cinematicize or re-stage the approved sketch.
+
+Use `nari-canonical.webp` only for Nari's identity and `nari-workplace-master-atlas.webp` only for office geometry. The written style lock in this MD controls rendering.
+
+Clean the sketch into readable human-drawn manga artwork while preserving organic pencil/ink character, restrained blacks, white paper, sparse screentone and hand hatching. Do not create glossy, heavily rendered, noir, filmic or poster-like artwork.
+
+Dialogue must remain exactly:
+
+- `You're still here?`
+- `Just one more pass.`
+
+Return conceptually as `page-001.png` for review.
+
+---
+
+## 17. STAGE B AUTOMATIC REJECTION CONDITIONS
+
+Reject/regenerate if:
+
+- approved layout sketch is missing from the request
+- final page materially departs from the approved sketch
+- panel shapes/order/proportions are redesigned
+- camera/framing is reinterpreted without necessity
+- character blocking changes materially
+- balloon placement/flow changes materially
+- Nari identity drifts
+- workplace geometry drifts
+- office reads as technical/software/game workplace
+- dialogue differs
+- invented readable text/logos appear
+- output becomes cinematic, glossy, heavily shaded, noir, key-art-like, painterly, photoreal or CGI-like
+- excessive solid blacks replace line art/hatching
+- hands/anatomy fail
+- output is not 1024×1536 portrait
+
+---
+
+## 18. Continuity Output
 
 At page end:
 
 - Nari remains at the publishing office
-- Nari is still in work outfit with loose hair
-- she remains focused/tired but normal
+- she is still in her work outfit with loose hair
+- she remains tired/focused but normal
 - ordinary supplied power is on
 - no apartment mystery is known to her
-- reader understands she is physically away from home in the relevant late-night window
-- Page 002 cuts to the downstairs neighbor's unit and should not require pose continuity from Nari
+- reader clearly understands she is away from home during the relevant late-night window
 
 ---
 
-## 17. QA / Approval Record
+## 19. QA / Approval Record
 
-Before approval verify:
+### Stage A — layout sketch
 
-- [ ] generation request included `page-001-production.md`
-- [ ] generation request included Style A WebP
-- [ ] generation request included Style B WebP
-- [ ] generation request included Nari canonical WebP
-- [ ] generation request included workplace master atlas WebP
-- [ ] if a Page 001 sketch/thumbnail was supplied, it was attached and followed closely
-- [ ] 1024×1536 portrait PNG
-- [ ] clear right-to-left reading order
-- [ ] Nari canonical identity matched
-- [ ] workplace atlas matched
-- [ ] publishing/editorial identity visually clear
+- [ ] production MD attached
+- [ ] Nari canonical attached
+- [ ] workplace atlas attached
+- [ ] Style A/B NOT attached
+- [ ] `page-001-layout-sketch.png` generated
+- [ ] human-drawn manga production-sketch look confirmed
+- [ ] four beats present
+- [ ] right-to-left flow confirmed
+- [ ] panel composition approved
+- [ ] blocking approved
+- [ ] balloons approved
+- [ ] no cinematic/heavy-black drift
+- [ ] exact approved PNG manually converted to `page-001-layout-sketch.webp`
+- [ ] approved sketch committed under production folder
+
+### Stage B — final page
+
+- [ ] approved `page-001-layout-sketch.webp` exists
+- [ ] production MD attached
+- [ ] approved layout sketch attached
+- [ ] Nari canonical attached
+- [ ] workplace atlas attached
+- [ ] Style A/B NOT attached
+- [ ] final page follows sketch closely
+- [ ] Nari identity matched
+- [ ] workplace matched
 - [ ] dialogue exact
-- [ ] no invented readable text/logos
-- [ ] no supernatural/horror framing
-- [ ] linework visibly human-drawn
-- [ ] substantial white-paper areas preserved
-- [ ] screentone/hatching restrained and hand-drawn in feel
-- [ ] solid blacks restrained
-- [ ] no cinematic lighting/composition/rendering
-- [ ] no poster/key-art/glossy finish
-- [ ] hands/anatomy acceptable
-- [ ] location/time proof clear enough for later contradiction
-- [ ] final status recorded after review
+- [ ] human-drawn manga look preserved
+- [ ] no cinematic/glossy/heavy-black drift
+- [ ] anatomy/hands acceptable
+- [ ] final PNG decision recorded
+- [ ] exact accepted PNG manually converted to `page-001.webp`
 
-Final approval status: **PENDING VISUAL GENERATION**
+Final status: **BLOCKED UNTIL LAYOUT SKETCH IS APPROVED AND COMMITTED**
