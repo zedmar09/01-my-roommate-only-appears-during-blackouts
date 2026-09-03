@@ -2,14 +2,18 @@
 
 ## Status
 
-**TEXT APPROVED — VISUAL WEBPS PENDING.**
+**TEXT APPROVED — PNG VISUAL CANDIDATES PENDING / FINAL WEBPS PENDING.**
 
 This is the semantic spatial authority for Nari's recurring home.
 
-Planned visual authorities after approval:
+Generation/repository workflow:
 
-- `manga/02-references/environments/nari-apartment/nari-apartment-master-atlas.webp`
-- `manga/02-references/environments/nari-apartment/nari-apartment-floor-plan.webp`
+- first master-atlas candidate: `nari-apartment-master-atlas.png`
+- optional separate floor-plan candidate: `nari-apartment-floor-plan.png`
+- after visual approval, the user manually converts each exact accepted PNG to the matching final WebP authority:
+  - `manga/02-references/environments/nari-apartment/nari-apartment-master-atlas.webp`
+  - `manga/02-references/environments/nari-apartment/nari-apartment-floor-plan.webp`
+- only approved converted WebPs are repository canon
 
 ## Core Identity
 
@@ -127,7 +131,7 @@ Do not depict the neighbor as adjacent unless canon is deliberately revised late
 
 ## Manga Rendering
 
-Use the approved series manga style reference once available.
+Use the approved series manga style reference WebP once available.
 
 The environment should support:
 
@@ -139,7 +143,7 @@ The environment should support:
 
 ## Automatic Reject
 
-Reject the environment reference if:
+Reject a generated PNG environment candidate if:
 
 - room geometry changes between views
 - it reads as luxury penthouse/hotel or horror ruin
@@ -149,3 +153,5 @@ Reject the environment reference if:
 - common corridor/elevator relation is impossible or random
 - the neighbor is encoded as adjacent instead of directly below
 - rendering is glossy, color, photoreal, CGI, 3D, painterly, or cinematic concept art
+
+Only after a PNG passes this gate should it be manually converted to its final WebP authority.
