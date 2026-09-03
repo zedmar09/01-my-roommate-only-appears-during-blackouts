@@ -2,173 +2,246 @@
 
 ## Status
 
-**DRAFT FOR USER REVIEW — NOT YET CANON-LOCKED.**
+**APPROVED OPENING DIRECTION — FULL ARC STILL IN DEVELOPMENT.**
 
 ## Arc Title
 
-**PENDING.** Do not force a title before the arc's identity is approved.
+**PENDING.** The arc name will be chosen after its final identity is clear.
 
 ## Arc Role In The 100+ Chapter Series
 
-Arc 01 is the **threshold / coexistence arc**, not the origin arc and not the central-mystery climax.
+Arc 01 is the **threshold / presence / coexistence arc**.
 
-Its job is to transform the premise from an impossible intrusion into a sustainable relationship and investigation engine.
+It must not function as an origin arc, antagonist-reveal arc, or citywide-climax arc.
 
-By the end of Arc 01 the reader should understand enough to follow the basic roommate situation, while still knowing very little about the true cause.
+Its job is to transform an ordinary home-security mystery into a proven impossible presence, then very gradually into a workable but guarded roommate situation.
+
+The title premise should feel **earned**, not announced in Chapter 001.
 
 ### Soft Length Target
 
-Approximately **18–22 chapters**. This is a pacing target, not a hard quota. Expand or compress only when scene consequences justify it.
+Approximately **18–22 chapters**.
+
+This is not a quota. The important rule is reveal order and consequence spacing.
+
+---
 
 ## Opening Status Quo
 
-- Yoon Nari is living alone in a recently rented Seoul apartment and has been there long enough to have routines, but not long enough for the place to feel fully hers.
-- She is an adult professional with an external work life and ordinary obligations that continue regardless of the mystery.
-- The apartment has had a few brief, mundane-looking electrical irregularities that Nari has not treated as supernatural.
-- Nari does **not** know Hyun-woo exists.
-- Hyun-woo has had opportunities to observe the apartment's new tenant during earlier power interruptions, but the story does not explain how much he knows or how long he has been present.
-- No one has given Nari a supernatural rulebook.
+- Yoon Nari already lives alone in a recently rented Seoul apartment.
+- She has been there long enough to develop routines but not long enough to know every building quirk.
+- She has a real adult life outside the apartment: work, friendships, fatigue, money/time pressures, and ordinary responsibilities.
+- Nari does not know Hyun-woo exists.
+- The reader does not see Hyun-woo in Chapter 001.
+- No landlord or other character gives Nari a supernatural rulebook.
+- The first mystery is not `why does a man appear during blackouts?`
+- The first mystery is **`who or what is using this apartment when Nari is not there?`**
+
+---
 
 ## Central Dramatic Question
 
-**What is actually sharing Nari's home, under what observable conditions can it be present, and can Nari and this stranger reach a workable coexistence without understanding the deeper reason he exists this way?**
+Arc 01 begins with:
 
-This is deliberately smaller than the series-level question of what happened to Hyun-woo and why the world cannot hold him normally.
+**Is someone secretly entering or using Nari's apartment?**
+
+It then evolves, in order, toward:
+
+1. why does ordinary security evidence fail?
+2. why do disturbances correlate with electrical irregularities?
+3. is there actually a human presence?
+4. under what observable conditions can that presence exist?
+5. can Nari and the stranger establish boundaries without understanding the deeper cause?
+
+The series-level origin mystery remains outside Arc 01's solution space.
+
+---
 
 ## Nari — Arc Goal
 
-Nari wants to protect her ordinary life and home from an apparent intruder, then prove what is happening well enough to make practical decisions.
+Nari wants to preserve control of her home and normal life.
 
 Her progression:
 
-1. treat the presence as a security problem
-2. discover ordinary explanations do not fit
-3. test observable conditions rather than accept supernatural claims blindly
-4. negotiate boundaries because leaving or solving the mystery immediately is not simple
-5. choose whether Hyun-woo is a danger, a victim, a liar, or some combination
-6. end the arc by making a conscious provisional choice to coexist and investigate
+1. treat the problem as a noise/security issue
+2. eliminate mundane explanations one by one
+3. create simple tests because she does not trust her own fatigue/memory
+4. notice an electrical correlation only after enough incidents exist to justify it
+5. experience an unseen presence directly during a genuine blackout
+6. establish that the presence is human or human-like before trusting any identity claim
+7. test observable rules rather than accept lore speeches
+8. negotiate boundaries only after repeated encounters make avoidance impractical
+9. choose provisional coexistence because evidence and behavior justify it, not because the premise requires romance
+
+---
 
 ## Hyun-woo — Arc Goal
 
-Hyun-woo initially wants to minimize contact and avoid explaining more than necessary. He has reasons to be cautious that the reader and Nari do not yet understand.
+Hyun-woo begins as an **unseen source of consequences**, not an immediate co-lead exposition device.
 
 His progression:
 
-1. treat Nari as an unexpected complication in a space he considers his
-2. avoid giving history/origin answers
-3. establish that he is not a conventional burglar or ghost-story exposition device
-4. accept practical boundaries with Nari
-5. reveal small pieces of personality through ordinary shared time
-6. choose Nari's safety or agency over preserving his own easiest arrangement
-7. end the arc accepting that Nari is now part of the problem he has been avoiding
+1. Chapter 001: never visually or verbally revealed
+2. early chapters: existence inferred only through physical changes/noise and incomplete evidence
+3. first substantial blackout: Nari directly experiences an unseen human presence
+4. first communication: voice before full visual identity
+5. later reveal: partial then clearer human appearance
+6. early interactions: cautious, selective, unwilling to explain origin
+7. mid arc: personality appears through conflict and practical behavior
+8. late arc: chooses Nari's safety/agency over preserving his easiest arrangement
+9. arc end: accepts that Nari is now part of the problem he had been avoiding
+
+---
 
 ## Relationship Movement
 
 Arc 01 relationship progression:
 
-**intruder / threatened tenant → adversarial witnesses → reluctant information exchange → negotiated coexistence → functional roommates with guarded trust**
+**unknown apartment activity → suspected intruder → unseen adversarial presence → reluctant human contact → repeated witnesses → negotiated boundaries → functional roommates with guarded trust**
 
-Do **not** rush this into a declared romance.
+Do not rush romance.
 
-Romantic potential may appear through chemistry, attention, irritation, domestic familiarity, and vulnerability, but emotional intimacy must be earned across later arcs.
+Romantic potential may emerge only through accumulated familiarity, attention, irritation, humor, choices, and vulnerability.
+
+---
+
+## Approved Early Reveal Guardrail
+
+Exact chapter numbers may move by roughly one chapter, but the sequence must remain slow and causal.
+
+### Chapter 001
+Noise complaint from Nari's apartment while Nari is provably away. Reader-only ending confirms the dining chair moves again. No Hyun-woo reveal and no reader-facing blackout explanation.
+
+### Chapters 002–004
+Security logic, access records, simple self-tests, maintenance/master-key possibilities, building acoustics, and previous-tenant theories are explored. Mundane explanations fail gradually rather than all at once.
+
+### Chapter 005
+Nari begins to notice that some disturbances occur near clock resets, flickers, or short supplied-power irregularities. This is a correlation, not a rule.
+
+### Chapter 006
+A physical change occurs under conditions Nari can no longer explain as ordinary unauthorized entry. Still no full person reveal.
+
+### Chapter 007
+First substantial genuine blackout while Nari is home. Nari directly experiences an unseen presence: movement, breathing, footsteps, or another unmistakably human physical cue.
+
+### Chapter 008
+First voice/communication. No complete visual reveal.
+
+### Chapters 009–010
+Partial then clearer human reveal. Name/identity information may begin, but no origin dump.
+
+### Chapters 011–013
+Nari tests observable conditions and discovers evidence/proof behaves inconsistently.
+
+### Chapter 014 onward
+Negotiated coexistence and recurring domestic friction may begin. This is the earliest phase where the `roommate` engine should become explicit in practice.
+
+---
 
 ## Active Story Threads
 
 ### Thread A — Nari's Ordinary Life
+Work, friendships, obligations, sleep, money/time decisions, and consequences of a home mystery she cannot explain.
 
-Work, fatigue, friendships, responsibilities, money/time decisions, and the consequences of living with a mystery she cannot explain publicly.
+### Thread B — Apartment Activity / Hidden Presence
+Noises, moved objects, traces, eventual unseen contact, then Hyun-woo's gradual emergence.
 
-### Thread B — Hidden Presence / Hyun-woo
-
-What Hyun-woo does during outages, what he knows about the apartment, what he refuses to explain, and how his behavior changes as Nari stops being a stranger.
-
-### Thread C — Apartment / Building Power Irregularities
-
-Brief outages, maintenance anomalies, timing inconsistencies, and physical electrical events that can initially be dismissed as mundane.
+### Thread C — Electrical Irregularities
+Initially ordinary-looking resets/flickers/outages. Their relationship to Thread B is discovered slowly.
 
 ### Thread D — External Human Anchor
+A trusted friend/coworker may notice Nari's behavior changing before being asked to believe anything supernatural. Koo Hyejin remains a working candidate until explicitly approved.
 
-A trusted person from Nari's normal life may become a recurring outside perspective. **Working candidate: Koo Hyejin**, deliberately retained only if her role as grounded friend/QA-minded observer remains useful. Final supporting cast is not yet locked.
+### Thread E — Building / Mundane Investigation
+Neighbors, access records, maintenance possibilities, acoustics, previous occupancy, and other grounded explanations provide real story material rather than disposable red herrings.
 
-### Thread E — Wider Pattern
+### Thread F — Wider Pattern
+Mostly dormant in early Arc 01. Only late-arc evidence should suggest the apartment may not be the whole story.
 
-Very small evidence that the apartment is not necessarily the entire story. Arc 01 should only begin this thread near its later chapters.
+---
 
 ## Opposition / Pressure
 
-Arc 01 does not need a fully revealed named villain.
+Arc 01 does not need a named villain.
 
 Pressure comes from:
 
-- genuine blackouts occurring unpredictably
-- Nari's inability to prove or schedule the phenomenon cleanly
-- Hyun-woo's selective honesty
-- ordinary security/lease/work consequences
-- evidence that behaves inconsistently
-- the possibility that some aspect of the phenomenon becomes more dangerous when noticed or manipulated
+- activity Nari cannot reproduce on demand
+- ordinary evidence that does not fit cleanly
+- uncertainty about whether someone can enter her home
+- sleep/work/social consequences
+- unpredictable genuine power interruptions
+- Hyun-woo's selective honesty once communication begins
+- the danger of making assumptions from too little evidence
 
-Do not define the final antagonist merely to make Arc 01 feel bigger.
+---
 
-## Reveal Budget — Absolute Pacing Guardrail
+## Reveal Budget — Absolute
 
 ### Arc 01 MAY establish
 
-- Hyun-woo is physically real under specific genuine power-loss conditions
-- simply switching a room light off is not equivalent to the relevant blackout condition
-- he cannot participate in normal powered life in the same way Nari can
-- he knows the apartment in ways an ordinary intruder should not
-- attempts to prove his presence may produce inconsistent or missing evidence
-- at least one late-arc clue suggests the problem is larger than one weird roommate encounter
+- something physically acts inside Nari's apartment when she is absent/unaware
+- ordinary entry logic does not explain it
+- disturbances correlate with real supplied-power irregularities
+- an unseen human presence can be experienced during a genuine blackout
+- the presence is eventually revealed as Hyun-woo
+- simply switching off a light is not equivalent to the relevant condition
+- Hyun-woo cannot participate in ordinary powered life normally
+- evidence of his presence can be incomplete or inconsistent
+- he knows the apartment/building in ways an ordinary intruder should not
+- Nari and Hyun-woo can reach provisional coexistence
 
 ### Arc 01 MUST NOT fully explain
 
 - Hyun-woo's complete origin
 - the exact event that caused his condition
-- the ultimate reason records/memory may reject him
+- the ultimate record/memory mechanism
 - the full citywide mechanism
-- the final supernatural or human antagonist
-- the complete rules/costs of restoring him
-- the endgame relationship choice
+- final supernatural/human antagonist
+- restoration rules/costs
+- final romantic stakes
 - the final meaning of the blackout phenomenon
 
-## Major Locations — Draft
-
-Only locations needed by the arc should become reference packages.
-
-Likely recurring spaces:
-
-- Nari's apartment
-- apartment-floor corridor / immediate building common area
-- Nari's workplace
-- one modest building maintenance/service space if the story requires it
-- neighborhood street / convenience or ordinary social location as needed
-
-Do not generate a large city-location atlas before the story actually visits those places.
+---
 
 ## Arc Midpoint Function
 
-Around the middle of the arc, Nari should stop asking only **"How do I get this man out of my apartment?"** and begin asking **"What happens to him when the power comes back, and why does he know this place better than I do?"**
+The midpoint should be when Nari stops asking only:
 
-This is a relationship/investigation reversal, not an origin reveal.
+**`How is someone getting into my apartment?`**
+
+and begins asking:
+
+**`What happens to this person when ordinary power changes, and why does he know this place?`**
+
+That shift must come from accumulated observation, not explanation.
+
+---
 
 ## Arc Climax Function
 
-The climax should force Nari and Hyun-woo to make a meaningful cooperative choice during a real outage. Restoring safety/ordinary power should cost them something immediate — for example ending the only period in which Hyun-woo can remain physically present.
+A substantial real outage forces Nari and Hyun-woo to cooperate on an immediate problem.
 
-The climax proves trust through action rather than through a lore speech.
+Resolving the practical danger should require a choice that may also end Hyun-woo's physical window.
+
+Trust is proven through action.
+
+No origin speech is needed.
+
+---
 
 ## Arc Ending Answer
 
-Arc 01 should answer the local question:
+Arc 01 answers only the local question:
 
-**Yes, Hyun-woo is real under genuine blackout conditions, he is not simply choosing to invade Nari's home, and the two can establish a provisional coexistence.**
+**Yes, Hyun-woo is a genuine recurring presence tied to real supplied-power-loss conditions, he is not behaving like an ordinary burglar, and Nari can choose a provisional coexistence with him.**
 
 ## Larger Question Opened
 
-The ending should introduce one clean larger contradiction, such as:
+Open exactly one stronger next-layer contradiction near the end, for example:
 
-- Hyun-woo knows a past version/detail of the residence that records do not support, or
-- a search for his identity returns an impossible absence, or
-- another blackout incident elsewhere echoes something Nari believed was apartment-specific.
+- a credible identity/history check cannot prove someone who is physically real, or
+- Hyun-woo knows a past residence/building fact that current records contradict, or
+- an external outage incident resembles something Nari thought belonged only to her apartment.
 
-Only one major next-layer door needs to open. Do not reveal the answer in the same arc ending.
+Do not answer the contradiction in the same arc.
