@@ -1,75 +1,81 @@
 # My Roommate Only Appears During Blackouts
 
-This repository is the active **black-and-white manga** version of the project.
+This repository is the active **black-and-white 2D manga** version of the project.
 
 ## Active Story Model
 
-There is no book/volume publication layer. Story organization is intentionally simple:
-
-- **Series** — complete long-form story and canon
-- **Arc** — major narrative problem/mystery/relationship movement
-- **Chapter** — serialized installment inside an arc
-- **Page** — visual storytelling and generation unit
+- **Series** — long-form canon
+- **Arc** — major narrative movement
+- **Chapter** — serialized installment
+- **Page** — final visual storytelling unit
 
 The active project root is `manga/`.
 
 ## Production Stack
 
-1. `manga/00-series/` — series concept, world rules, continuity, chronology, relationships, arc roadmap
-2. `manga/01-style/` — black-and-white manga visual grammar and style text authorities
-3. `manga/02-references/` — semantic character/environment/object/effect authorities plus centralized approved reusable WebPs
+1. `manga/00-series/` — series canon, continuity and chronology
+2. `manga/01-style/` — final manga visual grammar
+3. `manga/02-references/` — canonical reusable visual authorities
 4. `manga/03-story/` — arcs and chapters
-5. `manga/04-production/` — one self-contained production Markdown per manga page plus final approved page WebPs
+5. `manga/04-production/` — layout-reference pre-production and final page production
 
-## Centralized Reusable WebPs
+## Current Approved Reusable WebPs
 
-All approved reusable style/character/environment/object/effect WebPs live in:
-
-`manga/02-references/approved-webp/`
-
-Current approved Chapter 001 references:
+Under `manga/02-references/approved-webp/`:
 
 - `series-manga-style-reference-a.webp`
 - `series-manga-style-reference-b.webp`
 - `nari-canonical.webp`
+- `nari-apartment-master-atlas.webp`
+- `nari-workplace-master-atlas.webp`
 
-Exact generation attachment sets are recorded in:
+Approved does not mean automatically attached. Exact attachment sets are defined in:
 
 `manga/02-references/generation-attachment-map.md`
 
+Style A/B are not default Chapter 001 story-page attachments.
+
 ## Image Format Workflow
 
-1. ChatGPT/image generation creates a `.png` review candidate.
-2. The PNG is visually reviewed.
-3. If approved, the user manually converts that exact PNG to `.webp`.
-4. Reusable approved WebPs are centralized under `manga/02-references/approved-webp/`.
-5. Approved final manga page WebPs remain beside their page-production MDs for sequential continuity.
+1. image generation creates a PNG review candidate
+2. PNG is visually reviewed
+3. user manually converts the exact accepted PNG to WebP
+4. approved reusable reference WebPs stay under `02-references/approved-webp/`
+5. page-local layout references and final page WebPs stay under `04-production/`
 
-Do not ask image generation to output WebP directly.
+## Separate Layout Reference Production
 
-See `manga/02-references/image-format-workflow.md`.
-
-## One Page = One Production Markdown
-
-Production is page-based, not one giant chapter prompt.
+A page may use a separate composition pre-production file:
 
 ```text
-manga/04-production/arc-01/chapter-001/
-├── page-001-production.md
-├── page-001.webp
-├── page-002-production.md
-├── page-002.webp
-└── ...
+page-001-layout-production.md
+page-001-layout-reference.webp
+page-001-production.md
+page-001.webp
 ```
 
-Each `page-###-production.md` contains exact attachments, page dimensions, scenario, chronology, event thread, continuity, panel layout, character blocking, actions, reactions, environments, objects/effects, exact dialogue/narration/SFX, deterministic generation instructions, rejection conditions, QA, and approval status.
+The layout reference is a clean content-filled 2D manga layout draft used to lock composition.
 
-One page must not be split into separate blueprint, prompt, manifest, script, or QA Markdown files.
+It is **not** an empty panel template and **not** a rough scribble sketch.
 
-## Canon Reset
-
-The previous full-color vertical Manhwa production is retired and recoverable through Git history. The old Chapter 1 sequence is not canon. The title and premise-level supernatural relationship remain, but story flow, character entrances, reveals, dialogue, and chapter structure are rebuilt for manga.
+The final `page-###-production.md` generates finished final art and remains the final story-page generation authority.
 
 ## Visual Lock
 
-Black-and-white only: finished hand-drawn manga ink impression, variable line weight, screentones, hatching, solid blacks, expressive manga simplification, and story-driven variable panel composition. No full-color webtoon rendering, glossy finish, cinematic grading, photorealism, CGI, or 3D-render look.
+Final pages must look like **finished professional black-and-white 2D hand-drawn manga**:
+
+- clean inks
+- line-weight variation
+- screentone
+- hatching/cross-hatching where useful
+- flat graphic solid blacks where appropriate
+- refined anatomy/hands
+- clean manga backgrounds
+- integrated speech balloons
+- conventional right-to-left manga page construction
+
+Final pages must not look rough/sketchy, glossy, cinematic, painterly, photorealistic, CGI/3D-rendered or like a vertical webtoon.
+
+## Canon Reset
+
+The previous full-color vertical Manhwa production is retired and recoverable through Git history. Story flow, character entrances, reveals, dialogue and chapter structure are rebuilt for the manga pipeline.
