@@ -2,18 +2,16 @@
 
 ## Status
 
-**DRAFT INVENTORY — DO NOT GENERATE REFERENCES UNTIL STORY IS APPROVED.**
+**STORY DIRECTION APPROVED — REFERENCE GENERATION NOT STARTED.**
 
-This inventory follows the current 36-page Chapter 001 draft. Generate only reusable visual authorities that the approved story actually needs.
+Generate only reusable visual authorities that Chapter 001 actually shows.
 
 ## Style
 
 ### Required before page production
 
 - approved black-and-white manga style reference WebP under `manga/01-style/reference-style/`
-- current style Markdown authorities under `manga/01-style/`
-
-No Chapter 001-specific style image should be created if a reusable series style reference can serve the same purpose.
+- current manga style Markdown authorities under `manga/01-style/`
 
 ---
 
@@ -28,58 +26,48 @@ manga/02-references/characters/nari/
 ├── canon.md
 ├── nari-reference-generation-prompt.md
 ├── nari-canonical.webp
-└── variants/                     # only if later needed
+└── variants/
 ```
 
 Chapter 001 needs:
 
-- adult everyday identity
+- grounded adult identity
 - workday and home readability
 - tired/dry expressions
-- practical office/casual wardrobe continuity
+- ordinary practical wardrobe continuity
 - full-body proportions
 - face/hair angles
-- hands suitable for phone/work actions
+- natural hands for phone, lock, chair, work, and household actions
 
-Final occupation/outfit/design must be approved before generating this package.
+Final occupation/outfit/design must be approved before generating the package.
 
-### 2. Koo Hyejin — CONDITIONAL / REUSABLE
+### 2. Neighbor — CHAPTER-LOCAL OR REUSABLE LATER
 
-Working supporting character only. Generate only if user approves retaining Hyejin in the new canon.
+The complaining neighbor appears only as an ordinary resident in Chapter 001.
 
-Planned package if approved:
+Do **not** create a full canonical character atlas unless later Arc 01 planning makes this neighbor recurring.
 
-```text
-manga/02-references/characters/hyejin/
-├── canon.md
-├── hyejin-reference-generation-prompt.md
-└── hyejin-canonical.webp
-```
+If the neighbor remains minor, define only enough chapter-local appearance detail inside page production to keep the short scene coherent.
 
-Chapter 001 needs only normal workplace/friend expressions and ordinary professional wardrobe.
+### 3. Trusted Coworker/Friend — CONDITIONAL
 
-### 3. Joo Hyun-woo — REQUIRED / REUSABLE
+Koo Hyejin remains a working candidate only.
 
-Even though Chapter 001 shows him only as an obscured silhouette, final page generation still needs a stable canonical body/identity authority so silhouette height, build, hair, clothing outline, and later continuity do not drift.
+Generate a reusable Hyejin package only if the supporting-cast decision is approved before page production.
 
-Planned package:
+### Joo Hyun-woo — NOT REQUIRED FOR CHAPTER 001
 
-```text
-manga/02-references/characters/hyunwoo/
-├── canon.md
-├── hyunwoo-reference-generation-prompt.md
-└── hyunwoo-canonical.webp
-```
+Chapter 001 does not show Hyun-woo, a silhouette, a body fragment, or a voice source.
 
-Chapter 001 production must explicitly hide/withhold face/detail according to the page script. The canonical reference being attached does **not** authorize the page to reveal details early.
+Therefore **do not generate or attach Hyun-woo solely for Chapter 001**.
+
+His canonical package should be created later, before the first page that genuinely needs his visual identity.
 
 ---
 
 ## Environments
 
 ### 1. Nari's Apartment — REQUIRED / HIGHLY REUSABLE
-
-This is the most important environment authority in the series.
 
 Planned package:
 
@@ -89,25 +77,26 @@ manga/02-references/environments/nari-apartment/
 ├── nari-apartment-reference-generation-prompt.md
 ├── nari-apartment-master-atlas.webp
 ├── nari-apartment-floor-plan.webp
-└── details/                      # only if truly necessary
+└── details/
 ```
 
 Must establish:
 
-- entry route
+- entry route / front door relationship
 - living/dining relationship
-- work area
-- kitchen relationship
-- bedroom/hallway visibility as needed
-- exact dining chair design/count/normal position
+- work/home activity area
+- kitchen relationship as required
+- bedroom/private-area route as required by Chapter 001
+- exact dining table and chair count/design
+- exact normal chair position and enough fixed geometry to make deliberate chair movement visually provable
 - windows and major fixed furniture
-- powered and blackout-readable geometry
+- believable ordinary modern apartment scale
 
-The recurring chair is part of environment canon unless later story design makes it a separate plot-critical object.
+The chair remains part of the environment package unless later story use requires a separate object authority.
 
-### 2. Nari's Workplace — REQUIRED / REUSABLE IF WORK THREAD CONTINUES
+### 2. Nari's Workplace — REQUIRED IF WORKPLACE OPENING REMAINS
 
-Planned package:
+Planned reusable package:
 
 ```text
 manga/02-references/environments/nari-workplace/
@@ -116,76 +105,65 @@ manga/02-references/environments/nari-workplace/
 └── nari-workplace-master-atlas.webp
 ```
 
-Generate only the minimum recurring zones needed by the story rather than a full company building.
+Generate only the minimum recurring zones required for late-work and normal daytime scenes.
 
-### 3. Apartment Corridor / Entry Common Area — REQUIRED OR MERGED
+### 3. Apartment Corridor / Elevator / Common Route — REQUIRED OR MERGED
 
-If the apartment atlas can include the immediately relevant corridor/door continuity safely, keep it there. Otherwise create a small reusable corridor package.
+The morning neighbor complaint needs a simple recurring common route.
 
-Do not invent a luxury hotel-like common area.
+If it can be safely included in a building/apartment reference package without over-generation, merge it. Otherwise create one compact reusable common-area reference.
 
-### 4. Building Service / Electrical Area — CONDITIONAL
+### 4. Neighbor Interior — NOT REQUIRED AS FULL CANON
 
-If Page 010 / Page 028 maintenance intercuts remain in the approved chapter, create either:
+The previous-night sound scene can be framed from a small local interior crop or doorway/ceiling context without creating a reusable full apartment atlas, unless the neighbor's unit later becomes a recurring location.
 
-- one small reusable service-area environment package, **or**
-- treat the panels as chapter-local derived micro-environment if the location will not recur.
+### Building Service / Electrical Area — NOT REQUIRED FOR CHAPTER 001
 
-Do not spend multiple reference generations on a two-panel location unless later arc use justifies it.
+The revised Chapter 001 no longer uses a maintenance/electrical intercut.
+
+Do not generate this environment yet.
 
 ---
 
 ## Objects
 
-### Smartphone — GENERIC UNLESS STORY-CRITICAL
+### Dining Chair — ENVIRONMENT-LEVEL CONTINUITY OBJECT
 
-Nari's phone should remain visually consistent within the chapter, but a separate canonical object package is not required unless later plot mechanics depend on exact model/design/state.
+Its exact design, count, and reference position must be locked inside the apartment canon/atlas.
 
-### Dining Chair — PART OF APARTMENT ENVIRONMENT
+This is the most important physical continuity marker in Chapter 001.
 
-Do not create a separate chair canonical unless its independent design becomes plot-critical. Its exact design and count should be locked in the apartment atlas.
+### Smart Lock / Access Interface — ENVIRONMENT OR GENERIC DEVICE DETAIL
 
-### Work Computer / Office Equipment — ENVIRONMENT-LEVEL
+The chapter requires believable access-history checking, but a separate object canonical is unnecessary unless the lock becomes plot-critical enough to recur with exact hardware/UI behavior.
 
-Keep ordinary and generic unless later story mechanics require a recurring exact device.
+### Smartphone — GENERIC UNLESS LATER STORY-CRITICAL
+
+Keep visually consistent within Chapter 001, but do not create a separate canonical package yet unless future story mechanics require it.
 
 ---
 
 ## Effects
 
-### Blackout / Darkness Language — LIKELY REUSABLE
+### Blackout Visual-Language Atlas — NOT REQUIRED FOR CHAPTER 001
 
-A recurring series-level effect/style authority may be useful for:
+The revised Chapter 001 does not show a major reader-visible blackout.
 
-- powered-to-blackout transition
-- readable black-and-white dark-room treatment
-- maintaining character/background visibility without cinematic glow
-- avoiding crushed black or artificial blue/night coloration
+Do not generate a blackout-effects atlas merely for this chapter.
 
-Possible package:
-
-```text
-manga/02-references/effects/blackout-visual-language/
-├── canon.md
-├── blackout-visual-language-reference-generation-prompt.md
-└── blackout-visual-language-atlas.webp
-```
-
-Generate only if the approved manga style reference alone is insufficient.
+Create it later before the first substantial blackout chapter if the main manga style reference is insufficient.
 
 ---
 
 ## Chapter 001 Minimal Reference Goal
 
-If the draft is approved, the smallest likely reusable set is:
+Likely minimum reusable set:
 
-1. manga style reference
+1. approved manga style reference
 2. Nari canonical
-3. Hyun-woo canonical
-4. Hyejin canonical only if retained
-5. Nari apartment master atlas + floor plan
-6. Nari workplace atlas
-7. service-area reference only if the parallel scene remains and needs recurring geometry
-8. blackout effect atlas only if style reference cannot carry the recurring dark-room language
+3. Nari apartment master atlas + floor plan
+4. Nari workplace atlas
+5. compact corridor/common-route authority if not included elsewhere
+6. Hyejin canonical only if she is approved for the visible coworker/friend role
 
-The reference pipeline must remain **demand-driven**. Do not generate props or locations merely because they might become useful someday.
+This chapter intentionally avoids generating Hyun-woo, service-area, blackout-effect, and unnecessary prop references before the story actually needs them.
