@@ -2,26 +2,29 @@
 
 Create one folder per recurring character only after the approved story requires that character.
 
-Each character package normally contains:
+Character folders store semantic authorities:
 
 ```text
-<character-id>/
+characters/<character-id>/
 ├── canon.md
 ├── <character-id>-reference-generation-prompt.md
-├── <character-id>-canonical.webp
-└── variants/   # optional
+└── variants/   # optional scripted state notes
 ```
 
-## Generation Format
+Approved final character WebPs are centralized in:
 
-ChatGPT/image generation should first create:
+`manga/02-references/approved-webp/`
 
-`<character-id>-canonical.png`
-
-That PNG is the visual-review candidate only. After approval, the user manually converts the exact accepted PNG to:
+Naming:
 
 `<character-id>-canonical.webp`
 
-Only the WebP is committed/stored as the final canonical visual authority.
+Example:
 
-The canonical WebP should be a compact black-and-white manga model sheet/atlas rather than many redundant generations. Character identity must remain stable across pages while pose, expression, temporary clothing, injuries, and scene-specific state come from the chapter/page script.
+`manga/02-references/approved-webp/nari-canonical.webp`
+
+Generate PNG first, review it, then manually convert the exact approved PNG to the centralized WebP.
+
+Character identity must remain stable across pages while pose, expression, temporary clothing, injuries and scene-specific state come from the page-production MD.
+
+Before generating/regenerating a character, consult `manga/02-references/generation-attachment-map.md` for exact required WebP attachments.
