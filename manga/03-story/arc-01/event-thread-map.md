@@ -2,9 +2,11 @@
 
 ## Status
 
-**DRAFT FOR USER REVIEW — NOT YET CANON-LOCKED.**
+**APPROVED OPENING DIRECTION — ACTIVE CONTINUITY GUIDE.**
 
-Arc 01 should feel like a living serialized story rather than a single apartment mystery played in one straight line. Threads may overlap in time and do not need to appear in every chapter.
+Arc 01 must feel like a living serialized manga, not one apartment mystery repeated in a straight line. Threads may overlap, disappear for chapters, and return with changed consequences.
+
+---
 
 ## THREAD A — NARI / ORDINARY LIFE
 
@@ -14,112 +16,157 @@ Preserve work, friendships, privacy, sleep, and control of her home while the im
 
 ### Starting Information State
 
-Nari believes she lives alone and treats electrical flickers as a maintenance problem.
+Nari believes she lives alone. Her first problem is a neighbor complaint and possible unauthorized apartment access.
 
-### Arc Movement
+### Movement
 
-- Chapter 001: ordinary life established; first undeniable intrusion
-- Chapters 002–004: security response and disbelief
-- Chapters 005–008: practical testing collides with work/social life
-- Chapters 009–012: boundaries and domestic coexistence begin
-- Chapters 013–017: secrecy has external consequences
+- Chapter 001: ordinary life + impossible noise complaint
+- Chapters 002–004: practical security response and mundane theories
+- Chapters 005–008: electrical correlation and first unseen direct encounter
+- Chapters 009–013: human identity begins; testing and evidence problems
+- Chapters 014–017: boundaries collide with normal-life consequences
 - Chapters 018–020: Nari chooses provisional coexistence knowingly
 
-## THREAD B — HYUN-WOO / HIDDEN PRESENCE
+---
+
+## THREAD B — APARTMENT ACTIVITY / HIDDEN PRESENCE
 
 ### Goal
 
-Remain functional during the conditions that permit his presence while limiting what Nari learns about him too quickly.
+Build the presence from traces to person without revealing Hyun-woo too quickly.
 
 ### Starting Information State
 
-Hyun-woo knows more about the apartment and the blackout condition than Nari. The reader does not know how much.
+The apartment produces reports/traces that suggest someone uses it while Nari is absent or unaware.
 
-### Arc Movement
+### Movement
 
-- Chapter 001: first on-page physical presence; claims prior connection to apartment
-- Chapter 002: disappears when normal power returns
-- Chapters 004–008: gives only observable/basic information
-- Chapters 009–012: personality emerges through conflict and routine
-- Chapters 013–017: knowledge of building/past becomes harder to dismiss
-- Chapters 018–020: chooses Nari's safety/agency over his easiest self-interest
+- Chapter 001: footsteps/chair scrape reported while Nari is away; reader-only chair movement ending
+- Chapters 002–004: more physical-state inconsistencies, still no visible actor
+- Chapters 005–006: activity begins correlating with electrical irregularities
+- Chapter 007: unseen human presence directly experienced
+- Chapter 008: first voice
+- Chapters 009–010: partial then clearer human visual
+- Chapters 011–013: observable condition testing and proof problems
+- Chapters 014–020: behavior/choices turn the `presence` into a difficult person Nari must actually deal with
 
-## THREAD C — APARTMENT / BUILDING ELECTRICAL IRREGULARITIES
+---
+
+## THREAD C — ELECTRICAL IRREGULARITIES
 
 ### Goal
 
-Provide grounded physical events that can first be mistaken for normal building problems.
+Begin as boring building behavior and gradually become a meaningful correlation.
 
 ### Starting Information State
 
-Minor clock resets, flickers, relay behavior, or short service interruptions have ordinary-looking explanations.
+Minor clock resets, flickers, router restarts, or service interruptions can be explained as normal building problems.
 
-### Arc Movement
+### Movement
 
-- Chapter 001: subtle pre-blackout anomalies + genuine late-night outage
-- Chapters 003–005: Nari begins separating coincidence from reproducible condition
-- Chapters 008–012: duration and timing create different interaction windows
-- Chapters 013–017: building/history evidence becomes inconsistent
-- Chapters 018–020: outage event produces an arc-level practical consequence
+- Chapter 001: no reader-facing electrical explanation; creator continuity may contain an unseen brief supplied-power interruption during the final-night movement window
+- Chapters 002–004: electrical details remain background noise, not the main theory
+- Chapter 005: Nari notices a loose correlation
+- Chapter 006: a brief genuine interruption overlaps a verifiable physical change
+- Chapter 007: first substantial blackout while Nari is home
+- Chapters 011–013: Nari distinguishes supplied-power loss from merely switching off lights/devices
+- late Arc 01: outage duration/extent creates different problems and consequences
+
+---
 
 ## THREAD D — EXTERNAL HUMAN ANCHOR
 
 ### Working Candidate
 
-**Koo Hyejin** may be deliberately reused as Nari's trusted friend/coworker if approved.
+**Koo Hyejin** remains a possible trusted coworker/friend, not yet locked.
 
 ### Goal
 
-Keep Nari connected to ordinary life and provide a person who notices behavioral inconsistencies before receiving supernatural exposition.
+Keep Nari connected to normal life and give the reader a perspective that knows Nari well but does not automatically believe impossible explanations.
 
-### Rule
+### Rules
 
-Do not make the external anchor immediately believe Nari or become a convenient lore assistant. Their value is that they know Nari well enough to recognize when something is changing.
+- do not make this character a lore assistant
+- do not let them immediately conclude `ghost` or `blackout roommate`
+- their strongest value is noticing Nari's changing behavior, sleep, secrecy, and reliability
 
-### Arc Movement
+### Movement
 
-- Chapter 001: ordinary workplace friendship
-- Chapters 007–015: Nari's evasiveness creates tension/comedy
-- Later Arc 01: external anchor notices an independently verifiable inconsistency
+- Chapter 001: optional ordinary work/friend presence
+- Chapters 002–006: mundane sounding board only
+- Chapters 007–015: Nari becomes harder to explain socially
+- later Arc 01: external anchor may independently witness one verifiable inconsistency
 
-## THREAD E — WIDER PATTERN
+---
 
-### Goal
-
-Seed the possibility that the phenomenon is not limited to one apartment without turning Arc 01 into a citywide conspiracy story too early.
-
-### Arc Movement
-
-- Chapter 001: at most one tiny parallel electrical irregularity; no explanation
-- Early Arc 01: mostly dormant
-- Mid/Late Arc 01: one or two grounded echoes outside Nari's immediate experience
-- Arc ending: one contradiction clearly opens the next mystery layer
-
-## THREAD F — UNSEEN CAUSE / OPPOSITION
+## THREAD E — BUILDING / MUNDANE INVESTIGATION
 
 ### Goal
 
-Create pressure and pattern without naming the final cause.
+Give ordinary explanations enough substance that dismissing them feels earned.
 
-### Rule
+Possible material:
 
-Arc 01 should not give the unseen cause a villain monologue, clear face, final name, or complete mechanism.
+- neighbor complaints
+- acoustics
+- access histories
+- maintenance/master-key procedures
+- door hardware
+- prior occupancy questions
+- building service records
+- ordinary repair visits
 
-Evidence may appear as:
+### Movement
 
-- timing that seems too convenient
-- evidence that fails in a specific way
-- a blackout behaving differently from a previous one
-- Hyun-woo reacting to something he refuses to explain
+- Chapter 001: neighbor complaint establishes thread
+- Chapters 002–004: strongest mundane theories are actively tested
+- Chapters 005–010: building details become supporting evidence, not instant supernatural proof
+- late Arc 01: one building/history fact may connect to Hyun-woo's impossible knowledge
+
+---
+
+## THREAD F — WIDER PATTERN
+
+### Goal
+
+Seed the possibility that the apartment is not the entire story without escalating into citywide conspiracy too early.
+
+### Movement
+
+- Chapters 001–08: effectively dormant
+- Chapters 009–13: at most tiny echoes, if needed
+- Chapters 014–19: one or two external inconsistencies may appear
+- Chapter 020: one clear next-layer contradiction opens the future arc
+
+---
+
+## THREAD G — UNSEEN CAUSE / OPPOSITION
+
+### Goal
+
+Create long-range pressure without naming the final cause.
+
+### Arc 01 Rule
+
+No villain monologue, final face, final name, or complete mechanism.
+
+Evidence may appear only through consequences such as:
+
+- proof failing in specific ways
+- a power event behaving differently than expected
+- Hyun-woo reacting to something he does not explain
+- a record/history contradiction late in the arc
+
+---
 
 ## Chapter 001 Thread Use
 
 Chapter 001 primarily advances:
 
-- Thread A — Nari ordinary life
-- Thread B — hidden presence only at the ending
-- Thread C — subtle electrical irregularity and blackout
-- Thread D — one grounded work/friend scene
-- Thread E — optional one-page maintenance/electrical intercut only
+- Thread A — Nari's ordinary adult life
+- Thread B — unexplained apartment activity
+- Thread E — neighbor/security logic
 
-Thread F remains implicit. No named opposition appears.
+Thread C exists only in creator continuity during the final-night window and is **not identified to the reader as causal**.
+
+Threads F and G remain invisible.
