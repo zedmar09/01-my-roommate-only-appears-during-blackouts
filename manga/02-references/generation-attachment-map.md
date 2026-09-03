@@ -2,238 +2,260 @@
 
 This file answers one question for every generation step:
 
-**Which approved WebP images must be attached to ChatGPT/image generation for the strongest continuity?**
+**Which approved WebP images must be attached for the strongest continuity without overpowering the page-specific Markdown?**
 
-All final reusable WebP authorities live in:
+All reusable canonical WebP authorities live in:
 
 `manga/02-references/approved-webp/`
 
-PNG review candidates are not reusable authorities.
+For sketch-first page production, also see:
+
+`manga/04-production/layout-sketch-workflow.md`
 
 ---
 
-## Absolute Rendering Rule
+## Core Rule — Story Pages vs Reference Development
 
-The approved Style A + Style B images control broad manga drawing language only.
+The reusable style sheets:
 
-They do **not** authorize:
+- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
 
-- cinematic lighting
-- poster/key-art polish
-- large default solid-black masses
-- noir treatment for ordinary scenes
-- glossy webtoon rendering
-- film-still composition
-- photoreal/3D-derived rendering
+remain approved reference-development assets.
 
-The global visual target is a **visibly human-drawn black-and-white manga page** using organic linework, white paper, restrained screentone, hand hatching, and sparse spot blacks.
+They are **not automatic story-page generation attachments**.
 
-See:
+For Chapter 001 story-page sketches and final story pages, default to **NOT attaching Style A/B** because their visual finish may overpower the page Markdown and cause cinematic, heavy-black, glossy or key-art drift.
 
-- `manga/01-style/manga-style-lock.md`
-- `manga/01-style/screentone-and-hatching-guide.md`
-
-If a style reference contains a heavily rendered/dark region, extract only the useful line/anatomy/hatching language needed by the page. Do not automatically copy its darkness or cinematic drama.
+The written page-production file and global manga style lock control story-page rendering.
 
 ---
 
-## User-Supplied Page Sketch / Thumbnail Rule
+## Approved Canonical Visual Pool
 
-If the user supplies or has already approved a page-specific sketch/thumbnail/layout image, attach it for the generation request.
-
-For that generation, the supplied sketch is the **highest composition authority** and controls:
-
-- panel geometry/proportions
-- panel order
-- framing/camera intent
-- character blocking
-- major object placement
-- negative space
-- balloon-placement intent
-- rough manga-page rhythm
-
-Do not redesign, beautify, cinematicize, or “improve” an approved page sketch.
-
-The sketch controls composition only. Canonical character/environment references still control identity and reusable geometry.
-
----
-
-## Approved Chapter 001 Reference Pool
-
-1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-3. `manga/02-references/approved-webp/nari-canonical.webp`
-4. `manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
-5. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
-
-The apartment master atlas already provides sufficient floor-plan/spatial authority for Chapter 001. No separate apartment floor-plan WebP is required.
-
----
-
-## Series Style References
-
-Status: **COMPLETED / APPROVED PAIR**
-
-- Style A: `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-- Style B: `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-
-Attach both to every Chapter 001 manga-page generation. They control **broad hand-drawn manga rendering language only**.
-
-They never control story-character identity, reusable environment geometry, page-specific layout, or permission to increase cinematic polish/darkness.
-
----
-
-## Yoon Nari Canonical
-
-Status: **COMPLETED / APPROVED**
-
-Semantic authority:
-
-`manga/02-references/characters/nari/canon.md`
-
-Approved visual:
+### Character
 
 `manga/02-references/approved-webp/nari-canonical.webp`
 
-Whenever Nari is visible on a manga page, attach:
+Use when Nari is visible. It controls identity only:
 
-1. Style A
-2. Style B
-3. Nari canonical
-4. the page's required environment atlas, when a canonical environment is visible
-5. a user-approved page sketch/thumbnail when one exists for that page
+- face
+- hair
+- age read
+- proportions
+- approved outfit construction
 
-Nari canonical overrides any generic person identity shown in Style A/B.
+It does not control page composition or rendering finish.
 
----
-
-## Nari Apartment Master Atlas
-
-Status: **COMPLETED / APPROVED**
-
-Semantic authority:
-
-`manga/02-references/environments/nari-apartment/canon.md`
-
-Approved visual:
+### Environment
 
 `manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
 
-The atlas controls apartment interior geometry plus the immediate front-door/corridor/elevator route required by Chapter 001.
-
-Use on Pages 006–010 and 019–036 whenever the apartment/common-route environment is visible.
-
-Do not generate a separate floor plan for Chapter 001.
-
----
-
-## Nari Workplace Master Atlas
-
-Status: **COMPLETED / APPROVED**
-
-Semantic authority:
-
-`manga/02-references/environments/nari-workplace/canon.md`
-
-Approved visual:
+Use when the approved apartment/common-route environment is visible.
 
 `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
 
-Use on Pages 001, 004–005, and 011–018 whenever the publishing-office environment is visible.
+Use when Nari's publishing workplace is visible.
+
+Environment atlases control spatial/design continuity, not cinematic finish.
 
 ---
 
-## Chapter 001 Page Attachment Rules
+## Page-Specific Layout Sketch Rule
 
-### Workplace page with visible Nari
+If a `page-###-production.md` declares an approved layout sketch required, attach:
 
-Attach:
+`page-###-layout-sketch.webp`
 
-1. Style A
-2. Style B
-3. Nari canonical
-4. Nari workplace atlas
-5. previous approved page WebP only when local seam continuity materially helps
-6. user-approved page sketch/thumbnail when one exists for that page
+for Stage B final-page generation.
 
-### Apartment/corridor/elevator page with visible Nari
+The layout sketch controls:
 
-Attach:
+- panel boundaries
+- panel proportions
+- page rhythm
+- camera/framing
+- character blocking
+- major prop placement
+- negative-space structure
+- balloon-placement intent
 
-1. Style A
-2. Style B
-3. Nari canonical
-4. Nari apartment atlas
-5. previous approved page WebP when the scene continues
-6. user-approved page sketch/thumbnail when one exists for that page
+The final generator must not redesign or cinematicize the approved sketch.
 
-### Empty apartment page
+Missing required layout sketch = **STOP FINAL PAGE GENERATION**.
 
-Attach:
+---
 
-1. Style A
-2. Style B
-3. Nari apartment atlas
-4. previous approved page WebP when required for exact Chair B state / camera continuity
-5. user-approved page sketch/thumbnail when one exists for that page
+## Stage A — Layout Sketch Attachments
 
-Do not attach Nari canonical when Nari is not visible merely because she owns the apartment.
+Typical layout-sketch generation request:
 
-### Downstairs-neighbor-only page before the common-route scene
+1. `page-###-production.md`
+2. required character canonical WebP(s)
+3. required environment atlas WebP(s)
+4. required object/effect WebP(s) only if essential to staging
 
-Attach Style A + Style B. The neighbor/interior are chapter-local and should be preserved across adjacent pages using the immediately previous approved page WebP rather than creating speculative canonicals.
+Do not automatically attach Style A/B.
 
-Attach a user-approved page sketch/thumbnail when one exists for that page.
+The Stage A output is a rough human-drawn manga page layout, not finished key art.
+
+---
+
+## Stage B — Final Page Attachments
+
+Typical final-page generation request:
+
+1. `page-###-production.md`
+2. approved `page-###-layout-sketch.webp` when required
+3. required character canonical WebP(s)
+4. required environment/object/effect WebP(s)
+5. previous approved page WebP only when local seam continuity is materially needed
+
+Do not automatically attach Style A/B.
+
+---
+
+## Page 001 — Exact Workflow
+
+### Stage A — Generate Page 001 layout sketch
+
+Attach exactly:
+
+1. `manga/04-production/arc-01/chapter-001/page-001-production.md`
+2. `manga/02-references/approved-webp/nari-canonical.webp`
+3. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
+
+Do not attach Style A/B.
+
+Generate:
+
+`page-001-layout-sketch.png`
+
+After approval, manually convert the exact accepted PNG and commit:
+
+`manga/04-production/arc-01/chapter-001/page-001-layout-sketch.webp`
+
+### Stage B — Generate final Page 001
+
+Only after the approved sketch exists, attach exactly:
+
+1. `manga/04-production/arc-01/chapter-001/page-001-production.md`
+2. `manga/04-production/arc-01/chapter-001/page-001-layout-sketch.webp`
+3. `manga/02-references/approved-webp/nari-canonical.webp`
+4. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
+
+Do not attach Style A/B.
+
+---
+
+## Workplace Page With Visible Nari
+
+Default story-page attachments:
+
+- page production MD
+- approved page layout sketch if required
+- Nari canonical
+- workplace atlas
+- previous approved page only if seam continuity requires it
+
+No Style A/B by default.
+
+---
+
+## Apartment / Corridor / Elevator Page With Visible Nari
+
+Default story-page attachments:
+
+- page production MD
+- approved page layout sketch if required
+- Nari canonical
+- apartment atlas
+- previous approved page when scene continuity requires it
+
+No Style A/B by default.
+
+---
+
+## Empty Apartment Page
+
+Default story-page attachments:
+
+- page production MD
+- approved page layout sketch if required
+- apartment atlas
+- previous approved page when exact Chair B/camera continuity requires it
+
+Do not attach Nari canonical merely because she owns the apartment.
+
+No Style A/B by default.
+
+---
+
+## Downstairs-Neighbor-Only Pages
+
+The neighbor remains chapter-local.
+
+Use:
+
+- page production MD
+- approved layout sketch if required
+- previous approved page for neighbor/interior continuity when needed
+
+Do not create speculative reusable neighbor canon solely for Chapter 001.
+
+No Style A/B by default.
 
 ---
 
 ## Previous-Page Continuity
 
-The previous approved manga page may be attached only for local seam continuity such as:
+The previous approved manga page may be attached only for local seam continuity:
 
 - pose/facing direction
 - temporary object state
 - chapter-local neighbor identity
-- ongoing camera/environment crop
-- Chair B exact position
-- ongoing motion/action
+- ongoing environment crop
+- Chair B position
+- ongoing action
 
-Previous-page art never overrides canonical character/environment WebPs.
-
-A user-approved page sketch may override previous-page art for current-page composition while preserving continuity facts.
+Previous-page art never overrides canonical identity/geometry or the page-specific approved layout sketch.
 
 ---
 
-## Conditional / Deferred
+## Style A/B Opt-In Exception
 
-### Hyejin
+A specific story-page production MD may opt Style A/B back in only if:
 
-No visible Hyejin canonical is required for Chapter 001. Keep any optional friend/phone presence offscreen. Do not generate Hyejin yet.
+1. repeated testing demonstrates that they improve that page,
+2. they do not overpower the written production file,
+3. they do not cause cinematic/heavy-black/glossy drift,
+4. they do not change the approved layout sketch,
+5. the page MD explicitly lists them as required.
 
-### Hyun-woo
+Otherwise: **do not attach them to story-page generation.**
 
-Do not generate or attach for Chapter 001. He is not visible, voiced, silhouetted, or identified.
+---
 
-### Other deferred references
+## Deferred Chapter 001 References
 
 Do not generate solely for Chapter 001:
 
+- Hyun-woo canonical
 - separate apartment floor plan
 - blackout visual-language atlas
 - building service/electrical area
-- separate dining-chair object
-- separate smartphone
-- separate smart lock
+- separate dining-chair object canonical
+- separate smartphone canonical
+- separate smart-lock canonical
 - full neighbor canonical
+- Hyejin canonical
 
 ---
 
 ## Chapter Production Authority
 
-Before generating any Chapter 001 page, consult:
+Before generating any Chapter 001 page, consult its exact `page-###-production.md` and:
 
 `manga/04-production/arc-01/chapter-001/chapter-001-pages-generation-guide.md`
 
-Each `page-###-production.md` must explicitly list the exact subset of approved WebPs required for that page.
-
-When a page-production file contains stricter anti-cinematic / human-drawn rules, those page-specific rules are binding.
+Never attach every available WebP automatically.
