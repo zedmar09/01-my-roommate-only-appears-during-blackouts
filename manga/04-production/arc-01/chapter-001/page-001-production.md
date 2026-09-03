@@ -43,6 +43,10 @@ Missing approved layout sketch = **STOP. DO NOT GENERATE THE FINAL PAGE.**
 
 Stage B must preserve the approved sketch rather than inventing, redesigning, beautifying, cinematicizing, or re-staging it.
 
+### Current repository state
+
+At the time this production rule is established, `page-001-layout-sketch.webp` has not yet been created. Therefore Page 001 is intentionally **blocked at Stage A** until a sketch candidate is generated, visually approved, converted to WebP and committed.
+
 ---
 
 ## 3. STYLE SHEET ATTACHMENT BAN FOR STORY-PAGE GENERATION
