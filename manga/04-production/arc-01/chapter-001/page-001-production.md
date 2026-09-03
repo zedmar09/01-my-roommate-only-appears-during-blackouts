@@ -7,32 +7,46 @@
 - chapter: `Chapter 001`
 - page: `001`
 - working label: `Still At Work`
-- production status: **BLOCKED — APPROVED LAYOUT REFERENCE REQUIRED**
-- final-page review candidate: `page-001.png`
+- production status: **READY FOR DIRECT FINAL-PAGE GENERATION**
+- review candidate: `page-001.png`
 - final approved repository output after manual conversion: `page-001.webp`
-- required composition authority: `page-001-layout-reference.webp`
 
-This file generates the **final Page 001 manga page only**.
+This file is the **complete and only required production Markdown for Page 001**.
 
-Layout-reference generation is handled separately by:
+Page 001 does **not** require a separate layout-reference generation step.
 
-`manga/04-production/arc-01/chapter-001/page-001-layout-production.md`
+Global visual authority:
+
+- `manga/01-style/manga-style-lock.md`
 
 Global lettering authority:
 
-`manga/01-style/reader-visible-language-lock.md`
+- `manga/01-style/reader-visible-language-lock.md`
 
 ---
 
-## 2. Production Gate — ABSOLUTE
+## 2. Direct Production Rule — ABSOLUTE
 
-Do not generate the final Page 001 until this approved file exists:
+Generate Page 001 directly from this production MD plus the exact canonical visual references listed below.
 
-`manga/04-production/arc-01/chapter-001/page-001-layout-reference.webp`
+Do not block generation waiting for:
 
-Missing approved layout reference = **STOP FINAL PAGE GENERATION**.
+- `page-001-layout-production.md`
+- `page-001-layout-reference.png`
+- `page-001-layout-reference.webp`
 
-The layout reference controls composition. This final production MD controls final story content, exact English script, final manga rendering and QA.
+Those files are not part of the normal Page 001 workflow.
+
+This production MD itself controls:
+
+- panel structure
+- camera/framing
+- character blocking
+- poses/actions
+- environment staging
+- speech-balloon placement
+- exact English lettering
+- final 2D manga rendering
 
 ---
 
@@ -41,29 +55,30 @@ The layout reference controls composition. This final production MD controls fin
 When generating `page-001.png`, attach exactly:
 
 1. `manga/04-production/arc-01/chapter-001/page-001-production.md`
-2. `manga/04-production/arc-01/chapter-001/page-001-layout-reference.webp`
-3. `manga/02-references/approved-webp/nari-canonical.webp`
-4. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
+2. `manga/02-references/approved-webp/nari-canonical.webp`
+3. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
 
 Do **not** attach:
 
 - `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
 - `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-
-Reason: for story-page generation these broad style images have repeatedly overpowered the Markdown and caused incorrect cinematic/polished drift.
+- `page-001-layout-reference.webp`
+- any previous page, because Page 001 is the first page
+- extra story/canon Markdown files
 
 ### Attachment roles
 
-1. `page-001-production.md` — final story/page instruction and exact English lettering authority
-2. `page-001-layout-reference.webp` — absolute composition/staging authority
-3. `nari-canonical.webp` — Nari identity authority
-4. `nari-workplace-master-atlas.webp` — workplace geometry authority
+- `page-001-production.md` — page composition, story, final rendering, balloon and exact English-text authority
+- `nari-canonical.webp` — Nari identity only
+- `nari-workplace-master-atlas.webp` — workplace geometry/design only
 
-No attached image may override the finished 2D manga or English-only lettering rules.
+Canonical image references must not override this MD's composition, text or finished-manga rules.
 
 ---
 
 ## 4. Source Authority — INTERNAL AUDIT ONLY
+
+These files help audit/compile this page but are not generation attachments:
 
 - `manga/00-series/story-concept.md`
 - `manga/00-series/continuity-ledger.md`
@@ -80,11 +95,8 @@ No attached image may override the finished 2D manga or English-only lettering r
 - `manga/03-story/arc-01/chapter-001/dialogue-script.md`
 - `manga/03-story/arc-01/chapter-001/page-map.md`
 - `manga/04-production/arc-01/chapter-001/chapter-001-pages-generation-guide.md`
-- `manga/04-production/arc-01/chapter-001/page-001-layout-production.md`
 - `manga/02-references/characters/nari/canon.md`
 - `manga/02-references/environments/nari-workplace/canon.md`
-
-These source Markdown files are not image-generation attachments.
 
 ---
 
@@ -95,9 +107,9 @@ These source Markdown files are not image-generation attachments.
 - aspect ratio: **2:3**
 - right-to-left manga reading
 - one complete manga page only
-- conventional manga margins/gutters
 - black-and-white only
-- no webtoon spacing
+- conventional manga margins and gutters
+- no vertical-webtoon spacing
 
 ---
 
@@ -105,9 +117,9 @@ These source Markdown files are not image-generation attachments.
 
 ### Narrative purpose
 
-Open the series on ordinary adult life, not supernatural horror.
+Open the series on ordinary adult working life and establish that Nari is physically at her publishing-company workplace late at night.
 
-The reader must clearly understand that Nari is physically at her publishing-company workplace after midnight. This is the first half of the later simultaneity contradiction.
+This becomes the first half of the later contradiction that activity was heard at her apartment while she was away.
 
 ### Story time
 
@@ -119,9 +131,9 @@ Nari's approved publishing-company editorial office.
 
 ### Emotional tone
 
-- ordinary deadline fatigue
+- normal deadline fatigue
 - grounded adult routine
-- mild dry work humor
+- mild dry humor
 - calm professional atmosphere
 - not horror
 - not ominous
@@ -131,9 +143,9 @@ Nari's approved publishing-company editorial office.
 
 Ordinary supplied power. No visible supernatural activity.
 
-### Page-turn function
+### Page-turn role
 
-The next page cuts to activity heard from Nari's apartment while she is away. Page 001 must therefore make Nari's location unmistakable.
+The next page cuts away to activity heard from Nari's apartment. Page 001 must make Nari's physical location unmistakable.
 
 ---
 
@@ -141,280 +153,353 @@ The next page cuts to activity heard from Nari's apartment while she is away. Pa
 
 - Nari is age 30 and matches `nari-canonical.webp`
 - approved practical publishing-office work outfit
-- hair loose by default
+- dark hair loose by default
 - tired but composed
-- seated/working at her recurring desk
-- a small number of ordinary coworkers may remain or leave
+- working at her recurring desk from the workplace atlas
+- one unnamed ordinary coworker may briefly appear
 - no named supporting character appears
 - no apartment mystery has been mentioned to Nari
 - no supernatural clue is in Nari's awareness
 
 ---
 
-## 8. Composition Authority — LAYOUT REFERENCE LOCK
+## 8. Exact Page Composition Authority
 
-Follow:
+Generate exactly **4 stacked manga panels**.
 
-`page-001-layout-reference.webp`
+The page should resemble a conventional printed manga page with four horizontal reading bands, not a rigid equal-height four-box template.
 
-as the absolute visual authority for:
+### Panel hierarchy
 
-- panel count/order
-- panel boundaries
-- panel proportions
-- camera/framing
-- character blocking
-- pose/facing direction
-- major environment/prop placement
-- negative space
-- speech-balloon placement
+1. **Panel 1 — wide upper establishing panel**
+   - broad office view
+   - Nari clearly visible at her desk
+   - enough environment to prove publishing-office location
 
-Do not redesign, cinematicize, restage or replace its composition.
+2. **Panel 2 — medium coworker interaction panel**
+   - coworker near Nari's desk
+   - Nari turns/looks toward coworker
+   - one coworker speech balloon
 
-The layout reference should contain empty balloons. Final rendering adds the exact approved English text below.
+3. **Panel 3 — largest character-focused panel**
+   - strongest close/medium-close view of Nari
+   - Nari working with proofs and pen/paper
+   - one Nari speech balloon
 
-Expected story structure remains exactly 4 panels with these beats:
+4. **Panel 4 — wide lower time/location proof panel**
+   - Nari still working
+   - office visibly quieter/emptier
+   - analog wall clock may reinforce after-midnight timing
 
-1. late-night publishing-office establishing
-2. coworker checks on Nari
-3. Nari answers while continuing proof work
-4. quiet time/location proof that she remains at work
+### Composition rules
+
+- preserve clear top-to-bottom page flow
+- keep manga right-to-left balloon logic inside dialogue panels
+- Panel 3 should carry the strongest character emphasis
+- Panels 1 and 4 should establish/reconfirm environment
+- do not add diagonal cinematic split screens
+- do not add inset panels
+- do not add extra panels
+- do not merge panels
 
 ---
 
-## 9. Panel Content Requirements
+## 9. Panel-by-Panel Blueprint
 
-### Panel 1 — Office Establishing
+### Panel 1 — Late-Night Editorial Office Establishing
 
-- Nari clearly visible at her recurring desk
-- workplace reads immediately as publishing/editorial
-- printed proofs/manuscripts/books visibly important
-- screens secondary
+Required:
+
+- wide late-night view of the approved workplace
+- Nari visible at her recurring desk
+- printed proofs/manuscripts/books/reference materials visible
+- computers secondary
 - some desks already empty
-- late-night context visible without horror/cinematic lighting
-- **no reader-visible text**
+- ordinary office lighting
+- city-night context through windows if consistent with atlas
+- no speech balloon
+- no caption
+- no reader-visible text
+
+The panel must read as **publishing/editorial work**, not software/game/engineering work.
 
 ### Panel 2 — Coworker Check-In
 
-- generic unnamed adult coworker
-- ordinary leaving-work body language
-- coworker does not visually compete with Nari
-- fill the approved empty balloon with exactly:
+Required:
+
+- one generic unnamed adult coworker near Nari's desk
+- coworker appears ready to leave: bag/coat/body language is enough
+- Nari naturally looks toward coworker
+- coworker remains visually secondary and non-mysterious
+- exactly one normal speech balloon
+
+Exact balloon text:
 
 `You're still here?`
 
-### Panel 3 — Nari Working
+### Panel 3 — Nari Responds While Working
 
-- Nari continues handling printed proof/manuscript pages
-- readable natural hand action
+Required:
+
+- Nari remains seated/working
+- printed proof/manuscript pages visible
+- one hand naturally holds/marks paper with a pen or pencil
+- other hand naturally supports/handles pages
 - tired, composed, mildly resigned expression
-- no exaggerated comedy or glamour pose
-- fill the approved empty balloon with exactly:
+- no glamour pose
+- exactly one normal speech balloon
+
+Exact balloon text:
 
 `Just one more pass.`
 
 ### Panel 4 — Time / Location Proof
 
-- Nari remains at work
-- office mostly quiet/empty
-- ordinary visual cue establishes after midnight
+Required:
+
+- Nari still at work
+- same workplace continuity
+- surrounding office substantially quieter/emptier
+- quiet wide framing with breathing room
 - analog wall clock may indicate approximately 12:25–12:30
 - no dialogue
 - no narration
 - no SFX
-- no readable background text
+- no reader-visible background text
+
+This panel must quietly prove Nari remains away from home.
 
 ---
 
-## 10. EXACT SCRIPT / LETTERING — ENGLISH ONLY
+## 10. EXACT ENGLISH-ONLY LETTERING LOCK — ABSOLUTE
 
 **Reader-visible language: ENGLISH ONLY.**
 
-Panel 1: silence.
+The generator must never translate, localize, substitute or invent another language.
+
+### The only permitted reader-visible words on Page 001
 
 Panel 2:
 
-COWORKER: `You're still here?`
+`You're still here?`
 
 Panel 3:
 
-NARI: `Just one more pass.`
+`Just one more pass.`
 
-Panel 4: silence.
+No other reader-visible words are permitted.
 
-These are the **only reader-visible words permitted on Page 001**.
-
-Do not translate, paraphrase or restyle the wording into another language.
-
-Absolutely do not generate:
+### Absolutely forbidden
 
 - Japanese text
 - Korean text
 - Chinese text
 - any other non-English script
-- fake multilingual glyphs
-- company names
-- book/manuscript titles
-- readable proof/document text
-- binder/folder labels
-- sticky-note writing
-- logos
-- captions
-- SFX
-- fake UI
-- monitor text
+- pseudo-Asian glyphs
+- fake multilingual text
+- gibberish pretending to be writing
 - extra dialogue
+- captions
+- narration
+- SFX
+- company names
+- logos
+- book/manuscript titles
+- readable proof text
+- folder/binder labels
+- sticky-note writing
+- signs
+- monitor/UI text
+- mug text
+- readable document text
 
-Arabic numerals on an analog clock face are allowed.
+Background documents/books/screens must use blank, abstract, cropped, obscured or non-legible marks.
+
+Arabic numerals are allowed on an analog clock face if used.
 
 Any other readable text = **AUTOMATIC REJECT**.
 
 ---
 
-## 11. Character Requirements
+## 11. Balloon Requirements — EXACTLY TWO
+
+The final page contains exactly **2 speech balloons total**.
+
+- Panel 1: **0 balloons**
+- Panel 2: **1 normal speech balloon** belonging to coworker
+- Panel 3: **1 normal speech balloon** belonging to Nari
+- Panel 4: **0 balloons**
+
+Balloon rules:
+
+- ordinary clean manga speech balloons
+- tails clearly identify correct speaker
+- do not cover faces or important hand action
+- integrated into composition, not pasted over finished art
+- no empty balloons in final output
+- no thought balloons
+- no caption boxes
+- no jagged/shouting balloons
+- no extra balloon shapes
+
+---
+
+## 12. Character Requirements
 
 ### Nari
 
 - exact identity from `nari-canonical.webp`
-- unmistakably adult Korean woman, age 30
-- approved work outfit construction
+- adult Korean woman, age 30
+- approved work outfit
+- loose dark hair
 - natural adult proportions
 - readable hands
 - tired but composed
 - not teen-coded
 - not glamorous/fashion-editorial
 - not frightened or suspicious
-- no cinematic heroine posing or lighting
+- no cinematic heroine posing/lighting
 
 ### Unnamed coworker
 
 - ordinary adult office worker
 - generic/non-canonical
+- visually secondary
 - no mystery emphasis
-- no dramatic design
+- no exaggerated beauty/fashion design
 - no future-important visual coding
 
 ---
 
-## 12. Environment / Object Requirements
+## 13. Environment / Object Requirements
 
 ### Workplace
 
-- use approved workplace spatial identity
-- preserve Nari desk orientation/location
-- manuscripts/proofs/books must visually establish editorial work
-- computers remain ordinary tools
-- same architecture/furniture as workplace atlas
-- late-night state changes occupancy, not geometry
-- all documents/books/screens remain unreadable/blank unless explicitly permitted above
+Use `nari-workplace-master-atlas.webp` for:
+
+- office geometry
+- Nari's recurring desk location/orientation
+- desk/furniture relationships
+- editorial-office identity
+
+Required publishing cues:
+
+- manuscripts/proofs
+- books/reference material
+- paper stacks
+- ordinary office stationery
+- shelves/partitions/desks
+
+Computers are allowed as ordinary tools but must not dominate the workplace identity.
 
 ### Objects
 
 - printed proofs/manuscript pages with no readable text
-- ordinary pen/pencil
-- optional simple bag/coat for departing coworker
-- no plot-critical new object
+- pen/pencil
+- ordinary desk equipment
+- optional coworker bag/coat
+
+Do not add plot-critical objects.
 
 ---
 
-## 13. FINISHED 2D HAND-DRAWN MANGA QUALITY LOCK — ABSOLUTE
+## 14. FINISHED 2D HAND-DRAWN MANGA QUALITY LOCK — ABSOLUTE
 
-This page is **not a sketch**.
+This is the **final page**, not a layout draft or sketch.
 
-Target: finished professional black-and-white 2D manga page quality.
+Target: finished professional black-and-white 2D manga intended for print.
 
 Required:
 
-- clean confident inked line art
+- clean confident manga inks
 - natural pen/brush line-weight variation
-- crisp character contours and interior detail
-- refined faces, hands and anatomy
-- clean 2D perspective/background lines
+- refined faces, anatomy and hands
+- crisp 2D background perspective
 - screentone used as manga tone
-- hand hatching/cross-hatching where appropriate
-- flat solid-black ink shapes where graphically useful
-- clean white paper/negative space
-- integrated manga speech balloons
-- conventional printed-manga page readability
+- hatching/cross-hatching where useful
+- flat graphic solid-black ink shapes where appropriate
+- clean white/negative space
+- integrated speech balloons
+- conventional printed-manga readability
 
-Solid black is allowed and may be substantial where appropriate. It must read as **flat graphic ink**, not cinematic shadow rendering.
+Solid black is allowed and may be substantial where graphically appropriate. It must read as **flat manga ink**, not cinematic lighting/shadow simulation.
 
-Do NOT produce:
+Reject:
 
 - rough pencils
-- visible construction lines
-- scribbly sketch output
-- unfinished storyboard quality
-- glossy digital illustration
-- movie-still lighting
+- construction lines
+- scribbly sketch finish
+- storyboard-only art
+- cinematic/movie-still lighting
+- glossy webtoon rendering
 - painterly grayscale
 - photorealism
 - CGI/3D
+- smooth airbrushed gradients
 - bloom
 - lens flare
 - volumetric light
 - depth-of-field blur
 - photographic bokeh
-- airbrushed gradients
-- smooth digital shadow modeling
+- simulated lens/camera effects
 
-Night should be expressed through manga ink/tone design, not simulated cinematic exposure.
+Night must be expressed through manga ink/tone design, not film exposure logic.
 
 ---
 
-## 14. Complete Final Generation Instruction
+## 15. Complete Generation Instruction
 
 Create exactly **ONE 1024×1536 portrait black-and-white FINISHED 2D HAND-DRAWN MANGA PAGE** for Chapter 001 Page 001.
 
-Use the attached `page-001-layout-reference.webp` as the absolute composition authority. Preserve its panel geometry, framing, blocking, poses, major props, negative space and speech-balloon placement.
+Use exactly the three attached files:
 
-Use `nari-canonical.webp` only for Nari identity and `nari-workplace-master-atlas.webp` only for workplace geometry.
+1. `page-001-production.md`
+2. `nari-canonical.webp`
+3. `nari-workplace-master-atlas.webp`
 
-Do not attach or imitate Style A/B.
+Do not attach or imitate Style A/B and do not use a layout-reference image.
 
-Render the final page as clean professional printed manga: finished ink lines, refined anatomy, screentone, hatching where useful, flat graphic solid blacks, clean whites and integrated balloons.
+Generate exactly four stacked manga panels following the hierarchy and panel-by-panel blueprint in this MD.
 
-**All reader-visible text must be English only. Put exactly `You're still here?` in Panel 2 and exactly `Just one more pass.` in Panel 3. Generate no other readable words anywhere. Do not translate either line. Do not generate Japanese/Korean/Chinese characters, fake writing, labels, signs, document text or UI text.**
+Render the office as Nari's publishing/editorial workplace, keep Nari's canonical identity stable, and show her still working after midnight.
 
-Story content:
+**All reader-visible text must be English only. Put exactly `You're still here?` in the single Panel 2 coworker balloon and exactly `Just one more pass.` in the single Panel 3 Nari balloon. Generate no other readable words anywhere. Do not translate either line. Do not generate Japanese, Korean, Chinese, labels, signs, document text, fake writing, UI text, captions, narration or SFX.**
 
-- Nari is still at her publishing-company workplace after midnight
-- final panel quietly proves she remains away from home
-
-No horror imagery, supernatural effects, silhouettes, apartment imagery, mystery symbols, invented dialogue or logos.
+Render as finished printed manga: clean inks, refined anatomy, screentone, hatching where useful, flat graphic blacks and clean whites. Do not create cinematic, glossy, painterly, photoreal or 3D rendering.
 
 Return conceptually as `page-001.png` for visual review.
 
 ---
 
-## 15. Automatic Rejection Conditions
+## 16. Automatic Rejection Conditions
 
 Reject/regenerate if:
 
-- approved `page-001-layout-reference.webp` is missing
-- final page materially changes the approved layout
-- panel geometry/order changes
-- camera/framing changes materially
-- character blocking/pose direction changes materially
-- balloon placement/flow changes materially
+- output does not contain exactly 4 panels
+- panel hierarchy materially departs from Sections 8–9
+- reading flow is unclear
 - Nari identity drifts
-- workplace geometry drifts
+- workplace geometry/identity drifts
 - office reads as software/game/engineering workplace
 - editorial materials disappear
-- dialogue differs from exact approved English
-- dialogue is translated
+- final page contains anything other than exactly 2 speech balloons
+- Panel 2 does not say exactly `You're still here?`
+- Panel 3 does not say exactly `Just one more pass.`
+- either line is translated or paraphrased
 - any Japanese/Korean/Chinese/non-English text appears
-- invented readable text/logos/labels/UI/document text appears
-- output looks rough/sketch/unfinished
-- output becomes cinematic/poster/key-art-like
-- output becomes glossy/painterly/photoreal/CGI/3D
-- value is created with smooth digital gradients instead of manga ink/tone
+- any extra readable English text appears
+- any readable background labels, signs, documents, UI or fake writing appears
+- captions/narration/SFX appear
+- final art looks rough/sketch/unfinished
+- final art becomes cinematic/poster/key-art-like
+- final art becomes glossy/painterly/photoreal/CGI/3D
+- value is created mainly through smooth digital gradients
 - anatomy/hands fail
 - output is not 1024×1536 portrait
 
 ---
 
-## 16. Continuity Output
+## 17. Continuity Output
 
 At page end:
 
@@ -423,35 +508,36 @@ At page end:
 - she is tired/focused but normal
 - ordinary supplied power is on
 - no apartment mystery is known to her
-- reader understands she is away from home in the relevant late-night window
+- reader clearly understands she is physically away from home in the relevant late-night window
 
 ---
 
-## 17. QA / Approval Record
+## 18. QA / Approval Record
 
 Before approval verify:
 
-- [ ] approved `page-001-layout-reference.webp` exists and was attached
 - [ ] `page-001-production.md` attached
 - [ ] Nari canonical attached
 - [ ] workplace atlas attached
+- [ ] no layout-reference attached
 - [ ] Style A/B NOT attached
 - [ ] 1024×1536 portrait PNG
-- [ ] layout reference followed closely
-- [ ] right-to-left flow clear
+- [ ] exactly 4 panels
+- [ ] panel hierarchy matches production blueprint
+- [ ] right-to-left manga reading is clear
 - [ ] Nari identity matched
 - [ ] workplace geometry matched
 - [ ] publishing/editorial identity clear
+- [ ] exactly 2 speech balloons total
 - [ ] Panel 2 says exactly `You're still here?`
 - [ ] Panel 3 says exactly `Just one more pass.`
+- [ ] no other readable text appears
 - [ ] all reader-visible text is English only
-- [ ] no Japanese/Korean/Chinese/non-English text
-- [ ] no invented readable background text/logos
+- [ ] no non-English characters/glyphs
 - [ ] final page is clean finished 2D manga, not sketch quality
 - [ ] screentone/black/hatching read as manga graphics, not cinema
-- [ ] no cinematic/glossy/painterly/3D drift
 - [ ] anatomy/hands acceptable
-- [ ] final PNG decision recorded
+- [ ] final PNG accepted/rejected
 - [ ] accepted PNG manually converted to `page-001.webp`
 
-Final approval status: **BLOCKED UNTIL LAYOUT REFERENCE IS GENERATED AND APPROVED SEPARATELY**
+Final approval status: **PENDING DIRECT FINAL-PAGE GENERATION**
