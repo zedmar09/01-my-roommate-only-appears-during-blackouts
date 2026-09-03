@@ -10,6 +10,7 @@ See also:
 
 - `manga/04-production/layout-reference-workflow.md`
 - `manga/04-production/page-production-standard.md`
+- `manga/01-style/reader-visible-language-lock.md`
 
 ---
 
@@ -20,6 +21,44 @@ Chapter 001 begins as an ordinary apartment-security mystery.
 Nari is provably at her publishing-company workplace while the downstairs neighbor hears activity from her supposedly empty apartment. The chapter follows mundane security logic, a weak chair clue, a deliberate known-state test, ordinary domestic life, then a reader-only final chair movement.
 
 The chapter must not reveal Hyun-woo, a roommate claim, the blackout rule or the wider mechanism.
+
+---
+
+## Global Reader-Visible Language Lock — ENGLISH ONLY
+
+Every Chapter 001 final page uses **English only** for all reader-visible text.
+
+This includes:
+
+- dialogue
+- thoughts
+- narration/captions
+- SFX
+- story-required signs/labels/UI/notes
+
+Rules:
+
+- copy exact English wording from the approved story/dialogue authorities into each final `page-###-production.md`
+- never translate English dialogue into Japanese, Korean, Chinese or another language
+- never invent non-English lettering or fake multilingual glyphs
+- never invent readable background text
+- omit readable books, binders, documents, signs, screens and notes unless story-required
+- when story-required background text exists, it must be exact approved English
+- English/Latin-letter SFX only, matching the exact page script
+
+### Layout-reference rule
+
+All Chapter 001 layout-reference images use **zero readable text by default**:
+
+- dialogue balloons EMPTY
+- thought balloons EMPTY
+- caption boxes empty if placement is needed
+- no SFX letters
+- no readable signs/labels/documents/UI
+
+A layout reference locks placement only. Exact English wording is added during final page generation.
+
+Any non-English reader-visible text = **AUTOMATIC REJECT**.
 
 ---
 
@@ -104,7 +143,7 @@ Attach when the approved apartment/common-route environment is visible.
 
 Attach when the publishing workplace is visible.
 
-Canonical images control identity/geometry, not final page rendering finish.
+Canonical images control identity/geometry, not final page rendering finish or language.
 
 ---
 
@@ -134,7 +173,9 @@ It locks:
 - pose direction
 - major props/environment
 - negative space
-- balloon placement
+- empty balloon placement
+
+**It should not render dialogue or other readable text.**
 
 Final page production occurs separately using `page-###-production.md`.
 
@@ -162,6 +203,12 @@ Generate/review:
 
 `page-001-layout-reference.png`
 
+Required lettering state:
+
+- Panel 2 balloon EMPTY
+- Panel 3 balloon EMPTY
+- zero readable background text
+
 After approval, manually convert and commit:
 
 `manga/04-production/arc-01/chapter-001/page-001-layout-reference.webp`
@@ -180,6 +227,11 @@ Attach exactly:
 4. `nari-workplace-master-atlas.webp`
 
 Do not attach Style A/B.
+
+Final Page 001 uses exactly these English lines and no other reader-visible words:
+
+- `You're still here?`
+- `Just one more pass.`
 
 Final Page 001 must be finished 2D manga quality, not a sketch-cleanup look.
 
@@ -202,6 +254,7 @@ Previous-page art never overrides:
 2. approved layout reference
 3. character canonical
 4. environment canonical
+5. English-only language lock
 
 ---
 
@@ -229,7 +282,7 @@ Pages 024–025 establish the known position.
 
 Pages 025–034 must preserve it whenever visible.
 
-Page 035 contains restrained `SKRRR` with source unseen.
+Page 035 contains restrained English/Latin-letter SFX `SKRRR` with source unseen.
 
 Page 036 shows Chair B displaced.
 
@@ -292,9 +345,11 @@ Style A/B are intentionally omitted.
 
 ## Dialogue Authority
 
-Every final page-production file must copy exact reader-visible wording from approved story/dialogue authorities.
+Every final page-production file must copy exact **English** reader-visible wording from approved story/dialogue authorities.
 
-Do not let image generation invent or paraphrase text.
+Do not let image generation invent, paraphrase, translate, localize or romanize text.
+
+Background text default: **none**.
 
 ---
 
@@ -312,6 +367,9 @@ Reject any final page that introduces:
 - premature horror intensity
 - unreadable right-to-left order
 - invented dialogue/logos/text
+- non-English reader-visible text
+- translated dialogue/SFX
+- fake readable background text
 - rough unfinished sketch final art
 - cinematic/poster/key-art rendering
 - glossy/painterly/photoreal/CGI treatment
@@ -325,7 +383,7 @@ If an approved layout reference is required, also reject material composition de
 
 When a layout reference is required:
 
-`layout-production MD → layout-reference PNG → review → approved layout-reference WebP → final page-production MD → final page PNG → review → final page WebP`
+`layout-production MD → text-free layout-reference PNG → review → approved layout-reference WebP → final page-production MD → exact-English final page PNG → review → final page WebP`
 
 The user may generate layout references separately before final-page production.
 
@@ -340,6 +398,9 @@ Verify:
 - Nari identity remains stable
 - environment geometry remains stable
 - final pages remain finished 2D manga quality
+- all reader-visible text is English only
+- exact English scripts/SFX are preserved
+- no fake/non-English background text appears
 - Style A/B were not attached unless explicitly opted in
 - required layout references were approved before final pages
 - Page 025 establishes Chair B known state clearly
