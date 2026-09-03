@@ -8,7 +8,13 @@ Rebuild pending. Old detailed Manhwa mechanics are not automatically binding.
 
 The mysterious roommate's physical presence is meaningfully tied to a **genuine blackout / loss of ordinary supplied electrical power**, not simply to somebody switching off a lamp for dramatic effect.
 
-## To Define Before Chapter 1 Locks
+## Chapter 001 Compatibility
+
+Chapter 001 does not visually reveal Hyun-woo or explain the blackout rule. Creator-only continuity may place a brief genuine supplied-power interruption off-panel during the final reader-only chair movement. The chapter does not establish the geographic scope, duration, restoration behavior, recording behavior, or other detailed mechanics.
+
+This keeps Chapter 001 compatible with the confirmed premise-level rule without forcing later-series mechanics to be spent early.
+
+## Must Be Defined Before The First Page That Directly Depends On Them
 
 - geographic scope required for manifestation
 - time-of-day conditions, if any
@@ -21,4 +27,4 @@ The mysterious roommate's physical presence is meaningfully tied to a **genuine 
 - costs, loopholes, and failure states
 - who knows the rules and how they learned them
 
-No production page may invent a new rule merely to solve a scene.
+No production page may invent a new rule merely to solve a scene. A mechanic becomes binding only when approved into current canon before the first page that requires it.
