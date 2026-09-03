@@ -2,13 +2,15 @@
 
 ## Status
 
-**TEXT APPROVED — VISUAL WEBP PENDING.**
+**TEXT APPROVED — PNG VISUAL CANDIDATE PENDING / FINAL WEBP PENDING.**
 
 This is the semantic authority for Nari's recurring workplace.
 
-Planned visual authority after approval:
+Generation/repository workflow:
 
-`manga/02-references/environments/nari-workplace/nari-workplace-master-atlas.webp`
+- first ChatGPT/image-generation candidate: `nari-workplace-master-atlas.png`
+- after visual approval, user manually converts that exact PNG to final authority: `manga/02-references/environments/nari-workplace/nari-workplace-master-atlas.webp`
+- only the final WebP is repository canon
 
 ## Workplace Identity
 
@@ -87,7 +89,7 @@ The environment reference itself does not need to encode story timestamps.
 
 ## Manga Rendering
 
-Use the approved series manga style reference once available.
+Use the approved series manga style reference WebP once available.
 
 Requirements:
 
@@ -101,7 +103,7 @@ Requirements:
 
 ## Automatic Reject
 
-Reject if:
+Reject a generated PNG candidate if:
 
 - office becomes a software/game/engineering workspace
 - screens dominate every view and manuscripts/books disappear
@@ -111,3 +113,5 @@ Reject if:
 - fake readable publishing logos/titles appear prominently
 - environment becomes luxury/futuristic/cyberpunk
 - rendering is color, glossy, photoreal, CGI/3D, painterly, or cinematic concept art
+
+Only after the PNG passes this gate should it be manually converted to the final WebP authority.
