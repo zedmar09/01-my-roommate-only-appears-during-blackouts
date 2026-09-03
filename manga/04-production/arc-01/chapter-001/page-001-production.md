@@ -18,6 +18,10 @@ Layout-reference generation is handled separately by:
 
 `manga/04-production/arc-01/chapter-001/page-001-layout-production.md`
 
+Global lettering authority:
+
+`manga/01-style/reader-visible-language-lock.md`
+
 ---
 
 ## 2. Production Gate — ABSOLUTE
@@ -28,7 +32,7 @@ Do not generate the final Page 001 until this approved file exists:
 
 Missing approved layout reference = **STOP FINAL PAGE GENERATION**.
 
-The layout reference controls composition. This final production MD controls final story content, exact script, final manga rendering and QA.
+The layout reference controls composition. This final production MD controls final story content, exact English script, final manga rendering and QA.
 
 ---
 
@@ -50,12 +54,12 @@ Reason: for story-page generation these broad style images have repeatedly overp
 
 ### Attachment roles
 
-1. `page-001-production.md` — final story/page instruction authority
+1. `page-001-production.md` — final story/page instruction and exact English lettering authority
 2. `page-001-layout-reference.webp` — absolute composition/staging authority
 3. `nari-canonical.webp` — Nari identity authority
 4. `nari-workplace-master-atlas.webp` — workplace geometry authority
 
-No attached image may override the finished 2D manga rendering rules in this MD and `manga/01-style/manga-style-lock.md`.
+No attached image may override the finished 2D manga or English-only lettering rules.
 
 ---
 
@@ -65,6 +69,9 @@ No attached image may override the finished 2D manga rendering rules in this MD 
 - `manga/00-series/continuity-ledger.md`
 - `manga/00-series/narrative-rules.md`
 - `manga/01-style/manga-style-lock.md`
+- `manga/01-style/reader-visible-language-lock.md`
+- `manga/01-style/speech-balloon-guide.md`
+- `manga/01-style/sfx-lettering-guide.md`
 - `manga/01-style/page-composition-rules.md`
 - `manga/01-style/panel-language.md`
 - `manga/01-style/screentone-and-hatching-guide.md`
@@ -164,9 +171,9 @@ as the absolute visual authority for:
 
 Do not redesign, cinematicize, restage or replace its composition.
 
-Final rendering may refine anatomy, line art, background detail, screentone, hatching and solid-black treatment while keeping composition unchanged.
+The layout reference should contain empty balloons. Final rendering adds the exact approved English text below.
 
-Expected story structure remains approximately **4 panels** with these beats:
+Expected story structure remains exactly 4 panels with these beats:
 
 1. late-night publishing-office establishing
 2. coworker checks on Nari
@@ -185,14 +192,14 @@ Expected story structure remains approximately **4 panels** with these beats:
 - screens secondary
 - some desks already empty
 - late-night context visible without horror/cinematic lighting
+- **no reader-visible text**
 
 ### Panel 2 — Coworker Check-In
 
 - generic unnamed adult coworker
 - ordinary leaving-work body language
 - coworker does not visually compete with Nari
-
-Dialogue:
+- fill the approved empty balloon with exactly:
 
 `You're still here?`
 
@@ -202,8 +209,7 @@ Dialogue:
 - readable natural hand action
 - tired, composed, mildly resigned expression
 - no exaggerated comedy or glamour pose
-
-Dialogue:
+- fill the approved empty balloon with exactly:
 
 `Just one more pass.`
 
@@ -216,10 +222,13 @@ Dialogue:
 - no dialogue
 - no narration
 - no SFX
+- no readable background text
 
 ---
 
-## 10. Exact Script / Lettering
+## 10. EXACT SCRIPT / LETTERING — ENGLISH ONLY
+
+**Reader-visible language: ENGLISH ONLY.**
 
 Panel 1: silence.
 
@@ -233,15 +242,32 @@ NARI: `Just one more pass.`
 
 Panel 4: silence.
 
-Do not invent:
+These are the **only reader-visible words permitted on Page 001**.
 
+Do not translate, paraphrase or restyle the wording into another language.
+
+Absolutely do not generate:
+
+- Japanese text
+- Korean text
+- Chinese text
+- any other non-English script
+- fake multilingual glyphs
 - company names
 - book/manuscript titles
-- readable proof text
+- readable proof/document text
+- binder/folder labels
+- sticky-note writing
 - logos
 - captions
+- SFX
 - fake UI
+- monitor text
 - extra dialogue
+
+Arabic numerals on an analog clock face are allowed.
+
+Any other readable text = **AUTOMATIC REJECT**.
 
 ---
 
@@ -280,10 +306,11 @@ Do not invent:
 - computers remain ordinary tools
 - same architecture/furniture as workplace atlas
 - late-night state changes occupancy, not geometry
+- all documents/books/screens remain unreadable/blank unless explicitly permitted above
 
 ### Objects
 
-- printed proofs/manuscript pages
+- printed proofs/manuscript pages with no readable text
 - ordinary pen/pencil
 - optional simple bag/coat for departing coworker
 - no plot-critical new object
@@ -312,21 +339,7 @@ Required:
 
 Solid black is allowed and may be substantial where appropriate. It must read as **flat graphic ink**, not cinematic shadow rendering.
 
-### Broad visual quality target
-
-Aim for the production qualities of a finished printed manga page:
-
-- clear inks
-- strong black/white graphic design
-- screentone
-- controlled hatching
-- varied panel density
-- expressive 2D character drawing
-- clean speech balloons
-
-Do not copy any specific external manga character/panel/composition. Use only broad medium/quality characteristics.
-
-### Do NOT produce
+Do NOT produce:
 
 - rough pencils
 - visible construction lines
@@ -359,16 +372,16 @@ Use `nari-canonical.webp` only for Nari identity and `nari-workplace-master-atla
 
 Do not attach or imitate Style A/B.
 
-Render the final page as clean professional printed manga: finished ink lines, refined anatomy, screentone, hatching where useful, flat graphic solid blacks, clean whites and integrated balloons. The page must look 2D and hand-drawn as manga, not rough, sketchy, cinematic, painterly, glossy, photoreal or 3D.
+Render the final page as clean professional printed manga: finished ink lines, refined anatomy, screentone, hatching where useful, flat graphic solid blacks, clean whites and integrated balloons.
+
+**All reader-visible text must be English only. Put exactly `You're still here?` in Panel 2 and exactly `Just one more pass.` in Panel 3. Generate no other readable words anywhere. Do not translate either line. Do not generate Japanese/Korean/Chinese characters, fake writing, labels, signs, document text or UI text.**
 
 Story content:
 
 - Nari is still at her publishing-company workplace after midnight
-- coworker says `You're still here?`
-- Nari replies `Just one more pass.`
 - final panel quietly proves she remains away from home
 
-No horror imagery, supernatural effects, silhouettes, apartment imagery, mystery symbols, invented dialogue, logos or readable background text.
+No horror imagery, supernatural effects, silhouettes, apartment imagery, mystery symbols, invented dialogue or logos.
 
 Return conceptually as `page-001.png` for visual review.
 
@@ -388,8 +401,10 @@ Reject/regenerate if:
 - workplace geometry drifts
 - office reads as software/game/engineering workplace
 - editorial materials disappear
-- dialogue differs
-- invented readable text/logos appear
+- dialogue differs from exact approved English
+- dialogue is translated
+- any Japanese/Korean/Chinese/non-English text appears
+- invented readable text/logos/labels/UI/document text appears
 - output looks rough/sketch/unfinished
 - output becomes cinematic/poster/key-art-like
 - output becomes glossy/painterly/photoreal/CGI/3D
@@ -427,8 +442,11 @@ Before approval verify:
 - [ ] Nari identity matched
 - [ ] workplace geometry matched
 - [ ] publishing/editorial identity clear
-- [ ] dialogue exact
-- [ ] no invented readable text/logos
+- [ ] Panel 2 says exactly `You're still here?`
+- [ ] Panel 3 says exactly `Just one more pass.`
+- [ ] all reader-visible text is English only
+- [ ] no Japanese/Korean/Chinese/non-English text
+- [ ] no invented readable background text/logos
 - [ ] final page is clean finished 2D manga, not sketch quality
 - [ ] screentone/black/hatching read as manga graphics, not cinema
 - [ ] no cinematic/glossy/painterly/3D drift
