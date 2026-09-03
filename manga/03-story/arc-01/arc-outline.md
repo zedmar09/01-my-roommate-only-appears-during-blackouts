@@ -2,178 +2,198 @@
 
 ## Status
 
-**DRAFT FOR USER REVIEW — NOT YET CANON-LOCKED.**
+**APPROVED OPENING DIRECTION — CHAPTER-BY-CHAPTER DETAILS STILL EVOLVING.**
 
 Arc title remains pending.
 
-## Arc Pacing Shape
-
 Soft target: approximately **20 chapters**, adjustable within the Arc 01 Bible's 18–22 chapter range.
 
-The arc is divided into five movements. These are narrative phases, not publication units.
+The purpose of this outline is to protect the order of discovery. Do not accelerate later reveals merely because a chapter needs a stronger ending.
 
 ---
 
-## MOVEMENT I — INTRUSION
+## MOVEMENT I — SOMETHING IS USING THE APARTMENT
 
-### Chapter 001 — First undeniable presence
+### Chapter 001 — Noise From An Empty Home
 
-- Nari's ordinary adult life is established before the supernatural hook dominates the chapter.
-- Small apartment/power irregularities remain dismissible.
-- A genuine late-night blackout occurs.
-- Nari discovers a human silhouette inside her apartment.
-- He does not explain his identity, origin, or rules.
-- Final hook: the stranger claims that Nari moved into **his** apartment.
+- Nari is provably away from home while a neighbor hears footsteps/furniture movement from her apartment.
+- Next morning, neighbor complains.
+- Nari checks ordinary access history; no entry appears during the relevant window.
+- She finds no obvious theft or intruder.
+- A dining chair becomes a deliberate continuity marker.
+- Reader-only ending: the chair moves again after Nari has left the living area.
+- Nari does not witness the final movement.
+- No Hyun-woo visual, voice, name, or blackout explanation.
 
-**Reveal ceiling:** human presence only.
+**Reveal ceiling:** unexplained physical activity only.
 
-### Chapter 002 — The impossible exit
+### Chapter 002 — The Door Says Nobody Entered
 
-- Continue directly from the first encounter.
-- Nari treats him as an intruder and tries to control the situation practically.
-- The stranger knows the apartment but avoids personal history.
-- Ordinary power returns before the conversation can resolve.
-- He is suddenly absent without an ordinary exit path.
-- Nari's problem changes from security threat to impossible event.
+- Nari wakes without knowing the chair moved overnight.
+- She notices a new discrepancy only after ordinary morning routine gives her reason to look.
+- She compares the known chair position / access log / previous night's timeline.
+- She considers lock/app failure, wrong-neighbor acoustics, maintenance access, or her own fatigue.
+- She begins a simple non-supernatural security check.
 
-**Reveal ceiling:** presence is tied somehow to the outage/power return, but exact rule remains unproven.
+**Answer:** Nari's own memory is no longer the only possible explanation.  
+**New question:** how can activity occur without ordinary entry?
 
-### Chapter 003 — Security explanation fails
+### Chapter 003 — A Test That Should Be Boring
 
-- Nari checks doors, locks, corridor access, building entry history, or other mundane explanations.
-- No clean evidence supports an intruder entering or leaving.
-- She does not leap immediately to supernatural conclusions.
-- Ordinary work/social life continues and creates pressure to act normal.
-- End with another small electrical irregularity that makes her watchful rather than frightened.
+- Nari creates one or two low-tech known states: object position, door seal, chair alignment, paper marker, or similar.
+- Normal life continues; she does not spend the entire chapter waiting for a ghost.
+- One marker changes while ordinary entry evidence remains clean.
+- Result is still not enough to identify a person.
 
-### Chapter 004 — Second encounter / controlled conversation begins
+**Reveal ceiling:** physical change with no visible actor.
 
-- Another genuine interruption brings the stranger back.
-- Nari is better prepared and more confrontational.
-- She learns a first usable identity fact, potentially his name, but no origin explanation.
-- He realizes she will test claims instead of obeying vague rules.
+### Chapter 004 — The Mundane Theory
 
----
+- Nari follows the strongest ordinary explanation: maintenance/master access, building acoustics, previous tenant, loose fixture, or another grounded possibility.
+- A real human/building thread gets useful screen time rather than existing only as a red herring.
+- The theory explains part of the evidence but fails on one specific fact.
 
-## MOVEMENT II — VERIFICATION
-
-### Chapter 005 — Observable conditions
-
-- Nari begins distinguishing real supplied-power loss from simply turning off a lamp or appliance.
-- The story establishes only what she can personally observe.
-- Hyun-woo refuses or cannot provide a satisfying reason for the condition.
-
-### Chapter 006 — Boundaries
-
-- Nari drafts practical rules for what an unwanted blackout roommate may and may not do.
-- Hyun-woo objects to being treated like a tenant or intruder according to whichever rule benefits her.
-- Domestic comedy starts from conflict, not instant comfort.
-
-### Chapter 007 — Normal life test
-
-- Nari's external friend/work thread becomes more active.
-- A normal visitor or social obligation overlaps with Nari's anxiety about another possible outage.
-- Nothing supernatural needs to happen on schedule.
-- The failure of the phenomenon to cooperate with Nari's expectations is itself useful.
-
-### Chapter 008 — Short outage / incomplete opportunity
-
-- A brief genuine outage creates only a limited interaction window.
-- Nari and Hyun-woo fail to finish an argument or investigation before power returns.
-- The series begins exploiting the emotional frustration of limited shared time.
+**Turn:** Nari stops assuming there must be one simple entry explanation.
 
 ---
 
-## MOVEMENT III — COEXISTENCE
+## MOVEMENT II — THE ELECTRICAL CORRELATION
 
-### Chapter 009 — The first practical agreement
+### Chapter 005 — The Resets Line Up
 
-- Nari and Hyun-woo establish an initial set of boundaries.
-- Neither fully trusts the other.
-- One ordinary domestic problem becomes unexpectedly easier because he is there.
+- Nari notices several disturbances happened near clock resets, flickers, router restarts, or small supplied-power irregularities.
+- She does not yet know whether electricity causes anything.
+- Correlation may be imperfect.
 
-### Chapter 010 — Evidence problem
+**New question:** why do the apartment disturbances cluster around power irregularities?
 
-- Nari attempts to preserve proof of Hyun-woo's presence.
-- The result is incomplete, ambiguous, missing, or otherwise unusable.
-- Do not fully explain why.
+### Chapter 006 — Something Moves While The Explanation Is Failing
 
-### Chapter 011 — Knowledge he should not have
+- A brief genuine supplied-power interruption overlaps with a physical change Nari can verify more directly.
+- She still does not see a person.
+- Security-entry theory becomes increasingly untenable.
 
-- Hyun-woo reveals knowledge of the apartment/building that an ordinary recent intruder should not possess.
-- Nari's theory shifts from "stranger getting inside" toward "someone connected to this place."
+**Reveal ceiling:** impossible physical activity under a suspicious electrical condition.
 
-### Chapter 012 — Cost of ordinary power
+### Chapter 007 — First Full Blackout
 
-- A longer shared blackout gives Nari and Hyun-woo their first sustained non-hostile time together.
-- The return of ordinary power ends that time abruptly.
-- The emotional premise becomes clearer without turning romantic yet.
+- First substantial genuine blackout while Nari is home.
+- Nari experiences unmistakably human physical cues: footsteps, breathing, body weight, object contact, or movement through space.
+- Keep the source unseen.
+- Nari treats it as a dangerous intruder because that is still the rational immediate response.
 
----
+**Answer:** there is a real presence during the blackout.  
+**New question:** what is it / who is it?
 
-## MOVEMENT IV — THE PROBLEM GETS LARGER
+### Chapter 008 — A Voice In The Dark
 
-### Chapter 013 — Investigation leaves the apartment
+- Nari and the unseen presence communicate for the first time.
+- Voice reveals personality, not lore.
+- Conversation is short, adversarial, and incomplete.
+- Power/state change ends the interaction before explanation.
 
-- Nari follows one practical clue into building history, maintenance, lease records, or another grounded source.
-- She finds inconsistency, not an answer.
-
-### Chapter 014 — Someone else notices something
-
-- A supporting character independently observes an electrical/timing anomaly without necessarily seeing Hyun-woo.
-- Parallel threads begin to converge.
-
-### Chapter 015 — Normal-life consequence
-
-- Nari's secrecy affects work, friendship, sleep, or reliability.
-- The supernatural story produces a human cost that cannot be solved by another blackout conversation.
-
-### Chapter 016 — Larger outage
-
-- A neighborhood/building-scale outage creates a longer, more complicated shared situation.
-- Hyun-woo is forced to make a choice that reveals character rather than lore.
-- Nari sees that he is capable of prioritizing someone else's safety or agency.
-
-### Chapter 017 — Contradictory evidence
-
-- Evidence from the larger outage contradicts what Nari thought she had established.
-- One assumption about location, timing, or physical limitation becomes uncertain.
-- Do not explain the contradiction immediately.
+**Reveal ceiling:** human voice / intelligence only.
 
 ---
 
-## MOVEMENT V — PROVISIONAL ROOMMATES
+## MOVEMENT III — THE PERSON BEHIND THE TRACES
 
-### Chapter 018 — Choice under pressure
+### Chapter 009 — Partial Sight
 
-- Nari and Hyun-woo disagree about whether to manipulate, wait for, or respond to another real power-loss event.
-- Their conflict is about trust and agency, not romance.
+- Another valid outage gives Nari a fragmentary visual: outline, partial face, hand, posture, or another incomplete human proof.
+- Avoid glamorous full-character reveal staging if the story is stronger with uncertainty.
 
-### Chapter 019 — Arc climax
+### Chapter 010 — First Clear Human Reveal
 
-- A genuine outage creates an immediate practical danger or consequence.
-- Solving the problem requires restoring ordinary power or otherwise ending the condition that lets Hyun-woo remain physically present.
-- Hyun-woo helps even though success removes him from the situation.
-- Nari acts on trust she did not have in Chapter 001.
+- Nari gets a clear enough look to establish a stable human identity.
+- Name may be learned here or around this point.
+- Hyun-woo still refuses or cannot provide a satisfying origin explanation.
 
-### Chapter 020 — Local answer / larger contradiction
+**Answer:** the presence is a real adult man under the relevant condition.  
+**New question:** why can he exist only like this?
 
-- Aftermath confirms the Arc 01 local answer: Hyun-woo is a genuine recurring blackout-linked presence and Nari accepts a provisional coexistence rather than treating every appearance as a break-in.
-- Nari follows one identity/history clue.
-- The result is impossible or absent in a way that cannot be dismissed as a normal database problem.
-- Final turn opens the next mystery layer without explaining it.
+### Chapter 011 — Lights-Off Is Not The Same Thing
+
+- Nari tests an obvious wrong hypothesis: simply turning off a light or darkening a room.
+- The relevant condition does not reproduce.
+- Establish only observable difference, not metaphysical explanation.
+
+### Chapter 012 — The Window Is Too Short
+
+- A brief real outage allows only limited interaction.
+- Nari and Hyun-woo cannot finish a practical conversation before the condition ends.
+- Limited shared time becomes emotional/story pressure.
+
+### Chapter 013 — Proof Refuses To Behave
+
+- Nari attempts reasonable evidence preservation.
+- Results are missing, ambiguous, corrupted, incomplete, or otherwise unusable.
+- Do not explain why yet.
+
+---
+
+## MOVEMENT IV — BOUNDARIES BEFORE TRUST
+
+### Chapter 014 — House Rules For Someone Who Is Not A Tenant
+
+- Nari and Hyun-woo establish initial boundaries during a valid shared window.
+- Domestic comedy begins through conflict.
+- Neither accepts the other's framing of who owns/belongs in the space.
+
+### Chapter 015 — Normal Life Has Consequences
+
+- Work, friendship, sleep, or reliability suffers because Nari is managing an unpredictable home mystery.
+- External human thread becomes more meaningful.
+
+### Chapter 016 — Knowledge He Should Not Have
+
+- Hyun-woo knows a physical/history detail about the apartment/building that an ordinary recent intruder should not know.
+- Nari's question changes from `how are you getting in?` toward `what is your connection to this place?`
+
+### Chapter 017 — Another Person Notices The Pattern
+
+- A supporting character independently observes an inconsistency without necessarily seeing Hyun-woo.
+- This creates outside pressure and prevents the arc from becoming a two-person sealed-room loop.
+
+---
+
+## MOVEMENT V — PROVISIONAL COEXISTENCE
+
+### Chapter 018 — Larger Outage / Choice
+
+- A larger or longer real outage creates an immediate practical problem.
+- Nari and Hyun-woo must cooperate despite incomplete trust.
+- Hyun-woo's actions reveal character rather than backstory.
+
+### Chapter 019 — Arc Climax
+
+- Solving the practical danger requires restoring ordinary power or otherwise ending the condition that lets Hyun-woo remain physically present.
+- Hyun-woo helps even though success ends his physical window.
+- Nari acts on trust she did not have at the start of the arc.
+
+### Chapter 020 — Local Answer / Next Mystery Layer
+
+- Nari accepts provisional coexistence rather than treating every manifestation as a break-in.
+- One identity/history check produces a clean contradiction.
+- The contradiction opens the next layer without solving it.
+
+**Arc local answer:** Hyun-woo is real under genuine supplied-power-loss conditions, is not behaving like an ordinary burglar, and can coexist with Nari under negotiated boundaries.
 
 ---
 
 ## Arc 01 Reveal Discipline
 
-Do not move the following into early chapters for convenience:
+Do not move these earlier for convenience:
 
+- Hyun-woo visual reveal into Chapter 001–006
+- first voice into Chapter 001–006
+- proven blackout condition into Chapter 001–004
+- coexistence/roommate dynamic into Chapter 001–10
 - full origin
 - full record/memory mechanism
 - complete antagonist identity
-- citywide system explanation
+- citywide explanation
 - restoration method
 - final romantic stakes
 
-Chapter 001–004 should feel satisfying because the **situation changes**, not because the mythology is explained.
+The early arc stays satisfying because each chapter changes the **working theory, evidence, risk, or relationship state**.
