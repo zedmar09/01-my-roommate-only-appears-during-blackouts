@@ -4,13 +4,21 @@
 
 **TEXT APPROVED — WAITING FOR SERIES STYLE WEBP APPROVAL.**
 
-Do not generate Nari until this exists and is approved:
+Do not generate Nari until this final approved style authority exists:
 
 `manga/01-style/reference-style/series-manga-style-reference.webp`
 
-Planned approved output:
+## Output Format Workflow
+
+ChatGPT/image generation should first create the review candidate as:
+
+`nari-canonical.png`
+
+The PNG is intermediate only. After visual approval, the user manually converts that exact approved PNG to the final repository authority:
 
 `manga/02-references/characters/nari/nari-canonical.webp`
+
+Do not ask the image generator to output WebP directly.
 
 ## Required Attachments / Authorities
 
@@ -22,6 +30,9 @@ Planned approved output:
 
 ```text
 Create exactly ONE reusable BLACK-AND-WHITE MANGA CHARACTER MODEL SHEET / ATLAS for YOON NARI from "My Roommate Only Appears During Blackouts".
+
+OUTPUT FORMAT
+Return/generate the first review candidate as PNG. The user will manually convert the exact approved PNG to WebP after visual review. Do not treat the PNG as final repository canon.
 
 This is a production reference sheet, NOT a manga story page, cover, splash illustration, or colored character art.
 
@@ -110,9 +121,9 @@ AUTOMATIC REJECT IF
 - any color/glossy/cinematic/photoreal/3D/painterly rendering appears
 
 FINAL GOAL
-A stable, reusable black-and-white manga identity authority for Nari that supports ordinary publishing-office scenes, home life, subtle comedy, skeptical investigation, and later supernatural tension without making her look like a technical specialist or action heroine.
+A stable reusable black-and-white manga PNG review candidate for Nari. After approval and manual conversion to WebP, it becomes the identity authority supporting ordinary publishing-office scenes, home life, subtle comedy, skeptical investigation, and later supernatural tension without making her look like a technical specialist or action heroine.
 ```
 
 ## Approval Gate
 
-After generation, mark `VISUAL REVIEW` first. Only move to `APPROVED` after verifying identity consistency, adult age, hair geometry, body proportions, work/home outfits, hand quality, and match to the series manga style reference.
+After PNG generation, mark `VISUAL REVIEW` first. Only move to `APPROVED` after verifying identity consistency, adult age, hair geometry, body proportions, work/home outfits, hand quality, and match to the series manga style reference; then manually convert that exact approved PNG to `nari-canonical.webp` and commit the WebP.
