@@ -8,12 +8,9 @@
 manga/
 ├── 00-series/
 ├── 01-style/
+│   └── reader-visible-language-lock.md
 ├── 02-references/
 │   ├── approved-webp/
-│   ├── characters/
-│   ├── environments/
-│   ├── objects/
-│   ├── effects/
 │   ├── generation-attachment-map.md
 │   └── reference-register.md
 ├── 03-story/
@@ -29,80 +26,92 @@ manga/
             └── ...
 ```
 
-There is no volume layer. Arcs are major story units; chapters are installments inside arcs.
+There is no volume layer. Arcs are story units; chapters are installments inside those arcs.
 
 ## Format Lock
 
-Final story pages are:
-
-- black-and-white
-- finished **2D hand-drawn manga**
-- clean inked line art
-- natural line-weight variation
-- screentone
-- hatching/cross-hatching where useful
-- flat graphic solid-black ink shapes where appropriate
+- black-and-white manga
+- finished 2D hand-drawn ink quality
+- line-weight variation
+- screentone and hatching
+- flat graphic solid blacks
 - expressive manga simplification
-- conventional manga page construction
-- right-to-left reading
+- conventional manga pages, not vertical webtoon strips
+- variable panel count/size/shape according to scene rhythm
+- no color pipeline
+- no glossy, cinematic, CGI, 3D-rendered, photoreal or painterly look
 
-Final pages are **not rough sketches**.
+## Reader-Visible Language Lock
 
-Reject glossy/cinematic, painterly, photoreal, CGI/3D, airbrushed-gradient or vertical-webtoon rendering.
+Global authority:
 
-## Layout Reference Model
+`manga/01-style/reader-visible-language-lock.md`
 
-When composition needs to be locked, the layout reference is generated separately:
+**All reader-visible manga text is English only** unless the user explicitly approves a page-specific exception before generation.
 
-```text
-page-###-layout-production.md
-→ page-###-layout-reference.png
-→ approve/manual WebP conversion
-→ page-###-layout-reference.webp
-```
+This covers:
 
-The layout reference is a clean content-filled 2D manga composition draft, not empty boxes and not a rough scribble sketch.
+- dialogue
+- thoughts
+- narration/captions
+- SFX
+- signs/labels
+- notes/messages
+- UI/screens
+- any other readable lettering
 
-Final generation then uses:
+Final pages may contain only exact English wording explicitly listed in their `page-###-production.md`.
 
-`page-###-production.md`
+Layout references are text-free by default: empty balloons, no SFX letters, no readable labels/documents/UI and no foreign-language or placeholder text.
 
-The final page-production MD controls final story/page generation. The approved layout reference controls composition only.
+Any Japanese, Korean, Chinese, other non-English script, translated dialogue, fake glyphs or invented readable text is an automatic regeneration failure.
 
-## PNG → WebP Workflow
+## Layout Reference Workflow
 
-All generated visuals are PNG review candidates first.
+When composition needs a separate visual authority:
 
-After approval, the user manually converts the exact accepted PNG to WebP.
+1. use `page-###-layout-production.md`
+2. generate `page-###-layout-reference.png`
+3. review composition with empty balloons / zero readable text
+4. manually convert approved PNG to `page-###-layout-reference.webp`
+5. commit beside final page-production MD
+6. generate final page from `page-###-production.md`
+7. add exact approved English lettering only in final generation
 
-Reusable approved character/environment/style reference WebPs live under:
+## Story-Page Attachments
 
-`manga/02-references/approved-webp/`
+Do not attach every visual reference automatically.
 
-Page-local layout-reference and final page WebPs stay under `04-production/` beside their production files.
+For Chapter 001, Style A/B are not default story-page attachments because they may overpower the exact production Markdown.
 
-## Style A/B Policy
+Canonical character/environment WebPs control identity and geometry only. Page Markdown controls final rendering and lettering.
 
-Approved Style A/B WebPs remain reference-development assets.
-
-They are **not default Chapter 001 story-page attachments** because they can overpower page-specific Markdown.
-
-Use the exact attachment set in:
+See:
 
 `manga/02-references/generation-attachment-map.md`
 
-Do not attach every approved reference automatically.
+## PNG → WebP Workflow
 
-## Production Authority
+Generated PNGs are review candidates.
 
-For a page using a layout reference:
+After visual approval, the user manually converts the exact accepted PNG to WebP.
 
-1. current user instruction
-2. series/arc/chapter story canon
-3. `manga/01-style/` text style rules
-4. final `page-###-production.md` for page facts/script/final generation
-5. approved `page-###-layout-reference.webp` for composition
-6. canonical character/environment/object/effect WebPs for identity/geometry
-7. previous approved page WebP for local seam continuity only
+Approved reusable reference WebPs live under:
 
-A required authority missing from production blocks generation; do not improvise a substitute.
+`manga/02-references/approved-webp/`
+
+Approved page layout-reference and final page WebPs stay beside their production MDs under `manga/04-production/`.
+
+## Authority Order
+
+1. current explicit user instruction
+2. `00-series/` canon and continuity
+3. current approved story files under `03-story/`
+4. `01-style/reader-visible-language-lock.md`
+5. `01-style/manga-style-lock.md`
+6. current page production Markdown
+7. approved layout reference for composition only
+8. canonical reusable WebPs for identity/geometry
+9. previous approved page only for local continuity
+
+Never let a visual reference override exact English script or introduce readable text not authorized by the production MD.
