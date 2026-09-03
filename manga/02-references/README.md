@@ -2,19 +2,43 @@
 
 This directory stores reusable semantic and visual authorities required for stable manga generation.
 
-References are **demand-driven**. Do not attach or generate more references than a task actually needs.
+References are **demand-driven**. Do not generate a character, location, object, or effect package until an approved story/chapter actually needs it.
 
 ## Structure
 
-- `approved-webp/` — centralized approved reusable visual authorities
-- `characters/` — character canon and reference-generation prompts
-- `environments/` — environment canon and reference-generation prompts
-- `objects/` — object canon and prompts
-- `effects/` — effect canon and prompts
+- `approved-webp/` — centralized approved reusable final WebP visual authorities
+- `characters/` — character canon and generation-prompt MDs
+- `environments/` — environment canon and generation-prompt MDs
+- `objects/` — object canon and generation-prompt MDs
+- `effects/` — effect canon and generation-prompt MDs
 - `reference-register.md` — approval/status gate
-- `generation-attachment-map.md` — exact attachment policy
-- `image-format-workflow.md` — PNG review → manual WebP conversion
+- `generation-attachment-map.md` — exact WebP attachment sets for generation
+- `image-format-workflow.md` — PNG review → manual WebP conversion workflow
 - `reference-package-standard.md` — package rules
+
+## Core Rule
+
+Semantic authority stays with each subject's Markdown files.
+
+Reusable visual authority is always the approved WebP in:
+
+`manga/02-references/approved-webp/`
+
+Do not scatter duplicate approved WebPs across character/environment folders.
+
+## Reader-Visible Language Safety
+
+Story-page language authority is:
+
+`manga/01-style/reader-visible-language-lock.md`
+
+Reference assets control identity, design or geometry. They do **not** control reader-visible language.
+
+If an approved character/environment/style WebP contains readable text, symbols, labels or writing, **do not copy that text into story pages or layout references**.
+
+Final story pages use exact approved **English-only** wording from their page-production MD.
+
+Layout references use empty balloons and zero readable text by default.
 
 ## Current Approved Chapter 001 WebPs
 
@@ -24,34 +48,16 @@ References are **demand-driven**. Do not attach or generate more references than
 - `approved-webp/nari-apartment-master-atlas.webp`
 - `approved-webp/nari-workplace-master-atlas.webp`
 
-## Important Story-Page Rule
+Style A/B remain reference-development assets and are not default Chapter 001 story-page attachments.
 
-An asset being approved does **not** mean it should be attached to every story page.
+## Generation Rule
 
-For Chapter 001 story-page production:
+Before generating any subject or page, open:
 
-- Style A/B are not default page attachments
-- Nari canonical is used when Nari is visible
-- apartment/workplace atlas is used when that canonical environment is visible
-- layout references are page-local composition authorities stored under `04-production/`, not centralized reusable references
+`generation-attachment-map.md`
 
-Always follow:
+Then attach exactly the listed files. More references are not automatically better; attach only authorities that directly control something being generated.
 
-`manga/02-references/generation-attachment-map.md`
+A production page/reference may use only visual authorities whose register status is `APPROVED`.
 
-More references are not automatically better.
-
-## Authority Rule
-
-Semantic identity/design facts remain in each subject's canon Markdown.
-
-Reusable visual identity/geometry authority is the approved WebP under:
-
-`manga/02-references/approved-webp/`
-
-Final story-page rendering quality comes from:
-
-- `manga/01-style/manga-style-lock.md`
-- exact page-production Markdown
-
-A production page/reference may require only visual authorities whose register status is `APPROVED`.
+Never let text visible inside an attached image override the English-only page script.
