@@ -1,0 +1,223 @@
+name: Apply Nari Revision
+
+on:
+  push:
+    paths:
+      - '.nari-canonical-update/manifest2.txt'
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Apply canonical asset and text updates
+        shell: bash
+        run: |
+          cat .nari-canonical-update/chunk-000.b64 | tr -d '\n' | base64 -d > manga/02-references/approved-webp/nari-canonical.webp
+          file manga/02-references/approved-webp/nari-canonical.webp
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          # Nari semantic canon
+          p = Path('manga/02-references/characters/nari/canon.md')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace(
+              "The approved WebP controls Nari's exact face/hair/body/outfit identity. It does not make lighting, environment, or page-rendering style from the reference part of story canon.",
+              "The approved WebP controls Nari's face, revised short layered hair silhouette, age read, proportions, and core recognizability only. Clothing/accessories visible in the reference image are not automatic story wardrobe canon."
+          )
+          replacement = '''## Face / Hair Baseline — REVISED DISTINCTIVE IDENTITY
+
+The exact approved visual identity is defined by `nari-canonical.webp`.
+
+Semantic constraints:
+
+- mature Korean adult face
+- slightly sharper, more distinctive facial structure
+- expressive but grounded eyes
+- calm, observant, intelligent overall look
+- slightly tired resting expression when overworked
+- not baby-faced
+- not teen-coded
+- not excessively cute/moe
+- not hyper-glamorous
+- dark **short-to-medium layered hair**
+- slightly tousled natural styling
+- asymmetrical layered strands around the face
+- recognizable silhouette from front, three-quarter, and profile views
+- no long mid-back hair in new production
+- no permanent glasses
+
+## Source Reference Transfer Limit
+
+The revised visual sheet is an **identity reference**, not a story-world/style package.
+
+Do not automatically copy into story pages:
+
+- headphones
+- cyberpunk/techwear jacket styling
+- hacker/gamer patches
+- neon accents
+- glowing circuitry/tattoos
+- source-image environment
+- cinematic poster lighting or mood
+
+Page production and semantic wardrobe canon control what Nari actually wears in story scenes.
+
+## Body / Hands'''
+          s, n = re.subn(r'## Face / Hair Baseline.*?## Body / Hands', replacement, s, flags=re.S)
+          if n != 1:
+              raise SystemExit(f'Expected one Face/Hair section, found {n}')
+          s = s.replace('- hair length changes', '- revised short layered hair becomes long or loses its recognizable silhouette')
+          s = s.replace('- permanent glasses are added', '- permanent glasses are added\n- headphones/techwear/neon/cyberpunk source elements are copied without page approval')
+          p.write_text(s, encoding='utf-8')
+
+          # Page 001 direct production
+          p = Path('manga/04-production/arc-01/chapter-001/page-001-production.md')
+          s = p.read_text(encoding='utf-8')
+          s = s.replace('- dark hair loose by default', '- short-to-medium layered dark hair with a distinctive slightly tousled silhouette')
+          old = '''### Nari
+
+- exact identity from `nari-canonical.webp`
+- adult Korean woman, age 30
+- approved work outfit
+- loose dark hair
+- natural adult proportions
+- readable hands
+- tired but composed
+- not teen-coded
+- not glamorous/fashion-editorial
+- not frightened or suspicious
+- no cinematic heroine posing/lighting'''
+          new = '''### Nari
+
+- exact face/hair/age/proportion identity from `nari-canonical.webp`
+- adult Korean woman, age 30
+- visually distinctive and immediately recognizable
+- mature, slightly sharper adult facial structure
+- expressive but grounded eyes
+- short-to-medium layered dark hair
+- slightly tousled natural styling with a recognizable silhouette
+- approved grounded publishing-office work outfit from semantic canon/page production
+- natural adult proportions
+- readable hands
+- tired but composed
+- not teen-coded
+- not glamorous/fashion-editorial
+- not cyberpunk-styled in-story
+- do not copy headphones, techwear, neon, glowing tattoos/circuitry, or source-image accessories unless explicitly page-approved
+- not frightened or suspicious
+- no cinematic heroine posing/lighting'''
+          if old not in s:
+              raise SystemExit('Page 001 Nari block not found')
+          s = s.replace(old, new, 1)
+          anchor = "Canonical image references must not override this MD's composition, text or finished-manga rules."
+          if '### Nari canonical transfer limit' not in s:
+              insert = anchor + '''
+
+### Nari canonical transfer limit
+
+The revised `nari-canonical.webp` controls Nari's **face, short layered hair silhouette, age read, proportions, and recognizability only**.
+
+Do not inherit from the canonical source image:
+
+- headphones as default story wardrobe
+- techwear/cyberpunk clothing
+- neon lighting
+- glowing circuitry/tattoos
+- hacker/gamer styling
+- cinematic poster mood
+- source-image environment
+
+For Page 001, Nari remains a grounded publishing-company editor in the approved practical work outfit.'''
+              if anchor not in s:
+                  raise SystemExit('Page 001 authority anchor not found')
+              s = s.replace(anchor, insert, 1)
+          p.write_text(s, encoding='utf-8')
+
+          # Reference register
+          p = Path('manga/02-references/reference-register.md')
+          s = p.read_text(encoding='utf-8')
+          s = re.sub(
+              r'^\| CHARACTER \| `nari` \|.*$',
+              '| CHARACTER | `nari` | `manga/02-references/characters/nari/canon.md` | `manga/02-references/approved-webp/nari-canonical.webp` | APPROVED | Revised distinctive identity: sharper adult face, short layered dark hair, age read and proportions. Story wardrobe remains semantic/page authority. |',
+              s,
+              flags=re.M
+          )
+          if '## Nari Visual Revision — Active' not in s:
+              note = '''## Nari Visual Revision — Active
+
+`nari-canonical.webp` now uses the newer distinctive Nari identity.
+
+Locked from the revised visual:
+
+- sharper mature adult face
+- expressive grounded eyes
+- short-to-medium layered dark hair
+- age read and proportions
+- core recognizability
+
+Not transferred into story canon:
+
+- headphones
+- techwear/cyberpunk wardrobe
+- neon lighting
+- glowing circuitry/tattoos
+- hacker/gamer worldbuilding
+- cinematic poster mood
+- source-image environment
+
+Story pages continue to use Nari's grounded semantic work/home wardrobe and the exact page-production MD.
+
+'''
+              marker = '## Approval Does Not Mean Automatic Attachment'
+              if marker in s:
+                  s = s.replace(marker, note + marker, 1)
+              else:
+                  s += '\n\n' + note
+          p.write_text(s, encoding='utf-8')
+
+          # Pre-generation audit
+          p = Path('manga/02-references/chapter-001-pre-generation-audit.md')
+          s = p.read_text(encoding='utf-8')
+          if '## Nari Reference Revision — Active' not in s:
+              note = '''## Nari Reference Revision — Active
+
+Active identity reference:
+
+`manga/02-references/approved-webp/nari-canonical.webp`
+
+Status: **APPROVED**
+
+The revised Nari canonical locks her distinctive mature face, grounded eyes, short layered dark hair, age read, proportions, and recognizability.
+
+Do **not** inherit headphones, techwear/cyberpunk wardrobe, neon lighting, glowing circuitry/tattoos, hacker/gamer worldbuilding, or cinematic poster presentation into story pages.
+
+Nari remains a grounded publishing-company editor and final pages remain finished 2D black-and-white manga.
+
+'''
+              marker = '## Story-Page Attachment Policy'
+              if marker in s:
+                  s = s.replace(marker, note + marker, 1)
+              else:
+                  s += '\n\n' + note
+          p.write_text(s, encoding='utf-8')
+          PY
+
+      - name: Commit and clean staging
+        shell: bash
+        run: |
+          rm -rf .nari-canonical-update
+          rm -f .github/workflows/update-nari-canonical.yml
+          rm -f .github/workflows/apply-nari-revision.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Update Nari canonical identity to distinctive short-hair reference'
+          git push
