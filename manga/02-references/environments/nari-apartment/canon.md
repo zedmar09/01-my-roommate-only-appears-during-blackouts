@@ -2,18 +2,19 @@
 
 ## Status
 
-**TEXT APPROVED — PNG VISUAL CANDIDATES PENDING / FINAL WEBPS PENDING.**
+**TEXT APPROVED — MASTER-ATLAS PNG READY TO GENERATE.**
 
 This is the semantic spatial authority for Nari's recurring home.
 
-Generation/repository workflow:
+Approved rendering authorities to attach for environment generation:
 
-- first master-atlas candidate: `nari-apartment-master-atlas.png`
-- optional separate floor-plan candidate: `nari-apartment-floor-plan.png`
-- after visual approval, the user manually converts each exact accepted PNG to the matching final WebP authority:
-  - `manga/02-references/environments/nari-apartment/nari-apartment-master-atlas.webp`
-  - `manga/02-references/environments/nari-apartment/nari-apartment-floor-plan.webp`
-- only approved converted WebPs are repository canon
+- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+
+Planned centralized visual authorities after approval/manual conversion:
+
+- `manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
+- `manga/02-references/approved-webp/nari-apartment-floor-plan.webp` — only if a separate floor plan is truly needed
 
 ## Core Identity
 
@@ -131,7 +132,12 @@ Do not depict the neighbor as adjacent unless canon is deliberately revised late
 
 ## Manga Rendering
 
-Use the approved series manga style reference WebP once available.
+Use **both** approved style authorities for rendering language:
+
+- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+
+The generic domestic interior inside Style B is not Nari's apartment and must not be copied as layout or furniture canon.
 
 The environment should support:
 
@@ -145,13 +151,18 @@ The environment should support:
 
 Reject a generated PNG environment candidate if:
 
+- it copies the generic apartment layout from a style reference instead of this canon
 - room geometry changes between views
 - it reads as luxury penthouse/hotel or horror ruin
 - chair count/design changes
 - Chair B designated side is inconsistent
-- front door/window/bedroom/kitchen relationships contradict the floor plan
+- front door/window/bedroom/kitchen relationships contradict each other
 - common corridor/elevator relation is impossible or random
 - the neighbor is encoded as adjacent instead of directly below
-- rendering is glossy, color, photoreal, CGI, 3D, painterly, or cinematic concept art
+- rendering is glossy, color, photoreal, CGI, 3D, painterly, cinematic, or rough unfinished sketch
 
-Only after a PNG passes this gate should it be manually converted to its final WebP authority.
+After the master-atlas PNG passes this gate, manually convert it to:
+
+`manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
+
+Only then decide whether a separate floor-plan PNG/WebP is still necessary.
