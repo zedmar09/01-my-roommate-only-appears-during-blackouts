@@ -19,7 +19,24 @@ The active project root is `manga/`.
 2. `manga/01-style/` — black-and-white manga visual grammar and style references
 3. `manga/02-references/` — approved character, environment, object, and effect canon packages (`.md` + `.webp`)
 4. `manga/03-story/` — arcs and their chapters
-5. `manga/04-production/` — chapter/page generation packages, exact reference manifests, prompts, rendered pages, and QA
+5. `manga/04-production/` — one self-contained master production Markdown per chapter plus approved final manga page WebPs
+
+## Single-File Chapter Production
+
+Every production chapter uses exactly one generation-authority Markdown file:
+
+```text
+manga/04-production/arc-01/chapter-001/
+├── chapter-001-production.md
+└── pages/
+    ├── page-001.webp
+    ├── page-002.webp
+    └── ...
+```
+
+`chapter-001-production.md` contains the complete chapter-generation package: requirements, approved reference paths, complete generation-ready script, page map, panel instructions, per-page attach sets, complete image-generation prompts, continuity rules, QA gates, and approval status.
+
+No separate page prompt/blueprint/manifest/QA Markdown files are used. The `pages/` folder contains approved page images only.
 
 ## Canon Reset
 
