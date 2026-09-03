@@ -2,41 +2,61 @@
 
 ## Status
 
-**TEXT APPROVED — WAITING FOR SERIES STYLE WEBP APPROVAL.**
+**TEXT APPROVED — READY FOR MASTER-ATLAS PNG GENERATION.**
 
-Do not generate apartment candidates until this final style authority exists and is approved:
+Approved style authorities already exist.
 
-`manga/01-style/reference-style/series-manga-style-reference.webp`
+## Exact WebP Attachments — Master Atlas
 
-## Output Format Workflow
+Attach exactly these approved WebPs:
 
-### Master Atlas
+1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
 
-ChatGPT/image generation first produces:
-
-`nari-apartment-master-atlas.png`
-
-After visual approval, the user manually converts that exact PNG to the final repository authority:
-
-`manga/02-references/environments/nari-apartment/nari-apartment-master-atlas.webp`
-
-### Floor Plan
-
-If a separate floor-plan image is needed, ChatGPT/image generation first produces:
-
-`nari-apartment-floor-plan.png`
-
-After visual approval, the user manually converts that exact PNG to:
-
-`manga/02-references/environments/nari-apartment/nari-apartment-floor-plan.webp`
-
-The PNGs are review candidates only. Do not ask the image generator to output WebP directly.
-
-## Required Attachments / Authorities
+Also consult:
 
 - `manga/02-references/environments/nari-apartment/canon.md`
 - `manga/01-style/manga-style-lock.md`
-- approved `manga/01-style/reference-style/series-manga-style-reference.webp`
+
+Do **not** attach `nari-canonical.webp` for the master environment atlas. The apartment reference must lock architecture/furniture without a character sheet biasing or populating the scene.
+
+See `manga/02-references/generation-attachment-map.md` before generation.
+
+## Output Format Workflow
+
+### Generation A — Master Atlas
+
+Generate review candidate as:
+
+`nari-apartment-master-atlas.png`
+
+After visual approval, the user manually converts that exact accepted PNG to:
+
+`manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
+
+The PNG is review-only. Do not ask the image generator to output WebP directly.
+
+### Generation B — Floor Plan — Only If Needed
+
+Do not generate the floor plan until the master atlas is visually approved and converted.
+
+If a separate floor-plan image is needed, attach:
+
+1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+3. `manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
+
+Generate review candidate as:
+
+`nari-apartment-floor-plan.png`
+
+After approval, manually convert it to:
+
+`manga/02-references/approved-webp/nari-apartment-floor-plan.webp`
+
+If the master atlas itself contains a clear, reliable floor plan, do not create a redundant separate floor-plan image.
+
+---
 
 ## Generation A — Master Environment Atlas
 
@@ -45,6 +65,12 @@ Create exactly ONE reusable BLACK-AND-WHITE MANGA ENVIRONMENT MASTER ATLAS for N
 
 OUTPUT FORMAT
 Return/generate the first review candidate as PNG. The user will manually convert the exact approved PNG to WebP after visual review. Do not treat the PNG as final repository canon.
+
+ATTACHED VISUAL AUTHORITIES
+- Style Reference A controls broad finished-manga ink, architectural line character, hatching, solid-black and detail language.
+- Style Reference B complements it with ordinary domestic interior, adult-life, quiet-space, restrained suspense and background-density language.
+- The generic apartment shown inside Style B is NOT Nari's apartment and must NOT be copied as geometry, furniture layout or decoration.
+- Nari apartment canon.md is the spatial authority.
 
 This is a spatial production reference, NOT a manga story page. Do not show story events, hidden people, ghosts, silhouettes, or supernatural effects.
 
@@ -98,6 +124,7 @@ Show enough consistent views to reconstruct the apartment from different manga c
 8. front-door exterior + immediate corridor
 9. elevator/common-route view
 10. close detail of dining table + Chair A + Chair B in their normal positions, with Chair B alignment especially clear
+11. OPTIONAL: one compact top-down or axonometric layout inset only if it can remain fully consistent and legible without sacrificing the main views
 
 VISUAL CONTINUITY
 - keep all doors/windows/fixed furniture in the SAME positions across views
@@ -107,9 +134,10 @@ VISUAL CONTINUITY
 - no random furniture redesign between views
 
 MANGA STYLE
-Follow the attached approved series style reference:
+Follow both attached approved series style references:
 - black-and-white ink linework
-- human-drawn architectural lines
+- finished published-manga drawing, not rough construction sketch
+- human-drawn architectural line character
 - screentone/hatching only where useful
 - clean readable perspective
 - ordinary material textures without glossy CGI rendering
@@ -126,6 +154,7 @@ TEXT
 Prefer ZERO readable labels/text. No room labels, fake signs, watermarks, UI, dialogue, or metadata.
 
 AUTOMATIC REJECT IF
+- the generic apartment from Style B is copied as the actual layout
 - chair count is not exactly two
 - Chair B changes designated side/design
 - layout contradicts itself across views
@@ -139,17 +168,22 @@ FINAL GOAL
 A production-safe black-and-white manga PNG review candidate for the apartment atlas. After approval and manual conversion to WebP, it must preserve Nari's apartment geometry for hundreds of pages and make the Chapter 001 dining-chair movement provable through stable spatial continuity.
 ```
 
+---
+
 ## Generation B — Floor Plan
 
-Generate separately only if the master atlas cannot carry a legible floor plan itself. Generate after the master-atlas PNG candidate is acceptable enough to match.
+Generate separately only if the approved master atlas cannot itself provide a legible reliable floor plan.
 
 ```text
 Create exactly ONE clean BLACK-AND-WHITE TOP-DOWN FLOOR-PLAN REFERENCE for the SAME approved Nari apartment geometry.
 
 OUTPUT FORMAT
-Return/generate the first review candidate as PNG. The user will manually convert the exact approved PNG to WebP after visual review. Do not treat the PNG as final repository canon.
+Return/generate the first review candidate as PNG. The user will manually convert the exact approved PNG to WebP after visual review.
 
-Use the attached Nari apartment canon and the accepted master-atlas candidate as authority.
+ATTACHED VISUAL AUTHORITIES
+- Style Reference A and B control only rendering language.
+- The approved Nari apartment master atlas is the visual spatial authority.
+- Nari apartment canon.md is the semantic spatial authority.
 
 REQUIRED
 - portrait/vertical sheet with one primary top-down plan
@@ -166,7 +200,7 @@ REQUIRED
 - Chair A and Chair B both visible in their normal positions
 - Chair B known/reference alignment visually obvious
 
-Do not redesign anything from the master atlas.
+Do not redesign anything from the approved master atlas.
 
 Use clean manga/architectural ink lines with minimal tone. Prefer no readable text labels; spatial interpretation comes from the canon MD.
 
@@ -181,4 +215,8 @@ AUTOMATIC REJECT IF
 
 ## Approval Gate
 
-Each generated PNG enters `VISUAL REVIEW` first. Approve only when the atlas/floor-plan geometry agrees with `canon.md` and with each other. After approval, manually convert each exact accepted PNG to its matching final WebP path and commit the WebP before marking the package `APPROVED`.
+Master atlas must pass visual/spatial audit first. After approval, manually convert it to:
+
+`manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
+
+Only then decide whether a separate floor plan is still necessary.
