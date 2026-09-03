@@ -6,7 +6,20 @@
 
 The Chapter 001 story direction, Nari baseline, apartment spatial baseline, neighbor relationship, workplace identity, and style-reference concept are now approved for reference preparation.
 
-**Important generation gate:** the first image generation must be the original series manga style-reference image. Nari and environment WebPs remain blocked until that style image is visually approved.
+**Important generation gate:** the first generated image must be the original series manga style-reference **PNG candidate**. Nari and environment PNG candidates remain blocked until that style candidate is approved, manually converted to WebP, committed, and marked `APPROVED`.
+
+## Image Format Workflow — Locked
+
+All reference image generation follows:
+
+1. ChatGPT/image generator creates `.png`.
+2. PNG enters visual review.
+3. If approved, the user manually converts that exact PNG to `.webp`.
+4. Only the WebP becomes final repository visual authority.
+
+Never treat a generated PNG as final canon, and do not ask the image generator to output WebP directly.
+
+See `manga/02-references/image-format-workflow.md`.
 
 ## Story / Reveal Audit
 
@@ -128,9 +141,9 @@ Semantic authority: `manga/02-references/environments/nari-workplace/canon.md`.
 
 ## Resolved Decision 5 — Original Manga Style Reference
 
-**TEXT SPEC APPROVED / IMAGE NOT YET GENERATED.**
+**TEXT SPEC APPROVED / PNG NOT YET GENERATED.**
 
-Create one original black-and-white manga visual-language calibration image before any story-character/environment image.
+Create one original black-and-white manga visual-language calibration PNG before any story-character/environment image.
 
 It should establish:
 
@@ -156,23 +169,25 @@ Exact production pixels, final page aspect ratio, safe margins, and reading dire
 
 ## Generation Order
 
-1. Generate `series-manga-style-reference.webp`.
-2. Review it. If rejected, do not proceed to story references.
-3. After style approval, generate Nari canonical.
-4. Then generate apartment master atlas and floor plan.
-5. Then generate workplace master atlas.
-6. Add Hyejin only after her rebuilt role/design is separately approved if Chapter 001 visibly uses her.
+1. Generate `series-manga-style-reference.png`.
+2. Review the PNG. If rejected, do not proceed.
+3. If approved, manually convert that exact PNG to `series-manga-style-reference.webp`, commit it, and mark the style package `APPROVED`.
+4. Generate `nari-canonical.png`.
+5. Generate `nari-apartment-master-atlas.png`; generate a separate `nari-apartment-floor-plan.png` only if needed.
+6. Generate `nari-workplace-master-atlas.png`.
+7. For each accepted reference PNG, manually convert the exact approved candidate to its final WebP before marking the package `APPROVED`.
+8. Add Hyejin only after her rebuilt role/design is separately approved if Chapter 001 visibly uses her.
 
 ## Audit Gate
 
 ### READY NOW
 
-- **series manga style-reference image generation**
+- **series manga style-reference PNG generation**
 
-### WAITING FOR STYLE WEBP APPROVAL
+### WAITING FOR FINAL STYLE WEBP APPROVAL
 
-- Nari canonical image generation
-- Nari apartment image generation
-- Nari workplace image generation
+- Nari PNG candidate generation
+- Nari apartment PNG candidate generation
+- Nari workplace PNG candidate generation
 
-The reference register should move each package from `TEXT APPROVED` → `VISUAL REVIEW` → `APPROVED` only after the corresponding visual is generated and reviewed.
+The reference register moves each package from `TEXT APPROVED` → `VISUAL REVIEW` when the PNG candidate exists → `APPROVED` only after the approved PNG has been manually converted and the final WebP exists in the repository.
