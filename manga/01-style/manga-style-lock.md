@@ -8,6 +8,20 @@ This is **not** a rough sketch target. Final pages should have clean, confident 
 
 The page must immediately read as a finished manga page — not a cinematic illustration, movie still, painted concept frame, glossy webtoon panel, or 3D render with a manga filter.
 
+## Reader-Visible Language Lock — ABSOLUTE
+
+Follow:
+
+`manga/01-style/reader-visible-language-lock.md`
+
+All reader-visible text is **English only** unless the user explicitly approves a page-specific exception before generation.
+
+Final story pages may contain only the exact English dialogue, narration, thoughts and SFX specified in the current page-production MD.
+
+Never translate approved English text into Japanese, Korean, Chinese, or another language. Never generate fake multilingual glyphs or readable background text that was not explicitly scripted.
+
+For layout-reference generation, speech balloons are empty by default and background text is omitted. The layout reference locks lettering placement, not wording.
+
 ## Finished 2D Manga Quality Target
 
 Required:
@@ -104,6 +118,13 @@ Reject if the page is:
 - dominated by cinematic lighting rather than manga ink/tone
 - formatted like a vertical webtoon rather than a conventional manga page
 
+Also reject if:
+
+- any non-English reader-visible text appears
+- approved English wording is translated or paraphrased
+- fake readable background text appears
+- unapproved labels/signs/UI text appear
+
 ## Story-Page Style Reference Policy
 
 `series-manga-style-reference-a.webp` and `series-manga-style-reference-b.webp` remain approved reference-development assets, but they are **not automatic story-page attachments**.
@@ -114,8 +135,9 @@ The final rendering authority for story pages is this text style lock plus the p
 
 ## Core Test
 
-Ask one question during review:
+Ask during review:
 
-**Does this look like a finished 2D black-and-white manga page drawn and inked as manga, or does it look like a cinematic/generated illustration?**
+1. **Does this look like a finished 2D black-and-white manga page drawn and inked as manga, or does it look like a cinematic/generated illustration?**
+2. **Is every reader-visible word exactly approved English, with no foreign-language or invented text?**
 
-If it looks cinematic/generated rather than printed-manga-like, reject it.
+If either test fails, reject it.
