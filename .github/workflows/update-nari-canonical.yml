@@ -1,0 +1,594 @@
+name: Apply Nari Canonical Update
+
+on:
+  push:
+    paths:
+      - '.nari-canonical-update/manifest.txt'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reconstruct Nari canonical WebP
+        shell: bash
+        run: |
+          cat .nari-canonical-update/chunk-*.b64 | tr -d '\n' | base64 -d > manga/02-references/approved-webp/nari-canonical.webp
+          file manga/02-references/approved-webp/nari-canonical.webp
+
+      - name: Update Nari canon and production docs
+        shell: python
+        run: |
+          from pathlib import Path
+
+          canon = '''# Yoon Nari — Manga Character Canon
+
+## Status
+
+**TEXT + VISUAL APPROVED — DISTINCTIVE IDENTITY REVISION ACTIVE.**
+
+This file is the semantic authority for Nari's manga identity. The retired Manhwa design is not active authority.
+
+Approved visual authority:
+
+`manga/02-references/approved-webp/nari-canonical.webp`
+
+The approved WebP now controls Nari's **face, short layered hair silhouette, age read, proportions, and core visual identity only**.
+
+It does **not** make the source reference's headphones, techwear, cyberpunk setting, neon lighting, poster mood, or cinematic rendering part of story canon.
+
+---
+
+## Story-Page Attachment Policy
+
+When Nari is visible on a story page, attach:
+
+`manga/02-references/approved-webp/nari-canonical.webp`
+
+unless the exact page-production MD states otherwise.
+
+Do **not** automatically attach Style A/B merely because Nari appears.
+
+Story-page rendering follows:
+
+- `manga/01-style/manga-style-lock.md`
+- `manga/01-style/reader-visible-language-lock.md`
+- the exact current page-production MD
+- `manga/02-references/generation-attachment-map.md`
+
+Style A/B remain reference-development assets and are not required Nari story-page attachments.
+
+---
+
+## Identity
+
+- name: **Yoon Nari**
+- Korean woman
+- age: **30**
+- approximate height: **165 cm**
+- natural slim-average adult build
+- unmistakably adult proportions
+- neither teen-coded nor fashion-model exaggerated
+
+---
+
+## Occupation
+
+Nari is an **editor at a mid-sized publishing company**.
+
+Her work involves:
+
+- manuscripts
+- printed/digital proofs
+- revisions and correction notes
+- coordination with authors/coworkers
+- deadlines and release schedules
+- editorial judgment and continuity/detail checking
+
+Her occupation is deliberately non-technical. Do not portray her as a programmer, engineer, game developer, electrical specialist, detective, journalist-investigator, paranormal researcher, or other profession that would shortcut the mystery.
+
+Late-night editorial work during deadlines is normal enough to support Chapter 001's opening proof that Nari is away from home.
+
+---
+
+## Personality / Visual Read
+
+- grounded and practical
+- observant without being hyper-detective
+- competent at ordinary adult responsibilities
+- dry sense of humor
+- capable of skepticism and self-doubt
+- often slightly tired from overwork
+- does not perform fear theatrically
+- visually memorable through a distinctive face/hair silhouette rather than glamour styling
+
+Nari should feel quietly individual and recognizable even in small panels.
+
+---
+
+## Face Baseline
+
+The exact approved visual geometry is defined by `nari-canonical.webp`.
+
+Semantic constraints:
+
+- mature Korean adult face
+- slightly sharper, more distinctive facial structure
+- expressive but grounded eyes
+- calm, observant, intelligent overall look
+- slightly tired resting expression when overworked
+- natural brows/features
+- not baby-faced
+- not teen-coded
+- not excessively cute/moe
+- not hyper-glamorous
+- not severe or intimidating by default
+
+---
+
+## Hair Baseline — REVISED
+
+- dark hair
+- **short-to-medium layered cut**
+- slightly tousled natural styling
+- asymmetrical layered strands around the face
+- recognizable silhouette from front, three-quarter, and profile views
+- practical enough for ordinary adult work life
+- no long mid-back hair in new production
+
+Hair length/shape is now a major identity lock.
+
+---
+
+## Accessories — Source Reference Transfer Limit
+
+The visual canonical sheet may show accessories from the identity-source image. These are **not permanent story identifiers** unless separately approved.
+
+Do not automatically copy into story pages:
+
+- headphones
+- cyberpunk/techwear jacket styling
+- hacker/gamer patches
+- neon accents
+- glowing circuitry/tattoos
+- source-image jewelry as mandatory permanent accessories
+
+Page production and semantic wardrobe canon control what Nari actually wears in story scenes.
+
+---
+
+## Body / Hands
+
+- natural adult proportions
+- slim-average, not fragile and not exaggerated curvy/bodybuilder
+- shoulders/limbs consistent from every angle
+- hands must remain natural during manuscripts/proofs, writing, phone use, access checking, chair movement, cooking, and household tasks
+
+---
+
+## Primary Work Outfit — Chapter 001 Baseline
+
+Story wardrobe remains grounded and independent from the source reference's techwear.
+
+- simple blouse
+- understated cardigan
+- straight-cut slacks
+- practical dark shoes
+- no loud branding/logos
+- no high-fashion office costume
+- no glossy fabrics
+- no headphones as default office accessory
+- no cyberpunk styling
+
+---
+
+## Primary Home Outfit — Chapter 001 Baseline
+
+- loose comfortable top
+- relaxed lounge pants
+- ordinary home presentation
+- no fan-service styling
+- no elaborate jewelry/accessories
+- no cyberpunk styling
+
+---
+
+## Expression Range
+
+Approved identity must support:
+
+- neutral / composed
+- editorial focus
+- dry amusement
+- tired annoyance
+- skeptical
+- mild embarrassment
+- self-doubt / trying to remember
+- concerned
+- alert / guarded
+- grounded fear
+
+---
+
+## Continuity Rules
+
+The canonical WebP controls:
+
+- face identity
+- revised short layered hair silhouette
+- age presentation
+- height/build
+- core visual recognizability
+
+Semantic canon/page production controls:
+
+- work/home wardrobe
+- temporary pose
+- expression
+- fatigue level
+- carried objects
+- optional accessories
+- story-specific damage/wetness/injury
+
+Do not treat incidental clothing/accessories in the canonical image as story wardrobe authority.
+
+---
+
+## Final Manga Rendering Rule
+
+Nari's final story-page appearance must be rendered as finished 2D black-and-white manga:
+
+- clean inks
+- natural line-weight variation
+- screentone/hatching as appropriate
+- flat graphic blacks where appropriate
+- no construction-sketch residue
+- no cinematic lighting
+- no glossy/painterly/photoreal/3D treatment
+
+The canonical identity reference may contain color. Story pages remain black-and-white manga.
+
+---
+
+## Automatic Reject
+
+Reject generated Nari art if:
+
+- face visibly drifts from `nari-canonical.webp`
+- revised short layered hair becomes long hair
+- hair silhouette loses its recognizable layered shape
+- she looks teen/school-age
+- she becomes significantly more glamorous/model-like than the canonical identity
+- headphones/techwear/neon/cyberpunk source elements are copied without page approval
+- work outfit becomes futuristic/technical/game-studio/cyberpunk
+- final story-page rendering becomes rough unfinished sketch, color, glossy, cinematic, photoreal, painterly, CGI or 3D-like
+'''
+          Path('manga/02-references/characters/nari/canon.md').write_text(canon, encoding='utf-8')
+
+          register = '''# Reference Register
+
+This is the production gate for reusable canonical reference assets.
+
+## Centralized WebP Rule
+
+All approved reusable final WebPs live in:
+
+`manga/02-references/approved-webp/`
+
+PNG review candidates are not reusable authorities.
+
+See:
+
+- `manga/02-references/image-format-workflow.md`
+- `manga/02-references/generation-attachment-map.md`
+- `manga/04-production/arc-01/chapter-001/chapter-001-pages-generation-guide.md`
+
+| Type | ID | Canon MD | Final Approved WebP | Status | Story-Page Role |
+|---|---|---|---|---|---|
+| STYLE | `series-manga-style-a` | `manga/01-style/manga-style-lock.md` | `manga/02-references/approved-webp/series-manga-style-reference-a.webp` | APPROVED | Reference-development asset; not a default Chapter 001 story-page attachment. |
+| STYLE | `series-manga-style-b` | `manga/01-style/manga-style-lock.md` | `manga/02-references/approved-webp/series-manga-style-reference-b.webp` | APPROVED | Reference-development asset; not a default Chapter 001 story-page attachment. |
+| CHARACTER | `nari` | `manga/02-references/characters/nari/canon.md` | `manga/02-references/approved-webp/nari-canonical.webp` | APPROVED | **Revised distinctive identity**: face, short layered hair silhouette, age read and proportions only. Story wardrobe remains semantic/page authority. |
+| ENVIRONMENT | `nari-apartment` | `manga/02-references/environments/nari-apartment/canon.md` | `manga/02-references/approved-webp/nari-apartment-master-atlas.webp` | APPROVED | Attach when apartment/common-route geometry is visible. |
+| ENVIRONMENT | `nari-workplace` | `manga/02-references/environments/nari-workplace/canon.md` | `manga/02-references/approved-webp/nari-workplace-master-atlas.webp` | APPROVED | Attach when publishing-workplace geometry is visible. |
+
+## Nari Visual Revision
+
+`nari-canonical.webp` has been replaced with the newer distinctive Nari identity reference.
+
+Locked from the revised visual:
+
+- sharper adult face
+- expressive grounded eyes
+- short-to-medium layered dark hair
+- age read
+- body/face proportions
+- core recognizability
+
+Not transferred into story canon:
+
+- headphones
+- techwear/cyberpunk wardrobe
+- neon lighting
+- glowing circuitry/tattoos
+- hacker/gamer worldbuilding
+- cinematic poster mood
+- source-image environment
+
+Story pages must follow Nari's semantic work/home wardrobe and the page-specific production MD.
+
+## Approval Does Not Mean Automatic Attachment
+
+The register answers whether an asset is safe to use. It does not require all approved assets to be attached.
+
+For actual generation, follow:
+
+`manga/02-references/generation-attachment-map.md`
+
+For Chapter 001 story pages, the default is to omit Style A/B unless an exact page-production MD explicitly opts them in.
+
+## Optional Page-Local Layout References
+
+Page-local layout references are optional troubleshooting authorities only. They are not reusable reference-register assets and are not required by default for Page 001.
+
+## Chapter 001 Reference Gate
+
+**CORE REUSABLE REFERENCE SET COMPLETE — REVISED NARI IDENTITY ACTIVE.**
+
+No reusable Hyejin reference is required for Chapter 001. The downstairs neighbor is chapter-local and should be preserved through adjacent-page continuity rather than a full canonical atlas.
+
+## Explicitly Deferred For Chapter 001
+
+- Hyun-woo canonical
+- separate apartment floor-plan image
+- building service/electrical-area atlas
+- blackout visual-language atlas
+- separate dining-chair object canonical
+- separate smartphone canonical
+- separate smart-lock canonical
+- full neighbor canonical
+- Hyejin canonical
+
+## Status Values
+
+- `PLANNED`
+- `TEXT APPROVED`
+- `VISUAL REVIEW`
+- `APPROVED`
+- `RETIRED`
+
+Only `APPROVED` reusable WebPs may be required as canonical visual authorities.
+'''
+          Path('manga/02-references/reference-register.md').write_text(register, encoding='utf-8')
+
+          audit = '''# Chapter 001 — Pre-Generation Reference Audit
+
+## Current Audit Result
+
+**PASS — CORE CHAPTER 001 REFERENCES ARE APPROVED; REVISED NARI IDENTITY IS ACTIVE.**
+
+Approved reusable WebPs:
+
+- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+- `manga/02-references/approved-webp/nari-canonical.webp`
+- `manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
+- `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
+
+Reference approval does **not** mean every approved WebP should be attached to every generation.
+
+---
+
+## Nari Reference Audit — REVISED
+
+Active character identity reference:
+
+`manga/02-references/approved-webp/nari-canonical.webp`
+
+Status: **APPROVED**
+
+The revised Nari canonical locks:
+
+- distinctive mature adult face
+- expressive grounded eyes
+- short-to-medium layered dark hair
+- age read
+- proportions
+- visual recognizability
+
+Production must **not** inherit these incidental source-image elements:
+
+- headphones as a default story accessory
+- techwear/cyberpunk wardrobe
+- neon lighting
+- glowing tattoos/circuitry
+- hacker/gamer worldbuilding
+- cinematic poster presentation
+
+Nari remains a grounded publishing-company editor and final pages remain finished 2D black-and-white manga.
+
+---
+
+## Story-Page Attachment Policy
+
+Before generation, use:
+
+`manga/02-references/generation-attachment-map.md`
+
+For Chapter 001 final story pages:
+
+- Style A/B are **not default attachments**
+- Nari canonical is attached when Nari is visible
+- apartment/workplace atlas is attached when that canonical environment is visible
+- previous approved page is used only for local seam continuity when needed
+- layout-reference generation is optional troubleshooting, not a normal prerequisite
+
+---
+
+## Final Story-Page Quality
+
+The final page target is **finished 2D hand-drawn black-and-white manga**, not sketch quality.
+
+Required:
+
+- clean finished ink
+- screentone
+- hatching where useful
+- flat graphic solid blacks where appropriate
+- clean panel/balloon integration
+- refined anatomy/hands
+
+Reject cinematic/movie-still, glossy, painterly, photoreal or 3D output.
+
+---
+
+## Story / Reveal Audit
+
+**PASS.** Chapter 001 remains locked to:
+
+- Nari is verifiably at her publishing-company workplace while activity is heard from her apartment
+- the complaint comes from the resident directly below Nari
+- ordinary access/security logic does not resolve it
+- the second dining chair becomes the physical continuity marker
+- reader alone receives the final chair movement
+- Hyun-woo is not shown, heard, named or silhouetted
+- no reader-facing blackout explanation appears
+
+---
+
+## Page 001 Production Readiness
+
+Page 001 is **READY FOR DIRECT FINAL-PAGE GENERATION**.
+
+Use:
+
+`manga/04-production/arc-01/chapter-001/page-001-production.md`
+
+Attach exactly:
+
+1. `page-001-production.md`
+2. revised `nari-canonical.webp`
+3. `nari-workplace-master-atlas.webp`
+
+Do not attach Style A/B or a layout-reference image.
+
+---
+
+## Explicitly Deferred For Chapter 001
+
+Do not generate solely for Chapter 001:
+
+- Hyun-woo canonical
+- separate apartment floor plan
+- building service/electrical-area atlas
+- blackout visual-language atlas
+- separate dining-chair object canonical
+- separate smartphone canonical
+- separate smart-lock canonical
+- full neighbor canonical
+- Hyejin canonical
+
+---
+
+## PNG → WebP Rule
+
+All generated visual authorities still follow:
+
+1. generate PNG review candidate
+2. visually review
+3. user manually converts exact accepted PNG to WebP
+4. commit approved WebP to its documented location
+5. downstream production uses only the approved WebP
+
+Current audit status: **READY FOR DIRECT PAGE PRODUCTION WITH REVISED NARI CANONICAL.**
+'''
+          Path('manga/02-references/chapter-001-pre-generation-audit.md').write_text(audit, encoding='utf-8')
+
+          page_path = Path('manga/04-production/arc-01/chapter-001/page-001-production.md')
+          page = page_path.read_text(encoding='utf-8')
+
+          page = page.replace(
+              '- dark hair loose by default',
+              '- short-to-medium layered dark hair with a distinctive slightly tousled silhouette'
+          )
+
+          old_nari = '''### Nari
+
+- exact identity from `nari-canonical.webp`
+- adult Korean woman, age 30
+- approved work outfit
+- loose dark hair
+- natural adult proportions
+- readable hands
+- tired but composed
+- not teen-coded
+- not glamorous/fashion-editorial
+- not frightened or suspicious
+- no cinematic heroine posing/lighting
+
+### Unnamed coworker'''
+
+          new_nari = '''### Nari
+
+- exact face/hair/age/proportion identity from `nari-canonical.webp`
+- adult Korean woman, age 30
+- visually distinctive and immediately recognizable
+- mature, slightly sharper adult facial structure
+- expressive but grounded eyes
+- short-to-medium layered dark hair
+- slightly tousled natural hair styling with a recognizable silhouette
+- approved grounded publishing-office work outfit from semantic canon/page production
+- natural adult proportions
+- readable hands
+- tired but composed
+- not teen-coded
+- not glamorous/fashion-editorial
+- not cyberpunk-styled in-story
+- do not copy headphones, techwear, neon, glowing tattoos/circuitry, or source-image accessories unless explicitly page-approved
+- not frightened or suspicious
+- no cinematic heroine posing/lighting
+
+### Unnamed coworker'''
+
+          if old_nari not in page:
+              raise SystemExit('Expected Nari block not found in page-001-production.md')
+          page = page.replace(old_nari, new_nari)
+
+          anchor = "Canonical image references must not override this MD's composition, text or finished-manga rules."
+          transfer = '''Canonical image references must not override this MD's composition, text or finished-manga rules.
+
+### Nari canonical transfer limit
+
+The revised `nari-canonical.webp` controls Nari's **face, short layered hair silhouette, age read, proportions and recognizability only**.
+
+Do not inherit from the canonical source image:
+
+- headphones as default story wardrobe
+- techwear/cyberpunk clothing
+- neon lighting
+- glowing circuitry/tattoos
+- hacker/gamer styling
+- cinematic poster mood
+- source-image environment
+
+For Page 001, Nari remains a grounded publishing-company editor in the approved practical work outfit.'''
+          if anchor not in page:
+              raise SystemExit('Attachment-role anchor not found in page-001-production.md')
+          page = page.replace(anchor, transfer, 1)
+          page_path.write_text(page, encoding='utf-8')
+
+      - name: Commit and push update
+        shell: bash
+        run: |
+          rm -rf .nari-canonical-update
+          rm -f .github/workflows/update-nari-canonical.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Update Nari canonical identity to distinctive short-hair reference'
+          git push
