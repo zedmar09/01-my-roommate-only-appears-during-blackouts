@@ -4,13 +4,21 @@
 
 **TEXT APPROVED — WAITING FOR SERIES STYLE WEBP APPROVAL.**
 
-Do not generate this environment until the approved style image exists:
+Do not generate this environment until the final approved style authority exists:
 
 `manga/01-style/reference-style/series-manga-style-reference.webp`
 
-Planned approved output:
+## Output Format Workflow
+
+ChatGPT/image generation should first create the review candidate as:
+
+`nari-workplace-master-atlas.png`
+
+The PNG is intermediate only. After visual approval, the user manually converts that exact approved PNG to the final repository authority:
 
 `manga/02-references/environments/nari-workplace/nari-workplace-master-atlas.webp`
+
+Do not ask the image generator to output WebP directly.
 
 ## Required Attachments / Authorities
 
@@ -22,6 +30,9 @@ Planned approved output:
 
 ```text
 Create exactly ONE reusable BLACK-AND-WHITE MANGA ENVIRONMENT MASTER ATLAS for NARI'S WORKPLACE from "My Roommate Only Appears During Blackouts".
+
+OUTPUT FORMAT
+Return/generate the first review candidate as PNG. The user will manually convert the exact approved PNG to WebP after visual review. Do not treat the PNG as final repository canon.
 
 This is a spatial production reference, NOT a story page.
 
@@ -94,9 +105,9 @@ AUTOMATIC REJECT IF
 - color/glossy/cinematic/photoreal/3D/painterly rendering appears
 
 FINAL GOAL
-A stable reusable black-and-white manga publishing-office atlas that supports Nari's ordinary editorial life, coworker scenes, manuscript/proof work, daytime activity, and Chapter 001 late-night timeline proof.
+A stable reusable black-and-white manga PNG review candidate for Nari's publishing office. After approval and manual conversion to WebP, it becomes the environment authority supporting ordinary editorial life, coworker scenes, manuscript/proof work, daytime activity, and Chapter 001 late-night timeline proof.
 ```
 
 ## Approval Gate
 
-Mark `VISUAL REVIEW` first. Approve only when geometry is stable, the publishing identity is immediately readable without text, and the image matches the approved series manga style reference.
+Mark the PNG `VISUAL REVIEW` first. Approve only when geometry is stable, the publishing identity is immediately readable without text, and the image matches the approved series manga style reference. After approval, manually convert the exact accepted PNG to `nari-workplace-master-atlas.webp`, commit that WebP, then mark the package `APPROVED`.
