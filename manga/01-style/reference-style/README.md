@@ -1,59 +1,56 @@
-# Style Reference Images
+# Series Manga Style References
 
-Store only approved **black-and-white manga style-reference images** here.
+The active series rendering authority is a **paired style system**.
 
-Final repository authority format: `.webp`.
+Approved final WebPs are centralized at:
 
-## Image Format Workflow
+- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
 
-ChatGPT/image generation should first create a PNG review candidate:
+The old idea of one single style WebP is retired.
 
-`series-manga-style-reference.png`
+## Role
 
-That PNG is not repository canon. After visual approval, the user manually converts that exact accepted PNG to:
+Use A + B together to control broad visual language:
 
-`series-manga-style-reference.webp`
-
-Only the converted WebP becomes the approved series style authority.
-
-See `manga/02-references/image-format-workflow.md`.
-
-## Active Series Style Package
-
-Text generation authority:
-
-`series-manga-style-reference-generation-prompt.md`
-
-First generated candidate:
-
-`series-manga-style-reference.png`
-
-Final approved visual authority after manual conversion:
-
-`series-manga-style-reference.webp`
-
-Approve the style WebP **before** generating Nari or Chapter 001 environment reference images.
-
-## Authority Scope
-
-A style reference controls broad visual language only:
-
-- hand-drawn ink/sketch character rendering
+- finished black-and-white manga ink
 - line-weight variation
 - screentone density
-- hatching/cross-hatching behavior
+- hatching/cross-hatching
 - solid-black usage
-- background-detail balance
-- simplified reaction drawing
-- panel-border character
+- adult anatomy/hands
+- hair/fabric rendering
+- environment detail balance
+- ordinary-life rendering
+- simplified comedy/reaction language
+- quiet suspense
 - printed-manga feeling
 
-It does **not** override story canon, character identity, environment geometry, prop identity, dialogue, or page-specific composition.
+## Firewall
 
-When a page uses a style-reference image, the exact approved WebP repository path must be listed inside that page's single `page-###-production.md` under its required attachments/references section.
+The people and environments visible inside Style A/B are **generic calibration subjects only**.
 
-Do not recreate a separate page reference-manifest Markdown file.
+They do not define:
 
-## Originality Rule
+- Nari's face/body/hair
+- Hyun-woo's future design
+- supporting-character designs
+- Nari apartment layout
+- workplace layout
+- story props
+- dialogue
+- page composition
 
-The series style reference must use generic original subjects and original composition. Never reproduce a specific published manga's characters, dialogue, logo, page, panel sequence, costume, or recognizable exact composition.
+For actual story identity/geometry, use the relevant canon MD plus approved canonical WebP.
+
+## Generation Attachment Rule
+
+When a reference/page prompt asks for the series style authority, attach both centralized WebPs unless that prompt explicitly states otherwise.
+
+Exact attachment sets are recorded in:
+
+`manga/02-references/generation-attachment-map.md`
+
+## PNG-First Workflow
+
+New image generations are still PNG review candidates first. Only approved PNGs are manually converted to WebP and moved into the centralized approved-WebP folder.
