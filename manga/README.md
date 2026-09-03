@@ -17,10 +17,14 @@ manga/
 │       ├── mystery-progression.md
 │       └── chapter-001/
 └── 04-production/
+    ├── page-production-standard.md
     └── arc-01/
         └── chapter-001/
-            ├── chapter-001-production.md
-            └── pages/                 # approved final WebPs only
+            ├── page-001-production.md
+            ├── page-001.webp
+            ├── page-002-production.md
+            ├── page-002.webp
+            └── ...
 ```
 
 There is **no volume layer**. Arcs are story units; chapters are installments inside those arcs.
@@ -33,7 +37,7 @@ There is **no volume layer**. Arcs are story units; chapters are installments in
 - screentones, hatching, and solid blacks
 - expressive manga simplification when appropriate
 - conventional manga pages rather than vertical webtoon strips
-- variable panel count, size, shape, and density according to scene rhythm
+- variable panel count, size, shape, density, and hierarchy according to scene rhythm
 - one approved page-canvas specification; dramatic variation comes from panel composition
 - no color pipeline
 - no glossy, cinematic, CGI, 3D-rendered, photoreal, painterly, or webtoon-strip look
@@ -47,17 +51,32 @@ A production-safe recurring subject normally has both:
 - semantic authority: `.md`
 - visual authority: approved `.webp`
 
-Do not duplicate canonical WebPs inside chapters.
+Do not duplicate canonical WebPs inside chapter production folders.
 
-## Production Model
+## Production Model — One Page, One MD
 
-Each chapter has exactly **one production Markdown file**:
+Every manga page receives one self-contained production Markdown file:
 
-`manga/04-production/arc-##/chapter-###/chapter-###-production.md`
+`manga/04-production/arc-##/chapter-###/page-###-production.md`
 
-That one file compiles all generation requirements for the entire chapter: story/script, page map, panel instructions, exact reference paths, per-page attach sets, image-generation prompts, continuity, QA, and approval state.
+That one page file contains everything required for that specific page, including:
 
-Do not create separate page Markdown packages. Approved page images are stored under the chapter's `pages/` directory as `page-###.webp` only.
+- exact page/output size and aspect ratio
+- scenario, chronology, event thread, location, and page purpose
+- exact `.md` + `.webp` attachment/reference paths
+- continuity input/output
+- panel count, sizes, hierarchy, gutters, and reading order
+- complete panel-by-panel actions, camera, blocking, reactions, objects, and effects
+- exact dialogue, narration, SFX, and silence
+- complete page-generation instruction
+- automatic rejection rules
+- page-specific QA and approval status
+
+Do **not** split one page into separate blueprint, prompt, manifest, script, or QA Markdown files.
+
+Once the page is visually approved, its matching `page-###.webp` is stored beside the MD and becomes the local visual continuity authority for the next page.
+
+See `manga/04-production/page-production-standard.md` for the complete required internal structure.
 
 ## Authority Order
 
@@ -66,7 +85,7 @@ Do not create separate page Markdown packages. Approved page images are stored u
 3. current approved arc/chapter story files under `03-story/`
 4. `01-style/` visual rules and approved style-reference WebP(s)
 5. approved canonical reference packages under `02-references/`
-6. the current chapter's single master production Markdown under `04-production/`
+6. the current page's `page-###-production.md`
 7. immediately previous approved page WebP only for local pose/prop/environment seam continuity
 
 A required visual reference missing from the approved reference register blocks generation. Never improvise a replacement merely to continue.
