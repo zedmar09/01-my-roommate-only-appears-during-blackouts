@@ -4,14 +4,33 @@
 
 **TEXT APPROVED — WAITING FOR SERIES STYLE WEBP APPROVAL.**
 
-Do not generate apartment WebPs until this style authority exists and is approved:
+Do not generate apartment candidates until this final style authority exists and is approved:
 
 `manga/01-style/reference-style/series-manga-style-reference.webp`
 
-Planned approved outputs:
+## Output Format Workflow
 
-- `manga/02-references/environments/nari-apartment/nari-apartment-master-atlas.webp`
-- `manga/02-references/environments/nari-apartment/nari-apartment-floor-plan.webp`
+### Master Atlas
+
+ChatGPT/image generation first produces:
+
+`nari-apartment-master-atlas.png`
+
+After visual approval, the user manually converts that exact PNG to the final repository authority:
+
+`manga/02-references/environments/nari-apartment/nari-apartment-master-atlas.webp`
+
+### Floor Plan
+
+If a separate floor-plan image is needed, ChatGPT/image generation first produces:
+
+`nari-apartment-floor-plan.png`
+
+After visual approval, the user manually converts that exact PNG to:
+
+`manga/02-references/environments/nari-apartment/nari-apartment-floor-plan.webp`
+
+The PNGs are review candidates only. Do not ask the image generator to output WebP directly.
 
 ## Required Attachments / Authorities
 
@@ -23,6 +42,9 @@ Planned approved outputs:
 
 ```text
 Create exactly ONE reusable BLACK-AND-WHITE MANGA ENVIRONMENT MASTER ATLAS for NARI'S APARTMENT from "My Roommate Only Appears During Blackouts".
+
+OUTPUT FORMAT
+Return/generate the first review candidate as PNG. The user will manually convert the exact approved PNG to WebP after visual review. Do not treat the PNG as final repository canon.
 
 This is a spatial production reference, NOT a manga story page. Do not show story events, hidden people, ghosts, silhouettes, or supernatural effects.
 
@@ -114,15 +136,18 @@ AUTOMATIC REJECT IF
 - color/glossy/photoreal/3D/painterly/cinematic rendering appears
 
 FINAL GOAL
-A production-safe black-and-white manga environment atlas that can preserve Nari's apartment geometry for hundreds of pages and make the Chapter 001 dining-chair movement provable through stable spatial continuity.
+A production-safe black-and-white manga PNG review candidate for the apartment atlas. After approval and manual conversion to WebP, it must preserve Nari's apartment geometry for hundreds of pages and make the Chapter 001 dining-chair movement provable through stable spatial continuity.
 ```
 
 ## Generation B — Floor Plan
 
-Generate separately after the master-atlas candidate is acceptable enough to match.
+Generate separately only if the master atlas cannot carry a legible floor plan itself. Generate after the master-atlas PNG candidate is acceptable enough to match.
 
 ```text
 Create exactly ONE clean BLACK-AND-WHITE TOP-DOWN FLOOR-PLAN REFERENCE for the SAME approved Nari apartment geometry.
+
+OUTPUT FORMAT
+Return/generate the first review candidate as PNG. The user will manually convert the exact approved PNG to WebP after visual review. Do not treat the PNG as final repository canon.
 
 Use the attached Nari apartment canon and the accepted master-atlas candidate as authority.
 
@@ -156,4 +181,4 @@ AUTOMATIC REJECT IF
 
 ## Approval Gate
 
-Both images are `VISUAL REVIEW` first. Approve only when the master atlas and floor plan agree with each other and with `canon.md`.
+Each generated PNG enters `VISUAL REVIEW` first. Approve only when the atlas/floor-plan geometry agrees with `canon.md` and with each other. After approval, manually convert each exact accepted PNG to its matching final WebP path and commit the WebP before marking the package `APPROVED`.
