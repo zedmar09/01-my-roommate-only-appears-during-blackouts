@@ -2,19 +2,29 @@
 
 ## Status
 
-**TEXT APPROVED — MASTER-ATLAS PNG READY TO GENERATE.**
+**TEXT + VISUAL APPROVED.**
 
 This is the semantic spatial authority for Nari's recurring home.
 
-Approved rendering authorities to attach for environment generation:
+Approved visual authority:
 
-- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+`manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
 
-Planned centralized visual authorities after approval/manual conversion:
+The approved master atlas provides sufficient Chapter 001 spatial/floor-plan authority; no separate floor-plan image is currently required.
 
-- `manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
-- `manga/02-references/approved-webp/nari-apartment-floor-plan.webp` — only if a separate floor plan is truly needed
+## Story-Page Attachment Policy
+
+When the apartment/common-route environment is visible on a story page, attach the approved apartment atlas when required by the exact page-production MD.
+
+Do **not** automatically attach Style A/B for story-page generation.
+
+Style A/B remain reference-development assets. Final story-page rendering follows:
+
+- `manga/01-style/manga-style-lock.md`
+- the exact current page-production MD
+- `manga/02-references/generation-attachment-map.md`
+
+The apartment atlas controls design/geometry, not final rendering finish.
 
 ## Core Identity
 
@@ -68,9 +78,9 @@ This is the critical Chapter 001 physical marker.
 - fully tucked at its designated side of the table
 - chair back parallel to the table edge
 - chair legs align against clear table/floor geometry so a later movement is visually obvious
-- the designated side must never silently switch between pages
+- designated side must never silently switch between pages
 
-Chapter 001 eventually shows Chair B displaced after Nari deliberately restored it. No separate object canonical is needed; the environment reference controls its exact design, count, and reference position.
+Chapter 001 eventually shows Chair B displaced after Nari deliberately restores it. No separate object canonical is needed; the environment reference controls its exact design, count and reference position.
 
 ### Living Area
 
@@ -83,7 +93,7 @@ Chapter 001 eventually shows Chair B displaced after Nari deliberately restored 
 
 - one separate bedroom/private room
 - route from living/dining area to bedroom must be visually clear
-- Chapter 001 ending depends on Nari leaving the living/dining space and becoming unaware of the chair, so this route must support clean continuity
+- Chapter 001 ending depends on Nari leaving the living/dining space and becoming unaware of the chair
 
 ### Windows / Exterior Side
 
@@ -93,25 +103,23 @@ Chapter 001 eventually shows Chair B displaced after Nari deliberately restored 
 
 ## Immediate Building Common Route
 
-The same reusable environment package should cover the minimum exterior common-area continuity needed for Chapter 001:
+The same reusable environment package covers the minimum common-area continuity needed for Chapter 001:
 
 - Nari's front door exterior
 - short corridor immediately outside her unit
 - nearby elevator/common circulation point used for the morning neighbor complaint
 
-Do not generate a whole apartment tower interior. Only the recurring immediate route is needed.
+Do not invent a whole tower interior when only this recurring route is needed.
 
 ## Neighbor Relationship — Locked
 
 The complaining neighbor lives **directly below Nari's unit**.
 
-This is spatial canon for the Chapter 001 noise complaint:
-
 - footsteps / human-weight floor movement are heard through the ceiling
 - dining-chair scraping transmits downward
 - no adjacent/shared-wall explanation is required
 
-Do not depict the neighbor as adjacent unless canon is deliberately revised later.
+Do not depict the neighbor as adjacent unless canon is deliberately revised.
 
 ## Chapter 001 Visual Continuity Priorities
 
@@ -121,48 +129,36 @@ Do not depict the neighbor as adjacent unless canon is deliberately revised late
 4. dining table + two chairs stay identical throughout
 5. Chair B known position is established clearly
 6. Chair B remains in that position whenever visible through the ordinary-night sequence
-7. final reader-only change must be unambiguous because the environment did not drift
+7. final reader-only change is unambiguous because environment geometry did not drift
 
 ## Atmosphere
 
 - normal, lived-in, recently occupied by Nari for roughly two weeks
-- modest personal organization and believable small everyday clutter allowed
+- modest personal organization and believable everyday clutter allowed
 - do not over-decorate with plot clues
-- no horror props, occult objects, supernatural symbols, suspicious stains, or ominous architecture
+- no horror props, occult objects, supernatural symbols, suspicious stains or ominous architecture
 
-## Manga Rendering
+## Final Story-Page Manga Rendering
 
-Use **both** approved style authorities for rendering language:
+When this environment appears in final pages:
 
-- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-
-The generic domestic interior inside Style B is not Nari's apartment and must not be copied as layout or furniture canon.
-
-The environment should support:
-
-- detailed establishing shots
-- clean medium interior views
-- simplified background use during dialogue/reaction
-- quiet empty-room shots
-- strong black-and-white readability at night without cinematic color-light logic
+- finished black-and-white 2D manga ink
+- clean perspective/background linework
+- screentone/hatching where useful
+- flat solid-black ink shapes where graphically appropriate
+- clean readable night scenes without cinematic light effects
+- no construction-sketch residue
+- no glossy/painterly/photoreal/3D treatment
 
 ## Automatic Reject
 
-Reject a generated PNG environment candidate if:
+Reject if:
 
-- it copies the generic apartment layout from a style reference instead of this canon
 - room geometry changes between views
-- it reads as luxury penthouse/hotel or horror ruin
+- apartment reads as luxury penthouse/hotel or horror ruin
 - chair count/design changes
 - Chair B designated side is inconsistent
 - front door/window/bedroom/kitchen relationships contradict each other
-- common corridor/elevator relation is impossible or random
-- the neighbor is encoded as adjacent instead of directly below
-- rendering is glossy, color, photoreal, CGI, 3D, painterly, cinematic, or rough unfinished sketch
-
-After the master-atlas PNG passes this gate, manually convert it to:
-
-`manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
-
-Only then decide whether a separate floor-plan PNG/WebP is still necessary.
+- common corridor/elevator relation becomes impossible/random
+- neighbor is encoded as adjacent instead of directly below
+- final story-page rendering is rough unfinished sketch, glossy, color, photoreal, CGI/3D, painterly or cinematic
