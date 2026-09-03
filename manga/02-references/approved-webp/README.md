@@ -1,33 +1,36 @@
 # Approved WebP Visual Authorities
 
-This folder is the **single centralized location for all approved final WebP visual authorities** used by the manga pipeline.
+This folder is the centralized location for reusable approved WebP visual authorities.
 
 ## Format Rule
 
-- ChatGPT / image generation produces a `.png` review candidate first.
-- The PNG is reviewed.
-- The user manually converts the exact approved PNG to `.webp`.
-- Only the approved WebP is committed here and treated as canonical visual authority.
+- image generation produces a `.png` review candidate first
+- PNG is visually reviewed
+- user manually converts the exact accepted PNG to `.webp`
+- only the approved WebP becomes reusable visual authority
 
 Do not store review PNGs here.
 
 ## Current Approved Visuals
 
-- `series-manga-style-reference-a.webp` — approved series style authority A
-- `series-manga-style-reference-b.webp` — approved series style authority B
-- `nari-canonical.webp` — approved Yoon Nari character authority
+- `series-manga-style-reference-a.webp` — approved reference-development style asset A
+- `series-manga-style-reference-b.webp` — approved reference-development style asset B
+- `nari-canonical.webp` — Yoon Nari identity authority
+- `nari-apartment-master-atlas.webp` — apartment/common-route geometry authority
+- `nari-workplace-master-atlas.webp` — publishing-workplace geometry authority
 
-## Planned Chapter 001 Visuals
+## Story-Page Attachment Rule
 
-When approved and converted, add them to this same folder:
+Approved does not mean automatically attached.
 
-- `nari-apartment-master-atlas.webp`
-- `nari-apartment-floor-plan.webp` — only if a separate floor-plan image is actually needed
-- `nari-workplace-master-atlas.webp`
-- future Hyejin canonical only if Chapter 001 visibly requires her after her role/design is approved
+For Chapter 001 final story pages, Style A/B are **not default attachments**. Use them only if an exact page-production MD explicitly opts them in.
 
-## Attachment Rule
+Character/environment WebPs should be attached only when they control something visible on the requested page.
 
-Generation prompts must list the exact WebP files that should be attached. Do not rely on vague instructions such as “attach the style reference.”
+Page-local layout references are stored beside production files under `manga/04-production/`; they do not belong in this centralized reusable-reference folder.
 
-See `manga/02-references/generation-attachment-map.md` for the current exact attachment sets.
+See:
+
+`manga/02-references/generation-attachment-map.md`
+
+for exact current attachment sets.
