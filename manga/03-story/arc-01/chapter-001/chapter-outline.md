@@ -2,7 +2,9 @@
 
 ## Status
 
-**DRAFT FOR USER REVIEW — NOT YET CANON-LOCKED.**
+**APPROVED STORY DIRECTION — CANON FOR CHAPTER 001.**
+
+Exact page count, final dialogue wording, minor blocking, and supporting-character details may still be refined without changing the locked event order below.
 
 ## Chapter Title
 
@@ -10,227 +12,245 @@
 
 ## Chapter Function
 
-Chapter 001 must sell the series without spending the series mystery.
+Chapter 001 must create a compelling manga mystery without revealing the title premise.
 
 Its job is to:
 
-1. establish Nari as a believable adult with a normal life before the supernatural premise takes over
-2. make the apartment feel lived-in rather than introduce it through a move-in tour
-3. plant one or two dismissible irregularities
-4. create a late chapter transition from ordinary slice-of-life into intrusion suspense
-5. end with the **first undeniable physical presence** of Hyun-woo
-6. reveal no origin, no full rule set, no antagonist, and no relationship shortcut
+1. establish Nari as a believable adult with a normal life outside the apartment
+2. prove that something appears to happen inside her home while she is verifiably elsewhere
+3. make Nari respond with ordinary security logic rather than supernatural assumptions
+4. establish one physical continuity marker — the dining chair
+5. let the reader know slightly more than Nari at the ending
+6. end on unexplained activity, not on Hyun-woo himself
 
 ## Reveal Ceiling — Absolute
 
 Chapter 001 may reveal only:
 
 - Nari lives alone
-- the apartment has had minor electrical irregularities
-- small physical details may not be exactly where Nari remembers leaving them
-- a genuine late-night blackout occurs
-- an unknown adult man is physically present inside the apartment during the blackout
-- he claims a prior connection to the apartment
+- a neighbor heard late-night footsteps / furniture movement from Nari's apartment while Nari was away
+- ordinary entry history does not show someone entering during that window
+- Nari finds no obvious burglar or theft
+- one dining chair is not where she expected it to be
+- after Nari deliberately restores the chair to a known position, the reader later sees/hears that it has moved again
 
-Chapter 001 must **not** explain:
+Chapter 001 must **not** reveal:
 
-- his name
-- why he appears
-- why blackout matters
+- Hyun-woo on-page
+- a male silhouette
+- any male voice
+- Hyun-woo's name
+- a roommate claim
+- the blackout condition
+- why the chair moves
 - what happens when power returns
-- how he entered
-- how long this has been happening
-- his origin or profession
 - record/memory anomalies
 - wider city mechanism
 - antagonist
-- restoration/endgame
+- origin, restoration, or endgame material
 
 ## Opening Status
 
-Working draft:
-
-- Nari has been in the apartment for roughly two weeks — enough to have routines, not enough to know every quirk.
+- Nari has already been living in the apartment for roughly two weeks.
+- She has enough routine to know how she usually leaves the space but not enough history to know every building quirk.
 - She lives alone.
-- She has already noticed harmless-looking clock resets or brief power flickers but has not filed them under `supernatural`.
-- She is busy enough to distrust her own memory about tiny household details.
-- She has an external professional/social life that matters independently of the apartment.
+- Her work/social life exists independently of the mystery.
+- She is tired and busy enough that small household inconsistencies can plausibly be blamed on herself.
+
+## Core Hook
+
+The opening establishes **two simultaneous places**:
+
+- Nari is working late somewhere away from home.
+- At approximately the same time, a neighbor hears footsteps and a chair/furniture scrape from Nari's apartment.
+
+The manga never shows the interior source of the sound.
+
+The following morning the neighbor asks Nari to keep the noise down.
+
+Nari's response is not fear. It is confusion:
+
+**She was not home.**
+
+That contradiction drives the chapter.
 
 ## Nari's Chapter Goal
 
-Get through an ordinary workday, finish what she needs to finish, return home, and have one quiet night.
+Nari wants to determine whether someone entered her apartment, resolve the complaint, and continue her normal life.
 
-The chapter does not begin with her investigating anything.
+She is not investigating a ghost, blackout phenomenon, or supernatural roommate.
 
 ## Primary Event Thread
 
-**Nari / ordinary life → apartment unease → blackout intrusion.**
+**Noise complaint → security contradiction → self-doubt → deliberate chair continuity test → reader-only final movement.**
 
 ## Parallel Event Thread
 
-A very small **building electrical / maintenance thread** may appear once or twice with no explanation. Its job is only to make the outage feel like a physical event in the world rather than a haunted-room visual effect.
+Chapter 001 uses simultaneity for story tension rather than lore:
 
-## Supporting Character Thread
+- Nari working late elsewhere
+- neighbor hearing activity from Nari's apartment at the same time
 
-Working draft deliberately reuses **Koo Hyejin** as Nari's trusted coworker/friend because the QA-minded, grounded friend role is useful for a long series. This is not canon-locked until approved.
+No maintenance-system exposition is required in Chapter 001.
 
-Hyejin's Chapter 001 function:
+## Supporting Character Use
 
-- show Nari's normal adult personality through conversation
-- establish that Nari has someone who knows her routines
-- create ordinary humor
-- do **not** discuss ghosts or become a supernatural exposition tool
+A trusted coworker/friend may appear during Nari's normal workday. **Koo Hyejin remains a working candidate, not yet mandatory canon.**
+
+The supporting character's function is to show Nari's normal personality and give the complaint a mundane social sounding board. They must not introduce supernatural theories as fact.
 
 ## Story Sequence
 
-### SCENE 1 — Morning: something slightly off
+### SCENE 1 — Previous Night / Two Places At Once
 
-Nari wakes in her apartment on an ordinary weekday.
+Late evening.
 
-The chapter opens quietly rather than with a supernatural spectacle.
+Nari is still at work or another clearly identifiable place away from home.
 
-Visible details:
+Intercut with the apartment building:
 
-- a digital clock/appliance clock has reset again after a brief overnight power interruption
-- one dining chair is slightly angled away from the position Nari usually leaves it
-- Nari notices the reset clock but either does not notice the chair or corrects it without emotional weight
+- a neighbor is awake in the unit below or immediately adjacent
+- footsteps or human-weight movement is heard from Nari's apartment
+- a chair/furniture scrape follows
+- the neighbor checks the time because the noise is irritating
 
-Nothing is framed as proof.
+Do not show inside Nari's apartment.
 
-Tone: tired adult routine, not horror.
+The reader knows Nari cannot be causing the sound.
 
-### SCENE 2 — Workday: Nari outside the mystery
+### SCENE 2 — Morning Complaint
 
-At work, Nari handles a normal problem competently while running on too little sleep.
+The next morning, Nari encounters the neighbor in the corridor/elevator/common route.
 
-Hyejin notices Nari looks exhausted.
+The neighbor politely but firmly asks her to keep the late-night noise down.
 
-Through ordinary conversation we learn:
+Nari initially assumes the neighbor means a different night.
 
-- Nari's apartment is still relatively new to her
-- she has had a few annoying clock/power resets
-- she has not turned it into a major concern
-- Nari has no desire to move again or dramatize small problems
+The neighbor gives the approximate time.
 
-The scene should make Nari likable because of how she handles people/work, not because she narrates supernatural lore.
+Nari realizes she was still away from home then.
 
-### SCENE 3 — Parallel micro-scene: physical building problem
+The scene ends on the contradiction rather than an explanation.
 
-A brief intercut shows a building maintenance/service area or an ordinary worker dealing with an electrical irregularity.
+### SCENE 3 — Ordinary Day / First Security Check
 
-The event is mundane on the surface:
+At work, Nari continues a normal professional day.
 
-- relay click
-- reset indicator
-- short service interruption
-- worker notes that something has happened more than once
+She may mention the complaint to a trusted coworker/friend in a dry, skeptical way.
 
-No sinister screen message. No supernatural symbol. No explanation.
+Nari checks the apartment's ordinary access history / smart-lock record.
 
-This is optional if it harms pacing, but useful for the simultaneous-events language of the new manga.
+No ordinary entry appears between her departure and return.
 
-### SCENE 4 — Evening: home is almost normal
+This does not prove anything supernatural. Nari considers ordinary possibilities:
 
-Nari returns home.
+- neighbor confused the source
+- building acoustics
+- stale/missing app data
+- maintenance access
+- her own memory about arrival time
 
-The apartment is quiet.
+### SCENE 4 — Evening Return / Physical Inspection
 
-The same dining chair is again slightly out of her preferred alignment.
+Nari returns home with increased attention.
 
-She pauses long enough to register it, then dismisses it as something she must have done while distracted.
+She checks practical things:
 
-She resets it.
+- door/lock condition
+- windows
+- obvious signs of entry
+- missing valuables
 
-No missing food. No roommate reveal. No landlord rule. No smart-home tour.
+Everything looks normal.
 
-### SCENE 5 — Late night: ordinary conversation / quiet rhythm
+Then she notices the dining chair is slightly out of the position she thinks she usually leaves it.
 
-Nari works or finishes something from home.
+The clue is weak because Nari cannot prove she did not move it herself.
 
-A short call/chat with Hyejin gives the chapter one last ordinary human rhythm before the turn.
+She does **not** panic.
 
-After the call ends:
+### SCENE 5 — Deliberate Known State
 
-- apartment becomes very quiet
-- Nari continues alone
-- the dining chair remains in its corrected position
+Nari decides to remove her own uncertainty.
 
-### SCENE 6 — Blackout onset
+She deliberately places the dining chair in a precise, easily remembered position relative to the table/floor geometry.
 
-A real power loss occurs abruptly.
+This is not yet a paranormal experiment; it is a tired person's simple way of confirming whether she is misremembering.
 
-Required sensory shift:
+The exact chair position becomes binding continuity.
 
-- powered lights die
-- work screen/ordinary mains devices die
-- normal apartment sound disappears
-- Nari's battery phone remains available
+### SCENE 6 — Ordinary Night
 
-Nari's first response is annoyance/confusion, then practical action.
+Nari eats, works, talks to a friend, showers, prepares for bed, or otherwise lives normally.
 
-She reaches for her phone.
+The chapter must breathe here so the apartment feels like a home rather than a horror set.
 
-### SCENE 7 — The chair moves
+The chair remains in the known position whenever visible.
 
-Before she uses the phone as a light, Nari hears the dining chair scrape across the floor.
+No supernatural event occurs in Nari's awareness.
 
-This repeats the earlier visual clue but now cannot be dismissed as her bad memory because she personally reset the chair minutes/hours earlier.
+### SCENE 7 — Bedtime / Leave The Room
 
-Nari freezes.
+Nari finishes her night and leaves the living/dining area.
 
-A second small human sound confirms someone is physically in the room: breath, clothing movement, or weight shifting.
+The page composition deliberately establishes:
 
-She treats it as an intruder.
+- apartment is quiet
+- no person is visible
+- chair remains exactly where Nari put it
 
-### SCENE 8 — Final reveal
+Nari goes to sleep / becomes unaware of the living area.
 
-Nari challenges the unseen person.
+### SCENE 8 — Reader-Only Final Movement
 
-The phone provides only enough low light to define a tall adult male silhouette; do not give the reader a complete canonical character reveal yet.
+Remain in the empty living/dining space after Nari is gone.
 
-Nari asks who he is / why he is inside her home.
+Use stillness first.
 
-The stranger does **not** explain himself.
+Then the chair moves slightly or scrapes across the floor.
 
-Final line:
+Possible restrained SFX:
 
-> **"You moved into my apartment."**
+`SKRRR`
 
-End Chapter 001.
+Do **not** show a hand, foot, silhouette, face, shadow-person, or speaking character.
+
+Do not show a dramatic blackout transition.
+
+**Creator-only continuity:** during the final-night window, a brief genuine supplied-power interruption may occur off-panel, sufficient to preserve the series premise-level physical rule. The manga does not identify that interruption as causally relevant in Chapter 001.
+
+End Chapter 001 on the changed chair / unexplained scrape.
 
 ## Emotional Change
 
 ### Beginning
 
-Nari wants nothing more dramatic than a normal day and a quiet apartment.
+Nari's apartment is an ordinary new home with normal imperfections.
 
 ### Ending
 
-Her home is no longer psychologically hers alone.
-
-The problem has changed from `minor building quirks` to `a man is physically inside my locked apartment claiming it belongs to him`.
+Nari still does not know there is a genuine presence, but the **reader now knows her own memory is not the full explanation**.
 
 ## Information Revealed
 
-- first undeniable human presence
-- stranger has prior knowledge/claim over residence
+- activity was reported while Nari was away
+- ordinary entry records do not provide a clean explanation
+- a physical object can change position without Nari knowingly moving it
 
 ## Information Deliberately Withheld
 
-Everything that would convert the hook into an explanation.
+Everything that would identify the phenomenon as the title premise.
 
 ## Cliffhanger Function
 
-The ending does not ask **"What supernatural entity is this?"** yet.
+The Chapter 001 question is:
 
-It asks the simpler, immediate question:
+**Who — or what — is using Nari's apartment when nobody is supposed to be inside?**
 
-**How can a man be standing in Nari's locked apartment during a blackout, and why does he think she is the intruder?**
-
-Chapter 002 earns the next layer.
+Chapter 002 continues the security mystery. It does not begin with Hyun-woo introducing himself.
 
 ## Target Length
 
-Current pacing target: approximately **36 manga pages**.
+Current rhythm target: approximately **34–36 manga pages**.
 
-This is a draft story-rhythm target, not a publication requirement. The final page count may shift after scene/page-map review.
+The final count may change during page-map refinement, but the chapter must preserve the slow-burn structure and final reveal ceiling above.
