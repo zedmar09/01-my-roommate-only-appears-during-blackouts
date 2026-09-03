@@ -2,29 +2,35 @@
 
 ## Status
 
-**TEXT APPROVED — WAITING FOR SERIES STYLE WEBP APPROVAL.**
+**TEXT APPROVED — READY FOR PNG GENERATION.**
 
-Do not generate this environment until the final approved style authority exists:
+## Exact WebP Attachments
 
-`manga/01-style/reference-style/series-manga-style-reference.webp`
+Attach exactly these approved WebPs:
 
-## Output Format Workflow
+1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
 
-ChatGPT/image generation should first create the review candidate as:
-
-`nari-workplace-master-atlas.png`
-
-The PNG is intermediate only. After visual approval, the user manually converts that exact approved PNG to the final repository authority:
-
-`manga/02-references/environments/nari-workplace/nari-workplace-master-atlas.webp`
-
-Do not ask the image generator to output WebP directly.
-
-## Required Attachments / Authorities
+Also consult:
 
 - `manga/02-references/environments/nari-workplace/canon.md`
 - `manga/01-style/manga-style-lock.md`
-- approved `manga/01-style/reference-style/series-manga-style-reference.webp`
+
+Do **not** attach `nari-canonical.webp` to the environment atlas unless a later revised prompt explicitly requires Nari to appear. Keep this reference focused on stable workplace geometry and editorial-office identity.
+
+See `manga/02-references/generation-attachment-map.md` before generation.
+
+## Output Format Workflow
+
+Generate the review candidate as:
+
+`nari-workplace-master-atlas.png`
+
+After visual approval, the user manually converts that exact PNG to:
+
+`manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
+
+Do not ask the image generator to output WebP directly.
 
 ## Generation Instruction
 
@@ -33,6 +39,12 @@ Create exactly ONE reusable BLACK-AND-WHITE MANGA ENVIRONMENT MASTER ATLAS for N
 
 OUTPUT FORMAT
 Return/generate the first review candidate as PNG. The user will manually convert the exact approved PNG to WebP after visual review. Do not treat the PNG as final repository canon.
+
+ATTACHED VISUAL AUTHORITIES
+- Style Reference A controls broad finished-manga ink, architectural detail, hatching, solid-black and human-drawn line language.
+- Style Reference B complements it with ordinary adult-life, interior, restrained atmosphere and background-density language.
+- Any generic office/interior visible inside the style references is NOT Nari's workplace and must not be copied as geometry.
+- Nari workplace canon.md is the spatial/identity authority for this environment.
 
 This is a spatial production reference, NOT a story page.
 
@@ -58,7 +70,7 @@ RECURRING ZONES — REQUIRED
 3. reverse angle showing stable desk/shelf/window relationships
 4. books/reference/proof-material area
 5. small editorial review/meeting room or modest meeting area
-6. daytime version of Nari desk zone with ordinary coworker activity
+6. daytime version of Nari desk zone with ordinary coworker activity suggested without requiring named story characters
 7. late-night version of the SAME Nari desk zone with fewer people and quiet office atmosphere
 8. one useful corridor/transition view only if needed to connect recurring zones
 
@@ -72,17 +84,17 @@ NARI DESK — CONTINUITY LOCK
 DAY / NIGHT CONTINUITY
 Daytime and late-night atlas views must be the SAME architecture/furniture arrangement. Only occupancy and ordinary lighting/readability change.
 
-The late-night view must make it believable that Nari can remain at work after most coworkers leave during a deadline, which supports Chapter 001's proof that she is away from home.
+The late-night view must make it believable that Nari can remain at work after most coworkers leave during a deadline, supporting Chapter 001's proof that she is away from home.
 
 MANGA STYLE
-Follow the attached approved series manga style reference:
-- black-and-white ink
+Follow both attached approved series style references:
+- black-and-white finished manga ink
 - human-drawn perspective/line character
 - screentone/hatching for depth
 - selective solid blacks
 - no glossy office reflections
 - no cinematic grading/bloom
-- no photorealism, CGI/3D, or painterly rendering
+- no photorealism, CGI/3D, painterly rendering, or rough unfinished construction sketch
 
 ATMOSPHERE
 - adult professional
@@ -96,6 +108,7 @@ TEXT
 Prefer ZERO readable text. No logos, company names, book titles, manuscript text, signs, watermarks, fake UI, or metadata.
 
 AUTOMATIC REJECT IF
+- a style-reference environment is copied as the workplace geometry
 - office reads as software/game/engineering workplace
 - manuscripts/books/proofs are absent and screens dominate
 - Nari desk location changes between views
@@ -110,4 +123,6 @@ A stable reusable black-and-white manga PNG review candidate for Nari's publishi
 
 ## Approval Gate
 
-Mark the PNG `VISUAL REVIEW` first. Approve only when geometry is stable, the publishing identity is immediately readable without text, and the image matches the approved series manga style reference. After approval, manually convert the exact accepted PNG to `nari-workplace-master-atlas.webp`, commit that WebP, then mark the package `APPROVED`.
+Mark the PNG `VISUAL REVIEW` first. Approve only when geometry is stable, the publishing identity is immediately readable without text, and the image matches both approved series style authorities. After approval, manually convert the exact accepted PNG to:
+
+`manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
