@@ -2,23 +2,22 @@
 
 Create individual object packages only for recurring or plot-critical props whose design must stay stable.
 
+Object folders store semantic authorities:
+
 ```text
-<object-id>/
+objects/<object-id>/
 ├── canon.md
-├── <object-id>-reference-generation-prompt.md
-└── <object-id>-canonical.webp
+└── <object-id>-reference-generation-prompt.md
 ```
 
-## Generation Format
+Approved final object WebPs are centralized in:
 
-ChatGPT/image generation should first create:
+`manga/02-references/approved-webp/`
 
-`<object-id>-canonical.png`
-
-That PNG is the review candidate only. After visual approval, the user manually converts that exact PNG to:
+Typical name:
 
 `<object-id>-canonical.webp`
 
-Only the approved WebP becomes repository visual authority.
+Minor related props may share one approved prop atlas when that reduces generation work without harming continuity.
 
-Minor related props should be grouped into a single approved black-and-white prop atlas when that reduces generation work without harming continuity.
+Generate PNG first, review it, then manually convert the exact approved PNG to the centralized WebP. Consult `generation-attachment-map.md` before generation when existing visual authorities are required.
