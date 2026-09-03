@@ -14,7 +14,8 @@ This layout-production file generates an approved `page-###-layout-reference.web
 
 See:
 
-`manga/04-production/layout-reference-workflow.md`
+- `manga/04-production/layout-reference-workflow.md`
+- `manga/01-style/reader-visible-language-lock.md`
 
 ---
 
@@ -31,6 +32,49 @@ page-001.webp                      # final approved page authority
 ```
 
 A layout production file is not required for every page. Use it where composition drift, blocking, continuity geometry, or page rhythm needs an explicit visual lock.
+
+---
+
+## Global Reader-Visible Language Lock — ENGLISH ONLY
+
+All active manga production follows:
+
+`manga/01-style/reader-visible-language-lock.md`
+
+Default rule: **all reader-visible text is English only**.
+
+This applies to:
+
+- dialogue
+- thought balloons
+- narration/captions
+- SFX
+- signs
+- labels
+- device/UI text
+- notes/messages
+- book/manuscript titles
+- any other readable lettering
+
+Final pages may contain only exact English text explicitly approved in the current page-production MD.
+
+Do not translate, paraphrase, localize, romanize or substitute approved wording.
+
+Do not generate Japanese, Korean, Chinese, other non-English scripts, fake multilingual glyphs or unapproved readable background text.
+
+### Layout-reference lettering rule
+
+Layout references use:
+
+- **EMPTY speech balloons**
+- empty thought balloons/caption boxes when placement must be locked
+- no SFX text
+- no readable background text
+- no signs/labels/UI/document text
+
+The layout reference locks lettering **placement only**. Exact English wording is added during final page generation.
+
+A user-approved page-specific exception may override this only when explicitly stated before generation.
 
 ---
 
@@ -74,9 +118,10 @@ Reason: those broad visual sheets can overpower the exact page Markdown and cano
 The rendering authority for story pages is:
 
 1. `manga/01-style/manga-style-lock.md`
-2. current `page-###-production.md`
-3. approved layout reference for composition only
-4. canonical WebPs for identity/geometry only
+2. `manga/01-style/reader-visible-language-lock.md`
+3. current `page-###-production.md`
+4. approved layout reference for composition only
+5. canonical WebPs for identity/geometry only
 
 Style A/B may be explicitly opted in only after page-specific testing proves they help without causing drift.
 
@@ -126,9 +171,7 @@ Specify series, arc, chapter, page, label, status, final PNG filename and final 
 
 ### 2. Production Gate
 
-State whether an approved layout reference is required.
-
-If required, list its exact repository path.
+State whether an approved layout reference is required. If required, list its exact repository path.
 
 ### 3. Exact Final-Generation Attachments
 
@@ -160,9 +203,7 @@ Freeze character/environment/object/knowledge state entering the page.
 
 ### 8. Page Composition Authority
 
-If an approved layout reference exists, state that it is binding for composition.
-
-Otherwise define exact panel architecture in the production MD.
+If an approved layout reference exists, state that it is binding for composition. Otherwise define exact panel architecture in the production MD.
 
 ### 9. Panel-by-Panel Blueprint
 
@@ -170,9 +211,15 @@ For every panel specify beat, framing, blocking, expression, actions/hands, prop
 
 ### 10. Exact Script / Lettering
 
-Specify exact dialogue, narration, thoughts, SFX and intentional silence.
+Specify exact English dialogue, narration, thoughts, SFX and intentional silence.
 
-Do not allow generated paraphrasing.
+Required statement:
+
+**Reader-visible language: ENGLISH ONLY.**
+
+Do not allow generated paraphrasing, translation or invented text.
+
+Also state which background text is allowed. Default: **none**.
 
 ### 11. Character Requirements
 
@@ -184,15 +231,26 @@ Canonical WebPs control reusable design/geometry. The page MD controls temporary
 
 ### 13. Finished 2D Manga Style Lock
 
-Restate page-relevant final quality requirements from `manga-style-lock.md`.
+Restate page-relevant final quality requirements from `manga-style-lock.md` and the English-only language lock.
 
 ### 14. Complete Final Generation Instruction
 
-Provide one deterministic instruction for generating exactly one final manga page PNG.
+Provide one deterministic instruction for generating exactly one final manga page PNG. Explicitly require exact English lettering and prohibit all unapproved readable text.
 
 ### 15. Automatic Rejection Conditions
 
-Include layout drift, identity/geometry drift, text drift, anatomy failure, wrong dimensions, unfinished-sketch output and cinematic/digital-render drift.
+Include:
+
+- layout drift
+- identity/geometry drift
+- approved English text changed or translated
+- non-English text
+- fake/gibberish readable text
+- unapproved background labels/UI/documents
+- anatomy failure
+- wrong dimensions
+- unfinished-sketch output
+- cinematic/digital-render drift
 
 ### 16. Continuity Output
 
@@ -205,7 +263,9 @@ Verify:
 - required layout reference present when applicable
 - exact canonical attachments used
 - layout adherence
-- script accuracy
+- exact English script accuracy
+- no non-English text
+- no invented readable background text
 - character/environment continuity
 - finished manga quality
 - anatomy/hands
@@ -222,13 +282,17 @@ It should specify:
 
 - layout-reference PNG/WebP filenames
 - exact canonical attachments required for staging
-- panel beats and script placement
+- panel beats
+- empty balloon/caption placement
+- **zero readable text by default**
 - clean content-filled 2D manga layout-reference quality
 - composition QA
 
+The exact final English script may be documented inside the layout MD for planning, but the generated layout image must keep balloons empty and must not render those words.
+
 It must **not** become a second competing story authority.
 
-The final `page-###-production.md` wins for story facts and exact final generation requirements.
+The final `page-###-production.md` wins for story facts and exact final English lettering.
 
 ---
 
@@ -236,6 +300,6 @@ The final `page-###-production.md` wins for story facts and exact final generati
 
 When a layout reference is required:
 
-**layout production MD → approved layout-reference WebP → final page-production MD → final PNG review → approved final WebP.**
+**layout production MD → approved text-free layout-reference WebP → final page-production MD → exact-English final PNG review → approved final WebP.**
 
 The layout reference is generated separately. The final page is finished 2D manga, not a rough-sketch cleanup pass.
