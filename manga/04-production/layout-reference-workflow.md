@@ -1,12 +1,62 @@
-# Manga Page Layout Reference Workflow
+# Optional Manga Page Layout Reference Workflow
 
-## Purpose
+## Status
 
-A page may use a **separate layout-reference production step** when composition needs to be locked before final-page generation.
+**OPTIONAL TROUBLESHOOTING WORKFLOW — NOT NORMAL PRODUCTION.**
 
-This step is independent from the final `page-###-production.md`.
+The normal manga workflow is direct final-page generation from:
 
-The layout reference exists to lock:
+`page-###-production.md`
+
+Use a separate layout reference only when direct generation repeatedly fails to preserve composition, blocking or temporary geometry, and only after the user explicitly decides to invoke this fallback.
+
+Page 001 currently does **not** require this workflow.
+
+---
+
+## Normal Production
+
+Default:
+
+`page-###-production.md → page-###.png → review → page-###.webp`
+
+Do not create an extra layout-reference image automatically.
+
+---
+
+## When This Fallback Is Appropriate
+
+Use only when one or more problems persist across direct generations:
+
+- panel structure keeps changing
+- camera/framing repeatedly drifts
+- character blocking/pose direction cannot be held
+- temporary object geometry is story-critical and unstable
+- exact continuity geometry cannot be preserved from the previous approved page
+
+Examples may include late Chapter 001 Chair B pages if direct production repeatedly fails, but layout references are not mandatory merely because geometry matters.
+
+---
+
+## Optional Files
+
+If explicitly invoked:
+
+```text
+page-###-layout-production.md
+page-###-layout-reference.png
+page-###-layout-reference.webp
+```
+
+The layout production Markdown is pre-production only.
+
+The final `page-###-production.md` remains the final story, English-lettering and rendering authority.
+
+---
+
+## Layout Reference Purpose
+
+A troubleshooting layout reference may lock:
 
 - panel geometry
 - reading flow
@@ -17,136 +67,44 @@ The layout reference exists to lock:
 - negative space
 - speech-balloon placement
 
-It does **not** replace final page production and it does not alter story canon.
+It does not replace story canon or final-page production.
 
-Follow the global lettering rule:
+---
+
+## Layout Reference Quality
+
+If generated, use a clean content-filled 2D manga layout draft/reference rather than:
+
+- empty boxes
+- wireframes
+- stick figures
+- rough construction scribbles
+- cinematic storyboard rendering
+
+It may be simpler than final art, but framing and blocking must be clear enough to serve as composition authority.
+
+---
+
+## Language Rule — ZERO READABLE TEXT
+
+Follow:
 
 `manga/01-style/reader-visible-language-lock.md`
 
----
+Troubleshooting layout-reference images use:
 
-## Separate Production Files
-
-When a layout reference is needed, use:
-
-```text
-page-001-layout-production.md
-page-001-layout-reference.png
-page-001-layout-reference.webp
-page-001-production.md
-page-001.png
-page-001.webp
-```
-
-The layout production Markdown is a pre-production specification only.
-
-The final page-production Markdown remains the final story/generation authority.
-
----
-
-## Layout Reference Quality — NOT A Rough Sketch
-
-The layout reference is **not** an empty panel template and it is **not** a loose scribble page.
-
-Target: a clean, content-filled **2D manga layout draft/reference**.
-
-Required:
-
-- black-and-white only
-- clear manga panel borders
-- clean ink-like line drawing
-- readable faces/expressions
-- readable character poses and gestures
-- understandable hands when action depends on them
-- simplified but coherent perspective/backgrounds
-- major props/furniture present
-- empty speech-balloon shapes in correct positions
-- right-to-left reading flow
-- enough visual information that the final-page stage does not invent new framing or blocking
-
-It may be simpler than final art:
-
-- less micro-detail
-- simpler backgrounds
-- lighter/minimal screentone
-- simplified texture
-
-But it should still look like **2D manga drawing**, not wireframes, stick figures, empty rectangles, or rough construction scribbles.
-
----
-
-## Layout Reference Language Rule — ZERO READABLE TEXT
-
-Layout-reference images should contain **no reader-readable words**.
-
-Required:
-
-- dialogue balloons are EMPTY
-- thought balloons are EMPTY
-- caption boxes are empty if needed for placement
+- empty dialogue balloons
+- empty thought balloons/caption boxes if placement is needed
 - no SFX lettering
-- no signs
-- no binder/folder/book titles
-- no sticky-note writing
-- no readable document/manuscript text
-- no monitor/UI text
-- no labels/logos
-- no Japanese, Korean, Chinese, or other non-English text
-- no English placeholder text either
-- no fake/gibberish pseudo-text
+- no readable background text
+- no signs/labels/UI/document text
+- no Japanese/Korean/Chinese/other scripts
+- no English placeholder words
+- no fake/gibberish writing
 
-Arabic numerals are allowed only when composition requires a clock face or another explicitly approved numeric element.
+Arabic numerals are allowed only when an explicitly required numeric element such as a clock face is compositionally necessary.
 
-The layout reference locks **where lettering goes**, not what the lettering says.
-
-If any readable language appears in a layout reference, reject/regenerate it.
-
----
-
-## Layout Reference vs Final Page
-
-### Layout reference controls
-
-- composition
-- shot choice
-- staging
-- panel rhythm
-- pose direction
-- major object placement
-- empty balloon/caption placement
-
-### Final page adds
-
-- final clean inks
-- refined anatomy/hands
-- final facial detail
-- final environment detail
-- final screentone/hatching
-- final flat solid-black design
-- exact approved **English** lettering
-
-The final page must preserve the approved layout reference unless the user explicitly approves a composition revision.
-
----
-
-## Finished Manga Direction
-
-Even the layout reference should stay inside the project's 2D manga language.
-
-Do not use:
-
-- cinematic lighting
-- movie-still framing logic
-- painterly grayscale
-- glossy rendering
-- photorealism
-- 3D/CG
-- bloom, bokeh, depth-of-field or volumetric light
-
-For final story pages, follow:
-
-- `manga/01-style/manga-style-lock.md`
-- `manga/01-style/reader-visible-language-lock.md`
+Exact approved English wording belongs to the final `page-###-production.md`, not the layout image.
 
 ---
 
@@ -157,41 +115,41 @@ Do not automatically attach:
 - `series-manga-style-reference-a.webp`
 - `series-manga-style-reference-b.webp`
 
-for layout-reference or final story-page generation.
-
-Use only the exact references listed by the relevant production Markdown.
-
-Style A/B remain available for reference-development work, but they are not default story-page authorities.
+Use only exact canonical references needed for identity/geometry.
 
 ---
 
-## Layout Reference Approval Gate
+## Authority Order When Fallback Is Used
 
-Approve only if:
+1. final `page-###-production.md` — story, exact English lettering and final rendering
+2. optional approved layout reference — composition only
+3. character canonical WebPs — identity only
+4. environment/object/effect WebPs — reusable geometry/design only
+5. previous approved page — local seam continuity only
 
-- every panel contains readable story action/composition
-- panel order is clear
-- page rhythm works
-- camera/framing is established
-- poses/blocking are established
-- major environment geometry is coherent
-- important props are positioned
-- empty balloons have usable placements
-- **zero readable text appears anywhere**
-- the page reads as 2D manga rather than cinema
-
-After approval:
-
-1. manually convert the exact approved layout PNG to WebP
-2. commit `page-###-layout-reference.webp` beside the page production files
-3. final page production may then use that WebP as composition authority when required
+The final page must preserve the optional layout reference's composition if that reference has been explicitly approved for the page.
 
 ---
 
-## Production Gate
+## Approval Gate
 
-If a final `page-###-production.md` marks a layout reference as required and the approved WebP does not exist:
+Approve an optional layout reference only if:
 
-**STOP FINAL PAGE GENERATION.**
+- panel order/rhythm works
+- framing and blocking are clear
+- major geometry is correct
+- balloon placement is usable
+- zero readable text appears
+- the image remains 2D manga rather than cinematic/3D/painterly
 
-The user should generate and approve the layout reference separately using its `page-###-layout-production.md`.
+After approval, manually convert the exact accepted PNG to WebP.
+
+---
+
+## Page 001 Note
+
+`manga/04-production/arc-01/chapter-001/page-001-layout-production.md` is deprecated for normal Page 001 production.
+
+Generate Page 001 directly from:
+
+`manga/04-production/arc-01/chapter-001/page-001-production.md`
