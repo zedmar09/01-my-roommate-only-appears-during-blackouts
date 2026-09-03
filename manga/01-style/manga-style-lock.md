@@ -2,42 +2,66 @@
 
 ## Absolute Direction
 
-Create a **black-and-white, visibly human-drawn manga page**. The target is a real manga artist's pencil/ink page language — organic, slightly imperfect, graphic, readable, and hand-made — not a cinematic illustration, poster, polished key art, glossy webtoon/manhwa panel, or digital concept render.
+Final story pages must look like **finished black-and-white 2D hand-drawn manga intended for print**.
 
-The page must immediately read as **manga drawing on white paper**.
+This is **not** a rough sketch target. Final pages should have clean, confident manga inking, readable screentone, graphic black-and-white values, conventional panel construction, and expressive 2D manga drawing.
 
-## Required Visual Language
+The page must immediately read as a finished manga page — not a cinematic illustration, movie still, painted concept frame, glossy webtoon panel, or 3D render with a manga filter.
 
-- organic pencil/ink line art with unmistakable human-drawn character
-- natural line wobble and pressure variation; lines must not look vector-perfect or mechanically uniform
-- confident but not over-polished contours
-- selective roughness and visible drawing energy
-- subtle construction/pencil residue is allowed when it supports a believable hand-drawn manga feel and does not reduce readability
-- white paper / clean negative space is a major value and should dominate ordinary scenes
-- spot blacks are **restrained accents**, not the default shading method
-- use screentone and hand hatching before large digital-looking black shadow masses
-- hatching/cross-hatching should look drawn, irregular, and purposeful rather than airbrushed or photographic
-- ordinary faces, clothes, desks, walls, and backgrounds should remain mostly line-driven
-- detailed establishing backgrounds when location matters
-- reduced/simplified backgrounds when dialogue, comedy, or emotion is the focus
+## Finished 2D Manga Quality Target
+
+Required:
+
+- clean inked contours with natural pen/brush line-weight variation
+- crisp 2D line art; human-drawn character without visible construction lines
+- readable facial acting and manga simplification
+- finished hair, clothing, hands, props and background linework
+- screentone used as a real manga value tool rather than smooth grayscale paint
+- hatching/cross-hatching where useful for texture or depth
+- flat solid-black ink shapes where graphically appropriate
+- white paper/negative space used intentionally
+- clean speech balloons integrated into page composition
+- conventional right-to-left manga panel flow
+- detailed backgrounds when location matters; simplified backgrounds when dialogue/emotion benefits
 - natural adult anatomy and readable hands
-- speech balloons integrated into the manga composition
-- panel borders/gutters should feel like conventional manga page construction
 
-## Black / Tone Discipline
+The desired visual language is the broad quality of a professionally finished black-and-white manga page: **clean 2D ink, screentone, graphic blacks, clear panel rhythm and hand-drawn line character**.
 
-Solid black is allowed only when the composition genuinely needs a small graphic anchor, naturally dark material/hair area, deep occlusion, or story-earned dramatic emphasis.
+Do not copy any specific copyrighted character, panel, composition, logo or dialogue from a reference manga. Match only broad medium/production qualities.
 
-For ordinary-life pages:
+## Solid Black / Screentone Discipline
 
-- prefer white + line art + light screentone + hatching
-- avoid filling large background regions with black
-- avoid black cinematic vignettes
-- avoid dramatic shadow wedges across faces
-- avoid heavy chiaroscuro unless explicitly required by the page story
-- do not make a normal room look noir, horror, or film-lit simply because the scene occurs at night
+Solid black is a normal manga tool and does **not** need to be artificially minimized.
 
-Night is communicated through context, windows, light screentone, sparse hatching, and ordinary indoor lighting — **not by turning the page into a dark cinematic frame**.
+Allowed uses include:
+
+- dark hair or clothing areas
+- deep occlusion
+- graphic background shapes
+- silhouettes when story-approved
+- bold panel accents
+- night/exterior areas
+- strong black-white composition
+
+However, solid black must behave like **flat ink design**, not cinematic lighting.
+
+Do not create:
+
+- soft photographic shadow gradients
+- fake HDR contrast
+- glossy rendered black surfaces
+- giant black vignettes added only for drama
+- theatrical shadow wedges across faces on ordinary scenes
+
+Screentone and hatching should remain visibly 2D and print-manga-like. Prefer discrete tone/value decisions over smooth digital light falloff.
+
+## Night Scene Rule
+
+Night scenes may use darker window/exterior areas, black ink masses, screentone and hatching.
+
+The scene should still read as manga drawing, not a low-key film frame.
+
+Indoor spaces remain graphically readable. Darkness comes from ink/tone design, not simulated lens exposure or cinematic light physics.
 
 ## Absolute Anti-Cinematic Rule
 
@@ -46,57 +70,52 @@ Reject any result that looks like:
 - a movie still
 - cinematic storyboard frame
 - poster/key art
-- dramatic concept art
-- glossy digital manga illustration
-- high-contrast noir frame
-- 3D/CG render converted to line art
+- painterly concept art
+- glossy digital illustration
+- photoreal/semi-photoreal grayscale
+- 3D/CG render converted to manga
 
 Do not use:
 
-- cinematic lighting design
-- rim lighting
-- dramatic backlighting unless story-essential
 - bloom
 - lens flare
 - volumetric lighting
 - depth-of-field blur
-- filmic grading
 - photographic bokeh
-- realistic softbox/studio lighting
-- dramatic black vignette
+- filmic grading
+- realistic studio/rim lighting
 - airbrushed gradients
 - smooth digital shadow rendering
+- simulated camera/lens effects
 
-## Reject
+## Final-Page Reject Conditions
 
-- color
-- flat-color webtoon rendering
-- glossy highlights
-- cinematic color/value grading
-- excessive solid-black masses
-- excessive black backgrounds
-- dramatic chiaroscuro on ordinary scenes
-- bloom, lens flare, volumetric lighting, depth-of-field blur
-- CGI / 3D / game-render appearance
-- photorealism or semi-photorealism
-- painterly concept art
-- airbrushed skin or hair
-- plastic-clean AI finish
-- vector-clean uniform linework
-- poster/key-art composition
-- fixed vertical-scroll gutters or giant webtoon dead space
-- identical panel grids repeated page after page
+Reject if the page is:
 
-## Reference Priority
+- rough or visibly unfinished
+- construction-sketch-like
+- scribbly instead of cleanly inked
+- color or flat-color webtoon rendering
+- glossy
+- painterly grayscale
+- photorealistic
+- CGI/3D-looking
+- vector-plastic or mechanically uniform
+- dominated by cinematic lighting rather than manga ink/tone
+- formatted like a vertical webtoon rather than a conventional manga page
 
-Approved series style references demonstrate broad manga drawing language, but **they must never be interpreted as permission to increase cinematic polish, solid-black coverage, or digital rendering density**.
+## Story-Page Style Reference Policy
 
-When a reference contains a heavily rendered or dark area, extract only the hand-drawn line, anatomy, hatching, and manga construction language needed for the current page. Do not copy the reference's darkness or drama onto a calm page.
+`series-manga-style-reference-a.webp` and `series-manga-style-reference-b.webp` remain approved reference-development assets, but they are **not automatic story-page attachments**.
 
-If there is any conflict between “more polished/cinematic” and “more visibly human-drawn manga,” choose **visibly human-drawn manga**.
+For actual story-page generation, follow the exact page-production attachment list. If Style A/B have caused the generator to ignore the Markdown or drift into the wrong finish, omit them.
 
-## Reference Vibe
+The final rendering authority for story pages is this text style lock plus the page-specific production Markdown.
 
-The intended feeling is conventional hand-drawn published manga production: irregular but controlled panel sizes, organic linework, selective pencil/ink texture, frequent close-ups and cut-ins, dialogue balloons integrated into composition, and dense/sparse pages alternating according to story rhythm.
+## Core Test
 
-Do not copy any specific copyrighted character, panel, dialogue, logo, or composition from a reference manga. Match only the broad production language and medium.
+Ask one question during review:
+
+**Does this look like a finished 2D black-and-white manga page drawn and inked as manga, or does it look like a cinematic/generated illustration?**
+
+If it looks cinematic/generated rather than printed-manga-like, reject it.
