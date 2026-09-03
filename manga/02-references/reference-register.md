@@ -2,22 +2,30 @@
 
 This is the production gate for canonical reference assets.
 
-## Image Format Rule
+## Centralized WebP Rule
 
-All first-generation visual candidates are PNG. After visual approval, the user manually converts the exact accepted PNG to WebP. Only the WebP is final repository authority.
+All approved final WebP visual authorities live in one folder:
 
-See `manga/02-references/image-format-workflow.md`.
+`manga/02-references/approved-webp/`
+
+Generation prompts must point to exact files in that folder. PNG review candidates remain local/intermediate and are not canonical authorities.
+
+See:
+
+- `manga/02-references/image-format-workflow.md`
+- `manga/02-references/generation-attachment-map.md`
 
 | Type | ID | Canon MD | PNG Review Candidate | Final Approved WebP | Status | Notes |
 |---|---|---|---|---|---|---|
-| STYLE | `series-manga-style` | `manga/01-style/manga-style-lock.md` | `series-manga-style-reference.png` | `manga/01-style/reference-style/series-manga-style-reference.webp` | TEXT APPROVED | **Generate the PNG first.** After approval, manually convert it to the listed WebP. |
-| CHARACTER | `nari` | `manga/02-references/characters/nari/canon.md` | `nari-canonical.png` | `manga/02-references/characters/nari/nari-canonical.webp` | TEXT APPROVED | Nari baseline approved: 30-year-old publishing editor. Generate PNG only after the style WebP is approved. |
-| ENVIRONMENT | `nari-apartment` | `manga/02-references/environments/nari-apartment/canon.md` | `nari-apartment-master-atlas.png` + optional `nari-apartment-floor-plan.png` | `manga/02-references/environments/nari-apartment/nari-apartment-master-atlas.webp` + optional `nari-apartment-floor-plan.webp` | TEXT APPROVED | 40–45 m² one-bedroom, two-chair continuity system, neighbor directly below. Generate PNG candidate(s) after style approval. |
-| ENVIRONMENT | `nari-workplace` | `manga/02-references/environments/nari-workplace/canon.md` | `nari-workplace-master-atlas.png` | `manga/02-references/environments/nari-workplace/nari-workplace-master-atlas.webp` | TEXT APPROVED | Mid-sized publishing-company editorial office. Generate PNG after style approval. |
+| STYLE | `series-manga-style-a` | `manga/01-style/manga-style-lock.md` | `series-manga-style-reference-a.png` | `manga/02-references/approved-webp/series-manga-style-reference-a.webp` | APPROVED | Strong character/anatomy/ink/hatching calibration. Rendering language only; never copy its subject identity. |
+| STYLE | `series-manga-style-b` | `manga/01-style/manga-style-lock.md` | `series-manga-style-reference-b.png` | `manga/02-references/approved-webp/series-manga-style-reference-b.webp` | APPROVED | Complements A with adult-female, ordinary-life, domestic, quiet-suspense and environment language. Rendering language only. |
+| CHARACTER | `nari` | `manga/02-references/characters/nari/canon.md` | `nari-canonical.png` | `manga/02-references/approved-webp/nari-canonical.webp` | APPROVED | Approved Yoon Nari identity authority. |
+| ENVIRONMENT | `nari-apartment` | `manga/02-references/environments/nari-apartment/canon.md` | `nari-apartment-master-atlas.png` + optional `nari-apartment-floor-plan.png` | `manga/02-references/approved-webp/nari-apartment-master-atlas.webp` + optional `nari-apartment-floor-plan.webp` | TEXT APPROVED | **Next reference to generate.** Attach Style A + Style B. |
+| ENVIRONMENT | `nari-workplace` | `manga/02-references/environments/nari-workplace/canon.md` | `nari-workplace-master-atlas.png` | `manga/02-references/approved-webp/nari-workplace-master-atlas.webp` | TEXT APPROVED | Attach Style A + Style B. Generate after/alongside apartment reference work. |
 
 ## Conditional Chapter 001 Candidate
 
-- `hyejin` — possible trusted friend/coworker anchor. The old QA/technical occupation is retired. Do not create her package until her rebuilt role and manga design are separately approved and the Chapter 001 page plan confirms she is visually needed.
+- `hyejin` — possible trusted friend/coworker anchor. The old QA/technical occupation is retired. Do not create her package until her rebuilt role/design is separately approved and the Chapter 001 page plan confirms she is visually needed.
 
 ## Explicitly Deferred For Chapter 001
 
@@ -34,21 +42,24 @@ Do not generate solely for Chapter 001:
 ## Status Values
 
 - `PLANNED` — story needs it, but semantic package is not complete
-- `TEXT APPROVED` — canon/prompt approved; no visual candidate yet
-- `VISUAL REVIEW` — PNG generation candidate exists and is under review; it is not canonical authority
-- `APPROVED` — exact approved PNG was manually converted to WebP, the WebP exists in the repository, and that WebP is safe to use in page generation
+- `TEXT APPROVED` — canon/prompt approved; PNG visual candidate not yet approved
+- `VISUAL REVIEW` — PNG candidate exists and is under review
+- `APPROVED` — exact approved PNG was manually converted to WebP, the centralized WebP exists, and that WebP is safe to use in generation
 - `RETIRED` — must not be used for new production
 
-Only `APPROVED` WebPs may appear as required image authorities inside a page's `page-###-production.md`.
+Only `APPROVED` WebPs may be used as required image authorities.
 
 ## Current Gate
 
-The only image that should be generated **now** is the PNG review candidate:
+Style A, Style B, and Nari are approved.
 
-`series-manga-style-reference.png`
+The next Chapter 001 reference generation is:
 
-After it passes review, manually convert it to:
+`nari-apartment-master-atlas.png`
 
-`manga/01-style/reference-style/series-manga-style-reference.webp`
+Required WebP attachments:
 
-Then mark the style package `APPROVED`. Do not generate Nari/apartment/workplace PNG candidates until that approved style WebP exists.
+1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+
+See `generation-attachment-map.md` before every generation so the exact attachment set never needs to be guessed.
