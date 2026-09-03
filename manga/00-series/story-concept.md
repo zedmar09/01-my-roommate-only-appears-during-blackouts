@@ -28,11 +28,28 @@ Long-form pacing must come from:
 
 The target is **not** to delay information for its own sake. Every chapter must move character, situation, relationship, investigation, or consequence forward.
 
-## Working Character Carryovers
+## Core Character Baselines
 
-The names **Yoon Nari** and **Joo Hyun-woo** are retained as working core identities because they are integral to the existing premise, but their visual designs, exact occupations, backstories, and deeper supernatural mechanics may still be revised during the rebuild.
+### Yoon Nari — LOCKED BASELINE
+
+- Korean woman, age **30**.
+- Works as an **editor at a mid-sized publishing company**.
+- Her job involves manuscripts, proofs, revisions, deadlines, coordination, and ordinary editorial judgment rather than technical investigation.
+- Late nights at the publishing office are believable around deadlines and provide natural timestamps / coworker context when the story needs to prove she was away from home.
+- Her professional attentiveness may make her notice inconsistencies, but she is **not** a detective, engineer, programmer, electrician, paranormal researcher, or other specialist who can shortcut the mystery.
+- Grounded, observant, capable, dry sense of humor, visibly tired when overworked.
+
+Nari's detailed visual baseline is approved for reference preparation under `manga/02-references/characters/nari/canon.md`. The generated visual identity is not final until its WebP is reviewed and approved.
+
+### Joo Hyun-woo — WORKING CORE IDENTITY
+
+The name **Joo Hyun-woo** remains the working core identity, but his final visual design, occupation, backstory, first visual reveal, and deeper supernatural mechanics remain intentionally open until later story layers need them.
+
+## Supporting Cast Rule
 
 Supporting cast from the retired version is not automatically canon. Each returning character must earn a role in the new structure.
+
+Koo Hyejin may be retained as Nari's trusted normal-world friend/coworker anchor, but her exact publishing-company role, final design, and Chapter 001 visual package remain pending a separate approval. Do not inherit the retired QA/technical occupation automatically.
 
 ## What Is Explicitly Not Retained
 
@@ -60,8 +77,8 @@ The manga does **not** immediately dramatize the title premise.
 
 Chapter 001 opens as an ordinary apartment-security mystery:
 
-- Nari is away from home
-- a neighbor hears footsteps / furniture movement from Nari's apartment
+- Nari is away from home at her publishing-company workplace
+- a neighbor directly below her unit hears footsteps / furniture movement from Nari's apartment
 - ordinary access history does not show a clean entry explanation
 - Nari deliberately establishes a known dining-chair position
 - reader-only ending proves the chair later moved while Nari was not watching
@@ -76,10 +93,9 @@ The early Arc 01 reveal sequence is deliberately gradual:
 
 - final Arc 01 title
 - exact supernatural thresholds and costs beyond the premise-level blackout link
-- final supporting cast for Arc 01
+- final supporting cast details beyond approved core roles
 - long-range antagonist structure
 - final Chapter 001 title
 - final Chapter 001 page count if pacing review changes the 34–36 page target
-- Nari's final occupation/design
 - Hyun-woo's final occupation/design
-- final visual designs and reusable reference packages
+- generated/approved visual WebPs for the new reference packages
