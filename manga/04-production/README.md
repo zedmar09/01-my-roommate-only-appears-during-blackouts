@@ -1,6 +1,6 @@
 # Manga Production
 
-Production is intentionally **single-file per chapter**.
+Production is intentionally **single-file per manga page**.
 
 ## Structure
 
@@ -8,38 +8,57 @@ Production is intentionally **single-file per chapter**.
 04-production/
 └── arc-01/
     └── chapter-001/
-        ├── chapter-001-production.md
-        └── pages/                     # appears when approved page WebPs exist
-            ├── page-001.webp
-            ├── page-002.webp
-            └── ...
+        ├── page-001-production.md
+        ├── page-001.webp                 # appears only after visual approval
+        ├── page-002-production.md
+        ├── page-002.webp
+        └── ...
 ```
 
-Each chapter folder has exactly **one production Markdown file**. Do not create separate page blueprints, page prompts, page reference manifests, page QA files, chapter manifests, or chapter production notes.
+There is no master chapter-production Markdown file.
 
-## Master Chapter File
+Each manga page receives exactly **one generation-authority Markdown file**. That page file contains every instruction needed to generate, verify, and approve that specific page. Do not split one page into separate prompt, blueprint, reference-manifest, script, or QA Markdown files.
 
-`chapter-###-production.md` must be self-contained for generation. It compiles all approved production requirements into one place:
+## One-Page / One-MD Rule
 
-- chapter purpose and continuity lock
-- complete generation-ready chapter script
-- chronology and parallel events
-- exact `.md` + `.webp` reference inventory
-- chapter-wide black-and-white manga rules
-- complete page map
-- page-by-page panel/script blueprints
-- exact per-page attach/reference sets
-- complete per-page image-generation instructions
-- per-page continuity in/out
-- per-page QA and approval status
-- final chapter QA
+`page-###-production.md` must be self-contained for that page and must include:
 
-The story files under `03-story/` remain the narrative source of truth. The production file is an exact generation-ready compilation of those approved story authorities and must not silently rewrite them.
+- page identity and approval status
+- exact page canvas/output dimensions and aspect ratio
+- page purpose, event thread, chronology, time, location, scenario, and page-turn role
+- continuity input from the preceding approved page and required continuity output for the next page
+- exact required attachment/reference paths for all `.md` and `.webp` authorities
+- character state, wardrobe, expression, pose, and blocking requirements
+- environment geometry and camera/view requirements
+- object/prop state and supernatural/effect state
+- panel count, reading order, panel sizes, approximate placements, hierarchy, and gutters
+- complete panel-by-panel script
+- exact dialogue, narration, SFX, silence, and lettering requirements
+- panel-by-panel actions, reactions, events, camera framing, and scenario details
+- complete deterministic image-generation instruction for the whole page
+- style prohibitions and anti-drift rules
+- page-specific QA/acceptance checklist
+- exact approved output filename
+
+The story files under `03-story/` remain the narrative source of truth. A page-production file is the exact generation-ready compilation of the approved story material for that page and must not silently rewrite it.
+
+## References
+
+Canonical character, environment, object, effect, and style references stay under `01-style/` and `02-references/`. Do not duplicate canonical WebPs into chapter folders.
+
+Every page-production MD must list the exact repository paths of the references that must be attached for that page. A required visual authority must be approved in `02-references/reference-register.md` before generation.
+
+Missing required approved reference = **STOP**. Do not improvise a substitute.
 
 ## Artwork Storage
 
-The optional `pages/` directory contains **approved final page images only**. No Markdown belongs inside it.
+The approved page WebP sits beside its production Markdown:
 
-Canonical character/environment/object/effect references stay under `02-references/`; do not duplicate their WebPs into chapter folders.
+```text
+page-001-production.md
+page-001.webp
+```
 
-Missing required approved reference = STOP generation rather than improvise.
+Rejected/intermediate generations are not canonical repository authorities and must not replace the approved page WebP.
+
+See `page-production-standard.md` for the required internal structure of every page-production file.
