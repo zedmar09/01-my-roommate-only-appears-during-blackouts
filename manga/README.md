@@ -1,6 +1,6 @@
 # Manga Production Root
 
-`manga/` is the only active production root for **My Roommate Only Appears During Blackouts**.
+`manga/` is the active production root for **My Roommate Only Appears During Blackouts**.
 
 ## Directory Model
 
@@ -9,7 +9,7 @@ manga/
 ├── 00-series/
 ├── 01-style/
 ├── 02-references/
-│   ├── approved-webp/              # centralized approved reusable visual authorities
+│   ├── approved-webp/
 │   ├── characters/
 │   ├── environments/
 │   ├── objects/
@@ -17,90 +17,92 @@ manga/
 │   ├── generation-attachment-map.md
 │   └── reference-register.md
 ├── 03-story/
-│   └── arc-01/
-│       └── chapter-001/
 └── 04-production/
     ├── page-production-standard.md
+    ├── layout-reference-workflow.md
     └── arc-01/
         └── chapter-001/
+            ├── page-001-layout-production.md
+            ├── page-001-layout-reference.webp
             ├── page-001-production.md
             ├── page-001.webp
             └── ...
 ```
 
-There is **no volume layer**. Arcs are story units; chapters are installments inside those arcs.
+There is no volume layer. Arcs are major story units; chapters are installments inside arcs.
 
 ## Format Lock
 
-- black-and-white manga
-- finished hand-drawn ink impression
-- line-weight variation
-- screentones, hatching, and solid blacks
-- expressive manga simplification when appropriate
-- conventional manga pages rather than vertical webtoon strips
-- variable panel count, size, shape, density, and hierarchy according to scene rhythm
-- one approved page-canvas specification; dramatic variation comes from panel composition
-- no color pipeline
-- no glossy, cinematic, CGI, 3D-rendered, photoreal, painterly, or webtoon-strip look
+Final story pages are:
+
+- black-and-white
+- finished **2D hand-drawn manga**
+- clean inked line art
+- natural line-weight variation
+- screentone
+- hatching/cross-hatching where useful
+- flat graphic solid-black ink shapes where appropriate
+- expressive manga simplification
+- conventional manga page construction
+- right-to-left reading
+
+Final pages are **not rough sketches**.
+
+Reject glossy/cinematic, painterly, photoreal, CGI/3D, airbrushed-gradient or vertical-webtoon rendering.
+
+## Layout Reference Model
+
+When composition needs to be locked, the layout reference is generated separately:
+
+```text
+page-###-layout-production.md
+→ page-###-layout-reference.png
+→ approve/manual WebP conversion
+→ page-###-layout-reference.webp
+```
+
+The layout reference is a clean content-filled 2D manga composition draft, not empty boxes and not a rough scribble sketch.
+
+Final generation then uses:
+
+`page-###-production.md`
+
+The final page-production MD controls final story/page generation. The approved layout reference controls composition only.
 
 ## PNG → WebP Workflow
 
-All image generation is PNG first:
+All generated visuals are PNG review candidates first.
 
-- ChatGPT/image generation returns a `.png` review candidate.
-- The PNG is visually reviewed.
-- If approved, the user manually converts that exact PNG to `.webp`.
+After approval, the user manually converts the exact accepted PNG to WebP.
 
-Reusable approved reference WebPs go to:
+Reusable approved character/environment/style reference WebPs live under:
 
 `manga/02-references/approved-webp/`
 
-Approved final manga page WebPs stay beside their page-production MDs because they are sequential page outputs.
+Page-local layout-reference and final page WebPs stay under `04-production/` beside their production files.
 
-## Paired Series Style Authority
+## Style A/B Policy
 
-Use both approved style WebPs together when a prompt calls for the series rendering authority:
+Approved Style A/B WebPs remain reference-development assets.
 
-- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+They are **not default Chapter 001 story-page attachments** because they can overpower page-specific Markdown.
 
-They control rendering language only, not character identity or environment geometry.
-
-## Reference Model
-
-Semantic authorities remain in subject folders as Markdown.
-
-Approved reusable visual authorities are centralized under `approved-webp/`.
-
-Before every reference generation, consult:
+Use the exact attachment set in:
 
 `manga/02-references/generation-attachment-map.md`
 
-That file lists the exact WebPs to attach for each generation prompt.
+Do not attach every approved reference automatically.
 
-Do not attach every available reference automatically.
+## Production Authority
 
-## Production Model — One Page, One MD
-
-Every manga page receives one self-contained production Markdown file:
-
-`manga/04-production/arc-##/chapter-###/page-###-production.md`
-
-That page file must list exact approved centralized reference WebPs needed by the page, plus the previous approved page WebP only when local seam continuity requires it.
-
-Image generation first creates `page-###.png`; after approval the user manually converts it to `page-###.webp`.
-
-See `manga/04-production/page-production-standard.md`.
-
-## Authority Order
+For a page using a layout reference:
 
 1. current user instruction
-2. `00-series/` canon and continuity
-3. current approved arc/chapter story files under `03-story/`
-4. `01-style/` visual text rules
-5. approved reusable WebPs under `02-references/approved-webp/`
-6. relevant semantic canon MDs under `02-references/`
-7. current `page-###-production.md`
-8. immediately previous approved page WebP only for local seam continuity
+2. series/arc/chapter story canon
+3. `manga/01-style/` text style rules
+4. final `page-###-production.md` for page facts/script/final generation
+5. approved `page-###-layout-reference.webp` for composition
+6. canonical character/environment/object/effect WebPs for identity/geometry
+7. previous approved page WebP for local seam continuity only
 
-A required visual reference missing from the register blocks generation. Never improvise a replacement merely to continue.
+A required authority missing from production blocks generation; do not improvise a substitute.
