@@ -19,6 +19,10 @@ The layout reference exists to lock:
 
 It does **not** replace final page production and it does not alter story canon.
 
+Follow the global lettering rule:
+
+`manga/01-style/reader-visible-language-lock.md`
+
 ---
 
 ## Separate Production Files
@@ -56,7 +60,7 @@ Required:
 - understandable hands when action depends on them
 - simplified but coherent perspective/backgrounds
 - major props/furniture present
-- speech-balloon shapes and approximate placement
+- empty speech-balloon shapes in correct positions
 - right-to-left reading flow
 - enough visual information that the final-page stage does not invent new framing or blocking
 
@@ -71,6 +75,34 @@ But it should still look like **2D manga drawing**, not wireframes, stick figure
 
 ---
 
+## Layout Reference Language Rule — ZERO READABLE TEXT
+
+Layout-reference images should contain **no reader-readable words**.
+
+Required:
+
+- dialogue balloons are EMPTY
+- thought balloons are EMPTY
+- caption boxes are empty if needed for placement
+- no SFX lettering
+- no signs
+- no binder/folder/book titles
+- no sticky-note writing
+- no readable document/manuscript text
+- no monitor/UI text
+- no labels/logos
+- no Japanese, Korean, Chinese, or other non-English text
+- no English placeholder text either
+- no fake/gibberish pseudo-text
+
+Arabic numerals are allowed only when composition requires a clock face or another explicitly approved numeric element.
+
+The layout reference locks **where lettering goes**, not what the lettering says.
+
+If any readable language appears in a layout reference, reject/regenerate it.
+
+---
+
 ## Layout Reference vs Final Page
 
 ### Layout reference controls
@@ -81,7 +113,7 @@ But it should still look like **2D manga drawing**, not wireframes, stick figure
 - panel rhythm
 - pose direction
 - major object placement
-- balloon placement
+- empty balloon/caption placement
 
 ### Final page adds
 
@@ -91,7 +123,7 @@ But it should still look like **2D manga drawing**, not wireframes, stick figure
 - final environment detail
 - final screentone/hatching
 - final flat solid-black design
-- polished lettering integration
+- exact approved **English** lettering
 
 The final page must preserve the approved layout reference unless the user explicitly approves a composition revision.
 
@@ -113,7 +145,8 @@ Do not use:
 
 For final story pages, follow:
 
-`manga/01-style/manga-style-lock.md`
+- `manga/01-style/manga-style-lock.md`
+- `manga/01-style/reader-visible-language-lock.md`
 
 ---
 
@@ -136,14 +169,15 @@ Style A/B remain available for reference-development work, but they are not defa
 
 Approve only if:
 
-- every panel contains readable story content
+- every panel contains readable story action/composition
 - panel order is clear
 - page rhythm works
 - camera/framing is established
 - poses/blocking are established
 - major environment geometry is coherent
 - important props are positioned
-- balloons have usable placements
+- empty balloons have usable placements
+- **zero readable text appears anywhere**
 - the page reads as 2D manga rather than cinema
 
 After approval:
