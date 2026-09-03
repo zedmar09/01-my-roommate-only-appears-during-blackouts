@@ -2,211 +2,198 @@
 
 ## Status
 
-**DRAFT FOR USER REVIEW — NOT YET CANON-LOCKED.**
+**STORY-DIRECTION APPROVED — FINAL WORDING STILL EDITABLE.**
 
-Dialogue is intentionally economical. Visual storytelling should carry routine, space, fatigue, and suspense whenever possible.
-
-The wording below is the current story draft, not yet a generation-authority script.
+Dialogue must stay economical. Chapter 001 is a security mystery, not a supernatural exposition chapter.
 
 ---
 
-## Scene 01 — Morning Reset
+## Scene 01 — Previous Night / Two Places At Once
 
-Nari notices the reset clock.
+Prefer almost no dialogue from the apartment-building side.
 
-**NARI**  
-`Again?`
+At Nari's workplace, use ordinary work chatter only if needed to prove she is still away from home.
 
-Optional small beat while resetting it:
+Example optional line:
 
-**NARI**  
-`I'll report it tonight.`
-
-No narration explaining the apartment or blackout premise.
-
----
-
-## Scene 02 — Workday
-
-Hyejin sees Nari working while tired.
-
-**HYEJIN**  
-`You look worse than yesterday.`
+**COWORKER / FRIEND**  
+`You're still here?`
 
 **NARI**  
-`Yesterday had the advantage of being over.`
+`Unfortunately, so is the bug.`
 
-**HYEJIN**  
-`New place still keeping you awake?`
+Do not mention the apartment mystery yet.
 
-**NARI**  
-`Deadlines are.`
+Apartment-building side:
+
+`THUMP`
 
 Beat.
-
-**NARI**  
-`The apartment just keeps resetting its clocks.`
-
-**HYEJIN**  
-`That sounds reassuring.`
-
-**NARI**  
-`It sounds like a maintenance ticket I keep forgetting to send.`
-
-Later, if the scene needs another ordinary social beat:
-
-**HYEJIN**  
-`Housewarming this weekend.`
-
-**NARI**  
-`That wasn't a question.`
-
-**HYEJIN**  
-`Correct.`
-
-**NARI**  
-`I still have boxes.`
-
-**HYEJIN**  
-`Then we sit on boxes.`
-
-This exchange is optional if page density becomes too high.
-
----
-
-## Scene 03 — Maintenance Micro-Event
-
-Keep nearly silent.
-
-Optional worker line after checking a relay/reset:
-
-**WORKER**  
-`Again?`
-
-No technical exposition.
-
----
-
-## Scene 04 — Return Home
-
-Nari sees the chair out of alignment.
-
-Prefer silence first.
-
-Optional mutter while pushing it back:
-
-**NARI**  
-`I really need sleep.`
-
-Do not have her accuse an intruder yet.
-
----
-
-## Scene 05 — Late-Night Call
-
-**HYEJIN**  
-`Go to sleep.`
-
-**NARI**  
-`I am going to sleep.`
-
-**HYEJIN**  
-`You're sharing your screen.`
-
-**NARI**  
-`Future me is asleep.`
-
-**HYEJIN**  
-`Future you hates present you.`
-
-**NARI**  
-`We have history.`
-
-Optional goodbye:
-
-**HYEJIN**  
-`Finish that one thing. Then stop.`
-
-**NARI**  
-`That's the plan.`
-
-**HYEJIN**  
-`That's always the plan.`
-
-Call ends.
-
----
-
-## Scene 06 — Blackout Onset
-
-Power dies.
-
-**NARI**  
-`...Perfect.`
-
-Use environmental SFX rather than dialogue where possible.
-
-Possible power-cut sound treatment:
-
-`TK`
-
-Then silence.
-
-Nari reaches for phone.
-
-Chair scrapes.
 
 `SKRRR`
 
-Nari freezes.
+The neighbor checks the time.
 
-No immediate joke.
-
----
-
-## Scene 07 — Human Sound
-
-After a second human sound:
-
-**NARI**  
-`Who's there?`
-
-Silence.
-
-**NARI**  
-`I called security.`
-
-This can be a bluff; whether she actually has done so is not important yet.
-
-A male voice answers from the dark.
-
-**UNKNOWN MAN**  
-`No, you didn't.`
-
-Nari's fear turns partly into anger because he sounds calm inside her home.
-
-**NARI**  
-`Then give me a reason not to.`
+No voice from inside Nari's apartment.
 
 ---
 
-## Scene 08 — Final Claim
+## Scene 02 — Morning Complaint
 
-Nari gets enough phone light to define a tall adult male silhouette but not a full face/identity reveal.
+The neighbor should sound irritated but ordinary, not ominous.
+
+**NEIGHBOR**  
+`Could you keep it down after midnight?`
+
+Nari takes a moment to understand.
 
 **NARI**  
-`Who are you?`
+`Me?`
+
+**NEIGHBOR**  
+`The chair. And the walking.`
+
+Optional:
+
+**NEIGHBOR**  
+`It went on long enough to wake me up.`
+
+**NARI**  
+`What time?`
+
+Neighbor gives an approximate time.
 
 Beat.
 
 **NARI**  
-`Why are you in my apartment?`
+`I wasn't home.`
 
-Final line:
+Do not add a horror reaction from the neighbor. The neighbor may simply assume Nari is denying responsibility.
 
-**UNKNOWN MAN**  
-`You moved into my apartment.`
+---
+
+## Scene 03 — Workday / Security Check
+
+If a trusted coworker/friend is present, the conversation should stay mundane.
+
+Possible exchange:
+
+**FRIEND**  
+`So your neighbor thinks your empty apartment is loud?`
+
+**NARI**  
+`My empty apartment has better nightlife than I do.`
+
+**FRIEND**  
+`Could be the wrong unit.`
+
+**NARI**  
+`That's what I'm hoping.`
+
+When Nari checks the lock/access history, visual information should do most of the work.
+
+Optional small line:
+
+**NARI**  
+`No entry.`
+
+Do not have anyone say `ghost`, `haunted`, `blackout`, `roommate`, or another direct premise word as an explanation.
+
+---
+
+## Scene 04 — Evening Return / Inspection
+
+Mostly silent.
+
+Nari may mutter while checking the lock/windows:
+
+**NARI**  
+`Nothing.`
+
+When she sees the chair out of place, prefer a silent beat.
+
+Optional self-directed line:
+
+**NARI**  
+`...Did I leave you like that?`
+
+The line is addressed to the chair as dry self-talk, not as belief the chair is alive.
+
+---
+
+## Scene 05 — Deliberate Chair Position
+
+Nari pushes the chair into a precise position.
+
+Optional:
+
+**NARI**  
+`There.`
+
+No explanation to the reader is necessary if the staging clearly shows that she is creating a known position.
+
+---
+
+## Scene 06 — Ordinary Night
+
+Use normal adult-life dialogue only if a call/chat is included.
+
+Example:
+
+**FRIEND**  
+`You checked the windows?`
+
+**NARI**  
+`And the lock. And under the bed, because apparently I'm twelve.`
+
+**FRIEND**  
+`You looked under the bed?`
+
+**NARI**  
+`I regret telling you anything.`
+
+The conversation may end on an unrelated work/social topic so the chapter is not tonally trapped in suspense.
+
+---
+
+## Scene 07 — Bedtime
+
+Prefer silence.
+
+Optional small line from Nari when shutting down for the night:
+
+**NARI**  
+`Tomorrow.`
+
+This means she will deal with the complaint/security issue later, not that she has solved anything.
+
+---
+
+## Scene 08 — Reader-Only Ending
+
+No dialogue.
+
+No voice.
+
+No narration naming the phenomenon.
+
+After stillness:
+
+`SKRRR`
+
+Final visual: the dining chair is no longer in the precise position Nari deliberately established.
 
 **END CHAPTER 001.**
 
-No name reveal. No blackout rule explanation. No origin monologue.
+## Dialogue Prohibitions
+
+Chapter 001 must not contain reader-facing dialogue that identifies:
+
+- Hyun-woo
+- a roommate
+- a ghost/entity
+- the blackout rule
+- a previous tenant explanation as fact
+- the series mythology
+
+Characters may make mundane guesses, jokes, or wrong assumptions, but none should correctly explain the core premise.
