@@ -1,137 +1,90 @@
-# Series Manga Style Reference — Generation Prompt
+# Series Manga Style Reference — Generation Record
 
 ## Status
 
-**TEXT APPROVED — READY FOR FIRST VISUAL GENERATION.**
+**COMPLETED — APPROVED PAIRED STYLE AUTHORITIES EXIST.**
 
-This is the first image that should be generated for the new manga reference pipeline.
+Chapter 001 does not need another style-reference generation.
 
-## Output Format Workflow
+Approved final WebPs are centralized at:
 
-ChatGPT/image generation should produce this first candidate as:
+- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
 
-`series-manga-style-reference.png`
+These two images are used **together** as the series manga rendering authority.
 
-The PNG is an intermediate review artifact only.
+## Authority Roles
 
-After the PNG is visually approved, the user manually converts that exact approved image to the final repository authority:
+### Style Reference A
 
-`manga/01-style/reference-style/series-manga-style-reference.webp`
+Primary strengths:
 
-Do **not** ask the image generator to output WebP directly. The WebP becomes authority only after manual conversion of the approved PNG and repository commit.
+- finished manga character rendering
+- adult anatomy
+- face construction
+- hand rendering
+- stronger black placement
+- hatching/cross-hatching
+- clothing and movement treatment
 
-See `manga/02-references/image-format-workflow.md`.
+It controls rendering language only. Its generic male subject is not Hyun-woo or any story character.
 
-## Purpose
+### Style Reference B
 
-Create one original calibration image that locks the **broad black-and-white manga production language** before story characters or environments are generated.
+Primary strengths:
 
-This image controls only visual language:
+- adult female rendering
+- ordinary adult-life expressions
+- domestic/interior rendering
+- quiet suspense
+- environment line density
+- everyday object interaction
+- simplified comedy/reaction language
 
-- hand-drawn ink/sketch feeling
-- line-weight behavior
+It controls rendering language only. Its generic female subject is not Nari, and its generic apartment is not Nari's apartment.
+
+## Required Use Rule
+
+When a generation prompt needs the series style authority, attach **both**:
+
+1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+
+Do not attach only one unless a future prompt explicitly explains why.
+
+See:
+
+`manga/02-references/generation-attachment-map.md`
+
+## Identity / Geometry Firewall
+
+Style references may control:
+
+- line quality
 - screentone density
 - hatching/cross-hatching
-- solid-black placement
-- adult face/body rendering
-- clothing folds
-- background-detail balance
+- solid-black usage
+- anatomy treatment
+- hair/fabric rendering language
+- background detail balance
 - simplified reaction rendering
-- panel-border feeling
-- printed-manga texture
+- finished printed-manga feeling
 
-It does **not** define Nari, Hyun-woo, any story location, dialogue, or page-specific composition.
+They must **not** control:
 
-## Required Attachment / Text Authorities
+- Nari's exact face/hair/body identity
+- Hyun-woo's future identity
+- any supporting character identity
+- Nari apartment geometry
+- Nari workplace geometry
+- story props
+- dialogue
+- page-specific composition
 
-Use:
+Character/environment canon MDs and their approved canonical WebPs override any subject identity or geometry visible inside the style sheets.
 
-- `manga/01-style/manga-style-lock.md`
-- `manga/01-style/page-composition-rules.md`
-- `manga/01-style/panel-language.md`
-- `manga/01-style/screentone-and-hatching-guide.md`
+## PNG → WebP Workflow
 
-Do not use retired Manhwa reference images as visual authority.
+The approved A and B PNG review candidates were manually converted to WebP. The centralized WebPs above are now final repository authorities.
 
-## Generation Instruction
-
-```text
-Create exactly ONE original BLACK-AND-WHITE MANGA VISUAL-LANGUAGE CALIBRATION SHEET in a portrait manga-page family.
-
-OUTPUT FORMAT
-Return/generate the first review candidate as PNG. Do not treat the PNG as final repository canon and do not convert it to WebP inside generation. The user will manually convert the exact approved PNG to WebP after visual approval.
-
-This is NOT a story page and must NOT depict any character or location from "My Roommate Only Appears During Blackouts". Use only generic original adult human subjects and generic original interiors/exteriors.
-
-ABSOLUTE MEDIUM
-- traditional black-and-white manga drawing
-- confident human-drawn pencil/ink impression
-- visible natural line variation and slight organic imperfection
-- crisp black ink with white paper used actively
-- selective solid blacks
-- manga screentones for mid-values and atmosphere
-- purposeful hatching and cross-hatching
-- natural adult anatomy and readable hands
-- believable fabric folds and hair strands rendered through line/black/tone rather than glossy gradients
-- printed-manga feeling, not polished digital concept art
-
-CALIBRATION CONTENT
-Arrange the sheet as a controlled original multi-panel/style-study composition that demonstrates all of the following without becoming a narrative scene:
-
-1. adult head-and-shoulders neutral expression
-2. adult 3/4 face with stronger emotion
-3. simplified/comedic reaction face using manga abstraction
-4. full or 3/4 adult figure showing clothing folds and natural hands
-5. close-up of hand interacting with an ordinary object
-6. ordinary interior background with furniture/perspective detail
-7. quieter low-detail emotional background treatment
-8. one darker-value study using screentone + hatching + selective solid blacks while preserving readable forms
-9. one small movement/impact example using restrained speed/impact lines
-10. examples of clean but not sterile panel borders/gutters
-
-STYLE BALANCE
-- characters should look like adults, not school-age/chibi unless the tiny reaction example intentionally simplifies anatomy
-- faces attractive but grounded, not glossy fashion illustrations
-- backgrounds detailed when spatial context matters, simplified when emotion/reaction is the focus
-- do not over-fill every area with tone; preserve clean white areas
-- blacks should anchor composition without crushing all shadow detail
-- screentones should look like manga value control, not gray digital painting
-
-TEXT
-Prefer ZERO readable text. No speech balloons, captions, labels, fake Japanese/Korean lettering, logos, watermarks, signatures, UI, or metadata.
-
-COPYRIGHT / ORIGINALITY LOCK
-Do not reproduce, trace, imitate, or closely reconstruct any specific published manga page, character, costume, pose sequence, panel layout, dialogue, logo, or recognizable composition. The goal is only the broad medium language of traditional published black-and-white manga.
-
-ABSOLUTELY REJECT
-- any color
-- glossy webtoon finish
-- cinematic lighting/grade
-- bloom, lens flare, volumetric light
-- 3D/CG/game-render look
-- photorealism or semi-photorealism
-- painterly/airbrushed shading
-- smooth plastic AI finish
-- giant vertical-webtoon blank spaces
-- repeated rigid identical panel grid
-- copied copyrighted character or recognizable manga panel
-
-FINAL GOAL
-A single original portrait-oriented PNG review candidate that can become the reusable style authority after approval and manual conversion to WebP, stabilizing linework, screentone, hatching, black placement, anatomy, background detail, and overall traditional black-and-white manga feeling.
-```
-
-## Acceptance Gate
-
-Approve only if the PNG can function as the exact visual source to be manually converted into the reusable WebP style authority without accidentally becoming a story reference.
-
-Reject if:
-
-- any story character/location is implied
-- specific existing manga imagery is recognizable
-- rendering becomes glossy, cinematic, photoreal, painterly, CGI, or webtoon-like
-- screentones/hatching are absent or overused
-- adult anatomy/hands are poor
-- all panels use the same density/detail level
-- the sheet contains invented text/logos/labels
-
-After approval: manually convert the accepted PNG to `series-manga-style-reference.webp`, commit that WebP, then mark the style package `APPROVED` in `manga/02-references/reference-register.md`.
+Do not create Style C/D or another Chapter 001 style image merely to add variety. The approved A+B pair is intentionally the fixed baseline until deliberately revised.
