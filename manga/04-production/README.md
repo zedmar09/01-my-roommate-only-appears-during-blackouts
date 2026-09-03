@@ -1,11 +1,13 @@
 # Manga Production
 
-Production is page-based and supports a **separate layout-reference pre-production step** when composition needs to be locked before final art.
+Final story-page production uses **finished 2D black-and-white manga** and an optional separate layout-reference stage.
 
 See:
 
 - `manga/04-production/page-production-standard.md`
 - `manga/04-production/layout-reference-workflow.md`
+- `manga/01-style/manga-style-lock.md`
+- `manga/01-style/reader-visible-language-lock.md`
 
 ## Structure
 
@@ -15,98 +17,82 @@ See:
 ├── layout-reference-workflow.md
 └── arc-01/
     └── chapter-001/
-        ├── page-001-layout-production.md
-        ├── page-001-layout-reference.webp
-        ├── page-001-production.md
-        ├── page-001.webp
+        ├── page-001-layout-production.md   # pre-production composition authority generator
+        ├── page-001-layout-reference.webp # approved composition authority
+        ├── page-001-production.md          # final page authority
+        ├── page-001.webp                   # final approved page
         └── ...
 ```
 
-The layout-production MD is optional pre-production used only when a page requires a visual composition lock.
-
-The final `page-###-production.md` remains the final story-page generation authority.
+Layout production is separate from final story-page production.
 
 ---
 
-## Separate Layout-Reference Workflow
+## English-Only Reader-Visible Text
 
-When a page requires a layout reference:
+All final story pages use **English only** for reader-visible text unless the user explicitly approves a page-specific exception before generation.
 
-1. use `page-###-layout-production.md`
-2. generate `page-###-layout-reference.png`
-3. review composition/blocking/framing
-4. manually convert the accepted PNG to `page-###-layout-reference.webp`
-5. commit it beside the page production files
-6. use the separate final `page-###-production.md`
-7. generate final `page-###.png`
-8. review against the approved layout reference
-9. manually convert the accepted final PNG to `page-###.webp`
+This includes dialogue, captions, thoughts, SFX, signs, labels, notes and UI.
 
-A layout reference is a clean content-filled 2D manga layout draft, not empty boxes and not a rough scribble sketch.
+Layout-reference images are **text-free by default**:
+
+- speech balloons empty
+- caption boxes empty
+- no SFX text
+- no readable signs/labels/documents/UI
+- no Japanese/Korean/Chinese/other scripts
+- no English placeholder words
+
+Final English wording comes only from the final `page-###-production.md`.
+
+Any non-English or invented reader-visible text is a regeneration failure.
 
 ---
 
 ## Story-Page Style Rule
 
-Broad reusable Style A/B images are not automatic layout-reference or final-story-page attachments.
+Broad reusable Style A/B images are not automatic story-page attachments.
 
-For Chapter 001, default story-page production omits:
+For Chapter 001, default story-page generation omits:
 
 - `series-manga-style-reference-a.webp`
 - `series-manga-style-reference-b.webp`
 
-because they may visually overpower page-specific Markdown.
+because they can visually overpower page-specific Markdown.
 
-Canonical character/environment WebPs control identity/geometry only.
-
-The final rendering authority is the written manga style lock plus the exact final page-production MD.
+The page production Markdown controls final story-page rendering and exact English lettering. Canonical character/environment WebPs control identity and geometry only.
 
 ---
 
 ## Final Manga Quality
 
-Final story pages are **finished 2D hand-drawn black-and-white manga**, not sketch output.
+Story pages must be finished professional 2D manga:
 
-Required:
-
-- clean finished ink lines
-- line-weight variation
+- clean final inks
+- varied line weight
+- refined anatomy
 - screentone
-- hatching where useful
-- flat graphic solid blacks where appropriate
-- refined anatomy/hands
-- clean manga backgrounds
-- conventional manga panel and balloon construction
+- hatching
+- flat graphic solid blacks
+- conventional manga panel construction
 
-Reject rough construction art, cinematic/movie-still rendering, glossy webtoon finish, painterly grayscale, photorealism and CGI/3D.
+Reject rough sketch final pages, cinematic lighting, glossy/painterly rendering, photorealism and CGI/3D.
 
 ---
 
-## Production Authority Rule
+## PNG → WebP Workflow
 
-A separate layout-production MD does not compete with story authority.
+1. generate PNG review candidate
+2. visually audit
+3. user manually converts exact accepted PNG to WebP
+4. commit approved WebP
 
-- `page-###-layout-production.md` = composition pre-production only
-- `page-###-layout-reference.webp` = approved composition authority
-- `page-###-production.md` = final story/page generation authority
-- `page-###.webp` = final approved page visual authority
+Layout reference:
 
----
+`page-###-layout-reference.png` → approve → `page-###-layout-reference.webp`
 
-## Artwork Storage
+Final page:
 
-Review candidates:
-
-```text
-page-001-layout-reference.png
-page-001.png
-```
-
-Approved production visuals:
-
-```text
-page-001-layout-reference.webp
-page-001.webp
-```
+`page-###.png` → approve → `page-###.webp`
 
 Rejected PNGs are not canon.
