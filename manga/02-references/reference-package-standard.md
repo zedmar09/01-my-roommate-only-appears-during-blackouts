@@ -41,6 +41,8 @@ environments/<location-id>/
 
 The master atlas should cover the minimum reusable angles required by the story. Camera changes must not redesign geometry.
 
+When generation-count reduction is important, a floor plan may be incorporated into the master atlas instead of becoming a separate WebP **only if** the combined atlas remains legible enough to serve as a reliable spatial authority. Do not force a separate generation merely for folder symmetry.
+
 ## Object Package
 
 ```text
@@ -65,4 +67,4 @@ Use for recurring supernatural marks, blackout manifestation language, impact gr
 
 ## No Duplication Rule
 
-Do not copy canonical WebPs into every chapter or page folder. Page manifests point to the single approved file under `02-references/`. This avoids drift and keeps the repository small.
+Do not copy canonical WebPs into every chapter or page folder. Each page's single `page-###-production.md` lists the exact approved files it requires under its attachment/reference section. This avoids drift and keeps the repository small.
