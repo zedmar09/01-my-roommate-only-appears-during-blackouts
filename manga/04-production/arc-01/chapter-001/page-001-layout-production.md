@@ -15,6 +15,10 @@ This file generates the Page 001 **layout reference only**.
 
 It does not generate the final Page 001 manga page.
 
+Follow:
+
+`manga/01-style/reader-visible-language-lock.md`
+
 ---
 
 ## 2. Exact Attachments
@@ -29,8 +33,6 @@ Do **not** attach:
 
 - `series-manga-style-reference-a.webp`
 - `series-manga-style-reference-b.webp`
-
-They are not required for this story-page layout reference.
 
 Attachment roles:
 
@@ -54,7 +56,7 @@ It should already look like manga drawing:
 - readable character poses/gestures
 - coherent office perspective
 - major desks/books/proofs/props visible
-- readable speech-balloon placement
+- empty speech-balloon shapes in correct positions
 - right-to-left manga flow
 - black-and-white only
 
@@ -79,7 +81,53 @@ The layout reference must be detailed enough that final page generation does not
 
 ---
 
-## 4. Canvas
+## 4. LANGUAGE / LETTERING LOCK — ZERO READABLE TEXT
+
+This is absolute for the layout-reference image.
+
+**Do not generate any readable text anywhere.**
+
+Forbidden:
+
+- Japanese
+- Korean
+- Chinese
+- English dialogue
+- English placeholder text
+- any other language
+- SFX lettering
+- captions
+- signs
+- company names
+- book/folder/binder titles
+- sticky-note text
+- readable manuscripts/proofs
+- labels
+- monitor/UI text
+- logos
+- fake/gibberish pseudo-writing
+
+### Speech balloons
+
+Panel 2 must contain **one EMPTY normal speech balloon** positioned for the future English line:
+
+`You're still here?`
+
+Panel 3 must contain **one EMPTY normal speech balloon** positioned for the future English line:
+
+`Just one more pass.`
+
+The two English lines above are **production notes only**. Do not render them in the layout-reference image.
+
+Panels 1 and 4 contain no balloons unless needed only as empty composition placeholders.
+
+Arabic numerals are allowed only on the analog clock face if needed to establish time compositionally.
+
+Any readable word or non-English glyph in the generated layout reference = **AUTOMATIC REJECT**.
+
+---
+
+## 5. Canvas
 
 - portrait
 - **1024 × 1536 px**
@@ -90,7 +138,7 @@ The layout reference must be detailed enough that final page generation does not
 
 ---
 
-## 5. Story Purpose
+## 6. Story Purpose
 
 Page 001 opens on ordinary adult work life.
 
@@ -106,9 +154,9 @@ Tone:
 
 ---
 
-## 6. Four-Panel Composition Target
+## 7. Four-Panel Composition Target
 
-Use **4 panels** with natural manga page rhythm.
+Use exactly **4 panels** with natural manga page rhythm.
 
 ### Panel 1 — Office Establishing
 
@@ -119,17 +167,16 @@ Use **4 panels** with natural manga page rhythm.
 - computers secondary
 - some desks empty
 - late-night context visible without cinematic lighting
+- **no readable text anywhere in the panel**
 
 ### Panel 2 — Coworker Check-In
 
 - smaller dialogue panel
 - unnamed coworker near Nari's desk, preparing to leave
 - ordinary body language
-- balloon placed for right-to-left flow
-
-Dialogue:
-
-`You're still here?`
+- one **EMPTY speech balloon** placed for right-to-left flow
+- no words inside the balloon
+- no readable background text
 
 ### Panel 3 — Nari Working
 
@@ -137,11 +184,9 @@ Dialogue:
 - Nari remains focused on printed proofs
 - readable hand action
 - tired, composed expression
-- balloon placement established
-
-Dialogue:
-
-`Just one more pass.`
+- one **EMPTY speech balloon** positioned for final lettering
+- no words inside the balloon
+- no readable background text
 
 ### Panel 4 — Time / Location Proof
 
@@ -149,12 +194,14 @@ Dialogue:
 - Nari still working
 - office mostly quiet/empty
 - ordinary visual cue indicates after midnight
-- analog wall clock may indicate approximately 12:25–12:30
+- analog wall clock may indicate approximately 12:25–12:30 using ordinary clock numerals/hands
 - no dialogue
+- no narration
+- no labels/notes/signs/readable documents
 
 ---
 
-## 7. Composition Authority Output
+## 8. Composition Authority Output
 
 After the PNG is visually approved, manually convert the exact accepted image to:
 
@@ -169,16 +216,20 @@ Once committed, that WebP controls the final Page 001:
 - pose direction
 - major office/prop placement
 - negative space
-- speech-balloon positions
+- empty speech-balloon positions
 
-The final page may refine drawing/detail but must not redesign the approved composition without explicit user approval.
+The final page may refine drawing/detail and add exact approved English lettering, but must not redesign the approved composition without explicit user approval.
 
 ---
 
-## 8. Automatic Reject
+## 9. Automatic Reject
 
 Reject the layout reference if:
 
+- any readable text appears anywhere
+- any Japanese/Korean/Chinese/other non-English characters appear
+- the balloons contain dialogue
+- fake document/sign/UI text appears
 - it is only panel boxes or a wireframe
 - it is visibly rough/scribbly construction art
 - story content is missing inside panels
@@ -186,7 +237,7 @@ Reject the layout reference if:
 - office does not read as publishing/editorial
 - camera/framing is unclear
 - poses/blocking are unclear
-- balloons are missing in dialogue panels
+- empty balloons are missing in Panels 2–3
 - reading order is unclear
 - it becomes cinematic/poster-like
 - it becomes glossy/painterly/photoreal/3D
@@ -194,13 +245,15 @@ Reject the layout reference if:
 
 ---
 
-## 9. Generation Instruction
+## 10. Generation Instruction
 
 Create exactly **ONE 1024×1536 portrait black-and-white 2D MANGA LAYOUT REFERENCE** for Chapter 001 Page 001.
 
-This is a clean content-filled manga composition reference, not an empty layout template and not a rough scribble sketch. Draw all four story panels with readable characters, poses, facial acting, office staging, major props and speech-balloon placement.
+This is a clean content-filled manga composition reference, not an empty layout template and not a rough scribble sketch. Draw all four story panels with readable characters, poses, facial acting, office staging and major props.
 
 Use `nari-canonical.webp` only for Nari identity and `nari-workplace-master-atlas.webp` only for workplace geometry.
+
+**Generate zero readable text. Keep the dialogue balloons in Panels 2 and 3 completely empty. Do not generate Japanese, Korean, Chinese, English placeholder words, SFX, labels, signs, document text, UI text, or fake writing.**
 
 Do not attach or imitate Style A/B. Do not use cinematic lighting, painterly shading, glossy rendering, photorealism or 3D.
 
