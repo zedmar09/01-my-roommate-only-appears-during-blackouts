@@ -2,194 +2,138 @@
 
 ## Status
 
-**STYLE A + STYLE B + NARI APPROVED. ENVIRONMENT REFERENCES ARE NEXT.**
+**COMPLETE — CORE REUSABLE REFERENCES APPROVED.**
 
-Generate only reusable visual authorities that Chapter 001 actually shows.
+Chapter 001 now has the reusable visual authorities required to begin page-production compilation.
 
 ## Central Approved WebP Folder
 
-All approved reusable WebPs now live in:
+All approved reusable WebPs live in:
 
 `manga/02-references/approved-webp/`
 
-Current approved Chapter 001 authorities:
+Current Chapter 001 authorities:
 
-- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-- `manga/02-references/approved-webp/nari-canonical.webp`
+1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
+2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+3. `manga/02-references/approved-webp/nari-canonical.webp`
+4. `manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
+5. `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
 
-Before every generation, use:
+Before every page generation, consult:
 
-`manga/02-references/generation-attachment-map.md`
-
-## Image Format Workflow
-
-Every first-generation visual is PNG. After visual approval, the user manually converts that exact accepted PNG to WebP. Only the centralized WebP becomes reusable repository authority.
-
----
+- `manga/02-references/generation-attachment-map.md`
+- `manga/04-production/arc-01/chapter-001/chapter-001-pages-generation-guide.md`
 
 ## Style — COMPLETE
 
 The series manga style is a paired authority:
 
-1. `series-manga-style-reference-a.webp`
-2. `series-manga-style-reference-b.webp`
+- Style A
+- Style B
 
-Use both together for rendering language. Neither may override story-character identity or environment geometry.
+Use both together for Chapter 001 rendering language. Neither may override Nari identity or canonical environment geometry.
 
-Do not generate additional Chapter 001 style sheets.
-
----
-
-## Characters
-
-### Yoon Nari — APPROVED / REUSABLE
+## Character — Nari COMPLETE
 
 Semantic authority:
 
 `manga/02-references/characters/nari/canon.md`
 
-Approved final visual:
+Approved visual:
 
 `manga/02-references/approved-webp/nari-canonical.webp`
 
-Nari is complete for Chapter 001 reference needs.
+Attach whenever Nari is visible.
 
-### Neighbor Below — CHAPTER-LOCAL OR REUSABLE LATER
-
-The complaining neighbor lives directly below Nari.
-
-Do not create a full canonical atlas unless later Arc 01 planning makes the neighbor recurring.
-
-### Koo Hyejin — CONDITIONAL
-
-Hyejin remains a proposed trusted friend/coworker anchor, but her old QA/technical role is retired.
-
-Do not generate her until her rebuilt role/design is separately approved and the Chapter 001 page plan confirms she is visibly required.
-
-### Joo Hyun-woo — NOT REQUIRED FOR CHAPTER 001
-
-Do not generate or attach Hyun-woo solely for Chapter 001. The chapter does not show him, a silhouette, body fragment, shadow, or voice source.
-
----
-
-## Environments
-
-### 1. Nari Apartment — NEXT GENERATION
+## Nari Apartment — COMPLETE
 
 Semantic authority:
 
 `manga/02-references/environments/nari-apartment/canon.md`
 
-Generation prompt:
-
-`manga/02-references/environments/nari-apartment/nari-apartment-reference-generation-prompt.md`
-
-Generate now:
-
-`nari-apartment-master-atlas.png`
-
-Attach exactly:
-
-1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-
-Do not attach Nari canonical to the environment atlas.
-
-After approval/manual conversion, final authority becomes:
+Approved visual:
 
 `manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
 
-A separate floor plan is optional. Generate it only after master-atlas approval and only if the atlas itself cannot carry a reliable legible plan.
+The approved master atlas contains sufficient floor-plan/spatial information for Chapter 001. **Do not generate a separate floor-plan reference.**
 
-If a separate floor plan is needed, attach Style A + Style B + approved apartment master atlas.
+It controls:
 
-### Locked Apartment Baseline
-
-- modest modern Seoul one-bedroom apartment
-- approximately 40–45 m²
-- ordinary working-adult rental
-- short entry hall with sightline toward living/dining
-- compact kitchen adjoining dining
-- compact bathroom near entry
-- separate bedroom/private-room route
-- main living area at exterior/window side
+- apartment interior geometry
+- front door / entry relationship
+- living/dining/kitchen relationship
+- bedroom/private route
+- windows/exterior-side relationship
 - home work/activity zone
-- small rectangular dining table
-- exactly two matching chairs
-- Chair B is the continuity chair; its known position must be precisely reproducible
-- immediate front-door exterior/corridor/elevator route should be included when possible
-- complaining neighbor lives directly below Nari
+- immediate corridor/elevator common route
+- exactly two matching dining chairs
+- Chair B known/reference position
 
-### 2. Nari Workplace — READY AFTER / ALONGSIDE APARTMENT
+## Nari Workplace — COMPLETE
 
 Semantic authority:
 
 `manga/02-references/environments/nari-workplace/canon.md`
 
-Generation prompt:
-
-`manga/02-references/environments/nari-workplace/nari-workplace-reference-generation-prompt.md`
-
-Generate:
-
-`nari-workplace-master-atlas.png`
-
-Attach exactly:
-
-1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-
-Do not attach Nari canonical to the environment atlas unless a future revised prompt explicitly requires visible Nari.
-
-After approval/manual conversion, final authority becomes:
+Approved visual:
 
 `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
 
-### Apartment Corridor / Elevator / Common Route
+It controls the publishing-company editorial office for late-night and daytime Chapter 001 scenes.
 
-Merge into the apartment master atlas first. Create a separate environment only if the combined atlas becomes too crowded or ambiguous.
+## Chapter-Local Supporting Elements
+
+### Downstairs Neighbor
+
+No full canonical atlas. The neighbor is an ordinary chapter-local adult resident living directly below Nari. Establish appearance on Page 006 and preserve it across Pages 007–010 through previous approved-page continuity.
 
 ### Neighbor Interior
 
-No full canonical environment yet. Use a page-local crop unless later story planning makes the neighbor unit recurring.
+No reusable environment atlas. Pages 002–004 may use a limited generic downstairs-unit crop/ceiling view. Preserve short-range continuity using the immediately previous approved page.
 
-### Building Service / Electrical Area
+### Hyejin / Friend
 
-Not required for Chapter 001.
-
----
+No visible Hyejin canonical is required for Chapter 001. Optional phone/friend dialogue remains offscreen; workplace social proof may use unnamed background coworkers.
 
 ## Objects
 
-### Second Dining Chair
+### Chair B
 
-Environment-level continuity object. Its design/count/designated position are controlled by the apartment canon/atlas. No separate object canonical for Chapter 001.
+No separate object canonical. The apartment atlas controls its design, designated side, scale and known position.
 
-### Smart Lock / Access Interface
+### Smartphone / Smart Lock
 
-Generic/environment detail for now. No separate canonical.
-
-### Smartphone
-
-Generic for now. No separate canonical.
-
----
+Generic page-level props. No separate reusable canonical required for Chapter 001.
 
 ## Effects
 
-### Blackout Visual-Language Atlas
+No blackout visual-language atlas is required. Chapter 001 does not provide reader-facing blackout explanation or visible supernatural manifestation.
 
-Not required for Chapter 001. Create later before the first substantial reader-visible blackout if needed.
+## Explicitly Deferred
 
----
+Do not generate for Chapter 001:
 
-## Current Minimal Generation Order
+- Hyun-woo canonical
+- Hyejin canonical
+- separate apartment floor plan
+- building service/electrical-area atlas
+- blackout visual-language atlas
+- separate dining-chair canonical
+- separate smartphone canonical
+- separate smart-lock canonical
+- full neighbor character/environment atlas
 
-1. **Nari apartment master atlas — generate next**
-2. apartment floor plan — only if still needed after atlas approval
-3. Nari workplace master atlas
-4. Hyejin canonical — only if separately approved and visibly required
-5. final reference audit before Chapter 001 page-production MDs are created
+## Production Gate
 
-Do not generate speculative Hyun-woo, service-area, blackout-effect, chair, phone, lock, or neighbor full-atlas references before the story actually needs them.
+**PASS.**
+
+The next stage is to compile:
+
+`manga/04-production/arc-01/chapter-001/page-001-production.md`
+
+through:
+
+`page-036-production.md`
+
+Generate pages sequentially and use the chapter generation guide for exact attachment sets and continuity rules.
