@@ -61,6 +61,48 @@ Example:
 
 `page-001.png` → approve → user converts → `page-001.webp`
 
+## Absolute Human-Drawn Rendering Gate
+
+Every Chapter 001 page must visibly read as a **real human-drawn black-and-white manga page**.
+
+Default value/build order:
+
+1. white paper / negative space
+2. organic pencil/ink linework
+3. light screentone
+4. hand hatching/cross-hatching
+5. sparse spot blacks only where genuinely needed
+
+Required:
+
+- natural line-weight variation
+- slight human line imperfection allowed
+- subtle pencil/sketch residue allowed if intentional and readable
+- line-driven forms rather than shadow-driven digital modeling
+- ordinary scenes remain light, readable and paper-white
+- hatching must look hand-drawn rather than like a digital gradient mask
+
+Reject:
+
+- cinematic lighting
+- film-still/storyboard look
+- poster/key-art polish
+- glossy webtoon/manhwa rendering
+- plastic-clean/vector-like AI linework
+- large default solid-black masses
+- black cinematic vignettes
+- ordinary scenes rendered as noir/high-contrast drama
+- rim light, bloom, volumetric light, lens flare, depth-of-field blur, bokeh
+- photorealism, painterly grayscale, CGI/3D-derived rendering
+
+If a result looks more dramatic/polished/cinematic but less visibly human-drawn, **reject it**.
+
+See:
+
+- `manga/01-style/manga-style-lock.md`
+- `manga/01-style/screentone-and-hatching-guide.md`
+- `manga/04-production/page-production-standard.md`
+
 ## Approved Reusable WebP Pool
 
 All reusable image authorities are centralized under:
@@ -72,7 +114,7 @@ All reusable image authorities are centralized under:
 1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
 2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
 
-Style A + Style B control rendering language only. They never control story-character identity or apartment/workplace geometry.
+Style A + Style B control broad **hand-drawn manga rendering language only**. They never control story-character identity, apartment/workplace geometry, page-specific composition, or permission to increase cinematic polish/darkness.
 
 ### Character
 
@@ -87,6 +129,25 @@ Attach whenever Nari is visible. This is Nari's identity authority.
 
 The apartment master atlas already contains sufficient spatial/floor-plan information for Chapter 001. **No separate floor-plan image is required.**
 
+## User-Supplied Page Sketch / Thumbnail Rule
+
+If the user supplies or has already approved a page-specific sketch/thumbnail/layout image, attach it for that generation.
+
+For the current page, the supplied sketch becomes the **highest composition authority** and controls:
+
+- panel geometry/proportions
+- panel order
+- framing/camera intent
+- character blocking
+- major object placement
+- negative space
+- balloon-placement intent
+- rough manga-page rhythm
+
+Do not redesign, beautify, cinematicize, or “improve” an approved sketch.
+
+The sketch controls composition only. Nari canonical still controls Nari identity, environment atlases still control reusable geometry, and story/page-production files still control narrative facts and script.
+
 ## Attachment Principle
 
 Do not attach every available WebP to every page.
@@ -98,6 +159,7 @@ Use only the references that control something visible on the page:
 - apartment/corridor/elevator visible → add apartment atlas
 - empty apartment → Style A + Style B + apartment atlas; do not attach Nari unless she is actually visible
 - same scene continues → attach immediately previous approved page WebP when it materially helps pose, neighbor identity, environment angle, chair state, or visual seam continuity
+- user-approved page sketch exists → attach it and follow its composition closely
 
 More attachments are not automatically better. Irrelevant references can cause identity/environment drift.
 
@@ -105,12 +167,27 @@ More attachments are not automatically better. Irrelevant references can cause i
 
 Use the approved paired references as complementary visual authorities:
 
-- Style A: strong finished ink, anatomy, hands, facial construction, hatching, solid-black control
-- Style B: adult-female rendering, ordinary life, domestic interiors, quiet suspense, restrained expression, environment density/simplification
+- Style A: human-drawn manga line quality, anatomy, hands, facial construction, hatching discipline and controlled graphic accents
+- Style B: adult-female rendering, ordinary life, domestic interiors, restrained expression, environment density/simplification and quiet suspense language
 
 Nari's canonical overrides any generic human identity shown in Style A/B.
 
 Environment atlases override any generic room/office shown in Style A/B.
+
+A supplied page sketch/thumbnail overrides Style A/B for current-page layout/composition.
+
+### Anti-drift interpretation
+
+Style A/B must not be interpreted as permission to:
+
+- increase solid-black coverage
+- make ordinary pages darker
+- add cinematic value structure
+- add film lighting
+- turn the page into poster/key art
+- replace hand-drawn linework with polished digital rendering
+
+For ordinary Chapter 001 pages, **white + line art must dominate**.
 
 ## Chapter-Wide Visual Rhythm
 
@@ -128,7 +205,7 @@ Required tonal progression:
 8. quiet empty-room suspense
 9. restrained reader-only physical proof
 
-Use darker blacks/hatching only when the scene earns them. Ordinary pages should retain substantial white space and normal manga readability.
+Use darker tone/hatching only when the scene earns them. Even suspense pages must remain recognizably hand-drawn manga rather than cinematic grayscale illustration.
 
 ## Sound / SFX Language
 
@@ -186,45 +263,46 @@ Legend:
 - `APT` = Nari apartment master atlas
 - `WORK` = Nari workplace master atlas
 - `PREV` = immediately previous approved page WebP
+- `SKETCH` = user-approved page-specific sketch/thumbnail, when one exists
 
 | Page | Panels Guide | Core Beat | Required WebPs | Local Continuity |
 |---|---:|---|---|---|
-| 001 | ~4 | late-night publishing office; establish Nari still away from home | A, B, N, WORK | none |
-| 002 | ~4–5 | downstairs neighbor hears first dull human-weight movement | A, B | none; generic chapter-local neighbor interior crop |
-| 003 | ~4 | more specific footsteps / `THUMP`; neighbor reacts | A, B | PREV required for neighbor appearance/interior crop continuity |
-| 004 | ~3 | `SKRRR`; neighbor checks time; intercut confirms Nari still at work | A, B, N, WORK | PREV useful for neighbor continuity |
-| 005 | ~3–4 | Nari finishes/leaves work after the noise time | A, B, N, WORK | PREV useful for office/Nari seam |
-| 006 | ~4 | next morning; Nari encounters downstairs neighbor near corridor/elevator | A, B, N, APT | none; establish neighbor appearance here |
-| 007 | ~5 | `Could you keep it down after midnight?` | A, B, N, APT | PREV required |
-| 008 | ~5 | walking + chair scrape complaint specified | A, B, N, APT | PREV required |
-| 009 | ~4 | Nari asks what time; neighbor answers | A, B, N, APT | PREV required |
-| 010 | 2–3 | sparse hook: `I wasn't home.` | A, B, N, APT | PREV required |
-| 011 | ~4 | normal publishing work resumes | A, B, N, WORK | none; scene reset |
-| 012 | ~5–6 | optional unnamed coworker proof / dry humor | A, B, N, WORK | PREV required |
-| 013 | ~4 | work/message/timestamp evidence confirms Nari was away | A, B, N, WORK | PREV useful |
-| 014 | ~5 | Nari opens ordinary access history | A, B, N, WORK | PREV useful |
-| 015 | ~3–4 | no ordinary entry; optional `...No entry.` | A, B, N, WORK | PREV useful |
-| 016 | ~5 | mundane explanations: acoustics, wrong unit, app error, maintenance | A, B, N, WORK | PREV useful |
-| 017 | ~5 | ordinary editorial work interrupts investigation; light comedy | A, B, N, WORK | PREV useful |
-| 018 | ~3–4 | Nari decides to inspect home that evening | A, B, N, WORK | PREV useful |
-| 019 | ~4 | ordinary return home; lock/door normal | A, B, N, APT | none; new location |
-| 020 | ~5 | practical inspection: lock, windows, valuables, rooms | A, B, N, APT | PREV required |
-| 021 | ~4 | nothing dramatic found; tension releases | A, B, N, APT | PREV required |
-| 022 | ~3 | Nari notices Chair B slightly out of expected position | A, B, N, APT | PREV required |
-| 023 | ~5 | self-doubt; optional `...Did I leave you like that?` | A, B, N, APT | PREV required |
-| 024 | ~4 | Nari grips and aligns Chair B deliberately; restrained `SKK`/chair movement | A, B, N, APT | PREV required |
-| 025 | ~3 | exact known Chair B position established; optional `There.` | A, B, N, APT | PREV required; this page becomes critical chair-state visual authority |
-| 026 | ~5 | Nari returns to normal home routine | A, B, N, APT | PREV required |
-| 027 | ~5–6 | meal/cleanup/domestic rhythm; chair unchanged | A, B, N, APT | PREV required |
-| 028 | ~6 | optional offscreen phone/friend voice; comfortable ordinary conversation | A, B, N, APT | PREV required |
-| 029 | ~5 | conversation shifts away from mystery | A, B, N, APT | PREV required |
-| 030 | ~4 | late-night quiet; chair still exact | A, B, N, APT | PREV required |
-| 031 | ~4–5 | bedtime preparation; ordinary `CLICK` etc. | A, B, N, APT | PREV required |
-| 032 | ~3 | Nari leaves living/dining area; final verified empty-room state | A, B, N, APT | PREV required |
-| 033 | ~2–3 | empty room; silence; Chair B unchanged | A, B, APT | PREV required |
-| 034 | ~2 | extend stillness; no silhouette/body/shadow-person | A, B, APT | PREV required; chair must match Page 033/025 known state |
-| 035 | ~2–3 | restrained `SKRRR`; movement source remains off-panel/unseen | A, B, APT | PREV required |
-| 036 | 1–2 | final proof: Chair B displaced; no dialogue/narration | A, B, APT | PREV required; compare against known-state Page 025/034 |
+| 001 | ~4 | late-night publishing office; establish Nari still away from home | A, B, N, WORK | none; SKETCH if supplied |
+| 002 | ~4–5 | downstairs neighbor hears first dull human-weight movement | A, B | none; generic chapter-local neighbor interior crop; SKETCH if supplied |
+| 003 | ~4 | more specific footsteps / `THUMP`; neighbor reacts | A, B | PREV required; SKETCH if supplied |
+| 004 | ~3 | `SKRRR`; neighbor checks time; intercut confirms Nari still at work | A, B, N, WORK | PREV useful; SKETCH if supplied |
+| 005 | ~3–4 | Nari finishes/leaves work after the noise time | A, B, N, WORK | PREV useful; SKETCH if supplied |
+| 006 | ~4 | next morning; Nari encounters downstairs neighbor near corridor/elevator | A, B, N, APT | none; establish neighbor appearance here; SKETCH if supplied |
+| 007 | ~5 | `Could you keep it down after midnight?` | A, B, N, APT | PREV required; SKETCH if supplied |
+| 008 | ~5 | walking + chair scrape complaint specified | A, B, N, APT | PREV required; SKETCH if supplied |
+| 009 | ~4 | Nari asks what time; neighbor answers | A, B, N, APT | PREV required; SKETCH if supplied |
+| 010 | 2–3 | sparse hook: `I wasn't home.` | A, B, N, APT | PREV required; SKETCH if supplied |
+| 011 | ~4 | normal publishing work resumes | A, B, N, WORK | none; scene reset; SKETCH if supplied |
+| 012 | ~5–6 | optional unnamed coworker proof / dry humor | A, B, N, WORK | PREV required; SKETCH if supplied |
+| 013 | ~4 | work/message/timestamp evidence confirms Nari was away | A, B, N, WORK | PREV useful; SKETCH if supplied |
+| 014 | ~5 | Nari opens ordinary access history | A, B, N, WORK | PREV useful; SKETCH if supplied |
+| 015 | ~3–4 | no ordinary entry; optional `...No entry.` | A, B, N, WORK | PREV useful; SKETCH if supplied |
+| 016 | ~5 | mundane explanations: acoustics, wrong unit, app error, maintenance | A, B, N, WORK | PREV useful; SKETCH if supplied |
+| 017 | ~5 | ordinary editorial work interrupts investigation; light comedy | A, B, N, WORK | PREV useful; SKETCH if supplied |
+| 018 | ~3–4 | Nari decides to inspect home that evening | A, B, N, WORK | PREV useful; SKETCH if supplied |
+| 019 | ~4 | ordinary return home; lock/door normal | A, B, N, APT | none; new location; SKETCH if supplied |
+| 020 | ~5 | practical inspection: lock, windows, valuables, rooms | A, B, N, APT | PREV required; SKETCH if supplied |
+| 021 | ~4 | nothing dramatic found; tension releases | A, B, N, APT | PREV required; SKETCH if supplied |
+| 022 | ~3 | Nari notices Chair B slightly out of expected position | A, B, N, APT | PREV required; SKETCH if supplied |
+| 023 | ~5 | self-doubt; optional `...Did I leave you like that?` | A, B, N, APT | PREV required; SKETCH if supplied |
+| 024 | ~4 | Nari grips and aligns Chair B deliberately; restrained `SKK`/chair movement | A, B, N, APT | PREV required; SKETCH if supplied |
+| 025 | ~3 | exact known Chair B position established; optional `There.` | A, B, N, APT | PREV required; critical chair-state authority; SKETCH if supplied |
+| 026 | ~5 | Nari returns to normal home routine | A, B, N, APT | PREV required; SKETCH if supplied |
+| 027 | ~5–6 | meal/cleanup/domestic rhythm; chair unchanged | A, B, N, APT | PREV required; SKETCH if supplied |
+| 028 | ~6 | optional offscreen phone/friend voice; comfortable ordinary conversation | A, B, N, APT | PREV required; SKETCH if supplied |
+| 029 | ~5 | conversation shifts away from mystery | A, B, N, APT | PREV required; SKETCH if supplied |
+| 030 | ~4 | late-night quiet; chair still exact | A, B, N, APT | PREV required; SKETCH if supplied |
+| 031 | ~4–5 | bedtime preparation; ordinary `CLICK` etc. | A, B, N, APT | PREV required; SKETCH if supplied |
+| 032 | ~3 | Nari leaves living/dining area; final verified empty-room state | A, B, N, APT | PREV required; SKETCH if supplied |
+| 033 | ~2–3 | empty room; silence; Chair B unchanged | A, B, APT | PREV required; SKETCH if supplied |
+| 034 | ~2 | extend stillness; no silhouette/body/shadow-person | A, B, APT | PREV required; chair must match Page 033/025; SKETCH if supplied |
+| 035 | ~2–3 | restrained `SKRRR`; movement source remains off-panel/unseen | A, B, APT | PREV required; SKETCH if supplied |
+| 036 | 1–2 | final proof: Chair B displaced; no dialogue/narration | A, B, APT | PREV required; compare against known-state Page 025/034; SKETCH if supplied |
 
 ## Page Dialogue / Script Authority
 
@@ -262,6 +340,8 @@ Use PREV only as local seam authority for:
 - ongoing action
 
 The previous page may not override Nari canonical or the approved environment atlas.
+
+A user-approved current-page sketch may override PREV for current-page composition while preserving continuity facts.
 
 ## Page Production File Naming
 
@@ -322,7 +402,14 @@ Reject/regenerate any page that introduces:
 - explicit blackout explanation
 - invented supernatural effects
 - premature horror intensity
-- color, glossy webtoon finish, painterly grayscale, photorealism, CGI/3D, cinematic bloom/lighting
+- color, glossy webtoon finish, painterly grayscale, photorealism, CGI/3D
+- cinematic lighting/value/composition drift
+- film-still/storyboard/poster/key-art appearance
+- vector-clean/plastic AI linework
+- excessive solid-black masses or black vignette treatment
+- ordinary scenes rendered as noir/high-contrast drama
+- a supplied/approved page sketch materially ignored or redesigned
+- page does not visibly read as human-drawn manga
 - unreadable right-to-left panel order
 - invented dialogue, labels, logos, or fake text not required by the page script
 
@@ -339,6 +426,9 @@ Do not batch-generate the entire chapter blindly. The approved prior page become
 Before Chapter 001 is declared complete, verify:
 
 - all 36 page WebPs exist and correspond to their production MDs
+- every page visibly reads as human-drawn black-and-white manga
+- cinematic/poster/key-art drift is absent
+- solid-black coverage is restrained according to scene needs
 - Nari identity remains stable across office/home scenes
 - workplace and apartment geometry remain stable
 - neighbor appears consistent across Pages 006–010 without becoming a falsely important mystery character
