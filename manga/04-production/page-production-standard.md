@@ -2,384 +2,240 @@
 
 ## Purpose
 
-Every manga page uses exactly one self-contained `page-###-production.md` as its story and generation authority.
+Final manga pages use one final-page production Markdown:
 
-When composition drift is a risk, the page uses the sketch-first workflow defined in:
+`page-###-production.md`
 
-`manga/04-production/layout-sketch-workflow.md`
+When composition must be established separately, a second **pre-production-only** Markdown is allowed:
 
-The page-specific production MD controls both Stage A sketch generation and Stage B final-page generation.
+`page-###-layout-production.md`
 
----
+This layout-production file generates an approved `page-###-layout-reference.webp` used only as composition authority.
 
-## Page File Naming
+See:
 
-Production authority:
-
-```text
-page-001-production.md
-page-002-production.md
-...
-```
-
-Optional/required approved layout authority:
-
-```text
-page-001-layout-sketch.webp
-page-002-layout-sketch.webp
-...
-```
-
-Final page review candidate:
-
-```text
-page-001.png
-page-002.png
-...
-```
-
-Final approved page authority after manual conversion:
-
-```text
-page-001.webp
-page-002.webp
-...
-```
+`manga/04-production/layout-reference-workflow.md`
 
 ---
 
-## Two-Stage Workflow
+## File Model
 
-### Stage A — Layout Sketch
+Example:
 
-If the page production MD marks a layout sketch as required, generate the sketch first.
+```text
+page-001-layout-production.md      # separate composition pre-production
+page-001-layout-reference.webp     # approved composition authority
+page-001-production.md             # final story-page generation authority
+page-001.png                       # final-page review candidate
+page-001.webp                      # final approved page authority
+```
 
-Review candidate:
+A layout production file is not required for every page. Use it where composition drift, blocking, continuity geometry, or page rhythm needs an explicit visual lock.
 
-`page-###-layout-sketch.png`
+---
 
-After approval, manually convert the exact accepted PNG to:
+## Final Page Gate
 
-`page-###-layout-sketch.webp`
+If `page-###-production.md` declares a layout reference required, final-page generation is blocked until:
 
-The approved sketch becomes the composition authority for Stage B.
+`page-###-layout-reference.webp`
 
-### Stage B — Final Manga Page
+exists and is approved.
 
-Do not generate the final page until the required approved layout sketch exists.
+Missing required layout reference = **STOP FINAL PAGE GENERATION**.
 
-The final page must preserve the approved sketch's:
+The approved layout reference controls:
 
 - panel count/order
-- panel boundaries
-- relative panel sizes
+- panel boundaries/proportions
+- reading flow
 - camera/framing
 - character blocking
+- poses/gestures
 - major object placement
 - negative space
 - balloon-placement intent
 
-Do not redesign, beautify or cinematicize an approved layout sketch.
+The final generator must not redesign, beautify into a different composition, or cinematicize the approved layout reference.
 
 ---
 
 ## Story-Page Style Reference Rule
 
-Broad reusable style sheets are not automatic story-page attachments.
+Broad Style A/B images are not automatic story-page attachments.
 
-For Chapter 001, the default is:
-
-**Do not attach**
+For Chapter 001, default final story-page generation omits:
 
 - `series-manga-style-reference-a.webp`
 - `series-manga-style-reference-b.webp`
 
-when generating story-page sketches or final story pages.
+Reason: those broad visual sheets can overpower the exact page Markdown and canonical character/environment authorities.
 
-Reason: broad visual style sheets may overpower page-specific Markdown, canonical story references and the approved layout sketch.
+The rendering authority for story pages is:
 
-The written manga style lock and page-production MD control rendering for story pages.
+1. `manga/01-style/manga-style-lock.md`
+2. current `page-###-production.md`
+3. approved layout reference for composition only
+4. canonical WebPs for identity/geometry only
 
-Style A/B remain useful as reference-development assets and may only be opted into a page explicitly after testing proves they do not cause drift.
+Style A/B may be explicitly opted in only after page-specific testing proves they help without causing drift.
 
 ---
 
-## Required Structure of Every `page-###-production.md`
+## Final Story-Page Quality Lock
 
-### 1. Page Identity / Status
-
-Specify:
-
-- series
-- arc
-- chapter
-- page number
-- working label
-- production status
-- Stage A sketch filename when required
-- Stage B PNG filename
-- final WebP filename
-
-Recommended statuses include:
-
-- `LAYOUT SKETCH REQUIRED`
-- `LAYOUT SKETCH REVIEW`
-- `READY FOR FINAL PAGE`
-- `VISUAL REVIEW`
-- `APPROVED`
-- `BLOCKED`
-
-### 2. Stage / Production Gate
-
-State whether the page requires Stage A before Stage B.
-
-If required sketch is missing:
-
-**STOP FINAL PAGE GENERATION.**
-
-### 3. Exact Required Attachments
-
-Separate Stage A and Stage B attachments.
-
-Use only references controlling something visible or structurally important.
-
-Typical Stage A:
-
-- page production MD
-- character canonical WebP(s)
-- environment canonical WebP(s)
-- object/effect authority only if essential to layout
-
-Typical Stage B:
-
-- page production MD
-- approved page layout sketch WebP
-- character canonical WebP(s)
-- environment/object/effect canonical WebP(s)
-- previous approved page WebP when local continuity requires it
-
-Do not automatically attach broad style sheets.
-
-### 4. Source Authority
-
-List story/canon/style documents used to compile the page. These are internal audit sources unless explicitly required as generation attachments.
-
-### 5. Page Canvas / Size Lock
-
-Specify:
-
-- orientation
-- pixel dimensions
-- aspect ratio
-- reading direction
-- margins/gutters
-- color mode
-
-### 6. Page Purpose / Scenario
-
-Specify:
-
-- narrative purpose
-- chronology/time
-- location
-- normal/supernatural/power state
-- emotional tone
-- page-turn role
-
-### 7. Continuity Input
-
-Freeze page-entry state:
-
-- character state
-- wardrobe/hair
-- positions/facing
-- held objects
-- environment state
-- doors/lights/devices
-- knowledge state
-- prior-page seam facts
-
-### 8. Page Composition / Layout Blueprint
-
-Define:
-
-- target panel count
-- reading order
-- major page rhythm
-- dominant panels
-- essential beats
-
-For Stage A, exact percentages are guidance only unless story-required. A natural manga layout may refine them.
-
-After Stage A approval, the approved layout sketch becomes binding Stage B composition authority.
-
-### 9. Panel-by-Panel Blueprint
-
-For each panel define:
-
-- narrative beat
-- framing intent
-- location anchors
-- character blocking
-- expressions/gaze
-- hands/actions
-- object state
-- required foreground/background details
-- what must remain outside crop
-- continuity output
-
-### 10. Exact Script / Lettering
-
-Specify exact:
-
-- dialogue
-- thought balloons
-- captions
-- SFX
-- intentional silence
-
-Do not let image generation paraphrase or invent reader-visible text.
-
-### 11. Character Requirements
-
-Restate only page-relevant character requirements.
-
-Canonical WebPs control identity, not rendering finish or composition.
-
-### 12. Environment / Object / Effect Requirements
-
-Canonical environment/object/effect WebPs control design and geometry, not cinematic finish.
-
-### 13. Human-Drawn Manga Style Lock
-
-Every story page must remain visibly human-drawn.
+Final pages are **finished 2D hand-drawn black-and-white manga**, not sketches.
 
 Required:
 
-- organic pencil/ink lines
-- pressure variation
-- natural imperfection
-- line-driven forms
-- substantial white paper
-- restrained spot blacks
-- light screentone/hatching as needed
-- natural anatomy/readable hands
-- conventional manga panel/balloon integration
+- clean finished inks
+- natural pen/brush line-weight variation
+- refined anatomy and readable hands
+- crisp 2D background linework
+- screentone as manga tone, not painted gray
+- hatching/cross-hatching where useful
+- flat solid-black ink shapes where graphically appropriate
+- conventional manga panel/gutter construction
+- integrated speech balloons
+- clean final-page readability
 
-Allowed:
-
-- subtle sketch energy
-- faint construction residue when intentional/readable
-- hand irregularity
+Do not require roughness, pencil residue, construction lines or visible sketch marks in the final page.
 
 Reject:
 
+- rough unfinished sketch output
+- empty/storyboard-only art
 - cinematic lighting
-- movie-still composition
-- poster/key-art finish
+- movie-still look
 - glossy webtoon rendering
-- excessive black masses
-- heavy chiaroscuro on ordinary scenes
-- airbrushed gradients
 - painterly grayscale
 - photorealism
 - CGI/3D
-- vector-clean plastic lines
-- bloom/lens flare/volumetric light/DOF blur/bokeh
+- smooth digital gradient shading
+- bloom/lens flare/volumetric light/depth-of-field/bokeh
 
-If output becomes more polished/cinematic but less human-drawn, reject it.
-
-### 14. Stage A Generation Instruction
-
-When a sketch is required, provide one deterministic instruction for generating a rough manga page layout sketch.
-
-The sketch is for:
-
-- composition
-- panel rhythm
-- blocking
-- camera/framing
-- balloon placement
-
-It is not final key art.
-
-### 15. Stage A Rejection Conditions
-
-Reject if:
-
-- sketch looks like polished illustration
-- layout is unreadable
-- reading order fails
-- blocking does not support final page
-- major environment geometry fails
-- cinematic/heavy-black rendering dominates
-
-### 16. Stage B Generation Instruction
-
-State explicitly that final artwork must follow the approved layout sketch and may not redesign it.
-
-### 17. Stage B Automatic Rejection Conditions
-
-Include:
-
-- missing required layout sketch
-- material layout departure
-- framing/blocking drift
-- identity drift
-- environment drift
-- dialogue/text drift
-- cinematic/glossy/heavy-black drift
-- anatomy/hands failure
-- wrong dimensions
-
-### 18. Continuity Output
-
-Freeze page-end state for the next page.
-
-### 19. QA / Approval Record
-
-Record Stage A and Stage B separately.
-
-Stage A:
-
-- sketch generated
-- sketch reviewed
-- composition approved/rejected
-- sketch converted to WebP
-- WebP repository path verified
-
-Stage B:
-
-- approved sketch attached
-- canonical refs attached
-- page generated
-- sketch adherence reviewed
-- script accuracy
-- character/environment continuity
-- style compliance
-- final PNG accepted/rejected
-- final WebP conversion completed
+Solid black is allowed as flat manga ink; reject only when black behaves like cinematic lighting or digital shadow rendering.
 
 ---
 
-## One-Page / One-MD Rule
+## Required Structure of Every Final `page-###-production.md`
 
-The sketch-first workflow does **not** create a second page-specific Markdown blueprint.
+### 1. Page Identity / Status
 
-One page still has one production Markdown:
+Specify series, arc, chapter, page, label, status, final PNG filename and final WebP filename.
 
-`page-###-production.md`
+### 2. Production Gate
 
-That MD controls both the layout-sketch stage and final-page stage.
+State whether an approved layout reference is required.
 
-The approved `page-###-layout-sketch.webp` is a visual production authority, not a second textual production specification.
+If required, list its exact repository path.
+
+### 3. Exact Final-Generation Attachments
+
+List only files needed for the final page:
+
+- current `page-###-production.md`
+- approved `page-###-layout-reference.webp` when required
+- canonical character WebP(s)
+- canonical environment/object/effect WebP(s)
+- previous approved page WebP only when local seam continuity needs it
+
+Do not include layout-generation instructions here.
+
+### 4. Source Authority
+
+List story/canon/style documents used internally to compile the final page.
+
+### 5. Page Canvas / Size Lock
+
+Specify orientation, exact dimensions, aspect ratio, reading direction, margins/gutters and black-and-white mode.
+
+### 6. Page Purpose / Scenario
+
+Specify narrative function, chronology/time, location, power/supernatural state, emotional tone and page-turn role.
+
+### 7. Continuity Input
+
+Freeze character/environment/object/knowledge state entering the page.
+
+### 8. Page Composition Authority
+
+If an approved layout reference exists, state that it is binding for composition.
+
+Otherwise define exact panel architecture in the production MD.
+
+### 9. Panel-by-Panel Blueprint
+
+For every panel specify beat, framing, blocking, expression, actions/hands, props, environment anchors and continuity output.
+
+### 10. Exact Script / Lettering
+
+Specify exact dialogue, narration, thoughts, SFX and intentional silence.
+
+Do not allow generated paraphrasing.
+
+### 11. Character Requirements
+
+Canonical WebPs control identity. Page production controls temporary pose/expression/wardrobe state.
+
+### 12. Environment / Object / Effect Requirements
+
+Canonical WebPs control reusable design/geometry. The page MD controls temporary story state.
+
+### 13. Finished 2D Manga Style Lock
+
+Restate page-relevant final quality requirements from `manga-style-lock.md`.
+
+### 14. Complete Final Generation Instruction
+
+Provide one deterministic instruction for generating exactly one final manga page PNG.
+
+### 15. Automatic Rejection Conditions
+
+Include layout drift, identity/geometry drift, text drift, anatomy failure, wrong dimensions, unfinished-sketch output and cinematic/digital-render drift.
+
+### 16. Continuity Output
+
+Freeze state for the next page.
+
+### 17. QA / Approval Record
+
+Verify:
+
+- required layout reference present when applicable
+- exact canonical attachments used
+- layout adherence
+- script accuracy
+- character/environment continuity
+- finished manga quality
+- anatomy/hands
+- final PNG accepted/rejected
+- approved PNG manually converted to final WebP
+
+---
+
+## Separate Layout Production Standard
+
+A `page-###-layout-production.md` exists only to create the optional/required composition authority.
+
+It should specify:
+
+- layout-reference PNG/WebP filenames
+- exact canonical attachments required for staging
+- panel beats and script placement
+- clean content-filled 2D manga layout-reference quality
+- composition QA
+
+It must **not** become a second competing story authority.
+
+The final `page-###-production.md` wins for story facts and exact final generation requirements.
 
 ---
 
 ## Production Rule Summary
 
-When sketch-first is required:
+When a layout reference is required:
 
-**one manga page = one production MD + one approved layout-sketch WebP + one PNG final review candidate + one approved final page WebP.**
+**layout production MD → approved layout-reference WebP → final page-production MD → final PNG review → approved final WebP.**
 
-Generate sequentially and do not skip the layout approval gate.
+The layout reference is generated separately. The final page is finished 2D manga, not a rough-sketch cleanup pass.
