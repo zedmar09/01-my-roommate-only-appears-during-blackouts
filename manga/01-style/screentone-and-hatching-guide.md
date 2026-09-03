@@ -2,61 +2,93 @@
 
 ## Purpose
 
-Values are created through white paper, drawn linework, restrained screentone, hand hatching, and only limited black ink — not through photographic gradients or cinematic lighting.
+Finished pages use a classic black-and-white manga value system:
 
-The target is a visibly human-drawn manga page.
+- white paper
+- clean inked linework
+- screentone
+- hatching / cross-hatching
+- flat solid-black ink
 
-## Priority Order
+Do **not** replace this system with photographic grayscale, airbrushed shading, or cinematic lighting.
 
-For ordinary scenes, build value in this order:
+## Screentone
 
-1. white paper / negative space
-2. contour and interior drawing lines
-3. light screentone
-4. hand hatching / cross-hatching
-5. mid-tone only where needed for depth
-6. solid black only as a restrained graphic accent
+Use screentone for:
 
-Do not jump directly to large solid-black shadow shapes when linework, tone, or hatching can communicate the same form.
+- clothing/material separation
+- skin or face shadow when needed
+- interior depth
+- atmosphere
+- night value separation
+- background simplification
+- emotional emphasis
 
-## Use
+Tone should read as deliberate manga tone, not soft painted gray.
 
-- light tones for subtle clothing/material separation
-- light or medium tones for ordinary interior depth
-- hand hatching for texture, fatigue, material, depth, and quiet atmosphere
-- irregular cross-hatching for selected deeper values
-- sparse dark tone for story-earned suspense
-- small solid-black accents for deep occlusion, naturally dark objects/hair areas, or deliberate focal anchors
+Avoid covering every surface. Keep clear white areas so the page remains legible and graphic.
 
-## Human-Drawn Texture Rule
+## Hatching
 
-Hatching must read as marks made by a manga artist:
+Use hatching/cross-hatching for:
 
-- slightly irregular spacing
-- pressure/length variation
-- follows form
-- does not resemble a digital gradient mask
-- does not smoothly airbrush from light to dark
+- texture
+- material form
+- fatigue
+- rough surfaces
+- depth
+- suspense
+- selected darker values
 
-Screentone should support the drawing, not replace it.
+Hatching should follow form and feel drawn rather than produced by a smooth gradient mask.
 
-## Solid-Black Restriction
+## Solid Black
 
-Solid black must not become the dominant visual treatment on ordinary adult-life pages.
+Solid black is fully allowed as a **graphic ink shape**.
 
-Avoid:
+Appropriate uses:
 
-- large black background fields
-- black cinematic vignettes
-- heavy shadow slabs across faces
-- dramatic noir contrast for normal office/home scenes
-- turning nighttime into near-black imagery
-- filling furniture, walls, or clothing with black solely to make the page look dramatic
+- dark hair/clothing
+- deep occlusion
+- shadow under objects
+- silhouette when story-approved
+- black night/exterior areas
+- strong panel framing
+- dramatic flat graphic shapes
 
-Nighttime should normally remain readable and paper-white, using window darkness, modest tone, hatching, and ordinary indoor-light context.
+Large black areas are acceptable when they serve composition or a naturally dark subject.
 
-## Restraint
+The restriction is not “use little black.” The restriction is:
 
-Do not cover every surface with tone. Preserve substantial white areas so the page breathes and the artwork remains unmistakably manga rather than cinematic grayscale illustration.
+**do not use black as fake cinematic lighting.**
 
-Reject photographic grayscale shading, smooth digital airbrush gradients, glossy rendered light, volumetric light, soft cinematic falloff, depth-of-field effects, or any treatment that makes the image look like a film frame instead of a hand-drawn manga page.
+Reject black treatment that looks like:
+
+- soft photographic shadow falloff
+- HDR/noir grading pasted over the page
+- realistic lens exposure
+- glossy black rendering
+- theatrical face-lighting unrelated to manga graphic design
+
+## Night Scenes
+
+Night may contain strong blacks and darker screentones, especially in windows/exteriors.
+
+Keep the page readable through clear line art, controlled tone separation and flat ink decisions.
+
+Do not simulate film exposure, bloom, bokeh or volumetric light.
+
+## Final Quality Gate
+
+The final page should look like finished printed manga:
+
+- crisp ink
+- clear tone patterns
+- controlled blacks
+- readable line art
+- no rough construction residue
+- no painterly grayscale
+- no airbrush gradients
+- no cinematic light effects
+
+If value is being communicated by smooth digital lighting instead of ink/tone/hatching, reject it.
