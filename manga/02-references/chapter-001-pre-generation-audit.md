@@ -2,153 +2,113 @@
 
 ## Current Audit Result
 
-**PASS — STYLE A + STYLE B + NARI ARE APPROVED. ENVIRONMENT GENERATION MAY PROCEED.**
+**PASS — CORE CHAPTER 001 REFERENCES ARE APPROVED.**
 
-The Chapter 001 story direction, Nari baseline, apartment spatial baseline, neighbor relationship, workplace identity, paired style system, and Nari canonical are approved.
-
-## Current Approved WebP Authorities
-
-All reusable final WebPs are centralized in:
-
-`manga/02-references/approved-webp/`
-
-Currently approved:
-
-1. `series-manga-style-reference-a.webp`
-2. `series-manga-style-reference-b.webp`
-3. `nari-canonical.webp`
-
-Full paths:
+Approved reusable WebPs:
 
 - `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
 - `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
 - `manga/02-references/approved-webp/nari-canonical.webp`
+- `manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
+- `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
 
-## Attachment Rule
+Reference approval does **not** mean every approved WebP should be attached to every generation.
 
-Before every generation, check:
+---
+
+## Story-Page Attachment Policy
+
+Before generation, use:
 
 `manga/02-references/generation-attachment-map.md`
 
-Generation prompts must explicitly name the exact WebPs to attach.
+For Chapter 001 story-page layout references and final pages:
+
+- Style A/B are **not default attachments**
+- Nari canonical is attached when Nari is visible
+- apartment/workplace atlas is attached when that canonical environment is visible
+- approved page layout reference is attached when the final page requires one
+- previous approved page is used only for local seam continuity when needed
+
+Style A/B remain useful reference-development assets, but repeated page-generation testing showed that they may overpower exact Markdown instructions.
+
+---
+
+## Final Story-Page Quality
+
+The final page target is **finished 2D hand-drawn black-and-white manga**, not sketch quality.
+
+Required:
+
+- clean finished ink
+- screentone
+- hatching where useful
+- flat graphic solid blacks where appropriate
+- clean panel/balloon integration
+- refined anatomy/hands
+
+Reject cinematic/movie-still, glossy, painterly, photoreal or 3D output.
+
+---
 
 ## Story / Reveal Audit
 
 **PASS.** Chapter 001 remains locked to:
 
-- Nari is verifiably at her publishing-company workplace while activity is heard from her apartment.
-- The complaint comes from the resident directly below Nari.
-- Ordinary access/security logic does not resolve it.
-- The second dining chair becomes the physical continuity marker.
-- The reader alone receives the final chair movement.
-- Hyun-woo is not shown, heard, named, silhouetted, or attached as a Chapter 001 reference.
-- No reader-facing blackout explanation appears.
+- Nari is verifiably at her publishing-company workplace while activity is heard from her apartment
+- the complaint comes from the resident directly below Nari
+- ordinary access/security logic does not resolve it
+- the second dining chair becomes the physical continuity marker
+- reader alone receives the final chair movement
+- Hyun-woo is not shown, heard, named or silhouetted
+- no reader-facing blackout explanation appears
 
-## Approved Nari Visual
+---
 
-Nari's semantic authority:
+## Page 001 Production Readiness
 
-`manga/02-references/characters/nari/canon.md`
+Page 001 uses a **separate layout-reference production step**.
 
-Approved visual authority:
+Layout pre-production:
 
-`manga/02-references/approved-webp/nari-canonical.webp`
+`manga/04-production/arc-01/chapter-001/page-001-layout-production.md`
 
-Nari is now safe for later page generation. Style A/B control rendering language only and do not replace her identity.
+Expected approved composition authority:
 
-## Paired Style System — Approved
+`manga/04-production/arc-01/chapter-001/page-001-layout-reference.webp`
 
-Both style references must normally be attached together:
+Final production:
 
-- `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-- `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
+`manga/04-production/arc-01/chapter-001/page-001-production.md`
 
-Style A is strongest for character/anatomy/ink/hatching treatment. Style B complements it with adult-female, ordinary-life, domestic, quiet-suspense and environment treatment.
+The user will generate the layout reference separately. Final Page 001 remains blocked until that approved WebP exists.
 
-The generic people and environments inside the style sheets are not story canon.
-
-## Next Generation — Nari Apartment Master Atlas
-
-**READY NOW.**
-
-Prompt:
-
-`manga/02-references/environments/nari-apartment/nari-apartment-reference-generation-prompt.md`
-
-Attach exactly:
-
-1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-
-Do not attach Nari canonical to the environment atlas.
-
-Generate:
-
-`nari-apartment-master-atlas.png`
-
-After review/approval, manually convert to:
-
-`manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
-
-## Apartment Floor Plan
-
-**WAIT UNTIL MASTER ATLAS APPROVAL.**
-
-Only generate a separate floor-plan PNG if the master atlas itself cannot provide a reliable legible spatial plan.
-
-If needed, attach:
-
-1. Style A WebP
-2. Style B WebP
-3. approved `nari-apartment-master-atlas.webp`
-
-Then generate `nari-apartment-floor-plan.png` and convert the approved result to the centralized WebP path.
-
-## Nari Workplace Atlas
-
-**TEXT READY.**
-
-Prompt:
-
-`manga/02-references/environments/nari-workplace/nari-workplace-reference-generation-prompt.md`
-
-Attach exactly:
-
-1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-
-Do not attach Nari canonical to the environment atlas unless a later revised prompt explicitly requires visible Nari.
-
-## Conditional Reference
-
-Koo Hyejin remains conditional. Do not generate her until her rebuilt role/design is separately approved and Chapter 001 confirms she is visibly needed.
+---
 
 ## Explicitly Deferred For Chapter 001
 
 Do not generate solely for Chapter 001:
 
 - Hyun-woo canonical
+- separate apartment floor plan
 - building service/electrical-area atlas
 - blackout visual-language atlas
 - separate dining-chair object canonical
 - separate smartphone canonical
 - separate smart-lock canonical
-- full neighbor character atlas unless the neighbor becomes recurring
+- full neighbor canonical
+- Hyejin canonical
+
+---
 
 ## PNG → WebP Rule
 
-All new visual generations still follow:
+All generated visual authorities still follow:
 
-1. generate PNG
-2. visual audit
-3. user manually converts exact approved PNG to WebP
-4. commit WebP under `manga/02-references/approved-webp/`
-5. mark reference `APPROVED`
+1. generate PNG review candidate
+2. visually review
+3. user manually converts exact accepted PNG to WebP
+4. commit approved WebP to its documented location
+5. downstream production uses only the approved WebP
 
-## Current Generation Order
-
-1. **Nari apartment master atlas — NOW**
-2. apartment floor plan — only if needed after atlas approval
-3. Nari workplace master atlas
-4. Hyejin only if separately approved/required
-5. reference audit again before page-production files begin
+Current audit status: **READY FOR PAGE-SPECIFIC LAYOUT-REFERENCE / FINAL-PAGE PRODUCTION.**
