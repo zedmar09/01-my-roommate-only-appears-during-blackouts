@@ -1,29 +1,43 @@
 # Canonical Manga References
 
-This directory stores reusable visual authorities required for stable manga generation.
+This directory stores reusable semantic and visual authorities required for stable manga generation.
 
 References are **demand-driven**. Do not generate a character, location, object, or effect package until an approved story/chapter actually needs it.
 
-## Reference Types
+## Structure
 
-- `characters/`
-- `environments/`
-- `objects/`
-- `effects/`
+- `approved-webp/` — **all approved reusable final WebP visual authorities, centralized in one place**
+- `characters/` — character canon and generation-prompt MDs
+- `environments/` — environment canon and generation-prompt MDs
+- `objects/` — object canon and generation-prompt MDs
+- `effects/` — effect canon and generation-prompt MDs
+- `reference-register.md` — approval/status gate
+- `generation-attachment-map.md` — exact WebP attachment sets for generation
+- `image-format-workflow.md` — PNG review → manual WebP conversion workflow
+- `reference-package-standard.md` — package rules
 
-## Image Format Workflow
+## Core Rule
 
-All reference images use the workflow defined in `image-format-workflow.md`:
+Semantic authority stays with each subject's Markdown files.
 
-1. ChatGPT/image generation creates a `.png` candidate.
-2. The PNG is visually reviewed.
-3. If approved, the user manually converts that exact PNG to `.webp`.
-4. Only the approved WebP is stored in the repository as visual authority.
+Reusable visual authority is always the approved WebP in:
 
-So `.png` is an intermediate review file; `.webp` is the final approved repository authority.
+`manga/02-references/approved-webp/`
 
-Every recurring reference package combines text canon (`.md`) with one or more approved black-and-white visual authorities (`.webp`). See `reference-package-standard.md`.
+Do not scatter duplicate approved WebPs across character/environment folders.
 
-`reference-register.md` records which references are approved and safe for production.
+## Current Approved Chapter 001 WebPs
 
-A production page may reference only files whose status is `APPROVED`. Exact repository paths must be copied into that page's single `page-###-production.md`; never rely on a vague character/location name.
+- `approved-webp/series-manga-style-reference-a.webp`
+- `approved-webp/series-manga-style-reference-b.webp`
+- `approved-webp/nari-canonical.webp`
+
+## Generation Rule
+
+Before generating any subject, open:
+
+`generation-attachment-map.md`
+
+Then attach exactly the listed WebPs plus the subject's canon/prompt MDs. More references are not automatically better; attach only authorities that directly control something being generated.
+
+A production page/reference may use only visual authorities whose register status is `APPROVED`.
