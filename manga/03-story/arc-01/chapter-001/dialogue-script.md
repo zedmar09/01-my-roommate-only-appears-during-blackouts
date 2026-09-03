@@ -6,6 +6,25 @@
 
 Dialogue must stay economical. Chapter 001 is a security mystery, not a supernatural exposition chapter.
 
+## Language Lock — ENGLISH ONLY
+
+All reader-visible Chapter 001 dialogue, narration and SFX are written and produced in **English only**.
+
+Follow:
+
+`manga/01-style/reader-visible-language-lock.md`
+
+Rules:
+
+- do not translate any approved English line into Japanese, Korean, Chinese or another language
+- do not generate foreign-language variants alongside English
+- do not romanize/localize approved lines
+- exact page-production files copy the final English wording from this script
+- English/Latin-letter SFX only
+- background text is omitted unless explicitly story-required
+
+Layout references do **not** render these dialogue lines; their speech balloons remain empty. The exact English wording is added during final page generation.
+
 ---
 
 ## Scene 01 — Previous Night / Two Places At Once
@@ -22,7 +41,7 @@ Example optional line:
 **NARI**  
 `Unfortunately, so are the proofs.`
 
-The desk/background may show manuscripts, page proofs, correction notes, reference books, or other ordinary publishing work. Do not turn the scene into technical-computer exposition.
+The desk/background may show manuscripts, page proofs, correction notes, reference books, or other ordinary publishing work, but reader-visible background text should normally be omitted.
 
 Do not mention the apartment mystery yet.
 
@@ -199,3 +218,13 @@ Chapter 001 must not contain reader-facing dialogue that identifies:
 - the series mythology
 
 Characters may make mundane guesses, jokes, or wrong assumptions, but none should correctly explain the core premise.
+
+## Language Rejection Rule
+
+Reject any generated page if:
+
+- approved English dialogue is translated
+- any Japanese/Korean/Chinese/non-English dialogue appears
+- non-English SFX appears
+- extra foreign-language captions or labels appear
+- fake readable background writing appears
