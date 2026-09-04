@@ -2,17 +2,19 @@
 
 ## Status
 
-**TEXT + VISUAL APPROVED — DISTINCTIVE IDENTITY REVISION ACTIVE.**
+**TEXT + VISUAL APPROVED — EXACT DISTINCTIVE IDENTITY LOCK ACTIVE.**
 
-This file is the semantic authority for Nari's manga identity. The retired Manhwa design is not active authority.
+This file is the semantic authority for Nari's manga identity.
 
-Approved visual authority:
+Approved visual identity authority:
 
 `manga/02-references/approved-webp/nari-canonical.webp`
 
-The approved WebP controls Nari's **face, revised short layered hair silhouette, age read, proportions, and core recognizability only**.
+The current canonical WebP is a **tight identity reference derived from the user-approved female source**, with the unwanted facial beauty mark removed.
 
-Clothing, accessories, lighting, environment, and cyberpunk details visible in the source/reference image are **not automatic story canon**.
+It controls Nari's exact face, eye/brow structure, short layered hair silhouette, age read, and core recognizability.
+
+It does **not** make the source image's cyberpunk environment, headphones, clothing, neon lighting, poster mood, or other incidental elements part of story canon.
 
 ---
 
@@ -32,8 +34,6 @@ Story-page rendering follows:
 - `manga/01-style/reader-visible-language-lock.md`
 - the exact current page-production MD
 - `manga/02-references/generation-attachment-map.md`
-
-Style A/B remain reference-development assets and are not required Nari story-page attachments.
 
 ---
 
@@ -62,9 +62,68 @@ Her work involves:
 - deadlines and release schedules
 - editorial judgment and continuity/detail checking
 
-Her occupation is deliberately non-technical. Do not portray her as a programmer, engineer, game developer, electrical specialist, detective, journalist-investigator, paranormal researcher, or other profession that would shortcut the mystery.
+Her occupation is deliberately non-technical. Do not portray her as a programmer, engineer, game developer, electrical specialist, detective, journalist-investigator, paranormal researcher, or another profession that would shortcut the mystery.
 
-Late-night editorial work during deadlines is normal enough to support Chapter 001's opening proof that Nari is away from home.
+---
+
+## Core Visual Identity — ABSOLUTE
+
+Nari must remain recognizably the **same woman as `nari-canonical.webp`**.
+
+Do not reinterpret her into a generic office-worker face.
+
+Do not soften, round, beautify, cute-ify, age-down, or redesign her facial identity.
+
+### Face lock
+
+Preserve:
+
+- mature adult face
+- sharper, memorable facial structure
+- narrow almond-shaped expressive eyes
+- strong, slightly angular natural brows
+- focused/intelligent gaze
+- small straight nose
+- defined natural lips
+- clean jaw/chin structure
+- calm, cool, grounded resting expression
+- subtle tiredness when overworked
+
+She should read as distinctive at a glance even in a small manga panel.
+
+### Facial-mark lock — ABSOLUTE
+
+Nari has **NO BEAUTY MARK**.
+
+Do not draw:
+
+- beauty mark on the right side of the face
+- beauty mark on the left side of the face
+- mole near the mouth/chin
+- cheek mole
+- freckles used as identity marks
+- invented facial dots/marks
+
+Any beauty mark or mole added to Nari's face is an **automatic identity failure**.
+
+---
+
+## Hair Baseline — ABSOLUTE
+
+- dark hair
+- short-to-medium **shaggy layered cut**
+- slightly tousled natural styling
+- asymmetrical layered strands around the face
+- long side pieces framing the cheek/jaw
+- dense textured crown and nape
+- recognizable irregular silhouette
+- no smooth generic bob
+- no long hair
+- no mid-back hair
+- no high ponytail
+- no elaborate braid
+
+The hair should preserve the distinctive shape visible in `nari-canonical.webp`, not be simplified into a default short office haircut.
 
 ---
 
@@ -77,78 +136,54 @@ Late-night editorial work during deadlines is normal enough to support Chapter 0
 - capable of skepticism and self-doubt
 - often slightly tired from overwork
 - does not perform fear theatrically
-- visually memorable through a distinctive face/hair silhouette rather than glamour styling
+- quietly cool and individual
+- memorable through face/hair identity rather than glamour styling
 
-Nari should feel quietly individual and recognizable even in small manga panels.
+She must not read as:
 
----
-
-## Face Baseline — REVISED
-
-The approved visual geometry is defined by `nari-canonical.webp`.
-
-Semantic constraints:
-
-- mature Korean adult face
-- slightly sharper, more distinctive facial structure
-- expressive but grounded eyes
-- calm, observant, intelligent overall look
-- slightly tired resting expression when overworked
-- natural brows/features
-- not baby-faced
-- not teen-coded
-- not excessively cute/moe
-- not hyper-glamorous
-- not severe or intimidating by default
-
----
-
-## Hair Baseline — REVISED
-
-- dark hair
-- **short-to-medium layered cut**
-- slightly tousled natural styling
-- asymmetrical layered strands around the face
-- recognizable silhouette from front, three-quarter, and profile views
-- practical enough for ordinary adult work life
-- no long mid-back hair in new production
-- no permanent glasses
-
-Hair length/shape is now a major identity lock.
+- generic romance heroine
+- generic office woman
+- school-age character
+- idol/fashion model
+- cyberpunk action heroine
+- supernatural being
 
 ---
 
 ## Source Reference Transfer Limit
 
-The revised visual sheet is an **identity reference**, not a story-world/style package.
+`nari-canonical.webp` is an **identity crop**, not an environment/style/wardrobe package.
 
-Do not automatically copy into story pages:
+Do not automatically copy from the canonical image:
 
 - headphones
-- cyberpunk/techwear jacket styling
+- hoodie or techwear jacket
 - hacker/gamer patches
-- neon accents
+- neon/pink rim lighting
+- cyberpunk city background
 - glowing circuitry/tattoos
-- source-image environment
 - source-image title/logo graphics
-- cinematic poster lighting or mood
+- cinematic poster lighting
+- source-image props
+- source-image color palette
 
-Page production and semantic wardrobe canon control what Nari actually wears in story scenes.
+These elements are incidental to the source and are **not story canon**.
 
 ---
 
 ## Body / Hands
 
 - natural adult proportions
-- slim-average, not fragile and not exaggerated curvy/bodybuilder
+- slim-average, not fragile
+- not exaggerated curvy/bodybuilder
 - shoulders/limbs consistent from every angle
-- hands must remain natural during manuscripts/proofs, writing, phone use, access checking, chair movement, cooking and household tasks
+- hands must remain natural during manuscripts/proofs, writing, phone use, chair movement, cooking, and household tasks
 
 ---
 
 ## Primary Work Outfit — Chapter 001 Baseline
 
-Story wardrobe remains grounded and independent from the source reference's techwear.
+Story wardrobe remains grounded and independent from the source image.
 
 - simple blouse
 - understated cardigan
@@ -168,14 +203,14 @@ Story wardrobe remains grounded and independent from the source reference's tech
 - relaxed lounge pants
 - ordinary home presentation
 - no fan-service styling
-- no elaborate jewelry/accessories
+- no elaborate accessories
 - no cyberpunk styling
 
 ---
 
 ## Expression Range
 
-Approved identity must support:
+The exact identity must support:
 
 - neutral / composed
 - editorial focus
@@ -188,17 +223,22 @@ Approved identity must support:
 - alert / guarded
 - grounded fear
 
+Expressions may change. **Face identity may not.**
+
 ---
 
 ## Continuity Rules
 
 The canonical WebP controls:
 
-- face identity
-- revised short layered hair silhouette
+- exact face identity
+- eye shape
+- brow shape
+- nose/lip/jaw read
+- short shaggy layered hair silhouette
 - age presentation
-- height/build
 - core visual recognizability
+- absence of beauty marks/moles
 
 Semantic canon/page production controls:
 
@@ -207,10 +247,8 @@ Semantic canon/page production controls:
 - expression
 - fatigue level
 - carried objects
-- optional accessories
+- optional non-signature accessories
 - story-specific damage/wetness/injury
-
-Do not treat incidental clothing/accessories in the canonical image as story wardrobe authority.
 
 ---
 
@@ -226,7 +264,7 @@ Nari's final story-page appearance must be rendered as finished 2D black-and-whi
 - no cinematic lighting
 - no glossy/painterly/photoreal/3D treatment
 
-The canonical identity reference may contain color. Story pages remain black-and-white manga.
+The canonical image may contain color. Story pages remain black-and-white manga.
 
 ---
 
@@ -234,10 +272,12 @@ The canonical identity reference may contain color. Story pages remain black-and
 
 Reject generated Nari art if:
 
-- face visibly drifts from `nari-canonical.webp`
-- revised short layered hair becomes long or loses its recognizable silhouette
+- face is softened/genericized away from `nari-canonical.webp`
+- almond eye shape or sharp brow read changes materially
+- facial proportions become rounder/cuter/generic
+- any beauty mark, mole, facial dot, or identity freckle appears
+- short shaggy layered hair becomes a smooth bob, long hair, or generic office haircut
 - she looks teen/school-age
-- permanent glasses are added
 - headphones/techwear/neon/cyberpunk source elements are copied without page approval
 - she becomes significantly more glamorous/model-like than the canonical identity
 - work outfit becomes futuristic/technical/game-studio/cyberpunk
