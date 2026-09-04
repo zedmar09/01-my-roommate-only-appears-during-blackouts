@@ -1,153 +1,151 @@
-# Yoon Nari — Manga Reference Generation Prompt
+# Yoon Nari — Manga Reference Regeneration Guide
 
 ## Status
 
-**VISUAL APPROVED — CANONICAL WEBP EXISTS.**
+**CURRENT CANONICAL VISUAL APPROVED.**
 
-Approved final visual authority:
-
-`manga/02-references/approved-webp/nari-canonical.webp`
-
-The original PNG review candidate was approved and manually converted to this WebP.
-
-## Required WebP Attachments For Any Future Regeneration
-
-Attach exactly:
-
-1. `manga/02-references/approved-webp/series-manga-style-reference-a.webp`
-2. `manga/02-references/approved-webp/series-manga-style-reference-b.webp`
-
-Also consult:
-
-- `manga/02-references/characters/nari/canon.md`
-- `manga/01-style/manga-style-lock.md`
-
-**Authority rule:** `canon.md` controls who Nari is. Style A/B control only how manga art is rendered. Do not copy the generic subjects from either style sheet into Nari's identity.
-
-See `manga/02-references/generation-attachment-map.md` before regeneration.
-
-## Output Format Workflow
-
-If Nari must ever be regenerated, ChatGPT/image generation first produces:
-
-`nari-canonical.png`
-
-The PNG is review-only. After visual approval, the user manually converts that exact accepted PNG to:
+Active visual identity authority:
 
 `manga/02-references/approved-webp/nari-canonical.webp`
 
-Do not ask the image generator to output WebP directly.
+Do not regenerate or replace it casually.
 
-## Generation Instruction
+The current canonical is intentionally a **tight face/hair identity reference** because preserving Nari's exact distinctive face is more important than generating a large atlas that may genericize her.
 
-```text
-Create exactly ONE reusable BLACK-AND-WHITE MANGA CHARACTER MODEL SHEET / ATLAS for YOON NARI from "My Roommate Only Appears During Blackouts".
+---
 
-OUTPUT FORMAT
-Return/generate the first review candidate as PNG. The user will manually convert the exact approved PNG to WebP after visual review. Do not treat the PNG as final repository canon.
+## Critical Correction
 
-ATTACHED VISUAL AUTHORITIES
-- Style Reference A controls broad finished-manga character/anatomy/ink/hatching language.
-- Style Reference B complements it with adult-female, ordinary-life, domestic and restrained-expression rendering language.
-- Neither style reference defines Nari's face, hairstyle, body identity, outfit identity, or personality.
-- Nari's canon MD is the identity authority.
+Older Nari instructions that described **mid-back / long hair are RETIRED**.
 
-This is a production reference sheet, NOT a manga story page, cover, splash illustration, or colored character art.
+Current identity uses:
 
-IDENTITY — ABSOLUTE
+- short-to-medium shaggy layered dark hair
+- asymmetrical face-framing strands
+- irregular tousled silhouette
+- no long hair
+- no mid-back hair
+
+Any old instruction conflicting with `canon.md` is invalid.
+
+---
+
+## Beauty-Mark Rule — ABSOLUTE
+
+Nari has **no beauty mark or mole anywhere on her face**.
+
+Do not add:
+
+- right-side beauty mark
+- left-side beauty mark
+- cheek mole
+- mole near mouth/chin
+- identity freckles/facial dots
+
+---
+
+## Future Regeneration Attachments
+
+If the canonical must be deliberately regenerated, use:
+
+1. the current `nari-canonical.webp` as the primary identity source
+2. `manga/02-references/characters/nari/canon.md` as semantic identity authority
+3. only additional visual references explicitly approved for that regeneration
+
+Do **not** automatically attach Style A/B. They previously caused unwanted visual averaging/drift and are not needed to preserve Nari's identity.
+
+---
+
+## Identity Features That Must Survive
+
+The replacement must preserve the same woman as the current canonical:
+
 - Korean woman, age 30
-- approximately 165 cm tall
-- natural slim-average adult build
-- mature but approachable adult face
-- expressive eyes and natural brows
-- slightly tired resting expression when overworked
-- grounded, practical, observant, dry-humored visual presence
-- attractive in a believable ordinary-adult way, NOT model/glamour styling
+- mature adult facial proportions
+- narrow almond-shaped expressive eyes
+- strong slightly angular brows
+- small straight nose
+- defined natural lips
+- clean jaw/chin structure
+- cool, intelligent, grounded expression
+- short-to-medium shaggy layered dark hair
+- asymmetrical face-framing pieces
+- irregular textured silhouette
+- **no beauty mark/mole**
 
-HAIR — LOCK
-- dark hair rendered through black ink/tone, not color identity
-- approximately mid-back length
-- restrained natural wave toward ends
-- normally loose
-- include one small secondary view showing a simple low tie for focused work/home tasks
-- SAME length/shape/volume across all views
-- no short haircut, high ponytail, elaborate braid, fantasy hairstyle, or legacy signature scrunchie
+Do not soften her into a generic office-worker face.
 
-FACE / ACCESSORIES
-- no permanent glasses
-- no flashy jewelry
-- no color-dependent signature accessory
-- do not import retired Manhwa facial/accessory design by default
+Do not make her younger, rounder, cuter, or more conventionally generic.
 
-BODY / ANATOMY
-- clearly adult proportions
-- natural shoulders, waist, hips, arms, legs
-- no exaggerated curves
-- no fashion-illustration elongation
-- hands and feet must be readable and anatomically coherent
+---
 
-PRIMARY WORK OUTFIT
-A practical publishing-company editor outfit:
-- simple blouse OR modest knit top
-- understated cardigan or simple practical jacket
+## Story-World Transfer Limit
+
+The identity source may contain incidental cyberpunk elements. They are not part of Nari's story canon.
+
+Do not transfer:
+
+- headphones
+- techwear/hoodie styling
+- gamer/hacker patches
+- neon lighting
+- glowing circuitry/tattoos
+- futuristic environment
+- poster composition
+- source-image text/logos
+
+Story wardrobe remains:
+
+### Work
+
+- simple blouse
+- understated cardigan
 - straight-cut slacks
-- simple practical shoes
-- no logos, brands, slogans, lanyard text, cyber/tech styling, glamorous heels, or shiny fabrics
+- practical dark shoes
 
-PRIMARY HOME OUTFIT
-Show a smaller secondary full-body or clear outfit inset:
-- loose T-shirt or comfortable long-sleeve top
+### Home
+
+- loose comfortable top
 - relaxed lounge pants
-- ordinary at-home presentation
-- no fan-service or sleepwear glamour
 
-REQUIRED MODEL-SHEET CONTENT
-A. Full-body turnaround in the SAME primary work outfit, complete head-to-feet: front, 3/4 left, left profile, back, 3/4 right.
-B. Larger head/shoulder identity angles: front, 3/4, profile, rear hair construction.
-C. Expression set: neutral/composed, editorial focus, dry amusement, tired annoyance, skeptical, mild embarrassment, self-doubt/trying to remember, concerned, alert/guarded, grounded fear.
-D. Hand/action detail insets: holding/marking a manuscript or proof, holding phone, gripping/moving a dining-chair back, relaxed hand.
-E. One home-outfit full-body/inset and one simple low-tie hair variation. These are the same woman, not alternate identities.
+---
 
-MANGA STYLE
-Follow both attached approved series manga style references:
-- black-and-white ink only
-- natural human-drawn line variation
-- selective screentone/hatching
-- finished published-manga inks, not rough construction sketch
-- clean white background for model-sheet readability
-- no glossy highlights
+## Rendering Direction
+
+For any future full model sheet or reference rebuild:
+
+- finished 2D manga drawing
+- clean ink linework
+- black-and-white preferred for production sheet
+- restrained screentone/hatching
+- clean neutral background
 - no cinematic lighting
-- no painterly grayscale
-- no 3D/CG
+- no glossy/painterly rendering
 - no photorealism
+- no CGI/3D
 
-COMPOSITION
-- one clean unified production atlas
-- plain white/light paper background
-- enough whitespace to compare silhouettes
-- zero readable text preferred
-- no speech balloons, SFX, captions, labels, watermarks, signatures, fake UI, or story background
+However, **identity accuracy outranks creating a large multi-view atlas**. If a large sheet causes the face to drift, reject it and keep the tight canonical identity reference.
 
-AUTOMATIC REJECT IF
-- she looks younger than a believable 30-year-old adult
-- face/hair/body changes between angles
-- hair becomes short or changes length
-- glasses appear as permanent design
-- Style B's generic woman is copied as Nari rather than following Nari canon
-- legacy colored-Manhwa accessory styling appears
-- workwear reads as tech/game/cyber office costume
-- home outfit is sexualized/glamorous
-- hands/feet are cropped or malformed in full-body views
-- any color/glossy/cinematic/photoreal/3D/painterly rendering appears
+---
 
-FINAL GOAL
-A stable reusable black-and-white manga PNG review candidate for Nari. After approval and manual conversion to WebP, it becomes the identity authority supporting ordinary publishing-office scenes, home life, subtle comedy, skeptical investigation, and later supernatural tension.
-```
+## Automatic Reject
+
+Reject any proposed replacement if:
+
+- face no longer clearly matches the current `nari-canonical.webp`
+- eye/brow structure becomes softer or generic
+- beauty mark/mole appears
+- hair becomes long, mid-back, smooth bob, or generic short office hair
+- she looks teen-coded
+- cyberpunk wardrobe becomes story canon
+- output prioritizes style over exact identity
+
+---
 
 ## Approval Gate
 
-Current approved authority:
+Current approved authority remains:
 
 `manga/02-references/approved-webp/nari-canonical.webp`
 
-Do not replace it unless a deliberate regeneration passes the same identity/style/continuity audit and the replacement is explicitly approved.
+Replacement requires explicit user visual approval before becoming canon.
