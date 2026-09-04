@@ -1,497 +1,495 @@
-# Yoon Nari — Full Manga Character Reference Sheet Generation
+# Yoon Nari - Strict Source-Match Manga Reference Generation
 
 ## Status
 
-**READY FOR FULL REFERENCE-SHEET REGENERATION.**
+**READY FOR BLACK-AND-WHITE REFERENCE-SHEET GENERATION.**
 
-This file generates a complete reusable **Nari manga character model sheet / production atlas**.
+Generate one reusable character model sheet for Yoon Nari.
 
-It must NOT generate only a portrait, bust, headshot, splash image, cover image, or single character illustration.
+The attached color image controls Nari's visible design. Reproduce the foreground woman accurately, then translate her into clean black-and-white printed manga. Do not recreate the source image as a cover or scene.
 
-Active face/hair identity source:
-
-`manga/02-references/approved-webp/nari-canonical.webp`
-
-Semantic identity authority:
-
-`manga/02-references/characters/nari/canon.md`
-
-The existing `nari-canonical.webp` remains canonical until the new full sheet is visually reviewed and explicitly approved.
+This prompt is intentionally self-contained. Do not combine it with older Nari generation prompts or previous simplified model sheets.
 
 ---
 
-## Exact Generation Attachments
+## Exact Attachments
 
 Attach exactly:
 
-1. `manga/02-references/characters/nari/nari-reference-generation-prompt.md`
-2. `manga/02-references/approved-webp/nari-canonical.webp`
-3. `manga/02-references/characters/nari/canon.md`
+1. this `nari-reference-generation-prompt.md`
+2. the user-approved color image showing Nari holding the stickered tablet
 
-Do NOT attach:
+Do not attach:
 
-- `series-manga-style-reference-a.webp`
-- `series-manga-style-reference-b.webp`
-- workplace atlas
-- apartment atlas
-- Page 001 production MD
-- unrelated character references
+- `canon.md`
+- an older Nari portrait or model sheet
+- another character reference
+- the male character reference
+- environment atlases
+- style-reference images
+- cover layouts
+- chapter or page-production files
 
-### Authority order
-
-1. `nari-canonical.webp` — exact face/hair identity source
-2. `canon.md` — semantic age/body/wardrobe/personality authority
-3. this prompt — model-sheet composition and generation authority
-
-Do not average Nari with any generic female design.
+Reason: this generation must not average the approved source woman with an older or generic design.
 
 ---
 
-## Output — ABSOLUTE
+## Authority And Scope
 
-Generate exactly **ONE 1024 × 1536 portrait black-and-white manga character reference sheet**.
+For this reference-sheet generation:
 
-The output must be a **complete production model sheet**, similar in structure to a professional manga character turnaround/reference atlas.
+1. the attached color image controls Nari's face, hair, adult proportions, source outfit, accessories, and overall attitude
+2. this prompt controls the black-and-white conversion, sheet layout, and exclusions
 
-The entire page must contain multiple consistent drawings of the SAME NARI.
+Established project exception:
 
-### A single portrait is NOT acceptable.
+- Nari has no beauty mark, mole, freckle, or decorative facial dot
+- do not reproduce a dark source-image speck near her mouth or chin as an identity mark
 
-### A single bust is NOT acceptable.
+This sheet records Nari's source streetwear design. It does not automatically replace clothing specified by a chapter or page-production prompt.
 
-### A single full-body pose is NOT acceptable.
+Reusable after approval:
 
-### A story-page composition is NOT acceptable.
+- face identity
+- hair construction
+- adult body proportions
+- expression range
 
-The sheet must contain all required sections below on the same page.
+Use only when a page explicitly requests the source streetwear outfit:
+
+- utility jacket
+- hoodie
+- headphones
+- scrunchie
+- stickered tablet
 
 ---
 
-# 1. Nari Identity Lock — ABSOLUTE
+## Output - Absolute
+
+Generate exactly **ONE 1024 x 1536 portrait PNG**.
+
+The image must be a professional **black-and-white 2D manga character model sheet**, not a story page, portrait, cover, poster, or colored illustration.
+
+Use a plain white paper background. Keep every drawing separated and readable. Do not use panel borders, speech balloons, captions, labels, arrows, or decorative typography.
+
+---
+
+# 1. Identity Lock
 
 Nari is:
 
 - Yoon Nari
 - Korean woman
-- age **30**
-- approximately **165 cm**
+- age 30
+- approximately 165 cm tall
 - natural slim-average adult build
-- clearly adult proportions
-- grounded publishing-company editor
+- clearly adult, never teen-coded
+- a grounded publishing-company editor
+- observant, tired, guarded, practical, and quietly cool
 
-She must remain immediately recognizable as the woman in the attached `nari-canonical.webp`.
+She must remain recognizably the same woman in every view and expression.
 
-Do NOT soften, beautify, genericize, or redesign her face.
+Do not make her:
+
+- younger or cuter
+- round-faced
+- wide-eyed
+- glamorous or model-like
+- doll-like or idol-like
+- a generic office heroine
+- a generic romance heroine
+- a cyberpunk action heroine
 
 ---
 
-# 2. Face Identity — MUST MATCH CURRENT CANONICAL
+# 2. Face Lock
 
-Preserve these exact identity traits across EVERY view:
+Match the foreground woman's face from the attached image:
 
-- mature adult facial proportions
-- narrow almond-shaped expressive eyes
-- slightly sharp outer eye shape
-- strong, slightly angular natural brows
+- slim, slightly sharp adult face
+- narrow almond-shaped eyes
+- half-lidded, guarded gaze
+- slightly lifted outer eye corners
+- strong natural brows with a subtle angular shape
 - small straight nose
 - defined natural lips
+- calm, mostly unsmiling mouth
 - clean jawline and chin
-- cool, intelligent, grounded resting expression
-- distinctive adult presence
+- restrained tiredness rather than theatrical sadness
 
-Do not change her into:
+The face construction must not drift between front, three-quarter, profile, and expression views.
 
-- generic office woman
-- generic romance heroine
-- cute/moe woman
-- school-age girl
-- round-faced youthful design
-- doll-like beauty design
-- fashion-model face
+## Facial-Mark Lock
 
-## Beauty-Mark Rule — ABSOLUTE
+- no beauty mark
+- no mole near the mouth or chin
+- no cheek dot
+- no identity freckle
+- no decorative facial marking
 
-Nari has **NO beauty mark, mole, freckle, or identity facial dot anywhere on her face**.
+Do not mistake image noise, shadow, or a source-image speck for a permanent facial feature.
 
-Absolutely do not generate:
+## Ear Jewelry
 
-- right-side beauty mark
-- left-side beauty mark
-- cheek mole
-- mole near mouth
-- mole near chin
-- beauty spot
-- facial freckles used as identity marks
-
-Any facial mark of this kind = **AUTOMATIC REJECT**.
+Preserve only small, simple hoop/stud ear jewelry suggested by the source. Keep its design and placement consistent between views. No dangling, ornate, or glamorous earrings.
 
 ---
 
-# 3. Hair Identity — MUST MATCH CURRENT CANONICAL
+# 3. Hair Lock
 
-Current hair canon:
+Match the foreground woman's hair, not the male character behind her.
 
-- dark hair
-- short-to-medium length
-- shaggy layered cut
-- asymmetrical face-framing strands
-- slightly tousled natural styling
-- irregular textured silhouette
-- layered pieces around cheeks/jaw/neck
-- recognizable from front, 3/4, profile, and rear
+Source color read:
 
-Do NOT generate:
+- very dark plum / burgundy-black
+
+Black-and-white manga conversion:
+
+- dense black or very dark screentone
+- a few controlled white strand highlights
+- no colored tint
+- no glossy shine
+
+Construction:
+
+- short-to-medium shaggy layered cut
+- compact chin-to-nape length
+- heavy asymmetrical side-swept fringe
+- irregular face-framing strands
+- textured crown and nape
+- slightly messy, lived-in silhouette
+- no perfectly smooth edge
+
+Never generate:
 
 - long hair
-- mid-back hair
-- shoulder-length smooth lob
-- generic bob
+- shoulder-length lob
+- smooth generic bob
 - blunt bob
-- high ponytail
-- long ponytail
-- elaborate braid
-- fantasy hairstyle
+- ponytail
+- topknot
+- hair bun
+- braid
+- the male character's tied-back hairstyle
 
-The silhouette must stay distinctive and slightly irregular rather than neat and generic.
+The rear-hair view must describe Nari's own short layered nape. It must not inherit the man's bun visible behind her in the source.
 
 ---
 
-# 4. Required Full-Body Turnaround — PRIMARY WORK OUTFIT
+# 4. Source Outfit Lock
 
-At the TOP portion of the sheet, show **five full-body turnaround views** of Nari wearing the exact same primary work outfit.
+Use one unchanged outfit construction for every main full-body view.
 
-Required views:
+## Outer Jacket
+
+- oversized olive utility jacket translated to medium-dark screentone
+- boxy, slightly cropped silhouette ending around the upper hip
+- front zipper
+- structured seams
+- chest utility pockets
+- sleeve pocket/panel details
+- natural fabric folds
+- matte cloth only
+
+Keep pocket placement, seams, jacket length, cuffs, and patch positions consistent across views.
+
+## Inner Layer
+
+- dark hoodie under the jacket
+- hood visible around the back and neckline
+- dark casual graphic shirt area may appear beneath it
+- graphics must be abstract shapes only
+- no readable words, brands, logos, or slogans
+
+## Lower Body
+
+- loose dark utility/cargo-style pants
+- relaxed adult fit
+- stable pocket placement
+- practical dark shoes or boots
+- no heels
+- no tight fashion silhouette
+
+## Accessories
+
+- black over-ear headphones resting around the neck
+- yellow scrunchie on Nari's **right wrist**, translated to a distinct light/mid screentone
+- small simple ear jewelry
+- dark stickered tablet used in one pose and one prop detail
+
+The headphones and scrunchie must not switch sides, disappear, multiply, or change design between views.
+
+---
+
+# 5. Tablet Continuity Lock
+
+Create one simplified tablet design and repeat it exactly.
+
+Tablet construction:
+
+- dark rectangular body
+- rounded corners
+- one small rear camera near the upper corner
+- matte surface
+- no bright reflection
+- no visible user interface
+
+Fixed sticker map on the outward-facing back:
+
+- small cat-like icon near the upper left
+- lightning-bolt icon near the upper center/right
+- small bug/pixel icon near the lower right
+- one ghost-like icon near the lower left/center
+- two or three smaller abstract sticker shapes filling the remaining space
+
+The sticker count, type, and approximate position must stay the same in every tablet appearance.
+
+Do not generate readable sticker words, fake brands, logos, app UI, or random new stickers between views.
+
+---
+
+# 6. Black-And-White Manga Conversion
+
+The source image is colored. The output is not.
+
+Translate the source colors into a stable monochrome value hierarchy:
+
+- hair: dense black / darkest value
+- hoodie and pants: dark screentone or flat black with readable folds
+- headphones: solid black with minimal white edge lines
+- utility jacket: medium-dark screentone, clearly lighter than hair and hoodie
+- tablet: dark gray/black, separated from the jacket by line and tone
+- scrunchie: light-to-mid screentone so it remains distinct
+- skin: white paper base with very limited hatching
+- eyes: clear ink lines with restrained dark irises
+
+Every character, garment, accessory, and prop must share the same flat hand-drawn manga treatment.
+
+Required finish:
+
+- clean confident black ink
+- natural line-weight variation
+- restrained screentone
+- light hatching only where useful
+- flat graphic shadows
+- clean white background
+- crisp print-ready monochrome separation
+
+Never generate:
+
+- any actual color
+- colorized manga
+- glossy skin, hair, clothing, tablet, or headphones
+- reflective fashion rendering
+- cinematic lighting
+- neon rim light
+- blue electricity
+- bloom or glow
+- bokeh
+- depth of field
+- volumetric light
+- painterly grayscale
+- photorealism
+- CGI or 3D rendering
+- dark atmospheric room background
+- poster or key-art finish
+
+---
+
+# 7. Sheet Layout - Consistency First
+
+Do not overcrowd the `1024 x 1536` page.
+
+Use exactly these four zones:
+
+## Left Column - Three Full-Body Views
+
+Show three same-scale, head-to-feet neutral turnarounds:
 
 1. front
-2. 3/4 left
-3. left profile
-4. back
-5. 3/4 right
+2. left profile
+3. back
 
 Requirements:
 
-- complete head-to-feet drawings
-- feet fully visible
-- same body proportions in every view
-- same face/hair construction
-- same outfit construction
-- neutral standing pose
-- no dramatic action posing
-- no cropped hands/feet
+- identical height and proportions
+- same jacket construction
+- same pocket and patch placement
+- same pants and shoes
+- same short hair silhouette
+- feet and hands fully visible
+- no dramatic pose
+- no foreshortening
+- no cropped body parts
 
-## Primary Work Outfit
+The tablet may appear only in the front full-body pose. Nari holds it naturally against her torso with her right hand while her left hand rests near or inside the jacket pocket. Keep enough of the jacket visible to verify its construction.
 
-Grounded publishing-office clothing only:
+## Upper Right - Four Head Construction Views
 
-- simple blouse
-- understated cardigan
-- straight-cut slacks
-- practical dark loafers or simple office shoes
-- no logos
-- no slogans
-- no techwear
-- no hoodie
-- no headphones
-- no futuristic accessories
-- no glamorous heels
-- no shiny fashion fabrics
-
-This outfit must look believable for a 30-year-old publishing editor.
-
----
-
-# 5. Required Head / Hair Construction Views
-
-Below or beside the turnaround, include **four larger head-and-shoulder identity views**:
+Show:
 
 1. front
-2. 3/4
-3. profile
-4. rear hair construction
+2. three-quarter left
+3. left profile
+4. rear hair view
 
-These views must clearly show:
+Keep the head scale identical. Preserve the same face, fringe, nape, ear jewelry, and adult age read.
 
-- exact eye shape
-- brow shape
-- nose profile
-- lips
-- jaw/chin
-- layered hair construction
-- asymmetrical face-framing strands
-- rear silhouette
+## Middle Right - Six Expressions
 
-No beauty mark/mole in any angle.
-
----
-
-# 6. Required Expression Set
-
-Include at least **10 expression headshots** of the SAME face.
-
-Required expressions:
+Use a clean `2 x 3` expression grid:
 
 1. neutral / composed
 2. editorial focus
 3. slightly tired
 4. dry amusement
-5. tired annoyance
-6. skeptical
-7. mild embarrassment
-8. self-doubt / trying to remember
-9. concerned
-10. alert / guarded
+5. skeptical / annoyed
+6. alert / concerned
 
-Optional if space permits:
+Expressions may move the brows, eyes, and mouth, but may not change face shape, age, hair, nose, jaw, or eye construction.
 
-11. restrained grounded fear
-12. slight surprise
+No chibi, exaggerated comedy, glamour posing, or theatrical fear.
 
-Expression changes must not change face shape, eye construction, nose, lips, or age.
+## Lower Right - Four Detail Studies
 
-Do not make expressions chibi or exaggerated.
+Show:
 
----
+1. tablet back with the fixed sticker map
+2. headphones resting around the neck
+3. right hand and wrist with the scrunchie
+4. right hand marking a manuscript/proof with a pen
 
-# 7. Required Hand / Action Insets
+Hands must be anatomically coherent, adult, and naturally posed. Show five fingers where visible. No extra, missing, fused, or malformed fingers.
 
-Include **four clear hand/action studies**:
-
-1. holding and marking a manuscript/proof with pen
-2. holding a smartphone naturally
-3. gripping the back of a dining chair
-4. relaxed open hand
-
-Requirements:
-
-- anatomically coherent adult hands
-- five fingers where visible
-- no malformed fingers
-- no extra fingers
-- no fused fingers
-- actions must look natural
-
-These are reference insets, not story panels.
+The manuscript must contain only blank lines or abstract blocks. No readable text.
 
 ---
 
-# 8. Required Home / Casual Outfit Reference
+# 8. Source Transfer Boundary
 
-Include **one smaller full-body home-outfit reference** of the same Nari.
+Transfer only Nari's design:
 
-Home outfit:
-
-- loose plain T-shirt or simple long-sleeve top
-- relaxed lounge pants
-- simple slippers or bare feet if composition permits
-- ordinary adult at-home presentation
-- no fan-service
-- no glamorous sleepwear
-- no cyberpunk styling
-
-Keep the SAME short layered hairstyle and SAME face identity.
-
-Do not make the home outfit version look like a different woman.
-
----
-
-# 9. Optional Hair Handling Detail
-
-If space permits, include one small head study showing the same short layered hair:
-
-- tucked behind one ear, OR
-- slightly messier from home/work fatigue
-
-Do NOT lengthen the hair and do NOT invent a ponytail if the current hair length cannot naturally support it.
-
----
-
-# 10. Source-Image Transfer Limit — ABSOLUTE
-
-The attached canonical derives identity from a source that contained cyberpunk elements.
-
-Those elements are NOT part of Nari's story canon.
-
-Do NOT transfer:
-
+- exact mature face
+- exact guarded attitude
+- exact short shaggy hair identity
+- adult slim-average proportions
+- source streetwear silhouette
+- utility jacket
+- hoodie
 - headphones
-- hoodie / techwear jacket
-- hacker/gamer patches
-- neon pink or blue lighting
-- glowing tattoos
-- circuitry
-- futuristic screens
-- cyberpunk city
-- male companion
-- source-image title/logo
-- source-image props
-- cinematic poster mood
+- right-wrist scrunchie
+- stickered tablet
+- small simple ear jewelry
 
-Only Nari's approved face/hair identity is transferred.
+Do not transfer:
 
----
+- the male companion
+- any male hand, arm, shadow, or body behind Nari
+- the male character's mask, muscles, tattoos, circuitry, or hair bun
+- story title or cover typography
+- city skyline
+- apartment background
+- monitors or device screens
+- glowing circuitry
+- blue electricity
+- candle
+- noodle pot
+- book and key
+- phones on the table
+- cyberpunk environment
+- cinematic poster composition
 
-# 11. Manga Rendering Direction
-
-Target: **finished professional black-and-white 2D manga character reference sheet**.
-
-Required:
-
-- clean confident ink linework
-- natural manga line-weight variation
-- crisp anatomy
-- restrained screentone
-- light hatching where useful
-- flat graphic blacks where appropriate
-- clean white paper background
-- clearly 2D hand-drawn manga appearance
-
-Do NOT generate:
-
-- color art
-- cinematic lighting
-- painterly grayscale
-- glossy digital illustration
-- photorealism
-- CGI / 3D
-- bloom
-- bokeh
-- depth-of-field
-- volumetric lighting
-- poster/key-art finish
+This is a clean character atlas on white paper, not a recreation of the source cover.
 
 ---
 
-# 12. Sheet Composition — REQUIRED
+# 9. Reader-Visible Text Lock
 
-Use the portrait page efficiently like a real production atlas.
-
-Recommended arrangement:
-
-### Upper section
-Five work-outfit full-body turnaround views.
-
-### Middle-upper section
-Four larger head/hair construction views.
-
-### Middle-lower section
-Expression grid with at least 10 expressions.
-
-### Bottom section
-Four hand/action insets + one home-outfit full-body reference.
-
-Keep enough whitespace that every drawing is clearly readable.
-
-Do not let any single portrait dominate the entire page.
-
-The page must visually read immediately as a **character model sheet / reference atlas**.
-
----
-
-# 13. Text / Label Rule
-
-Prefer **ZERO reader-visible text inside the generated image**.
+Render zero readable text inside the image.
 
 Do not generate:
 
-- Japanese text
-- Korean text
-- Chinese text
-- English labels
+- English, Korean, Japanese, or Chinese writing
+- labels or headings
 - captions
-- logos
+- speech balloons
+- sound effects
 - signatures
 - watermarks
+- logos
 - fake UI
-- speech balloons
-- SFX
+- readable clothing graphics
+- readable patch text
+- readable sticker text
+- readable manuscript text
 
-The arrangement itself should make each reference area visually understandable without labels.
-
----
-
-# 14. Automatic Rejection Conditions
-
-Reject/regenerate if ANY of the following occurs:
-
-- output is only one portrait
-- output is only one bust/headshot
-- output is only one full-body drawing
-- full turnaround set is missing
-- head/hair construction views are missing
-- expression grid is missing
-- hand/action studies are missing
-- home outfit reference is missing
-- Nari's face does not closely match `nari-canonical.webp`
-- eyes become rounder/softer/generic
-- brows lose their sharper structure
-- face becomes younger/cuter/generic
-- **any beauty mark/mole/facial dot appears**
-- hair becomes long
-- hair becomes a generic smooth bob
-- hair silhouette changes between views
-- body proportions change between views
-- work outfit becomes cyberpunk/technical/glamorous
-- headphones appear
-- source cyberpunk aesthetics leak into the sheet
-- hands/feet are malformed or cropped
-- sheet becomes a manga story page
-- output contains speech balloons
-- output becomes cinematic, glossy, painterly, photoreal, CGI, or 3D
-- output is not one 1024×1536 portrait reference sheet
+All decorative graphics must be simple non-letter shapes.
 
 ---
 
-# 15. Complete Generation Instruction
+# 10. Automatic Rejection Checklist
 
-Create exactly **ONE 1024×1536 portrait BLACK-AND-WHITE FINISHED 2D MANGA CHARACTER MODEL SHEET / PRODUCTION ATLAS for YOON NARI**.
+Reject and regenerate if any of these occur:
 
-Use `nari-canonical.webp` as the exact face/hair identity authority and `canon.md` as semantic authority.
+- Nari does not closely match the foreground woman in the attached image
+- face, eye shape, brows, nose, lips, jaw, or age drift between views
+- a beauty mark, mole, freckle, or facial dot appears
+- hair becomes long, smooth, symmetrical, tied back, or gains a bun
+- the male companion or any male feature appears
+- full-body views use different proportions or clothing construction
+- jacket pockets, seams, cuffs, patches, or length move between views
+- headphones or scrunchie disappear, multiply, or switch sides
+- tablet shape or sticker map changes between appearances
+- hands or feet are cropped or malformed
+- sheet is crowded, illegible, or dominated by one large portrait
+- any required layout zone is missing
+- readable text appears anywhere
+- actual color appears
+- rendering becomes glossy, reflective, cinematic, neon, painterly, photorealistic, CGI, or 3D
+- background becomes a room, city, cover, poster, or story scene
+- output is not one `1024 x 1536` portrait model sheet
 
-This MUST be a complete multi-view reference sheet, NOT a portrait.
+---
 
-Include on the same sheet:
+# 11. Final Generation Command
 
-- five full-body work-outfit turnaround views: front, 3/4 left, profile, back, 3/4 right
-- four larger head/hair construction views: front, 3/4, profile, rear
-- at least ten facial expressions
-- four hand/action studies: manuscript + pen, smartphone, chair grip, relaxed hand
-- one full-body casual/home outfit reference
+Create exactly one `1024 x 1536` portrait PNG character reference sheet for Yoon Nari.
 
-Keep Nari's exact distinctive mature face, narrow almond-shaped eyes, angular brows, small straight nose, defined lips, clean jaw/chin, and short-to-medium shaggy layered dark hair with asymmetrical strands.
+Use the attached color image as the strict visual source for the foreground woman. Preserve her mature narrow face, almond-shaped half-lidded eyes, angular brows, defined lips, short shaggy plum-black hair, adult proportions, guarded tired attitude, oversized utility jacket, dark hoodie, loose dark pants, black headphones, right-wrist scrunchie, simple ear jewelry, and fixed stickered tablet.
 
-**Nari has no beauty mark or mole anywhere on her face. Do not add one on either side.**
+Convert the design into finished black-and-white printed manga only: black ink, white paper, controlled screentone, light hatching, and flat graphic shadows.
 
-Do not genericize her into a default office woman.
+Use exactly:
 
-Do not copy headphones, techwear, neon, circuitry, cyberpunk setting, male companion, title graphics, or cinematic poster mood from the source identity image.
+- three same-scale full-body views: front, left profile, back
+- four same-scale head construction views: front, three-quarter left, left profile, rear hair
+- six expression heads in a `2 x 3` grid
+- four detail studies: tablet, headphones, right-wrist scrunchie hand, manuscript-and-pen hand
 
-Use grounded publishing-office work clothing and simple home clothing.
+Do not render labels, captions, speech, sound effects, logos, signatures, watermarks, fake UI, or any readable text.
 
-Render as a clean professional black-and-white manga reference atlas on a plain white background, with no readable text, labels, speech balloons, SFX, logos, signatures, or watermarks.
+Do not include the male companion, source background, title, neon effects, cinematic lighting, glossy surfaces, actual color, painterly rendering, photorealism, CGI, or 3D effects.
 
-A single portrait/headshot is an automatic failure.
-
-Output conceptually as:
+Conceptual output filename:
 
 `nari-canonical-reference-sheet.png`
-
-This PNG is a review candidate only. The existing canonical WebP remains active until the user visually approves the generated full sheet and explicitly replaces it.
 
 ---
 
 ## Approval Gate
 
-Do not replace:
+The generated PNG is a review candidate only.
 
-`manga/02-references/approved-webp/nari-canonical.webp`
+Do not replace or promote any approved WebP until the user confirms that the candidate:
 
-until the user confirms that the generated full reference sheet:
+- matches the attached woman closely in every view
+- preserves the no-beauty-mark rule
+- preserves the exact short hair silhouette without inheriting the man's bun
+- keeps face, body, outfit, accessories, and tablet consistent
+- contains every required sheet zone
+- uses black-and-white printed manga rendering only
+- contains no readable text
+- contains no glossy, cinematic, neon, painterly, photorealistic, CGI, or 3D treatment
 
-- matches the approved female identity
-- preserves the exact face
-- preserves the short layered hair
-- contains no beauty mark/mole
-- contains all required reference-sheet sections
-- does not genericize Nari
-
-Only then may the exact approved PNG be converted to WebP and promoted as the new canonical visual authority.
+Only the exact user-approved PNG may be manually converted to WebP and promoted as a new visual authority.
