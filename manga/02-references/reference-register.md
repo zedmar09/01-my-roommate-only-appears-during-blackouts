@@ -18,36 +18,47 @@ See:
 
 | Type | ID | Canon MD | Final Approved WebP | Status | Story-Page Role |
 |---|---|---|---|---|---|
-| STYLE | `series-manga-style-a` | `manga/01-style/manga-style-lock.md` | `manga/02-references/approved-webp/series-manga-style-reference-a.webp` | APPROVED | Reference-development asset; not a default Chapter 001 story-page attachment. |
-| STYLE | `series-manga-style-b` | `manga/01-style/manga-style-lock.md` | `manga/02-references/approved-webp/series-manga-style-reference-b.webp` | APPROVED | Reference-development asset; not a default Chapter 001 story-page attachment. |
-| CHARACTER | `nari` | `manga/02-references/characters/nari/canon.md` | `manga/02-references/approved-webp/nari-canonical.webp` | APPROVED | **Revised distinctive identity**: sharper adult face, short layered dark hair, age read and proportions. Story wardrobe remains semantic/page authority. |
+| STYLE | `series-manga-style-a` | `manga/01-style/manga-style-lock.md` | `manga/02-references/approved-webp/series-manga-style-reference-a.webp` | APPROVED | Reference-development only; not a default Chapter 001 story-page attachment. |
+| STYLE | `series-manga-style-b` | `manga/01-style/manga-style-lock.md` | `manga/02-references/approved-webp/series-manga-style-reference-b.webp` | APPROVED | Reference-development only; not a default Chapter 001 story-page attachment. |
+| CHARACTER | `nari` | `manga/02-references/characters/nari/canon.md` | `manga/02-references/approved-webp/nari-canonical.webp` | APPROVED | **Exact identity crop**: face, eyes/brows, nose/lips/jaw, shaggy short layered hair, age read; no beauty mark/mole. Story wardrobe is semantic/page authority. |
 | ENVIRONMENT | `nari-apartment` | `manga/02-references/environments/nari-apartment/canon.md` | `manga/02-references/approved-webp/nari-apartment-master-atlas.webp` | APPROVED | Attach when apartment/common-route geometry is visible. |
 | ENVIRONMENT | `nari-workplace` | `manga/02-references/environments/nari-workplace/canon.md` | `manga/02-references/approved-webp/nari-workplace-master-atlas.webp` | APPROVED | Attach when publishing-workplace geometry is visible. |
 
-## Nari Visual Revision — Active
+## Nari Visual Revision — Exact Identity Lock Active
 
-`nari-canonical.webp` now uses the newer distinctive Nari identity reference.
+`nari-canonical.webp` now uses a tight crop derived directly from the approved female source instead of a generated genericized model sheet.
 
-Locked from the revised visual:
+The unwanted facial beauty mark has been removed from the canonical asset.
 
-- sharper mature adult face
-- expressive grounded eyes
-- short-to-medium layered dark hair
-- age read and proportions
-- core recognizability
+### Locked identity
 
-Not transferred into story canon:
+- mature adult face
+- narrow almond-shaped expressive eyes
+- strong slightly angular brows
+- small straight nose
+- defined natural lips
+- clean jaw/chin structure
+- short-to-medium shaggy layered dark hair
+- asymmetrical face-framing strands
+- irregular tousled silhouette
+- age read: 30
+- **no beauty mark/mole anywhere on face**
+
+### Explicitly NOT transferred into story canon
 
 - headphones
-- techwear/cyberpunk wardrobe
+- hoodie/techwear wardrobe
 - neon lighting
+- cyberpunk background
 - glowing circuitry/tattoos
 - hacker/gamer worldbuilding
 - cinematic poster mood
-- source-image environment
-- source-image title/graphic treatment
+- source-image props
+- source-image color palette
 
-Story pages continue to use Nari's grounded semantic work/home wardrobe and the exact page-production MD.
+The current canonical is an **identity authority only**.
+
+Story pages must not soften or genericize Nari into a default office-woman face.
 
 ## Approval Does Not Mean Automatic Attachment
 
@@ -57,7 +68,7 @@ For actual generation, follow:
 
 `manga/02-references/generation-attachment-map.md`
 
-For Chapter 001 story pages, the default is to omit Style A/B unless an exact page-production MD explicitly opts them in.
+For Chapter 001 story pages, Style A/B are omitted by default unless a page-production MD explicitly opts them in.
 
 ## Optional Page-Local Layout References
 
@@ -65,7 +76,7 @@ Page-local layout references are optional troubleshooting authorities only. They
 
 ## Chapter 001 Reference Gate
 
-**CORE REUSABLE REFERENCE SET COMPLETE — REVISED NARI IDENTITY ACTIVE.**
+**CORE REUSABLE REFERENCE SET COMPLETE — EXACT NARI IDENTITY LOCK ACTIVE.**
 
 No reusable Hyejin reference is required for Chapter 001. The downstairs neighbor is chapter-local and should be preserved through adjacent-page continuity rather than a full canonical atlas.
 
@@ -83,10 +94,10 @@ No reusable Hyejin reference is required for Chapter 001. The downstairs neighbo
 
 ## Status Values
 
-- `PLANNED` — required concept/package not complete
-- `TEXT APPROVED` — semantic package approved, visual not yet final
-- `VISUAL REVIEW` — candidate image exists but is not yet canonical
-- `APPROVED` — safe reusable WebP authority
-- `RETIRED` — must not be used for new production
+- `PLANNED`
+- `TEXT APPROVED`
+- `VISUAL REVIEW`
+- `APPROVED`
+- `RETIRED`
 
 Only `APPROVED` reusable WebPs may be required as canonical visual authorities.
