@@ -2,7 +2,7 @@
 
 ## Current Audit Result
 
-**PASS — CORE CHAPTER 001 REFERENCES ARE APPROVED; REVISED NARI IDENTITY IS ACTIVE.**
+**PASS — CORE CHAPTER 001 REFERENCES APPROVED; EXACT NARI IDENTITY LOCK ACTIVE.**
 
 Approved reusable WebPs:
 
@@ -12,11 +12,11 @@ Approved reusable WebPs:
 - `manga/02-references/approved-webp/nari-apartment-master-atlas.webp`
 - `manga/02-references/approved-webp/nari-workplace-master-atlas.webp`
 
-Reference approval does **not** mean every approved WebP should be attached to every generation.
+Approval does **not** mean every WebP is attached to every generation.
 
 ---
 
-## Nari Reference Revision — Active
+## Nari Reference Audit — Exact Identity Crop
 
 Active identity reference:
 
@@ -24,26 +24,38 @@ Active identity reference:
 
 Status: **APPROVED**
 
-The revised Nari canonical locks:
+The current canonical was replaced with a tight identity crop directly reflecting the approved female source instead of a genericized generated model sheet.
 
-- distinctive mature adult face
-- expressive grounded eyes
-- short-to-medium layered dark hair
-- age read
-- proportions
-- visual recognizability
+The unwanted facial beauty mark was removed.
 
-Production must **not** inherit these incidental source-image elements:
+### Production must preserve
 
-- headphones as a default story accessory
-- techwear/cyberpunk wardrobe
-- neon lighting
-- glowing tattoos/circuitry
-- hacker/gamer worldbuilding
-- cinematic poster presentation
-- source-image environment/title treatment
+- narrow almond-shaped eyes
+- strong slightly angular brows
+- mature sharper face structure
+- small straight nose
+- defined natural lips
+- clean jaw/chin
+- short-to-medium shaggy layered dark hair
+- asymmetrical face-framing strands
+- irregular tousled silhouette
+- adult age read: 30
+- **no beauty mark/mole/facial dot anywhere**
 
-Nari remains a grounded publishing-company editor and final pages remain finished 2D black-and-white manga.
+### Production must NOT
+
+- soften Nari into a generic office-woman face
+- round/cute-ify her features
+- make her teen-coded
+- add a beauty mark or mole
+- convert her hair into a smooth bob or long hair
+- inherit headphones
+- inherit techwear/cyberpunk clothing
+- inherit neon/cinematic lighting
+- inherit glowing tattoos/circuitry
+- inherit source background or poster mood
+
+Nari remains a grounded publishing-company editor rendered as finished 2D black-and-white manga.
 
 ---
 
@@ -53,30 +65,30 @@ Before generation, use:
 
 `manga/02-references/generation-attachment-map.md`
 
-For Chapter 001 final story pages:
+For Chapter 001 final pages:
 
 - Style A/B are **not default attachments**
-- Nari canonical is attached when Nari is visible
-- apartment/workplace atlas is attached when that canonical environment is visible
+- Nari canonical is attached whenever Nari is visible
+- apartment/workplace atlas is attached when its canonical environment is visible
 - previous approved page is used only for local seam continuity when needed
-- layout-reference generation is optional troubleshooting, not a normal prerequisite
+- layout-reference generation is optional troubleshooting only
 
 ---
 
 ## Final Story-Page Quality
 
-The final page target is **finished 2D hand-drawn black-and-white manga**, not sketch quality.
+Target: **finished 2D hand-drawn black-and-white manga**.
 
 Required:
 
 - clean finished ink
-- screentone
-- hatching where useful
+- natural line variation
+- screentone/hatching where useful
 - flat graphic solid blacks where appropriate
 - clean panel/balloon integration
 - refined anatomy/hands
 
-Reject cinematic/movie-still, glossy, painterly, photoreal or 3D output.
+Reject cinematic/movie-still, glossy, painterly, photoreal, CGI or 3D output.
 
 ---
 
@@ -105,10 +117,20 @@ Use:
 Attach exactly:
 
 1. `page-001-production.md`
-2. revised `nari-canonical.webp`
+2. current exact-identity `nari-canonical.webp`
 3. `nari-workplace-master-atlas.webp`
 
 Do not attach Style A/B or a layout-reference image.
+
+### Page 001 identity QA
+
+Reject Page 001 immediately if:
+
+- Nari looks genericized/softened
+- canonical eye/brow/face/hair identity is lost
+- any beauty mark/mole appears
+- hair becomes a smooth bob or long hair
+- source cyberpunk accessories/style leak into the story page
 
 ---
 
@@ -130,12 +152,12 @@ Do not generate solely for Chapter 001:
 
 ## PNG → WebP Rule
 
-All generated visual authorities still follow:
+Generated final page authorities follow:
 
 1. generate PNG review candidate
 2. visually review
-3. user manually converts exact accepted PNG to WebP
-4. commit approved WebP to its documented location
-5. downstream production uses only the approved WebP
+3. manually convert exact accepted PNG to WebP
+4. commit approved WebP
+5. downstream production uses only approved WebP
 
-Current audit status: **READY FOR DIRECT PAGE PRODUCTION WITH REVISED NARI CANONICAL.**
+Current audit status: **READY FOR DIRECT PAGE PRODUCTION WITH EXACT NARI IDENTITY CANONICAL.**
